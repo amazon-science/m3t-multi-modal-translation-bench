@@ -1,0 +1,413 @@
+{
+    "file": "df7a76750923a0d62780e370bb5720d423917536efd98d14d8787fde8c0a8ca6.png",
+    "annotations": [
+        {
+            "bbox": [
+                284.68592927605454,
+                184.82039767908145,
+                813.3883693601559,
+                841.8522333235593
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "une deuxième zone précurseur (16, 116, 316) espacée de la première, le deuxième gaz pré-curseur étant différent du premier ; guidage d'un substrat flexible (12, 112, 312) se-lon un mouvement de navette entre les première et deuxième zones précurseurs, en passant par une série de passages d'étranglement (54, 56, 154, 156, 354, 356) d'une zone d'isolation (20, 120, 320) interposée entre les première et deuxième zones précurseurs, de façon à ce que le substrat traverse les première et deuxième zones précurseurs plusieurs fois, qu'une mono-couche du premier gaz précurseur adsorbe à la surface du substrat pendant le transit du subs-trat dans la première zone précurseur et que, pendant un transit ultérieur du substrat dans la deuxième zone précurseur, le deuxième gaz précurseur réagisse avec le premier précurseur adsorbé à la surface du substrat afin de déposer un film mince sur le substrat;",
+            "uuid": "1a8bfcca-6ac7-4577-8bba-e231d43fc8ec",
+            "vertical": false,
+            "translation": "a second precursor zone (16, 116, 316) spaced from the first, the second pre-cursor gas being different from the first; guiding a flexible substrate (12, 112, 312) in a shuttle motion between the first and second precursor zones, through a series of throttle passages (54, 56, 154, 156, 354, 356 ) of an insulation zone (20, 120, 320) interposed between the first and second precursor zones, so that the substrate passes through the first and second precursor zones several times, than a single layer of the first gas precursor adsorbs on the surface of the substrate during the transit of the substrate in the first precursor zone and that, during a subsequent transit of the substrate in the second precursor zone, the second precursor gas reacts with the first precursor adsorbed on the surface of the substrate in order to depositing a thin film on the substrate;"
+        },
+        {
+            "bbox": [
+                285.997846000829,
+                847.3506839314559,
+                810.7645359106072,
+                910.3226867206292
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "introduction d'un gaz inerte dans la zone d'isolation ; et",
+            "uuid": "f30f1609-e8a4-4e1c-ab1e-e14697f9eb7d",
+            "vertical": false,
+            "translation": "introduction of an inert gas into the insulation zone; and"
+        },
+        {
+            "bbox": [
+                282.31077764444234,
+                911.6346034454037,
+                814.7002860849303,
+                1339.3194557218728
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "création d'un premier différentiel de pression en-tre la zone d'isolation et la première zone pré-curseur et d'un deuxième différentiel de pres-sion entre la zone d'isolation et la deuxième zo-ne précurseur, les différentiels de pression étant suffisants pour empêcher la migration des pre-mier et deuxième gaz précurseurs hors des pre-mière et deuxième zones précurseurs respecti-ves et le mélange des premier et deuxième gaz précurseurs dans une des zones, ce qui empê-che les réactions à l'intérieur des zones entre les quantités non-adsorbées des premier et deuxième gaz précurseurs.",
+            "uuid": "f24990c9-78be-4b77-94bf-6793e4fc3c75",
+            "vertical": false,
+            "translation": "creation of a first pressure differential between the isolation zone and the first precursor zone and of a second pressure differential between the isolation zone and the second precursor zone, the pressure differentials being sufficient to prevent the migration of the first and second precursor gases out of the respective first and second precursor zones and the mixing of the first and second precursor gases in one of the zones, which prevents reactions within the zones between the non-adsorbed quantities of the first and second precursor gases."
+        },
+        {
+            "bbox": [
+                837.002870406096,
+                323.89591074645233,
+                857.9935380024872,
+                346.1984950676178
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "5",
+            "uuid": "75b3dda7-f208-4070-a68f-08d584fb3ad8",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                836.3761665504511,
+                483.9497511689345,
+                859.3054547272615,
+                510.55958362387213
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "10",
+            "uuid": "6c5b0b28-96c0-4733-80c2-60d7d4c2d0e0",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                836.6880832752255,
+                649.2512584905148,
+                861.9292881768105,
+                675.8715003486467
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "15",
+            "uuid": "fb8d68e5-fce8-4abd-a7a7-ce8893f1b4ce",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                834.379036956547,
+                809.305098912997,
+                861.9292881768105,
+                840.8715003486467
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "20",
+            "uuid": "1018eca5-67af-42c7-b9e2-551cc9b5015b",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                837.002870406096,
+                1139.908113556157,
+                863.2412049015848,
+                1166.559583623872
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "30",
+            "uuid": "0222682d-2dcb-4a52-9a42-4c71c0576058",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                837.002870406096,
+                1302.5857874281883,
+                863.2412049015848,
+                1328.9357501743234
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "35",
+            "uuid": "6c5fab8c-e422-4861-9721-f4f2ff3a11af",
+            "vertical": false,
+            "translation": "35"
+        },
+        {
+            "bbox": [
+                835.6909536813215,
+                1469.199211474543,
+                863.241204901585,
+                1495.4375459700318
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "40",
+            "uuid": "28b9cd4d-a992-4dfd-bad9-66f4a58e60b6",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                835.6909536813215,
+                1629.2530518970252,
+                861.9292881768104,
+                1659.8715003486468
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "45",
+            "uuid": "55d4df5f-3cad-408a-8435-23d8c5154ae8",
+            "vertical": false,
+            "translation": "45"
+        },
+        {
+            "bbox": [
+                837.002870406096,
+                1794.5545592186052,
+                860.617371452036,
+                1820.7928937140944
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "50",
+            "uuid": "d7b9a5dd-9aa7-470a-ae23-317688d8607b",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                834.379036956547,
+                1959.8560665401853,
+                859.3054547272615,
+                1987.8715003486468
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "55",
+            "uuid": "74da3c19-640c-48a6-97c0-19dc06eb1ff9",
+            "vertical": false,
+            "translation": "55"
+        },
+        {
+            "bbox": [
+                927.5251244155327,
+                192.70423826900787,
+                1506.080400041063,
+                322.5839940216778
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "12 à 16, qui suppose également de faire sortir un flux de premier gaz précurseur de la première zone précurseur et de piéger au moins une partie du pre-mier gaz précurseur ainsi évacué.",
+            "uuid": "2ec0d925-7cd6-458b-b348-a748b19a194a",
+            "vertical": false,
+            "translation": "12 to 16, which also assumes removing a flow of first precursor gas from the first precursor zone and trapping at least a portion of the first precursor gas thus evacuated."
+        },
+        {
+            "bbox": [
+                484.09727144177015,
+                125.79648530551123,
+                519.5190230106803,
+                150.72290307622552
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "27",
+            "uuid": "93e28864-9408-4dc4-a805-5c7c788ba30f",
+            "vertical": false,
+            "translation": "27"
+        },
+        {
+            "bbox": [
+                739.921032772787,
+                127.1084020302855,
+                951.1396254614726,
+                154.6586532505489
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EP 2 000 008 B1",
+            "uuid": "3a1c56b3-f402-4ee5-bf17-1e29762fa843",
+            "vertical": false,
+            "translation": "EP 2 000 008 B1"
+        },
+        {
+            "bbox": [
+                1174.1654686731283,
+                127.1084020302855,
+                1209.5872202420383,
+                153.34673652577436
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "28",
+            "uuid": "b05e9417-b410-480f-b4f2-c5feb3e74bef",
+            "vertical": false,
+            "translation": "28"
+        },
+        {
+            "bbox": [
+                835.6909536813215,
+                979.854273133675,
+                861.9292881768104,
+                998.2211072805171
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "25",
+            "uuid": "556589b1-468e-4466-8da9-9775c6e50802",
+            "vertical": false,
+            "translation": "25"
+        },
+        {
+            "bbox": [
+                190.22792509229453,
+                1372.1173738412338,
+                810.7645359106072,
+                1500.6852128691296
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "13. Le procédé de la revendication 12, qui suppose éga lement de guider le substrat dans une troisième zone précurseur (190) dans laquelle un troisième gaz pré curseur différent du deuxième est introduit.",
+            "uuid": "e892d4c9-b91a-4255-be70-9ebde930763f",
+            "vertical": false,
+            "translation": "13. The method of claim 12, which also assumes guiding the substrate into a third precursor zone (190) into which a third precursor gas that is different from the second is introduced."
+        },
+        {
+            "bbox": [
+                195.47559199139232,
+                1533.4831309884905,
+                810.7645359106072,
+                1663.3628867411608
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "14. Le procédé de n'importe laquelle des revendications 12 ou 13, dans lequel la création des différentiels de pression suppose d'injecter le gaz inerte dans les passages.",
+            "uuid": "79d1b24f-4453-45a0-8faf-e5b9cd56c553",
+            "vertical": false,
+            "translation": "14. The method of any of claims 12 or 13, in which the creation of pressure differentials involves injecting inert gas into the passages."
+        },
+        {
+            "bbox": [
+                192.85175854184342,
+                1698.784638310071,
+                809.4526191858325,
+                1860.1503954573275
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "15. Le procédé de n'importe laquelle des revendications 12 à 14, dans lequel le guidage du substrat en na vette entre les première et deuxième zones précur seurs suppose de faire avancer continuellement le substrat sur un trajet de transport ondulé.",
+            "uuid": "7c8add18-96c3-46b9-ba81-e9c9bbba1d42",
+            "vertical": false,
+            "translation": "15. The process of any of claims 12 to 14, in which the guiding of the substrate by shuttle between the first and second precursor zones involves continuously advancing the substrate along an undulating transport path."
+        },
+        {
+            "bbox": [
+                190.22792509229453,
+                1898.1959804757862,
+                810.7645359106072,
+                2026.763819503682
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "16. Le procédé de n'importe laquelle des revendications 12 à 15, qui suppose également d'ajuster une lon gueur d'au moins certains des transits dans la pre mière zone précurseur.",
+            "uuid": "ef17e1b4-b6c0-4cb8-9ab6-8eb09c883972",
+            "vertical": false,
+            "translation": "16. The method of any one of claims 12 to 15, which also assumes adjusting a length of at least some of the transits in the first precursor zone."
+        },
+        {
+            "bbox": [
+                194.16367526661787,
+                2060.8736543478176,
+                810.7645359106072,
+                2092.3596557424044
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "17. Le procédé de n'importe laquelle des revendications",
+            "uuid": "c30fa70c-7eaa-470c-93a7-83216382d144",
+            "vertical": false,
+            "translation": "17. The method of any of the claims"
+        },
+        {
+            "bbox": [
+                884.2318724979759,
+                355.3819121410391,
+                1498.2088996924163,
+                448.5279996000246
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "18. Le procédé de la revendication 17, qui suppose éga lement de recycler le premier gaz précurseur piégé dans la première zone précurseur.",
+            "uuid": "be70c100-47fb-4950-936f-028fd7c9f6e4",
+            "vertical": false,
+            "translation": "18. The method of claim 17, which also involves recycling the first precursor gas trapped in the first precursor area."
+        },
+        {
+            "bbox": [
+                884.2318724979759,
+                487.8855013432579,
+                1498.2088996924163,
+                612.5175901968302
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "19. Le procédé de n'importe laquelle des revendications 12 à 18, qui suppose également de chauffer au moins une des première et deuxième zones précur seurs.",
+            "uuid": "26a0ae8c-dbf8-4693-ab05-348dfe31d46d",
+            "vertical": false,
+            "translation": "19. The method of any of claims 12 to 18, which also involves heating at least one of the first and second precursor zones."
+        },
+        {
+            "bbox": [
+                884.2318724979759,
+                651.8750919400636,
+                1498.2088996924163,
+                742.3973459495003
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "20. Le procédé de n'importe laquelle des revendications 12 à 19, qui suppose également de chauffer le subs trat.",
+            "uuid": "be877da5-ab11-4f56-b00e-9b8a7cfe0081",
+            "vertical": false,
+            "translation": "20. The process of any of claims 12 to 19, which also involves heating the substrate."
+        },
+        {
+            "bbox": [
+                881.6080390484271,
+                781.7548476927336,
+                1499.5208164171906,
+                874.9009351517193
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "21. Le procédé de n'importe laquelle des revendications 12 à 20, qui suppose également d'introduire un ra dical dans au moins une des zones précurseurs.",
+            "uuid": "6c7e0b04-5ed0-4e59-a96d-a7aec40c590e",
+            "vertical": false,
+            "translation": "21. The method of any of claims 12 to 20, which also involves introducing a radical into at least one of the precursor zones."
+        },
+        {
+            "bbox": [
+                881.6080390484271,
+                914.2584368949526,
+                1500.832733141965,
+                1073.0003605926604
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "22. Le procédé de n'importe laquelle des revendications 12 à 21, dans lequel la première zone précurseur, la deuxième zone précurseur et la zone d'isolation fonctionnent aux pressions atmosphériques ap proximativement.",
+            "uuid": "150cbd70-c593-43dd-b6bc-eb4a113f6553",
+            "vertical": false,
+            "translation": "22. The method of any one of claims 12 to 21, in which the first precursor zone, the second precursor zone and the isolation zone operate at atmospheric pressures approximately."
+        },
+        {
+            "bbox": [
+                831.7552035069982,
+                2235.3585787428187,
+                865.8650383511338,
+                2261.596913238308
+            ],
+            "order": "29",
+            "label": "Page-footer",
+            "text": "15",
+            "uuid": "84c4cd1c-a7c7-4574-bbe0-88436bb09f2d",
+            "vertical": false,
+            "translation": "15"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

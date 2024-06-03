@@ -1,0 +1,875 @@
+{
+    "file": "jrc32004D0129.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                118.12194308407497,
+                139.67395962280173,
+                226.75740887383304,
+                161.10826722689995
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "10.2.2004",
+            "uuid": "758724b2-a062-4207-aeb4-69be388dc60e",
+            "vertical": false,
+            "translation": "2004 年 2 月 10 日"
+        },
+        {
+            "bbox": [
+                333.5567822840459,
+                142.76359723823927,
+                360.48613718404226,
+                162.3606784762722
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "03f30140-269d-4a4d-bc4d-6265a55954a9",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.5356923348372,
+                137.21956198150065,
+                1032.0275488395619,
+                167.3873017424827
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "bcde4689-7160-497f-b7b6-1b2cd394b211",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                778.3388667905853,
+                247.2574354381265,
+                875.7123697251872,
+                265.4450485464019
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "5b386d3d-59c1-4ccc-a3ae-4b268c5da8c5",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                1450.8651937255695,
+                137.9519890228934,
+                1535.9047196217887,
+                166.0994854999863
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 37/31",
+            "uuid": "80ce90d8-00fe-4a4c-9b5c-ea6a467ff604",
+            "vertical": false,
+            "translation": "L 37/31"
+        },
+        {
+            "bbox": [
+                584.892916443455,
+                306.095881897313,
+                1069.134157337164,
+                332.08654999908214
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "List of authorisations referred to in Article 2(2)",
+            "uuid": "ea860de6-f60c-47ff-a17c-d093e642c517",
+            "vertical": false,
+            "translation": "第 2(2) 条所述授权清单"
+        },
+        {
+            "bbox": [
+                258.2769947226924,
+                485.5152052492692,
+                524.5103897567474,
+                532.3644775839412
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Alkyldimethylbenzyl ammonium chloride",
+            "uuid": "16f641d0-b0b3-4f11-aca3-6cc97c925f8d",
+            "vertical": false,
+            "translation": "烷基二甲基苄基氯化铵"
+        },
+        {
+            "bbox": [
+                356.8139524249519,
+                382.9367331439423,
+                443.1102942635765,
+                400.39038362156504
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Column A",
+            "uuid": "e4fd4a06-dcf6-4142-85e8-6a94828f9059",
+            "vertical": false,
+            "translation": "A 列"
+        },
+        {
+            "bbox": [
+                331.4146745079098,
+                430.75167910224116,
+                468.8155875772095,
+                447.89912518551995
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Active substance",
+            "uuid": "37670b39-2540-464e-8889-fa6cb7ca3938",
+            "vertical": false,
+            "translation": "活性物质"
+        },
+        {
+            "bbox": [
+                642.7110595703125,
+                382.612617877136,
+                724.9415283203125,
+                399.75454600174044
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Column B",
+            "uuid": "4785f06a-b7d3-4b66-9dc6-37579da76319",
+            "vertical": false,
+            "translation": "B 列"
+        },
+        {
+            "bbox": [
+                627.8638916015625,
+                430.9151129534218,
+                740.6452636718749,
+                448.0570410780262
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Member State",
+            "uuid": "9c0a2316-5b3d-40c5-93fe-31f71ebea881",
+            "vertical": false,
+            "translation": "成员国"
+        },
+        {
+            "bbox": [
+                554.4846191406249,
+                486.0549817542327,
+                630.1480712890625,
+                511.19647633698605
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Belgium",
+            "uuid": "f4f3c646-64c3-4cc1-9f28-ca2cbaef401a",
+            "vertical": false,
+            "translation": "比利时"
+        },
+        {
+            "bbox": [
+                1069.2140760936456,
+                382.9346059385414,
+                1153.9826339234803,
+                399.710297348559
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Column C",
+            "uuid": "4ddabc76-f61e-4002-be3e-5731ef1dace0",
+            "vertical": false,
+            "translation": "C 列"
+        },
+        {
+            "bbox": [
+                1096.528389172148,
+                432.70109377852935,
+                1126.8566954179332,
+                448.34583970023084
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Use",
+            "uuid": "9fc3c37b-a21b-4caf-b13c-5876df9dbd39",
+            "vertical": false,
+            "translation": "使用"
+        },
+        {
+            "bbox": [
+                260.09544561642576,
+                740.9334010134955,
+                393.3889518557921,
+                760.8531677511305
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Hexaflumuron",
+            "uuid": "c1ed9945-9505-4a2b-a626-307200f2a5ec",
+            "vertical": false,
+            "translation": "氟铃脲"
+        },
+        {
+            "bbox": [
+                258.3643611198106,
+                562.0885387821204,
+                381.27136037948594,
+                583.7404591491149
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Cinosulfuron",
+            "uuid": "46d6ff6f-bf59-4827-a244-6b18f4907ff6",
+            "vertical": false,
+            "translation": "醚磺隆"
+        },
+        {
+            "bbox": [
+                257.9315899956568,
+                651.2960543932546,
+                373.48148014471786,
+                677.2783588336482
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Flamprop-M",
+            "uuid": "4352b8ac-94fa-4ac1-8849-b46bda657419",
+            "vertical": false,
+            "translation": "麦草伏-M"
+        },
+        {
+            "bbox": [
+                554.4846191406249,
+                689.6197998406449,
+                642.7110595703125,
+                709.3330171839401
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Denmark",
+            "uuid": "2edf5676-7176-4009-86db-e6b6dfac441c",
+            "vertical": false,
+            "translation": "丹麦"
+        },
+        {
+            "bbox": [
+                553.0570068359374,
+                563.912326926879,
+                605.5931396484375,
+                587.3396286971716
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "eb4322ba-d39d-4de5-8eef-83da83df79f7",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                553.6280517578125,
+                600.7939235656647,
+                596.1708984375,
+                626.2211169504945
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "7c4692ab-98b3-4602-abc4-7340dfb779ad",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                554.1990966796875,
+                653.3625031477849,
+                621.5823974609375,
+                671.0758288765429
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Austria",
+            "uuid": "913db7ec-2d3a-4073-b8bd-ba3dea6019d9",
+            "vertical": false,
+            "translation": "奥地利"
+        },
+        {
+            "bbox": [
+                838.4821866589776,
+                484.7235985565156,
+                1396.0422392475389,
+                531.8790752855317
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Disinfection of mushroom growth chambers and equipment",
+            "uuid": "eee455bf-c326-467b-9e01-351b4f83a833",
+            "vertical": false,
+            "translation": "蘑菇生长室和设备的消毒"
+        },
+        {
+            "bbox": [
+                839.7062482453412,
+                563.1119235086462,
+                878.8762190089724,
+                582.7090047466786
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "0b140ba7-c98c-492c-a92e-8b9924a93fee",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                553.6280517578125,
+                740.9775165347113,
+                632.4322509765625,
+                766.6904087216179
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "d8719047-247b-4ba5-9d83-2cb102bbc73b",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                553.91357421875,
+                780.6896500233782,
+                606.1641845703124,
+                803.5455541895176
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "8e7477b8-c936-4b43-b26f-ce88c212c202",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                553.91357421875,
+                830.6869403868079,
+                616.4429931640625,
+                849.2573625217963
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "France",
+            "uuid": "25942e31-37ef-4351-9d91-aa3ffacb0672",
+            "vertical": false,
+            "translation": "法国"
+        },
+        {
+            "bbox": [
+                258.1909865694219,
+                829.441368951888,
+                383.3318867991213,
+                849.1386120601503
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Methidathion",
+            "uuid": "d2901ed5-a498-464f-89ba-8c7ff62e9225",
+            "vertical": false,
+            "translation": "甲硫磷"
+        },
+        {
+            "bbox": [
+                554.9757133422631,
+                869.6317295952729,
+                641.2485780991884,
+                892.8376832575667
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Germany",
+            "uuid": "836bb885-015a-4a6f-a630-f20eeab9392b",
+            "vertical": false,
+            "translation": "德国"
+        },
+        {
+            "bbox": [
+                554.0480481298232,
+                906.0650768450741,
+                595.5610663865157,
+                931.1275068003515
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "983718eb-dae9-4a3c-a4f6-1ef3876ced5c",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                839.1432097341924,
+                602.304580270869,
+                878.30899647011,
+                620.4921933791444
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "9dd84de4-869e-47ab-904c-e127e467e2ca",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                840.007080078125,
+                651.3619061686908,
+                1396.4903564453125,
+                677.3098872507122
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Spring wheat, Spring barley, Winter wheat, Winter barley",
+            "uuid": "244151d6-10c7-461a-a388-72eb2f93a49f",
+            "vertical": false,
+            "translation": "春小麦、春大麦、冬小麦、冬大麦"
+        },
+        {
+            "bbox": [
+                839.478862432886,
+                689.3617954726888,
+                964.451785916762,
+                714.8162600736811
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Spring barley",
+            "uuid": "9ff7e00d-e141-46c6-9916-c99250e3b43a",
+            "vertical": false,
+            "translation": "春大麦"
+        },
+        {
+            "bbox": [
+                838.8995071444402,
+                742.3534278686531,
+                894.5774992032489,
+                760.0800939993325
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Citrus",
+            "uuid": "32c6b4a2-ebee-4242-bae7-24adaad6544b",
+            "vertical": false,
+            "translation": "柑橘"
+        },
+        {
+            "bbox": [
+                838.6331052685608,
+                780.570333012158,
+                888.3170551200812,
+                797.8971495308673
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Pinus",
+            "uuid": "a3fb2bdb-130d-4f2d-8795-48b98954265b",
+            "vertical": false,
+            "translation": "松属"
+        },
+        {
+            "bbox": [
+                838.5794677734375,
+                904.6083378227848,
+                897.1115722656249,
+                925.1786515723104
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Olives",
+            "uuid": "36198316-a149-4de8-bfea-a18d82f93d9b",
+            "vertical": false,
+            "translation": "橄榄"
+        },
+        {
+            "bbox": [
+                837.7229003906249,
+                829.1838540745254,
+                1072.1368408203125,
+                854.896746261432
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Apple, pear, plum, citrus",
+            "uuid": "f1c761b4-06a7-4c3b-ad6e-c280a88098b3",
+            "vertical": false,
+            "translation": "苹果、梨、李子、柑橘"
+        },
+        {
+            "bbox": [
+                838.864990234375,
+                866.9013861828323,
+                962.78173828125,
+                892.6142783697389
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Oil rape seed",
+            "uuid": "43431277-61f9-45f7-bd3f-d2a75aaa1836",
+            "vertical": false,
+            "translation": "油菜籽"
+        },
+        {
+            "bbox": [
+                554.5412401615272,
+                943.6135421541934,
+                632.3410645320149,
+                969.2312132215296
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "66c4207b-ec4c-4390-b2ae-af48beac95ab",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                554.4998986226524,
+                1009.5161095109748,
+                606.5225160430999,
+                1033.092524891209
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "d15d3f16-de91-4afd-98f1-fff50591873f",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                554.346890924357,
+                1047.4841314253893,
+                618.1511011135531,
+                1065.2439862973563
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Greece",
+            "uuid": "724c7397-e7fd-463a-abca-bfd0a864b89c",
+            "vertical": false,
+            "translation": "希腊"
+        },
+        {
+            "bbox": [
+                837.4599137497861,
+                942.8172889432485,
+                1396.3049092318038,
+                995.3423746278361
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Apple, pear, peach, olives, vines, citrus, mango and custard apple",
+            "uuid": "4d4ff875-55de-4a08-a31a-7e22e8e82e56",
+            "vertical": false,
+            "translation": "苹果、梨、桃、橄榄、葡萄、柑橘、芒果和释迦果"
+        },
+        {
+            "bbox": [
+                837.3191695144493,
+                1008.1476172201069,
+                959.2963953001394,
+                1029.3184563970585
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Citrus, olives",
+            "uuid": "e4d993f8-fa2b-4c0a-9074-597aa4ffa520",
+            "vertical": false,
+            "translation": "柑橘、橄榄"
+        },
+        {
+            "bbox": [
+                839.0767664277878,
+                1045.49833466456,
+                1029.2487524510107,
+                1070.82336151804
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Olives, apples, pears",
+            "uuid": "0f463537-12c6-469a-8016-0c61b8b21ebf",
+            "vertical": false,
+            "translation": "橄榄、苹果、梨"
+        },
+        {
+            "bbox": [
+                838.3737276624524,
+                1098.6105437600531,
+                877.7438985212343,
+                1116.549104447935
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "1ec13ee0-dbc4-4acf-a619-a154ad47228d",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                258.36674626075575,
+                1096.3846269063172,
+                365.5801579744027,
+                1116.7853429827317
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Pretilachlor",
+            "uuid": "4ad6ef6e-9032-444d-b6d5-edff4f391839",
+            "vertical": false,
+            "translation": "丙草胺"
+        },
+        {
+            "bbox": [
+                258.0152268780881,
+                1185.7593445799553,
+                362.0649641477258,
+                1210.3808984652835
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Quinclorac",
+            "uuid": "19455c25-c994-429f-9f01-86c53d25c4c7",
+            "vertical": false,
+            "translation": "二氯喹啉酸"
+        },
+        {
+            "bbox": [
+                837.6588287684832,
+                1136.315939896823,
+                878.4922368270878,
+                1154.8582084311379
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "bdceda69-d874-419d-acd0-e7f5bd5f9db3",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                839.1347350838543,
+                1187.515026553654,
+                878.8202160082815,
+                1205.5650224720134
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "ffe7c546-229a-421c-9bf8-4a71ee5f9991",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                554.2799644329332,
+                1097.8413823938886,
+                615.9697010601969,
+                1116.6382048603464
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "France",
+            "uuid": "4b1cddbf-94e7-4029-9632-8b110c9c9e40",
+            "vertical": false,
+            "translation": "法国"
+        },
+        {
+            "bbox": [
+                554.2799644329332,
+                1187.381271319676,
+                606.9249652389062,
+                1210.819284518593
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "6f9bac38-6a8b-414b-a2a4-0b46908c3558",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                554.0480481298232,
+                1134.703756506269,
+                595.5610663865157,
+                1160.2303055347923
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "5a94776d-9592-430f-abb9-32e1281afe1a",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                257.95562600877525,
+                1350.7987270636493,
+                372.912329017136,
+                1370.0316934765322
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Triadimefon",
+            "uuid": "ecc82ede-1361-49e2-8437-98b702e96abf",
+            "vertical": false,
+            "translation": "三唑酮"
+        },
+        {
+            "bbox": [
+                553.7955549439187,
+                1350.8095586592362,
+                626.127021051944,
+                1370.4580636526302
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Sweden",
+            "uuid": "b83a4e11-8cd8-407c-b89e-c5460698e03a",
+            "vertical": false,
+            "translation": "瑞典"
+        },
+        {
+            "bbox": [
+                554.5412401615272,
+                1225.7057863595262,
+                617.6759219190477,
+                1243.6132845813536
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Greece",
+            "uuid": "ce858a9d-d165-4639-bc84-0a973abad080",
+            "vertical": false,
+            "translation": "希腊"
+        },
+        {
+            "bbox": [
+                553.0498697263101,
+                1262.0321830722494,
+                631.8439410536093,
+                1286.654993127262
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "e488fff0-e281-4d68-b54e-6d88c539244c",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                553.2984314655131,
+                1299.0907557813086,
+                595.0568036515895,
+                1324.957142101726
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "f4cd239a-bcfd-4a6b-996d-0f265340e0dc",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                837.9868079496769,
+                1262.9419331543452,
+                878.9842055988781,
+                1281.8123834326307
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "3c64a56b-711c-463f-8d70-68143a1dd21f",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                838.6427663120639,
+                1224.70875998182,
+                878.8202160082815,
+                1243.74330113209
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "8e25289f-372d-4f72-b660-ea5c2a0c747c",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                838.7104386100385,
+                1301.232017223927,
+                878.6335748132253,
+                1320.0691879432122
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Rice",
+            "uuid": "129a8d9a-b1dc-416c-85c7-693944a4fce3",
+            "vertical": false,
+            "translation": "大米"
+        },
+        {
+            "bbox": [
+                839.0203479424064,
+                1350.1414571423597,
+                1069.2140760936456,
+                1376.9071670325
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Field grown strawberries",
+            "uuid": "c5844985-edc5-4019-bb5e-3fbf300b6229",
+            "vertical": false,
+            "translation": "田间种植的草莓"
+        },
+        {
+            "bbox": [
+                835.2528564833025,
+                1388.0851557222122,
+                1190.9040502226972,
+                1414.60534997636
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Tomatoes and cucumbers under glass",
+            "uuid": "03dff5aa-3a99-4943-bd60-3e6beb82b5f2",
+            "vertical": false,
+            "translation": "玻璃温室种植的西红柿和黄瓜"
+        },
+        {
+            "bbox": [
+                258.5042087709495,
+                370.4634840640009,
+                1393.9342334495047,
+                1428.995601176458
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "8b2ea908-c351-445e-9c1f-5d57807c330b",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

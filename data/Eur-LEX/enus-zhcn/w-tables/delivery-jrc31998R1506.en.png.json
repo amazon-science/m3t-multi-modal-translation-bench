@@ -1,0 +1,539 @@
+{
+    "file": "jrc31998R1506.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                154.57130388629685,
+                157.08043499633143,
+                245.5219551585237,
+                181.05018791782956
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "16. 7. 98",
+            "uuid": "111f7867-7215-40b6-a37c-d5dbad17e259",
+            "vertical": false,
+            "translation": "98 年 7 月 16 日"
+        },
+        {
+            "bbox": [
+                369.17899826756116,
+                159.54461520321448,
+                401.66137372192793,
+                179.25805685827828
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "107aaf91-660d-4fac-a740-5a0e28f0ed95",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                567.5936452730372,
+                151.60371266722407,
+                1095.4056266287582,
+                184.40556600859014
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "f7f7622f-edcd-4aea-9d76-e89977ec088c",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1410.5024215247352,
+                147.62773044402815,
+                1501.950071778457,
+                183.41157045279144
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 200/3",
+            "uuid": "e0c4cb09-6f61-4ae3-ad2f-8dede956cb88",
+            "vertical": false,
+            "translation": "L 200/3"
+        },
+        {
+            "bbox": [
+                767.3996698319189,
+                256.9672415819152,
+                895.6251794268117,
+                291.75708603487925
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX I",
+            "uuid": "d0b60cec-8866-483d-a259-c99f1d23425b",
+            "vertical": false,
+            "translation": "附件一"
+        },
+        {
+            "bbox": [
+                153.11001921452583,
+                330.52291271103894,
+                1496.9928794648742,
+                527.3340327592357
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "8cd78a83-1f36-48da-ad6c-09ae5f6d27dc",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                217.71977211117724,
+                363.32476605240527,
+                305.19143757125903,
+                392.15063717057546
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Serial No",
+            "uuid": "d8699276-8b26-4077-a233-a4c790a67e1c",
+            "vertical": false,
+            "translation": "序列号"
+        },
+        {
+            "bbox": [
+                443.35690915025197,
+                361.33677494080706,
+                530.8285746103338,
+                389.16865050317824
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "CN code",
+            "uuid": "24c5effa-8564-4b3d-b16b-0a771cb628f7",
+            "vertical": false,
+            "translation": "CN 代码"
+        },
+        {
+            "bbox": [
+                734.5977952843881,
+                364.318761608204,
+                919.481088188652,
+                392.15063717057546
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Description of goods",
+            "uuid": "c91a592c-f5db-4bf3-b9be-6af2ae443572",
+            "vertical": false,
+            "translation": "商品描述"
+        },
+        {
+            "bbox": [
+                1078.5204799342555,
+                340.4628682690287,
+                1262.4097766401094,
+                416.006530509751
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Size of autonomous quota (in tonnes)",
+            "uuid": "2c824b22-1da5-4e74-85ea-beeddb869d4f",
+            "vertical": false,
+            "translation": "自主配额的大小（以吨为单位）"
+        },
+        {
+            "bbox": [
+                1315.0915751558405,
+                356.3667971618124,
+                1464.1910049173437,
+                404.07858384016293
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Rate of duty applicable",
+            "uuid": "15e300f3-4b3a-4cdc-90fb-35cd2bd3c7d9",
+            "vertical": false,
+            "translation": "适用税率"
+        },
+        {
+            "bbox": [
+                153.11001921452583,
+                446.8203927395191,
+                230.64172269050746,
+                472.66427719029207
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "09.0201",
+            "uuid": "e05e1227-7de2-49d5-9273-1b68b5dc6deb",
+            "vertical": false,
+            "translation": "09.0201"
+        },
+        {
+            "bbox": [
+                429.30895516055637,
+                451.2523564411827,
+                544.4260741854636,
+                478.0841661387176
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "0802 21 00",
+            "uuid": "80da7bdc-6000-4b7d-ac74-6470ccad9329",
+            "vertical": false,
+            "translation": "0802 21 00"
+        },
+        {
+            "bbox": [
+                600.3932629949559,
+                445.85480549811786,
+                1050.6735408746954,
+                498.53656995546356
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Hazelnuts (Corylus spp.), fresh or dried, in shell or shelled",
+            "uuid": "b0caf3c9-f00e-43f4-8788-73fc34d51bc0",
+            "vertical": false,
+            "translation": "榛子（榛属种类），新鲜或干品，带壳或去壳"
+        },
+        {
+            "bbox": [
+                1137.1512101363674,
+                447.84279660971583,
+                1196.7909820409686,
+                473.6866810604893
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "9 060",
+            "uuid": "1afdfba1-3518-4506-94c6-c592f4518a1b",
+            "vertical": false,
+            "translation": "9 060"
+        },
+        {
+            "bbox": [
+                1358.812362381802,
+                437.9028410517263,
+                1416.4641418895833,
+                477.662663283685
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Free",
+            "uuid": "5256f71b-4f54-4fc7-91c7-65b6266ee2d0",
+            "vertical": false,
+            "translation": "免费"
+        },
+        {
+            "bbox": [
+                763.4189206286537,
+                636.8045238245684,
+                896.6144112155963,
+                668.6123816101355
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "08ddb3d4-e952-4d99-b620-37ac0a7d6f8f",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                148.1310109200281,
+                707.379968093382,
+                1503.9418255512967,
+                1065.2183681810122
+            ],
+            "order": "19",
+            "label": "Table",
+            "text": "",
+            "uuid": "dc3e0958-f022-4603-9f5f-47bb7a5819f8",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                178.94489307073877,
+                744.157803657944,
+                270.3925433244607,
+                769.0076925529182
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Serial No",
+            "uuid": "87dc6eb3-0b3d-48e0-8227-3fd07f9a37eb",
+            "vertical": false,
+            "translation": "序列号"
+        },
+        {
+            "bbox": [
+                336.9902886179321,
+                744.157803657944,
+                419.4919730859639,
+                770.0016881087174
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "CN code",
+            "uuid": "fbd20bf9-bb16-42ad-8ad7-53ac0f9979aa",
+            "vertical": false,
+            "translation": "CN 代码"
+        },
+        {
+            "bbox": [
+                625.249186156838,
+                741.175816990547,
+                807.150490465872,
+                773.9776703319131
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Description of goods",
+            "uuid": "87940e91-2aa5-40f6-8db5-1aab0233a509",
+            "vertical": false,
+            "translation": "商品描述"
+        },
+        {
+            "bbox": [
+                995.0157719653661,
+                720.3019103187687,
+                1249.4787987583313,
+                794.8515770036917
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Size of quota per year or per period indicated (tonnes)",
+            "uuid": "57a5a43b-d1a8-48a9-aab1-64d18bc2d647",
+            "vertical": false,
+            "translation": "每年或每个指定期间的配额规模（吨）"
+        },
+        {
+            "bbox": [
+                1329.992490829543,
+                730.2418658767582,
+                1448.2780384403354,
+                784.9116214457019
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Rate of duty applicable",
+            "uuid": "65cca940-1de0-43e3-970f-62d9b581034d",
+            "vertical": false,
+            "translation": "适用税率"
+        },
+        {
+            "bbox": [
+                152.1069957136682,
+                829.6414214566555,
+                233.6146839832899,
+                855.4853059074287
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "09.0217",
+            "uuid": "373af9cb-dfdd-44ff-b642-a9402ad952e2",
+            "vertical": false,
+            "translation": "09.0217"
+        },
+        {
+            "bbox": [
+                307.16463522240105,
+                832.6234081240524,
+                457.25806118231424,
+                857.4732970190266
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "ex 0807 11 00",
+            "uuid": "7f7c7c7e-7d72-4107-8169-8dabd3e17161",
+            "vertical": false,
+            "translation": "ex 0807 11 00"
+        },
+        {
+            "bbox": [
+                478.1319813489247,
+                824.6714436776606,
+                769.3728674830609,
+                894.251132583589
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Watermelons, fresh: from 16 June to 31 March",
+            "uuid": "cd256952-2280-4df2-a2ea-c3a8cba237e5",
+            "vertical": false,
+            "translation": "新鲜西瓜：6 月 16 日至 3 月 31 日"
+        },
+        {
+            "bbox": [
+                1088.4456471726776,
+                829.6414214566555,
+                1154.049396267739,
+                854.49131035163
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "14 000",
+            "uuid": "14118825-a7dd-4fab-a67f-69b19d4b8353",
+            "vertical": false,
+            "translation": "14000"
+        },
+        {
+            "bbox": [
+                1363.7825941322533,
+                825.6654392334598,
+                1420.4403774416246,
+                854.49131035163
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Free",
+            "uuid": "75a9863e-411f-42c6-bfaa-f6ddaccd2037",
+            "vertical": false,
+            "translation": "免费"
+        },
+        {
+            "bbox": [
+                152.10122827043776,
+                933.0169592597487,
+                236.2930337879675,
+                961.0567406943435
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "09.0207",
+            "uuid": "0a684562-75ac-41df-b1c1-8b4ca6a7d127",
+            "vertical": false,
+            "translation": "09.0207"
+        },
+        {
+            "bbox": [
+                342.6571082498094,
+                934.2249309968086,
+                450.94751136824567,
+                960.1911984460359
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "2002 90 31",
+            "uuid": "b98c6017-f2ff-4ed2-90d0-efa72551f90c",
+            "vertical": false,
+            "translation": "2002 90 31"
+        },
+        {
+            "bbox": [
+                481.24149005901074,
+                934.1663323183731,
+                950.3653886417155,
+                1039.8210852903326
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid, other than whole or in pieces, with a dry matter content of 12 % or more by weight:",
+            "uuid": "0d1436c7-ae3f-4d09-aa96-a339d3819ab7",
+            "vertical": false,
+            "translation": "采用醋或醋酸以外的其他方法制备或保藏的番茄，不包括整粒或片状，且干物质含量按重量计为 12% 或以上："
+        },
+        {
+            "bbox": [
+                980.4168225217342,
+                938.5929952861177,
+                1265.0207610280436,
+                1012.2206989705876
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "30 000 with a dry matter content of 28-30 % by weight",
+            "uuid": "bf2f556c-759e-4c44-bda6-f559e04d24a5",
+            "vertical": false,
+            "translation": "30000，其干物质含量按重量计为 28-30%"
+        },
+        {
+            "bbox": [
+                1367.7585789258937,
+                930.0349725923517,
+                1417.4583888463944,
+                962.8368259337178
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Free",
+            "uuid": "23f37320-f95a-44c2-9f7c-f1af725d6e18",
+            "vertical": false,
+            "translation": "免费"
+        },
+        {
+            "bbox": [
+                428.34082699768345,
+                477.16199492761115,
+                544.2865352801678,
+                500.5257264850062
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "0802 22 00",
+            "uuid": "89caf4ab-305a-4065-8382-1623be041c9a",
+            "vertical": false,
+            "translation": "0802 22 00"
+        },
+        {
+            "bbox": [
+                151.43321623168234,
+                963.5989270493966,
+                235.36406476452544,
+                989.5586287798354
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "09.0209",
+            "uuid": "4b8f2948-4751-4321-b199-118ca76a35e8",
+            "vertical": false,
+            "translation": "09.0209"
+        },
+        {
+            "bbox": [
+                343.5223747295295,
+                960.1376334853378,
+                456.14076485809113,
+                986.157465895263
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "2002 90 39",
+            "uuid": "11662a96-171f-4497-a45b-e40cc1bef93f",
+            "vertical": false,
+            "translation": "2002 90 39"
+        },
+        {
+            "bbox": [
+                344.4858148264141,
+                985.2919236469554,
+                453.54413811316846,
+                1014.7203600894129
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "2002 90 91",
+            "uuid": "51c6e4bf-498c-492e-b4d0-df22f1c03b2a",
+            "vertical": false,
+            "translation": "2002 90 91"
+        },
+        {
+            "bbox": [
+                342.6571082498094,
+                1014.6530071192602,
+                456.0070170931337,
+                1042.3433556317286
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "2002 90 99",
+            "uuid": "bd47694f-3c29-4b8d-a511-58585ac8a10e",
+            "vertical": false,
+            "translation": "2002 90 99"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

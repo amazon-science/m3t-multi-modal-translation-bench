@@ -1,0 +1,637 @@
+{
+    "file": "jrc32005L0042.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                108.88908815627894,
+                117.92498495686446,
+                225.64967666120455,
+                153.34673652577436
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "21.6.2005",
+            "uuid": "ccef2783-1ad5-4d31-a258-7f4dc5b93e78",
+            "vertical": false,
+            "translation": "21.6.2005"
+        },
+        {
+            "bbox": [
+                327.9791811936112,
+                117.92498495686446,
+                358.15326586342354,
+                145.47523617712784
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "6a99d99d-3dc1-4dd1-ba0b-2a7821b1e92b",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                636.2796115156058,
+                117.92498495686446,
+                1000.9924610029016,
+                154.6586532505489
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de la Unión Europea",
+            "uuid": "a1a192cf-61f8-4f58-bf58-878cab0ac67f",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1426.053479829822,
+                116.61306823208992,
+                1533.6306512613264,
+                152.03481980100005
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 158/19",
+            "uuid": "4522ae37-d251-4907-92b9-4bf8ead833c8",
+            "vertical": false,
+            "translation": "L 158/19"
+        },
+        {
+            "bbox": [
+                779.2785345160204,
+                216.3187393149479,
+                863.241204901585,
+                246.4928239847601
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO",
+            "uuid": "5ec07335-6f7a-4282-a52c-b6be17a6d518",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                245.32842753282125,
+                279.29074210412114,
+                1008.8639613515484,
+                308.1529100491591
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Los anexos II, IV y VI de la Directiva 76/768/CEE se modificarán como sigue:",
+            "uuid": "ae1edcdc-7ab7-4034-8052-b4c7f387e76d",
+            "vertical": false,
+            "translation": "Annexes II, IV and VI to Directive 76/768/EEC are amended as follows:"
+        },
+        {
+            "bbox": [
+                341.09834844135577,
+                922.1299372435993,
+                436.86826934989017,
+                989.037690207096
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Referencia Número",
+            "uuid": "a792ceff-3049-4326-b5e9-9c332888de73",
+            "vertical": false,
+            "translation": "Reference Number"
+        },
+        {
+            "bbox": [
+                505.0879390381614,
+                936.5610212161181,
+                594.2982763228237,
+                973.2946895098028
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Sustancia",
+            "uuid": "3759e82d-2d21-4ffe-8f39-75f0eb7dfb1b",
+            "vertical": false,
+            "translation": "Substance"
+        },
+        {
+            "bbox": [
+                642.8391951394781,
+                915.5703536197271,
+                766.1593672682759,
+                992.9734403814194
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Concentración máxima autorizada",
+            "uuid": "94f262fa-639d-4f6b-8b90-fd993effd4d1",
+            "vertical": false,
+            "translation": "Maximum authorized concentration"
+        },
+        {
+            "bbox": [
+                872.424621975006,
+                939.1848546656672,
+                1087.578964838015,
+                968.0470226107049
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Limitaciones y exigencias",
+            "uuid": "001cb19c-8027-43ed-b4d0-f011ada1871a",
+            "vertical": false,
+            "translation": "Limitations and requirements"
+        },
+        {
+            "bbox": [
+                1188.5965526456473,
+                903.763103096757,
+                1386.6959780865884,
+                1003.468774179615
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Condiciones de utilización y advertencias que deben figurar en la etiqueta",
+            "uuid": "e706f5de-4d19-46fe-a6a7-cf09a638b7d3",
+            "vertical": false,
+            "translation": "Conditions of use and warnings to be given on the label"
+        },
+        {
+            "bbox": [
+                369.9605163863935,
+                1024.4594417760059,
+                398.8226843314313,
+                1050.697776271495
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "a",
+            "uuid": "0e41e3c6-6375-42d6-8f56-0745cb62460b",
+            "vertical": false,
+            "translation": "a"
+        },
+        {
+            "bbox": [
+                536.573940432748,
+                1024.4594417760059,
+                560.1884414786881,
+                1050.697776271495
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "b",
+            "uuid": "c8e1d588-9daf-4018-99a8-90528eba4da4",
+            "vertical": false,
+            "translation": "b"
+        },
+        {
+            "bbox": [
+                695.3158641304559,
+                1024.4594417760059,
+                716.3065317268471,
+                1055.9454431705926
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "с",
+            "uuid": "405b032e-db4c-4386-8739-7b53b4837f85",
+            "vertical": false,
+            "translation": "c"
+        },
+        {
+            "bbox": [
+                966.882626158766,
+                1023.1475250512316,
+                998.3686275533528,
+                1050.697776271495
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "d",
+            "uuid": "a7b1878a-b8d5-4ede-ad72-b6718af6fb0d",
+            "vertical": false,
+            "translation": "d"
+        },
+        {
+            "bbox": [
+                1281.7426401046328,
+                1023.1475250512316,
+                1306.6690578753473,
+                1054.6335264458182
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "e",
+            "uuid": "b011e4cb-3b1a-4493-8f99-4b6b424a4ebf",
+            "vertical": true,
+            "translation": "e"
+        },
+        {
+            "bbox": [
+                316.17193067064125,
+                1073.0003605926604,
+                356.84134913864904,
+                1105.7982787120216
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "« 53",
+            "uuid": "4fa8cf70-1a5f-4ade-9c70-34280c3d2926",
+            "vertical": false,
+            "translation": "\"53"
+        },
+        {
+            "bbox": [
+                465.730437294928,
+                1073.0003605926604,
+                620.5366108183125,
+                1132.0366132075105
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Benzethonium Chloride (INCI)",
+            "uuid": "8633d26c-8e80-4f69-bfcf-616baf5c4504",
+            "vertical": false,
+            "translation": "Benzethonium Chloride (INCI)"
+        },
+        {
+            "bbox": [
+                646.7749453138015,
+                1071.688443867886,
+                705.8111979286515,
+                1108.4221121615706
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "0,1 %",
+            "uuid": "dc5908e3-00a4-4c01-9c0d-a21f96b59de4",
+            "vertical": false,
+            "translation": "0.1%"
+        },
+        {
+            "bbox": [
+                784.5262014151182,
+                1070.3765271431116,
+                1054.7810467186537,
+                1105.7982787120216
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "a) Para productos aclarados",
+            "uuid": "81236a38-c720-434a-a476-eb8056a392a5",
+            "vertical": false,
+            "translation": "a) For clarified products"
+        },
+        {
+            "bbox": [
+                784.5262014151182,
+                1116.2936125102171,
+                1174.1654686731283,
+                1172.7060316755185
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "b) Para productos no aclarados salvo los de higiene bucal» >;",
+            "uuid": "a510bc65-8ef2-4b6a-80dc-fab66568e2d8",
+            "vertical": false,
+            "translation": "b) For non-rinsed products except oral hygiene products\" >;"
+        },
+        {
+            "bbox": [
+                306.98851359722016,
+                893.2677692985615,
+                1393.2555617104606,
+                1187.1371156480373
+            ],
+            "order": "15",
+            "label": "Table",
+            "text": "",
+            "uuid": "0a9a9450-ba16-4c9f-aed1-7acd0ca1c7e2",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                345.03409861567906,
+                1336.695622272324,
+                435.5563526251158,
+                1391.7961247128505
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Referencia Número",
+            "uuid": "1b8391c3-78c0-4076-a33d-a975a381365e",
+            "vertical": true,
+            "translation": "Reference Number"
+        },
+        {
+            "bbox": [
+                509.0236892124847,
+                1345.879039345745,
+                592.9863595980493,
+                1377.3650407403318
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Sustancia",
+            "uuid": "21a0341d-b663-4399-ad6d-900db3cfb00b",
+            "vertical": false,
+            "translation": "Substance"
+        },
+        {
+            "bbox": [
+                644.1511118642525,
+                1320.9526215750307,
+                767.4712839930503,
+                1399.6676250614973
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Concentración máxima autorizada",
+            "uuid": "4de8cd3d-67a0-440a-b141-1cfe69839848",
+            "vertical": false,
+            "translation": "Maximum authorized concentration"
+        },
+        {
+            "bbox": [
+                871.1127052502316,
+                1347.1909560705196,
+                1084.955131388466,
+                1377.3650407403318
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Limitaciones y exigencias",
+            "uuid": "024eb56f-4ec3-4451-abdb-65f4d2e48b6b",
+            "vertical": false,
+            "translation": "Limitations and requirements"
+        },
+        {
+            "bbox": [
+                1191.220386095196,
+                1310.4572877768348,
+                1385.384061361814,
+                1414.098709034016
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Condiciones de utilización y advertencias que deben figurar en la etiqueta",
+            "uuid": "ea8ecd6c-f9c5-40ff-84bb-5738f85e9318",
+            "vertical": false,
+            "translation": "Conditions of use and warnings that must appear on the label"
+        },
+        {
+            "bbox": [
+                373.89626656071687,
+                1431.153626456084,
+                394.886934157108,
+                1465.2634613002197
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "a",
+            "uuid": "c6364d04-0c2d-4ccb-9506-0a8e6f3d384d",
+            "vertical": false,
+            "translation": "a"
+        },
+        {
+            "bbox": [
+                536.573940432748,
+                1431.153626456084,
+                565.4361083777859,
+                1460.0157944011216
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "b",
+            "uuid": "d36a1a76-eadc-4d17-85ff-2744aa93c1a1",
+            "vertical": false,
+            "translation": "b"
+        },
+        {
+            "bbox": [
+                692.692030680907,
+                1433.777459905633,
+                717.6184484516215,
+                1458.7038776763475
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "C",
+            "uuid": "438e5991-8f85-4662-ad2f-4681b7fa66cd",
+            "vertical": false,
+            "translation": "c"
+        },
+        {
+            "bbox": [
+                966.882626158766,
+                1425.905959556986,
+                991.8090439294804,
+                1460.0157944011216
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "d",
+            "uuid": "4774e9f4-b493-469c-be33-9e5ce47e942e",
+            "vertical": false,
+            "translation": "d"
+        },
+        {
+            "bbox": [
+                1281.7426401046328,
+                1435.0893766304073,
+                1302.733307701024,
+                1461.3277111258963
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "e",
+            "uuid": "bf542c92-25e3-458b-9e28-0e2664a377ca",
+            "vertical": false,
+            "translation": "e"
+        },
+        {
+            "bbox": [
+                313.54809722109235,
+                1479.6945452727384,
+                355.52943241387464,
+                1512.4924633920996
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "« 57",
+            "uuid": "14ed64c2-362d-4c2d-8c10-fb5898f617dc",
+            "vertical": false,
+            "translation": "\"57"
+        },
+        {
+            "bbox": [
+                468.3542707444769,
+                1481.0064619975128,
+                619.2246940935381,
+                1540.0427146123627
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Methylisothia zolinone (INCI)",
+            "uuid": "f171c0de-97c9-4f1e-ac52-dca38e5d0063",
+            "vertical": false,
+            "translation": "Methylisothia zolinone (INCI)"
+        },
+        {
+            "bbox": [
+                648.0868620385759,
+                1481.0064619975128,
+                732.0495324241404,
+                1515.1162968416484
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "0,01 %».",
+            "uuid": "5b21243d-e264-45c7-b09f-6a93e3bbd521",
+            "vertical": false,
+            "translation": "0.01%”."
+        },
+        {
+            "bbox": [
+                304.36468014767127,
+                1298.650037253865,
+                1393.2555617104606,
+                1549.2261316857841
+            ],
+            "order": "32",
+            "label": "Table",
+            "text": "",
+            "uuid": "cfb786e3-86d5-4877-a509-f8b2b0cb885f",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                247.9522609823701,
+                342.26274489329467,
+                893.4152895713971,
+                371.12491283833236
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1 ) En el anexo II se añadirán los números de referencia siguientes :",
+            "uuid": "e782ffc0-750a-4304-8be5-6c4a37cdd254",
+            "vertical": false,
+            "translation": "1) The following reference numbers are added to Annex II:"
+        },
+        {
+            "bbox": [
+                280.7501791017313,
+                403.9228309576934,
+                1393.2555617104606,
+                459.0233333982202
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "« 1133. Aceite de la raíz del costus ( Saussurea lappa Clarke ) ( nº CAS 8023-88-9 ) , empleado como ingrediente de fragancia .",
+            "uuid": "581ae802-9a25-4790-aa68-b728e832f8d9",
+            "vertical": false,
+            "translation": "\"1133. Costus root oil (Saussurea lappa Clarke) (CAS No. 8023-88-9), used as a fragrance ingredient."
+        },
+        {
+            "bbox": [
+                285.99784600082904,
+                494.4450849671301,
+                1166.2939683244815,
+                523.307252912168
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "1134. 7 - etoxi - 4 - metilcumarina ( nº CAS 87-05-8 ) , empleado como ingrediente de fragancia .",
+            "uuid": "9047f57c-6956-4003-8457-58e06093effa",
+            "vertical": false,
+            "translation": "1134. 7 - ethoxy - 4 - methylcoumarin (CAS No. 87-05-8), used as a fragrance ingredient."
+        },
+        {
+            "bbox": [
+                285.99784600082904,
+                553.4813375819803,
+                1133.4960502051206,
+                588.9030891508901
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "1135. Hexahidrocumarina (n° CAS 700-82-3), empleado como ingrediente de fragancia.",
+            "uuid": "248fbd16-215f-4cf3-a3e2-3a01c770eba5",
+            "vertical": false,
+            "translation": "1135. Hexahydrocoumarin (CAS No. 700-82-3), used as a fragrance ingredient."
+        },
+        {
+            "bbox": [
+                287.3097627256035,
+                616.4533403711536,
+                1394.5674784352352,
+                668.9300093621315
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "1136. Bálsamo del Perú (nombre INCI: Myroxylon pereirae; nº CAS 8007-00-9), empleado como ingrediente de fragancia.",
+            "uuid": "d9b66e5d-a33f-495d-817b-95156b9892cb",
+            "vertical": false,
+            "translation": "1136. Balsam of Peru (INCI name: Myroxylon pereirae; CAS No. 8007-00-9), used as a fragrance ingredient."
+        },
+        {
+            "bbox": [
+                249.26417770714454,
+                706.9755943805902,
+                1149.239050902414,
+                731.9020121513047
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "2) En la parte I del anexo IV se suprimirán los colorantes CI 12150, CI 20170 y CI 27290.",
+            "uuid": "44519738-f4a0-469d-8f29-9b5e8f9cba59",
+            "vertical": false,
+            "translation": "2) In Part I of Annex IV, the colorants CI 12150, CI 20170 and CI 27290 are deleted;"
+        },
+        {
+            "bbox": [
+                251.88801115669347,
+                768.6356804449891,
+                833.0671202317725,
+                800.1216818395759
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "3) La parte 1 del anexo VI quedará modificada como sigue:",
+            "uuid": "51834341-8b6b-4d82-92e9-63d5874ca09c",
+            "vertical": false,
+            "translation": "3) Part 1 of Annex VI shall be amended as follows:"
+        },
+        {
+            "bbox": [
+                280.7501791017313,
+                826.3600163350648,
+                857.9935380024872,
+                859.1579344544258
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "a) el número de referencia 53 se sustituirá por el siguiente:",
+            "uuid": "78877931-1bf7-4cb8-b7f1-e71d30d8d951",
+            "vertical": false,
+            "translation": "a) reference number 53 shall be replaced by the following:"
+        },
+        {
+            "bbox": [
+                279.43826237695686,
+                1235.6780344646918,
+                926.2132076907582,
+                1272.4117027583761
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "b) se añadirá la entrada siguiente , con el número de referencia 57:",
+            "uuid": "a762dead-3c79-4ca1-bc65-619ee5621143",
+            "vertical": false,
+            "translation": "b) the following entry shall be added, with reference number 57:"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

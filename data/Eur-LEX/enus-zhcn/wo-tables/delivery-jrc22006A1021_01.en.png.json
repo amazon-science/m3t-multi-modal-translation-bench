@@ -1,0 +1,343 @@
+{
+    "file": "jrc22006A1021_01.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                114.30028475630345,
+                141.63810145260084,
+                206.74193120843537,
+                166.48193912562743
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 292/2",
+            "uuid": "595265a9-d829-44fa-bb1f-475208bff089",
+            "vertical": false,
+            "translation": "L 292/2"
+        },
+        {
+            "bbox": [
+                332.9794484065081,
+                139.65059443875876,
+                360.8113419619886,
+                159.52566457717992
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "a7ecc1f8-ec02-48ec-95d9-3e65499d7fdd",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                620.2443497470041,
+                136.66933391799515,
+                1035.7347606823928,
+                167.47569263254871
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "b79d017f-02c7-4be5-93ba-5271ef3e67d5",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1414.447312276611,
+                137.66308742491643,
+                1540.6848294746837,
+                162.50692509794357
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "21.10.2006",
+            "uuid": "70c653f0-58f6-4d44-9406-5b3ff7bb2683",
+            "vertical": false,
+            "translation": "2006 年 10 月 21 日"
+        },
+        {
+            "bbox": [
+                746.481866945077,
+                243.00095915855061,
+                912.4792320795502,
+                269.8323038454203
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "AGREEMENT",
+            "uuid": "d4885df3-bd9a-4b83-a616-608083138888",
+            "vertical": false,
+            "translation": "协定"
+        },
+        {
+            "bbox": [
+                257.4357373273465,
+                304.6136765876578,
+                1410.471327482971,
+                370.20140804444907
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "between the European Union and the Republic of Iceland and the Kingdom of Norway on the surrender procedure between the Member States of the European Union and Iceland and Norway",
+            "uuid": "1c9d0026-e3f6-44f3-9ba6-067c738358d0",
+            "vertical": false,
+            "translation": "欧盟与冰岛共和国和挪威王国关于欧盟成员国与冰岛和挪威之间的移交程序"
+        },
+        {
+            "bbox": [
+                258.42973352575643,
+                443.73916755660895,
+                506.9287831282618,
+                472.55801925732044
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "THE EUROPEAN UNION,",
+            "uuid": "2f06000b-745a-40b9-b0b8-5408cbf0e0bc",
+            "vertical": false,
+            "translation": "欧盟，"
+        },
+        {
+            "bbox": [
+                258.42973352575643,
+                521.2519410964532,
+                462.1989541998107,
+                548.0832857833224
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "on the one hand, and",
+            "uuid": "117d7089-9a58-411a-973b-586727bf7062",
+            "vertical": false,
+            "translation": "为一方，以及"
+        },
+        {
+            "bbox": [
+                258.42973352575643,
+                593.7959471016919,
+                540.7246538742024,
+                622.6147988024032
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "THE REPUBLIC OF ICELAND",
+            "uuid": "edb9d7d0-6d0a-437e-9e16-2c66a7f27675",
+            "vertical": false,
+            "translation": "冰岛共和国"
+        },
+        {
+            "bbox": [
+                252.4940920346459,
+                671.5006726488491,
+                297.2239209630969,
+                695.3507568149552
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "and",
+            "uuid": "159f1396-db0a-4ca2-b77f-afa7af5e080a",
+            "vertical": false,
+            "translation": "和"
+        },
+        {
+            "bbox": [
+                256.4700768282859,
+                751.0009532025354,
+                558.6449211449324,
+                778.8260513963259
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "THE KINGDOM OF NORWAY,",
+            "uuid": "5becadb3-65b9-42ca-91f8-c1d4e5e0ed70",
+            "vertical": false,
+            "translation": "挪威王国，"
+        },
+        {
+            "bbox": [
+                257.46407302669604,
+                828.5137267423798,
+                442.3473659309599,
+                854.3513179223278
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "on the other hand,",
+            "uuid": "a089892f-3a8b-4438-aabd-9908f06fdbda",
+            "vertical": false,
+            "translation": "为另一方，"
+        },
+        {
+            "bbox": [
+                254.48208443146595,
+                904.0389932683818,
+                728.6182710730461,
+                933.851598476014
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "hereinafter referred to as 'the Contracting Parties',",
+            "uuid": "2ea2b8c9-f839-4c11-9796-c907b3cf24ae",
+            "vertical": false,
+            "translation": "以下简称“缔约方”，"
+        },
+        {
+            "bbox": [
+                257.46407302669604,
+                981.5517668082257,
+                1403.5416897934504,
+                1035.2144561819641
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "WISHING to improve judicial cooperation in criminal matters between the Member States of the European Union and Iceland and Norway, without prejudice to the rules protecting individual freedom,",
+            "uuid": "24b6843e-4212-466e-8e5f-ec24fa8d8826",
+            "vertical": false,
+            "translation": "希望在不损害保护个人自由的规则的情况下，改善欧盟成员国与冰岛和挪威之间的刑事司法合作，"
+        },
+        {
+            "bbox": [
+                256.46104952583835,
+                1083.156908410296,
+                1402.5386662925926,
+                1142.7821188255607
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "CONSIDERING that current relationships among the Contracting Parties require close cooperation in the fight against crime,",
+            "uuid": "4a551455-27fb-4cbc-9af7-1bda02b29d8b",
+            "vertical": false,
+            "translation": "考虑到缔约方之间目前的关系需要在打击犯罪方面密切合作，"
+        },
+        {
+            "bbox": [
+                258.4490419226584,
+                1191.4760406646938,
+                1401.5446700941827,
+                1244.1449765315108
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "EXPRESSING their mutual confidence in the structure and functioning of their legal systems and in the ability of all Contracting Parties to guarantee a fair trial,",
+            "uuid": "20ca03d5-62f4-4e92-9efd-fa1688e9885e",
+            "vertical": false,
+            "translation": "表示相互信任其法律制度的结构和运作以及所有缔约方保证公正审判的能力，"
+        },
+        {
+            "bbox": [
+                255.46705332742837,
+                1292.8388983706438,
+                1401.5446700941827,
+                1379.2954534727776
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "CONSIDERING that Iceland and Norway have expressed their wish to enter into an agreement enabling them to expedite arrangements for handing over suspects and convicts with the Member States of the European Union and to apply a surrender procedure with the Member States,",
+            "uuid": "8c75a8ac-ac40-4c5c-abd6-45e38488eae3",
+            "vertical": false,
+            "translation": "考虑到冰岛和挪威已表示希望缔结协定，以加快与欧盟成员国作出移交嫌疑犯和罪犯的安排并对成员国适用移交程序，"
+        },
+        {
+            "bbox": [
+                255.46705332742837,
+                1423.020607777305,
+                1245.4872669438093,
+                1451.8394594780164
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "CONSIDERING that the European Union also considers it desirable to have such an agreement in place,",
+            "uuid": "5d512e62-1922-4edf-acaa-f436361015be",
+            "vertical": false,
+            "translation": "考虑到欧盟也认为有必要达成此协定，"
+        },
+        {
+            "bbox": [
+                259.44303812106835,
+                1499.539627810228,
+                1168.9495596662377,
+                1530.3459865247817
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "CONSIDERING that it is therefore appropriate to set up a system for such surrender procedure,",
+            "uuid": "04f9e232-de02-4457-af67-be59bee044ce",
+            "vertical": false,
+            "translation": "考虑到应当为此类移交程序建立一个制度，"
+        },
+        {
+            "bbox": [
+                254.4730571290183,
+                1576.0586478431512,
+                1406.5146510862328,
+                1682.3902730837067
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "CONSIDERING that all Member States and the Kingdom of Norway and the Republic of Iceland are parties to a number of conventions in the field of extradition, including the European Convention on extradition of 13 December 1957 and the European Convention on the suppression of terrorism of 27 January 1977. The Nordic States have uniform extradition laws with a common concept of extradition,",
+            "uuid": "d1a2b49b-6cee-4571-befa-7ae9d54d5f08",
+            "vertical": false,
+            "translation": "考虑到所有成员国以及挪威王国和冰岛共和国都是引渡领域若干公约的缔约国，其中包括 1957 年 12 月 13 日《欧洲引渡公约》和 1977 年 1 月 27 日《欧洲制止恐怖主义公约》。北欧国家有统一的引渡法，具有共同的引渡概念，"
+        },
+        {
+            "bbox": [
+                257.4748556379529,
+                1737.2273186242032,
+                1404.546468603117,
+                1826.6651342471005
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "CONSIDERING that the level of cooperation under the EU Convention of 10 March 1995 on simplified extradition pro cedure and of the EU Convention of 27 September 1996 relating to extradition should be maintained where it is not possible to increase it,",
+            "uuid": "cba64358-442b-4581-a725-5ead612cd5a4",
+            "vertical": false,
+            "translation": "考虑到 1995 年 3 月 10 日欧盟关于简化引渡程序的公约和 1996 年 9 月 27 日欧盟关于引渡的公约规定的合作水平在不可能提高的情况下应予保持，"
+        },
+        {
+            "bbox": [
+                256.4846208155627,
+                1867.618744234227,
+                1406.538222375957,
+                1948.1127782948347
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "CONSIDERING that decisions on the execution of the arrest warrant as defined by this Agreement must be subject to sufficient controls, which means that a judicial authority of the State where the requested person has been arrested should have to take the decision on his or her surrender,",
+            "uuid": "cc3a5298-250e-4edf-93c1-eefa25a237cf",
+            "vertical": false,
+            "translation": "考虑到关于执行本协议所界定的逮捕令的决定必须受到充分的控制，这意味着被要求逮捕的人所在国家的司法机关应作出移交该人的决定；"
+        },
+        {
+            "bbox": [
+                258.4726132123828,
+                1991.7757579131885,
+                1396.5982603918567,
+                2055.3759823561377
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "CONSIDERING that the role of central authorities in the execution of an arrest warrant as defined by this Agreement should be limited to practical and administrative assistance,",
+            "uuid": "907ece70-6371-4631-ae52-4dfc796fa48a",
+            "vertical": false,
+            "translation": "考虑到中央机关在执行本协定所定义的逮捕令中的作用应限于提供实际的和行政上的协助，"
+        },
+        {
+            "bbox": [
+                255.49062461715272,
+                2099.101136660665,
+                1407.532218574367,
+                2213.382789956589
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "CONSIDERING that this Agreement respects fundamental rights and in particular the European Convention on Human Rights and Fundamental Freedoms. This Agreement does not prevent a State from applying its constitutional rules relating to due process, freedom of association, freedom of the press, freedom of expression in other media and freedom fighters,",
+            "uuid": "8594094f-1a91-4b0e-806a-c7af8afb0984",
+            "vertical": false,
+            "translation": "考虑到本协议尊重基本权利，特别是《欧洲人权和基本自由公约》。 本协议不妨碍一国适用其有关正当程序、结社自由、新闻自由、其他媒体的言论自由和自由战士的宪法规则，"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

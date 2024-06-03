@@ -1,0 +1,609 @@
+{
+    "file": "jrc32004D0842.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                124.20531263213677,
+                122.56268764638187,
+                228.71953911527626,
+                150.7101841234745
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 362/26",
+            "uuid": "a860328b-5e2e-4067-a6a1-8e0b3018ef18",
+            "vertical": false,
+            "translation": "L 362/26"
+        },
+        {
+            "bbox": [
+                344.0530437022604,
+                121.93731916371433,
+                372.1831667722565,
+                140.34145147565985
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "e1495280-f70b-47a1-a5ef-768520f6cb4f",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                636.3180523592604,
+                122.89107937387723,
+                1037.4966994326376,
+                151.24461822510335
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "45a3de63-42d0-4cf0-a018-63e24ac951ff",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1440.108456356624,
+                124.39558602703529,
+                1547.2138451634278,
+                143.99266726506795
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "9.12.2004",
+            "uuid": "d7e8f5b4-0365-4ff0-b6ed-7231de467529",
+            "vertical": false,
+            "translation": "2004 年 12 月 9 日"
+        },
+        {
+            "bbox": [
+                413.25376830395015,
+                221.90917247792854,
+                512.3034810244209,
+                243.5691675799599
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "Article 25",
+            "uuid": "23fab7ed-3ac1-4515-ba7d-7042a55ad275",
+            "vertical": false,
+            "translation": "第 25 条"
+        },
+        {
+            "bbox": [
+                292.8854088058949,
+                272.7992195731745,
+                634.9676947908314,
+                302.99194001843074
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Genetically modified varieties",
+            "uuid": "f88a5455-49f1-4e0a-964c-8198e1c6f5f3",
+            "vertical": false,
+            "translation": "转基因品种"
+        },
+        {
+            "bbox": [
+                124.7893808470317,
+                328.3091311407848,
+                803.2291790809207,
+                533.9479700013864
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "In the case of a genetically modified variety, the authorisation may be granted only if all appropriate measures have been taken to avoid adverse effects on human health and the environment. The genetically modified material must either be authorised under Directive 2001/18/EC of the European Parliament and of the Council (¹), or be authorised under Regulation (EC) No 1829/2003.",
+            "uuid": "d443ac60-f698-4f59-88f8-1aec1460954b",
+            "vertical": false,
+            "translation": "对于转基因品种，只有在采取了所有适当措施以避免对人类健康和环境造成不利影响的情况下，才能授予许可。转基因材料必须根据欧洲议会和理事会第 2001/18/EC 号指令 (¹) 获得许可，或者根据 (EC) 第 1829/2003 号条例获得许可。"
+        },
+        {
+            "bbox": [
+                412.1152706264947,
+                584.5809542742523,
+                512.7669461762407,
+                606.8586697900544
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Article 26",
+            "uuid": "8b3f5b71-4536-4c75-b390-80b62d9bdc75",
+            "vertical": false,
+            "translation": "第 26 条"
+        },
+        {
+            "bbox": [
+                415.82593147625494,
+                636.5604284421224,
+                511.3754483575807,
+                665.5678705199897
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "Supplier",
+            "uuid": "6f5c1e6d-03d0-469d-a7c7-bc775070e523",
+            "vertical": false,
+            "translation": "供应商"
+        },
+        {
+            "bbox": [
+                125.92193161919943,
+                906.1219160004639,
+                802.2350291420357,
+                964.0936099208797
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(b) keep records of all lots of seed and make them available to the Member States for not less than three years;",
+            "uuid": "a894de39-0972-465e-ad86-71c48db7d640",
+            "vertical": false,
+            "translation": "(b) 保存所有种子批次的记录，并且向成员国提供至少三年的记录；"
+        },
+        {
+            "bbox": [
+                124.73956606408954,
+                796.6855550282503,
+                803.4173946971456,
+                855.8403447429602
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "(a) inform the Member State of the dates when their activities begin and end;",
+            "uuid": "9f0d7ad6-4d86-47e4-9644-dc84400ef295",
+            "vertical": false,
+            "translation": "(a) 将其活动开始和结束的日期通知成员国；"
+        },
+        {
+            "bbox": [
+                125.08939802979327,
+                689.7887234805185,
+                801.6765835345101,
+                749.3617232564825
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "The persons responsible for affixing the label or printing or stamping notice on the packages shall:",
+            "uuid": "cd2ac131-52fd-4013-b414-47d8a1cb5bf0",
+            "vertical": false,
+            "translation": "负责在包装上粘贴标签或印刷或盖章通知的人必须："
+        },
+        {
+            "bbox": [
+                125.08939802979327,
+                1012.5998851303953,
+                801.1963939067564,
+                1103.2821131818685
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(c) draw samples from each lot intended for marketing and make them available to Member States for not less than two years.",
+            "uuid": "371bdbeb-4dca-4cc3-af5e-b4dc3df1338f",
+            "vertical": false,
+            "translation": "(c) 从打算上市的每个批次中抽取样本，并向成员国提供至少两年的样本。"
+        },
+        {
+            "bbox": [
+                125.4088052789361,
+                1149.4764212306327,
+                802.6163537851911,
+                1207.2001002974037
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "The operations referred to in points (b) and (c) shall be subject to official checks carried out on a random basis.",
+            "uuid": "e258fe7c-da91-4523-bb3e-7da19d70c2c2",
+            "vertical": false,
+            "translation": "第 (b) 和 (c) 点中提到的操作应接受随机进行的正式检查。"
+        },
+        {
+            "bbox": [
+                412.86219284412334,
+                1259.4881581965649,
+                514.11759770877,
+                1282.1277866232192
+            ],
+            "order": "15",
+            "label": "Section-header",
+            "text": "Article 27",
+            "uuid": "3236b61d-1c65-4167-8da2-fa7a7b75cc5b",
+            "vertical": false,
+            "translation": "第 27 条"
+        },
+        {
+            "bbox": [
+                344.53719619873124,
+                1311.7181488560484,
+                583.3386598839377,
+                1341.3065741265264
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "Packages and sealing",
+            "uuid": "6be90c8b-e751-4ca3-b12d-cd7a9248d8a1",
+            "vertical": false,
+            "translation": "包装和密封"
+        },
+        {
+            "bbox": [
+                124.81125627142694,
+                1364.8482268648147,
+                804.2525325990073,
+                1513.9336836731682
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "Seed may be marketed only in closed packages bearing a sealing device. Seed packages shall be sealed in such a manner that they cannot be opened without damaging the sealing device or leaving evidence of tampering either on the label provided for in Article 28 or on the package.",
+            "uuid": "187ed095-b243-45e3-8d18-6c9235380600",
+            "vertical": false,
+            "translation": "种子只能以带有密封装置的封闭包装形式销售。种子包装的密封方式应确保在不损坏密封装置的情况下或在第 28 条规定的标签或包装上留下篡改证据时无法打开包装。"
+        },
+        {
+            "bbox": [
+                412.00270061252445,
+                1562.0644519268171,
+                513.562806882395,
+                1584.8875462851354
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "Article 28",
+            "uuid": "9432d019-c675-443e-a094-93b0758c41c2",
+            "vertical": false,
+            "translation": "第 28 条"
+        },
+        {
+            "bbox": [
+                412.482890240278,
+                1613.9725310910217,
+                514.2830913240253,
+                1644.2431615031064
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "Labelling",
+            "uuid": "fc645c5b-5ea3-4a62-82af-a722f794ecf6",
+            "vertical": false,
+            "translation": "贴标签"
+        },
+        {
+            "bbox": [
+                125.4088052789361,
+                2070.3090695799096,
+                285.9320760359743,
+                2098.752621583826
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "(c) the species;",
+            "uuid": "2e6a55b9-ee18-4749-a421-39976c8677a2",
+            "vertical": false,
+            "translation": "(c) 物种；"
+        },
+        {
+            "bbox": [
+                126.24486398079567,
+                1669.5896163482664,
+                802.6163537851911,
+                1757.429997536831
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "1. The seed packages shall bear a supplier's label or a printed or stamped notice in one of the official languages of the Community.",
+            "uuid": "84cb5f92-c498-430f-b36c-688fc61ac358",
+            "vertical": false,
+            "translation": "1. 种子包装应带有供应商的标签或以社区官方语言之一打印或盖章的通知。"
+        },
+        {
+            "bbox": [
+                123.73668787521697,
+                1806.608750107754,
+                801.7802950833316,
+                1866.0055792924027
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "2. The label provided for in paragraph 1 shall include the following information:",
+            "uuid": "364ccf95-a2f1-497f-9177-ffdbc7789be7",
+            "vertical": false,
+            "translation": "2. 第 1 段规定的标签应包括以下信息："
+        },
+        {
+            "bbox": [
+                127.00657473725758,
+                1991.211454367245,
+                499.29232246280054,
+                2022.163392141185
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "(b) the month and year of sealing;",
+            "uuid": "b92884b3-b469-4bbc-8019-80a7bda0e761",
+            "vertical": false,
+            "translation": "(b) 密封的年月；"
+        },
+        {
+            "bbox": [
+                126.64265905033133,
+                1914.0136801545952,
+                437.7905713722661,
+                1939.867651706945
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "(a) the lot reference number;",
+            "uuid": "e6125ef0-6941-45a5-95c1-7a63f17fe0b5",
+            "vertical": false,
+            "translation": "(a) 批次参考编号；"
+        },
+        {
+            "bbox": [
+                125.4088052789361,
+                2136.879820624559,
+                800.9442363814719,
+                2188.7474742787595
+            ],
+            "order": "43",
+            "label": "Footnote",
+            "text": "(¹) OJ L 106, 17.4.2001, p. 1. Directive as last amended by Regulation (EC) No 1830/2003 (OJ L 268, 18.10.2003, p. 24).",
+            "uuid": "ec951236-69e6-4a42-b224-b27602a26418",
+            "vertical": false,
+            "translation": "(¹) OJ L 106，2001 年 4 月 17 日，第 1 页，经 (EC) 第 1830/2003 号条例（OJ L 268，2003 年 10 月 18 日，第 24 页）最后修正的指令。"
+        },
+        {
+            "bbox": [
+                872.4711077812188,
+                597.6689370867605,
+                1547.3883225031932,
+                656.7606664115476
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "(g) declared net or gross weight or declared number of pure seeds or, where applicable, clusters;",
+            "uuid": "8d39cc09-ded3-4ef7-a593-8016815f231e",
+            "vertical": false,
+            "translation": "(g) 申报的净重或毛重或申报的纯种子数量或适用情况下种子簇的数量；"
+        },
+        {
+            "bbox": [
+                872.4711077812188,
+                218.49700725270938,
+                1547.3883225031932,
+                338.7908848067406
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "(d) the denomination of the variety under which the seed is to be marketed (the breeder's reference, the proposed denomination or the approved denomination) and the official application number for listing the variety, if any;",
+            "uuid": "a0829b2b-b718-4771-aa40-41691214eae1",
+            "vertical": false,
+            "translation": "(d) 种子上市所依据的品种名称（育种者参考名称、建议名称或批准名称）以及该品种如有正式申请编号，一并列出；"
+        },
+        {
+            "bbox": [
+                870.3619914852127,
+                404.43053805050016,
+                1403.265375609438,
+                434.679875681046
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "(e) the indication 'variety not yet officially listed';",
+            "uuid": "ec6900dd-57ac-4d56-ad9e-12e29e4874d5",
+            "vertical": false,
+            "translation": "(e) 注明“尚未正式上市的品种”；"
+        },
+        {
+            "bbox": [
+                872.4711077812188,
+                501.509807655508,
+                1527.7032370738025,
+                532.4626182542058
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "(f) where applicable, the words 'genetically modified variety';",
+            "uuid": "afe44108-b799-4058-9f1b-b956a836a29d",
+            "vertical": false,
+            "translation": "(f) 在适用的情况下，使用“转基因品种”一词；"
+        },
+        {
+            "bbox": [
+                871.0650302505481,
+                723.8072655916119,
+                1548.794400033864,
+                870.8331159354277
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "(h) where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of pure seeds or, where applicable, clusters and the total weight.",
+            "uuid": "30779892-f52f-41f8-86d1-d14f63c999a1",
+            "vertical": false,
+            "translation": "(h) 在表明重量和使用颗粒化农药、造粒物质或其他固体添加剂的情况下，应说明添加剂的性质以及纯种子或种子簇的重量与总重量之间的大致比率，如适用。"
+        },
+        {
+            "bbox": [
+                873.1741465465542,
+                937.3508560845823,
+                1545.9822449725225,
+                967.6001937151282
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "3. The label provided for in paragraph 1 shall be orange.",
+            "uuid": "063abb98-5777-49ad-bb20-7bde9a4dbfd0",
+            "vertical": false,
+            "translation": "3. 第 1 段规定的标签应为橙色。"
+        },
+        {
+            "bbox": [
+                1157.0442145100712,
+                1034.5022907872049,
+                1261.0894493509663,
+                1056.5490071799913
+            ],
+            "order": "31",
+            "label": "Section-header",
+            "text": "Article 29",
+            "uuid": "3145143c-990c-473a-a2e8-463c16f3db02",
+            "vertical": false,
+            "translation": "第 29 条"
+        },
+        {
+            "bbox": [
+                1098.2892583646246,
+                1085.9329111763302,
+                1322.29252866914,
+                1109.8168539351823
+            ],
+            "order": "32",
+            "label": "Section-header",
+            "text": "Chemical treatment",
+            "uuid": "7e16d488-61ea-448e-a385-62b488ca16bf",
+            "vertical": false,
+            "translation": "化学处理"
+        },
+        {
+            "bbox": [
+                1158.4727543626502,
+                1265.9451095864822,
+                1260.833452595809,
+                1289.1773590238959
+            ],
+            "order": "34",
+            "label": "Section-header",
+            "text": "Article 30",
+            "uuid": "49a0d256-7b62-4d4a-84ed-51ec1dfd9a94",
+            "vertical": false,
+            "translation": "第 30 条"
+        },
+        {
+            "bbox": [
+                1137.6775829267226,
+                1319.834704771234,
+                1280.8210445584969,
+                1349.1834030412888
+            ],
+            "order": "35",
+            "label": "Section-header",
+            "text": "Time period",
+            "uuid": "8aeae4d8-2d6f-4139-842a-f00c5d3b59a1",
+            "vertical": false,
+            "translation": "时间段"
+        },
+        {
+            "bbox": [
+                871.7680690158835,
+                1141.1135606628488,
+                1548.794400033864,
+                1198.094871083179
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "Any chemical treatment shall be noted either on the label provided for in Article 28 and on the package or inside it.",
+            "uuid": "1655acd8-dbe9-4237-b1bb-b630bb090f3f",
+            "vertical": false,
+            "translation": "任何化学处理均应在第 28 条规定的标签上和包装上或包装内注明。"
+        },
+        {
+            "bbox": [
+                870.2905270529676,
+                1374.01719418576,
+                1547.685491399823,
+                1487.1117430173394
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "Without prejudice to Articles 32 and 33, authorisations granted in accordance with the provisions of this Decision shall be valid for a period not exceeding one year and shall be renewable in accordance with Article 31.",
+            "uuid": "83ddc658-c7fa-490b-8f6b-c4ef8ffcf05a",
+            "vertical": false,
+            "translation": "在不影响第 32 条和第 33 条的情况下，根据本决定授予的许可有效期不得超过一年，并应根据第 31 条予以更新。"
+        },
+        {
+            "bbox": [
+                1158.256365890055,
+                1558.3364565908155,
+                1258.7909093330154,
+                1580.8475915716867
+            ],
+            "order": "37",
+            "label": "Section-header",
+            "text": "Article 31",
+            "uuid": "0a96ee69-c605-4ce9-b31a-03b3d11132ad",
+            "vertical": false,
+            "translation": "第 31 条"
+        },
+        {
+            "bbox": [
+                1057.0187836817586,
+                1611.4486656863085,
+                1361.083049689315,
+                1634.3115371512558
+            ],
+            "order": "38",
+            "label": "Section-header",
+            "text": "Renewal of authorisations",
+            "uuid": "b16ca288-a276-491b-8502-43da798d1730",
+            "vertical": false,
+            "translation": "更新许可"
+        },
+        {
+            "bbox": [
+                873.9897104108608,
+                1944.7708405889673,
+                1344.5995544782477,
+                1974.66928482858
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "(a) a reference to the original authorisation;",
+            "uuid": "b40efe0e-a4bb-4709-9975-41dfa50216d9",
+            "vertical": false,
+            "translation": "(a) 对原许可的提及；"
+        },
+        {
+            "bbox": [
+                870.5942569904611,
+                1664.133170794423,
+                1547.6476690181444,
+                1753.1489934169056
+            ],
+            "order": "39",
+            "label": "List-item",
+            "text": "1. Without prejudice to Articles 32 and 33, authorisations referred to in Article 20 shall be renewable, maximum twice for a period not exceeding one year each.",
+            "uuid": "377e0e65-0fd8-4ca1-adcc-c536e9712f5e",
+            "vertical": false,
+            "translation": "1. 在不影响第 32 条和第 33 条的情况下，第 20 条所述的许可应可更新，最多两次，每次不超过一年。"
+        },
+        {
+            "bbox": [
+                871.2733476745411,
+                1819.6675857115704,
+                1547.6476690181444,
+                1872.669373227247
+            ],
+            "order": "40",
+            "label": "List-item",
+            "text": "2. The application shall be accompanied by the following documents:",
+            "uuid": "3807e005-4850-4235-9b03-adf81e91adc2",
+            "vertical": false,
+            "translation": "2. 申请书应附送下列文件："
+        },
+        {
+            "bbox": [
+                873.3106197267809,
+                2039.8288569305348,
+                1546.9685783340644,
+                2187.2825478395325
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "(b) any available information which supplements the information already provided on the description, the maintenance and/or the knowledge from practical experience during the cultivation of the variety subject to the original authorisation;",
+            "uuid": "2385f742-f5fb-4ad5-9f5a-7c936335956a",
+            "vertical": false,
+            "translation": "(b) 任何现有信息，这些信息补充了已经提供的关于原许可品种的描述、维护和/或种植过程中获得的实践经验知识；"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

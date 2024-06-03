@@ -1,0 +1,1351 @@
+{
+    "file": "f59f736e29b9cd91ac724c31514ba149045535329504413ec1a2d368b2f3a4c6.png",
+    "annotations": [
+        {
+            "bbox": [
+                180.0,
+                2140.0,
+                209.00000000000003,
+                2156.0
+            ],
+            "order": "95",
+            "label": "Page-footer",
+            "text": "46",
+            "uuid": "8943d472-1d47-4ef3-8472-dd7bb51bfd61",
+            "vertical": false,
+            "translation": "46"
+        },
+        {
+            "bbox": [
+                67.38330078125,
+                2167.2293425785615,
+                250.11767578125,
+                2305.87939453125
+            ],
+            "order": "96",
+            "label": "Picture",
+            "text": "logo",
+            "uuid": "9e83db57-c128-4f91-abdd-c4a260463343",
+            "vertical": false,
+            "translation": "徽标"
+        },
+        {
+            "bbox": [
+                316.0,
+                155.0,
+                1491.0,
+                225.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "NOTES TO AND FORMING PART OF THE FINANCIAL STATEMENTS FOR THE FINANCIAL YEAR ENDED 30 JUNE 2000",
+            "uuid": "339c2810-9b00-4565-889a-883fc47af5a5",
+            "vertical": false,
+            "translation": "截至 2000 年 6 月 30 日财务年度财务报表的说明和组成部分"
+        },
+        {
+            "bbox": [
+                320.99027231563997,
+                454.87752130221173,
+                593.7566539547519,
+                476.8134358857584
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "11. INVESTMENTS",
+            "uuid": "9ed28387-ff05-4873-b019-b0a12a04d227",
+            "vertical": false,
+            "translation": "11. 投资"
+        },
+        {
+            "bbox": [
+                381.39456784014044,
+                495.5608006748415,
+                474.8896118473595,
+                515.7247897417727
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "At cost:",
+            "uuid": "187ae130-5e76-4f10-909c-e53a34fd2d66",
+            "vertical": false,
+            "translation": "按成本："
+        },
+        {
+            "bbox": [
+                380.7965844587449,
+                531.9561559953819,
+                711.8808210769225,
+                591.703695786434
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Unlisted investment - shares controlled in entities",
+            "uuid": "bea85810-3cba-4db5-848a-33a904b84e0e",
+            "vertical": false,
+            "translation": "非上市投资-控制实体的股份"
+        },
+        {
+            "bbox": [
+                380.94441886595945,
+                765.7380516138218,
+                541.947589189961,
+                792.4395185791112
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Parent Entity",
+            "uuid": "642d4da6-1418-47e0-a876-b38d919cbee3",
+            "vertical": false,
+            "translation": "母实体"
+        },
+        {
+            "bbox": [
+                380.0,
+                804.0,
+                786.0,
+                825.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Mermaid Marine Australia Limited",
+            "uuid": "92406aa6-95f2-4e16-9a97-a902d53d3344",
+            "vertical": false,
+            "translation": "Mermaid Marine Australia Limited"
+        },
+        {
+            "bbox": [
+                721.8513635642795,
+                316.99999999999994,
+                785.535166648601,
+                339.6492901180516
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Note",
+            "uuid": "b798c237-5d6f-40c9-afa8-cc76c9596950",
+            "vertical": false,
+            "translation": "备注"
+        },
+        {
+            "bbox": [
+                381.0,
+                863.0,
+                607.0,
+                882.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Controlled Entities",
+            "uuid": "18f97283-8a84-4cf5-8dca-4176d039b2fe",
+            "vertical": false,
+            "translation": "受控实体"
+        },
+        {
+            "bbox": [
+                380.0,
+                901.0,
+                764.0,
+                926.0
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Mermaid Marine Group Pty Ltd*",
+            "uuid": "f3c5395a-c2cf-4be8-a33c-c0ea8760a27d",
+            "vertical": false,
+            "translation": "Mermaid Marine Group Pty Ltd*"
+        },
+        {
+            "bbox": [
+                381.0,
+                937.0000000000001,
+                896.0,
+                966.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Mermaid Marine Vessel Operations Pty Ltd*",
+            "uuid": "ff10b89e-ec1b-457b-93fb-85b4ba516c04",
+            "vertical": false,
+            "translation": "Mermaid Marine Vessel Operations Pty Ltd*"
+        },
+        {
+            "bbox": [
+                380.0,
+                980.0,
+                682.0,
+                1004.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Mermaid Marine Pty Ltd*",
+            "uuid": "a306f649-b8d6-4d9d-866b-a16fd11deafa",
+            "vertical": false,
+            "translation": "Mermaid Marine Pty Ltd*"
+        },
+        {
+            "bbox": [
+                380.0,
+                1018.0000000000001,
+                789.0,
+                1044.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Mermaid Marine Offshore Pty Ltd*",
+            "uuid": "6aed25b0-0e5d-4f02-acf2-b786c1dac064",
+            "vertical": false,
+            "translation": "Mermaid Marine Offshore Pty Ltd*"
+        },
+        {
+            "bbox": [
+                380.0,
+                1057.0,
+                790.0,
+                1082.0
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Mermaid Marine Charters Pty Ltd*",
+            "uuid": "4688c2e8-ecdf-4d65-8c77-494d7fcd715c",
+            "vertical": false,
+            "translation": "Mermaid Marine Charters Pty Ltd *"
+        },
+        {
+            "bbox": [
+                379.0,
+                1096.0,
+                736.0,
+                1122.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Mermaid Supply Base Pty Ltd*",
+            "uuid": "7f03ee3c-671b-4056-b66b-c5cd139922e9",
+            "vertical": false,
+            "translation": "Mermaid Supply Base Pty Ltd*"
+        },
+        {
+            "bbox": [
+                380.0,
+                1132.0,
+                732.0,
+                1160.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Dampier Stevedoring Pty Ltd*",
+            "uuid": "cbb560c4-1233-4212-8f46-ccff56b7fa99",
+            "vertical": false,
+            "translation": "Dampier Stevedoring Pty Ltd*"
+        },
+        {
+            "bbox": [
+                381.0,
+                1173.0,
+                913.9999999999999,
+                1198.0
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Mermaid Manning and Management Pty Ltd*",
+            "uuid": "74a3eafc-9c0f-4982-bd39-7c7e3bc43881",
+            "vertical": false,
+            "translation": "Mermaid Manning and Management Pty Ltd*"
+        },
+        {
+            "bbox": [
+                320.0,
+                1739.0000000000002,
+                581.0,
+                1759.0
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "13. INTANGIBLES",
+            "uuid": "fff3b541-575b-45ca-af97-323879f90966",
+            "vertical": false,
+            "translation": "13. 无形资产"
+        },
+        {
+            "bbox": [
+                320.0,
+                1602.0,
+                832.0,
+                1622.0
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "12. OTHER NON CURRENT ASSETS",
+            "uuid": "04324be8-8a57-477b-8d17-0b79249b537d",
+            "vertical": false,
+            "translation": "12、其他非流动资产"
+        },
+        {
+            "bbox": [
+                380.7965844587449,
+                1639.4259731498842,
+                684.2605829510206,
+                1706.3097993680663
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Future income tax benefit - timing differences",
+            "uuid": "ee083013-0c22-43b2-996e-312b0429aa62",
+            "vertical": false,
+            "translation": "未来所得税优惠——时间差异"
+        },
+        {
+            "bbox": [
+                722.5381361695257,
+                1446.553508814326,
+                784.1982222339245,
+                1469.85516983693
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Note",
+            "uuid": "cf0f9f98-9723-4ff8-aa47-539d30aa291b",
+            "vertical": false,
+            "translation": "附注"
+        },
+        {
+            "bbox": [
+                320.0,
+                1931.0,
+                683.0,
+                1954.0
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "14. ACCOUNTS PAYABLE",
+            "uuid": "d25010c3-a3de-46f1-a557-72f3002b6d29",
+            "vertical": false,
+            "translation": "14. 应付账款"
+        },
+        {
+            "bbox": [
+                381.2704023128628,
+                1968.3779646980784,
+                551.0331361893931,
+                2000.4958721768323
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "Trade payables",
+            "uuid": "936fe3a1-9f70-44ce-890a-2742b5559c97",
+            "vertical": false,
+            "translation": "贸易应付款"
+        },
+        {
+            "bbox": [
+                378.9512392817627,
+                2006.8875147065392,
+                704.5617288482222,
+                2038.553636182994
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Other payables and accruals",
+            "uuid": "137f9053-0021-4811-86c2-a740414d9e4a",
+            "vertical": false,
+            "translation": "其他应付账款和应计款项"
+        },
+        {
+            "bbox": [
+                380.69009756382206,
+                1774.0894053625918,
+                774.8309841680773,
+                1805.2838591177242
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Goodwill arising on consolidation",
+            "uuid": "62534b65-2f51-4647-848a-02f3351a46f0",
+            "vertical": false,
+            "translation": "合并产生的商誉"
+        },
+        {
+            "bbox": [
+                939.0,
+                316.0169571836173,
+                1093.1546109183064,
+                340.0355594061947
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Consolidated",
+            "uuid": "612385cd-4ce3-44d5-96ae-13900efaf5f2",
+            "vertical": false,
+            "translation": "联合"
+        },
+        {
+            "bbox": [
+                902.9266858260119,
+                358.00000000000006,
+                965.8986886151852,
+                378.7610051946754
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "9fd0baeb-52ad-4a57-a7e2-fa298cb58dda",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                941.0000000000001,
+                648.0,
+                1103.0,
+                712.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Country of Incorporation",
+            "uuid": "963a1f40-da4f-4d4c-9d93-b92aea26c268",
+            "vertical": false,
+            "translation": "公司注册国"
+        },
+        {
+            "bbox": [
+                1064.9484013356557,
+                358.00000000000006,
+                1124.9685914940867,
+                378.43282345070537
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "64ccc2c0-009d-4ce4-9a6e-ec173bb75143",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                970.0,
+                804.0,
+                1075.0,
+                823.9999999999999
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "f02700c6-0a02-4130-9600-752cfeb4c3d7",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                903.9106233695927,
+                1485.926149715417,
+                967.2106053399596,
+                1505.9407797165131
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "3caea1af-11f3-4616-8750-e54f990b3662",
+            "vertical": false,
+            "translation": "2000年"
+        },
+        {
+            "bbox": [
+                968.9999999999999,
+                901.0,
+                1076.0,
+                922.0
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "46fa232f-072f-4653-a759-c433ad360e2c",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                968.9999999999999,
+                939.0,
+                1075.0,
+                961.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "458910c5-d60b-4cd8-a4c6-ca7256a97320",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                970.0,
+                977.0,
+                1076.0,
+                1000.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "2a497ef4-8170-492a-928d-45119275c03a",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                970.0,
+                1017.0,
+                1075.0,
+                1039.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "72cbc9c7-dea8-476a-8909-69b35e849ec7",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                970.0,
+                1056.0,
+                1075.0,
+                1078.0
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "e9a98d69-4ea6-46d9-8aa4-ba79174fdb87",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                968.9999999999999,
+                1095.0,
+                1075.0,
+                1117.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "c7531247-39c7-4435-ad32-18b1a60d1318",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                968.9999999999999,
+                1133.0,
+                1074.0,
+                1155.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "ccb8d43c-ee8d-4caf-9cba-15066c914974",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                968.9999999999999,
+                1173.0,
+                1075.0,
+                1193.9999999999998
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Australia",
+            "uuid": "86bfbfe6-a8ec-4a50-bc56-bceb92efcba7",
+            "vertical": false,
+            "translation": "澳大利亚"
+        },
+        {
+            "bbox": [
+                939.0,
+                1445.9126896097964,
+                1093.1546109183064,
+                1468.5432531121558
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Consolidated",
+            "uuid": "3eb0984b-b926-48b7-b9c5-f62785886825",
+            "vertical": false,
+            "translation": "合并"
+        },
+        {
+            "bbox": [
+                888.0,
+                1679.0,
+                978.0,
+                1701.0
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "664,722",
+            "uuid": "b2742ce0-7ce2-42ab-ac3f-3e240276d8a2",
+            "vertical": false,
+            "translation": "664,722"
+        },
+        {
+            "bbox": [
+                868.0,
+                1971.0,
+                977.0000000000001,
+                1993.0
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "1,844,206",
+            "uuid": "0ec7318a-3384-49cc-ba7b-1d719f455b2a",
+            "vertical": false,
+            "translation": "1,844,206"
+        },
+        {
+            "bbox": [
+                888.0,
+                2011.0,
+                979.0,
+                2031.0000000000002
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "519,300",
+            "uuid": "1943495a-e1e3-4e5e-b3fd-95a8722f53b7",
+            "vertical": false,
+            "translation": "519,300"
+        },
+        {
+            "bbox": [
+                865.0,
+                2068.0,
+                978.0,
+                2092.0
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "2,363,506",
+            "uuid": "a7a8804a-9933-47c1-9936-a798c2a76a49",
+            "vertical": false,
+            "translation": "2,363,506"
+        },
+        {
+            "bbox": [
+                318.0,
+                1250.0,
+                1518.0,
+                1391.0
+            ],
+            "order": "61",
+            "label": "Text",
+            "text": "* Pursuant to ASIC Class Order 98/1418, relief has been granted to these wholly owned controlled entities from the Corporations Law requirements for preparation, audit and lodgement of the financial report. As a condition of the Class Order, Mermaid Marine Australia Limited and the controlled entities entered into a Deed of Cross Guarantee on 24 June 1999.",
+            "uuid": "4d523d28-01be-4645-be26-4312ee0709ef",
+            "vertical": false,
+            "translation": "* 根据ASIC类别命令98/1418，这些全资控股实体已获得公司法关于编制、审计和提交财务报告要求的救济。作为集体命令的一个条件，Mermaid Marine Australia Limited和受控实体于1999年6月24日签订了交叉担保契约。"
+        },
+        {
+            "bbox": [
+                1065.9323388792366,
+                1485.0,
+                1125.9632795642947,
+                1506.5971432044537
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "0537014a-e428-41be-a2ef-c9b91d7254cf",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                1062.0,
+                1679.0,
+                1152.0,
+                1703.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "318,202",
+            "uuid": "285457ee-f5cc-4dad-80ce-518b28dca67d",
+            "vertical": false,
+            "translation": "318,202"
+        },
+        {
+            "bbox": [
+                1141.0282113012684,
+                645.6316624633039,
+                1305.9019955611452,
+                711.4421601289076
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Ownership Interest 2000",
+            "uuid": "026d7c2c-452d-4891-9e2b-633574756f6e",
+            "vertical": false,
+            "translation": "2000 年所有权权益"
+        },
+        {
+            "bbox": [
+                1074.0,
+                1777.0,
+                1152.0,
+                1797.0
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "95,105",
+            "uuid": "ac623a61-d3b3-41df-8d88-fff0371770d6",
+            "vertical": false,
+            "translation": "95,105"
+        },
+        {
+            "bbox": [
+                1064.9335801362201,
+                1813.8585132248988,
+                1162.8585070452978,
+                1840.5965518166927
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "(95,105)",
+            "uuid": "9fa84dab-1f96-41e2-8874-868385d05023",
+            "vertical": false,
+            "translation": "(95,105)"
+        },
+        {
+            "bbox": [
+                1300.9999999999998,
+                317.9922854849674,
+                1414.902187669239,
+                345.2722879153579
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Company",
+            "uuid": "f366d431-0e6a-4256-88c0-580a041c5001",
+            "vertical": false,
+            "translation": "公司"
+        },
+        {
+            "bbox": [
+                1245.9929093545293,
+                357.02726059762637,
+                1308.0,
+                378.7610051946754
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "d4f357ef-beee-46ab-8791-f563b53d7b36",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                1041.0,
+                1971.9999999999998,
+                1152.0,
+                1992.0
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "1,079,327",
+            "uuid": "3010456e-2f3b-40fc-92c9-ee63fd9435c1",
+            "vertical": false,
+            "translation": "1,079,327"
+        },
+        {
+            "bbox": [
+                1061.0,
+                2008.0,
+                1152.0,
+                2033.0
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "534,897",
+            "uuid": "932f58a1-9ec5-4ee1-94d8-35557cc49cb3",
+            "vertical": false,
+            "translation": "534,897"
+        },
+        {
+            "bbox": [
+                1042.0,
+                2070.0,
+                1150.0,
+                2091.0
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "1,614,224",
+            "uuid": "05468433-c73f-4794-8c51-79010860a527",
+            "vertical": false,
+            "translation": "1,614,224"
+        },
+        {
+            "bbox": [
+                1213.0,
+                571.0,
+                1324.0,
+                592.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "2,444,611",
+            "uuid": "a1337039-1a28-4bb9-9cd0-e92f90e05d93",
+            "vertical": false,
+            "translation": "2,444,611"
+        },
+        {
+            "bbox": [
+                1204.0,
+                901.0,
+                1247.0,
+                922.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "ecdb0f9a-cf38-446c-b198-155e98f3e861",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                939.0,
+                1245.0,
+                961.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "b2257c8d-3d42-4197-bad8-4debdc5e0a67",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                979.0,
+                1246.0,
+                999.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "74038b3d-2e34-43a5-952e-d03e421bb799",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                1018.0000000000001,
+                1244.0,
+                1038.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "3be7859b-eab6-41f3-b52c-8dd13d8aed74",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                1057.0,
+                1246.0,
+                1077.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "3e07c697-4377-47ce-9dd2-11904dedb1a0",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                1097.0,
+                1245.0,
+                1116.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "a85a5634-b386-46b1-97a3-4ea6979afa70",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1204.0,
+                1134.0,
+                1247.0,
+                1155.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "1e5f77a2-67ac-4e29-a0b5-71cd4d59f073",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1205.0,
+                1174.0,
+                1244.0,
+                1193.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "3d9fb1a3-b120-4700-8fc7-0c3c568b8183",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1406.3623204096464,
+                357.9629385533969,
+                1467.3788566602168,
+                378.4186440563456
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "e6f83b42-4299-440c-b3af-5c5b499eab2a",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                1427.9999999999998,
+                392.9999999999997,
+                1443.7643556142768,
+                420.42590728452797
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "ca0e0a20-54bc-4883-a5e0-198c010e153e",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1386.0,
+                571.0000000000001,
+                1499.0,
+                592.9999999999999
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "2,444,611",
+            "uuid": "cbe900a2-d2df-4e7a-aedb-ba336f5af943",
+            "vertical": false,
+            "translation": "2,444,611"
+        },
+        {
+            "bbox": [
+                1245.9929093545293,
+                1485.926149715417,
+                1308.6369329625088,
+                1505.9407797165131
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "3ee6e11f-e387-4b2c-8ac2-aa58b42079a1",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                1268.9514520380822,
+                1522.0,
+                1285.0224319165688,
+                1547.2916794567554
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "48f7b069-29c1-4600-a143-af498622d65a",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1338.611169737086,
+                646.8315897175632,
+                1502.9196155020418,
+                711.4421601289076
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Ownership Interest 1999",
+            "uuid": "cade9eaa-68fe-488b-aee6-19cef7954a57",
+            "vertical": false,
+            "translation": "1999 年所有权权益"
+        },
+        {
+            "bbox": [
+                1401.0,
+                901.0,
+                1442.0,
+                921.0000000000001
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "adfc2b90-06a4-47a6-befd-dd54ecc9e334",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                940.0,
+                1442.0,
+                960.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "462c2a3b-7a80-4015-8a6f-7bb8dcda4eda",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                979.0,
+                1442.0,
+                999.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "26f91b73-a941-4204-9db5-fdc8bd3e912c",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                1018.0000000000001,
+                1442.0,
+                1038.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "a19fbbb4-d38f-4214-931d-0b90eb1a7367",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                1057.0,
+                1442.0,
+                1077.0
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "26d46196-ef69-4e74-93a9-25de6f3b23b1",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                1096.0,
+                1442.0,
+                1116.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "a0a9948b-e9fe-4cb1-aad0-200c77232644",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                1132.0,
+                1441.0,
+                1155.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "079197c0-a4bf-4415-a812-3568ebdc61fe",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1401.0,
+                1173.0,
+                1440.0,
+                1193.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "f07b4da2-3056-4dad-837f-5804b120b063",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1301.0,
+                1447.0,
+                1416.0,
+                1472.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Company",
+            "uuid": "a56a2518-81bc-4815-9ccd-10bb936af14c",
+            "vertical": false,
+            "translation": "公司"
+        },
+        {
+            "bbox": [
+                1407.0,
+                1486.9100872589981,
+                1468.3627942037979,
+                1505.9407797165131
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "5f7b76bd-51cb-4d03-842e-bf9854ac0375",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                1421.0,
+                1971.9999999999998,
+                1498.0,
+                1992.0
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "55,590",
+            "uuid": "c66afc65-8b06-4685-9bf7-f6a8d295207e",
+            "vertical": false,
+            "translation": "55,590"
+        },
+        {
+            "bbox": [
+                1421.0,
+                2011.0,
+                1499.0,
+                2032.0
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "42,785",
+            "uuid": "bdc0c6f8-0eec-4dd6-940f-e0d635e6aae0",
+            "vertical": false,
+            "translation": "42,785"
+        },
+        {
+            "bbox": [
+                1421.0,
+                2070.0,
+                1497.0,
+                2091.0
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "98,375",
+            "uuid": "df81bbaf-7db6-4680-938a-10fe43752b5e",
+            "vertical": false,
+            "translation": "98,375"
+        },
+        {
+            "bbox": [
+                928.1295341833899,
+                393.40761398195474,
+                942.0489915787488,
+                422.258583339343
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "c8728882-1ee7-4629-bc7d-490744e08a95",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1087.209047273205,
+                393.40761398195474,
+                1103.1169985821866,
+                423.25344435166704
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "2dc11020-690a-472c-8a5a-d7db9d45bb3a",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1269.1562403696807,
+                393.90504448811686,
+                1284.069944721851,
+                420.2688613146957
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "c3767831-93b1-49e8-86c1-47d8398b5b5c",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1408.8479378016748,
+                726.3983681028504,
+                1433.4555499827554,
+                747.7878798678108
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "%",
+            "uuid": "677fafbc-df2b-45cd-8832-8615e7556454",
+            "vertical": false,
+            "translation": "%"
+        },
+        {
+            "bbox": [
+                1212.7327255706373,
+                727.3932291151742,
+                1236.3460907949066,
+                748.0365951208918
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "%",
+            "uuid": "42e05d66-e8cb-4f7b-8abc-b69a5be6e310",
+            "vertical": false,
+            "translation": "%"
+        },
+        {
+            "bbox": [
+                320.1076808449646,
+                316.16377358808177,
+                1503.456566591514,
+                602.3382543300748
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "11. INVESTMENTS At cost: Unlisted investment - shares controlled in entities Note Consolidated 2000 $ 1999 $ Company 2000 $ 2,444,611 1999 $ 2,444,611",
+            "uuid": "ea56c818-e8df-4255-a24e-3a40c477b03f",
+            "vertical": false,
+            "translation": "11. 按成本计算的投资：非上市投资--实体控制的股份 附注 合并 2000 $ 1999 $ 公司 2000 $ 2,444,611 1999 $ 2,444,611"
+        },
+        {
+            "bbox": [
+                375.64533576548683,
+                642.5628525030224,
+                1507.7745965517925,
+                1203.7806284155215
+            ],
+            "order": "19",
+            "label": "Table",
+            "text": "Parent Entity Mermaid Marine Australia Limited Controlled Entities Mermaid Marine Group Pty Ltd* Mermaid Marine Vessel Operations Pty Ltd* Mermaid Marine Pty Ltd* Mermaid Marine Offshore Pty Ltd* Mermaid Marine Charters Pty Ltd* Mermaid Supply Base Pty Ltd* Dampier Stevedoring Pty Ltd* Mermaid Manning and Management Pty Ltd* Country of Incorporation Australia Australia Australia Australia Australia Australia Australia Australia Australia Ownership Interest 2000 % 100 100 100 100 100 100 100 100 Ownership Interest 1999 % 100 100 100 100 100 100 100 100",
+            "uuid": "8bd94f74-c3cc-4eda-b76f-403f6c8a7550",
+            "vertical": false,
+            "translation": "母公司实体 Mermaid Marine Australia Limited 控制实体 Mermaid Marine Group Pty Ltd* Mermaid Marine Vessel Operations Pty Ltd* Mermaid Marine Pty Ltd* Mermaid Marine Offshore Pty Ltd* Mermaid Marine Charters Pty Ltd* Mermaid Supply Base Pty Ltd* Dampier Stevedoring Pty Ltd* Mermaid Manning and Management Pty Ltd* 注册国 澳大利亚 澳大利亚 澳大利亚 澳大利亚 澳大利亚 澳大利亚 澳大利亚 澳大利亚 所有权利息 2000 % 100 100 100 100 100 100 100 100 所有权利息 1999 % 100 100 100 100 100 100 100 100"
+        },
+        {
+            "bbox": [
+                927.6324107049843,
+                1521.8674710191196,
+                943.04323853556,
+                1548.231287845699
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "24e7821b-170d-4a4f-9a56-a33f732e1bae",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1087.7061707516107,
+                1519.8777489944723,
+                1103.614122060592,
+                1547.733857339537
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "b2ad6c98-ef1e-4aab-a258-49b0b326055d",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1428.7328769379017,
+                1522.3649015252818,
+                1443.1494578116665,
+                1548.231287845699
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "28eabc9b-be2b-449f-922e-f6c29ff20e3e",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                381.90721494540304,
+                1814.8613968580237,
+                621.5172704760524,
+                1843.032201137696
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Write off of goodwill",
+            "uuid": "61f9c8fb-dc83-4c31-ab8d-a0464e051d3d",
+            "vertical": false,
+            "translation": "核销商誉"
+        },
+        {
+            "bbox": [
+                313.3408356170849,
+                1436.1710380433103,
+                1508.5584560121513,
+                2106.8759783234286
+            ],
+            "order": "62",
+            "label": "Table",
+            "text": "13. INTANGIBLES 12. OTHER NON CURRENT ASSETS Future income tax benefit - timing differences Note 14. ACCOUNTS PAYABLE Trade payables Other payables and accruals Goodwill arising on consolidation Write off of goodwill 2000 $ Consolidated 664,722 1,844,206 519,300 2,363,506 1999 $ 318,202 95,105 (95,105) 1,079,327 534,897 1,614,224 2000 $ Company 1999 $ 55,590 42,785 98,375",
+            "uuid": "44a725d5-8f66-4682-af1d-c5b879532e25",
+            "vertical": false,
+            "translation": "13. 无形资产 12.其他非流动资产 未来所得税优惠 - 时间差异 附注14.应付账款 贸易应付账款 其他应付账款和应计款项 合并产生的商誉 商誉核销 2000 $ 合并 664,722 1,844,206 519,300 2,363,506 1999 $ 318,202 95,105 (95,105) 1,079,327 534,897 1,614,224 2000 $ 合并 1999 $ 55,590 42,785 98,375"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

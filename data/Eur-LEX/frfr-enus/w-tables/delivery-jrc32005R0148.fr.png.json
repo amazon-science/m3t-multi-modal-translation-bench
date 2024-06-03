@@ -1,0 +1,427 @@
+{
+    "file": "jrc32005R0148.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                118.74114719232712,
+                114.50809289719297,
+                217.07365971097298,
+                151.63761875686274
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 27/28",
+            "uuid": "26e2199e-6522-4f24-a780-548086bf9412",
+            "vertical": false,
+            "translation": "L 27/28"
+        },
+        {
+            "bbox": [
+                348.8021198774609,
+                120.43617849250651,
+                371.0660849760223,
+                140.85741771532523
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "ac005394-c598-41ee-a9e9-f633adcd23cd",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                638.2336661587583,
+                120.43617849250651,
+                1031.5637162333417,
+                155.70922805919298
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "96b56db5-5324-4317-825f-ada29c994858",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1436.025748857206,
+                120.43617849250651,
+                1545.4902439251325,
+                150.13979918024253
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "29.1.2005",
+            "uuid": "ec83feaf-039a-4722-99a6-0d0c40f91a74",
+            "vertical": false,
+            "translation": "29.1.2005"
+        },
+        {
+            "bbox": [
+                792.039306640625,
+                212.999755859375,
+                884.5485839843749,
+                245.00729465090916
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "1c92c8dc-d209-4b00-9b1a-d69b78c56cb9",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                267.16758118273594,
+                263.0123541779133,
+                1411.830678672109,
+                315.8319118436537
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "du règlement de la Commission du 28 janvier 2005 fixant les prix minimaux de vente du beurre pour la 156e adjudication particulière effectuée dans le cadre de l'adjudication permanente prévue par le règlement (CE)",
+            "uuid": "31bd6f7f-7834-4d22-b253-6342896e753f",
+            "vertical": false,
+            "translation": "of the Commission Regulation of January 28, 2005 fixing the minimum selling prices for butter for the 156th individual invitation to tender under the standing invitation to tender provided for in Regulation (EC)"
+        },
+        {
+            "bbox": [
+                778.2639132262766,
+                318.4665884260895,
+                894.9683482719513,
+                345.9475367346934
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "n ° 2571|97",
+            "uuid": "02e6ffb3-7522-46e3-b717-fe381134034d",
+            "vertical": false,
+            "translation": "No. 2571|97"
+        },
+        {
+            "bbox": [
+                263.45692033297576,
+                387.2920835511185,
+                1406.3404620591243,
+                673.1894326705789
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "01af6da7-31a3-48a2-9916-45b5e851f42e",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1285.7439844419173,
+                357.83675928487133,
+                1402.562336844103,
+                385.3470452074567
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "(EUR/100 kg)",
+            "uuid": "76053f9f-e03f-45b4-a7a7-193b6aec9280",
+            "vertical": true,
+            "translation": "(EUR/100kg)"
+        },
+        {
+            "bbox": [
+                452.05392611065577,
+                404.2373177970071,
+                530.7942678282194,
+                424.73000425694823
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Formules",
+            "uuid": "d0075355-9eed-4f78-b40e-a94edaf0859e",
+            "vertical": false,
+            "translation": "Formulas"
+        },
+        {
+            "bbox": [
+                386.83639358750315,
+                453.28808846625304,
+                589.0674098994353,
+                469.99637510310464
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Voies de mise en œuvre",
+            "uuid": "0d8b0309-aaad-49a1-b11c-5861fa0e68fc",
+            "vertical": false,
+            "translation": "Implementation pathways"
+        },
+        {
+            "bbox": [
+                275.99234341112737,
+                509.6454417274309,
+                396.40599130864626,
+                553.3623326361745
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Prix minimal de vente",
+            "uuid": "d2a3a193-e4f5-4f98-b4d6-eee729fed997",
+            "vertical": false,
+            "translation": "Minimum selling price"
+        },
+        {
+            "bbox": [
+                450.84529324586697,
+                510.5718662806505,
+                525.3444992343082,
+                560.875225344652
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Beurre ≥ 82%",
+            "uuid": "0a7b7915-9e32-42cc-a997-9e0436688367",
+            "vertical": false,
+            "translation": "Butter ≥ 82%"
+        },
+        {
+            "bbox": [
+                281.32038092871676,
+                613.2486480528155,
+                540.2630042835583,
+                633.6217519872492
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Garantie de transformation",
+            "uuid": "a28d1d26-ced5-4eb1-9100-8cebc09a96a9",
+            "vertical": false,
+            "translation": "Processing guarantee"
+        },
+        {
+            "bbox": [
+                607.4848906117314,
+                497.15751250698474,
+                684.5390297646104,
+                520.6191251790709
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "En l'état",
+            "uuid": "dec30637-eb91-4183-b0f8-1d9880e7e2c2",
+            "vertical": false,
+            "translation": "As is"
+        },
+        {
+            "bbox": [
+                596.7402019700052,
+                545.5481096294204,
+                695.3053389167006,
+                564.6080138075025
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Concentré",
+            "uuid": "374126b4-57c6-4590-8b21-e692b7cc7908",
+            "vertical": false,
+            "translation": "Concentrate"
+        },
+        {
+            "bbox": [
+                605.2650619981481,
+                590.6816297533945,
+                684.1200172584703,
+                613.0732080237267
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "En l'état",
+            "uuid": "4dedf4ec-392c-46b2-b39f-58014f779fb1",
+            "vertical": false,
+            "translation": "As is"
+        },
+        {
+            "bbox": [
+                596.5481740868065,
+                635.3578395037615,
+                692.6448772866132,
+                655.7399021183942
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Concentré",
+            "uuid": "3ecd674d-faf2-46d3-aba3-2c6a9108efd9",
+            "vertical": false,
+            "translation": "Concentrate"
+        },
+        {
+            "bbox": [
+                885.5198354233469,
+                399.8200816396119,
+                902.5695554796328,
+                425.4104568057059
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "A",
+            "uuid": "ba38f8fa-7976-4364-ae05-c8433e810ff9",
+            "vertical": false,
+            "translation": "A"
+        },
+        {
+            "bbox": [
+                753.3845049871315,
+                455.2658944994818,
+                863.1420778494718,
+                472.32614461021086
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Avec traceurs",
+            "uuid": "d18346a3-386d-4e95-a9ef-e6bcd7bd5911",
+            "vertical": false,
+            "translation": "With plotters"
+        },
+        {
+            "bbox": [
+                790.6807676102568,
+                497.9165197763046,
+                827.9770302333823,
+                522.440629310478
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "207",
+            "uuid": "fb4039a5-70c5-4d65-a73b-ccf1ff27d933",
+            "vertical": false,
+            "translation": "207"
+        },
+        {
+            "bbox": [
+                794.9431976243283,
+                588.5490984895534,
+                821.583385212275,
+                608.8081454960444
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "73",
+            "uuid": "18ceb6b6-1260-40ee-8d77-3196e4c95ef4",
+            "vertical": false,
+            "translation": "73"
+        },
+        {
+            "bbox": [
+                920.6848830394366,
+                452.0670976037202,
+                1032.5736709088126,
+                475.52494150597255
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "ns traceurs",
+            "uuid": "0bc69187-baf6-43da-b41f-39267a349066",
+            "vertical": false,
+            "translation": "ns plotters"
+        },
+        {
+            "bbox": [
+                959.0467531660797,
+                498.9827854082254,
+                995.2774082856872,
+                518.1755667827956
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "210",
+            "uuid": "ac224144-5188-4114-962f-ef331896ee4a",
+            "vertical": false,
+            "translation": "210"
+        },
+        {
+            "bbox": [
+                967.5716131942227,
+                590.6816297533945,
+                992.0805857751337,
+                612.0069423918061
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "73",
+            "uuid": "5887fe2d-99ef-4bf0-a7e8-292e6db70795",
+            "vertical": false,
+            "translation": "73"
+        },
+        {
+            "bbox": [
+                1222.251806534993,
+                402.79116610803675,
+                1238.7687228395198,
+                423.603863057285
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "B",
+            "uuid": "d7535c95-fdf9-4f9f-9900-0b6fa893d503",
+            "vertical": false,
+            "translation": "B"
+        },
+        {
+            "bbox": [
+                1089.0508685952595,
+                455.2658944994818,
+                1204.136478975189,
+                471.2598789782903
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Avec traceurs",
+            "uuid": "9140fe86-3d65-44fb-aa96-e1b0bc5cb7af",
+            "vertical": false,
+            "translation": "With plotters"
+        },
+        {
+            "bbox": [
+                1268.0729291862608,
+                454.1240230103911,
+                1376.2646300106019,
+                472.6171822334298
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Sans traceurs",
+            "uuid": "e6534087-0659-4103-bd0a-cf538f56039c",
+            "vertical": false,
+            "translation": "Without plotters"
+        },
+        {
+            "bbox": [
+                1302.7985465580787,
+                500.0874188114569,
+                1341.2269594409372,
+                518.2282175835239
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "212",
+            "uuid": "00e774b2-0056-41fa-80f7-54453f50c870",
+            "vertical": false,
+            "translation": "212"
+        },
+        {
+            "bbox": [
+                1308.6748435208463,
+                590.7340392763721,
+                1334.3801368344793,
+                611.3900785462556
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "73",
+            "uuid": "3152abfa-dc73-4051-9cb1-97cbcfebea3a",
+            "vertical": false,
+            "translation": "73"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

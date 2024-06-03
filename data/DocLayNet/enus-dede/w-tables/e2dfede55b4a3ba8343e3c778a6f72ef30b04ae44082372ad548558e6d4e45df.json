@@ -1,0 +1,343 @@
+{
+    "file": "e2dfede55b4a3ba8343e3c778a6f72ef30b04ae44082372ad548558e6d4e45df.png",
+    "annotations": [
+        {
+            "bbox": [
+                1.7310844966151464,
+                806.8052584928489,
+                1116.0838588147606,
+                987.1322522617801
+            ],
+            "order": "1",
+            "label": "Picture",
+            "text": "Abstract Text",
+            "uuid": "d6632e4b-3e7b-4415-971e-cec660cc75ec",
+            "vertical": false,
+            "translation": "Kurzfassung"
+        },
+        {
+            "bbox": [
+                865.8406222019017,
+                1178.7735662494517,
+                962.9812729742132,
+                1202.202194850209
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "Contents",
+            "uuid": "ab905b8d-4eca-4365-913b-69218a9c74d3",
+            "vertical": false,
+            "translation": "Inhalt"
+        },
+        {
+            "bbox": [
+                866.903141025232,
+                1257.0000000000002,
+                1229.221896196866,
+                1283.3169882432169
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Consolidated Five-Year Summary",
+            "uuid": "6af2f8b1-1754-411c-a19f-0ddd5bb6de01",
+            "vertical": false,
+            "translation": "Konsolidierte Fünfjahresübersicht"
+        },
+        {
+            "bbox": [
+                866.9833463394922,
+                1335.8048205773534,
+                1184.7052273994643,
+                1356.7131758904054
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Consolidated Balance Sheets",
+            "uuid": "42c02dd5-4e07-47d9-af4e-c0028c04718d",
+            "vertical": false,
+            "translation": "Konsolidierte Bilanzen"
+        },
+        {
+            "bbox": [
+                866.4862228610866,
+                1373.0890814577792,
+                1255.8008978166274,
+                1397.978635957297
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Consolidated Statements of Income",
+            "uuid": "9a6d38ad-2485-4d71-b960-5fd70b7416f1",
+            "vertical": false,
+            "translation": "Konzern-Gewinn und Verlustrechnung"
+        },
+        {
+            "bbox": [
+                864.9705358432184,
+                1412.361836251827,
+                1395.531949190749,
+                1438.5762465011157
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Consolidated Statements of Shareholders' Equity",
+            "uuid": "936fee92-95d7-4420-a84e-eddc9570e43f",
+            "vertical": false,
+            "translation": "Konsolidierte Eigenkapitalrechnung"
+        },
+        {
+            "bbox": [
+                864.9948524258695,
+                1450.143220610658,
+                1299.9778960308329,
+                1472.5420837913757
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Consolidated Statements of Cash Flows",
+            "uuid": "b33341ea-5798-46be-a463-7f67834910c7",
+            "vertical": false,
+            "translation": "Konsolidierte Kapitalflussrechnung"
+        },
+        {
+            "bbox": [
+                865.9754758127918,
+                1490.9999999999998,
+                1339.122092194421,
+                1511.182838119443
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Notes to Consolidated Financial Statements",
+            "uuid": "528f5fed-ee03-487b-9635-f84240c9e787",
+            "vertical": false,
+            "translation": "Anhang zum Konzernabschluss"
+        },
+        {
+            "bbox": [
+                1430.1886496201212,
+                1259.9899882637,
+                1457.1526957558267,
+                1278.1965398832606
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "70",
+            "uuid": "44d3e999-bd20-4d12-bd7f-ca5c1f5c7173",
+            "vertical": false,
+            "translation": "70"
+        },
+        {
+            "bbox": [
+                1429.4608182462684,
+                1297.1093883301764,
+                1454.9689862292232,
+                1316.775539889155
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "71",
+            "uuid": "6478ff8b-b56b-4c05-90f1-1d8e03dd920a",
+            "vertical": false,
+            "translation": "71"
+        },
+        {
+            "bbox": [
+                1429.4608182462684,
+                1336.048366831284,
+                1458.608502106896,
+                1356.4463983857822
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "72",
+            "uuid": "8deede11-af80-44d8-b85d-03e0c555bf5c",
+            "vertical": false,
+            "translation": "72"
+        },
+        {
+            "bbox": [
+                1429.8247339331947,
+                1376.0,
+                1457.5166473435938,
+                1395.0253983916764
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "74",
+            "uuid": "0b17eab0-1ebd-467d-b694-8e579173e79b",
+            "vertical": false,
+            "translation": "74"
+        },
+        {
+            "bbox": [
+                1429.8247339331947,
+                1413.5624081465733,
+                1457.153772781057,
+                1433.577770927516
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "75",
+            "uuid": "5f4cbb61-c300-425d-b70e-4ff64da5220e",
+            "vertical": false,
+            "translation": "75"
+        },
+        {
+            "bbox": [
+                1430.5671651934472,
+                1452.3882399179638,
+                1458.8774443398254,
+                1473.263482462377
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "76",
+            "uuid": "2117b2b4-9172-4eca-8422-0145af44bcc8",
+            "vertical": false,
+            "translation": "76"
+        },
+        {
+            "bbox": [
+                1429.0,
+                1492.8674284262504,
+                1456.021256979349,
+                1511.5897439600371
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "77",
+            "uuid": "bf2d171f-03cc-4593-8f2d-0a49aae7c7ab",
+            "vertical": false,
+            "translation": "77"
+        },
+        {
+            "bbox": [
+                1417.9999999999998,
+                1532.0,
+                1457.5513339623035,
+                1550.4777020417582
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "104",
+            "uuid": "2d00cc67-247d-4ff9-beae-f1fb33bf6eb9",
+            "vertical": false,
+            "translation": "104"
+        },
+        {
+            "bbox": [
+                1417.9999999999998,
+                1571.98470701909,
+                1457.3993605402632,
+                1591.2298805901494
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "105",
+            "uuid": "a00cc5a1-7adb-4683-bf85-160880577dea",
+            "vertical": false,
+            "translation": "105"
+        },
+        {
+            "bbox": [
+                1296.9999999999998,
+                2263.0,
+                1527.0001983084667,
+                2282.524350962315
+            ],
+            "order": "23",
+            "label": "Page-footer",
+            "text": "Nissan Annual Report 2004",
+            "uuid": "6f8bfdd3-8b0e-44ba-8d83-93abbc00b373",
+            "vertical": false,
+            "translation": "Nissan Jahresbericht 2004"
+        },
+        {
+            "bbox": [
+                1616.2374371675692,
+                1740.8056218697625,
+                1642.9038659900064,
+                1944.4708479331957
+            ],
+            "order": "22",
+            "label": "Page-header",
+            "text": "FINANCIAL SECTION",
+            "uuid": "6627caa2-6cb5-45fc-a177-3c89ce630cff",
+            "vertical": true,
+            "translation": "FINANZTEIL"
+        },
+        {
+            "bbox": [
+                867.4045078635432,
+                1299.0684283405794,
+                1143.3968512746708,
+                1318.2612097151498
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Business and Other Risks",
+            "uuid": "c70375e2-b077-40a0-ac32-5f21130a7479",
+            "vertical": false,
+            "translation": "Geschäfts- und andere Risiken"
+        },
+        {
+            "bbox": [
+                865.4407201278649,
+                1531.378231931021,
+                1204.3054050195228,
+                1553.18589394374
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Report of Independent Auditors",
+            "uuid": "f65f88de-ec61-437b-87e3-2fd033fb0752",
+            "vertical": false,
+            "translation": "Bericht der unabhängigen Abschlussprüfer"
+        },
+        {
+            "bbox": [
+                865.4407201278649,
+                1571.4761911156977,
+                1275.3123203183973,
+                1593.9873260965692
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Non - consolidated Five - Year Summary",
+            "uuid": "4f7bd9f3-e2a4-433b-b39e-397e4e2fc46f",
+            "vertical": false,
+            "translation": "Nicht konsolidierte Fünfjahresübersicht"
+        },
+        {
+            "bbox": [
+                861.7393567998838,
+                1253.0139905754486,
+                1463.9776572907115,
+                1603.3118177052818
+            ],
+            "order": "3",
+            "label": "Table",
+            "text": "Consolidated Five-Year Summary Business and Other Risks Consolidated Balance Sheets Consolidated Statements of Income Consolidated Statements of Shareholders' Equity Consolidated Statements of Cash Flows Notes to Consolidated Financial Statements Report of Independent Auditors Non-consolidated Five-Year Summary 70 71 72 74 75 76 77 104 105",
+            "uuid": "3e2c7bd0-2bcc-4f55-86b0-422708562934",
+            "vertical": false,
+            "translation": "Konsolidierter Fünfjahresüberblick Geschäfts- und sonstige Risiken Konsolidierte Bilanzen Konzern-Gewinn und Verlustrechnung Konsolidierte Eigenkapitalrechnung Konsolidierte Kapitalflussrechnung Anhang zum Konzernabschluss Bericht der unabhängigen Abschlussprüfer Nicht konsolidierter Fünfjahresüberblick 70 71 72 74 75 76 77 104 105"
+        },
+        {
+            "bbox": [
+                1543.1700899111806,
+                2262.8271078540524,
+                1571.2916405245965,
+                2280.7656685419342
+            ],
+            "order": "24",
+            "label": "Page-footer",
+            "text": "69",
+            "uuid": "a79cb873-715c-40d3-8c63-8b8443ae1658",
+            "vertical": false,
+            "translation": "69"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,91 @@
+{
+    "file": "141e0d52530ad60ac8c92ab6463f511935a2e42c19359a2722ac2403a3972f08.png",
+    "annotations": [
+        {
+            "bbox": [
+                585.0,
+                1076.0,
+                1057.0,
+                1113.0
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "www.smfg.co.jp/english",
+            "uuid": "3336dee9-7609-480d-aba4-def536196336",
+            "vertical": false,
+            "translation": "www.smfg.co.jp/english"
+        },
+        {
+            "bbox": [
+                639.477188178399,
+                1988.2180540520949,
+                805.5216941217172,
+                2038.9554940566818
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "SMFG",
+            "uuid": "3c17f685-d46f-4c43-80a2-bc64d441b155",
+            "vertical": false,
+            "translation": "SMFG"
+        },
+        {
+            "bbox": [
+                828.0,
+                1992.0,
+                1048.0,
+                2036.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "SUMITOMO MITSUI FINANCIAL GROUP",
+            "uuid": "968f4b6f-28dc-4d56-93c6-f4793c0f5b26",
+            "vertical": false,
+            "translation": "三井住友金融集团"
+        },
+        {
+            "bbox": [
+                1708.47446197877,
+                185.0205557969885,
+                1727.0,
+                765.4901922765223
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "SUMITOMO MITSUI FINANCIAL GROUP",
+            "uuid": "5323e549-9e3b-4e8c-b3d8-2eabe7c17ad0",
+            "vertical": true,
+            "translation": "三井住友金融集团"
+        },
+        {
+            "bbox": [
+                1705.7299246904506,
+                941.1405787289582,
+                1724.9416857086858,
+                1450.25224571219
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ANNUAL REPORT 2011",
+            "uuid": "8a4cbe28-d699-40ef-ab5e-1bbc9d0dd4c6",
+            "vertical": true,
+            "translation": "2011年年度报告"
+        },
+        {
+            "bbox": [
+                1396.2622982031037,
+                2081.5288711506346,
+                1541.0812390497892,
+                2103.4536510397743
+            ],
+            "order": "6",
+            "label": "Page-footer",
+            "text": "Printed in Japan",
+            "uuid": "1c00aaed-5701-4def-bad8-89629508280b",
+            "vertical": false,
+            "translation": "日本印刷"
+        }
+    ],
+    "page_width": 1727,
+    "page_height": 2205
+}

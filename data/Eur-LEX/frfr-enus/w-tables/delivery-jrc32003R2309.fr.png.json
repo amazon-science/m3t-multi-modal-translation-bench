@@ -1,0 +1,1547 @@
+{
+    "file": "jrc32003R2309.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                111.31982549280666,
+                134.96370816311304,
+                218.9289901358531,
+                164.66732885084934
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 342/22",
+            "uuid": "0e6f017a-8668-4716-80d4-3089f9670128",
+            "vertical": false,
+            "translation": "L 342/22"
+        },
+        {
+            "bbox": [
+                333.95947647841996,
+                140.8402296937744,
+                361.78943285162165,
+                163.11794520957642
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "b0c1e21d-fcde-4ec5-b032-98941d5a8de6",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                623.3910227597173,
+                138.9837534007906,
+                1029.7083858084616,
+                170.54385038151042
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "8e61e7d9-e8dc-4872-ad98-d87e64be86dc",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1413.7617837586447,
+                138.9837534007906,
+                1541.7795830753723,
+                164.97442150255972
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "30.12.2003",
+            "uuid": "33311076-9b0d-40a7-aa28-4e97ad0a0332",
+            "vertical": false,
+            "translation": "30.12.2003"
+        },
+        {
+            "bbox": [
+                780.679185509241,
+                246.18728073523465,
+                871.5357224442296,
+                264.74058498403576
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "4bf1946d-de17-46cc-a66e-20fd24482f9c",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                254.08211429420658,
+                311.1238456060385,
+                1047.6861511957377,
+                333.38781070459993
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Les annexes III B, IV et VI du règlement (CE)  nº 517/94 sont modifiées comme suit:",
+            "uuid": "2e810a7d-7195-4211-bec5-73b9bb2cdf7b",
+            "vertical": false,
+            "translation": "Annexes III B, IV and VI to Regulation (EC) No. 517/94 are amended as follows:"
+        },
+        {
+            "bbox": [
+                254.08211429420658,
+                340.8091324041203,
+                738.0322396009814,
+                368.63908877732194
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1) l'annexe III B est remplacée par le texte suivant:",
+            "uuid": "06778af1-b367-4031-af5c-2585388b3c13",
+            "vertical": true,
+            "translation": "1) Annex III B is replaced by the following text:"
+        },
+        {
+            "bbox": [
+                289.3122000445082,
+                398.32437557540374,
+                432.0867580852042,
+                422.4436710988451
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "«ANNEXE III B",
+            "uuid": "451bb194-d00a-484f-b4d8-d1d29493c307",
+            "vertical": true,
+            "translation": "\"ANNEX III B"
+        },
+        {
+            "bbox": [
+                294.23545193029474,
+                524.8234475473263,
+                1400.4473577616534,
+                1045.8798810284857
+            ],
+            "order": "11",
+            "label": "Table",
+            "text": "",
+            "uuid": "e5a80cd8-8dda-422f-a29d-f78fb62efbdc",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                434.4064650445767,
+                540.4032080168628,
+                517.4485676964558,
+                562.9073064728595
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Catégorie",
+            "uuid": "e06bcc85-f9b4-4e85-b1fd-29b5b525b1c5",
+            "vertical": false,
+            "translation": "Category"
+        },
+        {
+            "bbox": [
+                820.2062336147653,
+                536.9410390236326,
+                866.9174163564473,
+                561.1762219762446
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Unité",
+            "uuid": "eb7e5203-713e-4d5b-9e3e-81737414113a",
+            "vertical": false,
+            "translation": "Unit"
+        },
+        {
+            "bbox": [
+                1174.8652136904993,
+                535.2099545270173,
+                1254.4472287318836,
+                569.8316444593203
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Quantité",
+            "uuid": "bc3071eb-93c8-45c1-a4cc-9763cbca79ae",
+            "vertical": false,
+            "translation": "Quantity"
+        },
+        {
+            "bbox": [
+                467.27729734427885,
+                594.0668274119323,
+                481.1176477862588,
+                613.1087568746988
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "1cd06147-892c-4fda-801f-3b5ab2057742",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                806.3658831727854,
+                594.0668274119323,
+                875.5676353826848,
+                616.5709258679293
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "6d14840b-def3-44b0-abe5-ac564ade311f",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1180.0553451062417,
+                592.335742915317,
+                1240.6068782899038,
+                616.5709258679293
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "2 350",
+            "uuid": "e92e9575-550c-4292-af41-191d3eb5eb42",
+            "vertical": false,
+            "translation": "2,350"
+        },
+        {
+            "bbox": [
+                463.8172097337839,
+                632.1506863374656,
+                482.8476915915062,
+                649.461531303617
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "aedc8fab-9dd8-48cf-937c-cd24ac71ea29",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                808.0948862866652,
+                637.343939827311,
+                877.2966384965647,
+                658.1169537866928
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "df8227ca-bff0-4da1-9e31-841a6c8a5bed",
+            "vertical": false,
+            "translation": "Tons"
+        },
+        {
+            "bbox": [
+                1183.514392025369,
+                630.4196018408503,
+                1244.0659252090309,
+                658.1169537866928
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "2 853",
+            "uuid": "14754b03-55b7-4d3a-8346-e437c34d1b71",
+            "vertical": false,
+            "translation": "2,853"
+        },
+        {
+            "bbox": [
+                460.35608143192127,
+                666.7723762697685,
+                488.036782315881,
+                692.7386437189958
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "2a",
+            "uuid": "81985523-371b-412c-a713-15a16fa06c5f",
+            "vertical": false,
+            "translation": "2a"
+        },
+        {
+            "bbox": [
+                813.2850177024077,
+                671.9656297596138,
+                873.8365508860696,
+                689.2764747257653
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "b09f3124-4f05-4ccd-a117-18be46acb3dc",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1204.2749176883387,
+                673.696714256229,
+                1242.3358814037836,
+                691.0075592223806
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "645",
+            "uuid": "8af327ba-407b-4c7c-bbf1-4ee82bf22e75",
+            "vertical": false,
+            "translation": "645"
+        },
+        {
+            "bbox": [
+                469.00630045815865,
+                706.5873196919167,
+                481.11660709489104,
+                734.2846716377593
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "a9ffb18c-d2d2-46cd-b4aa-400910f2e13d",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                809.8249300919128,
+                710.049488685147,
+                877.2966384965647,
+                732.553587141144
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "0719a4fb-3f35-4da5-b8c9-f9d88bfa6af3",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1200.814830077844,
+                708.318404188532,
+                1242.3358814037836,
+                729.0914181479137
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "312",
+            "uuid": "7a7ed738-2d88-476f-b44c-450ec2dc82d8",
+            "vertical": false,
+            "translation": "312"
+        },
+        {
+            "bbox": [
+                463.8161690424162,
+                746.4022631140652,
+                481.11660709489104,
+                761.9820235836015
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "26a07aa5-da56-48e8-916f-49bdd1718a97",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                742.940094120835,
+                903.2472955752769,
+                768.906361570062
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "0c416bbb-ed7a-4966-8259-8533b7e28701",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1183.514392025369,
+                748.1333476106803,
+                1238.8757937932883,
+                768.906361570062
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1 326",
+            "uuid": "aaf2fcf2-02ea-4e4c-8643-891d99227047",
+            "vertical": false,
+            "translation": "1,326"
+        },
+        {
+            "bbox": [
+                467.27625665291123,
+                782.7550375429832,
+                482.84665090013857,
+                812.1834739854407
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "df1e0c8a-ce17-410a-9ed5-5674baa58a80",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                784.4861220395985,
+                904.9773393805243,
+                810.4523894888257
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "69c24ba6-c00a-4a85-a524-66fe49142643",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1200.814830077844,
+                782.7550375429832,
+                1242.3358814037836,
+                810.4523894888257
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "594",
+            "uuid": "99eb027d-ad8a-4a91-9b46-5d17458379c5",
+            "vertical": false,
+            "translation": "594"
+        },
+        {
+            "bbox": [
+                463.8161690424162,
+                820.8388964685165,
+                479.3865632896436,
+                839.8808259312832
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "a1c5a16b-850e-41de-9073-a5813fa9abfa",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                780.4131447113377,
+                820.8388964685165,
+                908.4363862996516,
+                843.3429949245135
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "5bee2b5e-dc2b-4833-b5fd-17bfd6f96fb0",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1199.0837455812286,
+                820.8388964685165,
+                1240.6047969071683,
+                843.3429949245135
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "311",
+            "uuid": "97bef8d5-6bb9-4b72-8073-caef728adc05",
+            "vertical": false,
+            "translation": "311"
+        },
+        {
+            "bbox": [
+                465.5451721562961,
+                857.1916708974345,
+                479.3855225982759,
+                883.1579383466617
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "fe4d7f26-2dd2-422d-9951-acadc771ab8b",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                778.6831009060904,
+                857.1916708974345,
+                908.4363862996516,
+                890.0822763331224
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "7acfbd5d-bac0-41a1-8058-d560f473ec89",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1185.2433951392488,
+                858.9227553940498,
+                1237.1447092966735,
+                879.6957693534315
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "1 109",
+            "uuid": "efb02569-fbc9-46cd-aa47-8ef7cce648fc",
+            "vertical": false,
+            "translation": "1,109"
+        },
+        {
+            "bbox": [
+                465.5451721562961,
+                897.0066143195829,
+                479.3855225982759,
+                922.9728817688102
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "9",
+            "uuid": "5d454312-5dce-47db-b56c-a1254e669ecf",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                806.36380179005,
+                898.7376988161982,
+                879.0256416104444,
+                921.241797272195
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "b9e9f7e0-8eee-427b-8572-a67f91c18711",
+            "vertical": true,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1202.5438331917235,
+                897.0066143195829,
+                1238.8747531019208,
+                917.7796282789647
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "292",
+            "uuid": "3c8b9afb-f6b7-4f75-8a18-15a32165f5d4",
+            "vertical": false,
+            "translation": "292"
+        },
+        {
+            "bbox": [
+                460.1364955533441,
+                935.0904732451162,
+                487.81719643730395,
+                961.0567406943435
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "4293693b-37aa-4afc-ade9-c819dcd643f7",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                778.6550022391634,
+                931.628304251886,
+                903.2181562169822,
+                961.0567406943435
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "d1b41973-5a1a-4aba-b0fb-43970d950c6c",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5157345247965,
+                935.0904732451162,
+                1242.3067420454886,
+                961.0567406943435
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "460",
+            "uuid": "b3027a25-b803-470b-870e-ffaa3fbbc6d7",
+            "vertical": false,
+            "translation": "460"
+        },
+        {
+            "bbox": [
+                458.6229155525708,
+                973.1743321706494,
+                488.03366024177797,
+                1000.8716841164917
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "16",
+            "uuid": "8e319c1c-2dbe-4544-95eb-73592a13b24b",
+            "vertical": false,
+            "translation": "16"
+        },
+        {
+            "bbox": [
+                778.6810195233551,
+                969.7121631774191,
+                904.9742173064213,
+                999.1405996198766
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "fa6ddca6-7fe3-4573-a3fa-9f58426fbfe4",
+            "vertical": false,
+            "translation": "1000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5417518089882,
+                969.7121631774191,
+                1244.062803134928,
+                999.1405996198766
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "232",
+            "uuid": "297cca4a-db79-4286-b285-02a3dd2c2f0d",
+            "vertical": false,
+            "translation": "232"
+        },
+        {
+            "bbox": [
+                458.6239562439385,
+                1007.7960221029524,
+                484.57461332265075,
+                1037.22445854541
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "67",
+            "uuid": "212cf44a-1d64-491e-89b7-61e426981369",
+            "vertical": false,
+            "translation": "67"
+        },
+        {
+            "bbox": [
+                808.0928049039301,
+                1009.5271065995674,
+                873.8344695033343,
+                1035.4933740487947
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "cfa63e4f-b12d-4715-ae31-c90736ee19c5",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1200.8127486951084,
+                1009.5271065995674,
+                1240.6037562158006,
+                1035.4933740487947
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "244",
+            "uuid": "fbd35bfa-832c-4f52-b008-c3d8e6a091dc",
+            "vertical": false,
+            "translation": "244"
+        },
+        {
+            "bbox": [
+                285.6195757191902,
+                1063.190725994637,
+                1294.2351141784725,
+                1082.2326554574036
+            ],
+            "order": "51",
+            "label": "Footnote",
+            "text": "(¹) Y compris le Kosovo, tel que défini par la résolution 1244 du 10 juin 1999 du Conseil de sécurité des Nations unies.»",
+            "uuid": "0712aaa0-c2f2-4f22-844d-5fa71abd4a66",
+            "vertical": false,
+            "translation": "(¹) Including Kosovo, as defined by United Nations Security Council Resolution 1244 of June 10, 1999.\""
+        },
+        {
+            "bbox": [
+                285.62581986739616,
+                1189.5598942475428,
+                411.91901765046237,
+                1215.5261616967698
+            ],
+            "order": "53",
+            "label": "Section-header",
+            "text": "«ANNEXE IV",
+            "uuid": "3dd9d42e-aff9-4b50-8564-abce341652b6",
+            "vertical": true,
+            "translation": "\"ANNEX IV"
+        },
+        {
+            "bbox": [
+                252.67589502375156,
+                1132.434105859243,
+                716.3276348300769,
+                1163.5936267983157
+            ],
+            "order": "52",
+            "label": "List-item",
+            "text": "2) l'annexe IV est remplacée par le texte suivant:",
+            "uuid": "5154055d-ccfd-4d76-807d-e32d1bc51bcf",
+            "vertical": true,
+            "translation": "2) Annex IV is replaced by the following text:"
+        },
+        {
+            "bbox": [
+                287.2767711287012,
+                1232.8370066629213,
+                1107.317534816008,
+                1262.2654431053788
+            ],
+            "order": "54",
+            "label": "Section-header",
+            "text": "Limites quantitatives communautaires annuelles visées à l'article 3, paragraphe 1",
+            "uuid": "feb97f18-0b71-4fc9-b9c1-139d9c88cb57",
+            "vertical": true,
+            "translation": "Annual Community quantitative limits referred to in Article 3 paragraph 1"
+        },
+        {
+            "bbox": [
+                287.345456758967,
+                1288.231710554606,
+                444.7794430364879,
+                1312.4668935072182
+            ],
+            "order": "55",
+            "label": "Section-header",
+            "text": "Corée du Nord",
+            "uuid": "09d5558f-a8bf-4ba8-a4b3-33268624f877",
+            "vertical": false,
+            "translation": "North Korea"
+        },
+        {
+            "bbox": [
+                283.8270904318829,
+                443.46247620641464,
+                1271.6821032281953,
+                465.96657466241135
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "Limites quantitatives communautaires annuelles visées à l'article 2, paragraphe 1, quatrième tiret",
+            "uuid": "38e1204b-71bf-46c3-8383-0ccd807c07aa",
+            "vertical": true,
+            "translation": "Annual Community quantitative limits referred to in Article 2 paragraph 1, fourth indent"
+        },
+        {
+            "bbox": [
+                287.3194394747754,
+                479.8152506353326,
+                538.1757912356603,
+                509.24368707779007
+            ],
+            "order": "10",
+            "label": "Section-header",
+            "text": "Serbie-et-Monténégro (¹)",
+            "uuid": "c133651f-a8c9-4870-9ecb-81b1b66fd863",
+            "vertical": false,
+            "translation": "Serbia and Montenegro (¹)"
+        },
+        {
+            "bbox": [
+                292.4700246185466,
+                1345.3574989429057,
+                1396.2379723664408,
+                2198.782155774173
+            ],
+            "order": "56",
+            "label": "Table",
+            "text": "",
+            "uuid": "cf4c84be-bffe-4347-bec0-1d72161e05d0",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                432.6462411896669,
+                1357.4750904192122,
+                517.4183876467936,
+                1388.6346113582845
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Catégorie",
+            "uuid": "843e3c44-0348-495c-8e35-14a8462bfce4",
+            "vertical": false,
+            "translation": "Category"
+        },
+        {
+            "bbox": [
+                816.715965954608,
+                1357.4750904192122,
+                865.1571925015377,
+                1385.1724423650544
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Unité",
+            "uuid": "f5f77e45-9a97-45ff-ad17-5e366b474399",
+            "vertical": false,
+            "translation": "Unit"
+        },
+        {
+            "bbox": [
+                1173.1049898355895,
+                1359.206174915827,
+                1249.2269172664787,
+                1381.710273371824
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Quantité",
+            "uuid": "4d241a37-3209-4ff1-93bc-52a67a0b3037",
+            "vertical": false,
+            "translation": "Quantity"
+        },
+        {
+            "bbox": [
+                463.80680282010724,
+                1407.6765408210513,
+                479.3771970673346,
+                1437.1049772635085
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "cc95a5ff-7448-451d-91d7-cc6dab73218b",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                811.5456076748512,
+                1414.600878807512,
+                877.2872722742557,
+                1442.2982307533543
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "80a50995-25cc-4aff-9426-0582ad412a23",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1205.9955952712771,
+                1409.4076253176663,
+                1242.3265151814744,
+                1438.8360617601238
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "128",
+            "uuid": "372a2e72-6be5-4a25-a1da-4db809886a67",
+            "vertical": false,
+            "translation": "128"
+        },
+        {
+            "bbox": [
+                465.5441314649284,
+                1456.1469067262753,
+                484.57461332265075,
+                1482.1131741755025
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "ca7b488d-b54c-4ecb-8943-4d63f866e4b6",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                808.0928049039301,
+                1457.8779912228906,
+                877.2945571138292,
+                1490.7685966585782
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "871f9080-acab-420b-9443-c028188db479",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1204.2728363056035,
+                1461.3401602161205,
+                1244.0638438262956,
+                1485.5753431687328
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "150",
+            "uuid": "64313a7d-553e-4d65-a54c-5fb35a723af3",
+            "vertical": false,
+            "translation": "150"
+        },
+        {
+            "bbox": [
+                463.814087659681,
+                1508.0794416247297,
+                481.1145257121557,
+                1527.1213710874963
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "5ac51ccc-70e5-4cf0-8d3c-a055d7abc4a3",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                808.0928049039301,
+                1509.8105261213448,
+                873.8344695033343,
+                1535.776793570572
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "cc49da5e-9c90-4722-ad7b-0be9c6bb5075",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1216.3831429423358,
+                1508.0794416247297,
+                1237.143668605306,
+                1532.3146245773416
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "81",
+            "uuid": "46107909-00f3-429e-9400-f54c381c9f6e",
+            "vertical": false,
+            "translation": "81"
+        },
+        {
+            "bbox": [
+                463.8161690424162,
+                1554.8187230333385,
+                481.11660709489104,
+                1575.5917369927206
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "7f190e69-3946-4ebd-bf96-7b0bd24cd612",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                780.4141854027056,
+                1553.0876385367235,
+                910.1674707962668,
+                1582.516074979181
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "cb970829-1cc4-4aa8-b69b-ea4908c95a87",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5448738830914,
+                1553.0876385367235,
+                1240.605837598536,
+                1577.3228214893354
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "289",
+            "uuid": "4828fe89-9e95-4e02-a442-ec67e895433d",
+            "vertical": false,
+            "translation": "289"
+        },
+        {
+            "bbox": [
+                467.27625665291123,
+                1601.5580044419478,
+                481.11660709489104,
+                1625.7931873945597
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "40b6c312-c9c5-4176-aa91-28f86f5b7310",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                776.9540977922106,
+                1599.8269199453325,
+                908.4374269910192,
+                1632.7175253810203
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "31851e79-8235-42c2-b9fb-7fff64563f1e",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5448738830914,
+                1598.0958354487173,
+                1240.605837598536,
+                1627.5242718911747
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "188",
+            "uuid": "f9ec1854-269c-4e78-8c6b-5415c59e98ea",
+            "vertical": false,
+            "translation": "188"
+        },
+        {
+            "bbox": [
+                467.27625665291123,
+                1646.5662013539413,
+                484.57669470538605,
+                1667.3392153133232
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "d5083436-c7c3-4487-a09f-0ed845ca0766",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                1648.2972858505564,
+                903.2472955752769,
+                1677.7257222930143
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "c8753178-7586-4011-a370-aecea2bcde52",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1204.2749176883387,
+                1648.2972858505564,
+                1240.605837598536,
+                1670.8013843065535
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "218",
+            "uuid": "4aa3a38f-32c7-4d79-9cb3-12206c6585bd",
+            "vertical": false,
+            "translation": "218"
+        },
+        {
+            "bbox": [
+                463.8161690424162,
+                1693.3054827625504,
+                481.11660709489104,
+                1715.8095812185472
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "24827807-c588-4e94-adf1-a3dd2029deab",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                1698.4987362523957,
+                903.2472955752769,
+                1717.5406657151625
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "a6b4be80-8b88-45d4-bb74-8c77e1ad1ae5",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1211.1950929093287,
+                1696.7676517557804,
+                1242.3358814037836,
+                1717.5406657151625
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "97",
+            "uuid": "45ce6c65-cb71-4e4a-9a55-fc5ab21015b6",
+            "vertical": false,
+            "translation": "97"
+        },
+        {
+            "bbox": [
+                463.8161690424162,
+                1740.0447641711592,
+                484.57669470538605,
+                1766.0110316203863
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "a52b01bb-d13a-4342-825a-63b913de5412",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                782.1442292079531,
+                1741.7758486677744,
+                903.2472955752769,
+                1769.4732006136169
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "ec92d6f5-d9b7-4573-a345-7e5ac0f7e5db",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1204.2749176883387,
+                1741.7758486677744,
+                1242.3358814037836,
+                1759.086693633926
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "302",
+            "uuid": "6c32c96d-e73a-428c-9404-9fea9831f9e2",
+            "vertical": false,
+            "translation": "302"
+        },
+        {
+            "bbox": [
+                465.5462128476637,
+                1788.5151300763835,
+                482.84665090013857,
+                1811.0192285323803
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "9",
+            "uuid": "3ddc45a2-33de-4b3f-8122-17576720a35a",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                808.0948862866652,
+                1790.2462145729985,
+                872.1065070808222,
+                1811.0192285323803
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "4c97c0f1-3657-4814-be36-6d4643a7301d",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1214.6551805198235,
+                1790.2462145729985,
+                1240.605837598536,
+                1812.7503130289954
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "71",
+            "uuid": "37cc45e6-fc0f-4f66-957d-4f1f01f42569",
+            "vertical": false,
+            "translation": "71"
+        },
+        {
+            "bbox": [
+                460.35608143192127,
+                1831.792242491762,
+                488.036782315881,
+                1861.2206789342197
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "8d0b5d3b-adc8-4ebe-9fa4-34f1bfffcbbb",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                778.6851822888258,
+                1835.2544114849925,
+                906.7084238771395,
+                1859.4895944376044
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "189f4917-4a85-4a3a-991e-e73ca217265f",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1183.5154327167365,
+                1835.2544114849925,
+                1242.336922095151,
+                1856.027425444374
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "1 308",
+            "uuid": "4b96423a-fda5-4889-aad7-1a4b9fe0b3ff",
+            "vertical": false,
+            "translation": "1,308"
+        },
+        {
+            "bbox": [
+                456.8970345127939,
+                1880.2626083969863,
+                489.76786681249615,
+                1906.2288758462134
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "3eecbb76-6d72-4e13-9927-302f2eadee08",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                1881.9936928936013,
+                910.1674707962668,
+                1907.9599603428285
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "b6cb28af-2826-427d-9cf3-df38099fe279",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1183.514392025369,
+                1880.2626083969863,
+                1238.8757937932883,
+                1907.9599603428285
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "1 509",
+            "uuid": "6294bec6-8659-46ac-b91c-0b91e3c96202",
+            "vertical": false,
+            "translation": "1,509"
+        },
+        {
+            "bbox": [
+                456.8959938214263,
+                1927.001889805595,
+                486.30673851063347,
+                1952.9681572548225
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "14",
+            "uuid": "9678f869-8985-4fbd-a865-0c24cfb81a14",
+            "vertical": false,
+            "translation": "14"
+        },
+        {
+            "bbox": [
+                776.9530571008428,
+                1927.001889805595,
+                908.4363862996516,
+                1958.1614107446676
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "c352c60b-2103-4916-a047-e87e0f4f08f2",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5438331917235,
+                1928.7329743022103,
+                1240.6047969071683,
+                1952.9681572548225
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "154",
+            "uuid": "f9913f25-d8bd-45e6-92f3-97c0fcf11baf",
+            "vertical": false,
+            "translation": "154"
+        },
+        {
+            "bbox": [
+                456.89495313005864,
+                1972.0100867175888,
+                486.30569781926584,
+                1999.7074386634313
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "d0629880-65b8-4dec-96ed-2b85cb498442",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                780.4131447113377,
+                1973.741171214204,
+                908.4363862996516,
+                2001.4385231600463
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "757a0127-8c21-4ba8-8c80-15e6307ffa8e",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1204.273876996971,
+                1973.741171214204,
+                1244.0648845176634,
+                1999.7074386634313
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "175",
+            "uuid": "619fc708-d598-47a0-9ecf-e4e5ae0f4f7c",
+            "vertical": false,
+            "translation": "175"
+        },
+        {
+            "bbox": [
+                458.6249969353061,
+                2020.4804526228131,
+                488.0357416245134,
+                2046.4467200720403
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "16",
+            "uuid": "8604112e-a00d-4e30-a9db-83ac7a75ccb8",
+            "vertical": false,
+            "translation": "16"
+        },
+        {
+            "bbox": [
+                776.9530571008428,
+                2025.6737061126582,
+                904.9762986891565,
+                2046.4467200720403
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "ff17e5db-9cbe-44f1-b407-2d449a225d6b",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1212.9240960232084,
+                2022.2115371194282,
+                1240.6047969071683,
+                2051.6399735618857
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "88",
+            "uuid": "26e9cc0a-5b97-4444-920d-558d2a9bd818",
+            "vertical": false,
+            "translation": "88"
+        },
+        {
+            "bbox": [
+                462.0861252371688,
+                2068.950818528037,
+                488.036782315881,
+                2094.9170859772644
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "17",
+            "uuid": "d6e1d9da-38c5-4752-abeb-af63048355cc",
+            "vertical": false,
+            "translation": "17"
+        },
+        {
+            "bbox": [
+                778.6841415974579,
+                2067.219734031422,
+                908.4374269910192,
+                2093.186001480649
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "73461487-60d1-49f7-a214-7d34667c4b80",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1211.1950929093287,
+                2070.6819030246525,
+                1242.3358814037836,
+                2094.9170859772644
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "61",
+            "uuid": "8d65788a-aa07-4cf6-a67d-9d092110834e",
+            "vertical": false,
+            "translation": "61"
+        },
+        {
+            "bbox": [
+                460.35608143192127,
+                2112.2279309434157,
+                488.036782315881,
+                2139.925282889258
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "09200687-3f41-4084-8f4e-b69a0d2f9d9c",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                809.8249300919128,
+                2119.1522689298763,
+                879.0266823018119,
+                2139.925282889258
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "tonnes",
+            "uuid": "7122d59a-06d7-4fac-8924-2f7030b07d5b",
+            "vertical": false,
+            "translation": "tons"
+        },
+        {
+            "bbox": [
+                1211.1950929093287,
+                2117.4211844332613,
+                1237.145749988041,
+                2139.925282889258
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "61",
+            "uuid": "cc45770d-669f-4232-90c6-7bb1f31004cf",
+            "vertical": false,
+            "translation": "61"
+        },
+        {
+            "bbox": [
+                460.35608143192127,
+                2160.69829684864,
+                488.036782315881,
+                2183.202395304637
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "bb58ca08-e3cb-45b9-b529-6ae857f607ee",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                780.4141854027056,
+                2160.69829684864,
+                910.1674707962668,
+                2191.8578177877125
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "1 000 pièces",
+            "uuid": "91b5207f-f490-445d-9650-94444561146d",
+            "vertical": false,
+            "translation": "1,000 pieces"
+        },
+        {
+            "bbox": [
+                1202.5448738830914,
+                2160.69829684864,
+                1242.3358814037836,
+                2186.664564297867
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "411",
+            "uuid": "87a78a7c-8f10-4605-8461-44a894151bf9",
+            "vertical": false,
+            "translation": "411"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

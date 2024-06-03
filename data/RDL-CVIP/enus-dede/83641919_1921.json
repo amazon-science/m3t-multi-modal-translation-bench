@@ -1,0 +1,1491 @@
+{
+    "file": "83641919_1921.png",
+    "annotations": [
+        {
+            "bbox": [
+                76.0,
+                120.0,
+                96.33344347584115,
+                128.65111662918483
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "31bad813-0818-4d53-97c4-7716001a7e12",
+            "vertical": false,
+            "translation": "AN:"
+        },
+        {
+            "bbox": [
+                76.0,
+                149.98134742689928,
+                113.76664073511975,
+                158.6989774033163
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "bf3f207d-7495-42ec-a64c-99fc5d776a38",
+            "vertical": false,
+            "translation": "VON:"
+        },
+        {
+            "bbox": [
+                144.0521271847468,
+                119.45750901296981,
+                204.07528182736343,
+                129.55255245240883
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "S. P. ZOLOT",
+            "uuid": "e22ff972-2431-4783-b156-0399fe89b580",
+            "vertical": false,
+            "translation": "S. P. ZOLOT"
+        },
+        {
+            "bbox": [
+                144.44280587172426,
+                149.38336362366965,
+                243.56291779366867,
+                159.52285827696733
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "R. W. RICHARDSON",
+            "uuid": "ab7fb79a-04a6-4c21-8426-792c0eeb4e80",
+            "vertical": false,
+            "translation": "R. W. RICHARDSON"
+        },
+        {
+            "bbox": [
+                76.0,
+                207.0,
+                412.0,
+                215.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "SUBJECT: OLD GOLD-LIGHT BOX 100'S PROGRESS REPORT",
+            "uuid": "47d5cc70-9a07-42a7-b1a9-faae98183e87",
+            "vertical": false,
+            "translation": "BETREFF: ALTE GOLD LIGHT BOX 100S ZWISCHENBERICHT"
+        },
+        {
+            "bbox": [
+                97.97944572253735,
+                333.90979849363976,
+                186.1822005486827,
+                342.6238055969457
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "66d637a8-483f-4ca3-9eee-d97058b89d6a",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                78.03033815828113,
+                493.44678322909084,
+                138.79732716650005,
+                505.40504685071807
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Quality Dairy",
+            "uuid": "2fdb14d9-224b-45fb-8c0b-6b5ecfd91055",
+            "vertical": false,
+            "translation": "Quality Dairy"
+        },
+        {
+            "bbox": [
+                77.51243768377925,
+                514.3096814351516,
+                133.4456889299808,
+                524.7399978987877
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Bay Stations",
+            "uuid": "9b1bb901-3087-4fce-a0c6-7e442344cdd5",
+            "vertical": false,
+            "translation": "Bay-Stationen"
+        },
+        {
+            "bbox": [
+                168.96672310068806,
+                238.90586739174358,
+                241.8668313063937,
+                247.83241125366672
+            ],
+            "order": "11",
+            "label": "Section-header",
+            "text": "GEOGRAPHY",
+            "uuid": "c72a8b48-b9a5-451f-90df-2f68656e7dc0",
+            "vertical": false,
+            "translation": "STANDORT"
+        },
+        {
+            "bbox": [
+                76.0,
+                263.0,
+                124.0,
+                272.0
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "REGION:",
+            "uuid": "1863d43d-80a8-414b-ad83-ce451f12c224",
+            "vertical": false,
+            "translation": "REGION:"
+        },
+        {
+            "bbox": [
+                294.0,
+                263.0,
+                322.0,
+                272.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "e54cc8b1-e43c-4ac2-a072-edc0649b9eaa",
+            "vertical": false,
+            "translation": "GESAMT"
+        },
+        {
+            "bbox": [
+                76.0,
+                283.96366021859365,
+                413.80906902772284,
+                294.8030349080718
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)",
+            "uuid": "b7cf1498-f1f8-4e9a-80a0-273b717fc20f",
+            "vertical": false,
+            "translation": "(NUR WENN DIE TEILREGION DEN GELTUNGSBEREICH DER ABTEILUNG(EN) ÜBERNIMMT)"
+        },
+        {
+            "bbox": [
+                76.93830661943281,
+                307.98031394233925,
+                131.1351800668233,
+                317.3319313214968
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "DIVISION:",
+            "uuid": "2cb07be9-5aca-4453-b4f4-7499de910406",
+            "vertical": false,
+            "translation": "ABTEILUNG:"
+        },
+        {
+            "bbox": [
+                294.2263916283407,
+                308.4063197205512,
+                322.7736083716593,
+                318.99320765761496
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "5f6ca843-5296-4e1a-acbc-3e3f04e96a91",
+            "vertical": false,
+            "translation": "GESAMT"
+        },
+        {
+            "bbox": [
+                294.0067725367671,
+                334.1149437785288,
+                382.0108346178475,
+                344.0816034589129
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "7b08c911-b033-491c-a3f1-da92815416c0",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                77.51243768377925,
+                530.6903185648486,
+                143.61203292547674,
+                541.3128130828474
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Schmuckal Oil",
+            "uuid": "0f24feda-16c8-4de1-ab53-c8e5ced5bc3a",
+            "vertical": false,
+            "translation": "Schmuckal Oil"
+        },
+        {
+            "bbox": [
+                78.0,
+                549.0,
+                126.02244879545405,
+                559.4393296904128
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Wilson Oil",
+            "uuid": "db024064-69f7-4762-9140-1f24558d2c51",
+            "vertical": false,
+            "translation": "Wilson Oil"
+        },
+        {
+            "bbox": [
+                78.0,
+                568.0,
+                122.91504594844285,
+                578.7742807384824
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Quik Stop",
+            "uuid": "ae0646b6-e776-46eb-a438-0bf1cef5b5e4",
+            "vertical": false,
+            "translation": "Quik Stop"
+        },
+        {
+            "bbox": [
+                78.37075481028286,
+                585.1550446857236,
+                119.11710913542916,
+                595.2925994305817
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Forwards",
+            "uuid": "b6e10bb9-a5bb-48fe-a6ff-bae48f148568",
+            "vertical": false,
+            "translation": "Forwards"
+        },
+        {
+            "bbox": [
+                76.99453720927741,
+                603.9787704975732,
+                119.4623761184304,
+                613.1283455471062
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Phil Flint",
+            "uuid": "7d6f9251-c567-484d-955d-cdeff063d560",
+            "vertical": false,
+            "translation": "Phil Flint"
+        },
+        {
+            "bbox": [
+                78.0,
+                621.9326536136379,
+                119.11710913542916,
+                630.564328188669
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Arbor Rx",
+            "uuid": "da6ab42a-9cd6-4ae5-9cdb-d6fc498c54b5",
+            "vertical": false,
+            "translation": "Arbor Rx"
+        },
+        {
+            "bbox": [
+                78.81792592102177,
+                638.6729408494664,
+                132.0646209979758,
+                650.5898132027411
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Imperial Oil",
+            "uuid": "cce86ff4-91a1-41b0-b5cc-f5ca4370dc44",
+            "vertical": false,
+            "translation": "Imperial Oil"
+        },
+        {
+            "bbox": [
+                165.0939456591855,
+                407.12715749242943,
+                246.09394565918552,
+                418.12715749242943
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "DISTRIBUTION",
+            "uuid": "e864b171-ae53-48bb-a2b8-48a8751cf07e",
+            "vertical": false,
+            "translation": "VERTRIEB"
+        },
+        {
+            "bbox": [
+                76.99453720927741,
+                433.99999999999994,
+                367.3640699133236,
+                444.46542435099843
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "Direct Accounts and Chains Headquartered within the Region",
+            "uuid": "47ab098c-3506-4729-9d00-8b5b1422e795",
+            "vertical": false,
+            "translation": "Direktkunden und Ketten mit Hauptsitz in der Region"
+        },
+        {
+            "bbox": [
+                91.22639580955327,
+                469.5268016969918,
+                173.46413815644928,
+                478.57963184482657
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Name of Account",
+            "uuid": "33809b38-2cf5-4219-ab61-b2ca99413531",
+            "vertical": false,
+            "translation": "Kundenname"
+        },
+        {
+            "bbox": [
+                79.10269537069443,
+                732.7936994478124,
+                122.4378010134359,
+                743.2546340232927
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Clark Gas",
+            "uuid": "e5b4d6a0-f18d-4e09-b450-7c295c782f67",
+            "vertical": false,
+            "translation": "Clark Gas"
+        },
+        {
+            "bbox": [
+                77.77220874230058,
+                752.9603810249838,
+                103.53112662438443,
+                762.5276138483592
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "Emro",
+            "uuid": "918e9360-6803-485d-8848-1a0affb62729",
+            "vertical": false,
+            "translation": "Emro"
+        },
+        {
+            "bbox": [
+                78.8861043711503,
+                770.9558903832375,
+                166.17372249172374,
+                780.0675406912142
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "7-Eleven Southland",
+            "uuid": "709b31b6-d129-44c3-9c5f-f9256c981a32",
+            "vertical": false,
+            "translation": "7-Eleven Southland"
+        },
+        {
+            "bbox": [
+                79.0,
+                788.9513997414914,
+                117.31249771519906,
+                798.2908413071674
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "Walmart",
+            "uuid": "2c4c0430-61eb-4682-9264-c1e6b67d1eae",
+            "vertical": false,
+            "translation": "Walmart"
+        },
+        {
+            "bbox": [
+                79.0,
+                806.9469090997452,
+                145.4447180410769,
+                815.4890812634733
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "Ultra Diamond",
+            "uuid": "4becd11f-9f72-4273-94c2-7e200232cb9f",
+            "vertical": false,
+            "translation": "Ultra Diamant"
+        },
+        {
+            "bbox": [
+                79.0,
+                824.0,
+                127.90479119822189,
+                835.079129425623
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Dairy Mart",
+            "uuid": "c486662b-8bac-4a14-8452-31635e92a4a1",
+            "vertical": false,
+            "translation": "Dairy Mart"
+        },
+        {
+            "bbox": [
+                79.0,
+                842.0,
+                123.00727915768445,
+                851.3662043511313
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "Mobil Oil",
+            "uuid": "fa7d69c8-6808-4dbf-822f-b95f3f9cd483",
+            "vertical": false,
+            "translation": "Mobil Oil"
+        },
+        {
+            "bbox": [
+                79.0,
+                860.0,
+                138.04150216584588,
+                869.3617137093851
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "ACA Amoco",
+            "uuid": "86594001-02db-4e60-adb0-b43bec8a48fc",
+            "vertical": false,
+            "translation": "ACA Amoco"
+        },
+        {
+            "bbox": [
+                205.77912186874138,
+                462.1042461171765,
+                244.28320249763928,
+                486.4214959498788
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Ind/Lor Volume",
+            "uuid": "3945f2b2-8b26-414c-8243-c6a8542bbd26",
+            "vertical": false,
+            "translation": "Ind-/Lor-Anzahl"
+        },
+        {
+            "bbox": [
+                208.99999999999997,
+                494.0,
+                239.96055318586454,
+                503.50607844421114
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "151/15",
+            "uuid": "c638903c-bbda-44ee-b1f5-e6f89b2de43a",
+            "vertical": false,
+            "translation": "151/15"
+        },
+        {
+            "bbox": [
+                76.0,
+                953.0,
+                195.60964419199988,
+                960.5976272272746
+            ],
+            "order": "105",
+            "label": "Page-footer",
+            "text": "PRGRESS RPT OLD GOID LT BOX.XLS",
+            "uuid": "cb055b3f-de34-491c-9471-4024a483fd8b",
+            "vertical": false,
+            "translation": "ZWISCHENBERICHT OLD GOID LT BOX.XLS"
+        },
+        {
+            "bbox": [
+                214.00000000000003,
+                515.0,
+                235.644715898349,
+                523.8768304412846
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "81/9",
+            "uuid": "c9f54805-772f-4982-8c2e-3ec2b10d05ac",
+            "vertical": false,
+            "translation": "81/9"
+        },
+        {
+            "bbox": [
+                211.9939275627638,
+                533.0,
+                238.0615847793577,
+                541.3128130828474
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "138/9",
+            "uuid": "16d601c1-52ea-4896-afa4-a0d6498745b0",
+            "vertical": false,
+            "translation": "138/9"
+        },
+        {
+            "bbox": [
+                209.92232566475636,
+                549.9444876578785,
+                239.96055318586454,
+                559.2666961989121
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "140/13",
+            "uuid": "2a3032b5-3acb-4717-9c1e-25d3f9302f66",
+            "vertical": false,
+            "translation": "140/13"
+        },
+        {
+            "bbox": [
+                211.9939275627638,
+                568.0,
+                237.37105081335523,
+                577.7384797894787
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "117/9",
+            "uuid": "19dd552c-2a47-490f-aa75-3ec4abaf506b",
+            "vertical": false,
+            "translation": "117/9"
+        },
+        {
+            "bbox": [
+                213.237861040067,
+                585.296066510864,
+                237.70908411959522,
+                595.2925994305817
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "118/8",
+            "uuid": "3b2a5dc7-c792-409a-ba2e-2d7828e7cf57",
+            "vertical": false,
+            "translation": "118/8"
+        },
+        {
+            "bbox": [
+                209.92232566475636,
+                602.9429695485695,
+                239.78791969436392,
+                612.6104450726043
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "166/15",
+            "uuid": "3340399e-b292-4db5-bab5-f98db3bca429",
+            "vertical": false,
+            "translation": "166/15"
+        },
+        {
+            "bbox": [
+                209.92232566475636,
+                621.0,
+                239.78791969436392,
+                630.7369616801697
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "115/13",
+            "uuid": "d5984002-77ba-41bf-8d0c-7fecc6cd354d",
+            "vertical": false,
+            "translation": "115/13"
+        },
+        {
+            "bbox": [
+                209.92232566475636,
+                640.0,
+                239.09738572836142,
+                648.5182113047337
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "163/11",
+            "uuid": "d415e1c2-6d44-47ec-b8f9-091425b5f018",
+            "vertical": false,
+            "translation": "163/11"
+        },
+        {
+            "bbox": [
+                270.0,
+                463.00000000000006,
+                323.9708764708734,
+                487.8113570628639
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Number of Stores",
+            "uuid": "f76320c6-e884-49e9-95ad-db6401862ed7",
+            "vertical": false,
+            "translation": "Anzahl der Filialen"
+        },
+        {
+            "bbox": [
+                291.9232341275517,
+                494.0,
+                303.48967805809343,
+                503.67871193571176
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "31",
+            "uuid": "def48738-12d2-4872-afb0-ee1c2cf11836",
+            "vertical": false,
+            "translation": "31"
+        },
+        {
+            "bbox": [
+                291.9232341275517,
+                515.0,
+                303.3170445665928,
+                523.1862964752821
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "7e529b90-ff7c-425a-b65d-65be8d96abe4",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                291.9232341275517,
+                533.0,
+                304.1802120240959,
+                540.9675460998462
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "22",
+            "uuid": "aa94247e-89c6-45f8-92e8-95d08db82815",
+            "vertical": false,
+            "translation": "22"
+        },
+        {
+            "bbox": [
+                291.9232341275517,
+                549.0,
+                303.48967805809343,
+                559.4393296904128
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "a0aec3b7-0d6f-4e82-9b65-485415c55e0b",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                292.55370142350563,
+                567.6903185648484,
+                303.83494504109467,
+                577.3932128064773
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "24",
+            "uuid": "e7c9049e-fc90-4a3a-bb19-41d3a3e3e97f",
+            "vertical": false,
+            "translation": "24"
+        },
+        {
+            "bbox": [
+                292.9590350765555,
+                584.9890864325048,
+                304.1802120240959,
+                594.3112949735383
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "22666d5a-bf7f-4937-9e58-dc5f50b7502b",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                292.9590350765555,
+                602.9429695485695,
+                303.14441107509214,
+                612.4378115811037
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "a8a03672-9bf6-4d71-b607-cf36f901ddda",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                288.9884647720412,
+                621.9326536136379,
+                306.59708090510463,
+                630.9095951716703
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "209",
+            "uuid": "9b4061c9-5263-479c-8b5f-06e5dd9e3b0b",
+            "vertical": false,
+            "translation": "209"
+        },
+        {
+            "bbox": [
+                293.1316685680561,
+                639.1371017939393,
+                304.6981124985978,
+                648.8634782877349
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "32",
+            "uuid": "f84808b0-eaa9-4460-8447-a20738d4806c",
+            "vertical": false,
+            "translation": "32"
+        },
+        {
+            "bbox": [
+                361.4382707634914,
+                148.17972136398683,
+                398.7825199033239,
+                157.497062972351
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "OCT 05",
+            "uuid": "22603537-7cca-4b84-b5c0-e2a9e57efdcf",
+            "vertical": false,
+            "translation": "05. OKT."
+        },
+        {
+            "bbox": [
+                205.83935239691704,
+                702.3789033995961,
+                244.52820610712104,
+                725.1693561279044
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Ind/Lor Volume",
+            "uuid": "0ef3844a-aa1f-4bbb-8d01-63fadc37432f",
+            "vertical": false,
+            "translation": "Ind-/Lor-Anzahl"
+        },
+        {
+            "bbox": [
+                359.93540893079495,
+                176.99999999999994,
+                398.70924421436285,
+                185.89974522834396
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "NOV 16",
+            "uuid": "727d8f99-021d-4195-be92-5b25e374b0d4",
+            "vertical": false,
+            "translation": "16. NOV."
+        },
+        {
+            "bbox": [
+                78.0,
+                673.0,
+                374.00098133004377,
+                682.349094935174
+            ],
+            "order": "79",
+            "label": "Text",
+            "text": "Direct Accounts and Chains Headquartered Outside the Region",
+            "uuid": "ce39a92b-797a-4b74-9039-a87d8ecc8a8f",
+            "vertical": false,
+            "translation": "Direktkunden und Ketten mit Hauptsitz außerhalb der Region"
+        },
+        {
+            "bbox": [
+                92.0,
+                709.0,
+                173.0,
+                718.0
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "Name of Account",
+            "uuid": "49495ca4-d6fc-4746-a9e7-fae2028ed51f",
+            "vertical": false,
+            "translation": "Kundenname"
+        },
+        {
+            "bbox": [
+                270.8830013238811,
+                702.9408960591699,
+                324.8216370194124,
+                727.1517756275679
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "Number of Stores",
+            "uuid": "ea4777af-6599-41a2-9669-57c2a52c0788",
+            "vertical": false,
+            "translation": "Anzahl der Filialen"
+        },
+        {
+            "bbox": [
+                291.00000000000006,
+                733.0,
+                307.63209352306086,
+                742.1495690768196
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "142",
+            "uuid": "544a19f8-855e-4cda-9aca-855cf401fc60",
+            "vertical": false,
+            "translation": "142"
+        },
+        {
+            "bbox": [
+                289.9782710513561,
+                753.9854416846312,
+                307.7459891519106,
+                762.6443872404164
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "237",
+            "uuid": "ad0217a2-c6fe-4aa5-a220-9721a0e05022",
+            "vertical": false,
+            "translation": "237"
+        },
+        {
+            "bbox": [
+                291.00000000000006,
+                770.9558903832375,
+                307.51819789421114,
+                780.1814363200639
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "102",
+            "uuid": "9db150ec-e0a1-44b4-8324-c125e5dade4e",
+            "vertical": false,
+            "translation": "102"
+        },
+        {
+            "bbox": [
+                291.00000000000006,
+                806.9469090997452,
+                308.31546729615906,
+                815.3751856346237
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "184",
+            "uuid": "a28bdd1b-7325-4349-9d1a-ee8792fb89ec",
+            "vertical": false,
+            "translation": "184"
+        },
+        {
+            "bbox": [
+                293.00000000000006,
+                824.0,
+                304.1013290287199,
+                833.0290081063283
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "32",
+            "uuid": "2ef65c34-e0ae-4002-9e14-1b3532c63364",
+            "vertical": false,
+            "translation": "32"
+        },
+        {
+            "bbox": [
+                293.62293117454675,
+                842.3232936592025,
+                305.240285317217,
+                850.7967262068827
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "40",
+            "uuid": "7c771d5b-65e3-4a31-ba22-7d01610319fd",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                293.00000000000006,
+                860.0,
+                303.98743339987016,
+                868.6783399362869
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "31",
+            "uuid": "16735dd9-443d-4e3e-a57e-525159b3594a",
+            "vertical": false,
+            "translation": "31"
+        },
+        {
+            "bbox": [
+                330.42708793065486,
+                308.01655098392223,
+                385.9583155949667,
+                318.0034444646387
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "cfc33c7f-f990-4435-9c6d-df052dd2c492",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                440.90845765499313,
+                120.0688240892579,
+                541.8483042519592,
+                131.07204660657968
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "SUBMISSION DATE",
+            "uuid": "1781ba7a-0640-4263-ba4a-5a0115d5057a",
+            "vertical": false,
+            "translation": "EINREICHUNGSDATUM"
+        },
+        {
+            "bbox": [
+                362.0,
+                470.0,
+                442.97753919059596,
+                478.81948915962226
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Name of Account",
+            "uuid": "89c2f186-1fae-42db-b1fc-3a406be57c16",
+            "vertical": false,
+            "translation": "Kundenname"
+        },
+        {
+            "bbox": [
+                335.9447744602104,
+                496.0,
+                379.4484143183671,
+                507.47664874872544
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Speedy Q",
+            "uuid": "bfb23408-2d1c-4f1e-ae02-232fc633e864",
+            "vertical": false,
+            "translation": "Speedy Q"
+        },
+        {
+            "bbox": [
+                363.0,
+                709.0,
+                442.99999999999994,
+                718.0
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Name of Account",
+            "uuid": "b5f673c0-d3e8-46d3-9a01-5c94b23cbcbc",
+            "vertical": false,
+            "translation": "Kundenname"
+        },
+        {
+            "bbox": [
+                498.00000000000006,
+                148.9293441440117,
+                535.469670989738,
+                158.5487380994457
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "DEC 21",
+            "uuid": "14c1454a-9f1d-4eb9-8c94-b4e6191b52de",
+            "vertical": false,
+            "translation": "21. DEZ."
+        },
+        {
+            "bbox": [
+                487.3316074329706,
+                262.80703655353466,
+                533.6787573664503,
+                272.52248143729287
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "c397d43b-3460-4f22-a1ce-a685d106df80",
+            "vertical": false,
+            "translation": "TEIL"
+        },
+        {
+            "bbox": [
+                488.3301250727924,
+                308.7212192811501,
+                533.6453895478487,
+                318.2533671747453
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "c64a3862-e493-4289-80d9-92f8d49178e9",
+            "vertical": false,
+            "translation": "TEIL"
+        },
+        {
+            "bbox": [
+                482.99999999999994,
+                333.90979849363976,
+                521.1401321294177,
+                342.6238055969457
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "#REPS:",
+            "uuid": "74f71cb5-5f6a-4635-9911-077efd9875f0",
+            "vertical": false,
+            "translation": "#REPS:"
+        },
+        {
+            "bbox": [
+                482.99999999999994,
+                353.0,
+                520.0774483363317,
+                364.3025549759019
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "# REPS:",
+            "uuid": "43bc4001-0bcc-4810-b6e7-bc80bb07a640",
+            "vertical": false,
+            "translation": "# REPS:"
+        },
+        {
+            "bbox": [
+                477.93987511630684,
+                463.5911507374794,
+                516.6890855784567,
+                486.2321813583447
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Ind/Lor Volume",
+            "uuid": "6ae7b76a-80a0-400c-a910-ff0f41aada85",
+            "vertical": false,
+            "translation": "Ind-/Lor-Anzahl"
+        },
+        {
+            "bbox": [
+                480.95690732073285,
+                496.9460057671876,
+                511.6856688078435,
+                505.40504685071807
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "196/13",
+            "uuid": "4429c2c9-4aa0-48b2-89ed-d918f9ff4ce3",
+            "vertical": false,
+            "translation": "196/13"
+        },
+        {
+            "bbox": [
+                478.05911036469917,
+                702.2651099272516,
+                518.3311935812025,
+                725.7767117338783
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "Ind/Lor Volume",
+            "uuid": "28b93013-164f-4e6f-8eee-c71ae1db13c7",
+            "vertical": false,
+            "translation": "Ind-/Lor-Anzahl"
+        },
+        {
+            "bbox": [
+                523.8124351970329,
+                332.7848267640204,
+                623.281620290595,
+                344.28145744131734
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "a8db2ef9-fef9-48f4-9d87-54c727265a43",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                522.5810419696803,
+                352.7745767720981,
+                623.6922142433556,
+                364.8111550793475
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "15da3c72-15d0-4e77-a7d8-f5701fa27c09",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                524.0839719338587,
+                373.9592916348814,
+                624.8290856770979,
+                385.2668959586183
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "82693516-a731-4bb2-8f13-4e017641f63d",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                583.0520032828875,
+                149.98134742689928,
+                591.2258449827756,
+                158.5487380994457
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "X",
+            "uuid": "33c944d4-57ee-4844-aa97-4d02106da6ab",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                549.5800057700668,
+                263.09252812687134,
+                625.1292930780179,
+                274.0698915192542
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "ef1a1f60-d8c0-4144-abce-97210f800ce1",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                547.8297167931408,
+                462.8580777270289,
+                602.0990527961031,
+                487.03217427551357
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Number of Stores",
+            "uuid": "3f728774-66d1-402b-ae54-10ed355f4509",
+            "vertical": false,
+            "translation": "Anzahl der Filialen"
+        },
+        {
+            "bbox": [
+                568.99998798605,
+                496.9460057671876,
+                579.7032644590886,
+                505.75031383371936
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "16",
+            "uuid": "7ca204ab-74e5-4bfe-961f-3d73a64c3240",
+            "vertical": false,
+            "translation": "16"
+        },
+        {
+            "bbox": [
+                548.9699034182477,
+                703.215254536317,
+                601.8259189046566,
+                724.9917214048721
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "Number of Stores",
+            "uuid": "c7ecdece-6259-4850-9500-7cf01a01427c",
+            "vertical": false,
+            "translation": "Anzahl der Filialen"
+        },
+        {
+            "bbox": [
+                698.0,
+                790.0,
+                715.0,
+                896.0
+            ],
+            "order": "104",
+            "label": "Text",
+            "text": "83641919",
+            "uuid": "6b32bcda-3fad-45b9-bda3-a9954c4e43ba",
+            "vertical": true,
+            "translation": "83641919"
+        },
+        {
+            "bbox": [
+                665.52734375,
+                948.9034247088345,
+                703.3691406250001,
+                958.984375
+            ],
+            "order": "106",
+            "label": "Page-footer",
+            "text": "Page 1 of 3",
+            "uuid": "8a096f3d-4ded-4584-aebd-182a20484150",
+            "vertical": false,
+            "translation": "Seite 1 von 3"
+        },
+        {
+            "bbox": [
+                189.08723953985236,
+                333.0117410560217,
+                283.4521379113477,
+                343.7350249618735
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Detroit North",
+            "uuid": "b0fe84ee-8c7c-47c9-8895-b5d5d945ec62",
+            "vertical": false,
+            "translation": "Detroit Nord"
+        },
+        {
+            "bbox": [
+                99.04212951562344,
+                353.4204184106359,
+                185.96966379006548,
+                363.40653008399846
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "e92cfc2e-2be4-4418-8ccc-e9608090d69f",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                189.5827886865582,
+                353.84535933290664,
+                281.4862025286082,
+                364.10926438299174
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Detroit East",
+            "uuid": "148bb415-181b-4d4c-9756-0c40157c1e4b",
+            "vertical": false,
+            "translation": "Detroit Ost"
+        },
+        {
+            "bbox": [
+                99.67973979147509,
+                374.45499406303804,
+                186.60727406591712,
+                384.4411057364007
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "dc29574a-d58b-4adb-9ca0-234e3a5c73a1",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                189.5827886865582,
+                374.6538268904127,
+                283.4521379113477,
+                386.0919963899878
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Grand Rapids",
+            "uuid": "31a69806-26ae-41ca-90c4-835e4c0740ed",
+            "vertical": false,
+            "translation": "Grand Rapids"
+        },
+        {
+            "bbox": [
+                294.1508739262293,
+                353.63288887177123,
+                380.6533346834368,
+                363.8314710062692
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "45364bed-d64b-412d-afc7-89e513efc221",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                294.1508739262293,
+                374.45499406303804,
+                380.6533346834368,
+                384.01616481413004
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "d875591a-fa59-4cdc-a383-f7f14057a9fc",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                386.60436392471894,
+                333.66066552504594,
+                468.6218142578234,
+                343.76119367845206
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Detroit South",
+            "uuid": "012dcc9c-cc3b-45a9-911f-53c9c1f1f3a5",
+            "vertical": false,
+            "translation": "Detroit Süd"
+        },
+        {
+            "bbox": [
+                386.7321854347926,
+                354.6952411774481,
+                469.18270212647434,
+                365.07493268718605
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Detroit West",
+            "uuid": "d4e4a8a0-5739-4a24-b326-8e5acac1a32e",
+            "vertical": false,
+            "translation": "Detroit West"
+        },
+        {
+            "bbox": [
+                386.39182716610173,
+                375.17091432290215,
+                468.6218142578234,
+                385.2668959586183
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Flint",
+            "uuid": "9ce5863d-20a9-4cdf-8dcd-9d96a5821343",
+            "vertical": false,
+            "translation": "Flint"
+        },
+        {
+            "bbox": [
+                482.8835155783186,
+                375.09240544644416,
+                520.2899850949489,
+                385.0785171198068
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "#REPS:",
+            "uuid": "e8cfca54-faa2-45ca-a699-f24b590d7e7f",
+            "vertical": false,
+            "translation": "#REPS:"
+        },
+        {
+            "bbox": [
+                77.880859375,
+                445.04063866076706,
+                315.673828125,
+                455.5354108360088
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "(15+ Stores) Stocking No Old Gold Light Box 100's",
+            "uuid": "6e3675d7-9323-4302-a4be-2179d4a7943f",
+            "vertical": false,
+            "translation": "(15+ Filialen) Alte Gold Light Box 100S nicht auf Lager"
+        },
+        {
+            "bbox": [
+                78.52830785084694,
+                683.9350305349046,
+                315.6996618650211,
+                694.6400958330872
+            ],
+            "order": "80",
+            "label": "Text",
+            "text": "(15+ Stores) Stocking No Old Gold Light Box 100's",
+            "uuid": "54adeeb8-80a1-44d2-b1a7-c370256b1b0e",
+            "vertical": false,
+            "translation": "(15+ Filialen) Alte Old Gold Light Box 100S nicht auf Lager"
+        },
+        {
+            "bbox": [
+                75.1430916348215,
+                463.03411488234235,
+                625.1905224017148,
+                654.7394666213007
+            ],
+            "order": "42",
+            "label": "Table",
+            "text": "Quality Dairy Bay Stations Schmuckal Oil Wilson Oil Quik Stop Forwards Phil Flint Arbor Rx Imperial Oil Name of Account Ind/Lor Volume 151/15 81/9 138/9 140/13 117/9 118/8 166/15 115/13 163/11 Number of Stores 31 18 22 15 24 19 15 209 32 Name of Account Speedy Q Ind/Lor Volume 196/13 Number of Stores 16",
+            "uuid": "fae09f95-cbc1-40b5-b0f3-25c6f356be3f",
+            "vertical": false,
+            "translation": "Quality Dairy, Bay Stations, Schmuckal Oil, Wilson Oil, Quik Stop, Forwards Phil, Flint, Arbor Rx, Imperial Oil, Kundenname, Ind-/Lor-Anzahl: 151/15 81/9 138/9 140/13 117/9 118/8 166/15 115/13 163/11, Anzahl der Filialen: 31 18 22 15 24 19 15 209 32, Kundenname: Speedy Q, Ind-/Lor-Anzahl: 196/13, Anzahl der Filialen: 16"
+        },
+        {
+            "bbox": [
+                293.93165003127297,
+                789.1430925974377,
+                304.6598511943559,
+                798.2984563404048
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "7c5443aa-1d72-464b-b67b-86efcd646729",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                75.74423636790009,
+                699.6395522763214,
+                626.3928118678722,
+                890.1429895843146
+            ],
+            "order": "81",
+            "label": "Table",
+            "text": "Clark Gas Emro 7-Eleven Southland Walmart Ultra Diamond Dairy Mart Mobil Oil ACA Amoco Ind/Lor Number of Volume Name of Account Stores 142 237 102 39 184 32 40 31 Name of Account Ind/Lor Volume Number of Stores",
+            "uuid": "87eef147-80ed-434b-9a77-c24e76620184",
+            "vertical": false,
+            "translation": "Clark Gas, Emro, 7-Eleven, Southland, Walmart Ultra, Diamond Dairy, Mart Mobil, Oil ACA, Amoco, Ind-/Lor-Anzahl, Kundenname, Filialen: 142 237 102 39 184 32 40 31, Kundenname, Ind-/Lor-Anzahl, Anzahl der Filialen"
+        }
+    ],
+    "page_width": 802,
+    "page_height": 1000
+}

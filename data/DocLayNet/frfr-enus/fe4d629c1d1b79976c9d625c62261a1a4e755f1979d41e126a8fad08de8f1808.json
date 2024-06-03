@@ -1,0 +1,595 @@
+{
+    "file": "fe4d629c1d1b79976c9d625c62261a1a4e755f1979d41e126a8fad08de8f1808.png",
+    "annotations": [
+        {
+            "bbox": [
+                486.99999999999994,
+                129.0,
+                512.0,
+                146.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "21",
+            "uuid": "17d43feb-fc06-4eac-9a93-e368e63edbc5",
+            "vertical": false,
+            "translation": "21"
+        },
+        {
+            "bbox": [
+                740.2768395271643,
+                128.83763136156762,
+                949.0015123261768,
+                149.34395129106355
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EP 1 499 943 B1",
+            "uuid": "d829750f-87a4-4eba-8952-d7f91d9149d9",
+            "vertical": false,
+            "translation": "EP 1 499 943 B1"
+        },
+        {
+            "bbox": [
+                290.0,
+                193.0,
+                807.0,
+                411.99999999999994
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "ces incluant un premier état de performances, un deuxième état de performances supérieur au premier état de performances, et un troisième état de performances supérieur au deuxième état de performances, le système informatique ayant un bloc d'alimentation qui inclut une bat-terie,",
+            "uuid": "2757c5ce-05da-4f40-9606-6c8783e9e237",
+            "vertical": false,
+            "translation": "these including a first performance state, a second performance state that is higher than the first performance state, and a third performance state that is higher than the second performance state, the computer system having a power supply unit that includes a battery,"
+        },
+        {
+            "bbox": [
+                291.0,
+                425.0,
+                808.0,
+                515.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "déterminer (404) si l'événement est un événe-ment déclenché par un utilisateur ou un événe-ment déclenché par un logiciel,",
+            "uuid": "2e181071-b3f0-429d-ac8f-918bb0e0a340",
+            "vertical": false,
+            "translation": "determining (404) whether the event is a user-triggered event or a software-triggered event,"
+        },
+        {
+            "bbox": [
+                291.0,
+                523.0,
+                808.0,
+                644.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "si l'événement est un événement déclenché par un utilisateur, faire passer directement (406) le circuit intégré du premier état de performances au troisième état de performances,",
+            "uuid": "393ef00b-10f8-4d59-8d22-7462c0ab3cdb",
+            "vertical": false,
+            "translation": "if the event is a user-triggered event, directly transition (406) the integrated circuit from the first performance state to the third performance state,"
+        },
+        {
+            "bbox": [
+                290.0,
+                650.9999999999999,
+                808.0,
+                775.0000000000001
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "si l'événement est un événement déclenché par un logiciel, faire passer (408) le circuit intégré du premier état de performances au deuxième état de performances.",
+            "uuid": "204b639d-1d29-46e3-b301-cadb3b0db5d5",
+            "vertical": false,
+            "translation": "if the event is a software triggered event, transition (408) the integrated circuit from the first performance state to the second performance state."
+        },
+        {
+            "bbox": [
+                195.0,
+                817.0,
+                806.0,
+                940.0
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "2. Procédé selon la revendication 1, dans lequel l'évé-nement déclenché par un utilisateur est défini par un environnement de programmation dans lequel le système informatique fonctionne.",
+            "uuid": "76723efc-30fa-4f5d-9373-f4e27143d688",
+            "vertical": false,
+            "translation": "2. The method of claim 1, wherein the user-triggered event is defined by a programming environment in which the computer system operates."
+        },
+        {
+            "bbox": [
+                196.0,
+                980.0,
+                805.0,
+                1038.0
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "3. Procédé selon la revendication 1, dans lequel le pas-sage directement comporte un passage sans délai.",
+            "uuid": "af426cfb-9f88-4e8c-8d1c-3b0608c44709",
+            "vertical": false,
+            "translation": "3. The method of claim 1, wherein the passage directly comprises a passage without delay."
+        },
+        {
+            "bbox": [
+                196.0,
+                1077.0,
+                805.0,
+                1136.0
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "4. Procédé selon la revendication 1, comportant en outre l'étape consistant à:",
+            "uuid": "960c889f-f5e2-43b1-9411-4f4092df2d6a",
+            "vertical": false,
+            "translation": "4. A method according to claim 1, further comprising the step of:"
+        },
+        {
+            "bbox": [
+                290.0,
+                1177.0000000000002,
+                807.0,
+                1333.0
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "faire fonctionner le circuit intégré au troisième état de performances pendant une période de temps prédéfinie sur la base de considérations thermiques afin de fonctionner au troisième état de performances sans défaillance.",
+            "uuid": "fcbfcf17-1235-4a0e-bbc7-766ec05608c5",
+            "vertical": false,
+            "translation": "operate the integrated circuit in the third performance state for a predefined period of time based on thermal considerations in order to operate in the third performance state without failure."
+        },
+        {
+            "bbox": [
+                196.0,
+                1371.0,
+                805.0,
+                1433.0
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "5. Procédé selon la revendication 4, dans lequel le sys-tème informatique comporte un ordinateur portable.",
+            "uuid": "620ba334-61ab-4344-b9c3-072bc25441c6",
+            "vertical": false,
+            "translation": "5. Method according to claim 4, wherein the computer system comprises a laptop computer."
+        },
+        {
+            "bbox": [
+                197.0,
+                1472.0,
+                805.0,
+                1562.0
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "6. Procédé selon la revendication 1, dans lequel le sys-tème informatique comporte un assistant numérique personnel.",
+            "uuid": "1fa5f9c6-9bc6-40fd-a8a6-781b367ab3e1",
+            "vertical": false,
+            "translation": "6. The method of claim 1, wherein the computer system includes a personal digital assistant."
+        },
+        {
+            "bbox": [
+                195.9173681234382,
+                1605.990533234244,
+                497.4764543526519,
+                1630.039606618624
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "7. Dispositif, comportant:",
+            "uuid": "a8b73abe-6999-4705-bf7a-5aef5266a150",
+            "vertical": false,
+            "translation": "7. Device, comprising:"
+        },
+        {
+            "bbox": [
+                290.0,
+                1667.0,
+                807.0,
+                1791.0
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "des moyens (136) pour détecter un événement déclenché par un utilisateur ou un événement déclenché par un logiciel dans un système in-formatique,",
+            "uuid": "e0d06284-4446-4502-ae07-0fc9d57c1e58",
+            "vertical": false,
+            "translation": "means (136) for detecting an event triggered by a user or an event triggered by software in a computer system,"
+        },
+        {
+            "bbox": [
+                841.0000000000001,
+                328.0000000000001,
+                853.1520075039916,
+                342.0705418651468
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "5",
+            "uuid": "9def5378-1d67-4e24-8d3a-7f4443ceef0a",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                839.0,
+                490.97018702414016,
+                857.8140403318823,
+                505.62229019751084
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "10",
+            "uuid": "a2930327-ee74-4da1-bb79-e998f6a3cf06",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                837.9671005788622,
+                653.9999999999999,
+                858.480045021581,
+                669.3495242176889
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "15",
+            "uuid": "38f07618-5158-44a9-b4e1-99ad453adaa6",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                835.9999999999999,
+                818.9335364941802,
+                857.4475057124739,
+                833.0661772758787
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "20",
+            "uuid": "74671e2e-9cb7-4b82-8577-1e12af6c7940",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                835.9999999999999,
+                983.0000000000001,
+                858.0531903174038,
+                997.8123898168203
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "25",
+            "uuid": "4d81bb1d-eb1c-4fe3-b4f1-01c736b3c13e",
+            "vertical": false,
+            "translation": "25"
+        },
+        {
+            "bbox": [
+                837.0,
+                1147.0,
+                857.0,
+                1160.0
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "30",
+            "uuid": "6f41e8f0-b2aa-436d-af08-95d7376495b6",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                837.0,
+                1310.0,
+                858.0,
+                1323.9999999999998
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "35",
+            "uuid": "3c75a9a3-2367-417e-95a3-e8a01f2b23df",
+            "vertical": false,
+            "translation": "35"
+        },
+        {
+            "bbox": [
+                834.9999999999999,
+                1475.0,
+                858.2550851857138,
+                1489.6294297435065
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "40",
+            "uuid": "1de57168-f3cb-4657-bf4d-ba223dbabfdb",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                836.6523342765463,
+                1638.4248069643786,
+                859.4664543955737,
+                1653.1631323510069
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "45",
+            "uuid": "84942c80-0c81-4e68-b484-9aa395734ce8",
+            "vertical": false,
+            "translation": "45"
+        },
+        {
+            "bbox": [
+                290.9108484603775,
+                1798.7369957164417,
+                805.5992726595069,
+                2021.797016257174
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "le système informatique incluant un circuit inté-gré (112) ayant de multiples états de performan-ces incluant un premier état de performances, un deuxième état de performances supérieur au premier état de performances, et un troisième état de performances supérieur au deuxième état de performances,",
+            "uuid": "29316000-894d-4af4-a2e3-de83c2750b35",
+            "vertical": false,
+            "translation": "the computer system comprising an integrated circuit (112) having multiple performance states including a first performance state, a second performance state higher than the first performance state, and a third performance state greater than the second performance state,"
+        },
+        {
+            "bbox": [
+                291.0,
+                2028.0,
+                807.0,
+                2087.0
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "des moyens pour déterminer si un événement détecté est un événement déclenché par un uti-",
+            "uuid": "84d93a2a-9c3b-44d2-bf44-00300d827ed1",
+            "vertical": false,
+            "translation": "means for determining whether a detected event is a user-triggered event"
+        },
+        {
+            "bbox": [
+                835.9999999999999,
+                1801.95965029546,
+                858.4569800540239,
+                1817.9112152721787
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "50",
+            "uuid": "49bb1003-2146-42a9-8157-b9d56d077735",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                833.0,
+                2239.0,
+                859.0,
+                2256.0
+            ],
+            "order": "42",
+            "label": "Page-footer",
+            "text": "12",
+            "uuid": "bf1b59bd-cf7f-4809-a3c3-b353663e0d56",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                1177.0,
+                129.0,
+                1204.0,
+                145.0
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "22",
+            "uuid": "605adbb3-f358-40c5-8288-b9af1bb6fbf1",
+            "vertical": false,
+            "translation": "22"
+        },
+        {
+            "bbox": [
+                979.9999999999999,
+                188.0,
+                1496.0,
+                251.0
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "lisateur ou un événement déclenché par un lo-giciel, et",
+            "uuid": "11c86868-5de4-4fc6-8b7d-cb69af774fdf",
+            "vertical": false,
+            "translation": "or an event triggered by software, and"
+        },
+        {
+            "bbox": [
+                978.9999999999999,
+                261.0,
+                1497.0,
+                576.0
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "des moyens (130, 134) pour faire passer direc-tement le circuit intégré du premier état de per-formances au troisième état de performances sur la base de la détection que l'événement est un événement déclenché par un utilisateur ou pour faire passer le circuit intégré du premier état de performances au deuxième état de per-formances sur la base de la détection que l'évé-nement est un événement déclenché par logi-ciel,",
+            "uuid": "bb17bdbf-cb7d-42cf-b8d9-f858a095073c",
+            "vertical": false,
+            "translation": "means (130, 134) for directly switching the integrated circuit from the first performance state to the third performance state on the basis of detecting that the event is a user-triggered event, or for switching the integrated circuit from the first performance state to the second performance state on the basis of detecting that the event is a software-triggered event,"
+        },
+        {
+            "bbox": [
+                886.0000000000001,
+                619.0,
+                1494.0,
+                676.0
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "8. Dispositif selon la revendication 7, comportant en outre:",
+            "uuid": "48f7e1a6-ab54-4930-8a6b-405f47778629",
+            "vertical": false,
+            "translation": "8. Device according to claim 7, further comprising:"
+        },
+        {
+            "bbox": [
+                978.9999999999999,
+                719.0,
+                1497.0,
+                839.9999999999999
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "des moyens (134) pour changer une fréquence de fonctionnement du circuit intégré (112) afin de changer l'état de performances du circuit in-tégré.",
+            "uuid": "9e0fb1ee-3744-4950-949d-31260d11d6f4",
+            "vertical": false,
+            "translation": "means (134) for changing an operating frequency of the integrated circuit (112) in order to change the performance state of the integrated circuit."
+        },
+        {
+            "bbox": [
+                885.0000000000001,
+                883.0000000000001,
+                1493.0,
+                936.0
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "9. Dispositif selon la revendication 7, comportant en outre:",
+            "uuid": "e21ebf5c-1375-4319-9432-108119ae9ad8",
+            "vertical": false,
+            "translation": "9. Device according to claim 7, further comprising:"
+        },
+        {
+            "bbox": [
+                977.9999999999999,
+                977.0,
+                1494.0,
+                1105.0
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "des moyens (130) pour changer un niveau de tension de fonctionnement du circuit intégré (112) afin de changer l'état de performances du circuit intégré.",
+            "uuid": "4095a0e2-f8d3-4b7f-8c3b-98c5b573e973",
+            "vertical": false,
+            "translation": "means (130) for changing an operating voltage level of the integrated circuit (112) to change the performance state of the integrated circuit."
+        },
+        {
+            "bbox": [
+                886.0000000000001,
+                1145.0,
+                1494.0,
+                1202.0
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "10. Dispositif selon l'une des revendications 7 à 9, comportant:",
+            "uuid": "1907d359-3766-41f9-b28a-c98f0325709d",
+            "vertical": false,
+            "translation": "10. Device according to one of Claims 7 to 9, comprising:"
+        },
+        {
+            "bbox": [
+                981.0,
+                1242.0,
+                1364.0,
+                1268.0
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "un support lisible par ordinateur, et",
+            "uuid": "b82ee00b-8f4e-450c-8783-0082592cbe41",
+            "vertical": false,
+            "translation": "a computer-readable medium, and"
+        },
+        {
+            "bbox": [
+                978.9999999999999,
+                1274.0,
+                1496.0,
+                1558.0
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "un programme mémorisé dans le support lisible par ordinateur pour gérer la consommation d'énergie dans le premier circuit intégré, des ins-tructions associées au programme pour faire passer directement le premier circuit intégré (112) du premier état de performances au troi-sième état de performances sur la base de la détection d'un événement déclenché par un uti-lisateur.",
+            "uuid": "be660a14-a096-40bb-a6a9-e3f38f9aa4aa",
+            "vertical": false,
+            "translation": "a program stored in the computer-readable medium for managing power consumption in the first integrated circuit, instructions associated with the program for directly switching the first integrated circuit (112) from the first performance state to the third performance state on the basis of the detection of an event triggered by a user."
+        },
+        {
+            "bbox": [
+                886.0000000000001,
+                1604.0000000000002,
+                1496.0,
+                1722.0
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "11. Dispositif selon la revendication 10, dans lequel le premier état de performances comporte un premier niveau de tension et une première fréquence opé-rationnelle.",
+            "uuid": "9fe02c52-97cd-4db7-b656-3c7953e51c6a",
+            "vertical": false,
+            "translation": "11. Device according to claim 10, wherein the first performance state comprises a first voltage level and a first operating frequency."
+        },
+        {
+            "bbox": [
+                886.0000000000001,
+                1769.0,
+                1495.0,
+                1889.0
+            ],
+            "order": "39",
+            "label": "List-item",
+            "text": "12. Dispositif selon la revendication 10, dans lequel le troisième état de performances comporte un second circuit intégré traitant conjointement des instructions avec le premier circuit intégré.",
+            "uuid": "123f72b8-b312-4972-b0c9-31cb2c7d7f96",
+            "vertical": false,
+            "translation": "12. Device according to claim 10, in which the third performance state includes a second integrated circuit jointly processing instructions with the first integrated circuit."
+        },
+        {
+            "bbox": [
+                885.0000000000001,
+                1927.0,
+                1493.0,
+                1991.0
+            ],
+            "order": "40",
+            "label": "List-item",
+            "text": "13. Dispositif selon la revendication 10, comportant en outre:",
+            "uuid": "ea0191d2-50a7-4aef-b7cc-ad6aadcec9a5",
+            "vertical": false,
+            "translation": "13. Device according to claim 10, further comprising:"
+        },
+        {
+            "bbox": [
+                979.9999999999999,
+                2029.0,
+                1497.0,
+                2087.0
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "une logique de régulation de fréquence pour changer une fréquence de fonctionnement du",
+            "uuid": "8ad556fb-6ecf-4427-bdf0-5a3f7ff6f3df",
+            "vertical": false,
+            "translation": "a frequency regulation logic to change an operating frequency of the"
+        },
+        {
+            "bbox": [
+                836.6523342765463,
+                1966.5577102267118,
+                859.4664543955737,
+                1981.911196811437
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "55",
+            "uuid": "2e1bbff3-7645-4919-b83f-05b55cbfb7ca",
+            "vertical": false,
+            "translation": "55"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

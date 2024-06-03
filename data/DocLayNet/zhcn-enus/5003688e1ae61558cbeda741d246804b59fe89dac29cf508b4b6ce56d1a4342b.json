@@ -1,0 +1,147 @@
+{
+    "file": "5003688e1ae61558cbeda741d246804b59fe89dac29cf508b4b6ce56d1a4342b.png",
+    "annotations": [
+        {
+            "bbox": [
+                196.42034387247875,
+                226.5241092116413,
+                1465.2157469465462,
+                329.82231094285623
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "人至个人的应用，以及诸如某人的雇主已经订阅的访问服务之类的企业至企业。",
+            "uuid": "d0544414-57a7-4095-84b7-5a24b7eaa4ae",
+            "vertical": false,
+            "translation": "Person-to-person apps, and business-to-business apps such as accessing services to which someone's employer has subscribed."
+        },
+        {
+            "bbox": [
+                197.0,
+                353.0,
+                1457.0,
+                650.9999999999999
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "传统的单一注册方案以及产品包含许多登录脚本或者对于许多应用的口 令。例如，US 5944824公开了一种对于多个网络元素的单一注册系统与方法。这不允许只有浏览器的客户端，除非使用代理 ( 参看 Req.2 )。另外，其只覆盖了验证信息，却没有覆盖其他身份相关信息 ( 参看 Req.3 )，因此也没有隐私策略 ( Req.5 )。",
+            "uuid": "3aab3851-882b-4db1-851f-44881655f838",
+            "vertical": false,
+            "translation": "Traditional single sign-on solutions and products comprise many logon scripts or passphrases for many applications. For example, the US 5944824 discloses a single sign-on system and method for multiple network elements. This does not allow browser-only clients unless a proxy is used (see Req.2). In addition, it only covers authentication information, not additional identity-related information (see Req.3), so there is no privacy policy (Req.5)."
+        },
+        {
+            "bbox": [
+                197.47030670438625,
+                665.4667303321007,
+                1464.0490450846157,
+                1032.8276919665177
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "传统的公开密钥基础结构( PKI )，最有名的有 X509，实际上只考虑了验证信息 ( 参看 Req.3 )。因为信息是通过固定证书传送的，所以如果该证书包含了其他身份相关信息，则该信息是固定的，这与Req.5矛盾。对于专门用途的客户端软件，可以容易地设计一种分离地发送其他属性的方法，例如，用属性证书的方法，但是这与只有浏览器的客戶端不兼容( Req.2 )，并且尤其是没有使用各种浏览器的可以互操作的方法 ( 还是Req.2 )。",
+            "uuid": "a47c454f-fdd8-4234-a121-21bb741252c8",
+            "vertical": false,
+            "translation": "The traditional public key infrastructure (PKI), most notably X509, actually only considers authentication information (see Req.3). The information is transmitted through a pinned certificate, so, if the certificate contains other identity-related information, that information is also pinned, which contradicts Req.5. For special-purpose client software, it's easy to design a method for sending other attributes separately, such as using an attribute certificate, but this is incompatible with browser-only clients (Req.2), and in particular there is no interoperable way to use various browsers (again, Req.2)."
+        },
+        {
+            "bbox": [
+                203.0,
+                1048.0,
+                1457.0,
+                1340.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "在电视商务中传送个人数据的传统产品为表单填写器。它们与浏览器密切交互，以拖曳属性到表单字段中，或者使用功能强大的工具来解释表单中的这些字段。它们一般只作为复杂客户端工作，否则作为代理工作，这与Req.2矛盾。另外，它们没有提供完全的互操作性，这是因为没有相应的方法使服 务器请求该信息。",
+            "uuid": "22c92f09-2a3c-44ba-9b84-cf90fc2aa0be",
+            "vertical": false,
+            "translation": "The traditional product for transmitting personal data in TV commerce is a form filler. They interact closely with the browser to drag attributes into form fields or use powerful tools to interpret these fields within forms. They generally only work as complex clients, otherwise as proxies, which contradicts Req.2. Also, they do not provide full interoperability because there is no way for the server to request that information."
+        },
+        {
+            "bbox": [
+                205.0,
+                1362.0,
+                1459.0,
+                2095.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Microsoft的Passport 假定一个固定位置实体或者至少一组都具有有关特 定域內用戶的信息的实体，即没有用户的选择或者基于其他商业关系的选择，例如，选择用户的银行作为位置实体，从而其与Req.1冲突。这是该系统的固有性质，而不是可以通过不同的使用方法或者实施方式而加以改变的，这是因为假定服务器实现知道应该连接到哪个位置实体。虽然正在考虑对所谓联盟的扩展，但是这些扩展可能会保留某些其他不足，像以下系统一样。Passport也不区分需要第三方确认的信息 ( 参看 Req.3 )。另外，其不允许真正匿名：存在全局用户标识符，用户只能通过具有多个帐户并因此不太容易的管理来避免这一点，另外，位置实体了解用户的通信模式 ( 参看 Req.4 )。 还不具备灵活的隐私策略 ( Req.5 )。另外，Passport不允许服务器与位置实体之间的直接接触，而这对于较长数据的安全传送至关重要，并且在满足所有 上述要求的联盟的范围 ( context ) 中作到这一点也不是简单的事情。",
+            "uuid": "5c7ead37-ee12-4e40-89c2-542552492246",
+            "vertical": false,
+            "translation": "Microsoft's Passport assumes a fixed location entity or at least a group of entities that all have information about users in a specific domain, that is, there is no user's choice or selection based on other business relationships. For example, the user's bank is selected as a location entity, so that it conflicts with Req.1. This is an inherent property of the system and cannot be altered by different usages or implementations because it is assumed that the server implementation knows which location entity it should connect to. Although extensions to so-called federations are being considered, these extensions may retain certain other deficiencies, such as the following system. Passport also does not distinguish between information that requires third-party confirmation (see Req.3). In addition, it does not allow true anonymity: there is a global user identifier, which the user can only avoid by having multiple accounts and thus is not easy to manage. In addition, the location entity knows the user's communication pattern (cf. Req.4). There is not yet a flexible privacy policy (Req.5). In addition, Passport does not allow direct contact between the server and the location entity, which is critical for the secure transfer of longer data, and it is not trivial to do this within the scope (context) of a federation that satisfies all of the above requirements."
+        },
+        {
+            "bbox": [
+                283.0,
+                2117.0,
+                1456.0,
+                2161.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "US 6226752 公开了一种验证的方法与装置。其不允许用户对于位置实体",
+            "uuid": "6ad381b6-6ca3-4f1d-8de0-80f9e7eb7cd4",
+            "vertical": false,
+            "translation": "US 6226752 discloses a verification method and apparatus. It does not allow users to interact with location entities"
+        },
+        {
+            "bbox": [
+                819.7432003810646,
+                2209.6408671782883,
+                842.2404408717971,
+                2237.7624177917037
+            ],
+            "order": "10",
+            "label": "Page-footer",
+            "text": "7",
+            "uuid": "50512c13-ce7a-4e5e-8adf-68cc40653e87",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                171.54145874183516,
+                156.76767239894966,
+                329.0221421769625,
+                184.88922301236533
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "ad69de4b-5d87-49df-9cdc-a25af1ee5c80",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1196.5719786008337,
+                153.95551733760826,
+                1342.8040417905945,
+                186.29530054303618
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "b8e59523-d0b7-4164-b375-a6761230233c",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1369.5195148733394,
+                152.54943980693741,
+                1491.8482600416976,
+                187.701378073707
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 3/17 页",
+            "uuid": "a6a6d17a-d0ce-484c-ae8f-ac3ed8cec57b",
+            "vertical": false,
+            "translation": "Page 3/17"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

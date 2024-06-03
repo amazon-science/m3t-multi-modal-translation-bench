@@ -1,0 +1,539 @@
+{
+    "file": "jrc32005R0489.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                109.42692976895599,
+                123.3524011973208,
+                221.4766088627362,
+                148.1128967753668
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "30.3.2005",
+            "uuid": "90c1bd5a-64bb-4982-97b1-25751a4546f7",
+            "vertical": false,
+            "translation": "2005 年 3 月 30 日"
+        },
+        {
+            "bbox": [
+                322.9076202800034,
+                121.42937113701176,
+                358.8994265362393,
+                142.48118234348925
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "c98e222d-bcd0-4604-9ac5-77fceca98bb0",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                619.8630563771588,
+                119.26747931889535,
+                1021.4956723496698,
+                152.76697333625134
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "6ee8076f-cc27-4e70-a38d-1ac4a5284f30",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1440.5905759731597,
+                114.89798009924012,
+                1535.177967415961,
+                151.31047359636617
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 81/37",
+            "uuid": "4d5a98a5-d5ff-42bf-971e-caa9f64293d6",
+            "vertical": false,
+            "translation": "L 81/37"
+        },
+        {
+            "bbox": [
+                768.2948619610951,
+                219.76679836314352,
+                877.4341597797121,
+                243.07079420130412
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX V",
+            "uuid": "0ba00850-f095-4be9-9dca-37155d8e0235",
+            "vertical": false,
+            "translation": "附件五"
+        },
+        {
+            "bbox": [
+                583.4856509882368,
+                296.9612845770506,
+                1052.0570362894994,
+                329.00427885452194
+            ],
+            "order": "6",
+            "label": "Title",
+            "text": "TRANCHE 1 REFERRED TO IN ARTICLE 5",
+            "uuid": "bf886fb8-b066-4af6-93ed-1864915807c7",
+            "vertical": false,
+            "translation": "第 5 条所述第 1 期"
+        },
+        {
+            "bbox": [
+                522.3676442098111,
+                358.1342736522227,
+                1127.7269494437405,
+                751.3892034211846
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "da2b560d-1ca7-4560-bc92-174b0cf352bf",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                603.8583199143786,
+                365.41677235164775,
+                731.915096021556,
+                388.7207681898086
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Member State",
+            "uuid": "94b9a2c7-faf2-49d8-b4f6-02f3f9fd1bae",
+            "vertical": false,
+            "translation": "成员国"
+        },
+        {
+            "bbox": [
+                924.0002601823221,
+                365.41677235164775,
+                1021.4980329002866,
+                387.2642684499237
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Tranche 1",
+            "uuid": "3f3b2769-5b29-4db4-8e62-2edcf34a3e9a",
+            "vertical": false,
+            "translation": "第 1 期"
+        },
+        {
+            "bbox": [
+                631.0769145224024,
+                410.56826428808455,
+                704.4035275818657,
+                435.62834186073945
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Greece",
+            "uuid": "46cf84f5-016b-4312-93e3-f701fdd27621",
+            "vertical": false,
+            "translation": "希腊"
+        },
+        {
+            "bbox": [
+                934.5242813323092,
+                410.6660906064542,
+                1018.7718793155223,
+                441.0888343226144
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "4 674 t",
+            "uuid": "4d719edf-2309-41fa-9c94-f5a1d8d6eaa9",
+            "vertical": false,
+            "translation": "4674 吨"
+        },
+        {
+            "bbox": [
+                638.782895216336,
+                468.82825388348607,
+                694.0801394444355,
+                497.9582486811868
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "0c0b7c55-78e3-4246-ab91-2941084cf554",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                929.9806815206161,
+                465.91525440371595,
+                1020.0452190226127,
+                492.93430845907574
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "20 487 t",
+            "uuid": "b544ab67-8d52-4edc-b0b1-d0015c5af345",
+            "vertical": false,
+            "translation": "20,487 吨"
+        },
+        {
+            "bbox": [
+                632.9621326660097,
+                525.872196459806,
+                699.9301200155163,
+                553.3052387968185
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "France",
+            "uuid": "31dc28b4-537a-4c9a-83d6-1e6bcc4f8774",
+            "vertical": false,
+            "translation": "法国"
+        },
+        {
+            "bbox": [
+                937.096975920556,
+                526.9015054598287,
+                1015.9279830225215,
+                551.8487390569333
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "4 181 t",
+            "uuid": "e7f1d7d7-1412-41a1-a007-b2cdf43b9558",
+            "vertical": false,
+            "translation": "4181 吨"
+        },
+        {
+            "bbox": [
+                638.6862345141586,
+                582.4841914610608,
+                692.2103025153451,
+                610.275534461677
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "833b6e37-b59d-4920-82ba-e1cb68547be3",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                929.8210227326485,
+                582.4352335945194,
+                1027.318795450613,
+                607.1957291725652
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "40 764 t",
+            "uuid": "6ca212e2-ec3c-4caf-ab4e-d14b364d1cea",
+            "vertical": false,
+            "translation": "40,764 吨"
+        },
+        {
+            "bbox": [
+                622.7757982029389,
+                640.6952231899214,
+                714.4528083705773,
+                668.3687182477373
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Hungary",
+            "uuid": "0dda0f77-2f15-4c7c-8840-50df1c7b46d9",
+            "vertical": false,
+            "translation": "匈牙利"
+        },
+        {
+            "bbox": [
+                945.8281197460456,
+                640.6401499623503,
+                1007.1788565223276,
+                669.9754564630006
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "307 t",
+            "uuid": "f7f015b8-93d1-42dc-a54c-dd1fdfc11bab",
+            "vertical": false,
+            "translation": "307 吨"
+        },
+        {
+            "bbox": [
+                622.731945013805,
+                695.1935269635595,
+                708.6792465157102,
+                728.1314149642898
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "f2eae930-9e4d-48b0-8a98-8b34cdcf8f1f",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                938.2151535207986,
+                699.3107629636509,
+                1015.41332852251,
+                726.5874514642554
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "4 587 t",
+            "uuid": "99b6bd04-206a-4f70-99ec-39fc682fafd6",
+            "vertical": false,
+            "translation": "4587 吨"
+        },
+        {
+            "bbox": [
+                765.3844806859319,
+                949.4731680455509,
+                886.1653036052016,
+                984.429161802792
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "ANNEX VI",
+            "uuid": "38ea8845-dc4e-49e4-b84c-bfa3e2a245e4",
+            "vertical": false,
+            "translation": "附件六"
+        },
+        {
+            "bbox": [
+                313.58828138196014,
+                1027.6445574801535,
+                1322.9993164771256,
+                1062.80490462466
+            ],
+            "order": "23",
+            "label": "Title",
+            "text": "INFORMATION TO BE CONTAINED IN THE NOTIFICATION REFERRED TO IN ARTICLE 7 (2)",
+            "uuid": "8665e240-5dfe-4320-839f-46eca5ac5945",
+            "vertical": false,
+            "translation": "第 7(2) 条所述通知中应包含的信息"
+        },
+        {
+            "bbox": [
+                242.94790839810483,
+                1144.164536670957,
+                1395.4588933627015,
+                1640.8309479717573
+            ],
+            "order": "25",
+            "label": "Table",
+            "text": "",
+            "uuid": "b324cd95-eb30-4496-9232-dd2d0d6d170d",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                362.27306856966953,
+                1174.6388742564116,
+                488.87465403926535,
+                1200.8558695743418
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Offer number",
+            "uuid": "67e77ce4-7891-41f4-b0d6-689a130da1f1",
+            "vertical": false,
+            "translation": "报价编号"
+        },
+        {
+            "bbox": [
+                705.1835979335622,
+                1168.812875296871,
+                868.9983717898099,
+                1201.6574272266223
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Quantity offered (t)",
+            "uuid": "50ba603c-c15f-4545-be33-cd9066bd24d8",
+            "vertical": false,
+            "translation": "提供的数量（吨）"
+        },
+        {
+            "bbox": [
+                1086.958006085287,
+                1179.0083734760665,
+                1274.6775983333084,
+                1203.7688690541122
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Minimum quantity (t)",
+            "uuid": "674cb892-d875-4016-947d-1d7978acbe3a",
+            "vertical": false,
+            "translation": "最小数量（吨）"
+        },
+        {
+            "bbox": [
+                408.83916897227954,
+                1222.7033656726178,
+                437.94298172391075,
+                1246.0073615107788
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "e5dd80fd-8ad1-4284-8abc-86d63658f8e7",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                416.1769452750264,
+                1269.461104190489,
+                434.65531196384455,
+                1290.4216395389992
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "72c76955-707d-4670-a8c5-2bac17a6df43",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                413.14318357984723,
+                1314.140140064945,
+                434.65531196384455,
+                1337.858640590891
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "1fbce4af-53ba-40be-b342-b4023d8be0da",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                416.5575678058874,
+                1358.8416030934504,
+                434.10915071905674,
+                1385.3639950511285
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "a7973a37-aebf-431d-996d-cfc82733d16f",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                413.82732157494985,
+                1403.6956483159945,
+                433.71911554320855,
+                1430.2180402736726
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "c489a77c-8b31-43ee-9f53-c6b64c262eff",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                416.94760298173554,
+                1448.9397287143865,
+                433.3290803673604,
+                1473.1219096169757
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "f67de552-8069-45e2-af0b-33ccbdabd4eb",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                413.04725122325345,
+                1496.13398499202,
+                434.10915071905674,
+                1520.7062010704572
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "fd2a180b-e107-4386-ae10-0cc6c595ccb9",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                416.1151221601873,
+                1540.988030214564,
+                431.7689396639675,
+                1565.170211117153
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "f738580a-c181-45db-998d-c45e36c05c2d",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                406.416653233834,
+                1591.6926030748314,
+                439.5696431809317,
+                1614.5017957016948
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "etc.",
+            "uuid": "2fa37779-5aca-422d-8f7d-86cdab7b6724",
+            "vertical": false,
+            "translation": "等"
+        },
+        {
+            "bbox": [
+                248.29676657306928,
+                1090.4219738039947,
+                430.38106205998673,
+                1114.0692849061918
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Member State: ....",
+            "uuid": "488ef528-5184-4cfa-a464-a9dfed024bfe",
+            "vertical": false,
+            "translation": "成员国：……"
+        },
+        {
+            "bbox": [
+                250.66149768328896,
+                1656.7750747016146,
+                1363.267485041661,
+                1676.875289138482
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Address for electronic transmission of information in accordance with Article 7 (2): AGRI-INTERV-RICE@CEC.EU.INT",
+            "uuid": "b9d18074-346e-4e3c-b4c5-85937671d156",
+            "vertical": false,
+            "translation": "根据第 7(2) 条以电子方式传输信息的地址： AGRI-INTERV-RICE@CEC.EU.INT"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

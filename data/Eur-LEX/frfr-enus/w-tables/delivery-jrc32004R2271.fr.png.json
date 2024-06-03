@@ -1,0 +1,1379 @@
+{
+    "file": "jrc32004R2271.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                122.35563992588952,
+                118.16948141850689,
+                231.7492110081201,
+                149.71009864146885
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 396/14",
+            "uuid": "6c8c3205-c0eb-48de-b3ca-2d36ddd30af7",
+            "vertical": false,
+            "translation": "L 396/14"
+        },
+        {
+            "bbox": [
+                344.84382612849123,
+                121.88014226826722,
+                372.65575097990586,
+                140.43344651706832
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "f36a9d9c-8821-431d-b465-3b984530f5b9",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                639.6502295534858,
+                118.16948141850689,
+                1030.8713057967175,
+                155.27608991610907
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "10348d03-2740-471c-9922-b00aff685e08",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1428.0875235331223,
+                120.02481184338706,
+                1550.4599928793464,
+                145.99943779170854
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "31.12.2004",
+            "uuid": "acb8bea1-009a-4edd-9cbb-8ad502542701",
+            "vertical": false,
+            "translation": "31.12.2004"
+        },
+        {
+            "bbox": [
+                780.9967386568766,
+                218.357324362033,
+                888.5361814156794,
+                242.47661988547435
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE I",
+            "uuid": "2517fb0c-2b2d-46ad-9d12-7d37eec4e02a",
+            "vertical": true,
+            "translation": "ANNEX I"
+        },
+        {
+            "bbox": [
+                261.65280228023516,
+                301.4562413689555,
+                1402.9358602326135,
+                2186.106211067502
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "69161872-8242-4aba-b152-44525cfe6c0f",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                322.7004582729868,
+                335.7793368435979,
+                400.65695130252084,
+                359.18144739449036
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Code NC",
+            "uuid": "28e68bb6-bb8d-4a8a-b4da-e22bcb58b56d",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                486.5647634265404,
+                338.8996182503837,
+                542.6934384078049,
+                357.62130669109763
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "TARIC",
+            "uuid": "b7774efc-b581-4a87-ba37-b933e853515f",
+            "vertical": false,
+            "translation": "TARIC"
+        },
+        {
+            "bbox": [
+                804.6272549870391,
+                337.3394775469906,
+                1057.2062924027296,
+                359.18144739449036
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Désignation des marchandises",
+            "uuid": "b31a333c-751f-4b03-9015-b243260e01ea",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                1288.1718104442073,
+                313.93736699609815,
+                1387.9561215220108,
+                382.5835579453832
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Taux des droits autonomes (%)",
+            "uuid": "47aa1063-7dc9-4c4d-8cff-45a885e13f9a",
+            "vertical": true,
+            "translation": "Autonomous duty rate (%)"
+        },
+        {
+            "bbox": [
+                273.4071635087776,
+                415.04349222095175,
+                423.3432599244561,
+                437.10721364043616
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "ex 2005 90 80",
+            "uuid": "74e219ac-d3ca-40f6-9688-33f4e792b789",
+            "vertical": true,
+            "translation": "ex 2005 90 80"
+        },
+        {
+            "bbox": [
+                500.51625072664365,
+                417.24986436290015,
+                531.3854470475186,
+                437.10721364043616
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "70",
+            "uuid": "af7cbe7d-3734-491e-af58-59343064b8cd",
+            "vertical": false,
+            "translation": "70"
+        },
+        {
+            "bbox": [
+                593.1238396892686,
+                410.6307479370549,
+                1263.4263883711255,
+                465.7900514857661
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Pousses de bambous, préparées ou conservées, en emballages immédiats d'un contenu net excédant 5 kg",
+            "uuid": "73cb6302-b7ef-401a-b662-99edccd1d4ea",
+            "vertical": true,
+            "translation": "Bamboo shoots, prepared or preserved, in immediate packings of a net content exceeding 5 kg"
+        },
+        {
+            "bbox": [
+                280.17781198024795,
+                501.0920057569414,
+                419.08919542418545,
+                523.1557271764258
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "c90dceba-10b5-4f29-8c48-b9e763780558",
+            "vertical": true,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                1329.6418549387834,
+                417.24986436290015,
+                1356.1011660709619,
+                439.31358578238485
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "e4fb9936-f762-4e6f-8505-d8b794be5c1c",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                500.6735009626695,
+                501.0920057569414,
+                527.1328120948482,
+                523.1557271764258
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "08cc955c-7245-4e5d-b7a5-696736cd4db2",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                588.8712047365981,
+                501.0920057569414,
+                1261.3786960128036,
+                556.2513093056526
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Isolat de protéines de soja, contenant en poids 6,6 % ou plus mais pas plus de 8,6 % de phosphate de calcium",
+            "uuid": "3b427cde-0d71-4313-9bbc-3b0677ca313e",
+            "vertical": true,
+            "translation": "Soy protein isolate, containing by weight 6.6% or more but not more than 8.6% calcium phosphate"
+        },
+        {
+            "bbox": [
+                1331.9368590319461,
+                501.0920057569414,
+                1351.7813423810799,
+                529.7748436022711
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "a9f1dad0-03c5-4fb4-b9f4-8d825e64bcea",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                589.3468914348792,
+                423.50051016048207,
+                618.0297292802092
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "ex 2309 90 99",
+            "uuid": "41974e32-6b4f-4415-91a3-1a0e7864222b",
+            "vertical": false,
+            "translation": "ex 2309 90 99"
+        },
+        {
+            "bbox": [
+                502.7898116058031,
+                587.1405192929308,
+                524.8392375492853,
+                611.4106128543639
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "3d5743da-c64c-4459-ac69-a14c9c82d964",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                588.7825727853835,
+                584.9341471509823,
+                1259.0851214672405,
+                693.0463821064563
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Phosphate de calcium et de sodium, d'une teneur en fluor égale ou supérieure à 0,005 % en poids mais inférieure à 0,2 % en poids du produit anhydre à l'état sec, destiné à être utilisé dans la fabrication d'additifs pour l'alimentation des animaux (a)",
+            "uuid": "004b23d8-30b7-4a6f-973b-c14fdda5fa58",
+            "vertical": true,
+            "translation": "Calcium sodium phosphate, with a fluorine content of 0.005% or more by weight but less than 0.2% by weight of the anhydrous product in the dry state, for use in the manufacture of additives for animal nutrition (a)"
+        },
+        {
+            "bbox": [
+                1331.8482270807317,
+                584.9341471509823,
+                1349.4877678355172,
+                609.2042407124154
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "ce43686d-9138-4366-bb5a-5d45e7f5acc2",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                275.7679267915515,
+                730.5547085195801,
+                425.7040232072301,
+                752.6184299390645
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "ex 2904 90 85",
+            "uuid": "86d6b0ba-e604-4637-8be6-774543b463b7",
+            "vertical": false,
+            "translation": "ex 2904 90 85"
+        },
+        {
+            "bbox": [
+                498.3799264171068,
+                726.1419642356832,
+                527.0441801436335,
+                750.4120577971161
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "f5db1a1e-c5ed-4cfa-a879-bd6e0320385c",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                595.3974005684282,
+                726.1419642356832,
+                884.2448804280443,
+                752.6184299390645
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "5-Nitro-1,2,4-trichlorobenzène",
+            "uuid": "4c46b9d0-63d7-4a21-bdaf-a67031ac64cc",
+            "vertical": true,
+            "translation": "5-Nitro-1,2,4-trichlorobenzene"
+        },
+        {
+            "bbox": [
+                1334.05316967508,
+                730.5547085195801,
+                1349.4877678355172,
+                750.4120577971161
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "5e38a6c0-4840-4759-8871-b123f519387c",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                280.17781198024795,
+                790.1267563521882,
+                427.9089658015783,
+                816.6032220555697
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "ex 2908 90 00",
+            "uuid": "fe4fb9bc-1706-4f5b-9468-01d5812e7920",
+            "vertical": false,
+            "translation": "ex 2908 90 00"
+        },
+        {
+            "bbox": [
+                498.381355964707,
+                787.9203842102397,
+                531.4554948799301,
+                812.1904777716726
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "40",
+            "uuid": "ca810dad-8267-42a0-9f04-7a39b0734785",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                590.9889449273319,
+                790.1267563521882,
+                745.753783978576,
+                814.3968499136213
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "3-Nitro-p-crésol",
+            "uuid": "0cc3f33a-9f4f-4241-9a65-d8794aeb2f6d",
+            "vertical": true,
+            "translation": "3-Nitro-p-cresol"
+        },
+        {
+            "bbox": [
+                1334.0545992226803,
+                787.9203842102397,
+                1351.6941399774657,
+                814.3968499136213
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "3aad73e9-507a-4c69-9241-6a6ae107c279",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                854.1115484686932,
+                423.50051016048207,
+                873.9688977462295
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "ex 2914 70 00",
+            "uuid": "c3aa9368-6356-4f44-ad4b-5b307d59210d",
+            "vertical": false,
+            "translation": "ex 2914 70 00"
+        },
+        {
+            "bbox": [
+                500.5848690114549,
+                849.6988041847964,
+                529.2491227379818,
+                867.3497813203841
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "fa49bc1e-6fcb-489e-84ea-232e91dd5a6d",
+            "vertical": true,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                590.9760789989299,
+                849.6988041847964,
+                826.9049365941887,
+                873.9688977462295
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "3'-Chloropropiophénone",
+            "uuid": "2dfbb679-d8cc-40dc-9c33-024ef47c6361",
+            "vertical": true,
+            "translation": "3'-Chloropropiophenone"
+        },
+        {
+            "bbox": [
+                1331.8367906999297,
+                845.2860599008994,
+                1349.4763314547156,
+                873.9688977462295
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "dde69439-0d09-4bfe-a50d-8047d6ff978d",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                275.7679267915515,
+                911.4772241593529,
+                423.499080612882,
+                933.5409455788375
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "ex 2919 00 90",
+            "uuid": "aa3bffa7-6b35-455c-b8f1-1d18b1fb3ce5",
+            "vertical": false,
+            "translation": "ex 2919 00 90"
+        },
+        {
+            "bbox": [
+                500.5834394638547,
+                907.064479875456,
+                527.0427505960333,
+                931.3345734368891
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "fab91163-bf7c-43f2-b81e-f122fa42a3c8",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                595.3959710208279,
+                909.010769995855,
+                1260.7519725082418,
+                957.8110391402704
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Hydroxybis [2,2'-méthylènebis (4,6-di-tert-butylphényl) phosphate] d'aluminium",
+            "uuid": "2d2d7eb0-787b-4e11-a6c8-443231123485",
+            "vertical": true,
+            "translation": "Aluminium hydroxybis [2,2'-methylenebis (4,6-di-tert-butylphenyl) phosphate"
+        },
+        {
+            "bbox": [
+                1331.8467975331314,
+                907.064479875456,
+                1356.1011660709619,
+                937.9536898627344
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "1d0ce436-6514-45ae-ad36-a9df7b215eef",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                997.5257376953425,
+                423.50051016048207,
+                1024.0022033987239
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "ex 2922 29 00",
+            "uuid": "bdaf6458-0814-4d30-938e-44e94a4b2157",
+            "vertical": false,
+            "translation": "ex 2922 29 00"
+        },
+        {
+            "bbox": [
+                496.17498382275846,
+                995.319365553394,
+                533.6590079266782,
+                1021.7958312567754
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "408ec57a-775f-4cf8-a943-f5a103769f4c",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                590.9875153797317,
+                999.732109837291,
+                1023.1562638719818,
+                1028.414947682621
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "N-Méthyl-2-(3,4-diméthoxyphényl) éthylamine",
+            "uuid": "450a1bb9-dca6-4b0e-8d64-455bebde4f46",
+            "vertical": false,
+            "translation": "N-methyl-2-(3,4-dimethoxyphenyl) ethylamine"
+        },
+        {
+            "bbox": [
+                1334.05316967508,
+                999.732109837291,
+                1349.4877678355172,
+                1021.7958312567754
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "bd4ed1f1-81d1-4687-9339-a02934b62eae",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                280.17781198024795,
+                1057.0977855279507,
+                423.499080612882,
+                1087.986995515229
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "ex 2924 29 95",
+            "uuid": "0681bc50-8593-4594-8573-dbf3d9f2f04a",
+            "vertical": false,
+            "translation": "ex 2924 29 95"
+        },
+        {
+            "bbox": [
+                498.3799264171068,
+                1057.0977855279507,
+                527.0441801436335,
+                1083.5742512313323
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "75",
+            "uuid": "9830cbe1-6ea8-4610-99e6-7d061ef3b0d3",
+            "vertical": false,
+            "translation": "75"
+        },
+        {
+            "bbox": [
+                593.19245797408,
+                1057.0977855279507,
+                802.6620044371602,
+                1083.5742512313323
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "3-Amino-p-anisanilide",
+            "uuid": "2903362c-bd45-43e6-9c4f-28f78cf0f4d8",
+            "vertical": true,
+            "translation": "3-Amino-p-anisanilide"
+        },
+        {
+            "bbox": [
+                1336.258112269428,
+                1059.304157669899,
+                1349.4877678355172,
+                1083.5742512313323
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "047e2eef-e6c2-4fb3-8b0d-5c2efe8f37aa",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                1118.8762055025072,
+                419.0906249717857,
+                1145.3526712058888
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "ex 2924 29 95",
+            "uuid": "3bd58632-e21b-421d-a5c9-871d09a7a1d5",
+            "vertical": false,
+            "translation": "ex 2924 29 95"
+        },
+        {
+            "bbox": [
+                498.37849686950653,
+                1112.257089076662,
+                527.0427505960333,
+                1147.5590433478371
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "95",
+            "uuid": "b30bd2d4-2583-4f2c-a081-e0df5e1329dc",
+            "vertical": false,
+            "translation": "95"
+        },
+        {
+            "bbox": [
+                590.9860858321315,
+                1118.8762055025072,
+                1197.3452992778903,
+                1147.5590433478371
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "N-{3-[3- (Diméthylamino) prop-2-ènoyl] phényl}-N-éthylacétamide",
+            "uuid": "e118a344-c3a2-4327-9b0c-624146e76e89",
+            "vertical": true,
+            "translation": "N-{3-[3-(Dimethylamino)prop-2-enoyl] phenyl}-N-ethylacetamide"
+        },
+        {
+            "bbox": [
+                1329.6418549387834,
+                1114.4634612186103,
+                1351.6912808822653,
+                1136.527182638095
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "a17ec1cc-eb56-4a4a-ae19-7829befa5311",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.9728693858997,
+                1180.654625477064,
+                421.29413801853366,
+                1207.1310911804453
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "ex 2928 00 90",
+            "uuid": "7a01b6ab-a553-47a2-a611-0758bff5369a",
+            "vertical": false,
+            "translation": "ex 2928 00 90"
+        },
+        {
+            "bbox": [
+                498.37849686950653,
+                1180.654625477064,
+                533.657578379078,
+                1204.9247190384967
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "70",
+            "uuid": "8bcef94f-79e9-4b4c-bf0b-5cad25a8c816",
+            "vertical": false,
+            "translation": "70"
+        },
+        {
+            "bbox": [
+                588.7811432377832,
+                1180.654625477064,
+                990.0806954091582,
+                1207.1310911804453
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Tétrakis (4-méthylpentane-2- oximino) silane",
+            "uuid": "f9f919e1-1c73-45df-9cb2-a73bf2eda919",
+            "vertical": true,
+            "translation": "Tetrakis (4-methylpentane-2- oximino) silane"
+        },
+        {
+            "bbox": [
+                1329.6418549387834,
+                1178.4482533351154,
+                1351.6912808822653,
+                1207.1310911804453
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "4426cbee-ff9d-4ba1-a081-ab113c2bc1f5",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                275.7679267915515,
+                1242.4330454516203,
+                423.499080612882,
+                1262.2903947291566
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "ex 2929 90 00",
+            "uuid": "38dcc7d6-190e-4792-b64d-d3beab38b8f2",
+            "vertical": false,
+            "translation": "ex 2929 90 00"
+        },
+        {
+            "bbox": [
+                496.1735542751583,
+                1242.4330454516203,
+                533.657578379078,
+                1268.9095111550018
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "6f70f60c-54b6-4000-ae12-e1d3a735aaf9",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                588.7811432377832,
+                1240.2266733096722,
+                818.0951730499976,
+                1264.496766871105
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Isocyanoacétate d'éthyle",
+            "uuid": "93bdd2e4-bb16-4d68-8706-471775e535d8",
+            "vertical": false,
+            "translation": "Ethyl isocyanoacetate"
+        },
+        {
+            "bbox": [
+                1336.256682721828,
+                1242.4330454516203,
+                1347.2813956935688,
+                1268.9095111550018
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "19d7f891-cfc9-425b-9aff-e3043f492d7b",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.91282838668985,
+                1302.0050932842285,
+                419.0291544249755,
+                1324.068814703713
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "ex 2931 00 95",
+            "uuid": "e9b489aa-f28e-46a5-8c1d-fd279e4d2edf",
+            "vertical": false,
+            "translation": "ex 2931 00 95"
+        },
+        {
+            "bbox": [
+                498.37849686950653,
+                1304.211465426177,
+                535.8625209734261,
+                1326.2751868456614
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "84",
+            "uuid": "e996daab-e2d5-4f3d-830f-8c1311a689c5",
+            "vertical": false,
+            "translation": "84"
+        },
+        {
+            "bbox": [
+                588.7811432377832,
+                1297.5923490003315,
+                1056.2289732396046,
+                1330.6879311295584
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Méthylbis (4-méthylpentane-2-oximino) vinylsilane",
+            "uuid": "491e8c72-efef-4b0f-964e-0933262581f5",
+            "vertical": true,
+            "translation": "Methylbis (4-methylpentane-2-oximino) vinylsilane"
+        },
+        {
+            "bbox": [
+                1327.436912344435,
+                1297.5923490003315,
+                1351.6912808822653,
+                1326.2751868456614
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "6cda2fc8-5aa8-46d6-ab84-bd32b666a412",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97143983829943,
+                1359.3707689748883,
+                430.1124788483263,
+                1388.053606820218
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "ex 2932 99 85",
+            "uuid": "018890c5-861e-4f8d-854f-647bf7d0896a",
+            "vertical": false,
+            "translation": "ex 2932 99 85"
+        },
+        {
+            "bbox": [
+                496.1764133703588,
+                1354.9580246909916,
+                531.4554948799301,
+                1385.8472346782696
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "a8e4077c-acf1-4754-a373-814050aaf9ab",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                593.19388752168,
+                1363.7835132587852,
+                1157.6591916748228,
+                1394.6727232460635
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "(2-Butylbenzofuran-3-yl) (4-hydroxy-3,5-diiodophényl) cétone",
+            "uuid": "8c46bf2b-ca67-4dcc-b008-3cce355e99d8",
+            "vertical": true,
+            "translation": "(2-Butylbenzofuran-3-yl) (4-hydroxy-3,5-diiodophenyl) ketone"
+        },
+        {
+            "bbox": [
+                1334.0545992226803,
+                1359.3707689748883,
+                1351.6941399774657,
+                1385.8472346782696
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "0956fd58-c303-4012-a816-ff44181b36f3",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                280.1792415278482,
+                1421.1491889494448,
+                423.50051016048207,
+                1449.8320267947747
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "ex 2933 19 90",
+            "uuid": "f3f74b40-b1a7-490d-bd94-5c93346abb21",
+            "vertical": false,
+            "translation": "ex 2933 19 90"
+        },
+        {
+            "bbox": [
+                500.584869011455,
+                1418.9428168074965,
+                527.0441801436335,
+                1443.2129103689297
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "148e1f64-7337-4619-8d48-cf0f2813801b",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                590.9875153797317,
+                1421.1491889494448,
+                1087.09959910808,
+                1449.8320267947747
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "4-Amino-1-méthyl-3-propylpyrazole-5-carboxamide",
+            "uuid": "ed092446-d714-4ae7-8e52-79a1bb5546e6",
+            "vertical": true,
+            "translation": "4-Amino-1-methyl-3-propylpyrazole-5-carboxamide"
+        },
+        {
+            "bbox": [
+                1331.8482270807317,
+                1423.3555610913934,
+                1362.7174234016068,
+                1447.6256546528264
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "6123a72f-b809-4c78-bce4-b564ffcd5920",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                275.7722154343522,
+                1487.3403532078983,
+                423.5033692556825,
+                1509.4040746273827
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "ex 2933 59 95",
+            "uuid": "92a72091-b371-4a41-91c6-f457fa02f06e",
+            "vertical": false,
+            "translation": "ex 2933 59 95"
+        },
+        {
+            "bbox": [
+                502.788382058203,
+                1478.5148646401046,
+                524.8378080016851,
+                1502.7849582015376
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "93d54118-f18c-48da-85d7-b4ab5499c228",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                593.1910284264796,
+                1482.9276089240016,
+                1252.4688641365958,
+                1562.3570060341458
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Phosphate de (2R)-4-oxo-4-[3-(trifluorométhyl)-5,6-dihydro[1,2,4]triazolo[4,3-a]pyrazine-7 (8H)-yl]-1-(2,4,5-trifluorophényl) butyl-2-ammonium, monohydrate",
+            "uuid": "bb499fb3-ccb3-489f-b33e-955ab48a2fcf",
+            "vertical": true,
+            "translation": "(2R)-4-oxo-4- [3-(trifluoromethyl)-5,6-dihydro [1,2,4] triazolo [4,3-a] pyrazine-7 (8H) -yl]-1- (2,4,5-trifluorophenyl) butyl-2-ammonium phosphate, monohydrate"
+        },
+        {
+            "bbox": [
+                1329.6418549387834,
+                1482.9276089240016,
+                1358.3061086653101,
+                1511.6104467693315
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "3c50ee42-af5f-484c-99b7-542c158e17cd",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                271.3594711504553,
+                1597.6589603053208,
+                425.7054527548304,
+                1621.929053866754
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "ex 2933 99 90",
+            "uuid": "475edf8b-8786-467e-aaae-762d81d035bb",
+            "vertical": false,
+            "translation": "ex 2933 99 90"
+        },
+        {
+            "bbox": [
+                500.5834394638547,
+                1591.0398438794755,
+                524.8378080016851,
+                1617.516309582857
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "40",
+            "uuid": "b7346e00-ff10-4825-9a29-d2a4ad699eb9",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                588.7811432377832,
+                1599.8653324472693,
+                835.7347138047832,
+                1626.341798150651
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "trans-4-Hydroxy-L-proline",
+            "uuid": "b5f4dbbc-ac07-428b-a6c6-3baf74f35e2a",
+            "vertical": true,
+            "translation": "trans-4-Hydroxy-L-proline"
+        },
+        {
+            "bbox": [
+                1334.0517401274797,
+                1591.0398438794755,
+                1353.8962234766136,
+                1624.135426008702
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "a1d6e084-0149-4adb-b0e3-49529a138015",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                1657.231008137929,
+                419.0906249717857,
+                1685.9138459832589
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "ex 2933 99 90",
+            "uuid": "be0a6d0a-3d1e-47b8-acad-de349e8c343e",
+            "vertical": false,
+            "translation": "ex 2933 99 90"
+        },
+        {
+            "bbox": [
+                502.788382058203,
+                1661.6437524218259,
+                531.4526357847298,
+                1679.2947295574133
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "85",
+            "uuid": "29e8c219-73c5-4515-9c45-a6fb4f852782",
+            "vertical": false,
+            "translation": "85"
+        },
+        {
+            "bbox": [
+                595.3959710208279,
+                1659.4373802798777,
+                696.8233303608458,
+                1681.501101699362
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Pyrrolidine",
+            "uuid": "fa53eadc-606f-46cc-a1bc-94abb1639928",
+            "vertical": false,
+            "translation": "Pyrrolidine"
+        },
+        {
+            "bbox": [
+                1336.256682721828,
+                1650.6118917120837,
+                1351.6912808822653,
+                1683.7074738413105
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "9a5d8a36-4f61-42e8-92d6-b8dbf7dc24bd",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                1719.0094281124857,
+                423.50051016048207,
+                1738.8667773900218
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "ex 2934 99 90",
+            "uuid": "a1104d63-b2ce-4656-9d4e-13c0fc18d8c2",
+            "vertical": false,
+            "translation": "ex 2934 99 90"
+        },
+        {
+            "bbox": [
+                500.584869011455,
+                1712.3903116866402,
+                529.2491227379818,
+                1745.485893815867
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "80",
+            "uuid": "1c6a4102-0153-41ff-95e2-4a7ae9dd9986",
+            "vertical": false,
+            "translation": "80"
+        },
+        {
+            "bbox": [
+                595.3974005684282,
+                1719.0094281124857,
+                864.4003970789103,
+                1747.6922659578154
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Oblimersen sodique (DCIM)",
+            "uuid": "d6b2a0c4-bd75-4353-afb7-3e44e6721e54",
+            "vertical": true,
+            "translation": "Oblimersen sodium (DCIM)"
+        },
+        {
+            "bbox": [
+                1331.8482270807317,
+                1712.3903116866402,
+                1356.1025956185622,
+                1741.07314953197
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "8af900f2-8340-4b51-a95e-ea8b97caea45",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                277.97429893349994,
+                1774.168731661197,
+                421.29556756613397,
+                1802.8515695065266
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "ex 3707 90 90",
+            "uuid": "510e56c3-235d-441a-ac86-e54b7e53ceb1",
+            "vertical": false,
+            "translation": "ex 3707 90 90"
+        },
+        {
+            "bbox": [
+                500.5834394638548,
+                1780.787848087042,
+                522.632865407337,
+                1798.43882522263
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "1d204d15-6c49-4bc5-a06e-59eac7cb1abc",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                588.7925796185853,
+                1774.168731661197,
+                1261.3000708947905,
+                1882.2809666166709
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Enduit antireflet, constitué d'un polymère méthacrylique modifié, contenant en poids pas plus de 10 % de polymère, sous forme de solution dans l'acétate de 2-méthoxy-1-méthyléthyle et le 1-méthoxypropane-2-ol",
+            "uuid": "a93b92d9-ff7e-4889-8d2a-8b59fad3502d",
+            "vertical": true,
+            "translation": "Anti-reflective coating, consisting of a modified methacrylic polymer, containing by weight not more than 10% of polymer, in the form of a solution in 2-methoxy-1-methylethyl acetate and 1-methoxypropan-2-ol"
+        },
+        {
+            "bbox": [
+                1329.6532913195852,
+                1769.7559873772998,
+                1353.9076598574154,
+                1802.8515695065266
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "af58384d-d01b-4235-b304-9a4f73f5c7e0",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                273.56298419720326,
+                1917.582920887846,
+                416.8842528298373,
+                1944.0593865912276
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "ex 3707 90 90",
+            "uuid": "606b24cc-97d3-4070-8c1d-2543440e2ce8",
+            "vertical": false,
+            "translation": "ex 3707 90 90"
+        },
+        {
+            "bbox": [
+                500.58058036865424,
+                1917.582920887846,
+                533.6547192838775,
+                1944.0593865912276
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "ed171027-e57e-44db-afc3-07a446a50cde",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                593.1881693312794,
+                1917.582920887846,
+                1265.6956606074846,
+                2021.2824115594233
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Enduit antireflet, constitué d'un copolymère d'hydroxystyrène et de méthacrylate de méthyle, modifié avec des groupes chromophores, contenant en poids pas plus de 10 % de polymère, sous forme de solution dans le 1-méthoxypropane-2-ol et le lactate d'éthyle",
+            "uuid": "f20c071f-72d1-4eec-9a3d-0de3f72a0170",
+            "vertical": true,
+            "translation": "Anti-reflective coating, consisting of a copolymer of hydroxystyrene and methyl methacrylate, modified with chromophoric groups, containing by weight not more than 10% of polymer, in the form of a solution in 1-methoxypropan-2-ol and lactate ethyl"
+        },
+        {
+            "bbox": [
+                1331.843938437931,
+                1917.582920887846,
+                1353.8933643814132,
+                1941.8530144492788
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "0d9c90e0-a12a-4079-98c9-1c36f68492f6",
+            "vertical": false,
+            "translation": "0"
+        },
+        {
+            "bbox": [
+                275.7693563391517,
+                2058.790737972547,
+                425.7054527548304,
+                2085.267203675928
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "ex 3707 90 90",
+            "uuid": "7dc5b5ec-370b-4172-92a9-d21d08f9c26b",
+            "vertical": false,
+            "translation": "ex 3707 90 90"
+        },
+        {
+            "bbox": [
+                500.584869011455,
+                2058.790737972547,
+                527.0441801436335,
+                2085.267203675928
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "40",
+            "uuid": "314873ad-8255-446e-b679-fde28aaf69e2",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                597.6023431627764,
+                2058.790737972547,
+                1261.2900640615887,
+                2164.6966007860724
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Enduit antireflet, constitué de résine aminique et de résine phénolique modifiée, sous forme de solution dans le 1-méthoxypropane-2-ol et le lactate d'éthyle, contenant en poids 15 % ou plus mais pas plus de 24 % des deux polymères pris ensemble",
+            "uuid": "abaceea4-13fb-430c-ac75-f1558fcc5c36",
+            "vertical": true,
+            "translation": "Anti-reflective coating, consisting of amino resin and modified phenolic resin, in the form of a solution in 1-methoxypropan-2-ol and ethyl lactate, containing by weight 15% or more but not more than 24% of the two polymers taken together"
+        },
+        {
+            "bbox": [
+                1331.8482270807317,
+                2060.997110114495,
+                1349.4877678355172,
+                2083.0608315339796
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "0",
+            "uuid": "ecd1caad-818c-4598-81ef-87bb79d8d37e",
+            "vertical": true,
+            "translation": "0"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,763 @@
+{
+    "file": "acdbbb87bda91abbb08dbf8f73bfbf24aede8359850e0091e76a80201861e4ed.png",
+    "annotations": [
+        {
+            "bbox": [
+                220.71327331843116,
+                234.0012521159819,
+                631.8458412645285,
+                263.4296885584394
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "CONTRACT FOR SUPPLIES.",
+            "uuid": "49e6faba-d0d7-44eb-9fd6-bca867f9f141",
+            "vertical": false,
+            "translation": "供应合同。"
+        },
+        {
+            "bbox": [
+                220.71327331843116,
+                313.63113896027863,
+                438.8299198919397,
+                339.59740640950565
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Table of content",
+            "uuid": "1f681f44-85c3-4a25-8c0f-8670ac46bbc6",
+            "vertical": false,
+            "translation": "目录"
+        },
+        {
+            "bbox": [
+                218.98218882181604,
+                388.9333145630375,
+                494.2246237836244,
+                420.09283550211
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "I Special Conditions",
+            "uuid": "dc3bd55a-a853-434c-8063-34677979af2c",
+            "vertical": false,
+            "translation": "I 特殊条件"
+        },
+        {
+            "bbox": [
+                251.00725200919624,
+                466.832116910719,
+                713.2068126054404,
+                500.58826459471436
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "I.1. Order of priority of provisions.",
+            "uuid": "5e10b303-81bb-446e-9c68-6dba515c0482",
+            "vertical": false,
+            "translation": "I.1. 规定的优先顺序。"
+        },
+        {
+            "bbox": [
+                252.62961025309752,
+                541.9098903829877,
+                500.8464762222981,
+                578.315030725137
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "I.2. Subject matter",
+            "uuid": "f0da7abb-0544-496e-8fc2-f08f8bdd1910",
+            "vertical": false,
+            "translation": "I.2. 主题"
+        },
+        {
+            "bbox": [
+                252.62961025309752,
+                620.2361014221576,
+                693.9040386427874,
+                652.2284974804102
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "I.3. Entry into force and duration",
+            "uuid": "a2199ef4-6bf2-425b-a2c3-d47bbe24d2ee",
+            "vertical": false,
+            "translation": "I.3. 生效和期限"
+        },
+        {
+            "bbox": [
+                253.73279632407173,
+                698.5623124613276,
+                376.1864502022107,
+                729.4515224486057
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "I.4. Price",
+            "uuid": "4bfa6fc8-4e32-4025-a288-c31134cd232e",
+            "vertical": false,
+            "translation": "I.4. 价格"
+        },
+        {
+            "bbox": [
+                285.7251923823243,
+                774.6821513585492,
+                783.2621103916997,
+                807.748132501715
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "I.4.1. Maximum price of the contract",
+            "uuid": "5b83396a-9286-46a2-a62e-9bf1c2b55f4b",
+            "vertical": false,
+            "translation": "I.4.1. 合同的最高价格"
+        },
+        {
+            "bbox": [
+                285.7251923823243,
+                851.9051763267448,
+                635.4351768811536,
+                881.6912002430488
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "I.4.2. Price revision index",
+            "uuid": "64ee25f8-f170-4a43-acea-d6478e2bfe8f",
+            "vertical": false,
+            "translation": "I.4.2. 价格修订指数"
+        },
+        {
+            "bbox": [
+                248.2168659692006,
+                930.2313873659148,
+                614.4746415326433,
+                964.4301555661157
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "I.5. Payment arrangements",
+            "uuid": "e92acad6-285d-42f6-927f-04698a18c2b5",
+            "vertical": false,
+            "translation": "I.5. 付款安排"
+        },
+        {
+            "bbox": [
+                286.8283784532985,
+                1006.0,
+                550.883972806647,
+                1041.6531805343116
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "I.5.1. Pre-financing",
+            "uuid": "5291c96b-967f-411a-97d6-e99453eb6b78",
+            "vertical": false,
+            "translation": "I.5.1. 预融资"
+        },
+        {
+            "bbox": [
+                286.5157145432678,
+                1086.9156356121541,
+                587.998175829262,
+                1119.9793915734815
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "I.5.2. Interim payment",
+            "uuid": "e4ddc27a-098c-4645-8318-ab21542be568",
+            "vertical": false,
+            "translation": "I.5.2. 中期付款"
+        },
+        {
+            "bbox": [
+                285.7251923823243,
+                1161.882738770433,
+                678.4594336491483,
+                1193.8928583287548
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "I.5.3. Payment of the balance",
+            "uuid": "dbc7a382-a477-4b91-b7c3-e1482d36d7e9",
+            "vertical": false,
+            "translation": "I.5.3. 支付余款"
+        },
+        {
+            "bbox": [
+                249.32005204017483,
+                1238.0203011677233,
+                458.92540552527754,
+                1266.7031390130535
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "I.6. Guarantees",
+            "uuid": "e599ccd0-3bc5-4280-96ab-cb0ff1734332",
+            "vertical": false,
+            "translation": "I.6. 保证"
+        },
+        {
+            "bbox": [
+                284.62200631135005,
+                1311.9632326859494,
+                674.0466893652514,
+                1349.4420943361204
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "I.6.1. Performance guarantee",
+            "uuid": "097ea2fa-2e37-4f17-87f3-61cab82c7f1d",
+            "vertical": false,
+            "translation": "I.6.1. 性能保证"
+        },
+        {
+            "bbox": [
+                285.7251923823243,
+                1396.0334535711575,
+                730.3854572402058,
+                1428.8714914462644
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "I.6.2. Retention money guarantee",
+            "uuid": "b6e51516-9b6c-4e5f-904b-4ef019bf69c9",
+            "vertical": false,
+            "translation": "I.6.2. 保留金担保"
+        },
+        {
+            "bbox": [
+                252.62961025309752,
+                1472.0,
+                492.4095299095544,
+                1503.8881442725117
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "I.7. Bank account",
+            "uuid": "5174b4b5-6fde-4109-ad98-e02b7509ec98",
+            "vertical": false,
+            "translation": "I.7. 银行账户"
+        },
+        {
+            "bbox": [
+                249.32005204017483,
+                1545.8092149695324,
+                619.9905718875144,
+                1578.9047970987592
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "I.8. Communication details",
+            "uuid": "c5a8a05a-7766-4652-8a9d-a19a0706db4e",
+            "vertical": false,
+            "translation": "I.8. 沟通细节"
+        },
+        {
+            "bbox": [
+                251.5264241821233,
+                1627.0,
+                501.9496622932723,
+                1652.818263854032
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "I.9. data controller",
+            "uuid": "8ed84890-b82d-4e37-ab72-ed820250b734",
+            "vertical": false,
+            "translation": "I.9. 数据控制者"
+        },
+        {
+            "bbox": [
+                251.4359069457754,
+                1702.4813195504519,
+                681.768991862071,
+                1738.8667773900218
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "I.10. termination by either party",
+            "uuid": "d951dbef-b48a-499e-81c1-9e5b0c1ce6d6",
+            "vertical": false,
+            "translation": "I.10. 任何一方终止"
+        },
+        {
+            "bbox": [
+                251.5264241821233,
+                1781.8910341580165,
+                883.6520428503542,
+                1814.9866162872434
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "I.11. Applicable law and settlement of disputes",
+            "uuid": "1cccc056-a8a5-4644-9e9d-e8e0ca0035db",
+            "vertical": false,
+            "translation": "I.11. 适用法律和争议的解决"
+        },
+        {
+            "bbox": [
+                252.62961025309752,
+                1854.7013148423155,
+                658.6020843716124,
+                1887.0
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "I.12. Other Specific Condition",
+            "uuid": "c8469921-b19f-4627-b1f7-27cea35024d5",
+            "vertical": false,
+            "translation": "I.12. 其他特定条件"
+        },
+        {
+            "bbox": [
+                219.00000000000003,
+                1929.7179676685626,
+                845.0405303662565,
+                1967.140522272708
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "II General Conditions for the supplies contract",
+            "uuid": "13f9b5f4-4056-4743-9ec0-b7ff21b64345",
+            "vertical": false,
+            "translation": "II 供应合同的一般条件"
+        },
+        {
+            "bbox": [
+                253.73279632407173,
+                2012.4569229916294,
+                468.8540801640456,
+                2042.2429469079334
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "II.1. Definitions",
+            "uuid": "145b7f3d-1e5d-4e4d-80e6-f5ff14c5133e",
+            "vertical": false,
+            "translation": "II.1. 定义"
+        },
+        {
+            "bbox": [
+                252.62961025309752,
+                2089.679947959825,
+                1046.9235813545395,
+                2123.878716160026
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "II.2. Roles and responsibilities in the event of a joint tender",
+            "uuid": "ced9f3df-0268-455c-9a45-ec74ebef450e",
+            "vertical": false,
+            "translation": "II.2. 联合投标时的角色和责任"
+        },
+        {
+            "bbox": [
+                1414.887471515726,
+                236.83026714636293,
+                1432.8087821112385,
+                261.02403645030506
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "1",
+            "uuid": "ccbba1e6-df66-4e5a-8e9f-b7dfd8b87ac8",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1416.0,
+                315.0,
+                1432.0,
+                338.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "3",
+            "uuid": "5889f6eb-327b-41d7-b177-f7198a4b1444",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                1414.887471515726,
+                391.84960379754756,
+                1434.60091317079,
+                417.83550416104094
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "6",
+            "uuid": "f77bf3ce-66d5-4f24-9d43-601d24151d9d",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1413.9914059859505,
+                469.8073048880278,
+                1432.8087821112385,
+                494.0010741919699
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "6",
+            "uuid": "aaffca0e-2158-4f9f-9c06-0d1caacb0309",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1414.0,
+                545.9999999999999,
+                1435.2450783374666,
+                571.6959142992916
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "6",
+            "uuid": "678cd220-3abd-4ef5-80ed-4500c10cc4fe",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1414.0,
+                623.0,
+                1434.1418922664925,
+                650.0221253384617
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "6",
+            "uuid": "f0e148e7-571e-4e2e-a37c-b74a5ad8390b",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1414.0,
+                700.768684603276,
+                1434.1418922664925,
+                726.1419642356832
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "6",
+            "uuid": "48b4c36e-c5ba-4305-9a5e-a28d7c56bd9e",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1415.0000000000002,
+                777.9917095714717,
+                1434.1418922664925,
+                804.4681752748533
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "6",
+            "uuid": "164fb397-df09-48c8-988b-90ed296e0b94",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1414.0,
+                855.0000000000001,
+                1433.038706195518,
+                880.5880141720747
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "7",
+            "uuid": "c89050e9-fba6-4470-832e-2f00ae48443f",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1414.0,
+                932.0000000000001,
+                1433.038706195518,
+                958.9142252112447
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "7",
+            "uuid": "dded0849-90cd-4a0b-97a6-dbbdb41ff8fe",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1414.0,
+                1009.6607844760591,
+                1431.9355201245442,
+                1037.2404362504146
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "7",
+            "uuid": "b0b9f71e-0d11-476c-98a8-f7267b501b2e",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1414.0,
+                1086.8838094442547,
+                1434.1418922664925,
+                1114.4634612186103
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "7",
+            "uuid": "5bd0a946-3f96-450b-a644-5bf9269d646d",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1413.0,
+                1164.0,
+                1434.1418922664925,
+                1191.686486186806
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "7",
+            "uuid": "feb323dd-bcf0-45f5-9f2e-5cbf54a410e5",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1413.0,
+                1241.0,
+                1434.1418922664925,
+                1268.9095111550018
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "8",
+            "uuid": "c7f677c0-e8f4-4db0-b210-f1cddc5498f3",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1413.0,
+                1317.4496982778678,
+                1434.1418922664925,
+                1345.0293500522234
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "8",
+            "uuid": "d302d497-196d-44b8-96cf-4e25640cf6fa",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1413.0,
+                1395.7759093170378,
+                1433.038706195518,
+                1421.1491889494448
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "8",
+            "uuid": "f7d288ce-bf49-47e3-ae7e-386fcade8fbb",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1414.0,
+                1472.9989342852336,
+                1431.9355201245442,
+                1500.578586059589
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "8",
+            "uuid": "4b41e6d2-f918-40e7-8252-445a41bdaa51",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1414.0,
+                1550.0000000000002,
+                1434.1418922664925,
+                1575.5952388858364
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "8",
+            "uuid": "eff2aaf1-3fa1-41fc-b9b8-a2544aaf02b3",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1414.0,
+                1627.0,
+                1433.038706195518,
+                1652.818263854032
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "9",
+            "uuid": "905731ab-4823-44f7-883a-d21991aec987",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                1413.0,
+                1704.6680091898204,
+                1431.9355201245442,
+                1731.144474893202
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "9",
+            "uuid": "0f0c9588-073e-4d6a-bc77-d53d057092f8",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                1413.1813569179822,
+                1780.787848087042,
+                1431.9355201245442,
+                1808.3674998613978
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "9",
+            "uuid": "3941313c-8a30-473b-b0bb-263f0a717ac4",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                1398.7936278580517,
+                1933.7936278580517,
+                1429.7291479825956,
+                1963.9167358687635
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "11",
+            "uuid": "6833d5a0-f393-4c94-a30c-59012be67bc6",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1401.0,
+                2014.663295133578,
+                1430.8323340535699,
+                2040.036574765985
+            ],
+            "order": "51",
+            "label": "Text",
+            "text": "11",
+            "uuid": "e35f48af-6776-4368-9b02-acb6049820a7",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1398.839937995317,
+                2090.7831340307994,
+                1433.038706195518,
+                2116.1564136632064
+            ],
+            "order": "53",
+            "label": "Text",
+            "text": "12",
+            "uuid": "23bf7f1c-fc47-4797-a9e4-ff646731cea7",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                218.1166465735085,
+                83.39690091046397,
+                507.20775750823793,
+                109.36316835969122
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Contract number: [complete]",
+            "uuid": "c707c197-cc77-4b3a-8779-423accc858ba",
+            "vertical": false,
+            "translation": "合同编号：[完整]"
+        },
+        {
+            "bbox": [
+                1043.8439514589334,
+                79.93473191723372,
+                1433.3379631973414,
+                105.90099936646097
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "Contract conditions of December 2015",
+            "uuid": "8c4a4f0b-0522-40c4-bbd6-a5256601ad5a",
+            "vertical": false,
+            "translation": "2015 年 12 月的合同条款"
+        },
+        {
+            "bbox": [
+                664.7364467002163,
+                149.1781117818397,
+                988.4492475672488,
+                194.18630869383344
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "TABLE OF CONTENT",
+            "uuid": "f1db364e-1e28-4de4-81a1-f1b52e665720",
+            "vertical": false,
+            "translation": "目录"
+        },
+        {
+            "bbox": [
+                1414.2845429889562,
+                1858.0108730552379,
+                1431.9355201245442,
+                1885.5905248295935
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "9",
+            "uuid": "ca911adb-0ab0-4f6e-8bbd-8c1947cdbedf",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                858.278763217947,
+                2197.7921829152992,
+                874.8265542825604,
+                2220.9590904057577
+            ],
+            "order": "54",
+            "label": "Page-footer",
+            "text": "3",
+            "uuid": "b53cb120-382f-48d7-8285-b7c135ab1a04",
+            "vertical": false,
+            "translation": "3"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

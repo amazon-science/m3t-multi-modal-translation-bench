@@ -1,0 +1,833 @@
+{
+    "file": "jrc32004R1869.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                109.92832767414659,
+                123.71771173754448,
+                231.45247050379385,
+                144.6030700336092
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.10.2004",
+            "uuid": "30a80c33-08a6-4e66-a346-381497d36ae6",
+            "vertical": false,
+            "translation": "2004 年 10 月 29 日"
+        },
+        {
+            "bbox": [
+                327.92965259755965,
+                121.46672785859653,
+                356.2234415769814,
+                141.42384800816947
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "e9433bca-212f-4872-b39d-5e75f6601c62",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                620.6080271223972,
+                122.86051741346353,
+                1021.3593988965011,
+                152.56413810119955
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "92c731d3-28fc-459f-a627-b33ac9b25992",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1440.4144717532147,
+                122.57943291047283,
+                1530.689013747521,
+                150.75023719014487
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 326/9",
+            "uuid": "3ba097eb-68e5-4142-a301-4d0401dea818",
+            "vertical": false,
+            "translation": "L 326/9"
+        },
+        {
+            "bbox": [
+                781.8693382896673,
+                221.70347370246645,
+                858.9852182305659,
+                240.0757373631218
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "b9a14fa8-8d31-42f5-b48f-4a5058333839",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                250.5515315726819,
+                283.9121354727402,
+                1390.0461683141946,
+                329.98843111286743
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "EXPORT REFUNDS ON SYRUPS AND CERTAIN OTHER SUGAR PRODUCTS EXPORTED WITHOUT FURTHER PROCESSING APPLICABLE FROM 29 OCTOBER 2004",
+            "uuid": "63011403-632f-47ad-9776-c6c47b67134c",
+            "vertical": false,
+            "translation": "自 2004 年 10 月 29 日起，未经进一步加工而出口的糖浆和某些其他糖制品的出口退税"
+        },
+        {
+            "bbox": [
+                302.3682861328125,
+                375.1786297655459,
+                412.5799560546875,
+                393.4633530984572
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Product code",
+            "uuid": "96392ef1-4e4f-4c08-a2fc-1a5fbab20536",
+            "vertical": false,
+            "translation": "产品代码"
+        },
+        {
+            "bbox": [
+                253.5439453125,
+                419.4917457399723,
+                413.7220458984375,
+                439.7763606874211
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "1702 40 10 9100",
+            "uuid": "b4e3505c-f1de-47ec-b6d4-5eb64aa139e0",
+            "vertical": false,
+            "translation": "1702 40 10 9100"
+        },
+        {
+            "bbox": [
+                254.68603515625003,
+                466.0606504784813,
+                414.86413574218744,
+                485.4881690196995
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "1702 60 10 9000",
+            "uuid": "599d71c1-608d-4746-bf7e-1b53e0ec9030",
+            "vertical": false,
+            "translation": "1702 60 10 9000"
+        },
+        {
+            "bbox": [
+                539.1280277977474,
+                376.9140654768788,
+                632.3734414105653,
+                393.50126597217695
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Destination",
+            "uuid": "db4832e1-c898-43bf-808a-32c5700f4bdd",
+            "vertical": false,
+            "translation": "目的地"
+        },
+        {
+            "bbox": [
+                567.3842137410256,
+                420.2669758623177,
+                603.928880894332,
+                439.11606733424753
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "314cf3a2-9f54-4558-9050-d5374e99b464",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                566.9031918715049,
+                465.9733279549553,
+                603.9330526187508,
+                484.6329765135652
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "a4a431f2-413c-455e-a87e-34b791f42f3a",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                566.9031918715049,
+                511.2896173115795,
+                603.4002488669919,
+                529.6826994622094
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "fb3eb670-7ae7-4830-b12a-8c7c248048c7",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                253.08178208549327,
+                511.22857590222833,
+                414.52131886845007,
+                529.6216580528585
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "1702 60 80 9100",
+            "uuid": "7dab76ad-a304-4c8b-85e2-d4eb86f7de39",
+            "vertical": false,
+            "translation": "1702 60 80 9100"
+        },
+        {
+            "bbox": [
+                253.08178208549327,
+                557.3624984817673,
+                414.25491699257054,
+                576.0221470403771
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "1702 60 95 9000",
+            "uuid": "89cddf8d-8393-44c6-a4db-5c00875c9992",
+            "vertical": false,
+            "translation": "1702 60 95 9000"
+        },
+        {
+            "bbox": [
+                253.6145858372522,
+                602.9453542463715,
+                413.98851511669113,
+                621.6050028049816
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1702 90 30 9000",
+            "uuid": "0b61dda3-f612-4be8-a38d-fe3249fa3f38",
+            "vertical": false,
+            "translation": "1702 90 30 9000"
+        },
+        {
+            "bbox": [
+                567.7023974991433,
+                557.0457497830804,
+                603.6666507428713,
+                575.7053983416905
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "dd346d34-24c1-46fb-9989-06525b9aedb2",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                567.7023974991433,
+                603.4501875410155,
+                603.6666507428713,
+                621.0435704677047
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "40f4d2c9-9341-4bb6-80ff-70943695ada7",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                566.6367899956255,
+                648.2333440816795,
+                603.6666507428713,
+                666.3598598243292
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "cb270109-0bfd-43bd-8127-0837034e0806",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                253.1385121616166,
+                647.908630198154,
+                415.3263730510063,
+                666.9617828344469
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1702 90 60 9000",
+            "uuid": "db85f904-7ac0-4109-bcdf-8e4b07ad9e1a",
+            "vertical": false,
+            "translation": "1702 90 60 9000"
+        },
+        {
+            "bbox": [
+                253.3625285440605,
+                694.101246887944,
+                415.10235666856244,
+                712.2577805766466
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "1702 90 71 9000",
+            "uuid": "7bfd1ea0-1f86-4f19-8f37-8366c7c5c032",
+            "vertical": false,
+            "translation": "1702 90 71 9000"
+        },
+        {
+            "bbox": [
+                253.52286430133591,
+                738.7115690725241,
+                414.41237433872215,
+                758.0302342872188
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "1702 90 99 9900",
+            "uuid": "68c79625-ff93-46fd-9c59-1cc59e19cbb2",
+            "vertical": false,
+            "translation": "1702 90 99 9900"
+        },
+        {
+            "bbox": [
+                252.5477763617154,
+                784.9592827683089,
+                414.2173567507981,
+                803.6925338855891
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "2106 90 30 9000",
+            "uuid": "bcbe0ba3-9a59-44a9-a5b0-43d4dd0ffd05",
+            "vertical": false,
+            "translation": "2106 90 30 9000"
+        },
+        {
+            "bbox": [
+                567.5011808591443,
+                739.0817308980244,
+                604.5545225647242,
+                757.2295679178893
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "63f8f76e-b2ce-4de8-8677-4d491a67c847",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                567.5011808591443,
+                785.3452228295399,
+                603.9694698009519,
+                804.8590260767068
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "201dbfc4-2e4d-4ee8-8590-e44eac136e13",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                568.0499043875927,
+                694.6889643619138,
+                603.56106488838,
+                712.3267675233368
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "840d8b14-8076-428c-b27d-a0e17addaa46",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                251.96272359794312,
+                830.1679524697179,
+                414.80240951457046,
+                849.4866176844131
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "2106 90 59 9000",
+            "uuid": "d18b6167-7ca9-4431-8896-78aa79d87216",
+            "vertical": false,
+            "translation": "2106 90 59 9000"
+        },
+        {
+            "bbox": [
+                567.2398750639522,
+                831.2107807010779,
+                603.5976158835801,
+                849.2529915640644
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "SOO",
+            "uuid": "55eeb794-f417-4cde-908a-1f55d05d64ea",
+            "vertical": false,
+            "translation": "SOO"
+        },
+        {
+            "bbox": [
+                830.9749079613349,
+                375.8933321091302,
+                1008.3120688704416,
+                393.5552106407291
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Unit of measurement",
+            "uuid": "00d5663f-bdaf-4204-8799-00427881c9d2",
+            "vertical": false,
+            "translation": "计量单位"
+        },
+        {
+            "bbox": [
+                808.6353900241068,
+                418.41011242862123,
+                1029.824197254439,
+                444.07502966985066
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "EUR/100 kg dry matter",
+            "uuid": "fdfd07ea-a2a4-45c8-9e10-aec9dd917121",
+            "vertical": false,
+            "translation": "欧元/100 千克干物质"
+        },
+        {
+            "bbox": [
+                808.8794279508128,
+                463.97955102942336,
+                1030.2468463451878,
+                489.90979092811364
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "EUR/100 kg dry matter",
+            "uuid": "8682254d-28b4-4f16-9a49-9b14b41b1c19",
+            "vertical": false,
+            "translation": "欧元/100 千克干物质"
+        },
+        {
+            "bbox": [
+                808.5429195333375,
+                509.16454629838205,
+                1030.4729345909686,
+                534.7276285521702
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "EUR/100 kg dry matter",
+            "uuid": "138e185b-7e26-454c-995e-0db0197191b1",
+            "vertical": false,
+            "translation": "欧元/100 千克干物质"
+        },
+        {
+            "bbox": [
+                717.8834934915199,
+                555.2197954171446,
+                1119.8022119212203,
+                582.1270224501089
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "EUR/1 % sucrose × net 100 kg of product",
+            "uuid": "1e2851a4-99a2-4512-8be7-14eca4ab1db4",
+            "vertical": false,
+            "translation": "欧元/1% 蔗糖 × 净重 100 千克产品"
+        },
+        {
+            "bbox": [
+                807.1987642536756,
+                600.8659841337806,
+                1030.4869411590646,
+                626.8122387727108
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "EUR/100 kg dry matter",
+            "uuid": "0a5319fa-b727-4956-827e-3bc755c62ce8",
+            "vertical": false,
+            "translation": "欧元/100 千克干物质"
+        },
+        {
+            "bbox": [
+                718.8438727470268,
+                646.5121728504168,
+                1119.322022293467,
+                672.4584274893471
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "EUR/1 % sucrose × net 100 kg of product",
+            "uuid": "add5b6e6-8f62-4b78-b2ac-5b79bd170695",
+            "vertical": false,
+            "translation": "欧元/1% 蔗糖 × 净重 100 千克产品"
+        },
+        {
+            "bbox": [
+                718.3636831192733,
+                692.5119161192072,
+                1119.8022119212203,
+                718.9386569551547
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "EUR/1 % sucrose × net 100 kg of product",
+            "uuid": "504de387-ef2f-432d-8956-6fcdcd6e55c0",
+            "vertical": false,
+            "translation": "欧元/1% 蔗糖 × 净重 100 千克产品"
+        },
+        {
+            "bbox": [
+                718.8438727470268,
+                737.6776186388265,
+                1119.322022293467,
+                763.6238732777565
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "EUR/1 % sucrose × net 100 kg of product",
+            "uuid": "8fa75fbc-144b-4f9f-abd8-b32e25b31a75",
+            "vertical": false,
+            "translation": "欧元/1% 蔗糖 × 净重 100 千克产品"
+        },
+        {
+            "bbox": [
+                808.1591435091826,
+                783.3238073554626,
+                1030.0067515313112,
+                808.7895757973753
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "EUR/100 kg dry matter",
+            "uuid": "db9aa110-0e5a-415d-9c22-f12fe016c9df",
+            "vertical": false,
+            "translation": "欧元/100 千克干物质"
+        },
+        {
+            "bbox": [
+                718.1741322042204,
+                829.9104040366963,
+                1119.0443707444792,
+                855.4905310574111
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "EUR/1 % sucrose × net 100 kg of product",
+            "uuid": "afb7f115-5a12-46cd-9f7e-28d18482e775",
+            "vertical": false,
+            "translation": "欧元/1% 蔗糖 × 净重 100 千克产品"
+        },
+        {
+            "bbox": [
+                1192.1877903703603,
+                375.2873538113413,
+                1349.399367122496,
+                394.22265692010467
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Amount of refund",
+            "uuid": "b1fa8fb0-89e7-479b-a682-d4e2bf4047db",
+            "vertical": false,
+            "translation": "退款金额"
+        },
+        {
+            "bbox": [
+                1230.3989374976159,
+                418.61956149959445,
+                1311.7279274003063,
+                443.4853799508683
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "43,00 (¹)",
+            "uuid": "32bd2a6b-8caa-4753-8606-4fc12ab61d5e",
+            "vertical": false,
+            "translation": "43.00 (¹)"
+        },
+        {
+            "bbox": [
+                1231.082029720499,
+                464.8404819361459,
+                1310.6078454880867,
+                488.963453101214
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "43,00 (¹)",
+            "uuid": "391bfd15-087c-407b-af78-6488719323ed",
+            "vertical": false,
+            "translation": "43.00 (¹)"
+        },
+        {
+            "bbox": [
+                1231.8546002453206,
+                510.4477393207721,
+                1311.1678864441965,
+                534.1042956374927
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "81,71 (²)",
+            "uuid": "ac20f887-b8eb-43d4-8e3e-a46ee6d18949",
+            "vertical": false,
+            "translation": "81.71 (²)"
+        },
+        {
+            "bbox": [
+                1244.4397467531207,
+                555.7065533350618,
+                1336.516464357301,
+                579.9600171180928
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "0,4300 (³)",
+            "uuid": "3e990f1f-323c-440d-8b00-9239ffab3471",
+            "vertical": false,
+            "translation": "0.4300 (³)"
+        },
+        {
+            "bbox": [
+                1231.8285941226063,
+                601.8978784695188,
+                1310.6156996439447,
+                625.9974254797697
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "43,00 (¹)",
+            "uuid": "b5e23c86-a266-4918-8da1-391a49134e94",
+            "vertical": false,
+            "translation": "43.00 (¹)"
+        },
+        {
+            "bbox": [
+                1244.5317863177972,
+                646.3015976979264,
+                1336.9236197618889,
+                671.0006309569594
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "0,4300 (³)",
+            "uuid": "e020659f-ff8a-403f-bda3-a03a80364f89",
+            "vertical": false,
+            "translation": "0.4300 (³)"
+        },
+        {
+            "bbox": [
+                1244.6696845766692,
+                693.0744872680481,
+                1336.7857215030172,
+                716.6696531188559
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "0,4300 (³)",
+            "uuid": "9847a8dd-14e1-40a6-a817-8bdd53fd5641",
+            "vertical": false,
+            "translation": "0.4300 (³)"
+        },
+        {
+            "bbox": [
+                1244.264363042511,
+                738.7995226209589,
+                1360.5810299387244,
+                762.4327680359775
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "0,4300 (3) (4)",
+            "uuid": "d5b400be-0a9d-4598-a0e4-8f1dc2a6d5a5",
+            "vertical": false,
+            "translation": "0.4300 (3) (4)"
+        },
+        {
+            "bbox": [
+                1231.3054531636876,
+                784.1666797847723,
+                1310.3130004894174,
+                807.4862095526889
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "43,00 (¹)",
+            "uuid": "30fa5288-b56d-475a-a572-1bafdef8be49",
+            "vertical": false,
+            "translation": "43.00 (¹)"
+        },
+        {
+            "bbox": [
+                1245.030929530676,
+                830.1595066190147,
+                1336.368668662912,
+                854.412970402046
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "0,4300 (³)",
+            "uuid": "ed969520-3956-4d51-9ddd-cb39922413f1",
+            "vertical": false,
+            "translation": "0.4300 (³)"
+        },
+        {
+            "bbox": [
+                251.10182397910523,
+                874.5534697233591,
+                1390.1579240582346,
+                917.9175585795379
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "NB: The product codes and the 'A' series destination 24.12.1987, p. 1). codes are set out in Commission Regulation (EEC) No 3846/87 (OJ L 366, 24.12.1987. p. 1).",
+            "uuid": "34729e69-2694-4ea6-bf3b-acbeb51184f8",
+            "vertical": false,
+            "translation": "注意：委员会 (EEC) 第 3846/87 号条例（OJ L 366，1987 年 12 月 24 日，第 1 页）规定了产品代码和“A”系列目的地代码 1987 年 12 月 24 日，第 1 页）。"
+        },
+        {
+            "bbox": [
+                292.5183121674268,
+                919.7004702729611,
+                1388.5203034670667,
+                961.9785523518524
+            ],
+            "order": "53",
+            "label": "Text",
+            "text": "The numeric destination codes are set out in Commission Regulation (EC) No 2081/2003 (OJ L 313, 28.11.2003, p. 11).",
+            "uuid": "60f2c40d-746f-4d70-a2e1-34de956a6c09",
+            "vertical": false,
+            "translation": "委员会  (EC) 第 2081/2003 号条例（OJ L 313，2003 年 11 月 28 日，第 11 页）规定了数字目的地代码。"
+        },
+        {
+            "bbox": [
+                293.19740285150675,
+                963.7202963175596,
+                675.2267040149686,
+                983.6198809119837
+            ],
+            "order": "54",
+            "label": "Text",
+            "text": "The other destinations are defined as follows:",
+            "uuid": "472e92cd-0a05-4a35-acca-129cea7b4e99",
+            "vertical": false,
+            "translation": "其他目的地的定义如下："
+        },
+        {
+            "bbox": [
+                293.9094937664079,
+                984.4289394572963,
+                1391.6457718371705,
+                1087.8805754768523
+            ],
+            "order": "55",
+            "label": "List-item",
+            "text": "S00: all destinations (third countries, other territories, victualling and destinations treated as exports from the Community) with the exception of Albania, Croatia, Bosnia and Herzegovina, Serbia and Montenegro (including Kosovo as defined by the United Nations Security Council Resolution 1244 of 10 June 1999), the former Yugoslav Republic of Macedonia, except for sugar incorporated into the products referred to in Article 1(2)(b) of Council Regulation (EC) No 2201/96 (OJ L 297, 21.11.1996, p. 29).",
+            "uuid": "c736dec8-e49b-4bb0-ac78-1e7aaf1eda96",
+            "vertical": false,
+            "translation": "S00：除阿尔巴尼亚、克罗地亚、波斯尼亚和黑塞哥维那、塞尔维亚和黑山（包括联合国安全理事会 1999 年 6 月 10 日第 1244 号决议界定的科索沃）、前南斯拉夫的马其顿共和国以外的所有目的地（第三国、其他领土、食品供应和被视为共同体出口的目的地），但理事会 (EC) 第 2201/96 号条例（OJ L 297，1996 年 11 月 21 日，第 29 页）第 1(2)(b) 条所述产品中掺入的糖除外。"
+        },
+        {
+            "bbox": [
+                255.286854378757,
+                1087.6759105041256,
+                1008.0798938745601,
+                1109.4347629805584
+            ],
+            "order": "56",
+            "label": "Footnote",
+            "text": "(¹) Applicable only to products referred to in Article 5 of Regulation (EC) No 2135/95 .",
+            "uuid": "7ad58ed6-728f-41f3-a1c0-a29b9aadbaf6",
+            "vertical": false,
+            "translation": "(¹) 仅适用于 (EC) 第 2135/95 号条例第 5 条所述产品。"
+        },
+        {
+            "bbox": [
+                255.74174898741478,
+                1109.5108517197,
+                1007.4462798620683,
+                1131.4483071863854
+            ],
+            "order": "57",
+            "label": "Footnote",
+            "text": "(2) Applicable only to products referred to in Article 6 of Regulation (EC) No 2135/95.",
+            "uuid": "35d9044b-9934-4456-96a0-2b83a58c9315",
+            "vertical": false,
+            "translation": "(2) 仅适用于 (EC) 第 2135/95 号条例第 6 条所述产品。"
+        },
+        {
+            "bbox": [
+                255.53875559811712,
+                1130.9179940665072,
+                1389.5751186428554,
+                1171.0396659225378
+            ],
+            "order": "58",
+            "label": "Footnote",
+            "text": "(3) The basic amount is not applicable to syrups which are less than 85 % pure (Regulation (EC) No 2135/95). Sucrose content is determined in accordance with Article 3 of Regulation (EC) No 2135/95.",
+            "uuid": "20fa3eb1-2e7c-4895-b568-15c976d9a545",
+            "vertical": false,
+            "translation": "(3) 基本金额不适用于纯度 85% 以下的糖浆（(EC) 第 2135/95 号条例）。蔗糖含量按 (EC) 第 2135/95 号条例第 3 条确定。"
+        },
+        {
+            "bbox": [
+                255.9391684660201,
+                1171.118422940242,
+                1388.688344476523,
+                1217.3888517113048
+            ],
+            "order": "59",
+            "label": "Footnote",
+            "text": "(4) The basic amount is not applicable to the product defined under point 2 of the Annex to Commission Regulation (EEC) No 3513/92 (OJ L 355, 5.12.1992, p. 12).",
+            "uuid": "1681461f-782c-4503-8ecd-2de452a47e59",
+            "vertical": false,
+            "translation": "(4) 基本量不适用于委员会 (EEC) 第 3513/92 号 条例附件第 2 点所定义的产品（OJ L 355，1992 年 12 月 5 日，第 12 页）。"
+        },
+        {
+            "bbox": [
+                253.0939555207404,
+                370.6434280468016,
+                1363.8952047506564,
+                861.6675598170574
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "4ce41bcd-7d46-4106-bb74-c1be8b3b290f",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

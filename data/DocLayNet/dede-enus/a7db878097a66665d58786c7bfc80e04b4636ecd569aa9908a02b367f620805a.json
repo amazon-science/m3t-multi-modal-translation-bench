@@ -1,0 +1,315 @@
+{
+    "file": "a7db878097a66665d58786c7bfc80e04b4636ecd569aa9908a02b367f620805a.png",
+    "annotations": [
+        {
+            "bbox": [
+                775.0,
+                40.00000000000001,
+                1511.0,
+                88.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz sowie des Bundesamts für Justiz - www.gesetze-im-internet.de",
+            "uuid": "65e85396-3a91-4226-9a20-010219365bea",
+            "vertical": false,
+            "translation": "A service of the Federal Ministry of Justice and Consumer Protection and the Federal Office of Justice - www.gesetze-im-internet.de"
+        },
+        {
+            "bbox": [
+                139.0,
+                199.0,
+                764.0,
+                229.0
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "§ 5 Form und Format der Datenübermittlung",
+            "uuid": "afef3481-1752-4341-9d63-cc1b1c6bdad2",
+            "vertical": false,
+            "translation": "§ 5 Form and format of data transmission"
+        },
+        {
+            "bbox": [
+                140.0,
+                265.0,
+                1505.0,
+                357.99999999999994
+            ],
+            "order": "3",
+            "label": "List-item",
+            "text": "(1) Die Mitteilungspflichtigen haben die Daten gemäß der Anforderung der Deutschen Bundesbank zu übermitteln. Sind von der Deutschen Bundesbank mit der Datenanforderung Schemata zur Übermittlung der Daten veröffentlicht worden, sind diese von den Mitteilungspflichtigen zu verwenden.",
+            "uuid": "5266845b-474a-4849-8365-3358ffcf3304",
+            "vertical": false,
+            "translation": "(1) The notifying parties must transmit the data in accordance with the request of the Deutsche Bundesbank. If the Deutsche Bundesbank has published schemes for transmitting the data with the data request, these must be used by the notifying parties."
+        },
+        {
+            "bbox": [
+                139.0,
+                395.0,
+                1522.0,
+                589.0
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "(2) Personenbezogene Daten dürfen von den Mitteilungspflichtigen nicht übermittelt werden. Kann ein Mitteilungspflichtiger dieser Auflage bezogen auf einen bestimmten Meldestichtag und auf einen bestimmten Teil der zu meldenden Daten nicht nachkommen, hat er dies gegenüber der Deutschen Bundesbank innerhalb der Übermittlungsfrist anzuzeigen. Die Meldepflicht besteht hinsichtlich der übrigen angeforderten Daten fort. Die unterbliebene Übermittlung ansonsten personenbezogener Daten ist im Falle einer fortlaufenden Datenanforderung in anonymisierter Form in die nächstmögliche Datenübermittlung einzubeziehen.",
+            "uuid": "27ca0d09-5230-4e6b-8a80-bf918fea13fd",
+            "vertical": false,
+            "translation": "(2) Personal data must not be transmitted by the notifying parties. If a notifying party is unable to comply with this requirement by reference to a specific reporting reference date and part of the data to be reported, they shall notify the Deutsche Bundesbank within the transmission deadline. The obligation to report the remaining data requested remains in force. Data which is otherwise personal shall be included in the next possible data transmission in an anonymised form, in the case of a continuous data request."
+        },
+        {
+            "bbox": [
+                140.0,
+                623.9999999999999,
+                1559.0,
+                747.0
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "(3) Die Übermittlung der Daten erfolgt elektronisch unter Nutzung der von der Deutschen Bundesbank angebotenen elektronischen Übermittlungswege. Zur weiteren Erläuterung der zu übermittelnden Daten sowie der Form und des Formats der Datenübermittlung kann die Deutsche Bundesbank Richtlinien und Rundschreiben veröffentlichen.",
+            "uuid": "cd6c0245-b624-4250-a1de-d6c28971f64c",
+            "vertical": false,
+            "translation": "(3) The data shall be transmitted electronically using the electronic transmission channels provided by the Deutsche Bundesbank. For further explanation of the data to be transmitted and the form and format of the data transmission, the Deutsche Bundesbank may publish guidelines and circulars."
+        },
+        {
+            "bbox": [
+                140.0,
+                778.0,
+                452.0,
+                808.0
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "§ 6 Zeitliche Vorgaben",
+            "uuid": "f3cd183e-3e15-4446-a7b4-788fd57c6f50",
+            "vertical": false,
+            "translation": "§ 6 Time Requirements"
+        },
+        {
+            "bbox": [
+                140.0,
+                846.0,
+                1439.0,
+                904.0
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "(1) Die Mitteilungspflichtigen übermitteln Daten entsprechend der angeforderten Meldefrequenz zu den folgenden Meldestichtagen:",
+            "uuid": "80bf25ec-7e65-4b08-909e-3fe7d880360c",
+            "vertical": false,
+            "translation": "(1) The notifying parties shall transmit data according to the intervals requested on the following reporting dates:"
+        },
+        {
+            "bbox": [
+                146.0,
+                925.0,
+                989.9999999999999,
+                951.0
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "1. für monatliche Meldungen zum jeweils letzten Tag des Monats,",
+            "uuid": "1efa5b0c-8737-4c3d-b86e-80737ff32402",
+            "vertical": false,
+            "translation": "1. on the last day of each month for monthly reports,"
+        },
+        {
+            "bbox": [
+                144.0,
+                972.0,
+                1321.0,
+                998.0
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "2. für vierteljährliche Meldungen zum 31. März, 30. Juni, 30. September oder 31. Dezember,",
+            "uuid": "127f8278-f1b2-4e4e-8718-3b7f6de6b420",
+            "vertical": false,
+            "translation": "2. as of March 31, June 30, September 30, or December 31 for quarterly reports,"
+        },
+        {
+            "bbox": [
+                147.0,
+                1020.0,
+                1022.0,
+                1047.0
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "3. für halbjährliche Meldungen zum 30. Juni und zum 31. Dezember,",
+            "uuid": "bd756df1-5b0a-4f37-9df6-41324310eb9b",
+            "vertical": false,
+            "translation": "3. as of June 30 and December 31 for semi-annual reports,"
+        },
+        {
+            "bbox": [
+                145.0,
+                1065.0,
+                748.0,
+                1095.0
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "4. für jährliche Meldungen zum 31. Dezember.",
+            "uuid": "fb549f34-be94-41af-8777-d4d96be83b0e",
+            "vertical": false,
+            "translation": "4. by 31 December for annual reports."
+        },
+        {
+            "bbox": [
+                139.0,
+                1142.0,
+                1542.0,
+                1471.0
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(2) Die Übermittlung von Daten an die Deutsche Bundesbank ist täglich möglich. Monatlich zu meldende Daten sind spätestens bis zum Geschäftsschluss des zehnten Geschäftstages nach Ablauf des jeweiligen Monats an die Deutsche Bundesbank zu übermitteln. Vierteljährlich zu meldende Daten sind für das erste Quartal bis zum Geschäftsschluss des 15. Mai; für das zweite Quartal bis zum Geschäftsschluss des 15. August; für das dritte Quartal bis zum Geschäftsschluss des 15. November jeweils desselben Jahres und für das vierte Quartal bis zum Geschäftsschluss des 15. Februar des Folgejahres zu übermitteln. Halbjährlich zu meldende Daten sind für das erste Halbjahr bis zum Geschäftsschluss des 15. August desselben Jahres und für das zweite Halbjahr bis zum Geschäftsschluss des 15. Februar des Folgejahres zu übermitteln. Jährlich zu meldende Daten sind bis zum Geschäftsschluss des 15. Februar des Folgejahres zu übermitteln. Die jeweils zu beachtenden Meldestichtage und Übermittlungsfristen sind in der Anforderung nach § 3 Absatz 1 anzugeben.",
+            "uuid": "9dba64dc-bede-465d-b34f-13c278c6d9f6",
+            "vertical": false,
+            "translation": "(2) It is possible to transmit data to the Deutsche Bundesbank on a daily basis. Data to be reported monthly shall be transmitted to the Deutsche Bundesbank by the end of business on the tenth business day following the end of the month in question. Data to be provided on a quarterly basis shall be provided for the first quarter by the end of business on 15 May; for the second quarter by the end of business on 15 August; for the third quarter by the end of business on 15 November of the same year; and for the fourth quarter by the end of business on 15 February of the following year. Data to be reported every six months shall be provided for the first six months by the end of business on 15 August of the same year and for the second half of the year by the end of business on 15 February of the following year. Data to be reported annually shall be provided by the end of business on 15 February of the following year. The reference dates and transmission deadlines to be observed in each case shall be specified in the requirement set out in § 3 paragraph 1."
+        },
+        {
+            "bbox": [
+                140.0,
+                1505.0,
+                1524.0,
+                1568.0
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(3) Fällt das Ende der Übermittlungsfrist auf einen gesetzlichen Feiertag oder einen Samstag oder Sonntag, so sind die Daten bis zum Geschäftsschluss des darauffolgenden Geschäftstages zu übermitteln.",
+            "uuid": "8832e43e-4d67-4916-9900-b7582fbbf949",
+            "vertical": false,
+            "translation": "(3) If the end of the deadline for transmission falls on a public holiday or a Saturday or Sunday, the data shall be transmitted by the end of business on the following business day."
+        },
+        {
+            "bbox": [
+                140.0,
+                1601.0,
+                1517.0,
+                1731.0
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(4) In der Anforderung zur einmaligen Übermittlung von Daten und für die erstmalige Übermittlung von Daten im Rahmen einer fortlaufenden Datenanforderung hat die Deutsche Bundesbank eine angemessene Frist vorzusehen. Bei einer regelmäßigen Datenanforderung kann die erstmalige Datenübermittlung frühestens 18 Monate nach Bekanntgabe der entsprechenden Anforderung vorgesehen werden.",
+            "uuid": "c79727fa-eb97-4e9d-9fa6-205011ce5440",
+            "vertical": false,
+            "translation": "(4) The Deutsche Bundesbank shall provide a reasonable deadline for the one-time transmission of data and the first transmission of data as part of a continuous data request. In the case of a regular data request, the first data transmission can be provided 18 months after notification of the corresponding request at the earliest."
+        },
+        {
+            "bbox": [
+                139.0,
+                1759.0,
+                550.0,
+                1787.0
+            ],
+            "order": "15",
+            "label": "Section-header",
+            "text": "§ 7 Befugnis zur Überprüfung",
+            "uuid": "c174bdb1-4043-4e6f-a858-994c50ea5541",
+            "vertical": false,
+            "translation": "§ 7 Authority to carry out a review"
+        },
+        {
+            "bbox": [
+                140.0,
+                1824.0,
+                1443.0,
+                1917.9999999999998
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(1) Die Deutsche Bundesbank ist befugt, auch ohne besonderen Anlass, die Richtigkeit und Qualität der übermittelten Daten zu überprüfen. Die Befugnis nach Satz 1 umfasst auch das Recht, für Zwecke einer Plausibilitätsprüfung von den Mitteilungspflichtigen",
+            "uuid": "4e825884-414d-4aaf-b227-0ea2dc8094d2",
+            "vertical": false,
+            "translation": "(1) The Deutsche Bundesbank is authorized to review the correctness and quality of the transmitted data, even if there is no special reason to do so. The authorization pursuant to sentence 1 also includes the right, for the purpose of carrying out a plausibility check on the notifying parties"
+        },
+        {
+            "bbox": [
+                147.0,
+                1938.0,
+                722.0,
+                1965.0
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "1. die Vorlage von Unterlagen zu verlangen,",
+            "uuid": "3e7605b0-66b2-4064-bbb4-b799033f6622",
+            "vertical": false,
+            "translation": "1. to request the submission of documents,"
+        },
+        {
+            "bbox": [
+                144.0,
+                1983.0,
+                1056.0,
+                2014.0
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "2. die Bücher und Unterlagen der Mitteilungspflichtigen zu überprüfen,",
+            "uuid": "f82025c6-141d-4123-81b6-57058f4d0f84",
+            "vertical": false,
+            "translation": "2. to review the records and documents of the notifying parties;"
+        },
+        {
+            "bbox": [
+                146.0,
+                2032.0,
+                1085.0,
+                2058.0
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "3. Kopien und Auszüge aus diesen Büchern und Unterlagen anzufertigen,",
+            "uuid": "10c2fc12-6e59-4f2e-ae30-4a76c8950523",
+            "vertical": false,
+            "translation": "3. to make copies and extracts of these records and documents,"
+        },
+        {
+            "bbox": [
+                145.0,
+                2075.0,
+                950.9999999999999,
+                2108.0
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "4. schriftliche oder mündliche Erläuterungen zu verlangen und",
+            "uuid": "2f854f87-3654-4404-8eee-3d6962862097",
+            "vertical": false,
+            "translation": "4. to request written or oral explanations and"
+        },
+        {
+            "bbox": [
+                145.0,
+                2124.0,
+                1468.0,
+                2182.0
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "5. zu diesem Zweck die Geschäftsräume der Mitteilungspflichtigen innerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten.",
+            "uuid": "72fdb632-9479-47c4-8e1e-a29784c1c63a",
+            "vertical": false,
+            "translation": "5. to enter the business premises of the notifying parties within the standard operating and business hours for the purpose of the above."
+        },
+        {
+            "bbox": [
+                774.6486504910356,
+                2271.800426267831,
+                932.9999999999999,
+                2293.300657981443
+            ],
+            "order": "22",
+            "label": "Page-footer",
+            "text": "- Seite 6 von 7 -",
+            "uuid": "bc00d6d7-76a2-48a2-8965-cf88d1a07d66",
+            "vertical": false,
+            "translation": "- Page 6 of 7 -"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

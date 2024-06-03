@@ -1,0 +1,1407 @@
+{
+    "file": "ab9315a0610ec0e5446a7062cd99a9e137efe3d7da9a7bffa2523894ac68751a.png",
+    "annotations": [
+        {
+            "bbox": [
+                92.310422486286,
+                494.7749476215815,
+                1403.4951990261848,
+                929.9526536283582
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "Sanmina-SCI is a leading Electronics Manufacturing Services (EMS) provider focused on delivering complete end-to-end manufacturing solutions to technology companies around the world. Our service offerings include innovative product design and engineering, test solutions, manufacturing, logistics and post-manufacturing repair/warranty services. Recognized as a technology leader with major global operations in over 20 countries on five continents, we deliver customized and flexible solutions from design and engineering to individual components and complete systems. Customers who value our best-in-class vertical integration business model partner with Sanmina-SCI from the communications infrastructure, enterprise computing and storage systems, personal and business computing systems, automotive, multimedia systems, medical systems, industrial and semiconductor capital equipment, and defense and aerospace industries.",
+            "uuid": "a68a054d-0a6c-4f67-8e89-175fd5de073e",
+            "vertical": false,
+            "translation": "Sanmina-SCI是一家领先的电子制造服务(EMS)提供商，专注于为世界各地的科技公司提供完整的端到端制造解决方案。我们的服务包括创新的产品设计和工程、测试解决方案、制造、物流和制造后维修/保修服务。我们被公认为技术领先企业，在五大洲20多个国家/地区拥有重要的全球运营，提供从设计和工程到单个组件和完整系统的定制和灵活的解决方案。珍视我们与Sanmina-SCI在通信基础架构、企业计算和存储系统、个人和商业计算系统、汽车、多媒体系统、医疗系统、工业和半导体资本设备以及国防和航空航天行业拥有一流垂直集成业务模式的客户。"
+        },
+        {
+            "bbox": [
+                99.0,
+                1108.241931583991,
+                257.34643517198526,
+                1134.0292456462696
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "pcb fabrication",
+            "uuid": "6559edd0-345a-463e-b0aa-e61feb12f8fd",
+            "vertical": false,
+            "translation": "PCB制造"
+        },
+        {
+            "bbox": [
+                99.0,
+                1293.476135626717,
+                265.06682822714487,
+                1320.6054111459587
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "optical modules",
+            "uuid": "06bcb6c4-9250-4774-a980-11ff97dbc78a",
+            "vertical": false,
+            "translation": "光学模块"
+        },
+        {
+            "bbox": [
+                431.05527891307537,
+                1109.5813343049308,
+                577.742746961107,
+                1136.6027099979895
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "pcb assembly",
+            "uuid": "ea4a2bab-ad2e-40d8-a334-f56348a1adc6",
+            "vertical": false,
+            "translation": "PCB组件"
+        },
+        {
+            "bbox": [
+                433.0,
+                1297.4442319804803,
+                503.11228076123126,
+                1319.3186789700987
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "cables",
+            "uuid": "09b1ae12-d0b7-4f51-a3fe-ee0c26a8748b",
+            "vertical": false,
+            "translation": "电缆"
+        },
+        {
+            "bbox": [
+                100.67500969502898,
+                1648.2589167445285,
+                448.6873888877218,
+                1706.6752803947302
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "(CUSTOMER)",
+            "uuid": "3b626323-3744-4723-a3be-0ed1f7e47356",
+            "vertical": false,
+            "translation": "（客户）"
+        },
+        {
+            "bbox": [
+                768.1791089883761,
+                1107.0078699532112,
+                890.4186656950692,
+                1135.3159778221293
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "backplanes",
+            "uuid": "6c3a8cc0-5865-4037-a2af-608db43169cb",
+            "vertical": false,
+            "translation": "背板"
+        },
+        {
+            "bbox": [
+                622.6935784840681,
+                1674.3598451839803,
+                800.4284721431934,
+                1694.2462668521343
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "(CONCEPT PHASE)",
+            "uuid": "7e1dc0a8-80a8-40bf-96d3-fa55673a9d73",
+            "vertical": false,
+            "translation": "(概念阶段）"
+        },
+        {
+            "bbox": [
+                539.9119338957361,
+                1902.084936637044,
+                744.7061157182567,
+                1922.0816749294786
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "(CUSTOMER SERVICE)",
+            "uuid": "f87de7d4-a18e-4992-aae4-9a783aff2f21",
+            "vertical": false,
+            "translation": "（客户服务）"
+        },
+        {
+            "bbox": [
+                769.465841164236,
+                1297.0000000000002,
+                976.6297214776841,
+                1321.8921433218186
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "precision machining",
+            "uuid": "cbf57feb-6b25-447d-9ace-e321fa14c284",
+            "vertical": false,
+            "translation": "精密加工"
+        },
+        {
+            "bbox": [
+                470.26812122208435,
+                1769.6927382871318,
+                1030.8663361099943,
+                1822.0979834673053
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Design and Engineering",
+            "uuid": "292aa0b5-0d1d-4779-b856-2453d4f35f91",
+            "vertical": false,
+            "translation": "设计与工程"
+        },
+        {
+            "bbox": [
+                1102.729474711957,
+                1109.5813343049308,
+                1378.0901603459813,
+                1134.0292456462696
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "memory modular solutions",
+            "uuid": "526877b6-5156-45c1-b6b8-0d1b491d04ec",
+            "vertical": false,
+            "translation": "内存模块化解决方案"
+        },
+        {
+            "bbox": [
+                1101.442742536097,
+                1297.4442319804803,
+                1215.9619061876306,
+                1319.3186789700987
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "enclosures",
+            "uuid": "c87e5773-3598-4eef-b90e-359fd1dc6b02",
+            "vertical": false,
+            "translation": "围墙"
+        },
+        {
+            "bbox": [
+                1086.2957836229052,
+                1675.60274653824,
+                1246.630058322396,
+                1699.2178722691726
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "(DESIGN PHASE)",
+            "uuid": "c989ca24-2dfa-46fd-a18d-01561de426ea",
+            "vertical": false,
+            "translation": "（设计阶段）"
+        },
+        {
+            "bbox": [
+                917.7813333527774,
+                1902.774479336783,
+                1168.0853333580803,
+                1922.0816749294786
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "(BUSINESS DEVELOPMENT)",
+            "uuid": "5f6a63d7-c3fb-4050-a95d-709cb93897f3",
+            "vertical": false,
+            "translation": "（业务发展）"
+        },
+        {
+            "bbox": [
+                1588.0168374992083,
+                1675.9149311226104,
+                1785.2260496245988,
+                1697.9802975142627
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "(PROTOTYPE PHASE)",
+            "uuid": "16be7fed-b5f3-4111-bf29-a0b4fab51740",
+            "vertical": false,
+            "translation": "（原型阶段）"
+        },
+        {
+            "bbox": [
+                1612.8403746898168,
+                1902.774479336783,
+                1828.6672397081634,
+                1922.0816749294786
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "(QUALITY ASSURANCE)",
+            "uuid": "09f2c647-b96c-4e7d-b3d7-eb32a5c48582",
+            "vertical": false,
+            "translation": "（质量保证）"
+        },
+        {
+            "bbox": [
+                1561.1246722093824,
+                1788.3103911800881,
+                1981.0561763505104,
+                1821.4084407675662
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "(Component Manufacturing)",
+            "uuid": "b5ee7974-0f3b-4dc3-b044-41e8b9177fb9",
+            "vertical": false,
+            "translation": "（零部件制造）"
+        },
+        {
+            "bbox": [
+                2078.9712397134667,
+                1675.9149311226104,
+                2287.2131350346826,
+                1696.6012121147842
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "(PRODUCTION PHASE)",
+            "uuid": "60db2b1f-c5b5-427a-8640-93da1355d63c",
+            "vertical": false,
+            "translation": "（生产阶段）"
+        },
+        {
+            "bbox": [
+                2050.010446324423,
+                1902.084936637044,
+                2333.412495917204,
+                1922.0816749294786
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "(SUPPLY CHAIN MANAGEMENT)",
+            "uuid": "bc238968-0dca-4ec0-9284-494b0a37b8a8",
+            "vertical": false,
+            "translation": "（供应链管理）"
+        },
+        {
+            "bbox": [
+                2692.664242481289,
+                1676.3104573002609,
+                2887.861307045152,
+                1696.6012121147842
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "(SUSTAINING PHASE)",
+            "uuid": "b6d653dd-32fb-4453-a912-5cecd35b6172",
+            "vertical": false,
+            "translation": "（维持阶段）"
+        },
+        {
+            "bbox": [
+                2098.967978005901,
+                1771.07182368661,
+                2912.62836369807,
+                1821.4084407675662
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "System Design and Manufacturing",
+            "uuid": "08e6c9a9-422c-47d0-948d-121622200ffe",
+            "vertical": false,
+            "translation": "系统设计与制造"
+        },
+        {
+            "bbox": [
+                2556.8243306326813,
+                1902.774479336783,
+                2752.6544573585934,
+                1923.460760328957
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "(HUMAN RESOURCE)",
+            "uuid": "dfe3985a-2599-4ea8-afc3-41853314c00f",
+            "vertical": false,
+            "translation": "（人力资源）"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                348.07787955590476,
+                3483.2737982445738,
+                369.53141358764617
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Neil Bonke ¹,³",
+            "uuid": "c8524413-859f-4e7d-9c2b-5f1cd1bd3fe8",
+            "vertical": false,
+            "translation": "尼尔·邦克 ¹,³"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                375.3823774144849,
+                3904.543193776952,
+                396.8359114462263
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Retired Chairman and Chief Executive Officer - Electroglas, Inc.",
+            "uuid": "5a13dff0-c20e-42c2-a655-1762f85bb3b7",
+            "vertical": false,
+            "translation": "退休董事长兼首席执行官 —— Electroglas, Inc."
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                443.643622060935,
+                3920.1457639818555,
+                467.0474773682893
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "President and Chief Operating Officer - Sanmina-SCI Corporation",
+            "uuid": "35ea64f8-9463-4dd0-8f67-2d9cfa2558d5",
+            "vertical": false,
+            "translation": "总裁兼首席运营官 —— Sanmina-SCI 公司"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                512.8800273451917,
+                3775.8219895865036,
+                533.3584007391265
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Partner with Wilson Sonsini Goodrich and Rosati",
+            "uuid": "c20825c0-6397-48b2-a7e8-dba964e76e3b",
+            "vertical": false,
+            "translation": "与 Wilson Sonsini Goodrich 和 Rosati 合作"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                553.8367741330617,
+                3554.4605248044436,
+                578.2157900782228
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "A. Eugene Sapp, Jr.",
+            "uuid": "cfbc2b73-911f-4277-b953-6dc091b30b3a",
+            "vertical": false,
+            "translation": "小A.尤金·萨普"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                582.1164326294481,
+                3859.685804437857,
+                602.5948060233834
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Director, Former Co-Chairman - Sanmina-SCI Corporation",
+            "uuid": "448402e5-eadb-4852-b946-29b2d6f17218",
+            "vertical": false,
+            "translation": "董事、前联席主席 —— Sanmina-SCI 公司"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                622.098018779512,
+                3556.410846080056,
+                649.4025166380922
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "Wayne Shortridge²,³",
+            "uuid": "c1918b73-7703-406e-99d0-c84714c6cef3",
+            "vertical": false,
+            "translation": "Wayne Shortridge²,³"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                650.3776772758987,
+                3855.7851618866307,
+                673.781532583253
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "Atlanta Office Managing Shareholder - Carlton Fields, P.A.",
+            "uuid": "7b95401f-aedc-4388-a38a-91cb04dfe57e",
+            "vertical": false,
+            "translation": "亚特兰大办事处管理股东——卡尔顿菲尔兹，P.A."
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                692.309584701575,
+                3519.3547418434123,
+                713.7631187333167
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "Peter J. Simone¹",
+            "uuid": "ecf0b85e-7eee-4c12-92f3-34d264d9740a",
+            "vertical": false,
+            "translation": "Peter J. Simone¹"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                718.5859654105122,
+                3562.261809906895,
+                741.0676165918966
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "Independent Consultant",
+            "uuid": "a690dc6e-31db-4dcb-92fa-f933664ba39e",
+            "vertical": false,
+            "translation": "独立顾问"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                761.5459899858316,
+                3448.1680152835424,
+                782.9995240175731
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "Jure Sola",
+            "uuid": "d4ad46ce-59e3-4f34-86ad-99d01d3eb3ee",
+            "vertical": false,
+            "translation": "Jure Sola"
+        },
+        {
+            "bbox": [
+                3347.72646958948,
+                788.8504878444118,
+                3804.1016480828903,
+                834.6830378213142
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "Chairman of the Board and Chief Executive Officer - Sanmina-SCI Corporation",
+            "uuid": "54d819b4-833a-4ec7-a38d-45f3f4329beb",
+            "vertical": false,
+            "translation": "董事会主席兼首席执行官 —— Sanmina-SCI 公司"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                853.2110899396364,
+                3520.3299024812186,
+                878.5652665226036
+            ],
+            "order": "51",
+            "label": "Text",
+            "text": "Jackie M. Ward ³",
+            "uuid": "ed3230f2-e69e-47d4-9a07-ba25d3007c17",
+            "vertical": false,
+            "translation": "Jackie M. Ward ³"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                882.4659090738292,
+                3647.1007853960546,
+                904.8946037433772
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "Outside Managing Director - Intec",
+            "uuid": "2303326c-07f1-42e6-92ad-8615158aa87b",
+            "vertical": false,
+            "translation": "外部董事总经理 —— Intec"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                988.7584185947302,
+                3447.192854645736,
+                1008.261631350859
+            ],
+            "order": "54",
+            "label": "Text",
+            "text": "Jure Sola",
+            "uuid": "b7fe3061-c299-48ba-b3d2-be1e61140f33",
+            "vertical": false,
+            "translation": "Jure Sola"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                1014.1125951776975,
+                3676.3556045302475,
+                1034.5909685716329
+            ],
+            "order": "55",
+            "label": "Text",
+            "text": "Chairman and Chief Executive Officer",
+            "uuid": "61ab6284-4464-48a0-95bd-389e90e9102f",
+            "vertical": false,
+            "translation": "主席及行政总裁"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                1055.0693419655677,
+                3496.926047173864,
+                1077.4980366351156
+            ],
+            "order": "56",
+            "label": "Text",
+            "text": "Randy W. Furr",
+            "uuid": "68295083-fc7a-425e-8b50-d29255b3c814",
+            "vertical": false,
+            "translation": "Randy W. Furr"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                1082.3738398241478,
+                3677.330765168054,
+                1105.7776951315022
+            ],
+            "order": "57",
+            "label": "Text",
+            "text": "President and Chief Operating Officer",
+            "uuid": "6244263c-44c3-4578-a10a-51bc7be5ae39",
+            "vertical": false,
+            "translation": "总裁兼首席运营官"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                1124.3057472498244,
+                3499.8515290872833,
+                1147.7096025571786
+            ],
+            "order": "58",
+            "label": "Text",
+            "text": "David L. White",
+            "uuid": "57767038-65b3-4cdb-9dbc-230d041c7251",
+            "vertical": false,
+            "translation": "大卫·L·怀特"
+        },
+        {
+            "bbox": [
+                3349.676790865093,
+                1153.5605663840172,
+                3800.2010055316646,
+                1172.0886185023396
+            ],
+            "order": "59",
+            "label": "Text",
+            "text": "Executive Vice President and Chief Financial Officer",
+            "uuid": "4530d655-1dcf-4e15-91af-540cf3993e0c",
+            "vertical": false,
+            "translation": "执行副总裁兼首席财务官"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                1193.542152534081,
+                3536.9076333239277,
+                1218.8963291170483
+            ],
+            "order": "60",
+            "label": "Text",
+            "text": "Stephen F. Bruton",
+            "uuid": "079307c1-5e43-48f7-ac5f-47d9e372b674",
+            "vertical": false,
+            "translation": "斯蒂芬·F·布鲁顿"
+        },
+        {
+            "bbox": [
+                3349.3001250368347,
+                1315.654917082059,
+                3639.0012832483176,
+                1361.4749982277526
+            ],
+            "order": "63",
+            "label": "Text",
+            "text": "President and General Manager, Sanmina-SCI Enclosures Division",
+            "uuid": "3e144ee4-8f16-473a-a673-7551619ee5df",
+            "vertical": false,
+            "translation": "总裁兼总经理 ——Sanmina-SCI 外壳部"
+        },
+        {
+            "bbox": [
+                3349.3001250368347,
+                1384.3850388005994,
+                3447.5915894300165,
+                1406.5560458065802
+            ],
+            "order": "64",
+            "label": "Text",
+            "text": "Hari Pillai",
+            "uuid": "c81e106c-5181-4102-abeb-4a45cffc7bff",
+            "vertical": false,
+            "translation": "哈里·皮莱"
+        },
+        {
+            "bbox": [
+                3347.6536899419198,
+                1410.9902472077765,
+                3602.788638471882,
+                1432.4222206468912
+            ],
+            "order": "65",
+            "label": "Text",
+            "text": "President, Global Operations",
+            "uuid": "055c9a82-a41a-48f3-98ce-0514a0ee5fc2",
+            "vertical": false,
+            "translation": "总裁，全球运营"
+        },
+        {
+            "bbox": [
+                3350.039158603701,
+                1587.6192696887567,
+                3487.4994020407817,
+                1609.7902766947377
+            ],
+            "order": "69",
+            "label": "Text",
+            "text": "Ralph Kaplan",
+            "uuid": "6d0127e6-bb2b-4a61-91a0-f9cb8754cdff",
+            "vertical": false,
+            "translation": "拉尔夫·卡普兰"
+        },
+        {
+            "bbox": [
+                3349.3001250368347,
+                1612.746410962202,
+                3777.2005602522645,
+                1659.3055256747616
+            ],
+            "order": "70",
+            "label": "Text",
+            "text": "Executive Vice President, Sanmina-SCI Memory Modular Solutions Division",
+            "uuid": "66aa6692-8687-4aaf-a5e7-4b07c2b452a9",
+            "vertical": false,
+            "translation": "执行副总裁，Sanmina-SCI内存模块化解决方案部"
+        },
+        {
+            "bbox": [
+                3348.5610914699687,
+                1679.2594319801442,
+                3455.7209586655426,
+                1700.691405419259
+            ],
+            "order": "71",
+            "label": "Text",
+            "text": "Vin Melvin",
+            "uuid": "e0af5cbe-162e-4d82-a427-401b8b943de4",
+            "vertical": false,
+            "translation": "范·梅尔文"
+        },
+        {
+            "bbox": [
+                3350.0,
+                1708.0,
+                3759.46375464748,
+                1726.55758025957
+            ],
+            "order": "72",
+            "label": "Text",
+            "text": "Senior Vice President, Chief Information Officer",
+            "uuid": "ba28bb0e-7e83-4e6e-aaea-01f9e9c50955",
+            "vertical": false,
+            "translation": "高级副总裁兼首席信息官"
+        },
+        {
+            "bbox": [
+                4010.630764683795,
+                350.4540387908697,
+                4666.317633309131,
+                469.0438458351251
+            ],
+            "order": "76",
+            "label": "Text",
+            "text": "Financial analysts, stockholders, interested investors and the financial media requesting a copy of the Form 10-K Annual Report as filed with the Securities and Exchange Commission or other information should contact:",
+            "uuid": "13cfc1fb-1503-4b88-8e6a-6f5e8f911e82",
+            "vertical": false,
+            "translation": "金融分析师、股东、感兴趣的投资者和要求向美国证券交易委员会提交的10-K表年度报告副本或其他信息的金融媒体应联系："
+        },
+        {
+            "bbox": [
+                4012.0,
+                487.0000000000001,
+                4267.077576074165,
+                511.124099947603
+            ],
+            "order": "77",
+            "label": "Text",
+            "text": "Sanmina-SCI Corporation",
+            "uuid": "d46c4c3c-195f-449f-bdac-3eac0b1237e5",
+            "vertical": false,
+            "translation": "Sanmina-SCI公司"
+        },
+        {
+            "bbox": [
+                4012.9260512717483,
+                615.177091934821,
+                4204.965029130511,
+                636.5997667557189
+            ],
+            "order": "80",
+            "label": "Text",
+            "text": "Fax: 408-964-3636",
+            "uuid": "bca47ab5-a5a4-42ce-9d76-88eaa1d3c207",
+            "vertical": false,
+            "translation": "传真：408-964-3636"
+        },
+        {
+            "bbox": [
+                4011.3958602131124,
+                648.0761996954853,
+                4278.414199945018,
+                670.263970045701
+            ],
+            "order": "81",
+            "label": "Text",
+            "text": "Email: ir@sanmina-sci.com",
+            "uuid": "902003ce-3d2d-46dc-bb8e-b6e97fb7e6dc",
+            "vertical": false,
+            "translation": "电子邮箱： ir@sanmina-sci.com"
+        },
+        {
+            "bbox": [
+                4011.3958602131124,
+                765.9009112104231,
+                4123.864903022826,
+                785.7933949726854
+            ],
+            "order": "83",
+            "label": "Text",
+            "text": "KPMG LLP",
+            "uuid": "c1dc9ae7-82e2-4259-8b06-85f203026ae5",
+            "vertical": false,
+            "translation": "毕马威会计师事务所"
+        },
+        {
+            "bbox": [
+                4012.9260512717483,
+                798.0349234417698,
+                4199.6093604252865,
+                819.0750504980089
+            ],
+            "order": "84",
+            "label": "Text",
+            "text": "Mountain View, CA",
+            "uuid": "54bf481d-2476-4854-8f6e-fba0e930733d",
+            "vertical": false,
+            "translation": "山景城，加利福尼亚州"
+        },
+        {
+            "bbox": [
+                4011.7784079777716,
+                913.5643483687545,
+                4342.682224407711,
+                934.9870231896524
+            ],
+            "order": "86",
+            "label": "Text",
+            "text": "Wilson Sonsini Goodrich & Rosati",
+            "uuid": "6c785b13-14c0-46ef-88b5-e169a521dd65",
+            "vertical": false,
+            "translation": "Wilson Sonsini Goodrich & Rosati"
+        },
+        {
+            "bbox": [
+                4012.160955742431,
+                947.9936471880545,
+                4144.1399345497475,
+                968.2686787149756
+            ],
+            "order": "87",
+            "label": "Text",
+            "text": "Palo Alto, CA",
+            "uuid": "b5cf3948-aaa7-46a3-8c9b-c2b7be961324",
+            "vertical": false,
+            "translation": "帕洛阿尔托，加利福尼亚州"
+        },
+        {
+            "bbox": [
+                4010.0000000000005,
+                1130.8206446338324,
+                4240.90576171875,
+                1154.022216796875
+            ],
+            "order": "90",
+            "label": "Text",
+            "text": "Wells Fargo Bank, N.A.",
+            "uuid": "60b7bf74-5891-4e2c-aca0-a2d369c65e9e",
+            "vertical": false,
+            "translation": "富国银行，北卡罗来纳州"
+        },
+        {
+            "bbox": [
+                4011.871337890625,
+                1192.87109375,
+                4307.0068359375,
+                1247.37548828125
+            ],
+            "order": "92",
+            "label": "Text",
+            "text": "161 North Concord Exchange South St. Paul, MN 55075",
+            "uuid": "f7dc6cf1-0d4f-49cd-a255-0226654ed8b6",
+            "vertical": false,
+            "translation": "161 North Concord Exchange South St. Paul, MN 55075"
+        },
+        {
+            "bbox": [
+                4010.461943642058,
+                1373.231472673954,
+                4670.068002012521,
+                1461.0361752492427
+            ],
+            "order": "95",
+            "label": "Text",
+            "text": "The Annual Meeting of Shareholders of the Company will be held on Monday, February 28, 2005, at 11:00 a.m. at our corporate office, 30 E. Plumeria Drive, San Jose, CA 95134.",
+            "uuid": "1daa3f57-4427-4a0c-9921-99b11749f0cc",
+            "vertical": false,
+            "translation": "本公司将于2005年2月28日星期一上午11:00在公司办事处30 E. Plumeria Drive， San Jose， CA 95134举行。"
+        },
+        {
+            "bbox": [
+                4010.461943642058,
+                1554.5517527887782,
+                4622.953283557488,
+                1608.8050649491192
+            ],
+            "order": "97",
+            "label": "Text",
+            "text": "The Company's stock trades on the NASDAQ National Market under the symbol SANM.",
+            "uuid": "78254039-0d28-42bd-b26f-97511dc1c8ab",
+            "vertical": false,
+            "translation": "该公司的股票在纳斯达克全国市场交易，代码为 SANM。"
+        },
+        {
+            "bbox": [
+                97.96208100585453,
+                272.4763791852194,
+                915.5686801701019,
+                443.91002094546474
+            ],
+            "order": "1",
+            "label": "Title",
+            "text": "From components to complete systems.",
+            "uuid": "278cca33-7ec2-4720-8248-71838dd25e1f",
+            "vertical": false,
+            "translation": "从组件到完整系统。"
+        },
+        {
+            "bbox": [
+                100.36510971707426,
+                979.6213845430783,
+                398.88697451657725,
+                1103.1476734256312
+            ],
+            "order": "3",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "ac49169c-af62-43da-b4f6-29050c13946f",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                433.6287432647952,
+                979.6213845430783,
+                732.1506080642982,
+                1105.721137777351
+            ],
+            "order": "5",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "7c0b647b-cfab-4021-aa7d-424babccb181",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                769.465841164236,
+                980.9081167189382,
+                1066.700973787879,
+                1103.1476734256312
+            ],
+            "order": "7",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "0283facb-9566-402a-b524-d0afa3562eb3",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                1102.729474711957,
+                979.6213845430783,
+                1399.9646073356,
+                1104.434405601491
+            ],
+            "order": "9",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "705f0455-4dde-474b-9bb7-4ecb42bcb127",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                101.65184189293419,
+                1167.4842822186276,
+                395.0267779889974,
+                1291.0105711011806
+            ],
+            "order": "11",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "e3644cd5-50b4-4b4a-a8a0-197fdb6ba818",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                433.6287432647952,
+                1164.9108178669076,
+                728.2904115367185,
+                1288.4371067494606
+            ],
+            "order": "13",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "fa730b0f-7c33-4728-9d30-737057d096f9",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                769.465841164236,
+                1164.9108178669076,
+                1065.4142416120194,
+                1291.0105711011806
+            ],
+            "order": "15",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "046b3a49-14a9-4d15-bf5a-7408ae3246d9",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                1104.016206887817,
+                1167.4842822186276,
+                1402.5380716873199,
+                1288.4371067494606
+            ],
+            "order": "17",
+            "label": "Picture",
+            "text": "IMAGE",
+            "uuid": "41228b17-1f66-4fb5-aecb-440f0abbe47b",
+            "vertical": false,
+            "translation": "图片"
+        },
+        {
+            "bbox": [
+                1563.8552619255393,
+                127.0461442300781,
+                2941.027214697541,
+                1654.176820748364
+            ],
+            "order": "33",
+            "label": "Picture",
+            "text": "41 || 1 | M",
+            "uuid": "8f572e6e-405e-4eee-a6ce-34e0f8eaaa31",
+            "vertical": false,
+            "translation": "41 || 1 | M"
+        },
+        {
+            "bbox": [
+                3274.5894217539976,
+                1182.8153855182102,
+                3293.11747387232,
+                1793.2659447850365
+            ],
+            "order": "34",
+            "label": "Caption",
+            "text": "Designed and produced by Mentus, San Diego, California . www.mentus.com",
+            "uuid": "fbda2952-617a-48c2-9e98-548e22c22c41",
+            "vertical": true,
+            "translation": "由加利福尼亚州圣地亚哥的 Mentus 设计和生产。 www.mentus.com"
+        },
+        {
+            "bbox": [
+                3350.6519515028995,
+                150.1202700811992,
+                4193.190742567656,
+                231.05860301913285
+            ],
+            "order": "35",
+            "label": "Title",
+            "text": "Corporate Information",
+            "uuid": "bf805391-b02b-42cc-838d-09877f446dc5",
+            "vertical": false,
+            "translation": "公司信息"
+        },
+        {
+            "bbox": [
+                3350.6519515028995,
+                300.29500830338975,
+                3605.168877970378,
+                327.59950616196943
+            ],
+            "order": "36",
+            "label": "Section-header",
+            "text": "Board of Directors",
+            "uuid": "d8d9b2ea-6b9e-4682-b0b1-2d617533a262",
+            "vertical": false,
+            "translation": "董事会"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                417.3142848401614,
+                3498.876368449477,
+                440.7181401475158
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "Randy W. Furr",
+            "uuid": "8da77a80-f077-4d91-a9d4-ecc024fb32a0",
+            "vertical": false,
+            "translation": "Randy W. Furr"
+        },
+        {
+            "bbox": [
+                3347.72646958948,
+                486.5506901244179,
+                3524.2305450324443,
+                507.029063518353
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Mario M. Rosati²",
+            "uuid": "d61f79b5-3d1b-4ac4-9efa-2f24d2ea6c53",
+            "vertical": false,
+            "translation": "Mario M. Rosati²"
+        },
+        {
+            "bbox": [
+                3350.6519515028995,
+                939.0252260666023,
+                3602.2433960569588,
+                965.3545632873759
+            ],
+            "order": "53",
+            "label": "Section-header",
+            "text": "Executive Officers",
+            "uuid": "621d3272-f371-47a3-a6f0-1deb176cb37a",
+            "vertical": false,
+            "translation": "执行官"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                1288.132734401305,
+                3528.13118758367,
+                1310.561429070853
+            ],
+            "order": "62",
+            "label": "Text",
+            "text": "Michael J. Clarke",
+            "uuid": "c35ec22f-a963-422d-a0d5-468edfe593c0",
+            "vertical": false,
+            "translation": "迈克尔·J·克拉克"
+        },
+        {
+            "bbox": [
+                3348.7016302272864,
+                1220.8466503926609,
+                3686.107210908312,
+                1268.6295216451763
+            ],
+            "order": "61",
+            "label": "Text",
+            "text": "President and General Manager, Sanmina-SCI PCB Fabrication Division",
+            "uuid": "ce6671fd-b569-43e6-8dde-4dd83e2e386e",
+            "vertical": false,
+            "translation": "总裁兼总经理, Sanmina-SCI印刷电路板制造事业部,"
+        },
+        {
+            "bbox": [
+                3350.039158603701,
+                1453.854194086006,
+                3491.933603441978,
+                1477.5032682257188
+            ],
+            "order": "66",
+            "label": "Text",
+            "text": "Dennis Young",
+            "uuid": "a9ceb112-cd31-48dc-8ab0-081219ee9a7b",
+            "vertical": false,
+            "translation": "丹尼斯·扬"
+        },
+        {
+            "bbox": [
+                3348.5610914699687,
+                1481.198436060049,
+                3848.886816238269,
+                1503.3694430660298
+            ],
+            "order": "67",
+            "label": "Text",
+            "text": "Executive Vice President, Worldwide Sales and Marketing",
+            "uuid": "90202759-5bbc-448c-b2e0-3f2724c1bddc",
+            "vertical": false,
+            "translation": "执行副总裁, 全球销售和营销"
+        },
+        {
+            "bbox": [
+                3350.039158603701,
+                1535.8869200081351,
+                3555.4904901924565,
+                1563.231161982178
+            ],
+            "order": "68",
+            "label": "Section-header",
+            "text": "Senior Officers",
+            "uuid": "6271cbb7-11db-49e0-bf72-e5adb02b2f5a",
+            "vertical": false,
+            "translation": "高级官员"
+        },
+        {
+            "bbox": [
+                3348.5610914699687,
+                1748.7285872655507,
+                3522.9730132503514,
+                1770.1605607046656
+            ],
+            "order": "73",
+            "label": "Text",
+            "text": "Carmine Renzulli",
+            "uuid": "041a0850-5173-4b05-8196-cbaad3b7c90e",
+            "vertical": false,
+            "translation": "Carmine Renzulli"
+        },
+        {
+            "bbox": [
+                3349.3001250368347,
+                1776.8118628064597,
+                3769.8102245836044,
+                1796.0267355449766
+            ],
+            "order": "74",
+            "label": "Text",
+            "text": "Senior Vice President, Global Human Resources",
+            "uuid": "6b0e9db8-dc9b-4a88-9669-7919867d8485",
+            "vertical": false,
+            "translation": "全高级副总裁，球人力资源"
+        },
+        {
+            "bbox": [
+                4011.3958602131124,
+                299.9577338558961,
+                4495.701330271267,
+                325.97098185270056
+            ],
+            "order": "75",
+            "label": "Section-header",
+            "text": "Corporate and Investor Information",
+            "uuid": "b877e723-6e45-4683-be53-75d3306eb0a7",
+            "vertical": false,
+            "translation": "公司和投资者信息"
+        },
+        {
+            "bbox": [
+                4010.630764683795,
+                520.3052462994165,
+                4239.394327949811,
+                575.3921244102964
+            ],
+            "order": "78",
+            "label": "Text",
+            "text": "2700 North First Street San Jose, CA 95134",
+            "uuid": "d5c36320-448c-47de-87d7-94a4ab61936b",
+            "vertical": false,
+            "translation": "北第一街 2700 号 圣何塞, CA 95134"
+        },
+        {
+            "bbox": [
+                4009.8656691544775,
+                584.5732707621098,
+                4197.314073837333,
+                606.7610411123252
+            ],
+            "order": "79",
+            "label": "Text",
+            "text": "Tel: 408-964-3500",
+            "uuid": "56644f7e-b92d-4b0a-bcb9-ea1d613440a4",
+            "vertical": false,
+            "translation": "电话：408-964-3500"
+        },
+        {
+            "bbox": [
+                4012.160955742431,
+                713.1093196874965,
+                4311.313307705682,
+                743.7131408602075
+            ],
+            "order": "82",
+            "label": "Section-header",
+            "text": "Independent Auditors",
+            "uuid": "e1e82823-f04a-4e49-9746-c9cc3009aabf",
+            "vertical": false,
+            "translation": "独立审计师"
+        },
+        {
+            "bbox": [
+                4013.691146801066,
+                863.4505911984401,
+                4209.173054541759,
+                892.9067690771745
+            ],
+            "order": "85",
+            "label": "Section-header",
+            "text": "Legal Counsel",
+            "uuid": "21e4524b-47f2-4594-bafa-46cea6900044",
+            "vertical": false,
+            "translation": "法律顾问"
+        },
+        {
+            "bbox": [
+                4011.013312448454,
+                1003.8456208282524,
+                4408.097892164381,
+                1035.2145375302812
+            ],
+            "order": "88",
+            "label": "Section-header",
+            "text": "Transfer Agent and Registrar",
+            "uuid": "5565251e-b2f7-459c-b57f-5099b6036b20",
+            "vertical": false,
+            "translation": "转让代理商和注册商"
+        },
+        {
+            "bbox": [
+                4013.031005859375,
+                1057.18994140625,
+                4596.923828125,
+                1111.6943359375
+            ],
+            "order": "89",
+            "label": "Text",
+            "text": "Correspondence concerning transfer requirements and lost certificates should be addressed to the transfer agent:",
+            "uuid": "c597c6bf-994a-4b2d-8d41-e47f8def5a9d",
+            "vertical": false,
+            "translation": "有关转让要求和丢失证书的信件应寄给转让代理："
+        },
+        {
+            "bbox": [
+                4012.451171875,
+                1163.87939453125,
+                4156.25,
+                1181.854248046875
+            ],
+            "order": "91",
+            "label": "Text",
+            "text": "Stock Transfer",
+            "uuid": "c8a18c3d-d5db-4113-a354-56c1a94f985b",
+            "vertical": false,
+            "translation": "股票转移"
+        },
+        {
+            "bbox": [
+                4011.871337890625,
+                1258.97216796875,
+                4152.77099609375,
+                1278.106689453125
+            ],
+            "order": "93",
+            "label": "Text",
+            "text": "800-468-9716",
+            "uuid": "6ac326be-d937-4af9-a008-7e648d1fc38a",
+            "vertical": false,
+            "translation": "800-468-9716"
+        },
+        {
+            "bbox": [
+                4011.175803012589,
+                1322.5474573662668,
+                4227.475192283422,
+                1354.671129040153
+            ],
+            "order": "94",
+            "label": "Section-header",
+            "text": "Annual Meeting",
+            "uuid": "263d0bd8-2cdd-4437-ba92-577b5909202f",
+            "vertical": false,
+            "translation": "年度会议"
+        },
+        {
+            "bbox": [
+                4011.8896623831197,
+                1503.8677374810911,
+                4273.162191997394,
+                1529.5666748202002
+            ],
+            "order": "96",
+            "label": "Section-header",
+            "text": "Market Information",
+            "uuid": "2e903802-1d3a-4b75-9292-82e1dd7bbf11",
+            "vertical": false,
+            "translation": "市场信息"
+        },
+        {
+            "bbox": [
+                4013.16943033388,
+                1732.2029026671244,
+                4153.289527726233,
+                1751.6790552004245
+            ],
+            "order": "98",
+            "label": "Footnote",
+            "text": "¹ Audit Committee",
+            "uuid": "f8dee4a1-06d3-4ed2-b038-7d1e526f47ae",
+            "vertical": false,
+            "translation": "¹ 审计委员会"
+        },
+        {
+            "bbox": [
+                4012.6284260968437,
+                1753.843072148569,
+                4331.82092594815,
+                1773.8602289189052
+            ],
+            "order": "99",
+            "label": "Footnote",
+            "text": "² Nominating and Governance Committee",
+            "uuid": "c8c06606-768a-48e5-827d-f5ad9bf9ce03",
+            "vertical": false,
+            "translation": "²提名与治理委员会"
+        },
+        {
+            "bbox": [
+                4012.6284260968437,
+                1776.5652501040856,
+                4224.161082777963,
+                1794.9593941633136
+            ],
+            "order": "100",
+            "label": "Footnote",
+            "text": "³ Compensation Committee",
+            "uuid": "8dfd7748-7882-40cc-a33b-ff9e38720ae4",
+            "vertical": false,
+            "translation": "³薪酬委员会"
+        }
+    ],
+    "page_width": 4750,
+    "page_height": 2000
+}

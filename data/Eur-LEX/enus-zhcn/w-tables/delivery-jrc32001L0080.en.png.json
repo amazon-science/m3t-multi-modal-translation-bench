@@ -1,0 +1,679 @@
+{
+    "file": "jrc32001L0080.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                95.04210187378004,
+                128.95432442836798,
+                210.35985214729988,
+                153.03165690305912
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "27.11.2001",
+            "uuid": "1a00926d-4a42-4850-b963-086c5d1b294e",
+            "vertical": false,
+            "translation": "2001 年 11 月 27 日"
+        },
+        {
+            "bbox": [
+                314.27255019596595,
+                130.22155245335185,
+                344.68602279557564,
+                154.29888492804272
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "6e1bae43-b2b4-417e-889d-46b36ac562bd",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                560.1147870428103,
+                126.41986837840051,
+                1053.0664887614828,
+                156.8333409780102
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "0b080c18-3cb5-46c9-9f76-7092d8488c72",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1421.8298440317496,
+                128.95432442836798,
+                1515.6047178805459,
+                154.29888492804272
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 309/17",
+            "uuid": "d0f660ba-064a-4fc7-8c81-cacc2975bee3",
+            "vertical": false,
+            "translation": "L 309/17"
+        },
+        {
+            "bbox": [
+                747.6645347404029,
+                239.20316260195295,
+                861.715056988939,
+                262.01326705166025
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX VII",
+            "uuid": "6faf576b-6007-4a8d-9ff4-7e8f45b1d752",
+            "vertical": false,
+            "translation": "附件七"
+        },
+        {
+            "bbox": [
+                607.0022239672086,
+                292.42673965126966,
+                1006.1790518370848,
+                317.7713001509444
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "EMISSION LIMIT VALUES FOR DUST",
+            "uuid": "9323b417-4a71-47d0-b0ed-0f3c1eb424b5",
+            "vertical": false,
+            "translation": "粉尘的排放限值"
+        },
+        {
+            "bbox": [
+                233.58447046443283,
+                349.76450959321704,
+                1375.8878808646916,
+                402.5093900206697
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "A. Dust emission limit values expressed in mg/Nm³ (O₂ content 6% for solid fuels, 3 % for liquid and gaseous fuels) to be applied by new and existing plants pursuant to Article 4(1) and 4(3), respectively:",
+            "uuid": "e6d94d23-61e9-4090-9f64-24c16b427f8c",
+            "vertical": false,
+            "translation": "A. 根据第 4(1) 条和第 4(3) 条，新工厂和现有工厂分别适用的粉尘排放限值以毫克/标准立方米表示（固体燃料的氧含量为 6%，液态和气态燃料的氧含量为 3%）："
+        },
+        {
+            "bbox": [
+                406.8890775832056,
+                465.8032465336126,
+                510.8718418544693,
+                488.40819528823516
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Type of fuel",
+            "uuid": "f9dcadb0-2a87-413c-80d9-0fb90c0cdb5d",
+            "vertical": false,
+            "translation": "燃料类型"
+        },
+        {
+            "bbox": [
+                275.78037480639495,
+                524.5761132956311,
+                324.004265482923,
+                547.1810620502537
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Solid",
+            "uuid": "8068e730-c24e-4057-9365-bbb1df2cf0b7",
+            "vertical": false,
+            "translation": "固体"
+        },
+        {
+            "bbox": [
+                274.2733782227534,
+                598.4189458940648,
+                363.1861766576021,
+                631.572870734178
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Liquid (¹)",
+            "uuid": "c5abffd2-414b-42f5-9799-9d808557bc70",
+            "vertical": false,
+            "translation": "液体 (¹)"
+        },
+        {
+            "bbox": [
+                275.78037480639495,
+                652.670822905159,
+                354.14419715575303,
+                678.2897648270645
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Gaseous",
+            "uuid": "1b8dc752-f12c-44a1-be3d-d4c3ecb6da9c",
+            "vertical": false,
+            "translation": "气体"
+        },
+        {
+            "bbox": [
+                762.5402713226001,
+                450.7332806971977,
+                932.83088527409,
+                498.9571713737257
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Rated thermal input (MW)",
+            "uuid": "6da59197-684e-4e2c-8230-5ea59be9a47d",
+            "vertical": false,
+            "translation": "额定热输入（兆瓦）"
+        },
+        {
+            "bbox": [
+                794.1871995790717,
+                527.5901064629143,
+                854.4670629247317,
+                548.6880586338953
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "≥ 500",
+            "uuid": "640270e1-2d1d-42a2-aaae-9c6832817baa",
+            "vertical": false,
+            "translation": "≥ 500"
+        },
+        {
+            "bbox": [
+                795.6941961627133,
+                553.2090483848199,
+                855.9740595083733,
+                575.8139971394422
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "< 500",
+            "uuid": "cfe28547-79e4-4320-8ea7-99ffe1bf6c26",
+            "vertical": false,
+            "translation": "< 500"
+        },
+        {
+            "bbox": [
+                782.1312269099396,
+                599.9259424777064,
+                868.0300321775053,
+                630.0658741505364
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "all plants",
+            "uuid": "703296e7-ce47-484a-b0b8-a10ffd7b7e9e",
+            "vertical": false,
+            "translation": "所有工厂"
+        },
+        {
+            "bbox": [
+                779.1172337426567,
+                654.1778194888005,
+                868.0300321775053,
+                679.7967614107059
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "all plants",
+            "uuid": "b5848c42-12a6-44b8-b788-56f774bd444e",
+            "vertical": false,
+            "translation": "所有工厂"
+        },
+        {
+            "bbox": [
+                1121.2054582292778,
+                452.2402772808392,
+                1302.0450482662582,
+                501.97116454100876
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Emission limit values (mg/Nm³)",
+            "uuid": "f382e6b9-f67a-46a1-b13f-d010f6985a85",
+            "vertical": false,
+            "translation": "排放限值（毫克/标准立方米）"
+        },
+        {
+            "bbox": [
+                1160.3873694039567,
+                523.0691167119899,
+                1216.1462429986923,
+                550.1950552175368
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "50 (²)",
+            "uuid": "1aba4e60-4587-4828-b8ff-f031284a1893",
+            "vertical": false,
+            "translation": "50 (²)"
+        },
+        {
+            "bbox": [
+                1149.8383933184662,
+                551.7020518011783,
+                1189.0203044931454,
+                574.3070005558006
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "9fa6c190-59bb-4431-b267-5ad0201664b0",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1161.8943659875983,
+                604.4469322286308,
+                1187.5133079095037,
+                625.5448843996118
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "712c6052-c93c-4b99-944b-0a9bcb0573e8",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1035.306652961712,
+                657.1918126560834,
+                1139.2894172329757,
+                678.2897648270645
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "5 as a rule",
+            "uuid": "c03c8e75-5130-4dbd-b00b-56e40b1e8d52",
+            "vertical": false,
+            "translation": "5 通常"
+        },
+        {
+            "bbox": [
+                1026.264673459863,
+                681.3037579943475,
+                1252.3141610060882,
+                705.4157033326114
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "10 for blast furnace gas",
+            "uuid": "9cc08070-cf1f-4813-8225-2294bf70a8e8",
+            "vertical": false,
+            "translation": "10 至于高炉煤气"
+        },
+        {
+            "bbox": [
+                1027.7716700435046,
+                708.4296964998945,
+                1354.7899286937106,
+                783.7795256819697
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "50 for gases produced by the steel industry which can be used elsewhere",
+            "uuid": "27170097-2830-462c-8c8b-e3c1ed55d90a",
+            "vertical": false,
+            "translation": "50 至于钢铁行业产生的、可用于其他地方的气体"
+        },
+        {
+            "bbox": [
+                278.94273900618373,
+                811.5054439661379,
+                1375.1568240304848,
+                856.795039967142
+            ],
+            "order": "25",
+            "label": "Footnote",
+            "text": "(¹) A limit value of 100 mg/Nm³ may be applied to plants with a rated thermal input of less than 500 MWth burning liquid fuel with an ash content of more than 0,06 %.",
+            "uuid": "7fce3091-528b-48e6-8581-f8e3276ca77f",
+            "vertical": false,
+            "translation": "(¹) 对于额定热输入小于 500 兆瓦、燃烧灰分含量大于 0.06% 的燃烧液体燃料的工厂，可适用 100 毫克/标准立方米的限值。"
+        },
+        {
+            "bbox": [
+                278.94273900618373,
+                858.8536579671876,
+                1376.1861330305078,
+                955.6087039693325
+            ],
+            "order": "26",
+            "label": "Footnote",
+            "text": "(²) A limit value of 100 mg/Nm³ may be applied to plants licensed pursuant to Article 4(3) with a rated thermal input greater than or equal to 500 MWth burning solid fuel with a heat content of less than 5 800 kJ/kg (net calorific value), a moisture content greater than 45% by weight, a combined moisture and ash content greater than 60% by weight and a calcium oxide content greater than 10%.",
+            "uuid": "0194ad0c-b8eb-4216-9505-bcff3a0205d6",
+            "vertical": false,
+            "translation": "(²) 依照第 4(3) 条许可，额定热输入大于或等于 500 兆瓦、燃烧固体燃料的热含量低于 5800 千焦耳/千克（净热值）、水分含量以重量计大于 45%、水分和灰分总含量以重量计大于 60%、氧化钙含量大于 10% 的工厂，可以适用 100 毫克/标准立方米的限值。"
+        },
+        {
+            "bbox": [
+                235.29074546686087,
+                1017.1153093871837,
+                1373.90877503765,
+                1075.0512215875665
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "B. Dust emission limit values expressed in mg/Nm³ to be applied by new plants, pursuant to Article 4(2) with the exception of gas turbines:",
+            "uuid": "b33c56d2-b27c-4920-aeed-58018d650178",
+            "vertical": false,
+            "translation": "B. 根据第 4(2) 条，除燃气轮机外，以毫克/标准立方米表示的粉尘排放限值将适用于新的工厂："
+        },
+        {
+            "bbox": [
+                277.91343000616087,
+                1122.356761973029,
+                523.9182810116143,
+                1150.148104973645
+            ],
+            "order": "28",
+            "label": "Section-header",
+            "text": "Solid fuels (O₂ content 6%)",
+            "uuid": "f8224b7f-a017-4fd3-a5f3-8ce8afbd1c43",
+            "vertical": false,
+            "translation": "固体燃料（氧气含量 6%）"
+        },
+        {
+            "bbox": [
+                275.8548120061152,
+                1182.0566839743524,
+                1376.1861330305078,
+                1288.0755109767026
+            ],
+            "order": "29",
+            "label": "Table",
+            "text": "",
+            "uuid": "bc90eaf1-517b-4dad-a5ab-6b7835d844fa",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                478.62868501061035,
+                1198.5256279747175,
+                622.731945013805,
+                1217.0531899751281
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "50 to 100 MWth",
+            "uuid": "5a13f399-718f-4609-ba09-bd7ad43adc11",
+            "vertical": false,
+            "translation": "50 至 100 兆瓦"
+        },
+        {
+            "bbox": [
+                274.190595477859,
+                436.72074907705473,
+                1373.576810838844,
+                802.7455152891248
+            ],
+            "order": "8",
+            "label": "Table",
+            "text": "",
+            "uuid": "44d27fe7-cf4a-4567-a152-087045331282",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1041.6618794709093,
+                1198.9443661710072,
+                1155.7986345262862,
+                1217.3112003178494
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "> 100 MWth",
+            "uuid": "0a388456-079e-4338-b42c-eeff79a4566f",
+            "vertical": false,
+            "translation": "> 100 兆瓦"
+        },
+        {
+            "bbox": [
+                539.1977738822969,
+                1246.1733682628874,
+                562.812274928237,
+                1267.1640358592786
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "ba6f8b1b-0c01-4de4-a219-0d3d1e15ebc6",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1088.8908815627894,
+                1246.1733682628874,
+                1113.817299333504,
+                1265.852119134504
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "0fc0f3c2-0d79-4b4f-9776-09b0e492e6dd",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                275.50251220263345,
+                1357.686289868715,
+                533.9501069831991,
+                1387.8603745385274
+            ],
+            "order": "34",
+            "label": "Section-header",
+            "text": "Liquid fuels (O₂ content 3%)",
+            "uuid": "bc629988-1ec8-4961-9701-7a3f8113a8bd",
+            "vertical": false,
+            "translation": "液体燃料（氧气含量 3%）"
+        },
+        {
+            "bbox": [
+                280.7501791017313,
+                1419.346375933114,
+                1374.8887275636184,
+                1525.611630639844
+            ],
+            "order": "35",
+            "label": "Table",
+            "text": "",
+            "uuid": "6498e2c9-343d-4424-9d36-a71373d282a1",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                477.537687817898,
+                1432.4655431808583,
+                623.1604442678615,
+                1456.0800442267985
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "50 to 100 MWth",
+            "uuid": "75e19781-674f-46d8-af7c-b21d21e10f4a",
+            "vertical": false,
+            "translation": "50 至 100 兆瓦"
+        },
+        {
+            "bbox": [
+                1042.973796195684,
+                1432.4655431808583,
+                1157.1105512510605,
+                1456.0800442267985
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "> 100 MWth",
+            "uuid": "72e1ac89-0c34-46ad-9ba0-980ddda1d21d",
+            "vertical": false,
+            "translation": "> 100 兆瓦"
+        },
+        {
+            "bbox": [
+                537.8858571575225,
+                1482.3183787222874,
+                564.1241916530115,
+                1505.9328797682274
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "e421bca5-6527-491d-a35c-a3f8236bd42c",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1088.8908815627894,
+                1483.630295447062,
+                1112.5053826087294,
+                1504.6209630434528
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "29ec5a00-8820-4456-bb32-4b83fa9f5732",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                275.50251220263345,
+                1578.088299630822,
+                1374.8887275636184,
+                1629.2530518970252
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "In the case of two installations with a rated thermal input of 250 MWth on Crete and Rhodos to be licensed before 31 December 2007 the emission limit value of 50 mg/Nm³ shall apply.",
+            "uuid": "4d9db982-f78f-439e-b93a-775930f10f3e",
+            "vertical": false,
+            "translation": "对于将在 2007 年 12 月 31 日之前获得许可的克里特和罗得的两个额定热输入为 250 兆瓦的设施，应适用 50 毫克/标准立方米的排放限值。"
+        },
+        {
+            "bbox": [
+                278.12634565218235,
+                1679.1058874384541,
+                548.381190955718,
+                1706.6561386587177
+            ],
+            "order": "41",
+            "label": "Section-header",
+            "text": "Gaseous fuels (O₂ content 3%)",
+            "uuid": "c6fe2725-a146-418c-a0d4-203c6aff2e1b",
+            "vertical": false,
+            "translation": "气体燃料（氧气含量 3%）"
+        },
+        {
+            "bbox": [
+                275.50251220263345,
+                1738.142140053304,
+                1376.2006442883928,
+                1927.0581484208242
+            ],
+            "order": "42",
+            "label": "Table",
+            "text": "",
+            "uuid": "4a9fbd4d-4745-492f-8bde-d12308fd99b3",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                278.12634565218235,
+                1755.197057475372,
+                363.4009327625213,
+                1778.811558521312
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "As a rule",
+            "uuid": "01edc6bc-506d-4ff7-bb9c-1d1f97b67e60",
+            "vertical": false,
+            "translation": "通常"
+        },
+        {
+            "bbox": [
+                1100.6981320857594,
+                1757.8208909249208,
+                1111.193465883955,
+                1777.4996417965374
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "dee235d1-8dab-4db0-9c62-7281590e96a6",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                276.8144289274079,
+                1805.0498930168008,
+                473.6019376435747,
+                1832.6001442370641
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "For blast furnace gas",
+            "uuid": "28d581bb-70fa-4cab-9e4a-fd404bc9ac7e",
+            "vertical": false,
+            "translation": "至于高炉煤气"
+        },
+        {
+            "bbox": [
+                1088.8908815627894,
+                1806.3618097415754,
+                1112.5053826087294,
+                1829.9763107875153
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "e20eea38-a4bc-4b6a-ad16-f184658bf18c",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                276.8144289274079,
+                1857.5265620077787,
+                795.0215352133138,
+                1906.067480824433
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "For gases produced by the steel industry which can be used elsewhere",
+            "uuid": "d68e9cac-3b47-49e8-886c-83cca445ef07",
+            "vertical": false,
+            "translation": "至于钢铁行业产生的、可用于其他地方的气体"
+        },
+        {
+            "bbox": [
+                1088.8908815627894,
+                1857.5265620077787,
+                1111.193465883955,
+                1879.8291463289443
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "168caa3a-5325-4f67-8a5c-4f29894b9694",
+            "vertical": false,
+            "translation": "30"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,329 @@
+{
+    "file": "3e266b144a441918eec4d4f5f29f6da30fd1d857252dbe7a1691090c355157e8.png",
+    "annotations": [
+        {
+            "bbox": [
+                169.77267101998072,
+                153.50718105793783,
+                327.3217097265229,
+                184.72466436392583
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "ea2c6b21-57e4-429c-8826-7573853db070",
+            "vertical": true,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1085.1869131597168,
+                149.41194879176985,
+                1360.8977308961655,
+                188.99889420296407
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "权利要求书",
+            "uuid": "ff51ce33-41fb-49aa-a049-c004ddf51dd9",
+            "vertical": false,
+            "translation": "Claims"
+        },
+        {
+            "bbox": [
+                1381.2704514185632,
+                150.7665322187663,
+                1491.2831422395109,
+                188.77042493909943
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 2/3 页",
+            "uuid": "f8700a73-e9eb-41c0-b999-3e68f1efaddb",
+            "vertical": false,
+            "translation": "Page 2/3"
+        },
+        {
+            "bbox": [
+                257.3816404758894,
+                229.7247566324928,
+                1229.285447049024,
+                279.94687619288476
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "请求步骤 ( IVc )，其中请求实体请求身份相关信息；以及",
+            "uuid": "fa2cd476-6747-4ef9-bd4f-47035306a30a",
+            "vertical": false,
+            "translation": "In the requesting step (IVc), the requesting entity requests identity-related information; and"
+        },
+        {
+            "bbox": [
+                259.30239898690354,
+                289.22883648071024,
+                1315.7195800446584,
+                339.490390034322
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "响应步骤 ( IVe )，其中位置实体向请求实体发送身份相关信息。",
+            "uuid": "498af123-5ff3-401d-a26e-5d9a5d5c5fe8",
+            "vertical": false,
+            "translation": "in the response step (IVe), the location entity sends identity-related information to the requesting entity."
+        },
+        {
+            "bbox": [
+                186.31357556836772,
+                354.4913756690776,
+                1467.4595024147725,
+                534.9231016604465
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "9. 根据权利要求8的方法，其中所述传送步骤 ( IV ) 还包含：由位置实体根据预定策略确定传送在请求步骤 ( IVc ) 中请求的身份相关信息的哪个部分 。",
+            "uuid": "83fe7fd3-613d-4e46-a2d4-7236f5ef8414",
+            "vertical": false,
+            "translation": "9. According to the method of Claim 8, wherein the transmission step (IV) also comprises: the location entity determines which part of the identity-related information requested in the requesting step (IVc) is transmitted according to the predetermined policy."
+        },
+        {
+            "bbox": [
+                184.39281705735357,
+                542.6481138263174,
+                1459.776468370716,
+                662.1778198846906
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "10. 根据权利要求9的方法，其中所述响应步骤 ( IVe ) 还包含：由位置实体传送预定策略的一部分。",
+            "uuid": "743d47a0-45df-4c8c-978f-93bff193d63f",
+            "vertical": false,
+            "translation": "10. According to the method of Claim 9, wherein the responding step (IVe) also comprises: transmitting a portion of the predetermined policy by the location entity."
+        },
+        {
+            "bbox": [
+                190.1550925903959,
+                673.253332253789,
+                1463.6179853927442,
+                850.4121539640724
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "11. 根据权利要求8至10中 任一项的方法，其中位置实体使用在重定向步骤 ( III ) 中建立的从客户端应用至位置实体的连接，以在传送步骤 ( IV ) 期间进行与个人的交互。",
+            "uuid": "ca9854dd-a1a9-4fbf-8db3-23bd92727ef1",
+            "vertical": false,
+            "translation": "11. According to the method of any one of Claims 8 to 10, wherein the location entity uses the connection established in the redirection step (III) from the client application to the location entity for interaction with the individual during the transmission step (IV) ."
+        },
+        {
+            "bbox": [
+                190.1550925903959,
+                855.7241187358312,
+                1461.69722688173,
+                977.1822156910031
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "12. 根据权利要求8至10中任一项的方法，其中向请求实体释放个人信息包含以下步骤：",
+            "uuid": "a5e406b6-580d-49e8-ad37-12749189d527",
+            "vertical": false,
+            "translation": "12. According to the method of any one of Claims 8 to 10, wherein releasing the personal information to the requesting entity comprises the following steps:"
+        },
+        {
+            "bbox": [
+                268.906191541974,
+                986.249197112566,
+                718.3636831192733,
+                1036.1558447271998
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "呈现有关请求实体的信息；",
+            "uuid": "6e91b1b6-989a-48c0-ad3c-4d0327f3df38",
+            "vertical": false,
+            "translation": "Present information about the requesting entity;"
+        },
+        {
+            "bbox": [
+                195.9173681234382,
+                1045.753276960783,
+                1461.69722688173,
+                1164.761436657218
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "呈现位置实体已知的预先授权的属性值和/或非预先授权的属性值，和/或为未知属性值呈现分配给用于输入相应属性值的空字段的属性名称；",
+            "uuid": "b5205787-2938-4322-923c-f897648e2059",
+            "vertical": false,
+            "translation": "Present pre-authorized attribute values and/or non-pre-authorized attribute values that are known to the location entity, and/or present attribute names assigned to empty fields for inputting corresponding attribute values for unknown attribute values;"
+        },
+        {
+            "bbox": [
+                268.906191541974,
+                1176.4068338315565,
+                662.6616862998644,
+                1226.3134814461905
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "请求编辑属性值；以及",
+            "uuid": "01fd3da2-7974-4d2a-820a-26cf0362b0f3",
+            "vertical": false,
+            "translation": "Request to edit the attribute value; and"
+        },
+        {
+            "bbox": [
+                266.98543303095994,
+                1239.836386945431,
+                827.8469182470772,
+                1289.743034560065
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "向请求实体发送编辑后的属性值 。",
+            "uuid": "0e967b61-009b-4e11-a1f0-1fb0a4dcb626",
+            "vertical": false,
+            "translation": "Send the edited attribute value to the requesting entity."
+        },
+        {
+            "bbox": [
+                266.98543303095994,
+                1299.8696455413717,
+                1365.6593013310253,
+                1347.8886083167245
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "13. 根据权利要求12的方法，其中不同的属性值以不同方式呈现。",
+            "uuid": "c9d4152d-a000-414d-b6a8-8900c0810461",
+            "vertical": false,
+            "translation": "13. According to the method of Claim 12, wherein different attribute values are presented in different ways."
+        },
+        {
+            "bbox": [
+                197.83812663445232,
+                1357.0090164387784,
+                1469.3802609257864,
+                1478.5001870656831
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "14. 根据权利要求8至10中任一项的方法，其中所述传送步骤 ( IV ) 还包含以下步骤：",
+            "uuid": "40245af0-8f3d-40f8-bbc6-469e2d39d113",
+            "vertical": false,
+            "translation": "14. According to the method of any of Claims 8 to 10, wherein the transmission step (IV) also comprises the following steps:"
+        },
+        {
+            "bbox": [
+                265.0646745199458,
+                1491.4964579457956,
+                768.3034044056401,
+                1539.9644594181345
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "由位置实体生成随机值 ( k )；",
+            "uuid": "a0683dc5-4b68-446a-996a-1c14ec7b9acc",
+            "vertical": false,
+            "translation": "Generate a random value (k) by the location entity;"
+        },
+        {
+            "bbox": [
+                272.7477085640022,
+                1551.000537794013,
+                1384.8668864411661,
+                1602.8266718553637
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "在与身份相关信息相同的连接上，将随机值 ( k ) 发送给请求实体；",
+            "uuid": "1ae9d292-333e-4a70-a46b-25a348a0d80f",
+            "vertical": false,
+            "translation": "On the same connection as identity-related information, the random value (k) is sent to the requesting entity;"
+        },
+        {
+            "bbox": [
+                197.83812663445232,
+                1612.711590620162,
+                1480.9048119918712,
+                1728.1987934975164
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "将随机值 ( k ) 发送给客户端应用，以使客户端应用能够针对身份相关信息向请求实体证明其真实身份。",
+            "uuid": "04d89694-8afc-40b2-b156-571a4724c540",
+            "vertical": false,
+            "translation": "The random value (k) is sent to the client application so that the client application can prove its true identity to the requesting entity for identity-related information."
+        },
+        {
+            "bbox": [
+                272.7477085640022,
+                1741.3171825501802,
+                1117.8814534102062,
+                1795.4253413830097
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "15. 一种提供身份相关信息的系统，所述系统包含：",
+            "uuid": "637d63c7-6071-4001-b531-9b0535bcffcc",
+            "vertical": false,
+            "translation": "15. A system for providing identity-related information, which comprises:"
+        },
+        {
+            "bbox": [
+                272.7477085640022,
+                1805.0291339380801,
+                799.0355405818656,
+                1858.810372246475
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "具有身份相关信息的位置实体；",
+            "uuid": "89e73524-64f0-49df-bbbe-4206d416762b",
+            "vertical": false,
+            "translation": "A location entity with identity-related information;"
+        },
+        {
+            "bbox": [
+                274.6684670750163,
+                1870.3349233125598,
+                933.4886363528526,
+                1916.4331275768982
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "可连接到位置实体的客户端应用；以及",
+            "uuid": "c629bc73-d437-4def-b0b8-08de1f085186",
+            "vertical": false,
+            "translation": "A client application that can connect to a location entity; and"
+        },
+        {
+            "bbox": [
+                193.99660961242407,
+                1925.5878814349821,
+                1473.2217779478146,
+                2169.973251030759
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "用来从客户端应用请求相应于具有身份相关信息的位置实体的位置信息的请求实体，其中，根据对于请求的响应，客戶端应用被重定向到位置实体，以指令位置实体将身份相关信息传送给请求实体，其中位置实体联系请求实体，请求实体请求身份相关信息，并且请求实体从位置实体接收身份相关信",
+            "uuid": "2fa1882b-4513-4220-8caf-4d429914eeec",
+            "vertical": false,
+            "translation": "A requesting entity used to request location information corresponding to a location entity with identity-related information from a client application, wherein, according to the response to the request, the client application is redirected to the location entity to instruct the location entity to transmit identity-related information to the requesting entity, wherein the location entity contacts the requesting entity, the requesting entity requests identity-related information, and the requesting entity receives identity-related information from the location entity"
+        },
+        {
+            "bbox": [
+                813.16796875,
+                2203.522406918285,
+                849.71484375,
+                2242.3277448912604
+            ],
+            "order": "23",
+            "label": "Page-footer",
+            "text": "3",
+            "uuid": "545cca87-f6d4-4962-a175-52534f5b1dd7",
+            "vertical": false,
+            "translation": "3"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,679 @@
+{
+    "file": "jrc32001R0418.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                2168.598346052158,
+                119.3844219544745,
+                2201.396264171519,
+                205.97092578958788
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/10",
+            "uuid": "e95814f6-f3f0-4fdf-ab48-d9df1737c7e7",
+            "vertical": true,
+            "translation": "L 62/10"
+        },
+        {
+            "bbox": [
+                2172.534096226481,
+                335.850681542258,
+                2198.77243072197,
+                367.3366829368446
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "9608e02f-7094-4e85-bfec-93e7fca03ee6",
+            "vertical": true,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                2171.2221795017067,
+                592.9863595980493,
+                2202.708180896293,
+                1061.340630342526
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "947cf7e1-b558-4885-8d2e-6088e0f13152",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2168.598346052158,
+                1436.5488136280173,
+                2205.3320143458423,
+                1536.2544847108752
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "2.3.2001",
+            "uuid": "cbdf1af3-3be3-44b5-b122-33c2eef274fc",
+            "vertical": true,
+            "translation": "2.3.2001"
+        },
+        {
+            "bbox": [
+                1044.2857129204583,
+                110.18593166525261,
+                1159.7343847006096,
+                135.11234943596713
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO III",
+            "uuid": "0bfd7fdf-0dd6-4f4e-b823-14becfbd60fb",
+            "vertical": true,
+            "translation": "ANNEX III"
+        },
+        {
+            "bbox": [
+                102.7880859375,
+                177.41992187500003,
+                2094.5927734375,
+                1191.595703125
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "fe07bdd2-8b06-468a-9535-2675f30ec984",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                132.65612537892795,
+                217.90191635523414,
+                229.13330747269373,
+                288.40447250067825
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Número de registro del aditivo",
+            "uuid": "4a6492e9-eca5-4fa8-a7b8-b67a29e80b6b",
+            "vertical": false,
+            "translation": "Additive Registration Number"
+        },
+        {
+            "bbox": [
+                269.0229116076161,
+                205.84226859351327,
+                468.4709322822281,
+                304.17478111215917
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Nombre y número de registro de la persona responsable de poner el aditivo en circulación",
+            "uuid": "8463cb95-6ea2-462e-ad0e-f528bf683755",
+            "vertical": false,
+            "translation": "Name and registration number of the person responsible for putting the additive into circulation"
+        },
+        {
+            "bbox": [
+                545.4671449147527,
+                232.74455975427497,
+                707.8085570917624,
+                285.6214768633581
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Aditivo (nombre comercial)",
+            "uuid": "204f45a8-0f59-4b17-b202-5356df32913f",
+            "vertical": false,
+            "translation": "Additive (trade name)"
+        },
+        {
+            "bbox": [
+                770.8897915376862,
+                239.2382162413554,
+                1139.1728808763883,
+                270.77883346431724
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Composición, fórmula química y descripción",
+            "uuid": "0d697926-d942-4257-b49e-1973c63f8216",
+            "vertical": true,
+            "translation": "Composition, chemical formula and description"
+        },
+        {
+            "bbox": [
+                1166.0751720371497,
+                219.757246780114,
+                1271.8290062553162,
+                291.1874681379984
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Especie o categoría de animales",
+            "uuid": "14a9db49-2bed-4766-9af2-00cdb5210f1b",
+            "vertical": false,
+            "translation": "Species or category of animals"
+        },
+        {
+            "bbox": [
+                1326.5612537892794,
+                231.81689454183487,
+                1401.702135996924,
+                281.91081601359764
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Edad máxima",
+            "uuid": "5b3ff98d-cafe-4b05-a51e-b15bf98b7282",
+            "vertical": false,
+            "translation": "Maximum age"
+        },
+        {
+            "bbox": [
+                1455.5067183184472,
+                191.92729040691236,
+                1552.9115656246531,
+                242.02121187867553
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Contenido mínimo",
+            "uuid": "7fe34146-121d-4906-97dd-4b81256d3083",
+            "vertical": false,
+            "translation": "Minimum content"
+        },
+        {
+            "bbox": [
+                1598.3671610342158,
+                193.7826208317926,
+                1692.0613474906613,
+                242.94887709111543
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Contenido máximo",
+            "uuid": "28d28161-98b3-446b-bd40-7f79ecfb490b",
+            "vertical": false,
+            "translation": "maximum content"
+        },
+        {
+            "bbox": [
+                1746.7935950246247,
+                237.38288581647515,
+                1917.483994113595,
+                271.7064986767572
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Otras disposiciones",
+            "uuid": "db03551a-6080-49b7-912b-fecbfbf4ed29",
+            "vertical": false,
+            "translation": "Other provisions"
+        },
+        {
+            "bbox": [
+                1960.1565938858375,
+                229.03389890451453,
+                2086.319062777685,
+                279.12782037627767
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Duración de la autorización",
+            "uuid": "2d3927c6-257a-4375-a8f6-a3d2ee4f5a10",
+            "vertical": false,
+            "translation": "Duration of the authorization"
+        },
+        {
+            "bbox": [
+                1454.5790531060072,
+                269.85116825187714,
+                1691.1336822782214,
+                319.01742451120003
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "mg de sustancia activa/kg de pienso completo",
+            "uuid": "63a751b8-0381-435a-9d00-41748b3e20ce",
+            "vertical": false,
+            "translation": "mg of active substance/kg of complete feed"
+        },
+        {
+            "bbox": [
+                108.5368298554865,
+                352.4133721590421,
+                161.41374696456967,
+                381.17099374468364
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "E771",
+            "uuid": "eca9b976-d7a3-4eac-b20f-d9ce8c9e012a",
+            "vertical": false,
+            "translation": "E771"
+        },
+        {
+            "bbox": [
+                260.6739246956556,
+                352.4133721590421,
+                414.66634996070485,
+                406.21795448056514
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Janssen Animal Health B.V.B.A",
+            "uuid": "6fd2ff14-7c56-4170-86ca-0a5f7eac48c8",
+            "vertical": false,
+            "translation": "Janssen Animal Health B.V.B.A"
+        },
+        {
+            "bbox": [
+                499.0838842927499,
+                389.5199806566443,
+                743.9875003769246,
+                452.60121510256823
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Diclazuril 0,5 g/100 g (Clinacox 0,5 % Premix)",
+            "uuid": "878cf975-acba-4895-ab6b-fab8586db2b1",
+            "vertical": false,
+            "translation": "Diclazuril 0.5g/100g (Clinacox 0.5% Premix)"
+        },
+        {
+            "bbox": [
+                773.6727871750063,
+                351.4857069466022,
+                1031.5637162333417,
+                383.0263241695639
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Composición del aditivo",
+            "uuid": "cbe04e60-0e02-4d83-96c6-5a6e7be62064",
+            "vertical": false,
+            "translation": "Additive composition"
+        },
+        {
+            "bbox": [
+                1157.3034577284047,
+                350.53648657713893,
+                1280.5900803730115,
+                410.1913039858196
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Pavos de engorde",
+            "uuid": "84ec04fe-4152-445a-ba5a-d52c9b33be21",
+            "vertical": false,
+            "translation": "Broiler turkeys"
+        },
+        {
+            "bbox": [
+                1300.4750195092383,
+                346.55949874989363,
+                1419.7846543265996,
+                392.2948587632156
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "12 semanas",
+            "uuid": "37cd1d9e-3171-4bc1-90e3-9ba7492ed458",
+            "vertical": false,
+            "translation": "12 weeks"
+        },
+        {
+            "bbox": [
+                1489.3819413033937,
+                352.52498049076166,
+                1519.209350007734,
+                384.34088310872477
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "3d71e13a-e143-4200-bbd3-3af352763dc3",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1630.5650091706048,
+                344.57100483627084,
+                1660.392417874945,
+                388.31787093597006
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "fc13bc26-ed93-4fde-a52e-e6a187339a3a",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1725.4572951385035,
+                352.4133721590421,
+                1942.5309548494763,
+                463.7331976518486
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Se prohíbe el uso durante un mínimo de cinco días antes del sacrificio",
+            "uuid": "5d0cf3c9-0051-46e8-ad0f-9ebe3bd3f5ca",
+            "vertical": false,
+            "translation": "Use is prohibited for a minimum of five days prior to slaughter"
+        },
+        {
+            "bbox": [
+                1968.5055807977978,
+                352.4133721590421,
+                2074.2594150159644,
+                385.8093198068842
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "28.2.2011",
+            "uuid": "5ce74016-394a-4aa4-bea7-3efa4dc16f27",
+            "vertical": false,
+            "translation": "28.2.2011"
+        },
+        {
+            "bbox": [
+                774.6004523874464,
+                390.4476458690844,
+                1011.1550815596606,
+                421.0605978796062
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Diclazuril: 0,5 g/100 g",
+            "uuid": "63d197ca-189e-4680-850d-a2799a62c742",
+            "vertical": true,
+            "translation": "Diclazuril: 0.5g/100g"
+        },
+        {
+            "bbox": [
+                774.2275411111243,
+                423.06446515493843,
+                1071.108532280622,
+                448.59796148001175
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Harina de soja: 99,25 g/100 g",
+            "uuid": "39bda867-315a-415e-b072-bbf91862e117",
+            "vertical": true,
+            "translation": "Soy flour: 99.25g/100g"
+        },
+        {
+            "bbox": [
+                773.3619988628167,
+                449.8962748524731,
+                1071.5413034047756,
+                475.42977117754657
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Polividona K 30: 0,2 g/100 g",
+            "uuid": "b313a028-0be7-4f43-b0a4-fe9d4c0a2cb2",
+            "vertical": true,
+            "translation": "Polyvidone K 30: 0.2g/100g"
+        },
+        {
+            "bbox": [
+                773.3619988628167,
+                476.2953134258541,
+                1129.532634041383,
+                500.96326750262
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Hidróxido de sodio: 0,0538 g/100 g",
+            "uuid": "acf21a42-f180-4402-80f5-412d4c88cc16",
+            "vertical": false,
+            "translation": "Sodium hydroxide: 0.0538g/100g"
+        },
+        {
+            "bbox": [
+                498.1562190803099,
+                530.5250929475328,
+                741.2045047396044,
+                586.1850056939361
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Diclazuril 0,2 g/100 g (Clinacox 0,2 % Premix)",
+            "uuid": "54df3846-c1b3-4728-9ca8-47853ad0cfba",
+            "vertical": false,
+            "translation": "Diclazuril 0.2g/100g (Clinacox 0.2% Premix)"
+        },
+        {
+            "bbox": [
+                776.3913967318932,
+                529.9589328209236,
+                1004.029008036785,
+                557.2235136426123
+            ],
+            "order": "333",
+            "label": "Table cell",
+            "text": "Diclazuril: 0,2 g/100 g",
+            "uuid": "573b93c5-d335-4cdd-a3ae-81846a0d5e93",
+            "vertical": true,
+            "translation": "Diclazuril: 0.2g/100g"
+        },
+        {
+            "bbox": [
+                777.2569389802007,
+                558.5218270150737,
+                1059.4237119284696,
+                584.055323340147
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Harina de soja: 39,7 g/100 g",
+            "uuid": "e8bca343-d55d-476b-b9b4-33658cb9b7cc",
+            "vertical": false,
+            "translation": "Soy bean flour: 39.7g/100g"
+        },
+        {
+            "bbox": [
+                778.1224812285084,
+                584.4880944643007,
+                1073.7051590255446,
+                610.8871330376818
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Polividona K 30: 0,08 g/100 g",
+            "uuid": "e9dd3ab2-068e-40f9-91f2-ba8aa58ca56d",
+            "vertical": false,
+            "translation": "Polyvidone K 30: 0.08g/100g"
+        },
+        {
+            "bbox": [
+                777.2569389802007,
+                611.7526752859893,
+                1129.532634041383,
+                637.7189427352166
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Hidróxido de sodio: 0,0215 g/100 g",
+            "uuid": "bf5c2b11-404d-4263-a27d-1f1301d6cb28",
+            "vertical": true,
+            "translation": "Sodium hydroxide: 0.0215g/100g"
+        },
+        {
+            "bbox": [
+                777.2569389802007,
+                638.1517138593705,
+                1072.839616777237,
+                664.9835235569051
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Harinillas de trigo: 60 g/100 g",
+            "uuid": "5fcb40e9-1aa9-4145-9f65-2e2c5eca2bc7",
+            "vertical": true,
+            "translation": "Wheat flours: 60g/100g"
+        },
+        {
+            "bbox": [
+                776.4557828123266,
+                694.7218355494225,
+                941.5801906266564,
+                718.8411310728641
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Sustancia activa",
+            "uuid": "82a2d2e9-021f-4132-96cd-cb3e5982f47a",
+            "vertical": false,
+            "translation": "Active substance"
+        },
+        {
+            "bbox": [
+                778.1224812285084,
+                733.7941322973571,
+                877.2270686597255,
+                756.2982307533542
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Diclazuril ,",
+            "uuid": "026f9c12-b7dc-4174-ab21-783b6a80048b",
+            "vertical": false,
+            "translation": "Diclazuril,"
+        },
+        {
+            "bbox": [
+                777.6897101043546,
+                758.0293152499693,
+                911.8487585920284,
+                789.1888361890419
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "C , ₁ , H₂Cl₂N₂O₂ ,",
+            "uuid": "b61b7bbc-bbb7-4e42-9ee4-376f192b288d",
+            "vertical": false,
+            "translation": "C , ₁ , H₂Cl₂N₂O₂O₂ ,"
+        },
+        {
+            "bbox": [
+                777.2569389802007,
+                790.0543784373494,
+                1057.2598563077008,
+                813.8567902658076
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "(±)-4-clorofenil [2,6-dicloro-4",
+            "uuid": "55da9398-7798-4e1c-b685-954081c53558",
+            "vertical": false,
+            "translation": "(±)-4-chlorophenyl [2.6-dichlor-4"
+        },
+        {
+            "bbox": [
+                776.8241678560471,
+                816.0206458865765,
+                1109.192391206155,
+                839.8230577150349
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "(2,3,4,5-tetrahidro-3,5-dioxo-1,2,4",
+            "uuid": "049f2d1f-ff2b-45af-a1de-2f9913e39756",
+            "vertical": false,
+            "translation": "(2,3,4,5-tetrahydro-3,5-dioxo-1,2,4"
+        },
+        {
+            "bbox": [
+                776.3913967318932,
+                840.6885999633424,
+                1041.6800958381646,
+                865.7893251642621
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "triazin-2-il)fenil] acetonitrilo,",
+            "uuid": "0294915d-5855-460c-85bc-759ccd7a8c7f",
+            "vertical": true,
+            "translation": "triazine-2-yl)phenyl] acetonitrile,"
+        },
+        {
+            "bbox": [
+                777.2569389802007,
+                867.5204096608774,
+                993.642501057094,
+                892.188363737643
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "N° CAS: 101831-37-2,",
+            "uuid": "a16304c6-7882-48aa-a94e-4480c6370f4a",
+            "vertical": false,
+            "translation": "CAS NO: 101831-37-2,"
+        },
+        {
+            "bbox": [
+                775.9586256077395,
+                924.2134269250232,
+                975.8988849667888,
+                947.5830676293277
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Impurezas asociadas:",
+            "uuid": "622eb7a4-d79a-4847-905b-11b9b11a7006",
+            "vertical": true,
+            "translation": "Associated impurities:"
+        },
+        {
+            "bbox": [
+                774.2275411111243,
+                954.0746344916345,
+                1010.5205748990917,
+                1008.6037961350117
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Producto de degradación (R064318): ≤ 0,2 %",
+            "uuid": "61123254-a7aa-45b9-84cf-f44602931231",
+            "vertical": false,
+            "translation": "Degradation product (R064318): ≤ 0.2%"
+        },
+        {
+            "bbox": [
+                775.0930833594318,
+                1015.5281341214724,
+                1083.226123756928,
+                1122.8553729116113
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Otras impurezas asociadas (R066891, R066896, R068610, R070156, R068584, R070016): ≤ 0,5 % por separado",
+            "uuid": "4000aad1-f33a-4edb-8069-ff41007bda7a",
+            "vertical": true,
+            "translation": "Other associated impurities (R066891, R066896, R068610, R070156, R068584, R070016): ≤ 0,5% separately"
+        },
+        {
+            "bbox": [
+                778.3111132372067,
+                1151.13312006993,
+                1048.2616900572627,
+                1177.1077460182516
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Total de impurezas: ≤ 1,5 %",
+            "uuid": "1c75afd8-4b70-48c1-a06e-6f9e8a54c0cb",
+            "vertical": false,
+            "translation": "Total impurities: ≤ 1.5%"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

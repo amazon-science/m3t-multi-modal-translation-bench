@@ -1,0 +1,581 @@
+{
+    "file": "jrc32002L0003.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                113.32475214983191,
+                137.53232966472896,
+                226.64950429966382,
+                164.440195871951
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.3.2002",
+            "uuid": "1722ef46-3ba2-43a7-bf3c-f3f81593b723",
+            "vertical": false,
+            "translation": "9.3.2002"
+        },
+        {
+            "bbox": [
+                336.38300042875335,
+                144.0687819897072,
+                364.7597737513898,
+                164.18188826302566
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "ae581ddb-38a1-4422-81ee-a7c9f86c3fd6",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                592.3651431100367,
+                139.9278483452008,
+                1062.3554512662035,
+                171.87219360282398
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "1ceafe7a-1ca7-4ce2-b9b5-e366fbae22a5",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1445.441891121796,
+                139.33628639598535,
+                1538.8487699754744,
+                172.46375555203917
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 67/29",
+            "uuid": "4d8db242-40fe-49ce-8d9f-4b0f8e529cf1",
+            "vertical": false,
+            "translation": "L 67/29"
+        },
+        {
+            "bbox": [
+                761.9397475376735,
+                243.61622780176458,
+                892.3251588810188,
+                274.8744347471149
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO VII",
+            "uuid": "cf7fe269-74d4-4f99-b985-4d91414ee827",
+            "vertical": false,
+            "translation": "ANNEX VII"
+        },
+        {
+            "bbox": [
+                252.6217344777313,
+                302.05548426481073,
+                1401.6431719409609,
+                360.49474072785654
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "OBJETIVOS DE CALIDAD DE LOS DATOS Y RECOPILACIÓN DE LOS RESULTADOS DE LA EVALUACIÓN DE LA CALIDAD DEL AIRE",
+            "uuid": "2fe14b33-f70c-4a50-8609-095ae9360afa",
+            "vertical": false,
+            "translation": "DATA QUALITY OBJECTIVES AND COMPILATION OF AIR QUALITY ASSESSMENT RESULTS"
+        },
+        {
+            "bbox": [
+                264.8506572216004,
+                429.3044345666907,
+                656.4241169415742,
+                464.80957688913884
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "I. Objetivos de calidad de los datos",
+            "uuid": "8a37e827-c673-4954-b521-c67b3660af4c",
+            "vertical": false,
+            "translation": "I. Data quality objectives"
+        },
+        {
+            "bbox": [
+                288.9279896962913,
+                477.6566031719855,
+                1406.6231077319446,
+                563.8833773836453
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Como orientación de los programas de garantía de calidad se establecen los siguientes objetivos de calidad de los datos, relativos al grado de incertidumbre permitida de los métodos de evaluación, así como del período mínimo de observación y de la toma de datos de medición:",
+            "uuid": "b3e2e02d-85b2-4f98-b3ce-91b9cb394d1e",
+            "vertical": false,
+            "translation": "As a guideline for quality assurance programs, the following data quality objectives are established, relating to the degree of allowed uncertainty of the evaluation methods, as well as the minimum observation period and the collection of measurement data:"
+        },
+        {
+            "bbox": [
+                283.48985567236076,
+                584.9950767414883,
+                1408.0640285087134,
+                1441.198136548907
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "bc179061-e758-4fe0-856d-c8aa135dfd41",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1039.2993229415613,
+                606.9929555180788,
+                1202.465769546721,
+                641.303548572563
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Ozono, NO y NO₂",
+            "uuid": "750c04e7-89bd-4955-bfba-4342f398f5fc",
+            "vertical": false,
+            "translation": "Ozone, NO and NO₂"
+        },
+        {
+            "bbox": [
+                877.7866395334437,
+                1375.8538684527173,
+                931.5678778418385,
+                1402.7617346599395
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "75 %",
+            "uuid": "30e6531e-aff7-440a-8942-39db38da5fc7",
+            "vertical": false,
+            "translation": "75%"
+        },
+        {
+            "bbox": [
+                287.17721100636624,
+                1465.3437595951327,
+                1405.0067850311466,
+                1654.8580880210434
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "La incertidumbre (en un intervalo de confianza del 95 %) de los métodos de medición se valorará con arreglo a los principios ISO de la «Guide to the Expression of Uncertainty in Measurement» (1993), o de la metodología ISO 5725-1 «Accuracy (trueness and precision) of measurement methods and results» (1994) o equivalente. Los porcentajes de incertidumbre que figuran en el cuadro corresponden a las mediciones individuales, promediadas en el período para calcular los valores objetivos y los objetivos a largo plazo, con un intervalo de confianza del 95 %. Debe interpretarse que la incertidumbre de las mediciones continuas fijas es aplicable en la región de la concentración utilizada para el umbral apropiado.",
+            "uuid": "dad43011-aec0-432f-9d0e-83102812c10b",
+            "vertical": false,
+            "translation": "The uncertainty (at a 95% confidence interval) of measurement methods shall be assessed according to the ISO principles of the \"Guide to the Expression of Uncertainty in Measurement\" (1993), or ISO 5725-1 methodology \"Accuracy (trueness and precision) of measurement methods and results\" (1994) or equivalent. The uncertainty percentages given in the table are for individual measurements, averaged over the period for calculating target values and long-term objectives, at a 95% confidence interval. The uncertainty of fixed continuous measurements should be interpreted as applicable in the concentration region used for the appropriate threshold."
+        },
+        {
+            "bbox": [
+                289.23582900641185,
+                1668.1697865198196,
+                1405.0067850311466,
+                1753.657228146725
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "La incertidumbre de la modelización y de la estimación objetiva viene definida como la desviación máxima de los niveles de concentración medidos y calculados, durante el período de cálculo del umbral apropiado, sin tener en cuenta la cronología de los sucesos.",
+            "uuid": "315b851a-849a-4efe-8944-526cf1e3236c",
+            "vertical": false,
+            "translation": "The uncertainty of the modeling and objective estimation is defined as the maximum deviation of the measured and calculated concentration levels over the appropriate threshold calculation period, regardless of the timing of the events."
+        },
+        {
+            "bbox": [
+                286.14790200634343,
+                1773.18769209896,
+                1406.0360940311693,
+                1833.955873496399
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "Por «período de observación» se entiende el porcentaje de tiempo considerado para establecer el valor umbral durante el cual se mide el contaminante.",
+            "uuid": "bf670124-4017-445b-b6de-dcd850322250",
+            "vertical": false,
+            "translation": "By \"observation period\" is meant the percentage of time considered to establish the threshold value during which the pollutant is measured."
+        },
+        {
+            "bbox": [
+                287.17721100636624,
+                1847.34547278736,
+                1401.9188580310783,
+                1909.1436233610266
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "Por «toma de datos» se entiende la proporción de tiempo durante la cual el analizador obtiene datos válidos con respecto al tiempo para el que debe calcularse el parámetro estadístico o el valor agregado.",
+            "uuid": "c31d1cf2-2089-4eeb-adb4-4f2c657aee05",
+            "vertical": false,
+            "translation": "'Data collection' means the proportion of time during which the analyser obtains valid data with respect to the time for which the statistical parameter or aggregate value is to be calculated."
+        },
+        {
+            "bbox": [
+                286.14790200634343,
+                1928.7130377093542,
+                1405.0067850311466,
+                1986.3913115781095
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Los requisitos correspondientes a la toma mínima de datos y al período de observación no incluyen las pérdidas de datos debidas a la calibración periódica o al mantenimiento normal de los aparatos.",
+            "uuid": "6989ebba-84d7-4f4c-83a6-438be0ce4197",
+            "vertical": false,
+            "translation": "The requirements for minimum data collection and observation period do not include data losses due to periodic calibration or normal maintenance of equipment."
+        },
+        {
+            "bbox": [
+                257.3272500057045,
+                2031.7099553321318,
+                826.5351270183229,
+                2064.668968971421
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "II . Resultados de la evaluación de la calidad del aire",
+            "uuid": "2de404e6-791a-49c0-903c-d1b5a7d381ab",
+            "vertical": false,
+            "translation": "II. Air Quality Assessment Results"
+        },
+        {
+            "bbox": [
+                286.8283784532985,
+                2078.9629511550797,
+                1402.14949620824,
+                2136.365419931267
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "En las zonas o aglomeraciones donde los datos de las mediciones se completen con otras fuentes de información, deberá recopilarse la información siguiente:",
+            "uuid": "fcd77ebc-aaf1-4e77-b39f-e40df8e97d4a",
+            "vertical": false,
+            "translation": "In zones or agglomerations where measurement data are supplemented by other sources of information, the following information shall be collected:"
+        },
+        {
+            "bbox": [
+                285.30989855017174,
+                2141.2632738477773,
+                865.3915035105974,
+                2169.666903215805
+            ],
+            "order": "40",
+            "label": "List-item",
+            "text": "descripción de las actividades de evaluación realizadas,",
+            "uuid": "b28676e5-052b-4096-a0c3-7b1c09fb8190",
+            "vertical": false,
+            "translation": "description of the evaluation activities carried out,"
+        },
+        {
+            "bbox": [
+                285.30989855017174,
+                2175.4932887271952,
+                1067.000794067734,
+                2203.1686199062988
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "métodos específicos utilizados, con referencias a descripciones del método,",
+            "uuid": "4a458b60-ea72-40ca-89c9-9d499f353b39",
+            "vertical": false,
+            "translation": "specific methods used, with references to method descriptions,"
+        },
+        {
+            "bbox": [
+                291.2411227371953,
+                684.2208935386626,
+                520.7038254998341,
+                714.0069174549667
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Medición fija continua",
+            "uuid": "a6e200ad-f9e6-45e8-86e9-bb76f601466d",
+            "vertical": false,
+            "translation": "Continuous fixed measurement"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                730.0107076125548,
+                692.692030680907,
+                760.2041452781195
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Imprecisión de las mediciones individuales",
+            "uuid": "bf1d64ac-3e03-44be-be9c-3cbd902b93c8",
+            "vertical": false,
+            "translation": "Inaccuracy of individual measurements"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                772.6938593533117,
+                509.6796475748719,
+                801.5745388595038
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Toma mínima de datos",
+            "uuid": "0295644e-3a6a-445c-8775-2e76f3b022e2",
+            "vertical": false,
+            "translation": "Minimum data capture"
+        },
+        {
+            "bbox": [
+                879.6401639612654,
+                729.3728400940231,
+                929.4929995026943,
+                754.3152451220985
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "15 %",
+            "uuid": "c264e45e-8807-4768-b2aa-14d60fbdca56",
+            "vertical": false,
+            "translation": "15%"
+        },
+        {
+            "bbox": [
+                879.6401639612654,
+                772.6942800706106,
+                1025.9188787736161,
+                798.9494432580581
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "90 % en verano",
+            "uuid": "abfb0804-2498-4830-99d3-7e7f4b443f09",
+            "vertical": false,
+            "translation": "90% in summer"
+        },
+        {
+            "bbox": [
+                878.9842055988781,
+                802.8877177361753,
+                1042.3178378332966,
+                828.4865018439367
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "75 % en invierno",
+            "uuid": "12eac926-1494-459a-8a53-e156cb1f3ef7",
+            "vertical": false,
+            "translation": "75% in winter"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                890.1861353344383,
+                493.2806885151913,
+                917.7540566812585
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Medición indicativa",
+            "uuid": "cbe02b57-3ba2-4794-8f29-1d1e1682f24b",
+            "vertical": false,
+            "translation": "indicative measurement"
+        },
+        {
+            "bbox": [
+                289.93359617515233,
+                932.7476997757942,
+                714.3386566396854,
+                962.2847583616723
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Incertidumbre de las mediciones individuales",
+            "uuid": "061712db-abbd-4243-aa7d-ed87fb1df592",
+            "vertical": false,
+            "translation": "Uncertainty of individual measurements"
+        },
+        {
+            "bbox": [
+                287.9657210879907,
+                978.037856274141,
+                516.2392311987442,
+                1006.262156700647
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Toma mínima de datos",
+            "uuid": "0d33b2af-cee3-4cc6-894a-abc9eac8300e",
+            "vertical": false,
+            "translation": "Minimum data capture"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                1021.1796499640698,
+                591.6744428732746,
+                1050.8959341193076
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Período mínimo de observación",
+            "uuid": "97477775-6f2c-487d-9c3b-35cda57da082",
+            "vertical": false,
+            "translation": "Minimum observation period"
+        },
+        {
+            "bbox": [
+                877.6722888741037,
+                934.6857039347293,
+                931.460874589856,
+                961.5972462018626
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "30 %",
+            "uuid": "80818045-465d-43a3-b4ab-a2d60ac437e6",
+            "vertical": false,
+            "translation": "30%"
+        },
+        {
+            "bbox": [
+                878.9842055988781,
+                976.696489338439,
+                928.8370411403072,
+                1005.577168844631
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "90 %",
+            "uuid": "2cb3aae9-b656-4f87-bd44-3c6a003ae396",
+            "vertical": false,
+            "translation": "90%"
+        },
+        {
+            "bbox": [
+                875.048455424555,
+                1019.361129518041,
+                1046.909546370007,
+                1050.8673253429781
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "> 10 % en verano",
+            "uuid": "7e0bb357-e260-4757-bf8a-9b9decde0fba",
+            "vertical": false,
+            "translation": "> 10% in summer"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                1110.5978215944212,
+                432.9325191755669,
+                1139.4785011006136
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Modelización",
+            "uuid": "648ab69d-5efa-4ab0-a0b7-6929f6b16ce0",
+            "vertical": false,
+            "translation": "Modelling"
+        },
+        {
+            "bbox": [
+                289.27763781276514,
+                1153.9188408537098,
+                427.0288939140819,
+                1182.7995203599023
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Incertidumbre",
+            "uuid": "41a6393f-cea8-4208-8cf7-e7f61595b2d3",
+            "vertical": false,
+            "translation": "Uncertainty"
+        },
+        {
+            "bbox": [
+                289.93359617515233,
+                1195.9271019536257,
+                568.0599418273348,
+                1228.089676858249
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Media horaria (durante el día)",
+            "uuid": "6746913b-f6ee-4d9e-b826-33d15a7eb280",
+            "vertical": false,
+            "translation": "Hourly average (during the day)"
+        },
+        {
+            "bbox": [
+                288.62167945037794,
+                1243.1863956910315,
+                541.1656489694586,
+                1269.4415588784789
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Máxima octohoraria diaria",
+            "uuid": "ba6cbb01-2db8-4a90-8ad8-94cbbcd2ada9",
+            "vertical": false,
+            "translation": "Daily eight-hour maximum"
+        },
+        {
+            "bbox": [
+                875.2040342498819,
+                1196.4982741795582,
+                931.5108672226015,
+                1224.6697476494398
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "50 %",
+            "uuid": "cc498824-3a18-40cd-be80-9476d1023cf7",
+            "vertical": false,
+            "translation": "50%"
+        },
+        {
+            "bbox": [
+                876.4280958362455,
+                1240.5927543932862,
+                933.3469596021469,
+                1269.37665119947
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "50 %",
+            "uuid": "15a3c453-60ba-459b-aff4-d23ede5d8540",
+            "vertical": false,
+            "translation": "50%"
+        },
+        {
+            "bbox": [
+                290.1123695452722,
+                1331.6479305248401,
+                491.60251669342955,
+                1361.3470505953646
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Estimación objetiva",
+            "uuid": "0bd9d8b9-ebdb-470c-b2df-5c9858f8bad8",
+            "vertical": false,
+            "translation": "objective estimate"
+        },
+        {
+            "bbox": [
+                290.1123695452722,
+                1375.1508669661719,
+                427.22599665024234,
+                1404.8499870366961
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Incertidumbre",
+            "uuid": "8b9e0d1b-55e8-4f70-981c-9d0abbfa3f05",
+            "vertical": false,
+            "translation": "Uncertainty"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

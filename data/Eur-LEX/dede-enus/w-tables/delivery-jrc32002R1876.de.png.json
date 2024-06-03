@@ -1,0 +1,511 @@
+{
+    "file": "jrc32002R1876.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                2172.534096226481,
+                115.40378409370034,
+                2201.396264171519,
+                209.7947057184978
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 284/8",
+            "uuid": "be2ab300-56ce-43af-beed-120955e01cda",
+            "vertical": true,
+            "translation": "L 284/8"
+        },
+        {
+            "bbox": [
+                2175.660903242424,
+                334.8695064513265,
+                2194.8001571610425,
+                363.9305765646633
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "bd8d029f-d7d4-4366-a082-e45af3d28c19",
+            "vertical": true,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                2169.910262776932,
+                1403.4190435421995,
+                2206.6439310706164,
+                1535.8285308214295
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "22.10.2002",
+            "uuid": "4be471c5-7453-4ffe-8631-80694c1a5cca",
+            "vertical": true,
+            "translation": "22.10.2002"
+        },
+        {
+            "bbox": [
+                2171.2221795017067,
+                588.9852242887033,
+                2202.708180896293,
+                1067.4947575255244
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "9d6a1663-392a-40ec-84f2-cfc4ad661c25",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1049.6231205063063,
+                113.5896117502872,
+                1152.8523864857493,
+                140.69628584955186
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "81aedb2a-9000-4148-838f-e42a7e77910b",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                106.99675743854667,
+                200.97507895041838,
+                2099.066759639112,
+                313.2842595158058
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "ba3cf866-ffbe-4fea-9851-d1d4c7180762",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                106.60209736128256,
+                323.7665647615072,
+                201.199454028727,
+                350.63808662944973
+            ],
+            "order": "17",
+            "label": "Section-header",
+            "text": "„Enzyme",
+            "uuid": "4076cebd-9825-4dbd-afa1-bac5cf49576f",
+            "vertical": false,
+            "translation": "\"Enzymes"
+        },
+        {
+            "bbox": [
+                104.87160531045564,
+                356.51021051618415,
+                2093.793993511555,
+                855.1083320392015
+            ],
+            "order": "18",
+            "label": "Table",
+            "text": "",
+            "uuid": "483e988b-55bd-448f-a914-f0da3a626a0d",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                108.5368298554865,
+                869.0444967471994,
+                1764.4192340609857,
+                892.9938185297498
+            ],
+            "order": "35",
+            "label": "Footnote",
+            "text": "(⁴) 1 QXU ist die Enzymmenge, die 1 Mikromol reduzierende Zucker (Xyloseäquivalent) in der Minute bei einem pH-Wert von 5,1 und einer Temperatur von 50° C aus Hafer-Xylan freisetzt.",
+            "uuid": "62996ebb-3ce8-447c-97a5-7ac5027fffc1",
+            "vertical": false,
+            "translation": "(⁴) 1 QXU is the amount of enzyme which releases 1 micromole of reducing sugars (xylose equivalents) from oat xylan per minute at a pH value of 5.1 and 50°C."
+        },
+        {
+            "bbox": [
+                109.48323512780371,
+                896.6014165583297,
+                1854.3782007245354,
+                919.5782041404264
+            ],
+            "order": "36",
+            "label": "Footnote",
+            "text": "(⁵) 1 QGU ist die Enzymmenge, die 1 Mikromol reduzierende Zucker (Glucoseäquivalent) in der Minute bei einem pH-Wert von 4,8 und einer Temperatur von 50° C aus Gersten-Beta-Glucan freisetzt.\"",
+            "uuid": "5d6ccafe-d065-488e-b8c7-1d2bac65f686",
+            "vertical": false,
+            "translation": "(⁵) 1 QGU is the amount of enzyme that releases 1 micromole of reducing sugars (glucose equivalents) per minute from barley beta-glucan at a pH value of 4.8 and a temperature of 50°C.\""
+        },
+        {
+            "bbox": [
+                131.57195800446584,
+                232.58509916335078,
+                210.80324658379746,
+                280.5699596418199
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Nr. (oder EG-Nr.)",
+            "uuid": "c314010a-8258-4ac8-88c4-f849f8a67583",
+            "vertical": false,
+            "translation": "No. (or EC No.)"
+        },
+        {
+            "bbox": [
+                353.4195660265944,
+                242.61417664819277,
+                467.7046974319333,
+                268.0461527017811
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Zusatzstoff",
+            "uuid": "c117d0af-caee-4108-a15b-9e05336f75c1",
+            "vertical": false,
+            "translation": "Additive"
+        },
+        {
+            "bbox": [
+                608.6507349537699,
+                239.08995266258273,
+                928.8612177659867,
+                274.179480410725
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Chemische Bezeichnung, Beschreibung",
+            "uuid": "0a033f4e-3598-413e-bef5-a55258b27296",
+            "vertical": false,
+            "translation": "Chemical name, description"
+        },
+        {
+            "bbox": [
+                967.3199180515272,
+                229.0643733059704,
+                1081.0239015044292,
+                284.20505976733716
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Tierart oder Tierkategorie",
+            "uuid": "92376022-4ba5-44c1-b2e5-a521481ce6e9",
+            "vertical": false,
+            "translation": "Animal species or animal category"
+        },
+        {
+            "bbox": [
+                1134.531658423442,
+                242.43181244812013,
+                1234.858702646591,
+                267.4957608396504
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Höchstalter",
+            "uuid": "5aeaecbe-e69a-4469-94dd-3ca60886955e",
+            "vertical": false,
+            "translation": "Maximum age"
+        },
+        {
+            "bbox": [
+                1946.3446579290883,
+                231.56542434584657,
+                2083.4582850340585,
+                277.5159963969855
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Zulassung gültig bis:",
+            "uuid": "5b6bd465-d4d0-4330-9348-6d93a03eeffb",
+            "vertical": false,
+            "translation": "Approval valid until:"
+        },
+        {
+            "bbox": [
+                1655.3962296819568,
+                243.26193359522733,
+                1861.9027290412714,
+                267.49041704037313
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Sonstige Bestimmungen",
+            "uuid": "004d1ff1-dbab-4da8-87d5-fb702d1cb016",
+            "vertical": false,
+            "translation": "Other provisions"
+        },
+        {
+            "bbox": [
+                1278.2647890798835,
+                217.63476736188198,
+                1399.272575273772,
+                242.10704620590096
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Mindestgehalt",
+            "uuid": "26f8b466-0e93-4041-b29c-d641e2be44dd",
+            "vertical": false,
+            "translation": "Minimum content"
+        },
+        {
+            "bbox": [
+                1278.2647890798835,
+                268.49871946905887,
+                1558.695531687942,
+                296.8097871513559
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Aktivität/kg des Alleinfuttermittels",
+            "uuid": "b93fdc8b-8639-4e71-9b83-dcd0a8a8954c",
+            "vertical": false,
+            "translation": "Activity/kg of complete feed"
+        },
+        {
+            "bbox": [
+                1442.4896417715893,
+                217.15491875709722,
+                1553.4134457826535,
+                244.02644062503973
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Höchstgehalt",
+            "uuid": "627325cf-961b-4b76-8a89-8290f3ae5320",
+            "vertical": false,
+            "translation": "Maximum content"
+        },
+        {
+            "bbox": [
+                152.1370948401691,
+                373.65282654163246,
+                187.3883729128912,
+                402.39002492584933
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "24",
+            "uuid": "da09929a-122f-4419-a3c5-2a0ce8f464b6",
+            "vertical": false,
+            "translation": "24"
+        },
+        {
+            "bbox": [
+                240.02020768730029,
+                375.4844397003416,
+                503.68772647679765,
+                433.98111268174085
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Endo-1,4-beta-xylanase EC 3.2.1.8",
+            "uuid": "47e61ea4-09a2-40ea-b930-b939471584e5",
+            "vertical": false,
+            "translation": "Endo-1,4-beta-xylanase EC 3.2.1.8"
+        },
+        {
+            "bbox": [
+                960.1334948754575,
+                375.4686281895612,
+                1078.8746420677846,
+                410.6948713702142
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Legehennen",
+            "uuid": "dd86d3fa-07e3-4aeb-9af4-1396a7ab905e",
+            "vertical": false,
+            "translation": "Laying hens"
+        },
+        {
+            "bbox": [
+                1161.4368459749496,
+                378.24964738803385,
+                1208.7477718093924,
+                406.9868457722505
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "⸺",
+            "uuid": "3c24c9f9-531d-406e-a734-42e303991000",
+            "vertical": false,
+            "translation": "⸺"
+        },
+        {
+            "bbox": [
+                597.094605330476,
+                379.1766537875249,
+                943.5277129776632,
+                515.5643359843208
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Zubereitung von Endo-1,4-beta-xylanase und Endo-1,3(4)-beta-glucanase aus Aspergillus niger (CNCM I-1517) mit einer Mindest aktivität von:",
+            "uuid": "8a520518-f3e5-4d08-b40a-0ae710033b38",
+            "vertical": false,
+            "translation": "Preparation of endo-1,4-beta-xylanase and endo-1,3(4)-beta-glucanase from Aspergillus niger (CNCM I-1517) with a minimum activity of:"
+        },
+        {
+            "bbox": [
+                1274.5900684084222,
+                378.18310728016496,
+                1382.185333923419,
+                411.51616713465376
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "560 QXU",
+            "uuid": "fa5fd672-a41c-41f4-be78-8367da61786b",
+            "vertical": false,
+            "translation": "560 QXU"
+        },
+        {
+            "bbox": [
+                1477.7706834170085,
+                377.2275660364679,
+                1518.157372761052,
+                412.69853268976357
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "⸺",
+            "uuid": "c0560886-6119-480d-b4ec-5bd7398a09bc",
+            "vertical": false,
+            "translation": "⸺"
+        },
+        {
+            "bbox": [
+                1960.777721158578,
+                370.5249366804925,
+                2072.86375273186,
+                411.2545475430797
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "1.10.2006",
+            "uuid": "06eb144d-c947-4f11-aa76-b2eccd0349c6",
+            "vertical": false,
+            "translation": "1.10.2006"
+        },
+        {
+            "bbox": [
+                1589.3475922350503,
+                377.91726005453796,
+                1921.2628968733013,
+                513.2625813688015
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "1. In der Gebrauchsanweisung sind für den Zusatzstoff und die Vormischung die Lagertemperatur, die Haltbarkeit und die Pelletierstabilität anzugeben",
+            "uuid": "040b4400-bf7a-4c08-ae35-df95a3a29147",
+            "vertical": false,
+            "translation": "1. The instructions for use shall specify the storage temperature, shelf life and pelleting stability of the additive and the premixture"
+        },
+        {
+            "bbox": [
+                1590.1836509369098,
+                522.5328527681856,
+                1922.9350142770202,
+                642.8398050475312
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "2. Empfohlene Dosis je kg Alleinfuttermittel: 560 QXU 2 800 QGU",
+            "uuid": "3362b7f1-ea8d-42c3-b2ee-398a54fcf2f8",
+            "vertical": false,
+            "translation": "2. Recommended dose per kg of complete feed: 560 QXU 2 800 QGU"
+        },
+        {
+            "bbox": [
+                1589.8373440836594,
+                654.5363142969118,
+                1920.9165900200508,
+                840.0095323942359
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "3. Für die Verwendung in Mischfuttermitteln mit hohem Gehalt an anderen Polysacchariden als Stärke (überwiegend Arabinoxylane und Beta-Glucane), z. B. mit mehr als 20 % Weizen und/oder Gerste",
+            "uuid": "ce11f438-04d8-41d9-a8c0-665138d1b636",
+            "vertical": false,
+            "translation": "3. For use in compound feeds with a high content of polysaccharides other than starch (mainly arabinoxylans and beta-glucans), e.g. containing more than 20% wheat and/or barley"
+        },
+        {
+            "bbox": [
+                238.83784213219042,
+                442.2576715675099,
+                504.87009203190746,
+                502.5583148781124
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Endo-1,3(4)-beta-glucanase EC 3.2.1.6",
+            "uuid": "1d8e063e-eba6-4a2d-9134-264dfffcd1f6",
+            "vertical": false,
+            "translation": "Endo-1,3(4)-beta-glucanase EC 3.2.1.6"
+        },
+        {
+            "bbox": [
+                603.0064331060254,
+                520.2937982047603,
+                781.5436319276132,
+                555.7647648580557
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "28 000 QXU/g (⁴)",
+            "uuid": "e1ee94ac-d3fe-47ee-af63-9fb7740ae3d7",
+            "vertical": false,
+            "translation": "28,000 QXU/g (⁴)"
+        },
+        {
+            "bbox": [
+                603.0064331060254,
+                559.3118615233853,
+                793.3672874787118,
+                593.6004626215713
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "140 000 QGU/g (⁵)",
+            "uuid": "abf0d719-080d-4f02-9893-d174a3d21c23",
+            "vertical": false,
+            "translation": "140,000 QGU/g (⁵)"
+        },
+        {
+            "bbox": [
+                1271.0429717430927,
+                415.06326379998336,
+                1396.3737205847372,
+                444.62240267772967
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "2 800 QGU",
+            "uuid": "e0790ce2-5df4-4f54-b220-3b1fc91d72b5",
+            "vertical": false,
+            "translation": "2,800 QGU"
+        },
+        {
+            "bbox": [
+                1476.774578332207,
+                413.8808982448734,
+                1516.9750072059421,
+                446.9871337879491
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "⸺",
+            "uuid": "799380cc-cc41-4a78-be39-4e16079a7db1",
+            "vertical": false,
+            "translation": "⸺"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

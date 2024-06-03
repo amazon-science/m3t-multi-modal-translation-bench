@@ -1,0 +1,1659 @@
+{
+    "file": "jrc22006D0097.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                79.2184921923602,
+                113.3716948002228,
+                191.5432199277963,
+                147.68228785470703
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 289/46",
+            "uuid": "ab286262-1f06-4aff-981f-36c72b48f633",
+            "vertical": false,
+            "translation": "L 289/46"
+        },
+        {
+            "bbox": [
+                301.81719137130625,
+                114.25637402694554,
+                334.42348074382966,
+                140.1908169054317
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "3208c738-374c-4800-85b2-29a27e5c904e",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                606.1425588481911,
+                111.85919747019699,
+                982.3689746849996,
+                146.99618459588788
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de la Unión Europea",
+            "uuid": "8d1cba82-0c4f-4481-995b-df4880f2a752",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1371.9723297515611,
+                111.01348663365617,
+                1501.5614285397949,
+                143.6406889646551
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "19.10.2006",
+            "uuid": "0ef6c0f6-8df0-4486-b62c-770f9d2c38cc",
+            "vertical": false,
+            "translation": "19.10.2006"
+        },
+        {
+            "bbox": [
+                272.5551368062212,
+                213.9811556993939,
+                473.20922525251893,
+                247.44495296195672
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "2. Champiñones",
+            "uuid": "23b5165b-7a79-47d9-8fd8-18772f01ebaf",
+            "vertical": false,
+            "translation": "2. Mushrooms"
+        },
+        {
+            "bbox": [
+                1041.7291425170292,
+                207.2862513280636,
+                1101.9253690509188,
+                249.115997906267
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "d7c704a1-5454-49d3-8c06-3f022099ef0f",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                262.6924132853948,
+                192.46618527332075,
+                1376.3058175766528,
+                828.2674884576827
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "3b102702-e90c-4cf4-a75c-2c062180f6b4",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1255.9132662312336,
+                215.83612268435004,
+                1289.4562913541795,
+                243.93666686561292
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "025da380-45d7-44d6-a969-8fcdd1674db6",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1313.6384722567684,
+                215.83612268435004,
+                1345.6213566763217,
+                243.15609619391148
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "851f3c72-2a9b-4111-b46e-ad7fa26f155c",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                273.0246230937464,
+                257.9624232759836,
+                546.0492461874928,
+                289.96582081575525
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "3. Superficies de regadío",
+            "uuid": "0121e3f3-8c9a-4ac1-9206-ecd7aef40486",
+            "vertical": false,
+            "translation": "3. Irrigated areas"
+        },
+        {
+            "bbox": [
+                1307.2754941044566,
+                255.3298652570011,
+                1355.8156812273226,
+                289.5505677966514
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "NE",
+            "uuid": "33d4e8e7-784f-4dbd-ba7e-2c5049d10abf",
+            "vertical": false,
+            "translation": "NE"
+        },
+        {
+            "bbox": [
+                329.7715966051854,
+                297.28076514895014,
+                646.5600594857572,
+                336.2551476139795
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "a) superficies de regadío total",
+            "uuid": "c030a532-c80f-4636-b7d3-f91c954e6ce3",
+            "vertical": false,
+            "translation": "a) total irrigated areas"
+        },
+        {
+            "bbox": [
+                1041.676409995314,
+                301.1062522464398,
+                1096.7591813816703,
+                335.40195907933946
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "e1894167-a85e-4148-b540-be351b2cbcd1",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                325.60038197268335,
+                340.2463897329475,
+                696.4910426408152,
+                376.9917899110545
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "b) superficies de regadío cultivadas",
+            "uuid": "f7f2859e-5dee-4fe8-9a05-4d91b5ff1e9a",
+            "vertical": false,
+            "translation": "b) cultivated irrigated areas"
+        },
+        {
+            "bbox": [
+                1044.1245331680411,
+                341.50970563131557,
+                1101.6554277271243,
+                375.80541246421524
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "4f25d2e7-caa4-463a-a775-b2a4cbde64ad",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                274.18979534541756,
+                384.37933917244027,
+                976.80114591805,
+                444.39682613001486
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "8. Superficies que ya no se utilizan a efectos de producción en régimen de ayudas y superficies retiradas en régimen de ayudas, divididas en:",
+            "uuid": "851a551d-5ec3-433a-b59f-706791bec491",
+            "vertical": false,
+            "translation": "8. Areas that are no longer used for production purposes under the subsidy scheme and areas set aside under the subsidy scheme, divided into:"
+        },
+        {
+            "bbox": [
+                1045.3485947544045,
+                394.1781125532689,
+                1100.4313661407607,
+                434.59805274918625
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "38a016ea-3a8e-4ae2-a58f-5bfe1cf3e795",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                329.2725667317738,
+                452.9707528382399,
+                971.9048995725963,
+                516.6627798136251
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "a) superficies que ya no se utilizan a efectos de producción en régimen de ayudas (ya incluidas en D/22 y F/3)",
+            "uuid": "defd4580-3a78-4411-aafb-826a3cc428b8",
+            "vertical": false,
+            "translation": "a) areas no longer used for production purposes, under the subsidy regime (already included in D/22 and F/3)"
+        },
+        {
+            "bbox": [
+                1046.572656340768,
+                461.5446795464647,
+                1097.9832429680337,
+                501.96461974238235
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "a2847e1e-5ec3-409f-ab8b-5fe1ebc0035f",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                325.60038197268335,
+                522.7870131766425,
+                967.0086532271423,
+                640.3722937465845
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "b) superficies utilizadas para la producción de materias primas agrícolas destinadas al sector no alimentario (por ejemplo, remolacha azucarera, colza, árboles, arbustos, etc., incluidas las lentejas, los garbanzos y las vezas; ya incluidas en D y G)",
+            "uuid": "054d8661-81ef-42be-b38a-df9f8fa018c4",
+            "vertical": false,
+            "translation": "b) areas used for the production of agricultural raw materials for the non-food sector (e.g. sugar beet, rapeseed, trees, shrubs, etc., including lentils, chickpeas and vetches; already included in D and G)"
+        },
+        {
+            "bbox": [
+                1042.9004715816775,
+                561.982106699957,
+                1096.7591813816703,
+                596.2778135328566
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "2d912d4c-b3ef-4fad-b64b-f33d4d8e5347",
+            "vertical": true,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                325.60038197268335,
+                644.0468337643952,
+                968.2327148135057,
+                707.7388607397804
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "c) superficies transformadas en praderas permanentes y pastos (ya incluidas en F/1 y F/2) (¹)",
+            "uuid": "1a27a150-edbc-4052-9017-8b195b0a0368",
+            "vertical": false,
+            "translation": "c) areas converted into permanent meadows and pastures (already included in F/1 and F/2) (¹)"
+        },
+        {
+            "bbox": [
+                1044.1245331680411,
+                651.3959138000167,
+                1099.2073045543973,
+                694.2655473411414
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "42089f3b-f9be-4a1c-a3ae-20830781d13f",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                325.60038197268335,
+                713.8630941027983,
+                970.6808379862327,
+                775.1054277329762
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "d) superficies agrícolas transformadas en superficies forestales o en curso de población forestal (ya incluidas en H/2) (¹)",
+            "uuid": "94e2e1e8-e991-4a0a-8abd-c92ed4ff7d1f",
+            "vertical": false,
+            "translation": "d) agricultural areas converted into forest areas or in the process of afforestation (already included in H/2) (¹)"
+        },
+        {
+            "bbox": [
+                1042.973796195684,
+                728.3314445924838,
+                1098.0742986362106,
+                761.1503985767932
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "c42ce33e-10a3-4c9f-971a-d69d07acb070",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                326.66726446883683,
+                778.2162546486343,
+                833.0671202317726,
+                817.5989994298055
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "e) otras superficies (ya incluidas en H/1 y H/3) (¹)",
+            "uuid": "e98da892-0d61-4d64-89e3-baf3925d8d62",
+            "vertical": false,
+            "translation": "e) other areas (already included in H/1 and H/3) (¹)"
+        },
+        {
+            "bbox": [
+                1045.597629645233,
+                779.5290128080064,
+                1099.386215360985,
+                814.9734831110604
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "ha/a",
+            "uuid": "84427d59-fb18-49d3-a875-55582b7952b8",
+            "vertical": false,
+            "translation": "ha/a"
+        },
+        {
+            "bbox": [
+                1311.9167247744451,
+                301.7170173111825,
+                1351.2742265176785,
+                329.28493865800266
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "NE",
+            "uuid": "8e417997-3c16-4659-9a12-23215c9db44d",
+            "vertical": false,
+            "translation": "NE"
+        },
+        {
+            "bbox": [
+                1310.6048080496707,
+                345.1045099037078,
+                1352.586143242453,
+                371.35967309115534
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "NE",
+            "uuid": "0224d256-e8f6-4776-81ac-633bad6686be",
+            "vertical": false,
+            "translation": "NE"
+        },
+        {
+            "bbox": [
+                1252.8804721595952,
+                396.05133060904694,
+                1293.549890627603,
+                433.08399586940106
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "d6b535b9-e91d-41b5-895c-9cf4e2e9845d",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1306.6690578753473,
+                397.6148362786029,
+                1351.2742265176785,
+                433.0593065816569
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "3573fba6-b5e0-4cff-b6aa-4a8f0dcac9fb",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1250.2566387100462,
+                465.8782605659664,
+                1294.8618073523771,
+                501.32273086902046
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "8c05d723-4c80-45f5-8e05-9a69be9c5267",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1309.2928913248963,
+                465.8782605659664,
+                1346.0265596185807,
+                501.32273086902046
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "ad8d34c5-0a0d-479f-bf85-be3d6d31b2e6",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1254.1923888843694,
+                557.7713317220328,
+                1293.549890627603,
+                598.4668346625763
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "ebcdc1f3-327b-452c-8ef1-7f609172c11b",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1309.2928913248963,
+                555.1458154032882,
+                1353.8980599672275,
+                598.4668346625763
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "93a7d2f0-dc82-4bcb-b5ee-27e664007521",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1255.0362600459814,
+                657.5145478055684,
+                1293.1201189715143,
+                689.5601511657035
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "e484713f-ba0d-479d-8174-82d238536a30",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1308.6998794410508,
+                654.9162556412332,
+                1346.783738366584,
+                688.6940537775919
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "e3e465e9-00a7-4ac8-b024-273ace4d0f5e",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1254.2553076922072,
+                728.7261010248662,
+                1292.6704779124893,
+                760.438943340521
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "a4de31cb-dab2-435e-bc81-8e0c2fc24d94",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1308.0365460006021,
+                727.7651058031798,
+                1350.2932332429123,
+                756.5949624537752
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "50226c6a-9d8b-464a-9ff8-c09e660fefdf",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1252.3345491811933,
+                781.5808382176242,
+                1294.5912364235035,
+                811.3716900899055
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "f3ba466d-15ed-4854-8663-e60fe948a1f6",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                1308.9969252561093,
+                783.5028286609974,
+                1350.2932332429123,
+                812.3326853115922
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "NR",
+            "uuid": "5a063d39-dcf4-4a33-a344-ea1c8e328cd3",
+            "vertical": false,
+            "translation": "NR"
+        },
+        {
+            "bbox": [
+                215.50051146073486,
+                847.2850576388403,
+                724.8653567315627,
+                884.9841360933399
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "J. Ganado (el día de referencia de la encuesta)",
+            "uuid": "9a952d73-1dcc-42ca-a331-0baed211c1da",
+            "vertical": false,
+            "translation": "J. Livestock (the reference day of the survey)"
+        },
+        {
+            "bbox": [
+                266.7383953045459,
+                892.5307176660092,
+                411.41006733413013,
+                927.2138698441487
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "1. Equino",
+            "uuid": "a5202c13-ba81-4e0f-a953-6f388b443df0",
+            "vertical": false,
+            "translation": "1. Equine"
+        },
+        {
+            "bbox": [
+                967.4918066978446,
+                891.0227545278292,
+                1170.9363454894474,
+                931.7377592586887
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "59b4b8b9-de58-44e4-896d-f2619a3059a2",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                1202.5832737459189,
+                850.3145156787391,
+                1231.2162088351076,
+                880.4737784423386
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "LI",
+            "uuid": "125fc726-1381-4a5f-a6e1-92ab6f1662fd",
+            "vertical": false,
+            "translation": "LI"
+        },
+        {
+            "bbox": [
+                1258.3421473406545,
+                851.8224788169191,
+                1291.4960721807677,
+                883.4897047186986
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "N",
+            "uuid": "2bee47dd-b1c1-4a24-859b-0d11fe4ed4cb",
+            "vertical": false,
+            "translation": "N"
+        },
+        {
+            "bbox": [
+                1314.10102093539,
+                848.8065525405591,
+                1348.7619423591448,
+                878.9658153041586
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "IS",
+            "uuid": "aa39dd6d-a15f-483c-8362-1834d503e221",
+            "vertical": false,
+            "translation": "IS"
+        },
+        {
+            "bbox": [
+                276.29423477680825,
+                936.5643698876868,
+                355.7376152597073,
+                961.8899983306661
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Bovino:",
+            "uuid": "5529e3bd-eeb3-42e1-87d5-4858bd825602",
+            "vertical": false,
+            "translation": "Bovine:"
+        },
+        {
+            "bbox": [
+                269.5986983900202,
+                973.0449583755185,
+                813.058525184132,
+                1008.23256008147
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "2. Bovinos, machos y hembras, de menos de un año",
+            "uuid": "c93d7997-a39e-4409-aa52-697e7d29ce89",
+            "vertical": false,
+            "translation": "2. Bovine animals, male and female, less than one year old"
+        },
+        {
+            "bbox": [
+                970.7684357047763,
+                970.913059911214,
+                1164.7090013450281,
+                1008.2332435387386
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "eb8bde01-5d83-42ec-8295-e412e75e16e2",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                273.8611284040917,
+                1017.8312291003534,
+                869.5357228705791,
+                1050.886248884732
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "3. Bovinos machos, de más de un año, pero menos de dos",
+            "uuid": "09c653ff-6f2b-4a95-859e-4f76c4e7a890",
+            "vertical": false,
+            "translation": "3. Male bovine animals, over one year but less than two years old"
+        },
+        {
+            "bbox": [
+                977.1620807258836,
+                1018.8975200611399,
+                1167.9058238555815,
+                1050.886248884732
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "81cad6cc-1e15-421d-a98a-92bde7f656f7",
+            "vertical": false,
+            "translation": "Number of heads"
+        },
+        {
+            "bbox": [
+                272.7955209005738,
+                1058.3502856102373,
+                879.1261904022398,
+                1091.405305394616
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "4  Bovinos hembras , de más de un año, pero menos de dos",
+            "uuid": "34748bd3-a59e-48a5-bdc9-ddf0c1108d59",
+            "vertical": false,
+            "translation": "4 Female bovine animals, over one year old but less than two years old"
+        },
+        {
+            "bbox": [
+                970.7684357047763,
+                1059.4165765710234,
+                1173.2338613731708,
+                1088.2064325122567
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "545e7626-a667-4735-9fe5-24a012fca937",
+            "vertical": false,
+            "translation": "Number of heads"
+        },
+        {
+            "bbox": [
+                270.6643058935381,
+                1098.8693421201208,
+                689.4480547760596,
+                1131.9243619044996
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "5. Bovinos machos, de dos años o más",
+            "uuid": "86c75564-5eaf-49bb-8aa2-2925c4c84d2e",
+            "vertical": false,
+            "translation": "5. Male bovines, two years old and over"
+        },
+        {
+            "bbox": [
+                968.6372206977405,
+                1098.8693421201208,
+                1171.102646366135,
+                1131.9243619044996
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "76d30e1f-4342-498f-8d0f-959f8b784ee6",
+            "vertical": false,
+            "translation": "Number of heads"
+        },
+        {
+            "bbox": [
+                273.8611284040917,
+                1142.587271512364,
+                611.6587070192554,
+                1172.4434184143834
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "6. Novillas, de dos años o más",
+            "uuid": "cbfe411b-1117-460f-a5ef-dbbb40f45f3d",
+            "vertical": false,
+            "translation": "6. Heifers, two years old and over"
+        },
+        {
+            "bbox": [
+                976.0964732223656,
+                1138.322107669218,
+                1164.7090013450281,
+                1169.244545532024
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "a8b40070-da40-405e-a12a-4d24dd45db49",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                263.20505336891296,
+                1180.9737461006746,
+                482.7201990935935,
+                1215.0950568458397
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "7. Vacas lecheras",
+            "uuid": "07d25be4-eab5-4a6b-9e3c-3cab667a055c",
+            "vertical": false,
+            "translation": "7. Dairy cows"
+        },
+        {
+            "bbox": [
+                971.8340432082942,
+                1179.9074551398883,
+                1166.8402163520639,
+                1219.3602206889857
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "2e75edd1-c5e9-4547-9636-fa0a8cd35734",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                268.5330908865023,
+                1225.7579664537038,
+                456.0800115056468,
+                1259.8792771988692
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "8. Otras vacas",
+            "uuid": "44c534ad-9744-4ec0-9a35-a57236e8e676",
+            "vertical": false,
+            "translation": "8. Other cows"
+        },
+        {
+            "bbox": [
+                975.0308657188477,
+                1226.8242574144904,
+                1166.8402163520639,
+                1257.7466952772963
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "24f06d44-34b3-4b48-9d9c-0b70d8a0c24c",
+            "vertical": false,
+            "translation": "Number of heads"
+        },
+        {
+            "bbox": [
+                268.3969810099368,
+                1266.9106706800708,
+                442.20471761108536,
+                1302.4043876329858
+            ],
+            "order": "64",
+            "label": "Text",
+            "text": "Ovino y caprino:",
+            "uuid": "365ef86a-9073-49d8-a9ef-618ece4aa42a",
+            "vertical": false,
+            "translation": "Sheep and goats:"
+        },
+        {
+            "bbox": [
+                273.1264432303762,
+                1310.686254921999,
+                579.3591220038284,
+                1340.2643523827614
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "9. Ovinos (todas las edades)",
+            "uuid": "7cd619d4-739e-4708-9899-01f72839c99c",
+            "vertical": false,
+            "translation": "9. Sheep (all ages)"
+        },
+        {
+            "bbox": [
+                973.0868518554096,
+                1307.1368832267078,
+                1171.724265113865,
+                1344.9968479764834
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "202303bb-e8be-42ab-85af-2073bcec93be",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                327.51525876542945,
+                1348.546219671775,
+                684.5896564086053,
+                1387.5893083199812
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "a) ovinos, hembras reproductoras",
+            "uuid": "b5d3883d-f12e-41b3-a26f-fe18b80147b9",
+            "vertical": false,
+            "translation": "a) sheep, breeding females"
+        },
+        {
+            "bbox": [
+                976.6339485207392,
+                1352.0955913670664,
+                1171.724265113865,
+                1380.4905649293983
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "b7108c13-6864-47fe-849b-14061de68e4b",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                327.51525876542945,
+                1391.025686860497,
+                576.9943908936086,
+                1425.3362799149816
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "b) otro ganado ovino",
+            "uuid": "f13d643c-9b22-4025-bf7d-6c57f532f622",
+            "vertical": false,
+            "translation": "b) other sheep"
+        },
+        {
+            "bbox": [
+                973.0868518554096,
+                1391.025686860497,
+                1165.8124373383157,
+                1426.5194038134118
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "8c9709ef-bb3a-47b0-877b-94e4d5108b84",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                273.1264432303762,
+                1433.6181472039948,
+                599.4593364406959,
+                1467.9287402584794
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "10. Caprinos (todas las edades)",
+            "uuid": "eb1f4f5d-1e05-4ab0-ab89-5bea1c317c6e",
+            "vertical": false,
+            "translation": "10. Goats (all ages)"
+        },
+        {
+            "bbox": [
+                974.2692174105193,
+                1438.3506427977168,
+                1166.9948028934257,
+                1467.9287402584794
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "b0db4540-12a2-4993-abbe-1eac7e842f80",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                322.78579654499003,
+                1478.5768553443538,
+                698.7780430699236,
+                1511.704324500408
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "a) caprinos, hembras reproductoras",
+            "uuid": "f2a96a76-00ce-480e-95f6-8d5f23b8f706",
+            "vertical": false,
+            "translation": "a) goats, breeding females"
+        },
+        {
+            "bbox": [
+                971.9044863002998,
+                1478.5768553443538,
+                1168.1771684485354,
+                1506.971828906686
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "d43f2f4b-7149-4cba-b6fc-25d32ece8ef8",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                321.60343098988017,
+                1516.4368200941296,
+                593.5475086651466,
+                1554.2967848439057
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "b) otro ganado caprino",
+            "uuid": "18be4f3e-0293-4976-9865-a542d9b6cf77",
+            "vertical": false,
+            "translation": "b) other goats"
+        },
+        {
+            "bbox": [
+                971.9044863002998,
+                1519.9861917894211,
+                1166.9948028934257,
+                1549.5642892501835
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "d0b0b785-d243-4b30-81f7-e761a2f598aa",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                273.1264432303762,
+                1562.49312673034,
+                355.9765511520881,
+                1593.3147823914917
+            ],
+            "order": "78",
+            "label": "Text",
+            "text": "Porcino:",
+            "uuid": "752be757-9cdd-45f3-b587-150a65d917b6",
+            "vertical": false,
+            "translation": "Pigs:"
+        },
+        {
+            "bbox": [
+                276.67353989570574,
+                1600.2194556630293,
+                782.7259974827232,
+                1638.0794204128051
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "11. Lechones con un peso vivo de menos de 20 kg",
+            "uuid": "efce8127-436c-4cca-a31f-55bdebcb37cd",
+            "vertical": false,
+            "translation": "11. Piglets having a live weight of less than 20 kg"
+        },
+        {
+            "bbox": [
+                970.72212074519,
+                1601.4025795614596,
+                1163.447706228096,
+                1632.1638009206526
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "af66d55b-ca29-4066-a422-efdd667562a5",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                271.9440776752663,
+                1641.6287921080966,
+                697.5956775148137,
+                1678.305632959442
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "12. Cerdas reproductoras de 50 kg o más",
+            "uuid": "12091de8-fce7-4ba9-bc29-ca57de452240",
+            "vertical": false,
+            "translation": "12. Breeding sows weighing 50 kg and over"
+        },
+        {
+            "bbox": [
+                965.9926585247504,
+                1638.0794204128051,
+                1165.8124373383157,
+                1675.9393851625812
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "d7e52c18-49de-4251-b4bf-ab49b260902e",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                275.49117434059593,
+                1682.3617931767458,
+                541.3398493082502,
+                1716.5364344248767
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "13. Otro ganado porcino",
+            "uuid": "b465eb59-da43-485a-9357-e82fcfab6d9a",
+            "vertical": false,
+            "translation": "13. Other pigs"
+        },
+        {
+            "bbox": [
+                971.9044863002998,
+                1681.8550046547336,
+                1168.1771684485354,
+                1720.8980933029395
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "997f9504-a518-46a2-92d7-6b335c462648",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                274.8071283318367,
+                1730.1845380365196,
+                429.6584798449244,
+                1754.9233546924775
+            ],
+            "order": "86",
+            "label": "Text",
+            "text": "Aves de corral:",
+            "uuid": "e7152cf5-09b3-4aad-8a39-c7c73eb48427",
+            "vertical": false,
+            "translation": "Poultry:"
+        },
+        {
+            "bbox": [
+                277.8559054508156,
+                1763.4905536464375,
+                467.0343942683922,
+                1801.3505183962136
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "14. Pollos de cría",
+            "uuid": "29a4017c-04f1-4071-88d9-8176315938f9",
+            "vertical": false,
+            "translation": "14. Broilers"
+        },
+        {
+            "bbox": [
+                971.9044863002998,
+                1768.2230492401598,
+                1171.724265113865,
+                1800.167394497783
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "3ef74e74-e227-4ece-890d-0ddf4d1b8eb1",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                266.03224989971704,
+                1810.8155095836578,
+                442.2047176110853,
+                1843.9429787397116
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "15. Ponedoras",
+            "uuid": "5301a747-3912-424c-8202-ca6c558ef54d",
+            "vertical": false,
+            "translation": "15. Layers"
+        },
+        {
+            "bbox": [
+                970.72212074519,
+                1813.1817573805185,
+                1165.8124373383157,
+                1842.759854841281
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "f8a135fe-aea7-4e3f-8ca1-479929363c79",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                270.7617121201565,
+                1851.0417221302944,
+                532.0644997994341,
+                1885.352315184779
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "16. Otras aves de corral",
+            "uuid": "01fa5c8d-94d1-418b-b9bf-97629190a805",
+            "vertical": false,
+            "translation": "16. Other poultry"
+        },
+        {
+            "bbox": [
+                969.53975519008,
+                1848.6754743334334,
+                1174.0889962240847,
+                1893.6341824737924
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "d11b8bb5-0f83-4d2a-8078-2201d30fca25",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                1252.125122861335,
+                1853.4079699271556,
+                1292.32555173507,
+                1886.5354390832092
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "1ffdbae7-eac5-42d8-a202-e5021339363b",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1311.243400616828,
+                1858.1404655208776,
+                1349.079098380343,
+                1881.8029434894875
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "f1907144-4dbd-4b64-8c15-6aae61578de8",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                266.42021544540364,
+                1899.6007716653812,
+                414.2456579726095,
+                1930.554411159085
+            ],
+            "order": "96",
+            "label": "Text",
+            "text": "de las cuales:",
+            "uuid": "8b3a0bf7-25a8-462a-af35-5327ff2d2898",
+            "vertical": false,
+            "translation": "of which:"
+        },
+        {
+            "bbox": [
+                316.8739687694408,
+                1938.592890614151,
+                451.6636420519641,
+                1976.4528553639273
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "a) pavos",
+            "uuid": "0bf1144f-428c-4867-aeab-07debc9022f9",
+            "vertical": false,
+            "translation": "a) turkeys"
+        },
+        {
+            "bbox": [
+                974.2692174105193,
+                1935.0435189188597,
+                1170.5418995587552,
+                1970.5372358717748
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "4b661758-3df2-428e-ac9e-b597d6f82c7a",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                323.3978320542794,
+                1979.403981230017,
+                445.7265772226372,
+                2014.5784651785998
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "b) patos",
+            "uuid": "02ada222-a19e-4905-a34b-4a84a8ab854d",
+            "vertical": false,
+            "translation": "b) ducks"
+        },
+        {
+            "bbox": [
+                970.193496162838,
+                1980.8109605879604,
+                1169.856505518089,
+                2020.2063826103729
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "08ad4dfa-8a0b-47e8-b517-7a66f1b82fc6",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                327.61606464629165,
+                2025.834300042146,
+                438.6961895692833,
+                2063.8227427066154
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "c) ocas",
+            "uuid": "6ba413f7-b15d-4d2b-aadd-8f442435c362",
+            "vertical": false,
+            "translation": "c) geese"
+        },
+        {
+            "bbox": [
+                977.223883816192,
+                2028.6482587580329,
+                1164.2321953954056,
+                2061.0087839907287
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "b6103897-a257-4aca-aecc-74d7eb08fc4b",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                317.77352193159624,
+                2069.4506601383882,
+                842.2404408717971,
+                2107.4391028028576
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "d) otras aves de corral no incluidas en otra parte",
+            "uuid": "a09bbfad-c534-45be-a991-7978331db5ad",
+            "vertical": false,
+            "translation": "d) other poultry not mentioned elsewhere"
+        },
+        {
+            "bbox": [
+                974.4117287548504,
+                2070.8576394963316,
+                1164.2321953954056,
+                2101.8111853710843
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "7672bb57-6f8a-4dbf-ae58-64e788e5bfb2",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                264.3425757661066,
+                2108.846082160801,
+                504.78183351081,
+                2148.2415041832137
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "17. Conejas con crías",
+            "uuid": "42fd478a-ead0-4c96-b88b-562610fe066e",
+            "vertical": false,
+            "translation": "17. Female rabbits with young"
+        },
+        {
+            "bbox": [
+                970.193496162838,
+                2108.846082160801,
+                1172.6686605794303,
+                2148.2415041832137
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "número de cabezas",
+            "uuid": "28d46c66-f947-4b1e-8306-fdff678c203c",
+            "vertical": false,
+            "translation": "number of heads"
+        },
+        {
+            "bbox": [
+                1255.6272348890063,
+                1940.0085592076045,
+                1292.1852506864466,
+                1972.3690844403006
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "0f6330f8-4221-4f50-ad87-68fbf184a061",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1306.1526191155983,
+                1941.2398683017589,
+                1350.680549312721,
+                1971.8724547879149
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "ecbc2585-080f-4468-a04e-88a44c353813",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1250.4927063691948,
+                1983.9398373430672,
+                1295.948301778758,
+                2016.4289442223235
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "5545c7be-2eed-4ae7-893e-b2237bb5c453",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1306.1526191155983,
+                1982.0833169499667,
+                1346.9698884629609,
+                2012.7159034361227
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "c1dcce92-e9df-4ed2-bc99-15d1f29eaf63",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1250.4927063691948,
+                2023.855025794725,
+                1295.0206365663178,
+                2058.2006530670815
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "04027b44-b5c2-4664-9cef-38d16d3d7f91",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1309.8632799653585,
+                2027.5680665809257,
+                1349.7528841002809,
+                2058.2006530670815
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "c15f1a40-8063-4c4f-a18a-22b3fba33a6b",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1255.1310324313952,
+                2072.124556015334,
+                1293.1653061414377,
+                2097.187581322189
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "NE",
+            "uuid": "94206fed-00e8-45df-8fa8-f1e5740a76eb",
+            "vertical": false,
+            "translation": "NE"
+        },
+        {
+            "bbox": [
+                1313.573940815119,
+                2072.124556015334,
+                1343.2592276132007,
+                2101.8288823049397
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "NE",
+            "uuid": "c1f01c00-d2e2-48e9-88f3-41036e8b8cb3",
+            "vertical": false,
+            "translation": "NE"
+        },
+        {
+            "bbox": [
+                1255.1310324313952,
+                2112.968004663542,
+                1292.2376409289973,
+                2140.8158105600473
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "a1e10a9e-5515-442e-bba7-3b1e7979777b",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                1311.7186103902388,
+                2114.8245250566424,
+                1347.897553675401,
+                2143.6005911496977
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "NS",
+            "uuid": "164e7441-b1c8-4350-9153-ca7f96bb301f",
+            "vertical": false,
+            "translation": "NS"
+        },
+        {
+            "bbox": [
+                218.66720027373518,
+                2193.13705792812,
+                726.6270319655175,
+                2223.0362123975856
+            ],
+            "order": "118",
+            "label": "Footnote",
+            "text": "(¹) Alemania puede reagrupar las rúbricas 8 c), 8 d) y 8 d).",
+            "uuid": "72cda214-8a6f-4e24-8a23-58772c9ab1a0",
+            "vertical": false,
+            "translation": "(¹) Germany can regroup headings 8 c), 8 d) and 8 d)."
+        },
+        {
+            "bbox": [
+                199.08958006849986,
+                832.6612156628356,
+                1391.0370774606274,
+                1260.1397683924731
+            ],
+            "order": "42",
+            "label": "Table",
+            "text": "",
+            "uuid": "8a085b22-ebf4-44ba-a611-334d049ea754",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                257.3121881127527,
+                1595.1849862751574,
+                1361.083049689315,
+                1724.9736518554134
+            ],
+            "order": "79",
+            "label": "Table",
+            "text": "",
+            "uuid": "ebf6f2ba-2998-4713-a85f-5139dff3da82",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                261.4836732542069,
+                1305.3874230597999,
+                1362.417263393287,
+                1554.6268893742824
+            ],
+            "order": "65",
+            "label": "Table",
+            "text": "",
+            "uuid": "2e84bb7b-6f2e-45f6-a136-cfc95e069a06",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                264.28281709501533,
+                1758.8768021110927,
+                1372.9124991381655,
+                1896.5008179135145
+            ],
+            "order": "87",
+            "label": "Table",
+            "text": "",
+            "uuid": "08122e3c-ac43-4537-ad38-46c6655e32fb",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                246.57060085406994,
+                1929.370253793726,
+                1370.0723064860324,
+                2152.081572119467
+            ],
+            "order": "97",
+            "label": "Table",
+            "text": "",
+            "uuid": "eb74e1b1-9356-4664-94e1-adb031403881",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

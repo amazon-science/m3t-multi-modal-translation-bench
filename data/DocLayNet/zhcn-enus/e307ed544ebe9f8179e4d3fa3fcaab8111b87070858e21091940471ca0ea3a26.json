@@ -1,0 +1,329 @@
+{
+    "file": "e307ed544ebe9f8179e4d3fa3fcaab8111b87070858e21091940471ca0ea3a26.png",
+    "annotations": [
+        {
+            "bbox": [
+                190.0,
+                231.0,
+                1339.0,
+                266.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "择，同时仍然允许不同类型的身份相关实体存储在不同的位置实体中。",
+            "uuid": "2584954c-55e8-402f-a08a-906bdecead2c",
+            "vertical": false,
+            "translation": "Choice, while still allowing different types of identity-related entities to be stored in different location entities."
+        },
+        {
+            "bbox": [
+                274.19605211134393,
+                543.2846783296296,
+                1155.9245334105678,
+                582.7115616397575
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "图 2 显示根据本发明第一实施方式的消息流的示意图。",
+            "uuid": "49d083b8-da17-4d7d-8950-27aa86514c02",
+            "vertical": false,
+            "translation": "FIG. 2 shows a schematic diagram of an information flow according to the first embodiment of the present invention."
+        },
+        {
+            "bbox": [
+                274.19605211134393,
+                604.1901163158126,
+                964.1665100385821,
+                645.4361487240519
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "图 3 显示第二实施方式的消息流的示意图。",
+            "uuid": "8d367a38-d363-4e52-9d00-35cd1f2b6ea7",
+            "vertical": false,
+            "translation": "FIG. 3 shows a schematic diagram of the information flow for the second embodiment."
+        },
+        {
+            "bbox": [
+                275.98818317089524,
+                668.7247521445084,
+                964.1665100385821,
+                709.9528668678975
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "图 4 显示第三实施方式的消息流的示意图。",
+            "uuid": "9f90a855-ba65-43f6-bf72-65665b91cfb4",
+            "vertical": false,
+            "translation": "FIG. 4 shows a schematic diagram of the information flow of the third embodiment."
+        },
+        {
+            "bbox": [
+                275.98818317089524,
+                855.0842023826885,
+                1082.447159968966,
+                898.1266281207805
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "图 6 显示图 4 所示第三实施方式的扩展的示意图。",
+            "uuid": "547e729e-b3af-471a-9ec9-411962655219",
+            "vertical": false,
+            "translation": "FIG. 6 shows a schematic diagram of an extension of the third embodiment shown in FIG. 4."
+        },
+        {
+            "bbox": [
+                277.78031423044655,
+                919.0000000000001,
+                1116.4976501004398,
+                960.851215205075
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "图 7 显示完成一半的、向用户呈现的另一表单的图。",
+            "uuid": "71ed3f5d-9e46-4f3b-b16c-cf8304874908",
+            "vertical": false,
+            "translation": "FIG. 7 shows a diagram of another form that is half completed and presented to the user."
+        },
+        {
+            "bbox": [
+                277.78031423044655,
+                1111.0,
+                1234.7783000308234,
+                1147.2328453984069
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "图 9 显示一个客户端与几个位置实体交互的系统的示意图。",
+            "uuid": "ecf94f8c-23ab-4919-928d-7a1b628665bc",
+            "vertical": false,
+            "translation": "FIG. 9 shows a schematic diagram of a system where a client interacts with several location entities."
+        },
+        {
+            "bbox": [
+                275.98818317089524,
+                1294.1705769470723,
+                1349.4746878421047,
+                1333.6144755917387
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "附图只用于解释目的，而不一定表示缩小了的本发明的实际例子。",
+            "uuid": "2d0f471c-841a-4cf2-a4eb-163e91440e9b",
+            "vertical": false,
+            "translation": "The drawings are provided solely for illustrative purposes and may not necessarily represent a scaled-down practical example of the present invention."
+        },
+        {
+            "bbox": [
+                278.4033510728144,
+                1610.6789541211629,
+                933.6354803653978,
+                1652.8341650326593
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "以下非正式定义用来帮助理解本说明书。",
+            "uuid": "d9dc9e21-6c10-4a41-9c97-ee98255b105e",
+            "vertical": false,
+            "translation": "The subsequent informal definitions are provided to facilitate comprehension of this specification."
+        },
+        {
+            "bbox": [
+                198.99999999999997,
+                1669.6891175123694,
+                1463.7267094282818,
+                1848.278941795898
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "个人：其身份被管理的实体。如果个人行动，则其变为用户，个人或用户一般为单个人，但是至少小企业经常如同单个人那样与其他企业交互，例如，在旅行预定与信息收集中。",
+            "uuid": "f076d2eb-6ccc-43e5-9d04-33418434764a",
+            "vertical": false,
+            "translation": "Individual: An entity whose identity is managed. If an individual performs an action, they become a user. An individual or user typically refers to as a single person, but it is worth noting that small businesses often interact with other businesses as a single person, for example, in scenarios involving travel booking and information collection."
+        },
+        {
+            "bbox": [
+                200.99999999999997,
+                1860.8955541821538,
+                1465.1327869589527,
+                2167.8182876566166
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "请求实体：希望知道个人的名称或者属性的实体，例如由服务器表示的组织。因为对于任何容易部署的注册系统没有什么保证，所以起始组织将主要是因特网商店。从长远看，组织包括所有个人的、诸如银行、医生、同事以及家庭之类的通信伙伴。如果希望在身份管理中包含联系或位置信息（例如消息与日历），则作为”组织“的同事与家庭尤其有意义。",
+            "uuid": "6fd26c3f-a14c-4d80-99ed-7ca4f953f0bc",
+            "vertical": false,
+            "translation": "Requesting entity: An entity that seeks to know the name or attributes of an individual, such as an organization represented by a server. Because there are no guarantees for any easy-to-deploy registration system, the represented organization will be predominantly an Internet store. In the long run, organizations include all individual communication partners such as banks, doctors, colleagues, and families. If the inclusion of contact or location information (such as messages and calendars) is desired within the scope of identity management, it is especially meaningful to be colleagues and families of the “organization.”"
+        },
+        {
+            "bbox": [
+                170.13538121116437,
+                151.14336227626657,
+                326.2099871156209,
+                187.701378073707
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "77f35250-c5bf-487a-8c7c-6ed25a614a3f",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1192.3537460088212,
+                151.14336227626657,
+                1344.2101193212654,
+                186.29530054303618
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "865336f9-8db1-4100-9621-1dc6081ec16c",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1366.707359811998,
+                151.14336227626657,
+                1493.2543375723683,
+                190.51353313504842
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 9/17 页",
+            "uuid": "1dc89b7e-37ba-4cf5-965e-cd33b5caf25c",
+            "vertical": false,
+            "translation": "Page 9/17"
+        },
+        {
+            "bbox": [
+                265.7486532967774,
+                355.02460422352965,
+                420.4171816705632,
+                397.20693014365315
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "附图说明",
+            "uuid": "d20c6298-8cdf-401f-a042-9faf1ae5f0d8",
+            "vertical": false,
+            "translation": "Illustration notes"
+        },
+        {
+            "bbox": [
+                265.7486532967774,
+                418.2980931037149,
+                1424.3565385695,
+                460.4804190238382
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "以下将参照以下示意图详细描述仅作为例子的本发明的优选实施方式。",
+            "uuid": "73df5114-93c9-4fbf-b4b8-0832e1f504e3",
+            "vertical": false,
+            "translation": "The following description will refer to the following schematic diagram to provide in detail the preferred implementation method of the present invention as an example only."
+        },
+        {
+            "bbox": [
+                261.53042070476505,
+                477.35334939188766,
+                892.8592319759451,
+                519.5356753120109
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "图 1 显示根据本发明的系统的示意图。",
+            "uuid": "64cce884-2302-4628-a845-2abb1b07eb16",
+            "vertical": false,
+            "translation": "FIG. 1 shows a schematic diagram of a system according to the present invention."
+        },
+        {
+            "bbox": [
+                182.79007898720135,
+                731.8533824432988,
+                1458.1023993055985,
+                838.7152747742781
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "图 5 显示具有在图 4 步骤 II 中发送的位置查询的､向潜在用户呈现的表单的图。",
+            "uuid": "2b634ea4-500b-4f4d-9c7e-166ead94696f",
+            "vertical": false,
+            "translation": "FIG. 5 shows a diagram of a form presented to a potential user with the location query sent in step II of FIG. 4."
+        },
+        {
+            "bbox": [
+                195.4447767632384,
+                977.916950310685,
+                1455.290244244257,
+                1088.9970752336767
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "图 8 显示允许验证客户端应用身份的、第一或第三实施方式的扩展的示意图。",
+            "uuid": "a532aef9-c36b-49d9-a9ec-16a830574138",
+            "vertical": false,
+            "translation": "FIG. 8 shows a schematic diagram of an extension of the first or third embodiment that allows authentication of the client application."
+        },
+        {
+            "bbox": [
+                192.63262170189682,
+                1166.3313394205697,
+                1456.6963217749278,
+                1281.6296969355735
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "图 10 显示身份相关信息由另一实体提供并且可以由请求实体借助位置实体获得的系统的示意图。",
+            "uuid": "d9fee9af-8012-4f95-9aa5-142a8ec8d20b",
+            "vertical": false,
+            "translation": "FIG. 10 shows a schematic diagram of a system where identity-related information is provided by another entity and can be obtained by the requesting entity with the aid of the location entity."
+        },
+        {
+            "bbox": [
+                272.7790409501313,
+                1426.4556825946638,
+                510.40614363349306,
+                1471.450163576129
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "具体实施方式",
+            "uuid": "97e82492-f097-4624-9d2a-bdb56e4247df",
+            "vertical": false,
+            "translation": "Specific embodiment"
+        },
+        {
+            "bbox": [
+                275.59119601147285,
+                1550.1905052936925,
+                406.35640636385534,
+                1593.778908744487
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "词汇表：",
+            "uuid": "500c40c5-fd38-4fe3-a37f-c250526f38dc",
+            "vertical": false,
+            "translation": "Glossary:"
+        },
+        {
+            "bbox": [
+                811.30673519704,
+                2208.2347896476176,
+                850.6769060558217,
+                2240.5745728530455
+            ],
+            "order": "23",
+            "label": "Page-footer",
+            "text": "13",
+            "uuid": "e92d36dd-12b9-43a1-bccf-e28afefe14b4",
+            "vertical": false,
+            "translation": "13"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

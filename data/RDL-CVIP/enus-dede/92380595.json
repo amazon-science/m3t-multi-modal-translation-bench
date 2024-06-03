@@ -1,0 +1,1435 @@
+{
+    "file": "92380595.png",
+    "annotations": [
+        {
+            "bbox": [
+                28.000000000000004,
+                131.1652584822367,
+                227.6747645173226,
+                146.8895517819876
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "United States Corporation Company",
+            "uuid": "93e09df6-2dec-4574-b727-e344980e5a5a",
+            "vertical": false,
+            "translation": "United States Corporation Company"
+        },
+        {
+            "bbox": [
+                27.880538155214527,
+                158.93709898436182,
+                62.55248945080182,
+                170.7327112807987
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "DATE:",
+            "uuid": "2280976f-8bf8-4280-8523-a90cf816db32",
+            "vertical": false,
+            "translation": "DATUM:"
+        },
+        {
+            "bbox": [
+                74.32095458592262,
+                150.06875161072975,
+                251.3120938575527,
+                164.84700516849847
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "12-13-89",
+            "uuid": "f48cb455-29ff-4b5c-acc7-39933edcacea",
+            "vertical": false,
+            "translation": "12-13-89"
+        },
+        {
+            "bbox": [
+                27.880538155214527,
+                185.00000000000006,
+                50.39943435750318,
+                196.11114985798116
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "c39e5408-b8c8-4088-8292-25096dcbba68",
+            "vertical": false,
+            "translation": "AN:"
+        },
+        {
+            "bbox": [
+                30.0,
+                286.0,
+                52.0,
+                295.0
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "RE:",
+            "uuid": "ac382fbb-7d08-4187-bd16-e97119888507",
+            "vertical": false,
+            "translation": "RE:"
+        },
+        {
+            "bbox": [
+                296.9638036141655,
+                36.645970614497145,
+                396.046618922791,
+                49.91704594153579
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Executive Offices",
+            "uuid": "451a8c18-ecc4-41a8-babc-f22f31066010",
+            "vertical": false,
+            "translation": "Executive Offices"
+        },
+        {
+            "bbox": [
+                153.1426835527305,
+                56.581281983496766,
+                309.3575041751655,
+                73.01105141206976
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "1 GULF+WESTE PLAZA",
+            "uuid": "5e1593c9-d70a-4195-913a-8d1783d92f02",
+            "vertical": false,
+            "translation": "1 GULF+WESTE PLAZA"
+        },
+        {
+            "bbox": [
+                133.0,
+                90.0,
+                560.0,
+                114.0
+            ],
+            "order": "6",
+            "label": "Page-header",
+            "text": "PRENTICE HALL CORPORATE SERVICES",
+            "uuid": "20f62539-cb88-4395-ba72-9c3c36f4ebf4",
+            "vertical": false,
+            "translation": "PRENTICE HALL CORPORATE SERVICES"
+        },
+        {
+            "bbox": [
+                294.4903042228177,
+                152.95202045474886,
+                401.1073813050967,
+                177.173894656952
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "RECEIVED",
+            "uuid": "743f5b66-386c-45ff-9fc5-46bc7f7e3470",
+            "vertical": false,
+            "translation": "EMPFANGEN"
+        },
+        {
+            "bbox": [
+                88.0,
+                182.0,
+                192.0,
+                194.0
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "LORILLARD, INC.",
+            "uuid": "56f66354-9e5a-4780-8978-d512a1c08643",
+            "vertical": false,
+            "translation": "LORILLARD, INC."
+        },
+        {
+            "bbox": [
+                89.44196596742678,
+                193.91326502290872,
+                252.29382321819583,
+                209.28334849552556
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "ONE PARK AVENUE 18TH FL",
+            "uuid": "68798fc7-f906-43ea-a52b-210634f56167",
+            "vertical": false,
+            "translation": "ONE PARK AVENUE 18TH FL"
+        },
+        {
+            "bbox": [
+                302.53352386019594,
+                186.08839096096085,
+                392.01807007280263,
+                209.57148032103902
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "DEC 14 89",
+            "uuid": "11faa08b-211d-4a74-8808-7c9321c3ff76",
+            "vertical": false,
+            "translation": "14. DEZ. 89"
+        },
+        {
+            "bbox": [
+                89.0,
+                209.0,
+                228.99999999999997,
+                224.0
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "NEW YORK, N.Y. 10016",
+            "uuid": "802301e0-bc05-4eba-b215-882792badc4f",
+            "vertical": false,
+            "translation": "NEW YORK, N.Y. 10016"
+        },
+        {
+            "bbox": [
+                88.0,
+                216.0,
+                399.0,
+                241.0
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "ATTN: MR. ARTHUR STEVENS, ESQ. A. J. STEVENS",
+            "uuid": "afb8b761-5986-48b7-9336-c409350c9503",
+            "vertical": false,
+            "translation": "z. Hd.: MR. ARTHUR STEVENS, ESQ. A. J. STEVENS"
+        },
+        {
+            "bbox": [
+                32.00000000000001,
+                591.9999999999999,
+                48.27529307951732,
+                600.149143184312
+            ],
+            "order": "64",
+            "label": "Text",
+            "text": "vs.",
+            "uuid": "380c1c54-88e0-4e14-8447-dfaae0d6f5cb",
+            "vertical": false,
+            "translation": "vs."
+        },
+        {
+            "bbox": [
+                65.53907966703869,
+                270.57707704322706,
+                421.99599317984405,
+                288.9718872630096
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "LORILLARD, INC.",
+            "uuid": "3e7c27d3-3d92-4e28-a111-9d5f374ce84c",
+            "vertical": false,
+            "translation": "LORILLARD, INC."
+        },
+        {
+            "bbox": [
+                164.00000000000003,
+                297.14398778939244,
+                293.00000000000006,
+                310.14398778939255
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "(Represented Company)",
+            "uuid": "020a1787-5c47-40be-ab90-b497e3d7c3b6",
+            "vertical": false,
+            "translation": "(Vertretenes Unternehmen)"
+        },
+        {
+            "bbox": [
+                51.70069629935337,
+                335.16038721405704,
+                391.99514971269787,
+                350.7032246056574
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "We enclose the following documents which were served upon:",
+            "uuid": "8a0bccd2-36e9-4432-85ee-2789e7ec1c72",
+            "vertical": false,
+            "translation": "Anbei finden Sie die folgenden Dokumente, die uns übermittelt wurden:"
+        },
+        {
+            "bbox": [
+                32.53149638175196,
+                507.3455004107987,
+                69.55009571271108,
+                521.001760172135
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "X Other:",
+            "uuid": "f138e03a-b4c4-425c-a0dd-cdf7516a18e6",
+            "vertical": false,
+            "translation": "X Sonstige:"
+        },
+        {
+            "bbox": [
+                70.83763430464877,
+                434.4519288720947,
+                122.89643003320064,
+                445.17022105382387
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Summons",
+            "uuid": "425e989d-14db-4bbe-be5b-a61647b46005",
+            "vertical": false,
+            "translation": "Vorladung"
+        },
+        {
+            "bbox": [
+                70.0,
+                454.0,
+                123.0,
+                464.0
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Complaint",
+            "uuid": "d9ec1fb3-d6f7-426a-a557-a68acaec2cca",
+            "vertical": false,
+            "translation": "Klage"
+        },
+        {
+            "bbox": [
+                70.5668287668703,
+                468.11582460947096,
+                249.1376294126221,
+                503.80435824886416
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "Duplicate copies of the Notice and Acknowledgement enclosed",
+            "uuid": "6fa2228d-05c0-42a4-8ee7-7bf6e05be74f",
+            "vertical": false,
+            "translation": "Anbei die Mitteilung und Empfangsbestätigung in zweifacher Ausführung"
+        },
+        {
+            "bbox": [
+                38.0998299379034,
+                378.0513554734349,
+                453.59490921752865,
+                395.2067877099619
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "as registered agent for the above-captioned corporation on 12-13-89 via:",
+            "uuid": "b84dcf01-4774-452c-bbaa-4374ae983722",
+            "vertical": false,
+            "translation": "als eingetragener Vertreter der oben genannten Gesellschaft vom 12-13-89 über:"
+        },
+        {
+            "bbox": [
+                407.97603736327693,
+                400.01236817192233,
+                469.2903551172953,
+                411.6183738604765
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "or Certified",
+            "uuid": "3ae35875-0214-41d1-a347-dcedc2f1443e",
+            "vertical": false,
+            "translation": "or Certified"
+        },
+        {
+            "bbox": [
+                140.0,
+                349.0,
+                496.0,
+                366.0
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "UNITED STATES CORPORATION COMPANY IN TEXAS",
+            "uuid": "41f70bd2-0997-4cef-80e5-496c56bc0776",
+            "vertical": false,
+            "translation": "UNITED STATES CORPORATION COMPANY IN TEXAS"
+        },
+        {
+            "bbox": [
+                32.00000000000001,
+                558.109115659283,
+                139.01262405096614,
+                573.3576192763077
+            ],
+            "order": "62",
+            "label": "Text",
+            "text": "TITLE OF ACTION:",
+            "uuid": "30708bc1-d231-4350-a7a4-1e110a27bec5",
+            "vertical": false,
+            "translation": "TITEL DER MASSNAHME:"
+        },
+        {
+            "bbox": [
+                247.00000000000003,
+                317.0,
+                471.0,
+                332.0
+            ],
+            "order": "28",
+            "label": "Section-header",
+            "text": "NOTICE OF SERVICE OF PROCESS",
+            "uuid": "4fad062c-b3ba-44a6-9170-537ffa4efa13",
+            "vertical": false,
+            "translation": "MITTEILUNG ZUR FÖRMLICHEN ZUSTELLUNG"
+        },
+        {
+            "bbox": [
+                33.2421801081404,
+                927.9752764323624,
+                113.00000000000004,
+                938.3411175413526
+            ],
+            "order": "88",
+            "label": "Text",
+            "text": "Date Received:",
+            "uuid": "5f0347f1-ebf9-41d4-9625-167b6f07332b",
+            "vertical": false,
+            "translation": "Empfangsdatum:"
+        },
+        {
+            "bbox": [
+                236.65212635864026,
+                401.41067769547215,
+                279.6613239573377,
+                412.3281219855398
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "4a260934-7ecf-4bd9-bfd7-b4049a79086b",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                130.14941448661293,
+                499.8475166703854,
+                388.4967486944785,
+                518.4606639124718
+            ],
+            "order": "55",
+            "label": "Text",
+            "text": "CITATION AND FIRST ORIGINAL PETITION",
+            "uuid": "12591ff1-c69a-47ea-9de0-5b3318c131bd",
+            "vertical": false,
+            "translation": "VORLADUNG UND ORIGINAL DER ERSTANTRAGSSCHRIFT"
+        },
+        {
+            "bbox": [
+                33.90995111741118,
+                744.9613643011512,
+                201.27836481972133,
+                757.0778355624053
+            ],
+            "order": "81",
+            "label": "Text",
+            "text": "ATTORNEYS FOR CLAIMANT",
+            "uuid": "fe7bc83c-84d3-470e-ad0a-c1c1a9a1b15e",
+            "vertical": false,
+            "translation": "ANWÄLTE DES KLÄGERS"
+        },
+        {
+            "bbox": [
+                96.10461544469933,
+                595.0541873979133,
+                361.9383229836064,
+                618.3020961272703
+            ],
+            "order": "65",
+            "label": "Text",
+            "text": "R. J. REYNOLDS TOBACCO COMPANY, ET AL",
+            "uuid": "d53e0bf5-ba6f-4219-a61b-99c48e3d895e",
+            "vertical": false,
+            "translation": "R. J. REYNOLDS TOBACCO COMPANY, ET AL"
+        },
+        {
+            "bbox": [
+                33.90995111741118,
+                820.9115760277681,
+                238.55948066810325,
+                835.6082465763379
+            ],
+            "order": "87",
+            "label": "Text",
+            "text": "PAPERS TRANSMITTED TO CLIENT",
+            "uuid": "71e63e72-c526-4b14-b285-686ea93401e5",
+            "vertical": false,
+            "translation": "DEM KLIENTEN ÜBERMITTELTE DOKUMENTE"
+        },
+        {
+            "bbox": [
+                34.58792019752051,
+                839.3508767698067,
+                69.7917254949294,
+                849.6315427298566
+            ],
+            "order": "88",
+            "label": "Text",
+            "text": "Fed-X",
+            "uuid": "2bc94ebd-70ad-41da-b427-e959a85b9651",
+            "vertical": false,
+            "translation": "Fed-X"
+        },
+        {
+            "bbox": [
+                34.901470155931975,
+                854.0,
+                64.84534511925997,
+                863.7652841072428
+            ],
+            "order": "92",
+            "label": "Text",
+            "text": "Other",
+            "uuid": "34d2a09b-a92f-4ea3-9994-89cfc4b5c406",
+            "vertical": false,
+            "translation": "Weitere"
+        },
+        {
+            "bbox": [
+                437.0,
+                126.0,
+                670.0,
+                138.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "The Prentice-Hall Corporation System, Inc.",
+            "uuid": "f5cbc292-af80-415a-90cb-9ec9567f3acd",
+            "vertical": false,
+            "translation": "The Prentice-Hall Corporation System, Inc."
+        },
+        {
+            "bbox": [
+                445.0,
+                163.0,
+                613.0,
+                175.0
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "TX 13951 U",
+            "uuid": "bb550bd2-ca9a-404f-b7f1-8ff019de1738",
+            "vertical": false,
+            "translation": "TX 13951 U"
+        },
+        {
+            "bbox": [
+                447.9848490907349,
+                217.98837260967707,
+                550.079628058368,
+                230.32858442073157
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "MOTOR CARRIER",
+            "uuid": "7f54d5e5-5728-4839-af9b-b82948d0c811",
+            "vertical": false,
+            "translation": "MOTOR CARRIER"
+        },
+        {
+            "bbox": [
+                484.00000000000006,
+                234.0,
+                502.0,
+                243.0
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "OR",
+            "uuid": "d3c2e502-ea83-466f-9b2a-b799cb1ab21b",
+            "vertical": false,
+            "translation": "OR"
+        },
+        {
+            "bbox": [
+                449.00000000000006,
+                248.0,
+                518.0,
+                258.0
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "STATUTORY",
+            "uuid": "50f11546-455e-4951-b0a5-744b48f7d2ad",
+            "vertical": false,
+            "translation": "GESETZLICH"
+        },
+        {
+            "bbox": [
+                213.0663228674342,
+                737.8787935104654,
+                328.5237509612881,
+                752.1512125399066
+            ],
+            "order": "82",
+            "label": "Text",
+            "text": "Mary Ellen Felps",
+            "uuid": "d0823fed-332e-4446-905d-5e8d843534a4",
+            "vertical": false,
+            "translation": "Mary Ellen Felps"
+        },
+        {
+            "bbox": [
+                450.6206263845937,
+                280.25149450939944,
+                505.9538015840237,
+                290.60715587645745
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Account #",
+            "uuid": "6cba41f2-7fbc-4c3a-a734-c78d70b7dde1",
+            "vertical": false,
+            "translation": "Account #"
+        },
+        {
+            "bbox": [
+                318.0,
+                429.9212836939467,
+                455.7114352317039,
+                463.38383744822573
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "A self-addressed stamped envelope enclosed",
+            "uuid": "df07f981-6c48-43ec-a09f-508a4862e026",
+            "vertical": false,
+            "translation": "Ein adressierter und frankierter Rückumschlag liegt bei"
+        },
+        {
+            "bbox": [
+                318.95132885796966,
+                468.98493395499986,
+                387.4091750518753,
+                479.5647829122398
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "Garnishment",
+            "uuid": "215a9369-05e0-42e5-a76e-1eac114c89b6",
+            "vertical": false,
+            "translation": "Pfändung"
+        },
+        {
+            "bbox": [
+                319.0,
+                487.0,
+                450.0,
+                498.0
+            ],
+            "order": "54",
+            "label": "Text",
+            "text": "Notice of Attorney's Lien",
+            "uuid": "9e917772-8c9d-4c0b-bc11-49e1848927b0",
+            "vertical": false,
+            "translation": "Mitteilung über das Pfandrecht des Anwalts"
+        },
+        {
+            "bbox": [
+                196.95098107081031,
+                677.944040027586,
+                233.05270355384457,
+                688.3098811365761
+            ],
+            "order": "75",
+            "label": "Text",
+            "text": "Collect",
+            "uuid": "1af6f8a4-09ba-469b-87d7-b3943be657c1",
+            "vertical": false,
+            "translation": "Sammeln"
+        },
+        {
+            "bbox": [
+                274.00000000000006,
+                676.8717116370009,
+                323.1282883629991,
+                686.8801099491292
+            ],
+            "order": "77",
+            "label": "Text",
+            "text": "Spoke to",
+            "uuid": "f9751fdf-501c-4791-a782-d86730b26b68",
+            "vertical": false,
+            "translation": "Sprach mit"
+        },
+        {
+            "bbox": [
+                32.00000000000001,
+                678.3044222594547,
+                115.8114661831988,
+                690.8119807146081
+            ],
+            "order": "72",
+            "label": "Text",
+            "text": "Tel Call Placed",
+            "uuid": "9c1eceae-676f-484a-b915-64fbec1bfb5b",
+            "vertical": false,
+            "translation": "Anruf getätigt"
+        },
+        {
+            "bbox": [
+                344.29686270812124,
+                946.271568615257,
+                400.9922441704919,
+                957.8968646177698
+            ],
+            "order": "101",
+            "label": "Page-footer",
+            "text": "ORIGINAL",
+            "uuid": "86c4cec2-6a4a-467e-a5e7-65b345b702e3",
+            "vertical": false,
+            "translation": "ORIGINAL"
+        },
+        {
+            "bbox": [
+                527.142440774379,
+                243.76513220303485,
+                667.3562004570989,
+                255.25806332456935
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "65f49cc8-1392-4f24-9827-71c27e579c6d",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                513.9104337138303,
+                266.46833722402096,
+                669.65454494442,
+                280.5425117919451
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "033052",
+            "uuid": "5be2edf7-2abc-4952-acf8-1c070be1a034",
+            "vertical": false,
+            "translation": "033052"
+        },
+        {
+            "bbox": [
+                523.0000000000001,
+                398.883861711565,
+                580.8352485697982,
+                411.1467252623686
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "Certified #",
+            "uuid": "d77cbc9f-f6bd-4999-9845-c68c427f6cff",
+            "vertical": false,
+            "translation": "Beglaubigt #"
+        },
+        {
+            "bbox": [
+                524.4392890931807,
+                425.9468682400701,
+                662.8531200685417,
+                439.52969452081567
+            ],
+            "order": "57",
+            "label": "Text",
+            "text": "Notice of Mechanic's Lien",
+            "uuid": "534df4ee-ad02-4a27-bca4-27920823a24e",
+            "vertical": false,
+            "translation": "Mitteilung über das Pfandrecht des Mechanikers"
+        },
+        {
+            "bbox": [
+                494.8849416214394,
+                570.051682936293,
+                545.940487181976,
+                581.6983767193656
+            ],
+            "order": "66",
+            "label": "Text",
+            "text": "Case No.",
+            "uuid": "32a6f4a9-abc6-45a1-aaf0-9625b5618480",
+            "vertical": false,
+            "translation": "Fall-Nr."
+        },
+        {
+            "bbox": [
+                467.50520101359575,
+                673.2950111865952,
+                634.1035216326997,
+                687.5949955428526
+            ],
+            "order": "79",
+            "label": "Text",
+            "text": "Agent called New York Office",
+            "uuid": "cd76368d-d008-4012-9fb1-84d1256aeaad",
+            "vertical": false,
+            "translation": "Agent rief bei New Yorker Office an"
+        },
+        {
+            "bbox": [
+                354.9638157904445,
+                848.6705032081438,
+                483.4646831827395,
+                859.9975117608639
+            ],
+            "order": "94",
+            "label": "Text",
+            "text": "FORM PREPARED BY",
+            "uuid": "f77f34e8-8d70-4fd2-b072-f38e179757e4",
+            "vertical": false,
+            "translation": "FORMULAR ERSTELLT VON"
+        },
+        {
+            "bbox": [
+                29.8816209159895,
+                877.3371648032162,
+                673.4857637219174,
+                911.1213326601337
+            ],
+            "order": "96",
+            "label": "Text",
+            "text": "PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETURNING THE DUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE.",
+            "uuid": "8148a142-d683-4862-b548-f171ce018f99",
+            "vertical": false,
+            "translation": "BITTE BESTÄTIGEN SIE DEN ERHALT DIESER MITTEILUNG UND DER ANLAGEN, INDEM SIE DIE ZWEITE AUSFÜHRUNG UNTERZEICHEN UND ZURÜCKSENDEN. EIN RÜCKUMSCHLAG IST BEIGEFÜGT."
+        },
+        {
+            "bbox": [
+                134.0,
+                917.0,
+                276.0,
+                951.0
+            ],
+            "order": "98",
+            "label": "Text",
+            "text": "12/14/89",
+            "uuid": "745a79da-3a9c-4fdc-a98f-1ec4bac9fb83",
+            "vertical": false,
+            "translation": "12/14/89"
+        },
+        {
+            "bbox": [
+                445.9050326980147,
+                922.7660710444967,
+                486.55383402131434,
+                934.7155615110642
+            ],
+            "order": "99",
+            "label": "Text",
+            "text": "Signed:",
+            "uuid": "3c346001-894f-44d4-b6b2-5b82e01421f2",
+            "vertical": false,
+            "translation": "Unterzeichnet:"
+        },
+        {
+            "bbox": [
+                489.3739210376982,
+                786.9426263270301,
+                580.9550999127242,
+                802.1824370904693
+            ],
+            "order": "85",
+            "label": "Text",
+            "text": "512/478-4873",
+            "uuid": "0d010e15-9223-4a88-8552-9266634f2e44",
+            "vertical": false,
+            "translation": "512/478-4873"
+        },
+        {
+            "bbox": [
+                707.0,
+                819.0,
+                721.0,
+                888.0
+            ],
+            "order": "102",
+            "label": "Text",
+            "text": "92380595",
+            "uuid": "0400ed9b-ee19-4ab1-af92-4f7a248844d9",
+            "vertical": true,
+            "translation": "92380595"
+        },
+        {
+            "bbox": [
+                334.39885605845467,
+                59.747113228411195,
+                474.71431399553546,
+                70.35589641105089
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "NEW YORK, NEW YORK",
+            "uuid": "42b54669-d95c-424a-8545-badcc9b978a5",
+            "vertical": false,
+            "translation": "NEW YORK, NEW YORK"
+        },
+        {
+            "bbox": [
+                305.8641158729307,
+                75.30666189628266,
+                389.34591773801736,
+                87.32994950327411
+            ],
+            "order": "5",
+            "label": "Page-header",
+            "text": "(212) 373-7500",
+            "uuid": "84c2563f-75f7-4646-96ea-413f2d1a7697",
+            "vertical": false,
+            "translation": "(212) 373-7500"
+        },
+        {
+            "bbox": [
+                497.8250953028193,
+                58.33260880405922,
+                542.3958878240097,
+                68.9413919866989
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "23-7773",
+            "uuid": "5dc37912-05c1-464e-a8a9-e724af0e1ce4",
+            "vertical": false,
+            "translation": "23-7773"
+        },
+        {
+            "bbox": [
+                139.13633644181118,
+                404.0383786112506,
+                229.6928672785154,
+                413.4684081069302
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "Personal Service",
+            "uuid": "7773180a-e269-4c34-a26e-160f01dc2364",
+            "vertical": false,
+            "translation": "Vorladungszustellung"
+        },
+        {
+            "bbox": [
+                280.6309158741616,
+                402.1523727121147,
+                306.33576447103854,
+                414.1756603191062
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "Mail:",
+            "uuid": "5412c5ea-3e1c-491f-b11f-19be9e8196be",
+            "vertical": false,
+            "translation": "E-Mail:"
+        },
+        {
+            "bbox": [
+                310.1089532559012,
+                401.91662197472266,
+                352.79315138466023,
+                415.35441400606624
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "Regular",
+            "uuid": "e8401656-d99e-4c23-a14a-cc82220ca99e",
+            "vertical": false,
+            "translation": "Regelmäßig"
+        },
+        {
+            "bbox": [
+                70.79163640506155,
+                510.50489977291693,
+                103.93145740347497,
+                521.0814485135322
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "Other:",
+            "uuid": "1b547a5e-a354-419f-8ae1-1da3da973f92",
+            "vertical": false,
+            "translation": "Weitere:"
+        },
+        {
+            "bbox": [
+                526.1918996086114,
+                447.8092688159685,
+                672.1315808128921,
+                459.7856548899005
+            ],
+            "order": "59",
+            "label": "Text",
+            "text": "Notice of Default Judgment",
+            "uuid": "6b90a898-3d57-4bf9-90ff-38aa1271cb5d",
+            "vertical": false,
+            "translation": "Mitteilung über Versäumnisurteil"
+        },
+        {
+            "bbox": [
+                525.4139695382261,
+                466.473766593525,
+                580.0246604792735,
+                479.3833775563349
+            ],
+            "order": "61",
+            "label": "Text",
+            "text": "Subpoena",
+            "uuid": "f3f6009e-171c-4a67-9bfa-08c40c967a01",
+            "vertical": false,
+            "translation": "Zwangsvorladung"
+        },
+        {
+            "bbox": [
+                149.40842451487597,
+                555.9052847480459,
+                373.68876379310444,
+                572.8350855261581
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "WEBSTER GREGG",
+            "uuid": "ca69e4ea-1652-43a0-848f-27915eec1e57",
+            "vertical": false,
+            "translation": "WEBSTER GREGG"
+        },
+        {
+            "bbox": [
+                551.3191470012911,
+                563.6326527174591,
+                670.7069019114168,
+                579.277995246729
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "475,592",
+            "uuid": "94f4d267-5bc4-43a2-bdce-ffd99863a33a",
+            "vertical": false,
+            "translation": "475.592"
+        },
+        {
+            "bbox": [
+                33.35059220591784,
+                657.3122098782475,
+                119.22836713615627,
+                668.481173198581
+            ],
+            "order": "70",
+            "label": "Text",
+            "text": "RETURN DATE",
+            "uuid": "17aa8ffb-5488-4bdc-b420-706f4ec88155",
+            "vertical": false,
+            "translation": "RÜCKSENDEDATUM"
+        },
+        {
+            "bbox": [
+                32.85033332282907,
+                635.6365096143002,
+                186.42981043108074,
+                645.9719682092358
+            ],
+            "order": "68",
+            "label": "Text",
+            "text": "COURT OR JURISDICTION",
+            "uuid": "a9e7cc9c-b1bc-4dbf-bc45-d436bee82af5",
+            "vertical": false,
+            "translation": "GERICHT ODER GERICHTSSTAND"
+        },
+        {
+            "bbox": [
+                148.25935892664847,
+                643.9737917829551,
+                437.2319423328566,
+                660.740539551391
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Monday next 20 days from date of service",
+            "uuid": "8f70c576-d093-4095-8d98-2a1f1cc87521",
+            "vertical": false,
+            "translation": "Montag, 20 Tage nach dem Zustellungsdatum"
+        },
+        {
+            "bbox": [
+                203.99804620769373,
+                625.8782427362893,
+                544.4871704207578,
+                646.6624459270938
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "345th Judicial District Court Travis County, TX",
+            "uuid": "2af315bb-0089-4203-86ae-36310d8c4ca4",
+            "vertical": false,
+            "translation": "345th Judicial District Court Travis County, TX"
+        },
+        {
+            "bbox": [
+                127.26935951503371,
+                679.014211005258,
+                158.69773435859952,
+                689.1241473014344
+            ],
+            "order": "73",
+            "label": "Text",
+            "text": "Direct",
+            "uuid": "66e7b0c9-1998-4099-8158-5d233736fdb8",
+            "vertical": false,
+            "translation": "Direkt"
+        },
+        {
+            "bbox": [
+                33.85085108900661,
+                700.6614777521927,
+                107.22215394202586,
+                710.3301325668099
+            ],
+            "order": "80",
+            "label": "Text",
+            "text": "COMMENTS:",
+            "uuid": "64a732c7-956e-431a-8f9d-e41be8fa9442",
+            "vertical": false,
+            "translation": "ANMERKUNGEN:"
+        },
+        {
+            "bbox": [
+                216.15115039753329,
+                755.2754099800529,
+                313.3200161725712,
+                764.1962977285385
+            ],
+            "order": "83",
+            "label": "Text",
+            "text": "1000 West Ave.",
+            "uuid": "3c792df2-702d-45d5-a5d8-080a19a15955",
+            "vertical": false,
+            "translation": "1000 West Ave."
+        },
+        {
+            "bbox": [
+                214.66460506762806,
+                767.538709862237,
+                338.00810700386296,
+                779.8851127916091
+            ],
+            "order": "84",
+            "label": "Text",
+            "text": "Austin, Tx. 78701",
+            "uuid": "5ef42361-51ab-454e-a833-f9948eb233da",
+            "vertical": false,
+            "translation": "Austin, Tx. 78701"
+        },
+        {
+            "bbox": [
+                491.14228251480023,
+                793.5273012713542,
+                528.6909865855907,
+                803.0750377461629
+            ],
+            "order": "86",
+            "label": "Text",
+            "text": "Phone:",
+            "uuid": "c96f3e3f-cdef-4000-80d2-2fe8b6931027",
+            "vertical": false,
+            "translation": "Telefon:"
+        },
+        {
+            "bbox": [
+                489.4296076673341,
+                841.9288957473985,
+                676.5055206599305,
+                853.7459493430435
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "PAT WIGGINS",
+            "uuid": "6cef1f69-1ccc-4734-bb4d-16043a252e30",
+            "vertical": false,
+            "translation": "PAT WIGGINS"
+        },
+        {
+            "bbox": [
+                78.95235072412228,
+                841.0689754239793,
+                128.71863296565812,
+                855.6591055974843
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "7aad3d6b-1f90-4767-8e46-886c4b2752f1",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                150.51259004745665,
+                838.9783597257658,
+                202.4681876659463,
+                850.079908923881
+            ],
+            "order": "90",
+            "label": "Text",
+            "text": "Reg. Mail",
+            "uuid": "3eca5a6a-6106-4d7d-87eb-df1ed836f244",
+            "vertical": false,
+            "translation": "Einschreiben"
+        },
+        {
+            "bbox": [
+                533.0922217539207,
+                886.0037372980112,
+                693.2961018664979,
+                952.2743195234666
+            ],
+            "order": "100",
+            "label": "Text",
+            "text": "Signature",
+            "uuid": "bf108feb-7476-4fd7-b5ee-3ef184a7a59b",
+            "vertical": false,
+            "translation": "Unterschrift"
+        },
+        {
+            "bbox": [
+                33.095215639706915,
+                466.4225244678366,
+                66.17715914205111,
+                479.8766535449748
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "9cf03087-b9cb-4968-8b89-3078a83a064f",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                33.095215639706915,
+                428.3024920826115,
+                67.29858095568989,
+                440.63544373665485
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "2c7025a6-d3ca-4514-92c1-a06b29a3e7bc",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                32.53450473288756,
+                448.4836856983189,
+                67.85929186250927,
+                459.69545992926743
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "720c5a5b-0057-4206-b0b4-5deb5efb3599",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                280.3687255470591,
+                425.4995485248744,
+                316.8149344903196,
+                437.8325001789177
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "41dffd1f-eed8-4086-9622-c4c5d5b0061f",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                275.883038292504,
+                458.0136937946252,
+                316.2542235835003,
+                475.39194385259543
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "83e31027-bab4-4c9f-8fbd-335291d64e1e",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                278.12588191978165,
+                483.2401858142593,
+                314.57209086304204,
+                495.0125487567554
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "3bc03a21-d4c5-4a3e-93a8-6968275cc581",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                485.0282065361374,
+                422.69660496713726,
+                518.1101500384816,
+                435.0295566211807
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "91ec33d1-fceb-4baf-b740-3cf35b8adb44",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                486.1496283497764,
+                444.5595647174868,
+                520.9137045725786,
+                454.65016152534065
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "d45df82d-8912-41f3-aad4-1b457bee770c",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                487.27105016341517,
+                464.1801696216469,
+                522.5958372930369,
+                474.2707664295006
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "dabe98a0-40ae-4f26-a338-5bf81a2767d0",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                336.51454434030535,
+                665.7695783839854,
+                455.3324918079032,
+                681.7970776750309
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "2d8198b8-f1fe-4a00-9192-6826a3886243",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                235.61358895115464,
+                678.0259013712556,
+                266.7325751926684,
+                685.5682539788064
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "09ddd00a-bd64-496f-82e1-91d35378fe2d",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                161.11662188813693,
+                674.2547250674801,
+                191.29260854657457,
+                684.6254599028625
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "4be50745-33f7-4190-af23-ae0a403f04f1",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                206.53056041637345,
+                839.3096594698171,
+                263.0609050558709,
+                847.0066667692766
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "b7684d12-d645-4da6-ae8d-eecadba4cf17",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                82.59516703622455,
+                856.2211955968744,
+                349.40767217250186,
+                860.4055776973292
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "a385a683-5489-4319-9421-6a73f92f05cc",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                357.6486326964814,
+                397.73989562836186,
+                405.90371397682424,
+                409.9924835876556
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "92220320-13bc-40ad-8800-d117699f4be6",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                473.3076370350809,
+                397.73989562836186,
+                516.9669962887243,
+                408.460910092744
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "fad1d11e-4155-4900-a1db-f796cd5aac5c",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                588.9666413736803,
+                397.73989562836186,
+                677.8172672232006,
+                408.460910092744
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "49306468-2861-4bac-8285-9ddbd34a740a",
+            "vertical": false,
+            "translation": "null"
+        }
+    ],
+    "page_width": 802,
+    "page_height": 1000
+}

@@ -1,0 +1,847 @@
+{
+    "file": "8c2dc71460bb7705100909bfa4462af05d1356da480944ca7ae3512c60f3f4ec.png",
+    "annotations": [
+        {
+            "bbox": [
+                62.087687151309346,
+                34.46514101647133,
+                134.73450477052845,
+                57.69522804587297
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "SMFG",
+            "uuid": "3ca75891-ade6-4478-b2e7-5d27886ddfb3",
+            "vertical": false,
+            "translation": "SMFG"
+        },
+        {
+            "bbox": [
+                213.00000000000006,
+                39.1744236286183,
+                419.29643885042486,
+                61.27871269182769
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "Capital Ratio Information",
+            "uuid": "72b8a15b-c430-4db0-b4aa-af11c36b51f9",
+            "vertical": false,
+            "translation": "资本比率信息"
+        },
+        {
+            "bbox": [
+                116.2236010822393,
+                216.5454056776557,
+                402.5648118130789,
+                240.48848486092317
+            ],
+            "order": "3",
+            "label": "List-item",
+            "text": "2. Exposures by Asset Class",
+            "uuid": "a7042a72-e6e5-4455-8ebb-a82a268c5731",
+            "vertical": false,
+            "translation": "2. 按资产类别划分的风险敞口"
+        },
+        {
+            "bbox": [
+                148.0,
+                250.0,
+                398.0,
+                271.0
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "(1) Corporate Exposures",
+            "uuid": "cc5ab4ee-6576-4458-a0ef-50c1ef34bf84",
+            "vertical": false,
+            "translation": "(1) 企业风险暴露"
+        },
+        {
+            "bbox": [
+                169.0,
+                282.15402387962274,
+                640.6357366105691,
+                306.6080366002372
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "A. Corporate, Sovereign and Bank Exposures",
+            "uuid": "ad5b7ef7-efe4-47be-8680-c163f4092fc8",
+            "vertical": false,
+            "translation": "A. 公司、主权和银行风险"
+        },
+        {
+            "bbox": [
+                225.8851933483508,
+                346.0643050546101,
+                1461.1504487973507,
+                503.99999999999966
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "• \"Corporate, sovereign and bank exposures\" includes credits to domestic and overseas commercial/industrial (C&I) companies, individuals for business purposes (domestic only), sovereigns, public sector entities, and financial institutions. Business loans such as apartment construction loans, and small and medium-sized enterprises (SME) loans with standardized screening process (hereinafter referred to as \"standardized SME loans\") are, in principle, included in \"retail exposures.\" However, credits of more than ¥100 million are treated as corporate exposures in accordance with the Notification.",
+            "uuid": "4f16bb90-fe61-479d-b483-76ab71fc41bd",
+            "vertical": false,
+            "translation": "• “企业、主权和银行风险敞口”包括对国内和海外商业/工业(C&I) 公司、出于商业目的的个人（仅限国内）、主权国家、公共部门实体和金融机构的信贷。公寓建设贷款等经营性贷款、经过标准化筛选的中小企业(SME)贷款（以下简称“标准化中小企业贷款”）原则上纳入“零售风险暴露”。但根据通知，超过1亿元人民币的授信将被视为企业风险暴露。"
+        },
+        {
+            "bbox": [
+                225.00000000000003,
+                516.0,
+                1494.0,
+                705.0
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "• An obligor is assigned an obligor grade by first assigning a financial grade using a financial strength grading model and data obtained from the obligor's financial statements. The financial grade is then adjusted taking into account the actual state of the obligor's balance sheet and qualitative factors to derive the obligor grade (for details, please refer to \"Credit Risk Assessment and Quantification\" on page 35). Different rating series are used for domestic and overseas obligors — J1 ~ J10 for domestic obligors and G1 ~ G10 for overseas obligors; — as shown below due to differences in actual default rate levels and portfolios' grade distribution. Different Probability of Default (PD) values are applied also.",
+            "uuid": "9f36e236-e8b8-460c-87e6-bf4fbb445af4",
+            "vertical": false,
+            "translation": "• 通过首先使用财务实力评级模型和从债务人的财务报表中获得的数据分配财务等级，为债务人分配债务人等级。然后，根据债务人资产负债表的实际情况和定性因素调整财务等级，以得出债务人等级（详见第35页“信用风险评估和量化” ）。由于实际违约率水平和投资组合等级分布的差异，国内债务人与境外债务人采用不同的评级系列--国内债务人为J1 ～ J10 ，境外债务人为G1 ～ G10 ；如下图所示。还应用了不同的默认概率 (PD) 值。"
+        },
+        {
+            "bbox": [
+                225.00000000000003,
+                716.0,
+                1494.0,
+                905.0
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "• In addition to the above basic rating procedure which builds on the financial grade assigned at the beginning, in some cases, the obligor grade is assigned based on the parent company's credit quality or credit ratings published by external rating agencies. The Japanese government, local authorities and other public sector entities with special basis for existence and unconventional financial statements are assigned obligor grades based on their attributes (for example, \"local municipal corporations\"), as the data on these obligors are not suitable for conventional grading models. Further, credits to individuals for business purposes, business loans and standardized SME loans are assigned obligor grades using grading models developed specifically for these exposures.",
+            "uuid": "ac4b5f22-8591-415d-9915-a8e2d2761d41",
+            "vertical": false,
+            "translation": "• 除了上述基于开始时分配的财务等级的基本评级程序外，在某些情况下，根据母公司的信用质量或外部评级机构发布的信用评级来分配债务人等级。日本政府、地方当局和其他具有特殊存在基础的公共部门实体和非传统财务报表根据其属性（例如“当地市政公司” ）分配债务人等级，因为这些债务人的数据不适合传统的评级模型。此外，用于商业目的的个人信贷、商业贷款和标准化中小企业贷款使用专门为这些风险敞口开发的评级模型来分配债务人等级。"
+        },
+        {
+            "bbox": [
+                224.0,
+                916.0,
+                1475.0,
+                1038.0
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "• PDs used for calculating credit risk-weighted assets are estimated based on the default experience for each grade and taking into account the possibility of estimation errors. In addition to internal data, external data are used to estimate and validate PDs. The definition of default is the definition stipulated in the Notification (an event that would lead to an exposure being classified as “substandard loans,\" \"doubtful assets” or “bankrupt and quasi-bankrupt assets\" occurring to the obligor).",
+            "uuid": "0c625fd6-2a69-4c4c-a040-31586a18cff4",
+            "vertical": false,
+            "translation": "• 用于计算信用风险加权资产的效绩数据是根据每个等级的默认经验并考虑估计误差的可能性进行估算的。除内部数据外，外部数据还用于估计和验证效绩数据。违约的定义是通知中规定的定义（导致债务人被归类为“不合格贷款”、“可疑资产”或“破产和准破产资产”的事件）。"
+        },
+        {
+            "bbox": [
+                224.0,
+                1049.0,
+                1471.0,
+                1104.0
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "• Loss given defaults (LGDs) used in the calculation of credit risk-weighted assets are estimated based on historical loss experience of credits in default, taking into account the possibility of estimation errors.",
+            "uuid": "6dc9a890-8f4d-4693-8ddf-8c3800f80a96",
+            "vertical": false,
+            "translation": "• 计算信用风险加权资产时使用的违约损失（LGD）是根据违约信贷的历史损失经历估算的，同时考虑了估计错误的可能性。"
+        },
+        {
+            "bbox": [
+                295.0,
+                1142.0,
+                403.0,
+                1162.0
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Obligor Grade",
+            "uuid": "ac429ce9-5999-4cee-8e28-2c07d4dc50ff",
+            "vertical": false,
+            "translation": "债务人等级"
+        },
+        {
+            "bbox": [
+                250.0,
+                1173.0,
+                323.0,
+                1186.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Domestic",
+            "uuid": "6cd0ab77-deec-4947-b90f-b4ab5ddc2d5d",
+            "vertical": false,
+            "translation": "国内"
+        },
+        {
+            "bbox": [
+                247.99999999999997,
+                1194.0,
+                326.0,
+                1211.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Corporate",
+            "uuid": "ce72abeb-5d68-4bed-af2f-3139349ef3a1",
+            "vertical": false,
+            "translation": "企业"
+        },
+        {
+            "bbox": [
+                274.0,
+                1223.0,
+                296.0,
+                1239.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "J1",
+            "uuid": "6b85c0d9-b4ba-4e6e-9d09-fbdc46f99dbc",
+            "vertical": false,
+            "translation": "J1"
+        },
+        {
+            "bbox": [
+                275.0,
+                1253.0,
+                297.0,
+                1267.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "J2",
+            "uuid": "f72407f2-1d3c-4fdd-aa04-9e4a0517fcdf",
+            "vertical": false,
+            "translation": "J2"
+        },
+        {
+            "bbox": [
+                275.0,
+                1279.0,
+                298.0,
+                1294.0
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "J3",
+            "uuid": "e9326dbd-baea-4e80-a8c1-a1d10a599c00",
+            "vertical": false,
+            "translation": "J3"
+        },
+        {
+            "bbox": [
+                275.0,
+                1307.0,
+                296.0,
+                1321.0
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "J4",
+            "uuid": "b342039c-2399-45cf-8e74-a34dd5f40966",
+            "vertical": false,
+            "translation": "J4"
+        },
+        {
+            "bbox": [
+                275.0,
+                1362.0,
+                298.0,
+                1376.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "J5",
+            "uuid": "1627ac00-5c6d-400b-b212-5c7d24b20058",
+            "vertical": false,
+            "translation": "J5"
+        },
+        {
+            "bbox": [
+                274.0,
+                1464.0,
+                298.0,
+                1479.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "J6",
+            "uuid": "cf6ee268-21d5-474e-b04c-b935aa2eb28f",
+            "vertical": false,
+            "translation": "J6"
+        },
+        {
+            "bbox": [
+                274.0,
+                1543.0,
+                297.0,
+                1557.9999999999998
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "J7",
+            "uuid": "fafad1d3-eea1-46cc-852e-c3751bc435c5",
+            "vertical": false,
+            "translation": "J7"
+        },
+        {
+            "bbox": [
+                286.0,
+                1622.0,
+                324.0,
+                1637.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "J7R",
+            "uuid": "add1db60-f0ad-4c75-9334-eb6dafc10bcc",
+            "vertical": false,
+            "translation": "J7R"
+        },
+        {
+            "bbox": [
+                274.0,
+                1649.0,
+                298.0,
+                1664.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "J8",
+            "uuid": "92aa45f4-ccdb-4a5a-8eab-ff1ce6cb1a5e",
+            "vertical": false,
+            "translation": "J8"
+        },
+        {
+            "bbox": [
+                275.0,
+                1728.0,
+                298.0,
+                1744.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "J9",
+            "uuid": "747f993b-62f0-41cc-81b4-55d7e9918053",
+            "vertical": false,
+            "translation": "J9"
+        },
+        {
+            "bbox": [
+                155.06635679004094,
+                2129.525224571219,
+                275.13986315401075,
+                2156.2844631323323
+            ],
+            "order": "60",
+            "label": "Page-footer",
+            "text": "SMFG 2011",
+            "uuid": "fbbe38be-090c-48d4-9b21-59a5e9300af8",
+            "vertical": false,
+            "translation": "SMFG 2011"
+        },
+        {
+            "bbox": [
+                268.0,
+                1783.0,
+                305.0,
+                1798.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "J10",
+            "uuid": "80dcb78b-0553-46e4-8bc2-bbcdda4b7690",
+            "vertical": false,
+            "translation": "J10"
+        },
+        {
+            "bbox": [
+                376.0,
+                1173.0,
+                449.0,
+                1186.0
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Overseas",
+            "uuid": "ec23d728-1623-4152-b5d1-891ca8c7c58d",
+            "vertical": false,
+            "translation": "海外"
+        },
+        {
+            "bbox": [
+                374.0,
+                1194.0,
+                452.0,
+                1211.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Corporate",
+            "uuid": "a686989d-1fc9-4a81-b9be-08a69ee9ebc8",
+            "vertical": false,
+            "translation": "公司"
+        },
+        {
+            "bbox": [
+                398.0,
+                1223.0,
+                425.00000000000006,
+                1241.0
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "G1",
+            "uuid": "a1ef3060-51c9-4cbf-973b-c45296ddffe3",
+            "vertical": false,
+            "translation": "G1"
+        },
+        {
+            "bbox": [
+                399.0,
+                1252.0,
+                425.00000000000006,
+                1266.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "G2",
+            "uuid": "eae7f747-c101-4eb9-89db-9dc9e9ce8a37",
+            "vertical": false,
+            "translation": "G2"
+        },
+        {
+            "bbox": [
+                398.0,
+                1279.0,
+                426.0,
+                1294.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "G3",
+            "uuid": "b42dbaca-d758-496d-8319-9357f90cca9e",
+            "vertical": false,
+            "translation": "G3"
+        },
+        {
+            "bbox": [
+                399.0,
+                1307.0,
+                426.0,
+                1321.9999999999998
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "G4",
+            "uuid": "922736fa-7af4-4ca1-b19f-63c652aceadf",
+            "vertical": false,
+            "translation": "G4"
+        },
+        {
+            "bbox": [
+                399.0,
+                1361.0,
+                427.99999999999994,
+                1376.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "G5",
+            "uuid": "93f9782e-27f7-4d91-9edc-79e6ddf5d682",
+            "vertical": false,
+            "translation": "G5"
+        },
+        {
+            "bbox": [
+                398.0,
+                1464.0,
+                427.0,
+                1479.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "G6",
+            "uuid": "d13e981a-9726-465b-b15a-994f60eaf7f7",
+            "vertical": false,
+            "translation": "G6"
+        },
+        {
+            "bbox": [
+                399.0,
+                1542.0,
+                426.0,
+                1557.9999999999998
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "G7",
+            "uuid": "8d8a4cd1-c93b-43b2-aeb7-9b7a11c418a0",
+            "vertical": false,
+            "translation": "G7"
+        },
+        {
+            "bbox": [
+                414.0,
+                1621.0,
+                455.00000000000006,
+                1637.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "G7R",
+            "uuid": "a6c289eb-a65b-482d-8e70-fb5e6ddb79a9",
+            "vertical": false,
+            "translation": "G7R"
+        },
+        {
+            "bbox": [
+                399.0,
+                1649.0,
+                426.0,
+                1664.0
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "G8",
+            "uuid": "7769108e-6ed7-4806-b9e4-c4e21a34f109",
+            "vertical": false,
+            "translation": "G8"
+        },
+        {
+            "bbox": [
+                398.0,
+                1726.0,
+                427.0,
+                1743.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "G9",
+            "uuid": "384977b9-e832-48fb-b34d-4477d119329b",
+            "vertical": false,
+            "translation": "G9"
+        },
+        {
+            "bbox": [
+                393.0,
+                1783.0,
+                432.0,
+                1798.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "G10",
+            "uuid": "63727737-816e-4e47-864b-c91c75097fc6",
+            "vertical": false,
+            "translation": "G10"
+        },
+        {
+            "bbox": [
+                784.0,
+                1195.0,
+                855.9999999999999,
+                1208.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Definition",
+            "uuid": "9bdc4930-18c7-4b2f-ab98-63834499d1f7",
+            "vertical": false,
+            "translation": "定义"
+        },
+        {
+            "bbox": [
+                476.00000000000006,
+                1222.0,
+                847.0,
+                1244.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Very high certainty of debt repayment",
+            "uuid": "1ca5b4db-382f-4589-88fa-1e4471b4e597",
+            "vertical": false,
+            "translation": "偿还债务的确定性非常高"
+        },
+        {
+            "bbox": [
+                478.0,
+                1252.0,
+                803.0,
+                1272.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "High certainty of debt repayment",
+            "uuid": "b458fb63-ee7b-4cb0-bb1c-1ab399a96f4f",
+            "vertical": false,
+            "translation": "偿还债务的高度确定性"
+        },
+        {
+            "bbox": [
+                476.00000000000006,
+                1279.0,
+                873.9999999999999,
+                1298.0
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Satisfactory certainty of debt repayment",
+            "uuid": "7ef2501d-0cb7-4a19-9809-ab0e75e9dc23",
+            "vertical": false,
+            "translation": "偿还债务的确定性令人满意"
+        },
+        {
+            "bbox": [
+                475.88378906249994,
+                1305.98876953125,
+                1114.34326171875,
+                1352.502596409611
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Debt repayment is likely but this could change in cases of significant changes in economic trends or business environment",
+            "uuid": "8475a3ba-ac01-4df3-8ee5-ea623c29e410",
+            "vertical": false,
+            "translation": "偿还债务的可能性很大，但在经济趋势或商业环境发生重大变化的情况下，这种情况可能会发生变化"
+        },
+        {
+            "bbox": [
+                476.00000000000006,
+                1463.0,
+                1126.0,
+                1531.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Currently no problem with debt repayment, but there are unstable business and financial factors that could lead to debt repayment problems",
+            "uuid": "770961b3-8f01-4e4a-a861-cdb198480d9a",
+            "vertical": false,
+            "translation": "目前债务偿还没有问题，但存在不稳定的业务和财务因素可能导致债务偿还问题"
+        },
+        {
+            "bbox": [
+                474.99999999999994,
+                1539.0,
+                1087.0,
+                1611.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Close monitoring is required due to problems in meeting loan terms and conditions, sluggish/unstable business, or financial problems",
+            "uuid": "8ddef986-84cb-4fad-924f-7b6467e0f610",
+            "vertical": false,
+            "translation": "由于在满足贷款条款和条件方面存在问题、业务缓慢/不稳定或财务问题，需要密切监控"
+        },
+        {
+            "bbox": [
+                476.00000000000006,
+                1621.0,
+                806.0,
+                1637.0
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Of which Substandard Borrowers",
+            "uuid": "ca4983fa-9d85-410b-bfb1-5fa4d4b02c9f",
+            "vertical": false,
+            "translation": "其中低于标准的借款人"
+        },
+        {
+            "bbox": [
+                476.00000000000006,
+                1645.0,
+                1107.0,
+                1718.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Currently not bankrupt, but experiencing business difficulties, making insufficient progress in restructuring, and highly likely to go bankrupt",
+            "uuid": "805b9eef-7698-4752-8cd6-d6ff33d8c9da",
+            "vertical": false,
+            "translation": "目前尚未破产，但遇到业务困难，重组进展不足，极有可能破产"
+        },
+        {
+            "bbox": [
+                475.9216337842611,
+                1726.0,
+                1120.244252611796,
+                1774.8457542981032
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Though not yet legally or formally bankrupt, has serious business difficulties and rehabilitation is unlikely; thus, effectively bankrupt",
+            "uuid": "87fb9758-57c8-469a-8c35-e67c37a695d3",
+            "vertical": false,
+            "translation": "虽然尚未合法或正式破产，但已出现严重的经营困难且不太可能重整；因此，实际上破产了"
+        },
+        {
+            "bbox": [
+                1257.0,
+                1192.0,
+                1404.0,
+                1211.0
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Borrower Category",
+            "uuid": "25b48037-1365-472e-9d87-295930d41c61",
+            "vertical": false,
+            "translation": "借款人类别"
+        },
+        {
+            "bbox": [
+                1173.0,
+                1224.0,
+                1352.0,
+                1239.0
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Normal Borrowers",
+            "uuid": "eb95654d-4735-4276-85f6-063044160dae",
+            "vertical": false,
+            "translation": "普通借款人"
+        },
+        {
+            "bbox": [
+                1174.0,
+                1543.0,
+                1458.0,
+                1561.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Borrowers Requiring Caution",
+            "uuid": "c183bfb9-9b9b-4abf-b11c-945ea72c02c6",
+            "vertical": false,
+            "translation": "借款人需要谨慎"
+        },
+        {
+            "bbox": [
+                1172.48291015625,
+                1621.7092499153493,
+                1407.19482421875,
+                1639.0710759001126
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Substandard Borrowers",
+            "uuid": "af702309-38d4-4d7e-be15-a8433e0c07d0",
+            "vertical": false,
+            "translation": "不合格借款人"
+        },
+        {
+            "bbox": [
+                1174.0,
+                1726.0,
+                1479.0,
+                1749.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Effectively Bankrupt Borrowers",
+            "uuid": "1c64df43-7ce7-4495-a852-808f01e5a7b8",
+            "vertical": false,
+            "translation": "实际破产的借款人"
+        },
+        {
+            "bbox": [
+                1173.0,
+                1780.0,
+                1371.0,
+                1802.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Bankrupt Borrowers",
+            "uuid": "f66311e1-7461-4c45-b3ea-a5dd31268ad4",
+            "vertical": false,
+            "translation": "破产借款人"
+        },
+        {
+            "bbox": [
+                473.73046875,
+                1361.1211972965432,
+                1082.04345703125,
+                1453.7711568310665
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "No problem with debt repayment over the short term , but not satisfactory over the mid to long term and the situation could change in cases of significant changes in economic trends or business environment",
+            "uuid": "86b66edf-ebc0-4212-a0fb-998b6eed0d1c",
+            "vertical": false,
+            "translation": "短期内债务偿还没有问题，但中长期不令人满意，如果经济趋势或商业环境发生重大变化，情况可能会发生变化"
+        },
+        {
+            "bbox": [
+                1172.5461689829144,
+                1648.879004515697,
+                1480.4449831402983,
+                1669.5120561222916
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Potentially Bankrupt Borrowers",
+            "uuid": "50b9d00f-2053-42eb-b50d-61b65085ba3f",
+            "vertical": false,
+            "translation": "潜在的破产借款人"
+        },
+        {
+            "bbox": [
+                477.34229537764696,
+                1783.3749883356793,
+                752.9506444945026,
+                1803.9873039264885
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Legally or formally bankrupt",
+            "uuid": "185c8394-ecaa-4d6d-99d3-8ecf98c704e2",
+            "vertical": false,
+            "translation": "合法或正式破产"
+        },
+        {
+            "bbox": [
+                184.6455597838802,
+                316.45562941247545,
+                415.68683129010594,
+                338.49547999224694
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "( A ) Rating Procedures",
+            "uuid": "5aaaff30-6ae2-41dd-8f3d-a56dc6a40ac3",
+            "vertical": false,
+            "translation": "( A ) 评级程序"
+        },
+        {
+            "bbox": [
+                212.1195728354653,
+                1133.8152864073918,
+                1489.2587474413738,
+                1808.3637125420692
+            ],
+            "order": "12",
+            "label": "Table",
+            "text": "Obligor Grade Domestic Corporate J1 J2 J3 J4 J5 J6 J7 J7R J8 J9 J10 Overseas Corporate G1 G2 G3 G4 G5 G6 G7 G7R G8 G9 G10 Definition Very high certainty of debt repayment High certainty of debt repayment Satisfactory certainty of debt repayment Debt repayment is likely but this could change in cases of significant changes in economic trends or business environment No problem with debt repayment over the short term, but not satisfactory over the mid to long term and the situation could change in cases of significant changes in economic trends or business environment Currently no problem with debt repayment, but there are unstable business and financial factors that could lead to debt repayment problems Close monitoring is required due to problems in meeting loan terms and conditions, sluggish/unstable business, or financial problems Of which Substandard Borrowers Currently not bankrupt, but experiencing business difficulties, making insufficient progress in restructuring, and highly likely to go bankrupt Though not yet legally or formally bankrupt, has serious business difficulties and rehabilitation is unlikely; thus, effectively bankrupt Legally or formally bankrupt Borrower Category Normal Borrowers Borrowers Requiring Caution Substandard Borrowers Potentially Bankrupt Borrowers Effectively Bankrupt Borrowers Bankrupt Borrowers",
+            "uuid": "43f3b7ec-2f22-4fa5-a38f-0d19b4b256a0",
+            "vertical": false,
+            "translation": "债务人等级 国内企业 J1 J2 J3 J4 J5 J6 J7 J7R J8 J9 J10 海外企业 G1 G2 G3 G4 G5 G6 G7 G7R G8 G9 G10 定义 债务偿还确定性非常高 债务偿还确定性高 债务偿还确定性令人满意 债务偿有可能，但经济趋势或营商环境发生重大变化时，情况可能会发生变化  短期偿债没有问题，但中长期来看，情况可能会出现变化，经济趋势或营商环境发生重大变化时，情况可能会发生变化  目前债务偿还没有问题，但存在不稳定的业务和财务因素，可能导致债务偿还问题  由于需要满足贷款条款和条件、业务不景气/不稳定或财务问题，需要密切监控 其中不合格借款人目前尚未破产但经营困难，重组进展不够，破产的可能性很大的情况；虽然尚未合法或正式破产，但经营严重困难，重整的可能性不大；因此，实际上破产 合法或正式破产 借款人类别 正常借款人 需要谨慎的借款人 不合格借款人 潜在破产借款人 实际破产借款人 破产借款人"
+        },
+        {
+            "bbox": [
+                70.6718351742222,
+                2128.1529559270593,
+                142.02980467052427,
+                2160.4012690648115
+            ],
+            "order": "59",
+            "label": "Page-footer",
+            "text": "182",
+            "uuid": "49513822-5d80-40fb-91f0-fbc0d9fd1e32",
+            "vertical": true,
+            "translation": "182"
+        }
+    ],
+    "page_width": 1693,
+    "page_height": 2205
+}

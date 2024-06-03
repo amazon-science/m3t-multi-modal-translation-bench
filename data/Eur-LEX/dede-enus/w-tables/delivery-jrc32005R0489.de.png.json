@@ -1,0 +1,539 @@
+{
+    "file": "jrc32005R0489.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                104.55589539316105,
+                114.23935696181522,
+                225.5128963241436,
+                150.90266349154675
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "30.3.2005",
+            "uuid": "72a63993-c14a-407e-b00c-26315dec3027",
+            "vertical": false,
+            "translation": "30.3.2005"
+        },
+        {
+            "bbox": [
+                327.7410713045224,
+                120.47991977538653,
+                358.95578122219536,
+                141.5418192711899
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "3a37e5b8-5941-45b9-ae4d-7c7222a50529",
+            "vertical": true,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                635.9863317415424,
+                119.69984942369015,
+                1007.4413797618502,
+                153.24287454663616
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "160169f6-4fae-4be8-8b61-c4f34336cb5c",
+            "vertical": true,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1439.6577520770288,
+                118.91977907199377,
+                1533.301881830048,
+                152.46280419493976
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 81/37",
+            "uuid": "420a2aef-c3dd-46be-853b-d24033d24606",
+            "vertical": true,
+            "translation": "L 81/37"
+        },
+        {
+            "bbox": [
+                756.9177025943283,
+                214.28909746759297,
+                894.1243961233249,
+                253.30716078621836
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG V",
+            "uuid": "1699c9e8-d878-428b-abea-29ebfd462afa",
+            "vertical": true,
+            "translation": "ANNEX V"
+        },
+        {
+            "bbox": [
+                613.8347919946449,
+                294.6899552150632,
+                1027.8205052286858,
+                331.3432874234686
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "TRANCHE Nr. 1 GEMÄSS ARTIKEL 5",
+            "uuid": "fcee1c69-9678-4288-9f10-182d9f6961d3",
+            "vertical": true,
+            "translation": "TRANCHE No. 1 ACCORDING TO ARTICLE 5"
+        },
+        {
+            "bbox": [
+                516.7664204511608,
+                350.0545618448995,
+                1124.918254367732,
+                750.5327113913395
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "e7a84a78-337c-45f8-b1f8-64c096a22ce8",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                609.0027379919803,
+                361.579112910984,
+                719.4884582137902,
+                393.2716283427166
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Mitgliedstaat",
+            "uuid": "40b0a9c8-0f41-47e2-a846-45c1fe256184",
+            "vertical": false,
+            "translation": "Member State"
+        },
+        {
+            "bbox": [
+                913.5590276468823,
+                360.61873365547706,
+                1035.5736925874899,
+                393.2716283427166
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Tranche Nr. 1",
+            "uuid": "cd792e08-308d-4392-b80e-92fc0ed3800f",
+            "vertical": false,
+            "translation": "Tranche No. 1"
+        },
+        {
+            "bbox": [
+                602.2775202393484,
+                409.5980756863365,
+                731.9781483258209,
+                441.2905911180691
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Griechenland",
+            "uuid": "94430df5-bb6d-443e-914c-6843bd84177a",
+            "vertical": true,
+            "translation": "Greece"
+        },
+        {
+            "bbox": [
+                935.6561716912444,
+                408.6376964308296,
+                1017.3195301160605,
+                440.3302118625622
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "4 674 t",
+            "uuid": "cd127774-4b0f-47b4-a232-0e04adadb773",
+            "vertical": true,
+            "translation": "4,674 t"
+        },
+        {
+            "bbox": [
+                623.4139188904772,
+                463.3793139947314,
+                708.9202588882258,
+                500.8341049595063
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "b9acf0b9-974d-4fd2-ad54-14d378eb4a2e",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                923.1664815792138,
+                466.2604517612524,
+                1025.9662386551586,
+                497.9529671929853
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "20 487 t",
+            "uuid": "cb09249a-a197-417e-a3e5-558da6387440",
+            "vertical": false,
+            "translation": "20,487 t"
+        },
+        {
+            "bbox": [
+                616.6887011378453,
+                523.8832070916756,
+                716.6062220340908,
+                556.5361017789153
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Frankreich",
+            "uuid": "4ddf7350-960f-4bae-be0c-ead11982e407",
+            "vertical": false,
+            "translation": "France"
+        },
+        {
+            "bbox": [
+                933.7346809047781,
+                522.9228278361686,
+                1020.20176629576,
+                552.694584756887
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "4 181 t",
+            "uuid": "5ed7cca4-f4a7-46ba-bc68-1c7f2042b919",
+            "vertical": true,
+            "translation": "4,181 t"
+        },
+        {
+            "bbox": [
+                632.0606274295756,
+                580.5455831665914,
+                699.3128049558945,
+                611.2777193428171
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "f028f052-d65a-47c2-b8c6-4bed2f1c228e",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                927.9702085453794,
+                577.6644454000703,
+                1024.0447478686924,
+                613.1984778538313
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "40 764 t",
+            "uuid": "42e0cc19-fb09-493b-b815-73273d164fe9",
+            "vertical": true,
+            "translation": "40,764 t"
+        },
+        {
+            "bbox": [
+                627.2569004634097,
+                636.2475799860005,
+                706.9987681017594,
+                674.6627502062823
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Ungarn",
+            "uuid": "4eedaefa-d3a1-4fdf-9d19-f2c6f3118352",
+            "vertical": true,
+            "translation": "Hungary"
+        },
+        {
+            "bbox": [
+                941.4206440506433,
+                636.2475799860005,
+                1006.751330790496,
+                669.8608539287471
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "307 t",
+            "uuid": "9bb5a883-036a-4f68-80e2-a544a01f7833",
+            "vertical": true,
+            "translation": "307 t"
+        },
+        {
+            "bbox": [
+                621.4924281040111,
+                690.9891975499022,
+                711.8024950679253,
+                729.4043677701841
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "ae41c939-faca-4283-8f81-3701f3d7539a",
+            "vertical": true,
+            "translation": "Portugal"
+        },
+        {
+            "bbox": [
+                935.6561716912444,
+                695.7910938274374,
+                1018.2802755092935,
+                730.3647470256913
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "4 587 t",
+            "uuid": "bd750cf4-d407-4013-a82b-daca763395d1",
+            "vertical": true,
+            "translation": "4,587 t"
+        },
+        {
+            "bbox": [
+                749.2303610479554,
+                941.1139297600184,
+                899.0609686527853,
+                984.7978694550179
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "ANHANG VI",
+            "uuid": "89cabe23-74dd-4431-9ffd-92d718b1c9b8",
+            "vertical": false,
+            "translation": "ANNEX VI"
+        },
+        {
+            "bbox": [
+                479.18802750312665,
+                1026.9216684466244,
+                1169.0331166836982,
+                1061.244763921267
+            ],
+            "order": "23",
+            "label": "Section-header",
+            "text": "ANGABEN DER MITTEILUNG GEMÄSS ARTIKEL 7 ABSATZ 2",
+            "uuid": "c97699ce-96ed-4fbb-b9b4-45030b2cfff2",
+            "vertical": true,
+            "translation": "DETAILS OF THE NOTIFICATION ACCORDING TO ARTICLE 7 PARA. 2"
+        },
+        {
+            "bbox": [
+                238.83476113704532,
+                1083.0867337687666,
+                424.5622851471991,
+                1122.0902513535875
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Mitgliedstaat: ....",
+            "uuid": "cb4dc6e5-5b5b-4f4e-acbb-499c91bbfed0",
+            "vertical": true,
+            "translation": "Member State: ...."
+        },
+        {
+            "bbox": [
+                235.71329014527797,
+                1150.1727840146584,
+                1400.0219700744778,
+                1636.9366834732236
+            ],
+            "order": "25",
+            "label": "Table",
+            "text": "",
+            "uuid": "3dc0d56e-0fad-4961-ba8b-15a96d9499bd",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                341.83319239302216,
+                1172.0147538621582,
+                502.5889484690377,
+                1203.217567930015
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Nr. des Angebots",
+            "uuid": "67bab67b-07f6-45ee-b844-7a0adfaad6d5",
+            "vertical": false,
+            "translation": "No. of the tender"
+        },
+        {
+            "bbox": [
+                703.9238274380281,
+                1170.4546131587656,
+                870.9225254975782,
+                1204.7777086334079
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Angebotsmenge (t)",
+            "uuid": "a88dcfed-290a-45a9-b5e2-46221d9705f4",
+            "vertical": true,
+            "translation": "Supply quantity (t)"
+        },
+        {
+            "bbox": [
+                1103.4721143842414,
+                1172.0147538621582,
+                1259.545663972606,
+                1203.217567930015
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Mindestmenge (t)",
+            "uuid": "f5f2a095-c940-4bdc-975a-67e9328971ad",
+            "vertical": true,
+            "translation": "Minimum quantity (t)"
+        },
+        {
+            "bbox": [
+                408.27541856103306,
+                1221.1185465897938,
+                435.1762895715608,
+                1248.969544999498
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "ecc94fb5-2f75-4a41-9994-23a6cad229be",
+            "vertical": true,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                415.00063631366504,
+                1265.295992343118,
+                437.097780358027,
+                1296.9885077748506
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "e4735aad-77ac-4645-86cb-aade8e8a379a",
+            "vertical": true,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                414.0398909204319,
+                1309.4734380964424,
+                433.2547987850945,
+                1337.3244365061466
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "afcca729-e383-43d3-b979-4212a7b4675b",
+            "vertical": true,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                414.0398909204319,
+                1354.6112631052736,
+                437.097780358027,
+                1389.1849163035276
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "85d66caa-fb74-4a1e-a213-677acf1f78b2",
+            "vertical": true,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                413.07914552719876,
+                1402.6302258806263,
+                437.097780358027,
+                1432.4019828013447
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "ad507456-df73-40ac-aad7-2b0ebd3c4632",
+            "vertical": true,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                415.00063631366504,
+                1446.8076716339506,
+                432.2940533918614,
+                1475.6190492991618
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "e0c3ed8f-1fcc-4a9c-b2fd-01c455cad713",
+            "vertical": true,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                412.1184001339656,
+                1490.024738131768,
+                434.21554417832766,
+                1524.5983913300215
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "6dcec5a7-d1f2-4721-be57-9e04ab307f6a",
+            "vertical": true,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                409.2361639542662,
+                1539.9644594181345,
+                439.9800165377263,
+                1567.8154578278388
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "c1d3a09b-5d76-440c-ba3f-29ab8026a007",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                398.6679646287017,
+                1587.9834221934868,
+                448.6267250768245,
+                1611.0325243256561
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "USW.",
+            "uuid": "60ef4c70-00a8-4c40-b7cb-ce70691dd52d",
+            "vertical": false,
+            "translation": "ETC."
+        },
+        {
+            "bbox": [
+                243.59344892075657,
+                1648.4985158158456,
+                1354.2579767115121,
+                1688.6989446895805
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Elektronische Adresse zur Übermittlung der Angaben gemäß Artikel 7 Absatz 2: AGRI-INTERV-RICE@CEC.EU.INT",
+            "uuid": "ab965c10-e0c6-4b35-bc32-a1aab6b92573",
+            "vertical": false,
+            "translation": "Electronic address for the transmission of information according to Article 7 para. 2: AGRI-INTERV-RICE@CEC.EU.INT"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

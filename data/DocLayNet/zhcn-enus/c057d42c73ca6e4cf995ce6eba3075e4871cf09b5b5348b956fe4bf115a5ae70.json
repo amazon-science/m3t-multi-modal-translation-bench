@@ -1,0 +1,231 @@
+{
+    "file": "c057d42c73ca6e4cf995ce6eba3075e4871cf09b5b5348b956fe4bf115a5ae70.png",
+    "annotations": [
+        {
+            "bbox": [
+                191.75802337198567,
+                229.64149679448255,
+                659.5042299148665,
+                269.08862621828564
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "新鲜度，或者确认者可靠性。",
+            "uuid": "4884d37d-01fa-4ec8-a16c-855921bd7d3d",
+            "vertical": false,
+            "translation": "Freshness, or the authenticity of the validator."
+        },
+        {
+            "bbox": [
+                192.0,
+                289.0,
+                1435.0,
+                395.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "根据本发明的第二方面，提供了一种向请求实体传送位于位置实体的身份相关信息的方法，所述方法包含：",
+            "uuid": "d5e968cb-65bf-4684-8e96-160b9797cdd9",
+            "vertical": false,
+            "translation": "According to the second aspect of the present invention, a method for transmitting identity-related information from the location entity to the requesting entity is provided. The method comprises:"
+        },
+        {
+            "bbox": [
+                193.0,
+                415.0,
+                1444.0,
+                587.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "重定向步骤，用来从客户端应用接收指令信息，以将身份相关信息传送给请求实体，其中在重定向步骤之前请求实体在位置请求步骤从客户端应用请求相应于具有身份相关信息的位置实体的位置信息以及",
+            "uuid": "50bb272d-799c-4ecf-8d16-320045551a84",
+            "vertical": false,
+            "translation": "The redirection step is used for receiving instruction information from the client application to transmit identity-related information to the requesting entity, wherein prior to the redirection step, the requesting entity requests location information corresponding to the location entity with the identity-related information from the client application in the location requesting step, and"
+        },
+        {
+            "bbox": [
+                270.0,
+                604.161485712966,
+                1155.9245334105678,
+                647.2282797836033
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "传送步骤，用来向请求实体传送身份相关信息，包含：",
+            "uuid": "88219148-76c2-4595-af2e-702327af6a73",
+            "vertical": false,
+            "translation": "The transmission step, which is used for transmitting identity-related information to the requesting entity, comprises:"
+        },
+        {
+            "bbox": [
+                270.0,
+                670.4876377952172,
+                926.5317577880054,
+                711.7449979274487
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "联系步骤，其中位置实体联系请求实体；",
+            "uuid": "e93821d0-69f5-4b3a-b400-24fff8e4745b",
+            "vertical": false,
+            "translation": "In the contacting step, the location entity contacts the requesting entity;"
+        },
+        {
+            "bbox": [
+                272.0,
+                731.9999999999999,
+                1101.0,
+                775.0000000000001
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "请求步骤，其中请求实体请求身份相关信息；以及",
+            "uuid": "658eb37c-288c-4ac1-9a23-2227ae524ae5",
+            "vertical": false,
+            "translation": "In the requesting step, the requesting entity requests identity-related information; and"
+        },
+        {
+            "bbox": [
+                275.0,
+                794.0,
+                1190.0,
+                839.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "响应步骤，其中位置实体向请求实体发送身份相关信息。",
+            "uuid": "eb93f679-9fa0-49c9-8485-82873050e9fc",
+            "vertical": false,
+            "translation": "In the response step, the location entity sends identity-related information to the requesting entity."
+        },
+        {
+            "bbox": [
+                197.0,
+                855.0,
+                1455.0,
+                1152.0
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "所述传送步骤还可以包含：由位置实体根据预定策略确定传送在请求步 骤中请求的身份相关信息的哪个部分。这样的益处在于：请求实体可以对可 能对其有用的所有信息进行一般请求，但是允许位置实体根据其自身或者用 戶的策略确定其实际上希望提供这些信息的哪些部分，（例如）以用于营销、个性化或者统计目的。",
+            "uuid": "25c70d24-83bf-471c-9e67-2750953846ae",
+            "vertical": false,
+            "translation": "The transmission step may also comprise determining which part of the identity-related information requested in the requesting step is transmitted by the location entity according to a predetermined policy. One such benefit is that the requesting entity may make a general request for all information that may be useful to it, but the location entity is allowed to determine, based on its own or the user's policies, which parts of the information it actually wishes to provide, (such as) for marketing, personalization, or statistical purposes."
+        },
+        {
+            "bbox": [
+                197.0,
+                1167.0,
+                1454.0,
+                1402.0
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "所述响应步骤还可以包含：由位置实体传送预定策略的部分。这样的益 处在于：位置实体可以指令请求实体在有关身份相关信息方面以特定方式动 作，从而（例如）不将其进一步发送，或者一段时间后将其删除，或者对于 一特定时段不删除它。",
+            "uuid": "04ca2eb6-d3d1-4feb-bb26-1bd01eda9965",
+            "vertical": false,
+            "translation": "The response step may further comprise the transmitting of a portion of the predetermined policy by the location entity. The benefit is that the location entity may instruct the requesting entity to act in a particular way with respect to identity-related information so as (for example) not to send it further, to delete it after a certain period of time, or not to delete it for a certain period of time."
+        },
+        {
+            "bbox": [
+                200.0,
+                1419.0,
+                1455.0,
+                1654.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "位置实体可以使用在重定向步驟中建立的从客戶端应用至位置实体的连接,以在传送步骤进行与个人的交互。与个人交互的益处在于：可以验证该个人的身份，并且该个人可以对预定策略进行添加，并且复用所述连接（与在获取步驟之前释放该连接相比）的益处在于：可能无延迟的进行交互。",
+            "uuid": "544c5ac7-c0f3-49c7-ac42-4a67b2b531f1",
+            "vertical": false,
+            "translation": "The location entity can use the connection established during the redirection step from the client application to the location entity to interact with individuals during the transmission step. The benefit of interacting with an individual is that the individual's identity can be verified and that person can add pre-determined policies. The benefit of reusing the connection (compared to releasing the connection before the obtaining step) is that the interaction may occur without delay."
+        },
+        {
+            "bbox": [
+                202.0,
+                1670.4929418621314,
+                1458.7946824747319,
+                2106.0075142633737
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "向请求实体释放个人信息可以包含以下步骤：呈现有关请求实体的信息；呈现位置实体已知的预先授权的属性值，其中预先授权指预定策略允许向请 求实体释放，和/或呈现位置实体已知的非预先授权的属性值，和/或呈现未知属性值的、分配给用于输入相应属性值的空字段的属性名称；请求编辑属性值；以及向请求实体发送编辑后的属性值。通过这样做,只要求用户填写未知属性值，并且对非预先授权的属性值进行是与否的判定。这简化了程序，并且允许用户对请求实体所请求的其个人的信息进行完全控制。",
+            "uuid": "4c4e2b79-c1fb-487f-bdfe-019024efaec7",
+            "vertical": false,
+            "translation": "Releasing personal information to the requesting entity may comprise the following steps: rendering information about the requesting entity; rendering pre-authorized attribute values known to the location entity, where the pre-authorization refers to a predetermined policy allowing the release to the requesting entity, and/or rendering non-authorized attribute values known to the location entity, and/or rendering attribute names of unknown attribute values that are assigned to empty fields for entering corresponding attribute values; requesting that the attribute values be edited; and sending the edited attribute values to the requesting entity. By doing so, only the user is required to fill in the unknown attribute value, and a yes or no decision is made on the non-authorized attribute value. This simplifies the procedure and allows the user to have full control over the personal information requested by the requesting entity."
+        },
+        {
+            "bbox": [
+                284.0,
+                2114.0,
+                1444.0,
+                2160.0
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "不同的属性值可以不同方式呈现，最好以不同颜色呈现。这允许向用户",
+            "uuid": "b324b051-7285-4def-b519-17f9145b3a58",
+            "vertical": false,
+            "translation": "Different attribute values can be rendered differently, preferably in different colors. This allows the user to"
+        },
+        {
+            "bbox": [
+                171.37736516489952,
+                156.1024497683002,
+                328.90605435687786,
+                185.5308862107577
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "0a7bbea6-a2de-435b-989b-40500e15d114",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1190.9861336712208,
+                152.64028077506995,
+                1343.3215693733537,
+                188.99305520398792
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "b9085838-5969-47e3-a8b0-339ec3940929",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1364.0945833327355,
+                154.3713652716852,
+                1493.9259205788715,
+                187.26197070737294
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 7/17 页",
+            "uuid": "c10f5696-9b42-486b-9b8d-d6126a619157",
+            "vertical": false,
+            "translation": "Page 7/17"
+        },
+        {
+            "bbox": [
+                808.4164599192734,
+                2207.437578257249,
+                849.962487838037,
+                2240.3281836929364
+            ],
+            "order": "16",
+            "label": "Page-footer",
+            "text": "11",
+            "uuid": "efcdae65-a0f6-45d9-bcd0-07751c4302c4",
+            "vertical": false,
+            "translation": "11"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

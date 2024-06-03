@@ -1,0 +1,623 @@
+{
+    "file": "jrc32002D1003.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.49736020775308,
+                140.7339964803048,
+                240.40435946742846,
+                160.00420560692996
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "24.12.2002",
+            "uuid": "aed6da78-5430-4aed-b084-21550bd9ba7c",
+            "vertical": false,
+            "translation": "2002 年 12 月 24 日"
+        },
+        {
+            "bbox": [
+                333.3467692244353,
+                143.5059882091292,
+                361.3682771177557,
+                161.1667997624948
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "1f997acb-1e0f-4e2d-aab7-7f326132b613",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                583.802942524628,
+                138.25969419086837,
+                1070.4237060546875,
+                166.403335364018
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "24ac4474-c179-4cdc-9d0a-6cb2cee88da6",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                781.6359826620775,
+                247.68048566814358,
+                873.4981477431172,
+                264.95315807596
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX I",
+            "uuid": "78dc4af8-e8c6-4ee5-b34d-d3cd1d28d4ff",
+            "vertical": false,
+            "translation": "附件一"
+        },
+        {
+            "bbox": [
+                769.9347378226234,
+                306.78907829634187,
+                883.6194576561306,
+                328.22338590043984
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Definitions",
+            "uuid": "805c7bb2-78ff-4322-928f-31af79dbf45c",
+            "vertical": false,
+            "translation": "定义"
+        },
+        {
+            "bbox": [
+                1424.5016711304895,
+                138.46482885895622,
+                1537.4213524725196,
+                167.09493973014446
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 349/107",
+            "uuid": "eca73a38-f989-4c92-bb7b-2f33ed540b51",
+            "vertical": false,
+            "translation": "L 349/107"
+        },
+        {
+            "bbox": [
+                260.2424852515608,
+                368.95812787134446,
+                1395.9458296084047,
+                420.6676567635492
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1. The allele shall be defined by reference to the amino acids encoded by codons 136, 154 and 171 of the prion protein gene.",
+            "uuid": "94390ac8-41cb-4f90-958f-8b13176a598d",
+            "vertical": false,
+            "translation": "1. 等位基因应参照朊病毒蛋白基因的密码子 136、154 和 171 所编码的氨基酸来定义。"
+        },
+        {
+            "bbox": [
+                289.2776378127651,
+                438.21397971032604,
+                1074.3522741571394,
+                463.9677183360328
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Each allele shall be denoted by a three-letter code as outlined in the following table:",
+            "uuid": "844b11a4-15e2-4526-9280-203782b6beac",
+            "vertical": false,
+            "translation": "每个等位基因应由下表所列的三个字母的代码表示："
+        },
+        {
+            "bbox": [
+                334.06697748861166,
+                625.4623451823461,
+                383.0336401115703,
+                648.841578971954
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "AHQ",
+            "uuid": "3751c4fa-2cb2-419c-a856-b9ad62a6c379",
+            "vertical": false,
+            "translation": "AHQ"
+        },
+        {
+            "bbox": [
+                336.05547140223433,
+                506.07902370349785,
+                381.79083141555617,
+                524.9813829376488
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Allele",
+            "uuid": "85e0cfa1-b74d-404e-a9a5-f1a69c7a6734",
+            "vertical": false,
+            "translation": "等位基因"
+        },
+        {
+            "bbox": [
+                336.55259488064,
+                574.0327852213179,
+                381.04514619794764,
+                592.9351444554688
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "ARR",
+            "uuid": "b85104b2-844f-4c82-b12c-6a01b585b528",
+            "vertical": false,
+            "translation": "ARR"
+        },
+        {
+            "bbox": [
+                458.61003968823445,
+                495.54430388934946,
+                723.7555154216191,
+                536.0403241518619
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Amino acid encoded at position 136",
+            "uuid": "0897dc14-8317-4db5-8e1d-77ad9cbf6f7a",
+            "vertical": false,
+            "translation": "第 136 位编码的氨基酸"
+        },
+        {
+            "bbox": [
+                779.3452353649964,
+                495.8532309316863,
+                1045.1463136053344,
+                536.7465752314874
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Amino acid encoded at position 154",
+            "uuid": "f96b825e-b3b3-4f4a-bb1e-48a7dde4f1ff",
+            "vertical": false,
+            "translation": "第 154 位编码的氨基酸"
+        },
+        {
+            "bbox": [
+                1101.3735145848286,
+                495.7313499398969,
+                1367.4057644845454,
+                536.5481548430466
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Amino acid encoded position 171",
+            "uuid": "e1402758-f792-44f6-b685-ecc979bfff33",
+            "vertical": false,
+            "translation": "第 171 位编码的氨基酸"
+        },
+        {
+            "bbox": [
+                335.04021605361163,
+                779.2935349319671,
+                380.8693492157762,
+                803.295512925982
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "VRQ",
+            "uuid": "6f964cd5-0c07-4b7e-8f79-4050edf5751a",
+            "vertical": false,
+            "translation": "VRQ"
+        },
+        {
+            "bbox": [
+                334.84519846568753,
+                728.1673704243905,
+                382.429489919169,
+                752.5596244833489
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "ARQ",
+            "uuid": "201e447f-9c25-4d63-8aea-990770db45b3",
+            "vertical": false,
+            "translation": "ARQ"
+        },
+        {
+            "bbox": [
+                560.4805476938765,
+                777.4941734916948,
+                619.7658944228043,
+                797.6468682153943
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Valine",
+            "uuid": "28283840-bda1-4c17-9017-81f9098b8535",
+            "vertical": false,
+            "translation": "缬氨酸"
+        },
+        {
+            "bbox": [
+                554.0449672923811,
+                726.2045478676552,
+                626.9815451759962,
+                746.6940412771802
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "1a136d59-85b0-45c9-9958-84bfcb019415",
+            "vertical": false,
+            "translation": "丙氨酸"
+        },
+        {
+            "bbox": [
+                335.4302512294598,
+                677.2467021803758,
+                381.4544019795485,
+                695.0042631352975
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "ARH",
+            "uuid": "0d73dbd5-e2f8-4f4f-bdeb-388748869927",
+            "vertical": false,
+            "translation": "ARH"
+        },
+        {
+            "bbox": [
+                554.2399848803052,
+                675.5769390732806,
+                626.9815451759962,
+                696.0664324828057
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "aef5e412-62c5-41c9-b12c-cb35c5e9b850",
+            "vertical": false,
+            "translation": "丙氨酸"
+        },
+        {
+            "bbox": [
+                553.849949704457,
+                622.6945322734589,
+                627.1765627639202,
+                644.1597158453424
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "0f163cf0-7943-4a4c-a13b-c5956add2efc",
+            "vertical": false,
+            "translation": "丙氨酸"
+        },
+        {
+            "bbox": [
+                554.2828965122875,
+                572.320877578569,
+                626.7205173888933,
+                592.5335425153821
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "1059dea6-f3df-4423-a165-d21dbf1769e9",
+            "vertical": false,
+            "translation": "丙氨酸"
+        },
+        {
+            "bbox": [
+                871.5911966886058,
+                677.5965622228711,
+                953.1069201199143,
+                700.8115201084202
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "d7b76474-3646-4f29-a157-1e9756cf61d3",
+            "vertical": false,
+            "translation": "精氨酸"
+        },
+        {
+            "bbox": [
+                872.2182407150005,
+                574.4886862086748,
+                952.6888907689847,
+                597.7036440942239
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "3547974b-8bcb-462d-ad2d-57de833a4265",
+            "vertical": false,
+            "translation": "精氨酸"
+        },
+        {
+            "bbox": [
+                870.7551379867463,
+                623.2519720663802,
+                954.3610081727038,
+                643.3297734809092
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Histidine",
+            "uuid": "560782f2-6e7d-435a-9837-ffea9842c85d",
+            "vertical": false,
+            "translation": "组氨酸"
+        },
+        {
+            "bbox": [
+                871.5911966886058,
+                779.186859836964,
+                952.6888907689847,
+                803.4475365461867
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "bead1789-8926-4564-bedd-975b4c2fadc7",
+            "vertical": false,
+            "translation": "精氨酸"
+        },
+        {
+            "bbox": [
+                871.1731673376761,
+                728.1557812417026,
+                952.4798760935197,
+                751.1615953625171
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "a853a7dc-6da1-4e6a-a03f-c262cf5215f4",
+            "vertical": false,
+            "translation": "精氨酸"
+        },
+        {
+            "bbox": [
+                1192.846752878147,
+                675.2557049586168,
+                1276.4526230641047,
+                695.3335063731458
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Histidine",
+            "uuid": "292085cd-e57c-44d6-a659-1f158f65aade",
+            "vertical": false,
+            "translation": "组氨酸"
+        },
+        {
+            "bbox": [
+                1193.682811580007,
+                574.2392665917672,
+                1275.6165643622448,
+                597.245080712582
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "65d5dd89-abf3-42fb-a56e-5c3ced5f9b83",
+            "vertical": false,
+            "translation": "精氨酸"
+        },
+        {
+            "bbox": [
+                1186.3672979387354,
+                623.2521011556497,
+                1283.7681367053758,
+                643.329902570179
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "2be7cedd-3ada-425b-8cf1-c409fe11f2b8",
+            "vertical": false,
+            "translation": "谷氨酰胺"
+        },
+        {
+            "bbox": [
+                1185.9492685878056,
+                777.477564723547,
+                1283.559122029911,
+                797.555366138076
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "de11d3a2-3580-414a-a6dc-fc5d6b398c29",
+            "vertical": false,
+            "translation": "谷氨酰胺"
+        },
+        {
+            "bbox": [
+                1185.740253912341,
+                726.6556298930201,
+                1284.1861660563056,
+                746.5242875428145
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "b8bfcd7f-4c09-444a-8d32-572929c69c39",
+            "vertical": false,
+            "translation": "谷氨酰胺"
+        },
+        {
+            "bbox": [
+                287.3600264381143,
+                480.6800164249333,
+                1391.7919352785777,
+                814.9856668913293
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "53d1fe15-4337-4e03-8a1a-720196fc1655",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                258.8261108398437,
+                842.291259765625,
+                1396.0620727539062,
+                894.2777731046676
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "2. The genotype shall be defined by the combination of two alleles. Where it is not possible to distinguish between the ARQ and ARH alleles, a collective term may be used to describe these two alleles.",
+            "uuid": "a5973a03-27e8-44c9-a5b5-583961d8b3ed",
+            "vertical": false,
+            "translation": "2. 基因型应由两个等位基因的组合来定义。如果无法区分 ARQ 和 ARH 等位基因，则可以使用统称来描述这两个等位基因。"
+        },
+        {
+            "bbox": [
+                260.396484375,
+                911.958740234375,
+                748.0688476562499,
+                938.0840454101562
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "3. A flock of high genetic merit shall be defined as:",
+            "uuid": "334ca85d-0ab6-4508-85ca-b59aa890136b",
+            "vertical": false,
+            "translation": "3. 遗传价值高的羊群应定义为："
+        },
+        {
+            "bbox": [
+                291.09014892578125,
+                950.0316258947589,
+                1396.77587890625,
+                1002.0410766601562
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "(a) a flock of pure-bred breeding sheep as defined in Council Directive 89/361/EEC concerning pure-bred breeding sheep and goats, or",
+            "uuid": "11c9dc98-92da-43bf-8813-715fa5169e64",
+            "vertical": false,
+            "translation": "(a) 关于纯种种绵羊和山羊的理事会 89/361/EEC 指令中定义的纯种种绵羊群，或"
+        },
+        {
+            "bbox": [
+                290.3763427734375,
+                1014.3185424804688,
+                1395.6337890624998,
+                1091.1451180040358
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "(b) any other flock of sheep which is recognised by the competent authority of the Member State to be of high importance in the marketing or production of breeding sheep and which the competent authority of the Member State wishes to include in the survey,",
+            "uuid": "039398db-6164-4866-81cf-7d70c6dd44ee",
+            "vertical": false,
+            "translation": "(b) 成员国主管当局认为在种绵羊销售或生产中具有重要意义并希望纳入调查的任何其他羊群，"
+        },
+        {
+            "bbox": [
+                287.95877486648556,
+                1104.2224162200107,
+                1398.2840638855541,
+                1182.738225016739
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "of the same breed, kept on a single holding and/or under the responsibility of a single keeper. The definition shall include rams used for artificial insemination, but shall not include rams which are kept solely for the purpose of breeding with commercial ewes.",
+            "uuid": "ef97f597-bfba-494a-b5d1-74220a97d7ff",
+            "vertical": false,
+            "translation": "同一品种，饲养在同一牧场和/或由同一饲养人负责的。该定义应包括用于人工授精的公羊，但不包括只为与商品母羊配种而饲养的公羊。"
+        },
+        {
+            "bbox": [
+                778.4396729176103,
+                1324.8815610008812,
+                876.5135806818975,
+                1341.9407804785724
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "23623957-b505-4cb3-9b4b-51d91b55f832",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                345.8459094149913,
+                1382.6240088156371,
+                1307.8749569120334,
+                1409.1161281536508
+            ],
+            "order": "40",
+            "label": "Section-header",
+            "text": "Parameters for a survey of prion protein genotypes of sheep from flocks of high genetic merit",
+            "uuid": "bfd4e1f6-5f43-4443-ac7c-5be2fa050ecd",
+            "vertical": false,
+            "translation": "高遗传价值羊群的绵羊朊蛋白基因型调查参数"
+        },
+        {
+            "bbox": [
+                258.346873791503,
+                1454.2348421507113,
+                1191.1221327730314,
+                1479.1398937893318
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "1. Sampling shall be carried out on sheep from flocks of high genetic merit, as defined in Annex I.",
+            "uuid": "ce389757-897a-4206-a111-64f6e5eb91b9",
+            "vertical": false,
+            "translation": "1. 应从具有高遗传价值的羊群中对绵羊进行取样，定义见附件一。"
+        },
+        {
+            "bbox": [
+                260.1204221241678,
+                1497.7469075393392,
+                805.2134043979682,
+                1518.2905090593727
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "2. At least 50 samples shall be collected from each breed.",
+            "uuid": "76e16f86-8633-4801-bf33-660647d156a9",
+            "vertical": false,
+            "translation": "2. 每个品种至少采集 50 个样本。"
+        },
+        {
+            "bbox": [
+                257.9034867083368,
+                1541.6422287727926,
+                1142.0173305417297,
+                1566.8368695413894
+            ],
+            "order": "43",
+            "label": "List-item",
+            "text": "3. Samples shall be chosen so as to be representative of the entire breed in the Member State.",
+            "uuid": "98c08343-1df2-4c67-8a9c-3d961ef184d7",
+            "vertical": false,
+            "translation": "3. 选择的样品应可以代表该成员国的整个品种。"
+        },
+        {
+            "bbox": [
+                258.82220935914995,
+                1585.1022844269658,
+                1395.4310582517435,
+                1636.2424797827161
+            ],
+            "order": "44",
+            "label": "List-item",
+            "text": "4. Where the sampling regime described in points 2 and 3 reveals no animals within a breed carrying the ARR allele, the breed shall be subjected to intensified sampling.",
+            "uuid": "8f31ff5e-f112-4e85-a217-41aa291317dc",
+            "vertical": false,
+            "translation": "4. 如果第 2 点和第 3 点所述的采样制度显示某个品种中没有携带 ARR 等位基因的动物，则应对该品种进行强化采样。"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

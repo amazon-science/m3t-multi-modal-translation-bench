@@ -1,0 +1,1687 @@
+{
+    "file": "c45cab2ef7c8323ff7be45383f87807a6d46f7dfac6cac72cc5c97eda2ca285e.png",
+    "annotations": [
+        {
+            "bbox": [
+                372.0,
+                155.99999999999997,
+                1342.0,
+                226.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "STATEMENT OF CASH FLOWS FOR THE FINANCIAL YEAR ENDED 30 JUNE 2000",
+            "uuid": "cf8aeb4d-c663-4c5c-8428-c3301d23b328",
+            "vertical": false,
+            "translation": "ÉTAT DES FLUX DE TRÉSORERIE DE L'EXERCICE CLOS LE 30 JUIN 2000"
+        },
+        {
+            "bbox": [
+                161.9516980973327,
+                433.0939581890049,
+                614.0483019026674,
+                459.9060418109946
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Cash Flows from Operating Activities",
+            "uuid": "873caead-d866-446b-aba5-5799ed5e7dab",
+            "vertical": false,
+            "translation": "Flux de trésorerie des activités d'exploitation"
+        },
+        {
+            "bbox": [
+                160.0,
+                473.0,
+                441.0,
+                495.0
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Receipts from customers",
+            "uuid": "0fb92198-ba7d-44be-89d1-e61bbdaea600",
+            "vertical": false,
+            "translation": "Reçus des clients"
+        },
+        {
+            "bbox": [
+                161.0,
+                508.0,
+                352.0,
+                529.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Interest received",
+            "uuid": "92c2a288-589f-4f4d-bdad-a1f6a3c51712",
+            "vertical": false,
+            "translation": "Intérêt reçu"
+        },
+        {
+            "bbox": [
+                162.0,
+                542.9999999999999,
+                576.787673510618,
+                575.5424159688085
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Payments to suppliers and employee",
+            "uuid": "385b4e36-3d18-450b-a502-0d5b4ca2effe",
+            "vertical": false,
+            "translation": "Paiements aux fournisseurs et aux employés"
+        },
+        {
+            "bbox": [
+                162.0,
+                623.0,
+                400.0,
+                648.0
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Borrowing costs paid",
+            "uuid": "faf37bd2-0096-45de-8004-f8006c71efdb",
+            "vertical": false,
+            "translation": "Coûts d'emprunt payés"
+        },
+        {
+            "bbox": [
+                161.0,
+                657.0,
+                431.0,
+                722.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Net Cash Provided By Operating Activities",
+            "uuid": "7ff6140f-9766-43db-8a77-a337c3287338",
+            "vertical": false,
+            "translation": "Trésorerie nette des activités opérationnelles"
+        },
+        {
+            "bbox": [
+                565.0,
+                318.0,
+                627.0,
+                338.0
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Note",
+            "uuid": "2f531ad0-4a70-439d-84f2-317dde669827",
+            "vertical": false,
+            "translation": "Note"
+        },
+        {
+            "bbox": [
+                162.30267349510157,
+                921.7377423252009,
+                450.23712354498883,
+                994.6146012408652
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Opening cash balance of acquired group*",
+            "uuid": "00bd9413-851f-4a1c-a40c-3235a219b0d7",
+            "vertical": false,
+            "translation": "Trésorerie d'ouverture du groupe acquis*"
+        },
+        {
+            "bbox": [
+                161.0,
+                1000.0,
+                555.0,
+                1025.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Proceeds from buy back of shares*",
+            "uuid": "ec84e71d-cffa-4476-a970-10a75f80f1cb",
+            "vertical": false,
+            "translation": "Bénéfices du rachat d'actions*"
+        },
+        {
+            "bbox": [
+                162.0,
+                1034.0,
+                524.0,
+                1063.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Capital contributions received*",
+            "uuid": "cbb98490-9ae8-4294-bdd4-22f2a897f72c",
+            "vertical": false,
+            "translation": "Apports en capital reçus*"
+        },
+        {
+            "bbox": [
+                161.56981131970466,
+                1073.9798266346413,
+                511.5665730113406,
+                1142.2499236339638
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Proceeds from sale of property, plant and equipment",
+            "uuid": "31d90800-6fae-4051-9485-d77fccbd1cab",
+            "vertical": false,
+            "translation": "Bénéfices de la vente d’immobilisations corporelles"
+        },
+        {
+            "bbox": [
+                162.0,
+                772.0,
+                606.0,
+                799.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Cash Flows from Investing Activities",
+            "uuid": "8bb5a03f-a3c3-4ca5-be8e-a29fd5834799",
+            "vertical": false,
+            "translation": "Flux de trésorerie des activités d’investissement"
+        },
+        {
+            "bbox": [
+                158.90722007470197,
+                810.3471089330698,
+                418.684681704714,
+                878.8072561132218
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Payments for property,",
+            "uuid": "f6a0b4f8-e8b8-43e0-bce8-20269fa19783",
+            "vertical": false,
+            "translation": "Paiements de biens,"
+        },
+        {
+            "bbox": [
+                159.38374791712968,
+                883.0453269002609,
+                543.2725472639383,
+                914.4388650084833
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Cash paid for purchase of shares* Opening cash balance of",
+            "uuid": "623b66e3-a087-4484-98fc-46634705a59a",
+            "vertical": false,
+            "translation": "Trésorerie payée pour l'achat d'actions* Solde de trésorerie d'ouverture du"
+        },
+        {
+            "bbox": [
+                161.0,
+                1147.0,
+                557.0,
+                1214.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Net Cash Provided By (Used In) Investing Activities",
+            "uuid": "cd01b463-6f47-40d3-85a1-9faeee946e64",
+            "vertical": false,
+            "translation": "Trésorerie nette fournie par (utilisée dans) les activités d'investissement"
+        },
+        {
+            "bbox": [
+                573.0,
+                697.0,
+                634.0,
+                721.0000000000001
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "19(a)",
+            "uuid": "3a42c53c-acc0-4244-a5ab-7d92588f8a64",
+            "vertical": false,
+            "translation": "19(a)"
+        },
+        {
+            "bbox": [
+                161.0,
+                1566.0,
+                441.0,
+                1587.0
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Loans from shareholders",
+            "uuid": "65e383db-12cb-45e6-ba57-e6e41caf6dec",
+            "vertical": false,
+            "translation": "Prêts des actionnaires"
+        },
+        {
+            "bbox": [
+                162.0,
+                1601.0,
+                458.00000000000006,
+                1628.0
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Proceeds from borrowings",
+            "uuid": "7d7cc47f-062d-451f-aae1-eac997226abb",
+            "vertical": false,
+            "translation": "Bénéfices des emprunts"
+        },
+        {
+            "bbox": [
+                159.5428950035368,
+                1641.1967474479716,
+                494.0683200109527,
+                1668.327264846681
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Proceeds from issue of shares",
+            "uuid": "9a513d1a-4c95-4df7-abf0-1e6917146ce2",
+            "vertical": false,
+            "translation": "Bénéfices de l'émission d'actions"
+        },
+        {
+            "bbox": [
+                159.5428950035368,
+                1754.4421675822848,
+                527.0062080116828,
+                1781.6211829638507
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "Advances to controlled entities",
+            "uuid": "09e3bb63-6e34-4a1c-b7c8-baaee54e10a7",
+            "vertical": false,
+            "translation": "Avances aux entités contrôlées"
+        },
+        {
+            "bbox": [
+                162.0,
+                1263.0,
+                613.0,
+                1290.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Cash Flows from Financing Activities",
+            "uuid": "6c2db26b-3ac4-4bd9-9835-09ac88b484c7",
+            "vertical": false,
+            "translation": "Flux de trésorerie des activités de financement"
+        },
+        {
+            "bbox": [
+                161.0,
+                1301.9999999999998,
+                541.0,
+                1328.0
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Proceeds on refinancing of vessel",
+            "uuid": "621cb63c-2acc-4c0e-bcd3-d4d2ba5003f1",
+            "vertical": false,
+            "translation": "Bénéfices du refinancement d'un navire"
+        },
+        {
+            "bbox": [
+                160.57220400355962,
+                1338.0,
+                548.621697012162,
+                1368.6133541912582
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "Hire purchase principal payments",
+            "uuid": "d530c3e1-c4e1-4a7c-b44a-8020c3b5b0b3",
+            "vertical": false,
+            "translation": "Échelonnage des paiements principaux"
+        },
+        {
+            "bbox": [
+                161.60151300358243,
+                1411.6021334710183,
+                571.4841533319599,
+                1443.799318032653
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "Repayment of loans - other persons Loans advanced from/(to)",
+            "uuid": "3c10447f-f855-45e5-8201-7bc63e392f83",
+            "vertical": false,
+            "translation": "Remboursement de prêts - autres personnes Prêts avancés de/(à)"
+        },
+        {
+            "bbox": [
+                160.4655350900515,
+                1449.6770239802852,
+                459.07181401017687,
+                1521.04517129436
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Loans advanced from/(to) related parties",
+            "uuid": "bc62291f-1d9f-4e27-84a9-6aba8dde08db",
+            "vertical": false,
+            "translation": "Prêts avancés de/(à des) parties liées"
+        },
+        {
+            "bbox": [
+                162.0,
+                1525.0,
+                333.0,
+                1553.0
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "Dividends paid",
+            "uuid": "051539fe-a57b-4943-9423-f35461a4c9d8",
+            "vertical": false,
+            "translation": "Dividendes versés"
+        },
+        {
+            "bbox": [
+                159.99999999999997,
+                1887.193414679865,
+                617.9244836582506,
+                1914.9902092229493
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "Net Increase/(Decrease) in Cash Held",
+            "uuid": "ef396255-9559-4b4b-b3cc-93e7ff16c47d",
+            "vertical": false,
+            "translation": "Augmentation/(diminution) nette de la trésorerie détenue"
+        },
+        {
+            "bbox": [
+                782.0,
+                317.0,
+                935.9999999999999,
+                337.0
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Consolidated",
+            "uuid": "1e94afbe-3871-4b8e-95b5-181353414c76",
+            "vertical": false,
+            "translation": "Consolidé"
+        },
+        {
+            "bbox": [
+                748.2147173626543,
+                356.926525638989,
+                810.0432389171731,
+                378.8613576672251
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "24e8652d-9011-40da-a408-00983af4fa47",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                710.9999999999999,
+                696.6956907238979,
+                821.0206370526269,
+                723.6353533957703
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "1,661,831",
+            "uuid": "1798c4e6-a54e-4bbe-8971-34af497476fd",
+            "vertical": false,
+            "translation": "1 661 831"
+        },
+        {
+            "bbox": [
+                698.7843139182407,
+                847.7168577604891,
+                831.8860879979057,
+                876.4701820675941
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "(3,345,578)",
+            "uuid": "647b0ae4-5b0f-45d9-acba-5e18aa5e4226",
+            "vertical": false,
+            "translation": "(3 345 578)"
+        },
+        {
+            "bbox": [
+                873.0,
+                886.0,
+                1004.9999999999999,
+                910.0000000000001
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "(5,923,616)",
+            "uuid": "2952ee76-3602-40db-8d6e-4a95688e8066",
+            "vertical": false,
+            "translation": "(5 923 616)"
+        },
+        {
+            "bbox": [
+                731.0,
+                1112.0,
+                821.0,
+                1133.0
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "225,000",
+            "uuid": "24d942f2-62a3-48ef-aca8-5e78ede85ee1",
+            "vertical": false,
+            "translation": "225 000"
+        },
+        {
+            "bbox": [
+                697.0,
+                471.66888244551114,
+                822.1401235691442,
+                494.0768924325719
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "16,077,952",
+            "uuid": "e9b0c79b-22b5-4b78-b7ba-4cdbc3a3c7b5",
+            "vertical": false,
+            "translation": "16 077 952"
+        },
+        {
+            "bbox": [
+                1079.0,
+                508.0,
+                1167.0,
+                529.0
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "185,959",
+            "uuid": "6a9479f7-b94b-42e9-98c9-015781daae1a",
+            "vertical": false,
+            "translation": "185 959"
+        },
+        {
+            "bbox": [
+                1264.0,
+                507.0,
+                1341.0,
+                531.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "21,319",
+            "uuid": "c2ab68de-7a4a-40fa-9c5d-f4aab0053fa0",
+            "vertical": false,
+            "translation": "21 319"
+        },
+        {
+            "bbox": [
+                728.7507720161552,
+                507.8592889594065,
+                824.5207924138409,
+                531.7355517823123
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "210,840",
+            "uuid": "60d6a28e-eaa9-4135-88ee-250b5e99ccc5",
+            "vertical": false,
+            "translation": "210 840"
+        },
+        {
+            "bbox": [
+                721.0,
+                584.0,
+                831.8860879979057,
+                610.1890426374067
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "(589,953)",
+            "uuid": "4e847514-b155-4d73-886c-5e0acbeaa66f",
+            "vertical": false,
+            "translation": "(589 953)"
+        },
+        {
+            "bbox": [
+                1092.0,
+                583.0,
+                1168.0,
+                607.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "64,716",
+            "uuid": "8995639b-5512-4fc3-9228-19bd3b10d396",
+            "vertical": false,
+            "translation": "64 716"
+        },
+        {
+            "bbox": [
+                700.0,
+                623.0,
+                832.0,
+                645.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(1,165,742)",
+            "uuid": "7e8e1737-265a-4b5a-8a74-bc3a879fecac",
+            "vertical": false,
+            "translation": "(1 165 742)"
+        },
+        {
+            "bbox": [
+                873.0,
+                621.0,
+                1004.9999999999999,
+                644.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(1,093,244)",
+            "uuid": "7dc69974-787b-44df-b2c5-6ff35b66a42d",
+            "vertical": false,
+            "translation": "(1 093 244)"
+        },
+        {
+            "bbox": [
+                699.0,
+                1187.0,
+                832.0,
+                1211.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "(3,120,578)",
+            "uuid": "684be0a3-008a-49aa-b1d8-441dca9f17d2",
+            "vertical": false,
+            "translation": "(3 120 578)"
+        },
+        {
+            "bbox": [
+                909.0,
+                357.99999999999994,
+                968.0,
+                375.0
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "eb82b3c6-66b7-4377-901e-0fe5eaa5396e",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                930.0000000000001,
+                394.0,
+                946.0,
+                417.0
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "fb9ec4f0-1a2b-4bac-b935-c85cc98c89c5",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                700.0,
+                1339.0000000000002,
+                832.0,
+                1364.0
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "(1,151,665)",
+            "uuid": "4a394d5d-95dc-47bb-80b8-d683af60afc9",
+            "vertical": false,
+            "translation": "(1 151 665)"
+        },
+        {
+            "bbox": [
+                758.0,
+                1416.0,
+                823.0,
+                1436.0
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "5,590",
+            "uuid": "60794710-c541-41b5-8614-004b738f7db4",
+            "vertical": false,
+            "translation": "5 590"
+        },
+        {
+            "bbox": [
+                730.9999999999999,
+                1301.0,
+                823.5713940526954,
+                1327.0583492093617
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "500,000",
+            "uuid": "dd80bb90-6f06-4dea-ab7a-57e018d3c9d7",
+            "vertical": false,
+            "translation": "500 000"
+        },
+        {
+            "bbox": [
+                873.0,
+                1341.0,
+                1006.0,
+                1363.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(1,153,854)",
+            "uuid": "cdb8c19b-ec34-4b68-ba65-56b47491f03c",
+            "vertical": false,
+            "translation": "(1 153 854)"
+        },
+        {
+            "bbox": [
+                874.0,
+                1376.0,
+                1004.9999999999999,
+                1401.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "(4,602,464)",
+            "uuid": "845ea942-f6a5-4b31-8eb1-c4ba9cc11434",
+            "vertical": false,
+            "translation": "(4 602 464)"
+        },
+        {
+            "bbox": [
+                919.0000000000001,
+                1415.0000000000002,
+                993.9999999999999,
+                1436.9999999999998
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "58,683",
+            "uuid": "81230126-bb22-465d-a76e-7a9147dc1e5b",
+            "vertical": false,
+            "translation": "58 683"
+        },
+        {
+            "bbox": [
+                720.0,
+                1529.0,
+                833.0000000000001,
+                1552.0
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "(537,500)",
+            "uuid": "3eaeb9cd-8790-4b16-81d8-79d4a4729545",
+            "vertical": false,
+            "translation": "(537 500)"
+        },
+        {
+            "bbox": [
+                904.0,
+                961.0,
+                993.9999999999999,
+                984.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "470,632",
+            "uuid": "56f856c6-e0eb-4cf0-99c8-dc12ad4f06ee",
+            "vertical": false,
+            "translation": "470 632"
+        },
+        {
+            "bbox": [
+                883.0000000000001,
+                1000.0,
+                993.9999999999999,
+                1022.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "4,500,000",
+            "uuid": "c9d2ea84-aff5-4662-b7df-22fccaa95c39",
+            "vertical": false,
+            "translation": "4 500 000"
+        },
+        {
+            "bbox": [
+                885.0,
+                1037.0,
+                995.0,
+                1058.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "1,500,000",
+            "uuid": "6ae4a7aa-c7eb-48b1-b1f8-0bbbac7e9ac2",
+            "vertical": false,
+            "translation": "1 500 000"
+        },
+        {
+            "bbox": [
+                873.0,
+                1188.9999999999998,
+                1006.0,
+                1211.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "(2,420,510)",
+            "uuid": "09d74f4d-9e65-4fc4-a44b-79b0fc62a0b7",
+            "vertical": false,
+            "translation": "(2 420 510)"
+        },
+        {
+            "bbox": [
+                1144.0,
+                318.0,
+                1258.0,
+                342.0
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Company",
+            "uuid": "abefc220-694c-4885-82d1-a6f2bf19a570",
+            "vertical": false,
+            "translation": "Société"
+        },
+        {
+            "bbox": [
+                882.0,
+                1605.0,
+                995.0,
+                1625.0
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "4,000,000",
+            "uuid": "56140269-1a0e-4032-b48f-aa7e4513c940",
+            "vertical": false,
+            "translation": "4 000 000"
+        },
+        {
+            "bbox": [
+                883.0000000000001,
+                1640.0,
+                995.0,
+                1664.0
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "6,500,000",
+            "uuid": "9942921c-645d-4b77-b623-f5c0ec545a31",
+            "vertical": false,
+            "translation": "6 500 000"
+        },
+        {
+            "bbox": [
+                1088.0,
+                356.0,
+                1151.0,
+                376.0
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "2df75dc8-f4eb-4dc0-a59d-01f78d7f9698",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                1112.0,
+                395.0,
+                1131.0,
+                419.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "cb4d7b71-09ee-48ac-9ec6-8fcb459479b7",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                893.0,
+                1716.0,
+                1006.0,
+                1740.0
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "(680,000)",
+            "uuid": "93f9c75a-27f5-41fc-84b5-c460c0297202",
+            "vertical": false,
+            "translation": "(680 000)"
+        },
+        {
+            "bbox": [
+                907.0,
+                1490.9999999999998,
+                1004.9999999999999,
+                1514.0
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "(11,404)",
+            "uuid": "6a4e0d3c-a509-4cfc-8bbf-18e903227ed8",
+            "vertical": false,
+            "translation": "(11 404)"
+        },
+        {
+            "bbox": [
+                872.8540320193497,
+                1527.9045079820194,
+                1007.693511022339,
+                1556.063291439667
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "(1,069,195)",
+            "uuid": "8673c2c2-f1c7-4f9d-a39f-8f966405b581",
+            "vertical": false,
+            "translation": "(1 069 195)"
+        },
+        {
+            "bbox": [
+                1091.0,
+                698.0,
+                1168.0,
+                719.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "88,299",
+            "uuid": "b0ca0923-9224-4f1b-9f4d-efdfd9e037f4",
+            "vertical": false,
+            "translation": "88 299"
+        },
+        {
+            "bbox": [
+                1250.0,
+                357.0,
+                1310.0,
+                377.0
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "637c3ab5-901f-4e5a-8b6c-76dea565d51d",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                1047.0,
+                1755.9999999999998,
+                1179.0,
+                1778.0
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "(2,601,184)",
+            "uuid": "3eb59087-6cb8-4b26-87b6-6ce40ed5d3bc",
+            "vertical": false,
+            "translation": "(2 601 184)"
+        },
+        {
+            "bbox": [
+                1266.0,
+                697.0,
+                1341.0,
+                719.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "10,792",
+            "uuid": "8a8bf86f-22e8-47f3-b278-0feff56e97b0",
+            "vertical": false,
+            "translation": "10 792"
+        },
+        {
+            "bbox": [
+                1219.0,
+                885.0,
+                1352.0,
+                909.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(5,923,616)",
+            "uuid": "06774a50-7344-4dbd-9aff-be95dc71d55b",
+            "vertical": false,
+            "translation": "(5 923 616)"
+        },
+        {
+            "bbox": [
+                1229.0,
+                1001.0,
+                1342.0,
+                1021.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "4,500,000",
+            "uuid": "357decd7-cbdf-44db-8df6-4f2f1680a30e",
+            "vertical": false,
+            "translation": "4 500 000"
+        },
+        {
+            "bbox": [
+                1231.0,
+                1038.0,
+                1343.0,
+                1058.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "1,500,000",
+            "uuid": "49022479-9385-4a3f-b0c6-f9976875d12c",
+            "vertical": false,
+            "translation": "1 500 000"
+        },
+        {
+            "bbox": [
+                1266.0,
+                1187.0,
+                1344.0,
+                1211.0
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "76,384",
+            "uuid": "75916bbd-cadd-4d22-ac06-b81e349a1212",
+            "vertical": false,
+            "translation": "76 384"
+        },
+        {
+            "bbox": [
+                1219.0,
+                1376.0,
+                1353.0,
+                1400.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "(4,000,000)",
+            "uuid": "77d368d0-9b9e-4c67-9d35-bf31b0fdb864",
+            "vertical": false,
+            "translation": "(4 000 000)"
+        },
+        {
+            "bbox": [
+                1264.0,
+                1490.0,
+                1341.0,
+                1512.9999999999998
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "24,596",
+            "uuid": "55872f65-fb82-483d-bc87-58dd11e92896",
+            "vertical": false,
+            "translation": "24 596"
+        },
+        {
+            "bbox": [
+                1241.0,
+                1528.0,
+                1353.0,
+                1551.0
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "(534,597)",
+            "uuid": "bb675ac6-76df-441d-9980-24cf592dafca",
+            "vertical": false,
+            "translation": "(534 597)"
+        },
+        {
+            "bbox": [
+                1251.0,
+                1565.0,
+                1342.0,
+                1589.0
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "433,618",
+            "uuid": "667c515e-3300-49be-8049-3c0c404d3161",
+            "vertical": false,
+            "translation": "433 618"
+        },
+        {
+            "bbox": [
+                1229.0,
+                1606.0,
+                1342.0,
+                1625.9999999999998
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "4,000,000",
+            "uuid": "6de68a76-8952-46aa-9661-6517ed62331c",
+            "vertical": false,
+            "translation": "4 000 000"
+        },
+        {
+            "bbox": [
+                1229.0,
+                1643.0,
+                1342.0,
+                1663.0
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "6,500,000",
+            "uuid": "f195f992-294b-4dd6-9e96-a118f9df04db",
+            "vertical": false,
+            "translation": "6 500 000"
+        },
+        {
+            "bbox": [
+                1264.0,
+                1681.0,
+                1341.0,
+                1701.9999999999998
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "41,992",
+            "uuid": "202b2473-d635-4baa-ad15-e01500253568",
+            "vertical": false,
+            "translation": "41 992"
+        },
+        {
+            "bbox": [
+                1241.0,
+                1716.0,
+                1353.0,
+                1740.0
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "(680,000)",
+            "uuid": "ce032384-3b42-4763-a395-5e9b701dda0d",
+            "vertical": false,
+            "translation": "(680 000)"
+        },
+        {
+            "bbox": [
+                1241.0,
+                1754.0,
+                1351.0,
+                1779.0
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "(480,000)",
+            "uuid": "96182676-4454-4573-8572-9505e93965f3",
+            "vertical": false,
+            "translation": "(480 000)"
+        },
+        {
+            "bbox": [
+                699.9301200155163,
+                1829.4920449887052,
+                832.7109810184598,
+                1859.3420059893667
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "(1,183,575)",
+            "uuid": "805b1345-16ed-4eb4-bbb1-89147a7ea8dc",
+            "vertical": false,
+            "translation": "(1 183 575)"
+        },
+        {
+            "bbox": [
+                1055.0,
+                1947.0,
+                1168.0,
+                1968.0
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "5,392,785",
+            "uuid": "ffeadce3-6d05-489f-8ff7-9720e8c10c5f",
+            "vertical": false,
+            "translation": "5 392 785"
+        },
+        {
+            "bbox": [
+                571.0,
+                2043.0,
+                633.0,
+                2066.0
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "19(b)",
+            "uuid": "e8cbbe27-e1d5-408d-ba92-8be7d215ef5e",
+            "vertical": false,
+            "translation": "19(b)"
+        },
+        {
+            "bbox": [
+                710.0,
+                2042.0,
+                823.7369997889465,
+                2066.921603619273
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "3,004,977",
+            "uuid": "4e57e974-fbb4-4a4d-b4d7-2685399043ee",
+            "vertical": false,
+            "translation": "3 004 977"
+        },
+        {
+            "bbox": [
+                161.0,
+                2102.0,
+                1324.0,
+                2168.0
+            ],
+            "order": "118",
+            "label": "Footnote",
+            "text": "* These cash flows form part of the acquisition of Mermaid Marine Group Pty Ltd as disclosed in Note 19(d). The statement of cash flows should be read in conjunction with the accompanying notes on pages 21 to 42.",
+            "uuid": "a67dc41a-5156-488d-a7d5-96657b9c5a33",
+            "vertical": false,
+            "translation": "* Ces flux de trésorerie font partie de l'acquisition de Mermaid Marine Group Pty Ltd, comme indiqué à la note 19(d). L'état des flux de trésorerie doit être lu conjointement avec les notes d'accompagnement aux pages 21 à 42."
+        },
+        {
+            "bbox": [
+                1445.0,
+                2138.0,
+                1475.0,
+                2156.0
+            ],
+            "order": "119",
+            "label": "Page-footer",
+            "text": "37",
+            "uuid": "db54adbd-cd8b-424d-a6ed-72d818c2c298",
+            "vertical": false,
+            "translation": "37"
+        },
+        {
+            "bbox": [
+                1425.7828397069054,
+                2169.5684069406593,
+                1592.0176102556923,
+                2312.742843142429
+            ],
+            "order": "120",
+            "label": "Picture",
+            "text": "logo",
+            "uuid": "b6b17147-af5b-49b1-ace4-6dba851c29d8",
+            "vertical": false,
+            "translation": "logo"
+        },
+        {
+            "bbox": [
+                771.5124211368208,
+                394.0897676219866,
+                786.2975023781187,
+                419.20921030878617
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "c3a9fb48-9122-4c49-8066-f9991ae74378",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                1273.7571505760636,
+                394.1038797762595,
+                1286.3020679929225,
+                421.0024482039669
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "$",
+            "uuid": "76ea6ccf-421d-4d48-972c-4efa8754c671",
+            "vertical": false,
+            "translation": "$"
+        },
+        {
+            "bbox": [
+                869.1835638823648,
+                472.1097282166108,
+                994.6327380509535,
+                494.0768924325719
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "26,287,361",
+            "uuid": "83718fed-5b79-4291-9286-aeadd6a68576",
+            "vertical": false,
+            "translation": "26 287 361"
+        },
+        {
+            "bbox": [
+                918.4671680200248,
+                508.33812266837987,
+                993.2886397562902,
+                533.0560196867192
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "44,551",
+            "uuid": "fc6fe528-17e9-4bdf-b524-8df47837e746",
+            "vertical": false,
+            "translation": "44 551"
+        },
+        {
+            "bbox": [
+                686.5606816048021,
+                547.0025725096307,
+                831.8860879979057,
+                574.182976363824
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "(12,871,266)",
+            "uuid": "1cf93245-35ab-4155-9549-11cc31246ed8",
+            "vertical": false,
+            "translation": "(12 871 266)"
+        },
+        {
+            "bbox": [
+                861.0869874133423,
+                543.6050220278566,
+                1005.7333031223658,
+                570.78542588205
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "(20,296,167)",
+            "uuid": "35bbb599-c7bc-4565-a432-3cad8a033256",
+            "vertical": false,
+            "translation": "(20 296 167)"
+        },
+        {
+            "bbox": [
+                1068.8887367417988,
+                545.6435523169213,
+                1178.9014275627464,
+                572.8239561711143
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "(162,376)",
+            "uuid": "d992eb6a-9609-40bf-8e2e-04a7f48e46be",
+            "vertical": false,
+            "translation": "(162 376)"
+        },
+        {
+            "bbox": [
+                1256.3177655478573,
+                545.5215033449234,
+                1353.4277333712864,
+                570.1243699257908
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "(10,527)",
+            "uuid": "d483486a-2924-4d7f-b7ad-7286bfa40736",
+            "vertical": false,
+            "translation": "(10 527)"
+        },
+        {
+            "bbox": [
+                163.66085486326145,
+                582.328709274584,
+                349.0526116170804,
+                610.8681333214867
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Income tax paid",
+            "uuid": "c76b10b1-1e0a-4adb-ba51-db01044b70a6",
+            "vertical": false,
+            "translation": "Impôt sur le revenu payé"
+        },
+        {
+            "bbox": [
+                874.6688010949407,
+                583.0086387832137,
+                1005.7333031223658,
+                610.8685527337614
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "(2,116,458)",
+            "uuid": "5db0d15d-14c1-4efb-b6a8-cd4f9132ed32",
+            "vertical": false,
+            "translation": "(2 116 458)"
+        },
+        {
+            "bbox": [
+                883.4969799879798,
+                697.1344596379321,
+                998.2633055974868,
+                724.3148634921249
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "2,826,043",
+            "uuid": "4aadb1f8-b1ff-400c-820d-b908e0280304",
+            "vertical": false,
+            "translation": "2 826 043"
+        },
+        {
+            "bbox": [
+                874.6688010949407,
+                846.5717378279816,
+                1005.054212438286,
+                875.7906719712392
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "(2,967,526)",
+            "uuid": "1112a952-3e20-40bc-a943-441c1a6aac24",
+            "vertical": false,
+            "translation": "(2 967 526)"
+        },
+        {
+            "bbox": [
+                885.3127434183265,
+                1302.7002148144795,
+                995.976836345617,
+                1328.4032776307472
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "2,200,000",
+            "uuid": "e7e96ec8-ca2f-4971-bdcd-c1f247e04a72",
+            "vertical": false,
+            "translation": "2 200 000"
+        },
+        {
+            "bbox": [
+                162.63082200360526,
+                1377.8828565826632,
+                455.98388701010845,
+                1405.691363756878
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Repayment of borrowings",
+            "uuid": "fb072f4f-a4a8-45f2-bb7c-5e43b0708004",
+            "vertical": false,
+            "translation": "Remboursement des emprunts"
+        },
+        {
+            "bbox": [
+                1066.3641240236395,
+                1529.2847289756087,
+                1181.6467320261952,
+                1556.063291439667
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "(537,500)",
+            "uuid": "8c1ee61c-d2da-4c25-84b3-c70acb7a3a36",
+            "vertical": false,
+            "translation": "(537 500)"
+        },
+        {
+            "bbox": [
+                160.57220400355962,
+                1681.71654607871,
+                519.8010450115231,
+                1709.5250532529244
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "Oversubscription to share issue",
+            "uuid": "73019cbd-83ad-4a66-88d0-4cd1b25b0a97",
+            "vertical": false,
+            "translation": "Sursouscription à l'émission d'actions"
+        },
+        {
+            "bbox": [
+                161.60151300358243,
+                1718.7945556443292,
+                424.0753080094011,
+                1743.5132286880755
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "Costs of issue of shares",
+            "uuid": "3a82908e-004b-44b5-99be-c7ebb4a23b0e",
+            "vertical": false,
+            "translation": "Coûts de l'émission d'actions"
+        },
+        {
+            "bbox": [
+                162.63082200360526,
+                1789.8607406450997,
+                563.0320230124815,
+                1853.717312674777
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "Net Cash Provided By (Used By) Financing Activities",
+            "uuid": "962ca642-d555-47d8-83e4-ec81427b2ce9",
+            "vertical": false,
+            "translation": "Trésorerie nette des (utilisées par les) activités de financement"
+        },
+        {
+            "bbox": [
+                884.4166778885507,
+                1831.937593709914,
+                997.3209346402807,
+                1856.1463052948504
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "5,241,766",
+            "uuid": "5b652b74-1e96-4827-bd4b-0a6742e9177d",
+            "vertical": false,
+            "translation": "5 241 766"
+        },
+        {
+            "bbox": [
+                1046.6045387779402,
+                1829.6960463409384,
+                1179.6702699496223,
+                1856.1463052948504
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "(3,138,684)",
+            "uuid": "9403cede-90ac-4e8c-b416-d223c23d531a",
+            "vertical": false,
+            "translation": "(3 138 684)"
+        },
+        {
+            "bbox": [
+                1231.1940379117211,
+                1831.0409747623237,
+                1342.7541963687875,
+                1857.939543190031
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "5,305,609",
+            "uuid": "8c8a009b-c3ab-48b2-b4ba-7e5366d5f029",
+            "vertical": false,
+            "translation": "5 305 609"
+        },
+        {
+            "bbox": [
+                701.1712770494335,
+                1886.610596344871,
+                832.444877161564,
+                1914.4057837201688
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "(2,642,322)",
+            "uuid": "8df01ac2-6d7c-4cc7-88cd-bf36bbb9a18a",
+            "vertical": false,
+            "translation": "(2 642 322)"
+        },
+        {
+            "bbox": [
+                884.4166778885507,
+                1887.0589058186663,
+                995.976836345617,
+                1911.715926877398
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "5,647,299",
+            "uuid": "71b3cce0-bccd-4b63-b2d3-7bca9da3312f",
+            "vertical": false,
+            "translation": "5 647 299"
+        },
+        {
+            "bbox": [
+                1047.948637072604,
+                1886.610596344871,
+                1178.3261716549587,
+                1913.5091647725785
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "(3,050,385)",
+            "uuid": "9d858f3c-1368-4e77-987a-be5cd9fdeb86",
+            "vertical": false,
+            "translation": "(3 050 385)"
+        },
+        {
+            "bbox": [
+                163.66085486326145,
+                1945.9688064681131,
+                660.0761449256852,
+                1972.4697002259516
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "Cash at the Beginning of the Financial Year",
+            "uuid": "dbcb2daa-0b23-47bd-8be2-405a7b80a0e9",
+            "vertical": false,
+            "translation": "Trésorerie au début de l'exercice"
+        },
+        {
+            "bbox": [
+                711.6870369157592,
+                1945.9688064681131,
+                823.0579091048667,
+                1971.1106800332418
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "5,647,299",
+            "uuid": "53026940-311e-4a7b-8fa8-97a51e2c58b8",
+            "vertical": false,
+            "translation": "5 647 299"
+        },
+        {
+            "bbox": [
+                160.94449212694173,
+                2003.0476545619188,
+                432.5807657589109,
+                2068.2806238119824
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "Cash at the End of the Financial Year",
+            "uuid": "b719decc-f0e0-43e7-a7fb-978bf8caace0",
+            "vertical": false,
+            "translation": "Trésorerie à la fin de l'exercice"
+        },
+        {
+            "bbox": [
+                1231.1914102369003,
+                1886.8514280852432,
+                1341.8831917419277,
+                1911.993301650372
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "5,392,785",
+            "uuid": "59cd2348-ed55-43a7-be11-e20c437c1ea2",
+            "vertical": false,
+            "translation": "5 392 785"
+        },
+        {
+            "bbox": [
+                881.4597079357401,
+                2043.138750246854,
+                995.5469428611669,
+                2067.6011137156274
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "5,647,299",
+            "uuid": "1346b698-7d52-49db-8101-c7f28f35e471",
+            "vertical": false,
+            "translation": "5 647 299"
+        },
+        {
+            "bbox": [
+                1056.6651044283603,
+                2042.459240150499,
+                1168.7150673015474,
+                2068.960133908337
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "2,342,400",
+            "uuid": "02cca97c-b8db-4a88-991b-c81bea2ea33c",
+            "vertical": false,
+            "translation": "2 342 400"
+        },
+        {
+            "bbox": [
+                1232.5495916050602,
+                2043.138750246854,
+                1341.2041010578478,
+                2066.921603619273
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "5,392,785",
+            "uuid": "cf62dcf1-4993-464e-974b-8018ef732d7e",
+            "vertical": false,
+            "translation": "5 392 785"
+        },
+        {
+            "bbox": [
+                157.17903594959992,
+                312.46393125515533,
+                1351.0708622050718,
+                2082.6567559694713
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "Cash Flows from Operating Activities Receipts from customers Interest received Payments to suppliers and employee Income tax paid Borrowing costs paid Net Cash Provided By Operating Activities Note acquired group* Proceeds from buy back of shares  Capital contributions received* Proceeds from sale of property, Cash Flows from Investing Activities Payments for property, plant and equipment Cash paid for purchase of shares* Opening cash balance of plant and equipment Net Cash Provided By (Used In) Investing Activities 19(a) Loans from shareholders Proceeds from borrowings Proceeds from issue of shares Oversubscription to share issue Costs of issue of shares Advances to controlled entities Net Cash Provided By (Used By) Financing Activities Cash Flows from Financing Activities Proceeds on refinancing of vessel Hire purchase principal payments Repayment of borrowings Repayment of loans-other persons Loans advanced from/(to) related parties Dividends paid Net Increase/(Decrease) in Cash Held Cash at the Beginning of the Financial Year Cash at the End of the Financial Year Consolidated 2000 1,661,831 2,826,043 (3,345,578) (2,967,526) (5,923,616) 225,000 16,077,952 26,287,361 185,959 21,319 210,840 44,551 (12,871,266) (20,296,167) (162,376) (10,527) (589,953) (2,116,458) 64,716 (1,165,742) (1,093,244) (3,120,578 ) 1999 $ (1,151,665) 5,590 500,000 2,200,000 (1,153,854) (4,602,464) 58,683 (537,500) 470,632 4,500,000 1,500,000 (2,420,510) Company 4,000,000 6,500,000 2000 $ (680,000) (11,404) (1,069,195) (537,500) 88,299 1999 (2,601,184) 10,792 (5,923,616) 4,500,000 1,500,000 76,384 (4,000,000) 24,596 (534,597) 433,618 4,000,000 6,500,000 41,992 (680,000) (480,000) (1,183,575) 5,241,766 (3,138,684) 5,305,609 (2,642,322) 5,647,299 (3,050,385) 5,392,785 5,647,299 5,392,785 19 (b) 3,004,977 5,647,299 2,342,400 5,392,785",
+            "uuid": "99a0cedb-d284-4ef4-b3d8-506329d6623c",
+            "vertical": false,
+            "translation": "Flux de trésorerie des activités d'exploitation Reçus des clients Intérêts reçus Paiements aux fournisseurs et aux employés Impôt sur le revenu payé Coûts d'emprunt payés Trésorerie nette des activités opérationnelles Note groupe acquis* Bénéfices du rachat d'actions Apports en capital reçus* Bénéfices de la vente de biens, Flux de trésorerie des activités d'investissement Paiements pour les immobilisations corporelles Trésorerie payée pour l'achat d'actions* Solde de trésorerie d'ouverture des installations et équipements Trésorerie nette fournie par (utilisée dans) les activités d'investissement 19(a) Prêts des actionnaires Bénéfices des emprunts Bénéfices de l'émission d'actions Sursouscription à l'émission d'actions Coûts de l'émission d'actions Avances aux entités contrôlées Trésorerie nette fournie par (utilisée par) les activités de financement Flux de trésorerie des activités de financement Bénéfices du refinancement du navire Échelonnage des paiements principaux Remboursement des emprunts Remboursement des prêts - autres personnes Prêts avancés de/(à des) parties liées Dividendes versés Augmentation/(diminution) nette de la trésorerie détenue Trésorerie au début de l'exercice Trésorerie à la fin de l'exercice Consolidé 2000 1 661 831 2 826 043 (3 345 578) (2 967 526) (5 923 616) 225 000 16 077 952 26 287 361 185 959 21 319 210 840 44 551 (12 871 266) (20 296 167) (162 376) (10 527) (589 953) (2 116 458) 64 716 (1 165 742) (1 093 244) (3 120 578) 1999 $ (1 151 665) 5 590 500 000 2 200 000 (1 153 854) (4 602 464) 58 683 (537 500) 470 632 4 500 000 1 500 000 (2 420 510) Société 4 000 000 6 500 000 2000 $ (680 000) (11 404) (1 069 195) (537 500) 88 299 1999 (2 601 184) 10 792 (5 923 616) 4 500 000 1 500 000 76 384 (4 000 000) 24 596 (534 597) 433 618 4 000 000 6 500 000 41 992 (680 000) (480 000) (1 183 575) 5 241 766 (3 138 684) 5 305 609 (2 642 322) 5 647 299 (3 050 385) 5 392 785 5 647 299 5 392 785 19(b) 3 004 977 5 647 299 2 342 400 5 392 785"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,483 @@
+{
+    "file": "jrc32004R1882.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                109.97821322926283,
+                121.08982579497165,
+                233.54590182716518,
+                146.89527179000882
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.10.2004",
+            "uuid": "a8237db1-3e79-46a7-b64f-d9b4939cdc8e",
+            "vertical": false,
+            "translation": "29.10.2004"
+        },
+        {
+            "bbox": [
+                328.61181995212576,
+                119.73164442681174,
+                362.5589871493517,
+                142.82072768552936
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "c1a63236-2350-4c13-b97d-2e8db67f99c7",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                638.2099847908261,
+                118.37346305865209,
+                1003.4815038329771,
+                152.32799726264818
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "3d25010d-7f04-4b0c-b8a4-05c01ad0ed7a",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1425.7842637664676,
+                121.08982579497165,
+                1531.6994254218123,
+                148.25345315816872
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 326/39",
+            "uuid": "d67e3022-b41d-47f5-9218-155294986890",
+            "vertical": false,
+            "translation": "L 326/39"
+        },
+        {
+            "bbox": [
+                1420.3538957359942,
+                210.72979609352151,
+                1534.4163775186737,
+                236.53524208855868
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "(EUR/100 kg)",
+            "uuid": "58a252c9-75a3-4a5d-afa9-83c6577cc135",
+            "vertical": false,
+            "translation": "(EUR/100 kg)"
+        },
+        {
+            "bbox": [
+                1219.3866659284172,
+                247.4006930338374,
+                1489.6061168183357,
+                296.2952222875919
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Erstattungssätze pro 100 kg des Grunderzeugnisses",
+            "uuid": "5ba9bf22-dfc6-430e-a0ff-1089983b96f3",
+            "vertical": false,
+            "translation": "Refund rates per 100 kg of basic product"
+        },
+        {
+            "bbox": [
+                158.87716268707945,
+                308.5188546010303,
+                241.70825064831067,
+                331.6079378597479
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "KN-Code",
+            "uuid": "3bd5e3d3-537a-4bb4-84fd-cdd512b08e8d",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                600.1903362510163,
+                309.8770359691902,
+                866.3361270772675,
+                332.96611922790754
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Bezeichnung der Erzeugnisse (¹)",
+            "uuid": "d097c7b9-358f-4b31-b289-009e8eb41f3b",
+            "vertical": false,
+            "translation": "Name of products (¹)"
+        },
+        {
+            "bbox": [
+                1194.9447055464145,
+                319.3843055463093,
+                1334.8070343989853,
+                390.00973669062125
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "bei Festlegung der Erstattungen im Voraus",
+            "uuid": "fe3a405a-22cb-4a7b-9af7-52ef726ba1b9",
+            "vertical": false,
+            "translation": "when determining refunds in advance"
+        },
+        {
+            "bbox": [
+                1380.9751817872125,
+                332.96611922790754,
+                1514.048077200338,
+                375.0697416408628
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "in anderen Fällen",
+            "uuid": "cfad0b27-5a7f-43e4-b481-00f466febedf",
+            "vertical": false,
+            "translation": "in other cases"
+        },
+        {
+            "bbox": [
+                107.27746854729602,
+                418.53154542197797,
+                221.3399503299751,
+                445.6951727851748
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "ex 1006 30",
+            "uuid": "442fcb91-067b-49d4-a3e2-3204ec14c430",
+            "vertical": false,
+            "translation": "ex 1006 30"
+        },
+        {
+            "bbox": [
+                298.736839417213,
+                419.8897267901379,
+                585.2509305617996,
+                449.7697168896545
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Vollständig geschliffener Reis:",
+            "uuid": "1157082e-b670-4b55-8147-9a48255bb7d9",
+            "vertical": false,
+            "translation": "Wholly milled rice:"
+        },
+        {
+            "bbox": [
+                298.736839417213,
+                455.2024423622939,
+                496.9882958490122,
+                486.4406138299701
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "— rundkörniger Reis",
+            "uuid": "70c0c669-a007-431b-b5ef-a3abe41af4fd",
+            "vertical": false,
+            "translation": "— round grain rice"
+        },
+        {
+            "bbox": [
+                1252.0129144727514,
+                466.441120752748,
+                1279.705411957974,
+                475.0218946214085
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "0d1e68a0-bc2c-4408-a495-a070853da8fb",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1436.109517473106,
+                466.441120752748,
+                1462.241874254936,
+                474.6318594455604
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "c79bf56f-81c1-4f6d-b89a-cf0386d97884",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                298.736839417213,
+                491.8733393026095,
+                503.77772928845746,
+                521.7533294021262
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "— mittelkörniger Reis",
+            "uuid": "b73dfd19-a906-4bff-9502-bef6ab84fdf3",
+            "vertical": false,
+            "translation": "— medium grain rice"
+        },
+        {
+            "bbox": [
+                1251.622879296903,
+                502.32435693078315,
+                1278.9253416062777,
+                510.5150956235955
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "360f144d-2a77-4d73-b877-1a4afec7d19a",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1436.499552648954,
+                502.71439210663146,
+                1462.6319094307844,
+                512.4652715028366
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "8c70fa3b-b3e1-4f8c-86e1-906915ed828b",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                297.3789527293239,
+                528.5442362429254,
+                488.84097572167803,
+                557.0660449742821
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "— langkörniger Reis",
+            "uuid": "f2c7eb8e-0a0b-429b-baf7-4a2a44351374",
+            "vertical": false,
+            "translation": "— long grain rice"
+        },
+        {
+            "bbox": [
+                1248.1125627142692,
+                538.2075931088185,
+                1280.0954471338225,
+                545.6182614499346
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "804c0b32-f6d1-4744-8104-dc86a7f510e5",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1435.3294471214097,
+                538.2075931088185,
+                1463.0219446066324,
+                546.3983318016309
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "89cfa92b-905f-4c39-a4e3-bada24555aff",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                109.99058980063683,
+                565.2151331832413,
+                228.12673164698302,
+                588.3042164419586
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "1006 40 00",
+            "uuid": "36a465f7-2967-48f3-943f-41d362e5fc02",
+            "vertical": false,
+            "translation": "1006 40 00"
+        },
+        {
+            "bbox": [
+                297.3789527293239,
+                565.2151331832413,
+                391.07313419366744,
+                585.5878537056391
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Bruchreis",
+            "uuid": "8f66c299-7843-450e-af0c-32b14af99fa5",
+            "vertical": false,
+            "translation": "Broken rice"
+        },
+        {
+            "bbox": [
+                1250.4527737693584,
+                573.3107589351573,
+                1278.9253416062777,
+                581.1114624521214
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "51d1dace-bfa3-47ef-9288-e4bd9c009f72",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                1434.1593415938648,
+                570.9705478800681,
+                1463.802014958329,
+                581.5014976279697
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "070c5f52-1612-4f29-a70f-f59984c1b186",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                107.27481642485876,
+                599.1696673872374,
+                229.48461833487207,
+                623.6169320141146
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "1007 00 90",
+            "uuid": "6ffa1163-3413-4450-9fdc-41531089e8e7",
+            "vertical": false,
+            "translation": "1007 00 90"
+        },
+        {
+            "bbox": [
+                298.736839417213,
+                597.8114860190777,
+                790.2918204330441,
+                623.6169320141146
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Körner-Sorghum, anderes als Hybriden zur Aussaat",
+            "uuid": "72ac700f-b4c2-4a3f-bcbc-b89664877c48",
+            "vertical": false,
+            "translation": "Grain sorghum, other than hybrids for sowing"
+        },
+        {
+            "bbox": [
+                1251.232844121055,
+                608.413924761496,
+                1279.315376782126,
+                615.8245931026121
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "54a82685-630e-4006-8f0e-f3c3bd5b72bd",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1435.3294471214097,
+                609.1939951131924,
+                1462.241874254936,
+                616.9946986301568
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "e3db51ff-6b13-4ba2-9fa3-c1983cc389f3",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                99.75493156844801,
+                204.57430844175624,
+                1539.2659290956547,
+                644.6765755417103
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "00b53d71-ce2e-4041-8bc3-ca892157f10d",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                112.46301697040552,
+                654.5191182564059,
+                1535.4366634924916,
+                698.1075217072
+            ],
+            "order": "31",
+            "label": "Footnote",
+            "text": "(¹) Hinsichtlich der landwirtschaftlichen Erzeugnisse müssen die im Anhang E der Verordnung (EG) Nr. 1520/2000 der Kommission angegebenen Koeffizienten angewandt werden (ABl. L 177 vom 15.7.2000, S. 1).",
+            "uuid": "68357b21-cdd9-4b21-83df-c847c74fa1c5",
+            "vertical": false,
+            "translation": "(¹) As regards agricultural products, the coefficients set out in Annex E to Commission Regulation (EC) No. 1520/2000 must be applied (OJ L 177 dated 15.7.2000, p. 1)."
+        },
+        {
+            "bbox": [
+                108.2456995948375,
+                698.1075217072,
+                648.0623236675401,
+                716.38652960592
+            ],
+            "order": "32",
+            "label": "Footnote",
+            "text": "(²) Die betreffende Ware fällt unter den KN-Code 3505 10 50.",
+            "uuid": "0b481747-c6fe-4629-bc60-aaed8a97c660",
+            "vertical": false,
+            "translation": "(²) The goods concerned fall under CN code 3505 10 50."
+        },
+        {
+            "bbox": [
+                112.46301697040552,
+                720.6047621979326,
+                1532.293200078295,
+                737.4776925659818
+            ],
+            "order": "33",
+            "label": "Footnote",
+            "text": "(³) Waren, aufgenommen in Anhang III der Verordnung (EG) Nr. 1784/2003 oder gemäß Artikel 2 der Verordnung (EG) Nr. 2825/93 (ABl. L 258 vom 16.10.1993, S. 6).",
+            "uuid": "9880a5b3-63c3-4d19-8120-3c9015b28574",
+            "vertical": false,
+            "translation": "(³) Goods listed in Annex III to Regulation (EC) No. 1784/2003 or in accordance with Article 2 of Regulation (EC) No. 2825/93 (OJ L 258 dated 16.10.1993, p. 6)."
+        },
+        {
+            "bbox": [
+                112.46301697040552,
+                741.6959251579941,
+                1535.1047449953405,
+                779.6600184861053
+            ],
+            "order": "34",
+            "label": "Footnote",
+            "text": "(⁴) Für Sirupe der KN-Codes 1702 30 99, 1702 40 90 und 1702 60 90, hergestellt als Mischung von Glucose- und Fructosesirup, gibt nur der Glucosesirup Recht auf Ausfuhrerstattung.",
+            "uuid": "772ec4c2-51c2-4f69-80c2-6f60fcd938c8",
+            "vertical": false,
+            "translation": "(⁴) In the case of syrups falling under CN codes 1702 30 99, 1702 40 90 and 1702 60 90, produced as a mixture of glucose and fructose syrup, the right to an export refund only relates to glucose syrup."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

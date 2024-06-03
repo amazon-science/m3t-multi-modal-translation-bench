@@ -1,0 +1,917 @@
+{
+    "file": "jrc31999R0804.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                195.3422854910882,
+                144.92171338760795,
+                958.8566807344118,
+                178.9905759313418
+            ],
+            "order": "1",
+            "label": "List-item",
+            "text": "B. L'annexe II du règlement (CEE) nº 2377/90 est modifiée comme suit:",
+            "uuid": "cf633d8c-e136-45b0-99cc-9121bb7a22ff",
+            "vertical": false,
+            "translation": "B. Annex II to Regulation (EEC) No. 2377/90 is hereby amended as follows:"
+        },
+        {
+            "bbox": [
+                221.3281858545816,
+                206.75023494212678,
+                526.0143335030124,
+                235.44846613455863
+            ],
+            "order": "2",
+            "label": "List-item",
+            "text": "2. Composés organiques",
+            "uuid": "055cfd51-0a4c-4aa7-875d-0c8c8ef4c735",
+            "vertical": false,
+            "translation": "2. Organic compounds"
+        },
+        {
+            "bbox": [
+                269.2121470180025,
+                281.86372895029893,
+                2113.5576433202227,
+                622.9756793090048
+            ],
+            "order": "3",
+            "label": "Table",
+            "text": "",
+            "uuid": "504121e2-f45f-44a8-845d-5c2237557ad4",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                406.324529103753,
+                293.9651130131111,
+                784.2230623442804,
+                324.08181513490473
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Substance(s) pharmacologiquement active(s)",
+            "uuid": "427e8ec5-565d-44da-b389-f45853fa8896",
+            "vertical": false,
+            "translation": "Pharmacologically active substance(s)"
+        },
+        {
+            "bbox": [
+                1098.8297753507752,
+                295.1099994916502,
+                1250.9924590892178,
+                321.88040137768905
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Espèces animales",
+            "uuid": "d2ea35aa-8915-4d2b-9ef2-f6f563446bb0",
+            "vertical": false,
+            "translation": "Animal species"
+        },
+        {
+            "bbox": [
+                1697.1991647749353,
+                292.2589160421687,
+                1857.7224355319734,
+                325.7219183997173
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Autres dispositions",
+            "uuid": "de9220bd-83e6-4eee-bdcd-13204e4aa60c",
+            "vertical": false,
+            "translation": "Other provisions"
+        },
+        {
+            "bbox": [
+                289.2763108434126,
+                345.7997198142463,
+                536.7496865938465,
+                377.5895720539177
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "«1-Méthyl-2-pyrrolidone",
+            "uuid": "97299d49-b2d9-4dc7-be0a-cd751a83ef77",
+            "vertical": false,
+            "translation": "“1-Methyl-2-pyrrolidone"
+        },
+        {
+            "bbox": [
+                914.648219834374,
+                339.1071193427366,
+                999.9262074240505,
+                377.5895720539177
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Équidés",
+            "uuid": "bff312ac-8c63-4c22-8615-744bb8342416",
+            "vertical": false,
+            "translation": "Equidae"
+        },
+        {
+            "bbox": [
+                292.6205456508509,
+                399.34052358632414,
+                406.324529103753,
+                427.78407559024026
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Céfacétrile",
+            "uuid": "5f70954d-ad03-4ac6-aad6-cf304242b434",
+            "vertical": false,
+            "translation": "Cefacetrile"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                394.32107323269173,
+                989.8935030017357,
+                431.1303758259949
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Bovins",
+            "uuid": "c0c4603c-ee76-4e37-8142-a4ec6d67961d",
+            "vertical": false,
+            "translation": "Cattle"
+        },
+        {
+            "bbox": [
+                1458.086376043097,
+                395.99422335056903,
+                2110.2121634935647,
+                451.208177240524
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Uniquement à usage intramammaire et pour tous les tissus à l'exception du lait",
+            "uuid": "dd2bbb78-dafd-42ca-8f30-8302a8a30db8",
+            "vertical": false,
+            "translation": "For intramammary use only and for all tissues except milk"
+        },
+        {
+            "bbox": [
+                294.2926630545701,
+                474.6322788908079,
+                423.04570314094445,
+                508.0952812483566
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Enilconazole",
+            "uuid": "9ba247ae-ca30-40eb-811f-f603d03aaf92",
+            "vertical": false,
+            "translation": "Enilconazole"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                476.3054290086856,
+                1080.1878428025698,
+                506.4221311304793
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Bovins, équidés",
+            "uuid": "7af341a0-7acf-4620-b582-e8c41469bb10",
+            "vertical": false,
+            "translation": "Cattle, equidae"
+        },
+        {
+            "bbox": [
+                1456.4142586393777,
+                477.978579126563,
+                1789.1656219794884,
+                508.0952812483566
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Pour usage topique uniquement",
+            "uuid": "26e64148-2c1d-4902-92ae-11e98a5bd4b4",
+            "vertical": false,
+            "translation": "For topical use only"
+        },
+        {
+            "bbox": [
+                294.2926630545701,
+                528.0314085059133,
+                408.6989452077469,
+                556.2747011369546
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Etamsylate",
+            "uuid": "f134bd38-648a-45dc-a4a9-a69712a362f5",
+            "vertical": false,
+            "translation": "Etamsylate"
+        },
+        {
+            "bbox": [
+                295.79681069617135,
+                583.1375093651462,
+                401.48921624672215,
+                613.8696455413719
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Strychnine",
+            "uuid": "db9733ba-de5d-4e73-a6ac-88f6cec8c2ad",
+            "vertical": false,
+            "translation": "Strychnine"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                529.846232780763,
+                1346.054509993914,
+                559.9629349025568
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Toutes les espèces productrices d'aliments",
+            "uuid": "625894bc-5085-4056-ad18-c4050ed736ee",
+            "vertical": false,
+            "translation": "All food-producing species"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                583.3870365528408,
+                984.8771507905782,
+                608.484288321002
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Bovins",
+            "uuid": "e22b58a4-919c-43df-a013-f835da6b12e9",
+            "vertical": false,
+            "translation": "Cattle"
+        },
+        {
+            "bbox": [
+                1454.742141235659,
+                585.0601866707182,
+                1951.3610101402458,
+                615.1768887925118
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Jusqu'à 0,1 mg/kg pc par voie orale seulement»",
+            "uuid": "77740434-28f4-4027-9aa0-493e55048b8e",
+            "vertical": false,
+            "translation": "Up to 0.1 mg/kg bw orally only\""
+        },
+        {
+            "bbox": [
+                230.75220171324244,
+                653.3515926845258,
+                595.2737957240166,
+                681.7951446884424
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "6. Substances d'origine végétale",
+            "uuid": "44c0af16-9106-4ab4-b185-838cc45fa82b",
+            "vertical": false,
+            "translation": "6. Substances of plant origin"
+        },
+        {
+            "bbox": [
+                294.2926630545701,
+                732.075363499902,
+                2108.540046089846,
+                896.0440750518896
+            ],
+            "order": "21",
+            "label": "Table",
+            "text": "",
+            "uuid": "5fc7bf7c-0fe5-4412-918c-c98cddb1f6ef",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                409.66876391119126,
+                745.4605644429214,
+                784.2230623442804,
+                773.9041164468377
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Substance(s) pharmacologiquement active(s)",
+            "uuid": "6f19b8f2-c967-4ddd-af58-26d45dc749ca",
+            "vertical": false,
+            "translation": "Pharmacologically active substance(s)"
+        },
+        {
+            "bbox": [
+                294.2926630545701,
+                795.6550679792442,
+                617.0113219723656,
+                830.7912204546702
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "«Centellae asiaticae extractum",
+            "uuid": "01f941e1-fb2e-4e0b-a323-42e98ee78889",
+            "vertical": false,
+            "translation": "\"Centellae asiaticae extractum"
+        },
+        {
+            "bbox": [
+                300.98113266944665,
+                849.1958717513218,
+                516.6842777492168,
+                882.6588741088704
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Melissae aetheroleum",
+            "uuid": "0da0a60e-6239-4c41-97c1-6c65dbadb218",
+            "vertical": false,
+            "translation": "Melissae aetheroleum"
+        },
+        {
+            "bbox": [
+                1098.5811342434802,
+                745.4605644429214,
+                1244.0553483670462,
+                770.5578162110827
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Espèces animales",
+            "uuid": "99fe3824-3d26-42ad-95be-c4cf00446ce4",
+            "vertical": false,
+            "translation": "Animal species"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                799.001368214999,
+                1341.0381577827568,
+                825.7717701010376
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Toutes les espèces productrices d'aliments",
+            "uuid": "4c1b931f-5d3f-41ff-a7e0-1efc27f67be2",
+            "vertical": false,
+            "translation": "All food-producing species"
+        },
+        {
+            "bbox": [
+                912.9761024306549,
+                850.8690218691991,
+                1341.0381577827568,
+                884.3320242267476
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Toutes les espèces productrices d'aliments",
+            "uuid": "6cff214c-0a1b-4b37-9cee-86c6e6184e29",
+            "vertical": false,
+            "translation": "All food-producing species"
+        },
+        {
+            "bbox": [
+                1695.5270473712162,
+                745.4605644429214,
+                1859.3945529356927,
+                773.9041164468377
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Autres dispositions",
+            "uuid": "ea3992bf-49a0-454d-9510-ee2b8abe56a3",
+            "vertical": false,
+            "translation": "Other provisions"
+        },
+        {
+            "bbox": [
+                1456.4142586393777,
+                799.001368214999,
+                1777.4608001534543,
+                832.4643705725476
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Pour usage topique uniquement»",
+            "uuid": "2ec168d2-2a91-4404-9ae7-825b0aca8893",
+            "vertical": false,
+            "translation": "For topical use only”"
+        },
+        {
+            "bbox": [
+                197.30985363885947,
+                922.8144769379286,
+                963.1396245422293,
+                956.2774792954772
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "C. L'annexe III du règlement (CEE) nº 2377/90 est modifiée comme suit:",
+            "uuid": "bd33d0d0-c3d8-4284-a441-5a2be386c199",
+            "vertical": false,
+            "translation": "C. Annex III to Regulation (EEC) No. 2377/90 is hereby amended as follows:"
+        },
+        {
+            "bbox": [
+                228.89951664996914,
+                958.9570805319116,
+                586.3254998681027,
+                983.4383122591813
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "1. Médicaments anti-infectieux",
+            "uuid": "4aed6d24-35fc-49fe-b1b1-410ebbbd8de8",
+            "vertical": false,
+            "translation": "1. Anti-infective drugs"
+        },
+        {
+            "bbox": [
+                229.0800843095233,
+                994.593665027175,
+                434.7505249669785,
+                1021.3640669132141
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "1.2. Antibiotiques",
+            "uuid": "3f49400c-4bc2-4f0f-9f89-935049fc0093",
+            "vertical": false,
+            "translation": "1.2. Antibiotics"
+        },
+        {
+            "bbox": [
+                229.0800843095233,
+                1021.3640669132141,
+                468.19287304136145,
+                1054.8270692707624
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "1.2.4. Céphalosporines",
+            "uuid": "9b01d9a7-df6c-48e1-8b2b-638f25c4dde7",
+            "vertical": false,
+            "translation": "1.2.4. Cephalosporins"
+        },
+        {
+            "bbox": [
+                294.2926630545701,
+                1099.529139368962,
+                2118.572750512161,
+                1499.7755329253805
+            ],
+            "order": "34",
+            "label": "Table",
+            "text": "",
+            "uuid": "f0a5c61d-b813-41b5-9949-3736765c45e4",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                305.78757786499597,
+                1113.2934536024118,
+                564.7709346282068,
+                1166.370998434705
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Substance(s) pharmacologiquement active (s)",
+            "uuid": "f60b5498-5051-480a-9431-03eb0e9e6c1f",
+            "vertical": false,
+            "translation": "Pharmacologically active substance(s)"
+        },
+        {
+            "bbox": [
+                299.5470150514246,
+                1200.9523270193213,
+                408.75686428892317,
+                1225.9299951756946
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "«Céfacétrile",
+            "uuid": "379d614b-d878-4969-8aa3-995f7966f184",
+            "vertical": false,
+            "translation": "\"Cefacetrile"
+        },
+        {
+            "bbox": [
+                297.98687434803173,
+                1313.3518337230016,
+                419.67784921267304,
+                1344.5739189184683
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Céphapirine",
+            "uuid": "f53805f5-d936-4b93-a3b4-ca930db501e5",
+            "vertical": false,
+            "translation": "Cephapirin"
+        },
+        {
+            "bbox": [
+                630.296844170706,
+                1126.0193225502012,
+                784.7507738065968,
+                1155.6803034858947
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Résidu marqueur",
+            "uuid": "19ebe7dd-a252-4f63-9805-1d11f2ca78a7",
+            "vertical": false,
+            "translation": "Marker residue"
+        },
+        {
+            "bbox": [
+                1003.1704722815938,
+                1124.4582182904278,
+                1148.2635576971277,
+                1154.119199226121
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Espèces animales",
+            "uuid": "80358b10-5880-4fab-b99f-496c9d3574dc",
+            "vertical": false,
+            "translation": "Animal species"
+        },
+        {
+            "bbox": [
+                586.6129044757065,
+                1202.5134312790947,
+                683.3416280860623,
+                1227.4910994354682
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Céfacétril",
+            "uuid": "a11266b3-9dd3-4001-b14a-dc8e5392dea0",
+            "vertical": false,
+            "translation": "Cefacetrile"
+        },
+        {
+            "bbox": [
+                864.3179496796314,
+                1197.8301184997747,
+                934.5242813323091,
+                1225.9299951756946
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Bovins",
+            "uuid": "b7ea486d-ab16-4525-a324-ceb00ca0cf8a",
+            "vertical": false,
+            "translation": "Cattle"
+        },
+        {
+            "bbox": [
+                583.4926230689209,
+                1314.912937982775,
+                837.7955577219532,
+                1392.9681509714417
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Somme de céphapirine et de désacétylcéphapirine",
+            "uuid": "54ec9c36-6501-432f-991b-8f2f285622c5",
+            "vertical": false,
+            "translation": "Sum of cephapirin and deacetylcephapirin"
+        },
+        {
+            "bbox": [
+                864.3179496796314,
+                1318.0351465023216,
+                929.8438592221305,
+                1341.4517103989217
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Bovins",
+            "uuid": "bb7e524e-ddb8-4cd2-b7a3-91d2aa617fb6",
+            "vertical": false,
+            "translation": "Cattle"
+        },
+        {
+            "bbox": [
+                1351.0818491381965,
+                1127.5804268099746,
+                1401.0063516467674,
+                1149.435886446801
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "LMR",
+            "uuid": "75c4d86f-3756-4b15-a90c-7f08f092c2a7",
+            "vertical": false,
+            "translation": "LMR"
+        },
+        {
+            "bbox": [
+                1337.040582807661,
+                1199.3912227595479,
+                1441.570009934981,
+                1227.4910994354682
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "125 µg/kg",
+            "uuid": "97287324-8cc7-4044-9df9-aa3474e0bdca",
+            "vertical": false,
+            "translation": "125 µg/kg"
+        },
+        {
+            "bbox": [
+                1351.918801230669,
+                1312.9320599155724,
+                1442.4069620274536,
+                1344.1541451110393
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "50 µg/kg",
+            "uuid": "0d513c61-f700-40e9-a348-e6c897372b12",
+            "vertical": false,
+            "translation": "50 µg/kg"
+        },
+        {
+            "bbox": [
+                1355.66064453125,
+                1351.48828125,
+                1444.74365234375,
+                1375.47216796875
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "50 µg/kg",
+            "uuid": "31f21548-ac51-4490-b521-7be142f56681",
+            "vertical": false,
+            "translation": "50 µg/kg"
+        },
+        {
+            "bbox": [
+                1354.202130544982,
+                1383.6015254128017,
+                1446.2504320451596,
+                1411.7014020887218
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "50 µg/kg",
+            "uuid": "a844eb8f-4400-4a48-a184-1872c5d330ff",
+            "vertical": false,
+            "translation": "50 µg/kg"
+        },
+        {
+            "bbox": [
+                1342.610199198856,
+                1415.3061342620051,
+                1446.3821304670548,
+                1443.6373222994632
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "100 µg/kg",
+            "uuid": "afbcbfdd-35ab-47eb-a8fc-e329ca196552",
+            "vertical": false,
+            "translation": "100 µg/kg"
+        },
+        {
+            "bbox": [
+                1354.202130544982,
+                1450.729008583055,
+                1440.009869231588,
+                1480.3899895187485
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "10 µg/kg",
+            "uuid": "3d879505-ec6d-40ba-945b-69e028209a87",
+            "vertical": false,
+            "translation": "10µg/kg"
+        },
+        {
+            "bbox": [
+                1483.6938089265875,
+                1124.4582182904278,
+                1610.0652059014074,
+                1150.9969907065747
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Denrées cibles",
+            "uuid": "bacd2e9f-588d-4ec3-a1e0-851e1b2935e8",
+            "vertical": false,
+            "translation": "Target tissues"
+        },
+        {
+            "bbox": [
+                1469.652542596052,
+                1199.3912227595479,
+                1508.656060180873,
+                1221.2466823963746
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Lait",
+            "uuid": "daab0429-b377-4fc0-91c7-f2fcf3bd3d1e",
+            "vertical": false,
+            "translation": "Milk"
+        },
+        {
+            "bbox": [
+                1468.092401892659,
+                1311.7907294632282,
+                1542.9791556555153,
+                1341.4517103989217
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Muscle",
+            "uuid": "7b644402-1eb2-4b61-85e5-5232dee5d3d3",
+            "vertical": false,
+            "translation": "Muscle"
+        },
+        {
+            "bbox": [
+                1471.2126832994447,
+                1349.2572316977883,
+                1544.5392963589081,
+                1375.7960041139352
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Graisse",
+            "uuid": "4c0c3f14-8d04-42dd-9b2d-10dc84e3dcbc",
+            "vertical": false,
+            "translation": "Fat"
+        },
+        {
+            "bbox": [
+                1472.7728240028375,
+                1386.7237339323485,
+                1514.8966229944442,
+                1405.4569850496284
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Foie",
+            "uuid": "9242d2b5-f4d8-4bdf-a25e-e9741c544f93",
+            "vertical": false,
+            "translation": "Liver"
+        },
+        {
+            "bbox": [
+                1472.7728240028375,
+                1417.945819127815,
+                1525.8176079181942,
+                1438.2401745048687
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Reins",
+            "uuid": "8653a458-a5a4-4b88-b9b9-9ac96ff68197",
+            "vertical": false,
+            "translation": "Kidneys"
+        },
+        {
+            "bbox": [
+                1471.2126832994447,
+                1449.1679043232818,
+                1510.2162008842658,
+                1474.1455724796554
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Lait",
+            "uuid": "d77afea0-ae70-46d9-9554-4246f32294c9",
+            "vertical": false,
+            "translation": "Milk"
+        },
+        {
+            "bbox": [
+                1794.161808901762,
+                1129.1415310697478,
+                1959.5367234614027,
+                1152.558094966348
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Autres dispositions",
+            "uuid": "1ff96216-814c-4a9f-8b6c-740c248f7118",
+            "vertical": false,
+            "translation": "Other provisions"
+        },
+        {
+            "bbox": [
+                1649.0687234862282,
+                1200.5591960160775,
+                2110.870371690508,
+                1249.2925999149868
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Les LMR provisoires expirent le 1ᵉʳ janvier 2001",
+            "uuid": "5d93416b-b2ee-4761-974c-bc242a85a901",
+            "vertical": false,
+            "translation": "Provisional MRLs expire January 1, 2001"
+        },
+        {
+            "bbox": [
+                1650.628864189621,
+                1257.0981212138536,
+                1867.4884219612254,
+                1280.5146851104535
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Usage intramammaire",
+            "uuid": "29fb8097-465e-4293-b517-fdda29fa2745",
+            "vertical": false,
+            "translation": "Intramammary use"
+        },
+        {
+            "bbox": [
+                1649.0687234862282,
+                1317.9811873450135,
+                2109.310230987115,
+                1361.692106618667
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Les LMR provisoires expirent le 1ᵉʳ janvier 2001»",
+            "uuid": "70119a66-e6cb-43fc-becb-5078ccca615a",
+            "vertical": false,
+            "translation": "The provisional MRLs expire on January 1, 2001.”"
+        },
+        {
+            "bbox": [
+                2156.1144520889,
+                150.27712814731902,
+                2184.1969847499713,
+                272.043260409639
+            ],
+            "order": "62",
+            "label": "Page-header",
+            "text": "17.4.1999",
+            "uuid": "8b1bc18a-58e1-450c-a5b4-20a5f2430221",
+            "vertical": true,
+            "translation": "17.4.1999"
+        },
+        {
+            "bbox": [
+                2160.7948741990785,
+                369.4782708469014,
+                2179.5165626397925,
+                402.26146030214164
+            ],
+            "order": "63",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "fc9222c0-acd1-42d0-a4b3-08374ce8be21",
+            "vertical": true,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                2152.994170682114,
+                562.5878742142528,
+                2182.6368440465785,
+                1093.363322537187
+            ],
+            "order": "64",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "8ac48c78-0dee-4f04-9342-00d9e389d3da",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2160.7948741990785,
+                1397.5078938500671,
+                2182.6368440465785,
+                1494.2963579560142
+            ],
+            "order": "65",
+            "label": "Page-header",
+            "text": "L 102/61",
+            "uuid": "d01e56a6-3e97-4d16-b72f-877b895958d5",
+            "vertical": true,
+            "translation": "L 102/61"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

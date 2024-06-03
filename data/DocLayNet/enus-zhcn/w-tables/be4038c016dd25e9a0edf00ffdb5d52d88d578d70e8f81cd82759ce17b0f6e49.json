@@ -1,0 +1,1491 @@
+{
+    "file": "be4038c016dd25e9a0edf00ffdb5d52d88d578d70e8f81cd82759ce17b0f6e49.png",
+    "annotations": [
+        {
+            "bbox": [
+                601.0,
+                99.0,
+                963.0000000000001,
+                116.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "PERFORMANCE SUMMARY",
+            "uuid": "5ab37b09-e08d-4fed-8e9c-cfa5033cba26",
+            "vertical": false,
+            "translation": "业绩概要"
+        },
+        {
+            "bbox": [
+                600.8414166108745,
+                134.0,
+                825.2802337106563,
+                152.52286392242175
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "Year Ended 31 December",
+            "uuid": "7da72305-3d8e-46c7-b909-b8476dc3a964",
+            "vertical": false,
+            "translation": "截至12月31日止年度"
+        },
+        {
+            "bbox": [
+                601.0,
+                200.0,
+                846.0,
+                217.0
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "FINANCIAL (In $000's)",
+            "uuid": "2c433a98-651e-4ba5-a2b6-4f70d8285433",
+            "vertical": false,
+            "translation": "财务（以$000为单位）"
+        },
+        {
+            "bbox": [
+                600.0,
+                228.0,
+                808.0,
+                253.0
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Oil, gas and NGL sales",
+            "uuid": "c3134a0d-0a8d-41a2-a52f-7576aef57ce0",
+            "vertical": false,
+            "translation": "石油、天然气和NGL销售"
+        },
+        {
+            "bbox": [
+                599.0,
+                264.0,
+                889.0,
+                286.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Adjusted EBITDAX (% of sales)",
+            "uuid": "1503a514-e008-4115-b707-84425c6aa3c8",
+            "vertical": false,
+            "translation": "调整后息税折旧摊销前利润（占销售额的百分比）"
+        },
+        {
+            "bbox": [
+                600.0000000000001,
+                299.2102524767263,
+                987.2470564830586,
+                324.09238764008074
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Net cash provided by operating activities",
+            "uuid": "519702e3-67ce-4299-8b82-c2490f206796",
+            "vertical": false,
+            "translation": "经营活动提供的净现金"
+        },
+        {
+            "bbox": [
+                610.0000000000001,
+                365.8324607479142,
+                955.3546533662334,
+                390.04406126396896
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Development and production assets",
+            "uuid": "5cf87071-59fd-4667-aeec-4f5516c06757",
+            "vertical": false,
+            "translation": "开发和生产资产"
+        },
+        {
+            "bbox": [
+                600.0,
+                499.0,
+                646.0,
+                516.0
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Cash",
+            "uuid": "bbfc9e2c-d4e8-41e4-9224-d2557efffe87",
+            "vertical": false,
+            "translation": "现金"
+        },
+        {
+            "bbox": [
+                600.0,
+                531.0,
+                786.0,
+                553.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Borrowing capacity",
+            "uuid": "05706fcf-5efe-49aa-9d06-2d1006a793f3",
+            "vertical": false,
+            "translation": "借款能力"
+        },
+        {
+            "bbox": [
+                598.0,
+                563.0,
+                729.0,
+                588.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Total Liquidity",
+            "uuid": "ad2edcda-2975-42e7-9f4d-fa8c77034274",
+            "vertical": false,
+            "translation": "流动资金总额"
+        },
+        {
+            "bbox": [
+                600.0,
+                632.0,
+                711.0,
+                650.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Total assets",
+            "uuid": "7b13648d-7b50-473a-8124-ba9dc025a5d9",
+            "vertical": false,
+            "translation": "总资产"
+        },
+        {
+            "bbox": [
+                600.0,
+                665.0,
+                847.0,
+                686.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Debt to Adjusted EBITDAX",
+            "uuid": "54f0f3f4-8789-4327-b56a-35bceeca519d",
+            "vertical": false,
+            "translation": "债务对调整后EBITDAX"
+        },
+        {
+            "bbox": [
+                600.0,
+                698.0,
+                795.0,
+                719.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Shareholders' equity",
+            "uuid": "cfdff6e6-8947-4f4f-8a6f-bf3b422a80c0",
+            "vertical": false,
+            "translation": "股东权益"
+        },
+        {
+            "bbox": [
+                600.0,
+                765.0,
+                793.0,
+                782.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "OPERATIONAL",
+            "uuid": "a7cc625f-537d-4606-91a7-f259280878a4",
+            "vertical": false,
+            "translation": "可操作的"
+        },
+        {
+            "bbox": [
+                601.0,
+                799.0,
+                902.9999999999999,
+                818.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Proved reserves (Contant Case):",
+            "uuid": "229690f8-9393-488a-bf91-971a53f6b341",
+            "vertical": false,
+            "translation": "探明储量（ 恒定情况下） ："
+        },
+        {
+            "bbox": [
+                611.0,
+                830.0,
+                712.0,
+                851.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Oil (Mbbls)",
+            "uuid": "2e35509f-375c-46df-8ad9-05b68c2e75cc",
+            "vertical": false,
+            "translation": "石油(Mbbls)"
+        },
+        {
+            "bbox": [
+                611.0,
+                865.0,
+                727.0,
+                884.0
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "NGL (Mbbls)",
+            "uuid": "4775a591-34f3-4bd7-bf50-b7ad433924d0",
+            "vertical": false,
+            "translation": "NGL (Mbbls)"
+        },
+        {
+            "bbox": [
+                611.0,
+                895.0,
+                792.0,
+                921.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Natural gas (Mmcf)",
+            "uuid": "b9b0e27c-fbdb-4c81-ad98-740e7ea1b968",
+            "vertical": false,
+            "translation": "天然气（Mmcf）"
+        },
+        {
+            "bbox": [
+                610.0,
+                929.0000000000001,
+                744.0,
+                950.0
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "TOTAL (Mboe)",
+            "uuid": "332ed927-c9e7-4504-9ede-20d6e14f666a",
+            "vertical": false,
+            "translation": "总计 (Mboe)"
+        },
+        {
+            "bbox": [
+                600.0,
+                999.0,
+                761.0,
+                1020.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Daily production:",
+            "uuid": "6f1df432-fba9-41a7-b3e1-652adbf4ee77",
+            "vertical": false,
+            "translation": "日产量："
+        },
+        {
+            "bbox": [
+                611.0,
+                1029.0,
+                694.0,
+                1051.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Oil (Bbls)",
+            "uuid": "971640b5-cd45-4720-b934-da597580956e",
+            "vertical": false,
+            "translation": "石油 (Bbls)"
+        },
+        {
+            "bbox": [
+                611.0,
+                1064.0,
+                711.0,
+                1084.0
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "NGL (Bbls)",
+            "uuid": "a6eedffa-9721-487b-a6b5-51ef6104526a",
+            "vertical": false,
+            "translation": "NGL (Bbls)"
+        },
+        {
+            "bbox": [
+                611.0,
+                1098.0,
+                702.0,
+                1118.0
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Gas (Mcf)",
+            "uuid": "930a3453-dda9-411d-b0a6-c5a2ff865521",
+            "vertical": false,
+            "translation": "气体 (Mcf)"
+        },
+        {
+            "bbox": [
+                611.0,
+                1131.0,
+                726.0,
+                1150.0
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "TOTAL (Boe)",
+            "uuid": "9e0e9678-1df0-418f-80d3-1b141e80d740",
+            "vertical": false,
+            "translation": "总计 (Boe)"
+        },
+        {
+            "bbox": [
+                600.0,
+                1195.9999999999998,
+                1061.0,
+                1223.0
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Realised price (net of royalty and transportation):",
+            "uuid": "0281fb89-53ef-4172-89f6-d36d4b5cb864",
+            "vertical": false,
+            "translation": "实现价格（扣除特许权使用费和运输费用）："
+        },
+        {
+            "bbox": [
+                611.0,
+                1233.0,
+                721.0,
+                1253.0
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "Oil (per Bbl)",
+            "uuid": "75d58b0b-b442-4030-8e80-6584496b2d72",
+            "vertical": false,
+            "translation": "石油（每Bbl）"
+        },
+        {
+            "bbox": [
+                611.0,
+                1265.0,
+                737.0,
+                1286.0
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "NGL (per Bbl)",
+            "uuid": "823c9f91-a566-4d4f-b4ca-906fa9d5ed44",
+            "vertical": false,
+            "translation": "NGL （每Bbl）"
+        },
+        {
+            "bbox": [
+                610.0,
+                1298.0,
+                739.0,
+                1321.0
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "Gas (per Mcf)",
+            "uuid": "396fd84c-8a44-4320-a7f9-7c2b4b04d897",
+            "vertical": false,
+            "translation": "天然气（每Mcf）"
+        },
+        {
+            "bbox": [
+                611.0,
+                1333.0,
+                764.0,
+                1353.0
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "TOTAL (per Boe)",
+            "uuid": "9e8c14b6-50df-41a5-89c5-429fca2a96db",
+            "vertical": false,
+            "translation": "总计（每Boe）"
+        },
+        {
+            "bbox": [
+                1033.0,
+                233.0,
+                1118.0,
+                251.0
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "$159,793",
+            "uuid": "4a793508-a10e-4335-ab7c-5d413306bb43",
+            "vertical": false,
+            "translation": "$159,793"
+        },
+        {
+            "bbox": [
+                1051.0,
+                266.0,
+                1116.0,
+                283.0
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "126,373",
+            "uuid": "a71e0652-99bd-4e8f-9e85-28b1d1e13dcd",
+            "vertical": false,
+            "translation": "126,373"
+        },
+        {
+            "bbox": [
+                1051.0,
+                300.0,
+                1117.0,
+                317.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "128,087",
+            "uuid": "f66777fe-7d12-44a3-bd43-dd3f58d54c5d",
+            "vertical": false,
+            "translation": "128,087"
+        },
+        {
+            "bbox": [
+                1033.0,
+                366.0,
+                1118.0,
+                385.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "$338,366",
+            "uuid": "63b2a77a-d9fe-41a6-afc1-5b0531804be0",
+            "vertical": false,
+            "translation": "$338,366"
+        },
+        {
+            "bbox": [
+                1060.0,
+                399.0,
+                1117.0,
+                419.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "72,755",
+            "uuid": "3b1ba8a1-d9a1-4293-bc05-29318599daf7",
+            "vertical": false,
+            "translation": "72,755"
+        },
+        {
+            "bbox": [
+                1034.0,
+                432.0,
+                1116.0,
+                450.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "$411,121",
+            "uuid": "82296293-30b4-4e04-9135-026b43d28745",
+            "vertical": false,
+            "translation": "$411,121"
+        },
+        {
+            "bbox": [
+                1033.9355468750002,
+                497.9999999999999,
+                1120.1395862857714,
+                520.0515788460667
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "$69,217",
+            "uuid": "f3a8b33a-a10f-4cc3-aa7a-63de841db656",
+            "vertical": false,
+            "translation": "$69,217"
+        },
+        {
+            "bbox": [
+                1034.0,
+                565.0,
+                1118.0,
+                583.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "$84,217",
+            "uuid": "f8e13f22-3092-4978-af8c-0e17fb88428f",
+            "vertical": false,
+            "translation": "$84,217"
+        },
+        {
+            "bbox": [
+                1067.9547046997955,
+                167.8935435090585,
+                1117.9858576782883,
+                183.87013053561526
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "2014",
+            "uuid": "c98b1d53-a0c8-4212-a051-5383e5290e36",
+            "vertical": false,
+            "translation": "2014"
+        },
+        {
+            "bbox": [
+                1033.0,
+                632.0,
+                1117.0,
+                651.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "$796,520",
+            "uuid": "9c1c0fe5-9c35-4910-b2ef-9832e8bf8d36",
+            "vertical": false,
+            "translation": "$796,520"
+        },
+        {
+            "bbox": [
+                1034.0,
+                664.0,
+                1117.0,
+                684.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "$130,000",
+            "uuid": "ebf82eb4-0f94-4ebc-8034-889f26df6b5f",
+            "vertical": false,
+            "translation": "$130,000"
+        },
+        {
+            "bbox": [
+                1034.0,
+                698.0,
+                1116.0,
+                718.0
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "$435,006",
+            "uuid": "9aa406c2-7f3d-4832-a560-98c67a3e3d9f",
+            "vertical": false,
+            "translation": "$ 435,006"
+        },
+        {
+            "bbox": [
+                1062.0,
+                831.0,
+                1116.0,
+                851.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "17,026",
+            "uuid": "f57969f3-dd89-4251-9678-90a7cc5b5bab",
+            "vertical": false,
+            "translation": "17,026"
+        },
+        {
+            "bbox": [
+                1070.0,
+                866.0,
+                1118.0,
+                884.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "4,166",
+            "uuid": "08d5b301-3e07-4897-b47f-0693d7af5839",
+            "vertical": false,
+            "translation": "4,166"
+        },
+        {
+            "bbox": [
+                1060.0,
+                898.0,
+                1118.0,
+                918.0
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "28,733",
+            "uuid": "246b46ea-e1f0-4e17-b0d8-7911cf7c59d6",
+            "vertical": false,
+            "translation": "28,733"
+        },
+        {
+            "bbox": [
+                1060.0,
+                931.0,
+                1116.0,
+                950.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "25,981",
+            "uuid": "18f988b5-2300-466c-8283-ebfc85aaeef3",
+            "vertical": false,
+            "translation": "25,981"
+        },
+        {
+            "bbox": [
+                1034.0,
+                1233.0,
+                1117.0,
+                1250.0
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "$86.56",
+            "uuid": "0f6de121-a51e-4b3c-8c52-a4a865a7751d",
+            "vertical": false,
+            "translation": "$86.56"
+        },
+        {
+            "bbox": [
+                1070.0,
+                1267.0,
+                1118.0,
+                1282.0
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "32.24",
+            "uuid": "f704c9ec-c9f8-4242-b2a0-35c31a99fc19",
+            "vertical": false,
+            "translation": "32.24"
+        },
+        {
+            "bbox": [
+                1081.0,
+                1300.0,
+                1119.0,
+                1316.0
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "3.42",
+            "uuid": "170b8e2e-9ae6-4af8-a744-60f4f75e6f77",
+            "vertical": false,
+            "translation": "3.42"
+        },
+        {
+            "bbox": [
+                1033.0,
+                1333.0,
+                1118.0,
+                1349.0
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "$71.22",
+            "uuid": "55311d0a-d758-4310-bf92-4e91fa13fed8",
+            "vertical": false,
+            "translation": "$71.22"
+        },
+        {
+            "bbox": [
+                1070.0,
+                1033.0,
+                1118.0,
+                1050.0
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "4,589",
+            "uuid": "ab46d883-5512-40a5-9a60-9bc4bf8e28d0",
+            "vertical": false,
+            "translation": "4,589"
+        },
+        {
+            "bbox": [
+                1086.0,
+                1066.0,
+                1118.0,
+                1081.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "734",
+            "uuid": "a45aff86-b330-4811-89f7-4e38bc468096",
+            "vertical": false,
+            "translation": "734"
+        },
+        {
+            "bbox": [
+                1071.0,
+                1099.0,
+                1119.0,
+                1117.0
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "7,869",
+            "uuid": "0063c7a0-1928-44b7-8aad-1c8a23ae77b7",
+            "vertical": false,
+            "translation": "7,869"
+        },
+        {
+            "bbox": [
+                1071.0,
+                1133.0,
+                1118.0,
+                1150.0
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "6,635",
+            "uuid": "14048f00-a426-4fff-b0d8-ba97e86af32c",
+            "vertical": false,
+            "translation": "6,635"
+        },
+        {
+            "bbox": [
+                1204.0,
+                168.8287052469742,
+                1257.3249566277364,
+                184.32240595935195
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "As %",
+            "uuid": "2627c21f-6f7c-404e-9a6c-e8a980b35aba",
+            "vertical": false,
+            "translation": "按 %"
+        },
+        {
+            "bbox": [
+                1218.0,
+                265.0,
+                1256.0,
+                282.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "79%",
+            "uuid": "5c060727-f7b3-4be6-93f6-5327efec65ce",
+            "vertical": false,
+            "translation": "79%"
+        },
+        {
+            "bbox": [
+                1221.0,
+                667.0,
+                1258.0,
+                682.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "1.03",
+            "uuid": "cd39bf02-e357-48ec-9c89-8d634540f33c",
+            "vertical": false,
+            "translation": "1.03"
+        },
+        {
+            "bbox": [
+                1218.0,
+                833.0,
+                1256.0,
+                848.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "66%",
+            "uuid": "8976d09e-5097-4e1b-86cb-97b914d00a3b",
+            "vertical": false,
+            "translation": "66%"
+        },
+        {
+            "bbox": [
+                1219.0,
+                865.0,
+                1254.0,
+                881.9999999999999
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "16%",
+            "uuid": "f771229d-2c15-4ebf-866e-91b2da8e1ae4",
+            "vertical": false,
+            "translation": "16%"
+        },
+        {
+            "bbox": [
+                1219.0,
+                898.0,
+                1255.0,
+                915.0
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "18%",
+            "uuid": "bf85d3c0-955d-43b9-a128-03d2da7a6acf",
+            "vertical": false,
+            "translation": "18%"
+        },
+        {
+            "bbox": [
+                1218.0,
+                1030.0,
+                1257.0,
+                1050.0
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "69%",
+            "uuid": "607ffff4-a22e-47fc-8cb4-362cba8ce670",
+            "vertical": false,
+            "translation": "69%"
+        },
+        {
+            "bbox": [
+                1218.998519131989,
+                1065.0,
+                1257.978122941442,
+                1086.0251154572318
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "11%",
+            "uuid": "459afc3f-82f9-4345-9ec9-093e2ed049e9",
+            "vertical": false,
+            "translation": "11%"
+        },
+        {
+            "bbox": [
+                1218.0,
+                1099.0,
+                1256.0,
+                1115.0
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "20%",
+            "uuid": "15ef9713-48d8-40a7-92f7-8e9ea948ee21",
+            "vertical": false,
+            "translation": "20%"
+        },
+        {
+            "bbox": [
+                1307.0,
+                233.0,
+                1392.0,
+                250.0
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "$85,345",
+            "uuid": "050e1fb4-dcf6-4140-a510-57ca828d0e5d",
+            "vertical": false,
+            "translation": "$85,345"
+        },
+        {
+            "bbox": [
+                1333.5324191310422,
+                265.5963910471701,
+                1391.9882468876056,
+                284.9143809121367
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "52,594",
+            "uuid": "1eea90a2-8d69-4726-8a31-63448936b7cf",
+            "vertical": false,
+            "translation": "52,594"
+        },
+        {
+            "bbox": [
+                1307.0,
+                365.00000000000006,
+                1392.0,
+                384.00000000000006
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "$217,514",
+            "uuid": "e693c7bc-4cb2-402d-8b35-8b26903ec4b0",
+            "vertical": false,
+            "translation": "$217，514"
+        },
+        {
+            "bbox": [
+                1325.0,
+                398.0,
+                1392.0,
+                418.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "165,142",
+            "uuid": "dc7085c8-8370-4fef-ac3b-e80ccf50cfb3",
+            "vertical": false,
+            "translation": "165,142"
+        },
+        {
+            "bbox": [
+                1308.0,
+                431.0,
+                1389.0,
+                452.0
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "$382,656",
+            "uuid": "4123a45b-b7aa-41b7-9d70-01048a91ba53",
+            "vertical": false,
+            "translation": "$ 382,656"
+        },
+        {
+            "bbox": [
+                1307.529266162335,
+                497.0000000000001,
+                1389.5887135525948,
+                519.7856417258255
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "$96,871",
+            "uuid": "53a3db0a-6bd3-4c8d-88ac-9981e5fcdb2d",
+            "vertical": false,
+            "translation": "$96,871"
+        },
+        {
+            "bbox": [
+                1307.0,
+                565.0,
+                1390.0,
+                584.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "$129,871",
+            "uuid": "0c543894-1d0a-4822-b42b-2a5e73bf0772",
+            "vertical": false,
+            "translation": "$129,871"
+        },
+        {
+            "bbox": [
+                1308.0,
+                631.0,
+                1391.0,
+                651.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "$625,169",
+            "uuid": "b9e255ae-04e5-4254-bf58-094cb32c091c",
+            "vertical": false,
+            "translation": "$625,169"
+        },
+        {
+            "bbox": [
+                1308.0,
+                665.0,
+                1391.0,
+                684.0
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "$30,000",
+            "uuid": "d06fd85c-2141-4ba8-9eaf-dd79f447f844",
+            "vertical": false,
+            "translation": "$30,000"
+        },
+        {
+            "bbox": [
+                1308.0,
+                699.0,
+                1390.0,
+                718.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "$347,241",
+            "uuid": "f1e246d2-5bb9-4034-b17d-06eddcfd8b39",
+            "vertical": false,
+            "translation": "$347,241"
+        },
+        {
+            "bbox": [
+                1342.0,
+                169.0,
+                1390.0,
+                182.0
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "429aec18-851f-4ecd-8128-480229b3673c",
+            "vertical": false,
+            "translation": "2013年"
+        },
+        {
+            "bbox": [
+                1307.32421875,
+                1232.666015625,
+                1394.3359375,
+                1251.1224560057958
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "$95.92",
+            "uuid": "7b89915e-7444-4306-b3bb-87a9c26b8208",
+            "vertical": false,
+            "translation": "$95.92"
+        },
+        {
+            "bbox": [
+                1345.0,
+                1267.0,
+                1391.0,
+                1282.0
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "33.46",
+            "uuid": "bd2f5556-d217-45d2-b6d8-4b5f25dcedbf",
+            "vertical": false,
+            "translation": "33.46"
+        },
+        {
+            "bbox": [
+                1354.0,
+                1298.0,
+                1393.0,
+                1317.0
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "2.97",
+            "uuid": "eca50d31-1e9e-4eee-9b2b-777f5d515f9b",
+            "vertical": false,
+            "translation": "2.97"
+        },
+        {
+            "bbox": [
+                1307.0,
+                1333.0,
+                1391.0,
+                1349.0
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "$79.10",
+            "uuid": "79c12f22-6007-4aaf-b02b-1a7259a3dc90",
+            "vertical": false,
+            "translation": "$79.10"
+        },
+        {
+            "bbox": [
+                1336.0,
+                832.0,
+                1391.0,
+                851.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "12,956",
+            "uuid": "41a300c5-06da-4874-8d7a-9d93358dd82e",
+            "vertical": false,
+            "translation": "12,956"
+        },
+        {
+            "bbox": [
+                1344.0,
+                865.0,
+                1392.0,
+                884.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "2,683",
+            "uuid": "f85cea26-55a2-448c-8494-2da240bc0df4",
+            "vertical": false,
+            "translation": "2,683"
+        },
+        {
+            "bbox": [
+                1334.0,
+                900.0,
+                1390.0,
+                919.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "30,655",
+            "uuid": "4a123cc1-c50a-4911-9bfd-850f5806df04",
+            "vertical": false,
+            "translation": "30,655"
+        },
+        {
+            "bbox": [
+                1334.0,
+                933.0,
+                1392.0,
+                951.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "20,748",
+            "uuid": "806a6389-dbd2-44ce-9799-628d2e319b9b",
+            "vertical": false,
+            "translation": "20,748"
+        },
+        {
+            "bbox": [
+                1344.0,
+                1033.0,
+                1391.0,
+                1050.0
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "2,267",
+            "uuid": "2182ddd3-c29f-46f0-b8f9-c548c0a37a6a",
+            "vertical": false,
+            "translation": "2,267"
+        },
+        {
+            "bbox": [
+                1360.0,
+                1066.0,
+                1393.0,
+                1082.0
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "263",
+            "uuid": "fabb67d1-bef9-4f17-ba7f-532d3fb90846",
+            "vertical": false,
+            "translation": "263"
+        },
+        {
+            "bbox": [
+                1344.0,
+                1099.0,
+                1392.0,
+                1118.0
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "2,915",
+            "uuid": "1de0df46-607f-43ef-9aba-5a0c747d15fb",
+            "vertical": false,
+            "translation": "2,915"
+        },
+        {
+            "bbox": [
+                1344.0,
+                1132.0,
+                1391.0,
+                1151.0
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "3,015",
+            "uuid": "a7b5111b-ac3b-4199-89a2-4ae56cb17e5f",
+            "vertical": false,
+            "translation": "3,015"
+        },
+        {
+            "bbox": [
+                1466.8011859208661,
+                168.8287052469742,
+                1520.5729858510222,
+                184.32240595935195
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "As %",
+            "uuid": "1a52042f-3bf8-42f2-bbab-a9ffc919530e",
+            "vertical": false,
+            "translation": "按 %"
+        },
+        {
+            "bbox": [
+                1481.0,
+                266.0,
+                1519.0,
+                282.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "62%",
+            "uuid": "8d21e08d-1834-4ca6-aacb-a3607d31546b",
+            "vertical": false,
+            "translation": "62%"
+        },
+        {
+            "bbox": [
+                1484.0,
+                666.0,
+                1520.0,
+                682.9999999999999
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "0.57",
+            "uuid": "59d7b507-e76c-4d85-8b5a-84eb71489619",
+            "vertical": false,
+            "translation": "0.57"
+        },
+        {
+            "bbox": [
+                1480.0,
+                832.0,
+                1518.0,
+                849.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "62%",
+            "uuid": "032e7eb3-78fa-411c-9728-3e8aabda4ad7",
+            "vertical": false,
+            "translation": "62%"
+        },
+        {
+            "bbox": [
+                1481.0,
+                863.0,
+                1517.0,
+                881.9999999999999
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "13%",
+            "uuid": "f7240195-48f6-4816-8c56-62146a33479b",
+            "vertical": false,
+            "translation": "13%"
+        },
+        {
+            "bbox": [
+                1480.0,
+                898.0,
+                1518.0,
+                914.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "25%",
+            "uuid": "86a327e7-014a-441d-b489-21713d38df30",
+            "vertical": false,
+            "translation": "25%"
+        },
+        {
+            "bbox": [
+                1481.0,
+                1033.0,
+                1518.0,
+                1049.0
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "75%",
+            "uuid": "1dc2a144-c0ef-4cef-92b7-ef8d0c575afa",
+            "vertical": false,
+            "translation": "75%"
+        },
+        {
+            "bbox": [
+                1490.0,
+                1066.0000000000002,
+                1520.5729858510222,
+                1086.7739865690148
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "9%",
+            "uuid": "4e8e250b-e92c-4d23-b9fc-cdc7b6199247",
+            "vertical": false,
+            "translation": "9%"
+        },
+        {
+            "bbox": [
+                1480.8286119896025,
+                1099.782215342111,
+                1519.1702432441484,
+                1120.9284710878674
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "16%",
+            "uuid": "77ae0bf9-c93d-43bc-aa96-5474fdc26fbb",
+            "vertical": false,
+            "translation": "16%"
+        },
+        {
+            "bbox": [
+                1657.0,
+                1113.0,
+                1696.0,
+                1158.0
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "de",
+            "uuid": "3ee29ea6-69eb-40d8-aa60-f0c497cd08ea",
+            "vertical": false,
+            "translation": "de"
+        },
+        {
+            "bbox": [
+                1331.8767251426325,
+                532.8193757475135,
+                1391.7134851047254,
+                551.9626725918679
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "33,000",
+            "uuid": "08853bda-66dc-4548-b616-eb1a4745aadc",
+            "vertical": false,
+            "translation": "33,000"
+        },
+        {
+            "bbox": [
+                1061.1866205522138,
+                532.8193757475135,
+                1118.1740109923019,
+                552.7772809682233
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "15,000",
+            "uuid": "0c249c9b-c362-454c-97bc-f3cb0549b5b4",
+            "vertical": false,
+            "translation": "15,000"
+        },
+        {
+            "bbox": [
+                1334.4482421875,
+                300.2822888150196,
+                1393.26171875,
+                319.36144780791693
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "62,646",
+            "uuid": "af28db34-eabb-4710-87d9-f48a2f9c19ae",
+            "vertical": false,
+            "translation": "62,646"
+        },
+        {
+            "bbox": [
+                600.8099163540727,
+                332.89687477951196,
+                778.6919850849193,
+                354.07669256475526
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Capital investment:",
+            "uuid": "87438902-10c0-45fc-919b-83cf3bae91dd",
+            "vertical": false,
+            "translation": "资本投资："
+        },
+        {
+            "bbox": [
+                610.986236075517,
+                399.2874574524857,
+                988.7312241355302,
+                423.72570874315085
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Exploration and evaluation expenditures",
+            "uuid": "828ca4ec-6a6d-46bc-8a89-100e37a8fb7b",
+            "vertical": false,
+            "translation": "勘探和评估支出"
+        },
+        {
+            "bbox": [
+                611.3932888643748,
+                431.4644883185281,
+                672.4512071930408,
+                451.82969772741546
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "TOTAL",
+            "uuid": "23097de6-e9b8-44d4-a938-f07768899609",
+            "vertical": false,
+            "translation": "总计"
+        },
+        {
+            "bbox": [
+                204.99035397979304,
+                1492.611108133795,
+                480.0741838365476,
+                2081.495277283886
+            ],
+            "order": "102",
+            "label": "Picture",
+            "text": "Chart: DAILY PRODUCTION",
+            "uuid": "81c24466-a331-49ae-9032-e668db7b9439",
+            "vertical": false,
+            "translation": "图表：日产量"
+        },
+        {
+            "bbox": [
+                535.6199571730076,
+                1492.6004897493897,
+                859.636968302358,
+                2081.484658899481
+            ],
+            "order": "103",
+            "label": "Picture",
+            "text": "Chart: SALES AND ADJUSTED EBITDAX",
+            "uuid": "e02d038e-f706-4710-911c-3fc47135beb0",
+            "vertical": false,
+            "translation": "图：销售额及调整后息税折旧摊销前利润"
+        },
+        {
+            "bbox": [
+                904.6025943366351,
+                1492.6004897493897,
+                1237.0924258249722,
+                2125.9447014968873
+            ],
+            "order": "104",
+            "label": "Picture",
+            "text": "Chart: EXPLORATION AND DEVELOPMENT",
+            "uuid": "b00dfff5-d529-4b7a-9cf9-8984e4b9f05d",
+            "vertical": false,
+            "translation": "图：勘探与开发"
+        },
+        {
+            "bbox": [
+                1268.2951578491713,
+                1493.9083057837554,
+                1553.9591350081087,
+                2081.4691397222737
+            ],
+            "order": "105",
+            "label": "Picture",
+            "text": "Chart: PROVED RESERVES",
+            "uuid": "519b7703-1382-4ae4-90f3-d2589bbbb50c",
+            "vertical": false,
+            "translation": "图：探明储量"
+        },
+        {
+            "bbox": [
+                599.4386740040007,
+                166.93008113658243,
+                1534.6004119197585,
+                1359.2895976137338
+            ],
+            "order": "3",
+            "label": "Table",
+            "text": "FINANCIAL (In $ 000's) Oil, gas and NGL sales Adjusted EBITDAX (% of sales) Net cash provided by operating activities Capital investment: Development and production assets Exploration and evaluation expenditures TOTAL Cash Borrowing capacity Total Liquidity Total assets Debt to Adjusted EBITDAX Shareholders' equity OPERATIONAL Proved reserves (Contant Case): Oil (Mbbls) NGL (Mbbls) Natural gas (Mmcf) TOTAL (Mboe) Daily production: Oil (Bbls) NGL (Bbls) Gas (Mcf) TOTAL (Boe) Realised price (net of royalty and transportation): Oil (per Bbl) NGL (per Bbl) Gas (per Mcf) TOTAL (per Boe) $159,793 126,373 128,087 $338,366 72,755 $411,121 $69,217 15,000 $84,217 2014 $796,520 $130,000 $435,006 17,026 4,166 28,733 25,981 $86.56 32.24 3.42 $ 71.22 4,589 734 7,869 6,635 As % 79% 1.03 66% 16% 18% 69% 11% 20% $85,345 52,594 62,646 $217,514 165,142 $382,656 $96,871 33,000 $129,871 $625,169 $30,000 $347,241 $2013 95.92 33.46 2.97 $ 79.10 12,956 2,683 30,655 20,748 2,267 263 2,915 3,015 As % 62% 0.57 62% 13% 25% 75% 9% 16%",
+            "uuid": "16bdc596-4142-4515-aa87-384910883c01",
+            "vertical": false,
+            "translation": "财务（以千美元为单位）石油、天然气和液化天然气 销售调整后息税折旧摊销前利润（占销售额的百分比） 经营活动提供的净现金 资本投资：开发和生产资产 勘探和评估支出 总现金借款能力 总流动性 总资产 债务与调整后息税折旧摊销前利润股东权益之比 运营 探明储量（恒定情况下）：石油（Mbbls）NGL（Mbbls）天然气（Mmcf）日产量总计（Mboe）：石油 (Bbls) NGL (Bbls) 天然气 (Mcf) 总计 (Boe) 已实现价格（扣除特许权使用费和运输）：石油（每Bbl）NGL（每Bbl）天然气（每Bbl）天然气（每Mcf) 总计（每Boe）$159,793 126,373 128,087 $338,366 72,755 $411,121 $69,217 15,000 $84,217 2014 $796,520 $130,000 $435,006 17,026 4,166 28,733 25,981 $86.56 32.24 3.42 $ 71.22 4,589 734 7,869 6,635 作为 ％ 79% 1.03 66% 16% 18% 69% 11% 20% $85,345 52,594 62,646 $217,514 165,142 $382,656 $96,871 33,000 $129,871 $625,169 $30,000 $347,241 $2013 95.92 33.46 2.97 $ 79.10 12,956 2,683 30,655 20,748 2,267 263 2,915 3,015 作为 ％ 62% 0.57 62% 13% 25% 75% 9% 16%"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

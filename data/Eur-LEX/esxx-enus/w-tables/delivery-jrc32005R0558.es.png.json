@@ -1,0 +1,567 @@
+{
+    "file": "jrc32005R0558.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                122.32874516835784,
+                121.61573413218034,
+                219.34809478464166,
+                151.14336227626657
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 94/24",
+            "uuid": "5df3a356-4375-477f-91c9-24ddab961343",
+            "vertical": false,
+            "translation": "L 94/24"
+        },
+        {
+            "bbox": [
+                345.89507254501183,
+                120.2096566015095,
+                371.20446809708585,
+                142.7068970922421
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "86112058-9256-4865-b653-bc0f344f4dc4",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                656.6382068232541,
+                121.61573413218034,
+                1019.4062097363154,
+                153.95551733760826
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de la Unión Europea",
+            "uuid": "cdfa08a2-96f1-4648-add9-50ca721a029a",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1438.4173138762078,
+                120.2096566015095,
+                1550.9035163298702,
+                146.92512968425433
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "13.4.2005",
+            "uuid": "26e53f41-9c48-4a36-8fd1-012aec66e03e",
+            "vertical": false,
+            "translation": "13.4.2005"
+        },
+        {
+            "bbox": [
+                793.0277272983197,
+                217.22900621779326,
+                878.7984566692373,
+                249.56878942322118
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO",
+            "uuid": "49b28950-6782-46b0-85d9-7477f36dfb38",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                258.71826564342354,
+                295.9693479353569,
+                1147.3592650273563,
+                332.5273637327973
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "El sector 9 del anexo I del Reglamento (CEE) nº 3846/87 quedará modificado como sigue:",
+            "uuid": "a5c4c40a-b67e-46a9-ae94-7781bd54bd03",
+            "vertical": false,
+            "translation": "Sector 9 of Annex I of Regulation (EEC) No. 3846/87 will be amended as follows:"
+        },
+        {
+            "bbox": [
+                262.93649823543586,
+                373.3036121222497,
+                1406.0775306707799,
+                411.267705450361
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1) La designación de la mercancía del código NC «ex 0406» se sustituirá por la siguiente «Queso y requesón (⁷)(¹⁰):».",
+            "uuid": "4ccba088-7a21-4dff-8591-e50070777a2d",
+            "vertical": false,
+            "translation": "1. The description of the goods falling within CN code 'ex 0406' is replaced by the following 'Cheese and cottage cheese (⁷)(¹⁰):''."
+        },
+        {
+            "bbox": [
+                265.7486532967774,
+                456.2621864318259,
+                1406.0775306707799,
+                512.505287658657
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "2) La designación de la mercancía del código NC «ex 0406 20» se sustituirá por la siguiente:  « Queso de cualquier tipo,rallado o en polvo:>>.",
+            "uuid": "70e55314-490e-4704-a87b-999980e806fe",
+            "vertical": false,
+            "translation": "2) The description of the goods under CN code 'ex 0406 20' shall be replaced by the following: “Cheese of any kind, grated or powdered:>>."
+        },
+        {
+            "bbox": [
+                267.15473082744813,
+                564.5301562934758,
+                1408.8896857321213,
+                617.9611024589655
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "3) La designación de la mercancía del código NC «ex 0406 30» se sustituirá por la siguiente: \"- Queso fundido, excepto  el rallado o en polvo:\".",
+            "uuid": "4b39b9be-72a3-49c2-943a-8b21e863ebd5",
+            "vertical": false,
+            "translation": "3) The description of the goods under CN code “ex 0406 30” shall be replaced by the following: “- Processed cheese, other than grated or powdered cheese:”."
+        },
+        {
+            "bbox": [
+                267.15473082744813,
+                669.9859710937843,
+                1126.2681020672946,
+                702.3257542992122
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "4) Los datos relativos al código NC «ex 0406 90 88» se sustituirán por el texto siguiente:",
+            "uuid": "ababb72c-c215-42af-b657-9d7a2a707ed9",
+            "vertical": false,
+            "translation": "4) The data relating to the CN code 'ex 0406 90 88' shall be replaced by the following text:"
+        },
+        {
+            "bbox": [
+                321.8759183458684,
+                879.1533152187384,
+                424.5213883695509,
+                907.0323317683807
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Código NC",
+            "uuid": "4aff5917-0c00-40ca-ae57-8396bb8b8a7c",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                572.7870672926477,
+                876.618859168771,
+                819.8965321644758,
+                904.4978757184132
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Designación de la mercancía",
+            "uuid": "1aa3a025-1d1d-4a63-bbd0-78fd788dee83",
+            "vertical": false,
+            "translation": "Commodity description"
+        },
+        {
+            "bbox": [
+                952.0495792507562,
+                773.5789652875748,
+                1194.7505148650855,
+                844.1828738299254
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Exigencias complementarias para utilizar el código de los productos",
+            "uuid": "538fb7a3-f30f-475c-a7d6-8688912040a9",
+            "vertical": false,
+            "translation": "Additional requirements to use the product code"
+        },
+        {
+            "bbox": [
+                936.6049742571171,
+                876.1752698881778,
+                1070.0904888449982,
+                1022.8990173277497
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Contenido máximo de agua en relación al peso del producto (%)",
+            "uuid": "35fdc8cd-73a0-44f2-bed0-ad30dcb8e702",
+            "vertical": false,
+            "translation": "Maximum water content in relation to the weight of the product (%)"
+        },
+        {
+            "bbox": [
+                1080.0191634837663,
+                873.9688977462295,
+                1209.0919337877506,
+                1025.1053894696981
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Contenido mínimo de materias grasas en la materia seca (%)",
+            "uuid": "1ad9cb10-cbd6-411c-a9a3-dbf378721edc",
+            "vertical": false,
+            "translation": "Minimum fat content in dry matter (%)"
+        },
+        {
+            "bbox": [
+                1257.6321209106163,
+                866.2465952494098,
+                1386.7048912146006,
+                920.3027127271469
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Código de los productos",
+            "uuid": "a3bc662b-d027-4666-8e04-e795a11e43b4",
+            "vertical": false,
+            "translation": "Product Code"
+        },
+        {
+            "bbox": [
+                291.1325495409916,
+                1044.9158172902924,
+                448.34412629312703,
+                1074.0290722443915
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "«ex 0406 90 88",
+            "uuid": "c3f5d5bb-73ee-4c86-870f-4e0a1181e20a",
+            "vertical": false,
+            "translation": "\"ex 0406 90 88"
+        },
+        {
+            "bbox": [
+                459.9894282747667,
+                1049.2828055334073,
+                924.3458447926483,
+                1103.1423271984906
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Superior al 62% pero sin exceder del 72%:",
+            "uuid": "4aa45f77-e43d-45f6-bbe1-f93c1d204cdd",
+            "vertical": false,
+            "translation": "Higher than 62% but not exceeding 72%:"
+        },
+        {
+            "bbox": [
+                470.1790675087013,
+                1122.7708962721167,
+                922.1429882289127,
+                1157.9508582360522
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "----------Quesos fabricados con lactosuero",
+            "uuid": "6402162e-0087-439f-b816-eded67781be4",
+            "vertical": false,
+            "translation": "----------Whey cheeses"
+        },
+        {
+            "bbox": [
+                1231.4906845583944,
+                1127.888593909475,
+                1401.8032260398745,
+                1154.0905233681644
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "0406 90 88 9100",
+            "uuid": "22ac02d4-10ed-47c0-97c8-e2a85bbaced1",
+            "vertical": false,
+            "translation": "0406 90 88 9100"
+        },
+        {
+            "bbox": [
+                469.53833760243214,
+                1229.6708741377652,
+                924.7396267284543,
+                1308.5246407580212
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Con un contenido de materias grasas , en peso de la materia seca:",
+            "uuid": "bc761d6d-bf74-47d1-a489-a54891f714a9",
+            "vertical": false,
+            "translation": "Containing fats, by weight of dry matter:"
+        },
+        {
+            "bbox": [
+                459.9894282747667,
+                1334.592704083579,
+                922.8901820449432,
+                1388.4522257486624
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "-----------Igual o superior al 10% pero inferior al 19%",
+            "uuid": "5d549da8-b677-49e8-a176-807f51c26380",
+            "vertical": false,
+            "translation": "----------- 10% or more but less than 19%"
+        },
+        {
+            "bbox": [
+                984.0280174485515,
+                1333.137041335874,
+                1021.8752488888805,
+                1363.7059590376782
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "60",
+            "uuid": "9357620a-6ffd-4187-bf5d-dd24614f10b8",
+            "vertical": false,
+            "translation": "60"
+        },
+        {
+            "bbox": [
+                1131.0499549667522,
+                1337.504029578989,
+                1161.6188726685564,
+                1359.3389707945632
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "ea7054a4-5e85-434f-bc15-eed249fc0249",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                472.06763956843463,
+                1412.549128491604,
+                886.9315226643475,
+                1444.5737089411132
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Igual o superior al 40 % :",
+            "uuid": "bc79ee7e-525f-4ff0-a68d-1f23d93a7fa1",
+            "vertical": false,
+            "translation": "Equal to or greater than 40%:"
+        },
+        {
+            "bbox": [
+                464.1619444237784,
+                1462.64791187943,
+                727.8313738524789,
+                1496.6984020109041
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "--------------Akawi",
+            "uuid": "b3387a9c-974d-4ddc-b91f-b7d044a5a464",
+            "vertical": false,
+            "translation": "--------------Akawi"
+        },
+        {
+            "bbox": [
+                982.5723547008465,
+                1455.4127121430904,
+                1024.7865743842904,
+                1491.8042808357145
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "55",
+            "uuid": "c41aa207-b8e7-4eaa-a51d-5bbab275ee63",
+            "vertical": false,
+            "translation": "55"
+        },
+        {
+            "bbox": [
+                1128.1386294713423,
+                1459.7797003862054,
+                1163.0745354162614,
+                1485.9816298448948
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "40",
+            "uuid": "af16660b-1ca8-4243-bd02-7d12c39bb660",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                1228.5793590629844,
+                1459.7797003862054,
+                1407.625877030694,
+                1494.7156063311245
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "0406 90 88 9500 »",
+            "uuid": "6f73055f-411b-443c-a5d4-369a5aa34483",
+            "vertical": false,
+            "translation": "0406 90 88 9500\""
+        },
+        {
+            "bbox": [
+                266.3862828300073,
+                1574.7770574548972,
+                730.7426993478888,
+                1608.2573006521113
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "5) La nota 7 se sustituirá por el texto siguiente:",
+            "uuid": "76961479-adb8-4850-918f-587e447b26d9",
+            "vertical": false,
+            "translation": "5) Footnote 7 shall be replaced by the following text:"
+        },
+        {
+            "bbox": [
+                298.4108632795163,
+                1644.6488693447352,
+                1416.359853516924,
+                1710.1536929914582
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "«(⁷) a) La restitución aplicable a los quesos en envases inmediatos que contengan igualmente líquido de conservación, en particular salmuera, se concederá sobre el peso neto, previamente deducido el peso de dicho líquido.",
+            "uuid": "20bdde43-ee23-4b1b-a5f1-4519410b8411",
+            "vertical": false,
+            "translation": "\"(⁷) a) The refund applicable to cheeses in immediate packages also containing preservation liquid, in particular brine, shall be granted on the net weight, less the weight of that liquid."
+        },
+        {
+            "bbox": [
+                328.9797809813205,
+                1727.621645963918,
+                1411.992865273809,
+                1787.303818619821
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "b) Se considerará que no forman parte del peso neto del producto a efectos de la restitución la película de plástico, la parafina, la ceniza y la cera utilizadas como embalajes.",
+            "uuid": "662fcc9a-310a-4861-bdb8-2c0d9159e3a6",
+            "vertical": false,
+            "translation": "b) Plastic film, paraffin, ash and wax used as packaging shall be considered as not forming part of the net weight of the product for the purposes of the refund."
+        },
+        {
+            "bbox": [
+                328.9797809813205,
+                1809.1387598353954,
+                1409.0815397783992,
+                1868.8209324912987
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "c) Cuando el queso se presente en una película de plástico y cuando el peso neto declarado incluya el peso de la película de plástico, el importe de la restitución se disminuirá en un 0,5% .",
+            "uuid": "7757aece-339a-4f32-bddb-853d14bbdcc9",
+            "vertical": false,
+            "translation": "c) When the cheese is presented in a plastic film and when the declared net weight includes the weight of the plastic film, the amount of the refund shall be reduced by 0.5%."
+        },
+        {
+            "bbox": [
+                326.06845548591053,
+                1967.8059993352356,
+                1413.448528021514,
+                2027.488171991139
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "d) Cuando el queso se presente en parafina o ceniza cuando el peso neto declarado incluya el peso de la parafina o la ceniza, el importe de la restitución se disminuirá en un 2%.",
+            "uuid": "76fb640d-70ee-4087-a200-6bac5ff29e34",
+            "vertical": false,
+            "translation": "d) When cheese is present in paraffin or ash, when the declared net weight includes the weight of paraffin or ash, the amount of the refund shall be reduced by 2%."
+        },
+        {
+            "bbox": [
+                328.9797809813205,
+                2130.8402270781908,
+                1410.537202526104,
+                2184.6997487432745
+            ],
+            "order": "40",
+            "label": "List-item",
+            "text": "e)  Cuando el queso se presente en cera, al cumplir los trámites aduaneros, el interesado deberá indicar en su declaración el peso neto del queso, que no incluirá el peso de la cera.».",
+            "uuid": "bc8eba9a-c289-41c8-a92e-42e3c26d023b",
+            "vertical": false,
+            "translation": "e) When the cheese is presented in wax, when completing customs formalities, the interested party shall indicate in his declaration the net weight of the cheese, which shall not include the weight of the wax."
+        },
+        {
+            "bbox": [
+                362.46002417853447,
+                1890.6558737068729,
+                1410.537202526104,
+                1947.4267208673662
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Al cumplir los trámites aduaneros, el interesado deberá indicar si el queso está envasado en una película de plástico y si el peso neto declarado incluye el peso de la película de plástico.",
+            "uuid": "fda762c8-5596-418e-8850-b5f427874d8c",
+            "vertical": false,
+            "translation": "When completing customs procedures, the interested party must indicate whether the cheese is packed in a plastic film and if the declared net weight includes the weight of the plastic film."
+        },
+        {
+            "bbox": [
+                365.3713496739444,
+                2050.7787759544185,
+                1411.992865273809,
+                2104.638297619502
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "Al cumplir los trámites aduaneros, el interesado deberá indicar si el queso está envasado en parafina o ceniza y si el peso neto declarado incluye el peso de la parafina o la ceniza.",
+            "uuid": "4325902c-06dd-43db-a1f8-5516e9164031",
+            "vertical": false,
+            "translation": "When completing customs procedures, the interested party must indicate whether the cheese is packed in paraffin or ash and whether the declared net weight includes the weight of paraffin or ash."
+        },
+        {
+            "bbox": [
+                471.53710784879974,
+                1173.534169607754,
+                724.0268358103912,
+                1208.6486350858559
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "---------Los demás :",
+            "uuid": "3c93ed55-f445-43f5-9432-1a234103dbb4",
+            "vertical": false,
+            "translation": "---------The rest:"
+        },
+        {
+            "bbox": [
+                1231.4906845583944,
+                1337.504029578989,
+                1406.1702142829893,
+                1363.7059590376782
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "0406 90 88 9300",
+            "uuid": "b70cf7f2-bc15-4390-85ba-86ec5b880eb2",
+            "vertical": false,
+            "translation": "0406 90 88 9300"
+        },
+        {
+            "bbox": [
+                283.1567074091003,
+                740.3071676479861,
+                1421.767948944739,
+                1520.3224362754218
+            ],
+            "order": "11",
+            "label": "Table",
+            "text": "",
+            "uuid": "e5745c4d-03a9-4540-a401-62c587e412cc",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

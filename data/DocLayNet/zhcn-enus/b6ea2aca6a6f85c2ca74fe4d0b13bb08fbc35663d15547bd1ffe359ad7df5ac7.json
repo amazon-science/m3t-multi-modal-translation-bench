@@ -1,0 +1,147 @@
+{
+    "file": "b6ea2aca6a6f85c2ca74fe4d0b13bb08fbc35663d15547bd1ffe359ad7df5ac7.png",
+    "annotations": [
+        {
+            "bbox": [
+                188.0,
+                225.0,
+                1449.0,
+                836.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "位置实体：存储个人的身份相关信息的实体。位置实体也称为钱包。位置实体或者钱包指为个人存储并处理个人信息的组件，一般为软件。位置实体持有者可以是个人自己，或者是其信任的一方。成为职业位置实体持有者可能需要前提条件，例如隐私与安全承诺以及适当的预防措施。首要位置实体持有者持有个人的单一注册口令，更具体地讲，其在没有另一实体干预的前提下可以识别个人。因此，如果个人能够记住几个口令，则他或她可以具有持有不同类型信息的几个首要位置实体持有者。本地位置实体位于该个人的计算机上。远程位置实体位于分离的位置实体持有者（一般为职业位置实体持有者）的计算机或服务器上。其可以与位于该持有者处的其他位置实体集成。",
+            "uuid": "a2537f00-a43a-4c9f-8e18-84d767187de9",
+            "vertical": false,
+            "translation": "Location Entity: An entity that stores information about an individual's identity. The location entity is also known as a wallet. A location entity or wallet is a component, typically software that stores and processes personal information for individuals. The location entity holder can be the individual himself or a party he trusts. Becoming a professional location entity holder may require prerequisites such as privacy and security commitments and appropriate precautions. The primary location entity holder holds a single sign-on passphrase for an individual and, more specifically, it can identify an individual without the intervention of another entity. Thus, if an individual is able to remember several passphrases, he or she can have several primary location entity holders holding different types of information. The local entity is located on the individual's computer. The remote location entity is located on the computer or server of a separate location entity holder (typically a professional location entity holder). It may be integrated with other location entities located at the holder."
+        },
+        {
+            "bbox": [
+                193.0,
+                854.0,
+                1449.0,
+                1086.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "联盟：联盟一般指一组职业位置实体持有者与位置实体制造者。该组还可以包含个人或组织的代表，以协助大家都满意的标准，但是个人或组织可 以成百上千万，而对职业位置实体持有感兴趣的实体可能几万，例如银行、 CA（证书权威方）、ISP（因特网服务提供商）以及大的雇主。",
+            "uuid": "24a90746-4616-47f4-a9bb-f01a57f17fcf",
+            "vertical": false,
+            "translation": "Alliance: Alliance generally refers to a group of occupational location entity holders and location entity producers. This group can also contain representatives of individuals or organizations to help achieve a standard that everyone is happy with. But individuals or organizations can number in the millions, whereas entities holding an interest in occupational location entities can number in the tens of thousands, such as banks, CAs (certificate authorities), ISPs (Internet Service Providers), and large employers."
+        },
+        {
+            "bbox": [
+                270.0,
+                1109.0,
+                996.0000000000001,
+                1151.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "法律实体或者组织可以担当上述的几种角色。",
+            "uuid": "c7915f04-a4ec-4b57-855c-bc1c924de193",
+            "vertical": false,
+            "translation": "Legal entities or organizations can perform several of these roles."
+        },
+        {
+            "bbox": [
+                194.0,
+                1169.0,
+                1446.0,
+                1274.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "术语”计算机“包含诸如 PC 之类的设备，还包含具有浏览设施的数字助理以及移动电话。",
+            "uuid": "729f7650-0aa4-4365-8770-4b47104aed6d",
+            "vertical": false,
+            "translation": "The term \"computer\" contains devices such as PCs, as well as digital assistants with browsing facilities and mobile phones."
+        },
+        {
+            "bbox": [
+                193.0,
+                1420.0,
+                1453.0,
+                2157.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "参照图1，显示了可以使用本发明的通信环境的一般布局。在附图中，相同的标号表示相同的部件。图 1 显示作为用户 20 的个人 P。用户 20 在其机器上执行客户端应用 30，例如网络浏览器。客户端应用 30 为了依赖于应用的交互而连接到请求实体 50，例如提供服务的公司或银行的服务器。客户端应用30与请求实体 50 通过通信线路 5 连接，如现有技术所知。通信线路 5一般通过网络例如互联网提供。客户端应用 30 还连接到位置实体 40。也称为钱包，其中位置实体40可以是本地的，即在用户 20 的计算机处，或者是远程的，即在外部服务器等等之上。位置实体 40 还可以连接到请求实体 50 以传送身份相关信息 IRI。作为术语”身份相关信息“，IRI 被理解为与个人或用户有关的任何信息。身份相关信息 IRI 包括名称、地址、组成员、授权证书、人口数据、个人偏好、日历项目、医疗与财务信息以及可以数字地存储的关于个人的或者在用戶名下的其他任何信息。请求实体可能希望得到它",
+            "uuid": "f58b5f4b-ee8a-4d4d-a024-2545014c58b6",
+            "vertical": false,
+            "translation": "A general layout of a communication environment in which the present invention can be used is shown in FIG. 1. In the accompanying drawings, the same reference numerals refer to the same components. FIG. 1 shows personal P as user 20. User 20 executes client application 30, such as a web browser, on their machine. Client application 30 connects to requesting entity 50 in order to rely on the interaction of the application, such as the server of the company or bank providing the service. Client application 30 is connected to requesting entity 50 via communication line 5, as is known in the art. Communication line 5 is generally provided over a network, such as the Internet. Client application 30 is also connected to location entity 40. Also referred to as a wallet, where location entity 40 can be local, i.e. on the computer of user 20, or remote, i.e. on top of an external server or the like. Location entity 40 may also be connected to requesting entity 50 to transmit the identity-related information IRI. As the term “identity-related information,” IRI is considered to mean any information relating to an individual or user. Identity-related information IRIs include names, addresses, group memberships, authorization certificates, demographic data, personal preferences, calendar items, medical and financial information, and any other information about an individual that can be stored digitally or in the user's name. The requesting entity may want it"
+        },
+        {
+            "bbox": [
+                170.69039908897022,
+                149.71009864146885,
+                326.5381547788995,
+                186.81670713907104
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "590bf00e-901f-41e7-807a-0d833cfc7743",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1178.1348197988707,
+                151.56542906634903,
+                1330.2719146390398,
+                186.81670713907104
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "4ee466a9-959a-493c-865d-305b97a762ac",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1350.680549312721,
+                149.71009864146885,
+                1489.8303311787292,
+                188.67203756395122
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 10/17 页",
+            "uuid": "24bb07b8-1cd0-4889-b60c-ba101b3b4079",
+            "vertical": false,
+            "translation": "Page 10/17"
+        },
+        {
+            "bbox": [
+                267.167581182736,
+                1355.6748748135412,
+                423.0153368726654,
+                1405.768796285304
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "详细描述",
+            "uuid": "02ceda58-7198-4a17-9d4a-6e40a7f65516",
+            "vertical": false,
+            "translation": "Detailed description"
+        },
+        {
+            "bbox": [
+                812.6347260974887,
+                2205.416209408632,
+                851.596665019971,
+                2242.522817906234
+            ],
+            "order": "10",
+            "label": "Page-footer",
+            "text": "14",
+            "uuid": "b3e261ee-7b81-4351-805a-68daa0093d33",
+            "vertical": false,
+            "translation": "14"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

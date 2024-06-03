@@ -1,0 +1,399 @@
+{
+    "file": "jrc32004R2032.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                124.63208885357227,
+                121.55463272986304,
+                216.46625958778344,
+                151.0909896871788
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 353/6",
+            "uuid": "71042501-a1f6-42f5-9a5d-909e559a229c",
+            "vertical": false,
+            "translation": "L 353/6"
+        },
+        {
+            "bbox": [
+                344.3781402532918,
+                121.24123806858218,
+                371.27243311116797,
+                139.94759747488226
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "ca5a8505-2f20-4107-a462-1a868f315d97",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                636.3180523592604,
+                120.90473465454778,
+                1037.4966994326376,
+                151.24799553042146
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "3bc16cd1-8892-4608-b535-8382b6cdf42a",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                704.9210923792431,
+                267.13518018935173,
+                967.402288977438,
+                292.0067054974454
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "of 26 November 2004",
+            "uuid": "2061fd96-3eb4-431b-ae40-b91eedc379b3",
+            "vertical": false,
+            "translation": "2004 年 11 月 26 日"
+        },
+        {
+            "bbox": [
+                546.2862615700446,
+                220.25448948927126,
+                1125.9525290376675,
+                249.77261579669621
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "COMMISSION REGULATION (EC) No 2032/2004",
+            "uuid": "5b0962a6-26f4-473d-9cf8-42832b56daca",
+            "vertical": false,
+            "translation": "委员会 (EC) 第 2032/2004 号条例"
+        },
+        {
+            "bbox": [
+                1431.6597236068005,
+                124.38377102396187,
+                1548.0458540945813,
+                144.25338437201074
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "27.11.2004",
+            "uuid": "a09d960d-447f-48c0-8feb-d653084ee80e",
+            "vertical": false,
+            "translation": "2004 年 11 月 27 日"
+        },
+        {
+            "bbox": [
+                266.0250537754529,
+                315.6280070014403,
+                1407.9159885733354,
+                370.40343346140384
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "opening a tendering procedure for the refund on export of wholly milled and parboiled long-grain B rice to certain third countries",
+            "uuid": "f0859c03-97b4-43fa-8534-47eb29796f38",
+            "vertical": false,
+            "translation": "对出口到某些第三国的全碾米和长粒 B 级蒸谷米的退税开启招标程序"
+        },
+        {
+            "bbox": [
+                124.82196046089778,
+                431.2938662691651,
+                679.8678354037733,
+                453.48405309851444
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,",
+            "uuid": "ca2c879d-8471-4f64-97e2-b6956cb88c52",
+            "vertical": false,
+            "translation": "欧洲共同体委员会，"
+        },
+        {
+            "bbox": [
+                124.82196046089778,
+                580.8842980642083,
+                802.1553398147036,
+                640.4807998344609
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community,",
+            "uuid": "6446b185-f986-409f-8e39-39cf3ff734a5",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，"
+        },
+        {
+            "bbox": [
+                120.07278098993494,
+                763.0786258262699,
+                802.874714678968,
+                846.4641879521629
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to Council Regulation (EC) No 1785/2003 of 29 September 2003 on the common organisation of the market in rice (¹), and in particular Article 14(3) thereof,",
+            "uuid": "7138acf7-1fa0-418b-958c-3ee75988523e",
+            "vertical": false,
+            "translation": "考虑到理事会 2003 年 9 月 29 日关于大米市场共同组织 (¹) 的 (EC) 第 1785/2003 号条例，特别是其中第 14(3) 条，"
+        },
+        {
+            "bbox": [
+                125.48741557331807,
+                973.5687438661294,
+                220.63721419484497,
+                996.7499594388529
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Whereas:",
+            "uuid": "b89c3490-2a68-4198-a7a4-038ce50d043b",
+            "vertical": false,
+            "translation": "鉴于："
+        },
+        {
+            "bbox": [
+                124.82196046089778,
+                1124.4554648450917,
+                805.3234098771629,
+                1242.380457709634
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(1) Examination of the supply balance shows that exportable amounts of rice are currently held by producers. This situation could affect the normal development of producer prices during the 2004/2005 marketing year.",
+            "uuid": "d81fd7f7-85d1-4fe9-b22f-8c4f1651c01c",
+            "vertical": false,
+            "translation": "(1) 对供应平衡的研究表明，目前可出口的大米数量由生产商持有。这种情况可能会影响 2004/2005 销售年度生产商价格的正常发展。"
+        },
+        {
+            "bbox": [
+                126.51311439675433,
+                1364.8092833017977,
+                804.5997602522555,
+                1541.0905566516333
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(2) In order to remedy this situation, it is appropriate to grant export refunds in respect of zones which may be supplied by the Community. The special situation of the rice market makes it necessary to limit the quantities of rice benefiting from refunds, and therefore to fix the amount of the export refund by tendering procedure.",
+            "uuid": "b773e938-b4ab-4d89-a1a1-73b607df0b7e",
+            "vertical": false,
+            "translation": "(2) 为了纠正这种情况，宜对可能由共同体供应的地区给予出口退税。由于大米市场的特殊情况，有必要限制受益于退税的大米数量，从而通过招标程序确定出口退税的金额。"
+        },
+        {
+            "bbox": [
+                124.55310863881311,
+                1661.7598544575164,
+                803.7707802087436,
+                1784.5966502773801
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(3) It should be stated that Commission Regulation (EEC) No 584/75 of 6 March 1975 laying down detailed rules for the application of the system of tendering for export refunds on rice (²) applies to this tendering procedure.",
+            "uuid": "b6f7a7bc-c09f-48f8-9c10-2be66089cb64",
+            "vertical": false,
+            "translation": "(3) 应该指出，1975 年 3 月 6 日委员会 (EEC) 第 584/75 号条例规定的适用大米出口退税招标制度的细则 (²) 适用于本招标程序。"
+        },
+        {
+            "bbox": [
+                124.1084329846003,
+                1907.1026532135909,
+                809.186983059594,
+                2026.9519834643288
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(4) For the sake of sound management of the markets, the tendering procedure should be limited to certain zones listed in the Annex to Commission Regulation (EEC) No 2145/92 (³).",
+            "uuid": "3b1a6f4e-b55d-4706-beb2-233ea9bd8bc5",
+            "vertical": false,
+            "translation": "(4) 为了健全管理市场，招标程序应仅限于委员会 (EEC) 第 2145/92 号条例 (³) 附件中列出的某些地区。"
+        },
+        {
+            "bbox": [
+                125.44917416858875,
+                2062.559771785061,
+                444.8965355336022,
+                2086.3095206032713
+            ],
+            "order": "25",
+            "label": "Footnote",
+            "text": "(¹) OJ L 270, 21.10.2003, p. 96.",
+            "uuid": "4d31c1bf-f21b-4c2d-b013-f0a77b5fe8c1",
+            "vertical": false,
+            "translation": "(¹) OJ L 270，2003 年 10 月 21 日，第 96 页。"
+        },
+        {
+            "bbox": [
+                126.08918848588151,
+                2086.821623028237,
+                801.7546327667485,
+                2137.525125239327
+            ],
+            "order": "26",
+            "label": "Footnote",
+            "text": "(²) OJ L 61, 7.3.1975, p. 25. Regulation as last amended by Regulation (EC) No 1948/2002 (OJ L 299, 1.11.2002, p. 18).",
+            "uuid": "f43c5a29-7a06-4381-b88b-61cea502a2b0",
+            "vertical": false,
+            "translation": "(²) OJ L 61，1975 年 3 月 7 日，第 25 页。经 (EC) 第 1948/2002 号条例（OJ L 299，2002 年 11 月 1 日，第 18 页）最后修正的条例。"
+        },
+        {
+            "bbox": [
+                125.93078498275857,
+                2137.827551033832,
+                801.8385328084578,
+                2187.906768363188
+            ],
+            "order": "27",
+            "label": "Footnote",
+            "text": "(³) OJ L 214, 30.7.1992, p. 20. Regulation as amended by Regulation (EC) No 3304/94 (OJ L 341, 30.12.1994, p. 48).",
+            "uuid": "201cab49-5f06-45ed-b46e-1c8e99d06000",
+            "vertical": false,
+            "translation": "(³) OJ L 214，1992 年 7 月 30 日，第 20 页。 经 (EC) 第 3304/94 号条例（OJ L 341，1994 年 12 月 30 日，第 48 页）修正的条例。"
+        },
+        {
+            "bbox": [
+                870.9654030341505,
+                428.8333181081297,
+                1549.9997888207831,
+                784.0541173978405
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(5) Under Article 14 of Commission Regulation (EC) No 2808/98 of 22 December 1998 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture (⁴), amounts quoted in tenders submitted in response to invitations to tender organised under an instrument forming part of the common agricultural policy must be expressed in euro. Article 5(1) of that Regulation provides that in such cases the operative event for the agricultural exchange rate is the final day for the submission of tenders. Paragraphs 3 and 4 of that Article specify the operative events applicable to advances and securities.",
+            "uuid": "f8f44cdb-f0ea-4ce6-878d-6bfa56e0579c",
+            "vertical": false,
+            "translation": "(5) 根据 1998 年 12 月 22 日委员会 (EC) 第 2808/98 号条例第 14 条，该条例规定了在农业中适用欧元的农业货币制度的细则 (⁴)，当涉及共同农业政策的招标时，投标书中的报价金额必须以欧元表示。该条例第 5(1) 条规定，在这种情况下，农业汇率的执行事件是提交投标书的最后一天。该条第 3 段和第 4 段具体规定了适用于预付款和证券的执行事件。"
+        },
+        {
+            "bbox": [
+                872.0092260395359,
+                874.2953789047891,
+                1547.5446571420716,
+                960.4626099754764
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,",
+            "uuid": "c25452e7-2030-4894-a0a5-ce4abeb5f9de",
+            "vertical": false,
+            "translation": "(6) 本条例规定的措施符合谷物管理委员会的意见，"
+        },
+        {
+            "bbox": [
+                872.0685891051248,
+                1060.524533747995,
+                1228.9492830652866,
+                1081.498014504269
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "HAS ADOPTED THIS REGULATION:",
+            "uuid": "b378c7fc-cf8e-4b2f-944b-672c57c8756c",
+            "vertical": false,
+            "translation": "已通过以下条例："
+        },
+        {
+            "bbox": [
+                1165.2161689725433,
+                1177.4622330619713,
+                1250.5956571558224,
+                1199.0184145533394
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "11cb6f12-eefa-427f-b6b9-38b522368634",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                868.2074378567149,
+                1230.3375162314449,
+                1548.873243647812,
+                1345.139726686838
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "1. A tendering procedure opened for the refund on export as referred to in Article 14 of Regulation (EC) No 1785/2003 for wholly milled and parboiled long-grain B rice falling within CN code 1006 30 67.",
+            "uuid": "1d3ad9e5-798b-49f2-92e4-1178b741dcfc",
+            "vertical": false,
+            "translation": "1. 根据 (EC) 第 1785/2003 号条例第 14 条的规定，对于 CN 代码 1006 30 67 范围内的全碾米和长粒 B 级蒸谷米的出口退税已开始招标。"
+        },
+        {
+            "bbox": [
+                869.7584917537124,
+                1438.8132887226145,
+                1548.0973321842228,
+                1493.4343553825088
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "The tendering procedure shall be restricted to the following destinations:",
+            "uuid": "c0b922cb-3549-430a-b117-487b9a51df4c",
+            "vertical": false,
+            "translation": "招标程序限于下列地点："
+        },
+        {
+            "bbox": [
+                871.9524383586211,
+                1591.4222351862572,
+                1550.3640317544643,
+                1708.9774818556427
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "(a) zones I to VI in the Annex to Regulation (EEC) No 2145/92, except for Malta, Cyprus, Poland, the Czech Republic, Slovakia, Hungary, Estonia,  Latvia, Lithuania, Slovenia, Romania and Turkey;",
+            "uuid": "c7e31e9a-80fb-4ce2-a7d7-82fc6c26f5eb",
+            "vertical": false,
+            "translation": "(a) (EEC) 第 2145/92 号条例附件中的一至六区，但马耳他、塞浦路斯、波兰、捷克共和国、斯洛伐克、匈牙利、爱沙尼亚、拉脱维亚、立陶宛、斯洛文尼亚、罗马尼亚和土耳其除外；"
+        },
+        {
+            "bbox": [
+                871.9524383586211,
+                1799.9961847238226,
+                1549.6849410703842,
+                1882.2169063827569
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "(b) zone VIII in the Annex to Regulation (EEC) No 2145/92, except for Guyana, Madagascar, Suriname, the Netherlands Antilles, Aruba and the Turks and Caicos Islands.",
+            "uuid": "80e7dcb9-fd69-49a0-a8b4-81d173e7c7aa",
+            "vertical": false,
+            "translation": "(b) (EEC) 第 2145/92 号条例附件第八区，但圭亚那、马达加斯加、苏里南、荷属安的列斯、阿鲁巴及特克斯和凯科斯群岛除外。"
+        },
+        {
+            "bbox": [
+                870.1036054893874,
+                1981.9803243320282,
+                1550.0521183883786,
+                2095.375066828093
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "2. The tendering procedure shall be open until 23 June 2005. During that period regular invitations to tender shall be issued and the date for submission of tenders shall be laid down in the notice of invitation to tender.",
+            "uuid": "4c4cd17a-ca33-46eb-bd85-3b4d0278f823",
+            "vertical": false,
+            "translation": "2. 招标程序将持续到 2005 年 6 月 23 日。在此期间，应定期发出招标书，并应在招标通知中规定投标书的提交日期。"
+        },
+        {
+            "bbox": [
+                872.5086883724439,
+                2137.5468316744,
+                1549.091739132872,
+                2190.4769318029144
+            ],
+            "order": "28",
+            "label": "Footnote",
+            "text": "(⁴) OJ L 349, 24.12.1998, p. 36. Regulation as last amended by Regulation (EC) No 1250/2004 (OJ L 237, 8.7.2004, p. 13).",
+            "uuid": "fdbf69e0-e558-43dd-bb4e-87beb4458764",
+            "vertical": false,
+            "translation": "(⁴) OJ L 349，1998 年 12 月 24 日，第 36 页。经 (EC) 第 1250/2004 号条例（OJ L 237，2004 年 7 月 8 日，第 13 页）最后修正的条例。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

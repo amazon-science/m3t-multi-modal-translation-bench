@@ -1,0 +1,637 @@
+{
+    "file": "jrc31999R2083.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.84792619476923,
+                138.78413458663087,
+                245.81340333347285,
+                163.8804752861864
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "1. 10. 1999",
+            "uuid": "36de14d8-df0a-44a3-ae2e-19bfc5e66b46",
+            "vertical": false,
+            "translation": "1.10.1999"
+        },
+        {
+            "bbox": [
+                333.23312774688344,
+                142.22967271261695,
+                367.8547323478777,
+                164.7298402363566
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "8201ee3f-4d7f-46af-8a10-f47d33f0d274",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                591.1640820242907,
+                140.49889059540664,
+                1062.8834447128377,
+                170.78757764659386
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "d5881a97-deb8-462d-b7cc-a2e815f7c0db",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1433.3346139434761,
+                139.6334995368011,
+                1537.199427746459,
+                169.056795529383
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 256/49",
+            "uuid": "f6af0959-1a48-417a-a256-3069e36e7b73",
+            "vertical": false,
+            "translation": "L 256/49"
+        },
+        {
+            "bbox": [
+                780.0672216677448,
+                1042.4033277746983,
+                878.3558437311171,
+                1068.921086899548
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "Artikel 2",
+            "uuid": "1e0ccb3e-c582-4c18-a5ac-aa35754b922c",
+            "vertical": false,
+            "translation": "Article 2"
+        },
+        {
+            "bbox": [
+                250.14143670070098,
+                1085.6948244506339,
+                1404.1219649272512,
+                1152.341577570317
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "Diese Verordnung tritt am dritten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Gemein schaften in Kraft.",
+            "uuid": "207a8b7b-8ebe-4972-8f38-22021e852020",
+            "vertical": false,
+            "translation": "This regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities."
+        },
+        {
+            "bbox": [
+                321.3869853720077,
+                1218.6684325457595,
+                1330.7955325942594,
+                1276.3835553469037
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitglied staat.",
+            "uuid": "a7a53658-0b4d-4f7f-97fa-2547680a78cb",
+            "vertical": false,
+            "translation": "This regulation shall be binding in its entirety and directly applicable in all Member States."
+        },
+        {
+            "bbox": [
+                322.9471222301566,
+                1326.299337228974,
+                706.7407893347529,
+                1368.4157781919712
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Brüssel, den 30. September 1999",
+            "uuid": "3fa9400c-50e8-43b5-b216-1a5d5a1478c3",
+            "vertical": false,
+            "translation": "Brussels, September 30, 1999"
+        },
+        {
+            "bbox": [
+                982.8850132270846,
+                1391.8138009491918,
+                1199.7440365097632,
+                1426.1309009931151
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "Für die Kommission",
+            "uuid": "ce2054e4-da2d-408d-8318-3931da6cbcc1",
+            "vertical": false,
+            "translation": "For the Commission"
+        },
+        {
+            "bbox": [
+                1004.7269292411672,
+                1435.4901100960033,
+                1173.2217099212342,
+                1468.247341956112
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Franz FISCHLER",
+            "uuid": "74722b64-9fb6-4e8c-8f73-bfcd3b1d6ba9",
+            "vertical": false,
+            "translation": "Franz FISCHLER"
+        },
+        {
+            "bbox": [
+                962.6032340711503,
+                1474.486814691371,
+                1221.590170756591,
+                1512.1254272017964
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "Mitglied der Kommission",
+            "uuid": "1c9d8ed9-0bf0-42ae-b998-cd0cc9636ca6",
+            "vertical": false,
+            "translation": "Member of the Commission"
+        },
+        {
+            "bbox": [
+                285.50382225360977,
+                220.15257614306068,
+                1397.850731016731,
+                914.4453556974066
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "Departement Indre-et-Loire-37 Landes 40 Landes 40 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Maine-et-Loire-49 Rhône 69 Gestrichen Ville- aux - Dames (Mais) Solférino (Gerste) Haut-Mauco (Weizen, Gerste, Mais) Ormes (Gerste , Mais) Beaugency (Hartweizen, Gerste, Mais) Châlette (Hartweizen) Montreuil-Bellay (Hartweizen) Neu geschaffen Ville-Perdue (Gerste) Aire-sur-l'Adour (Mais) Tartas (Weizen, Gerste, Mais) Châteaurenard (Weizen) Meung - sur - Loire (Weizen, Mais) Artenay (Gerste) Courtenay (Gerste) Châtillon-Coligny (Mais) Gennes (Gerste) Saint-Roman-en-Gal (Mais)",
+            "uuid": "559b7807-4254-4683-a215-037853906620",
+            "vertical": false,
+            "translation": "Department Indre-et-Loire-37 Landes 40 Landes 40 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Loiret 45 Maine-et-Loire-49 Rhône 69 deleted Ville-aux-Dames (corn) Solférino (barley) Haut-Mauco (wheat, barley, corn) Ormes (barley, corn) Beaugency (durum wheat, barley, corn) Châlette (durum wheat) Montreuil-Bellay (durum wheat) newly created Ville-Perdue (barley) Aire-sur-l'Adour (corn) Tartas (wheat, barley, corn) Châteaurenard (wheat) Meung-sur-Loire (wheat, corn) Artenay (barley) Courtenay (barley) Châtillon-Coligny (corn) Gennes (barley) Saint-Roman-en-Gal (corn)"
+        },
+        {
+            "bbox": [
+                378.24228250281703,
+                240.9299126836976,
+                490.7624974560484,
+                267.7570355004637
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Departement",
+            "uuid": "855deb5d-648c-4870-844e-8a7e6c23dcd9",
+            "vertical": false,
+            "translation": "Department"
+        },
+        {
+            "bbox": [
+                733.1127611526549,
+                241.76748483709483,
+                823.1289331152401,
+                265.99843447804477
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Gestrichen",
+            "uuid": "4843a67a-815e-409f-bd58-d96320d44b5a",
+            "vertical": false,
+            "translation": "Deleted"
+        },
+        {
+            "bbox": [
+                1126.0679733739398,
+                241.76748483709483,
+                1254.1679103976187,
+                265.99843447804477
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Neu geschaffen",
+            "uuid": "d880c39b-78ac-4578-8767-31b9a5a514c7",
+            "vertical": false,
+            "translation": "Newly created"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                310.9987695255231,
+                484.70274814052107,
+                335.22971916647305
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Indre-et-Loire - 37",
+            "uuid": "49c63e3f-ac03-47d7-929d-82731a2d24df",
+            "vertical": false,
+            "translation": "Indre-et-Loire - 37"
+        },
+        {
+            "bbox": [
+                590.2986421735535,
+                310.9987695255231,
+                808.4147511598175,
+                341.28745657671055
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Ville-aux-Dames (Mais)",
+            "uuid": "100e8c3f-3004-4e9f-a5f3-751a29171401",
+            "vertical": false,
+            "translation": "Ville-aux-Dames (corn)"
+        },
+        {
+            "bbox": [
+                997.1024962352363,
+                309.26798740831225,
+                1197.0422628059778,
+                339.55667445949973
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Ville-Perdue (Gerste)",
+            "uuid": "ae8c9806-ba49-41ad-af0a-21a4dc4fbd6c",
+            "vertical": false,
+            "translation": "Ville-Perdue (barley)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                368.1145793934764,
+                421.5183197437065,
+                387.1531826827941
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Landes - 40",
+            "uuid": "74351525-cb31-4de0-b95e-0d65e064f952",
+            "vertical": false,
+            "translation": "Landes - 40"
+        },
+        {
+            "bbox": [
+                1000.5646566953355,
+                367.24918833487106,
+                1223.0084662567238,
+                394.0763111516369
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Aire-sur-l'Adour (Mais)",
+            "uuid": "52d528f5-5ca7-48fe-bfd5-715e0408bacd",
+            "vertical": false,
+            "translation": "Aire-sur-l'Adour (corn)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                425.23038926142965,
+                424.9804802038059,
+                445.9997746679582
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Landes - 40",
+            "uuid": "56d96b9d-0b22-47c6-83b9-1fa8a2695ab1",
+            "vertical": false,
+            "translation": "Landes - 40"
+        },
+        {
+            "bbox": [
+                587.702021828479,
+                424.3649982028246,
+                936.5146881834962,
+                450.3267299609852
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Haut-Mauco (Weizen, Gerste, Mais)",
+            "uuid": "2b8cea97-857c-4a1c-b218-b4aebcaa4adc",
+            "vertical": false,
+            "translation": "Haut-Mauco (wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                1001.4301968103604,
+                423.49960714421906,
+                1287.923974883588,
+                448.5959478437746
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Tartas (Weizen, Gerste, Mais)",
+            "uuid": "291b4411-bbb7-4ecf-ad7c-a98f0308190e",
+            "vertical": false,
+            "translation": "Tartas (wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                293.4183827200277,
+                479.75002595356705,
+                411.1318383634082,
+                502.2501934773065
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "0cc620bf-6ca3-4a64-83d9-7402c2314bf1",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                587.702021828479,
+                481.48080807077787,
+                794.5661093194198,
+                508.3079308875437
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Ormnes  (Gerste,  Mais)",
+            "uuid": "56cdbfda-044d-4294-b2e4-10337acbe402",
+            "vertical": false,
+            "translation": "Ormnes (barley, corn)"
+        },
+        {
+            "bbox": [
+                1000.5646566953355,
+                478.0192438363565,
+                1232.5294075219972,
+                506.5771487703334
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Châteaurenard (Weizen)",
+            "uuid": "590f9716-78fc-420a-8051-009d3bbcda50",
+            "vertical": false,
+            "translation": "Châteaurenard (wheat)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                536.8658358215206,
+                410.2662982483834,
+                559.3660033452597
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Loiret - 45",
+            "uuid": "8170dbdc-e145-439e-8d0a-0e6964e7b5ca",
+            "vertical": false,
+            "translation": "Loiret - 45"
+        },
+        {
+            "bbox": [
+                587.702021828479,
+                535.1350537043098,
+                952.9599503689685,
+                564.5583496968919
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Beaugency (Hartweizen, Gerste, Mais)",
+            "uuid": "9766b442-18a8-4d63-bd2d-654587cace83",
+            "vertical": false,
+            "translation": "Beaugency (durum wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                1001.4301968103604,
+                535.1350537043098,
+                1313.0246382193086,
+                567.1545228727081
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Meung-sur-Loire (Weizen, Mais)",
+            "uuid": "ae5330a9-cd67-4112-8af7-925169784304",
+            "vertical": false,
+            "translation": "Meung-sur-Loire (wheat, corn)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                592.2508635722634,
+                413.7284587084828,
+                618.2125953304238
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Loiret - 45",
+            "uuid": "7d2e96b2-74cf-4b65-ad80-d8470614ed21",
+            "vertical": false,
+            "translation": "Loiret - 45"
+        },
+        {
+            "bbox": [
+                1000.5646566953355,
+                592.2508635722634,
+                1161.555118089959,
+                615.616422154608
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Artenay (Gerste)",
+            "uuid": "a1f52c2d-2e35-4363-a83c-fced5f872d55",
+            "vertical": false,
+            "translation": "Artenay (barley)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                648.5012823816113,
+                413.7284587084828,
+                671.8668409639557
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "dc69e740-9ccf-438f-90b5-0d30aea6bb46",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                999.6991165803108,
+                647.6358913230058,
+                1181.4625407355306,
+                674.4630141397719
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Courtenay (Gerste)",
+            "uuid": "c101a965-f44b-4349-affe-c6361c5d0759",
+            "vertical": false,
+            "translation": "Courtenay (barley)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                705.6170922495646,
+                411.99737847843306,
+                727.2518687146985
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Loiret - 45",
+            "uuid": "5dc8a9a6-d42e-478e-a487-991e2949a24a",
+            "vertical": false,
+            "translation": "Loiret - 45"
+        },
+        {
+            "bbox": [
+                1001.4301968103604,
+                706.4824833081699,
+                1235.126027867072,
+                729.8480418905145
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Châtillon-Coligny (Mais)",
+            "uuid": "ddb43c30-4a1f-4e34-9e14-b7ea85372a3d",
+            "vertical": false,
+            "translation": "Châtillon-Coligny (corn)"
+        },
+        {
+            "bbox": [
+                293.4183827200277,
+                760.136728941702,
+                411.1318383634082,
+                784.3676785826517
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Loiret - 45",
+            "uuid": "bbcaca2e-3a4f-4872-a11a-0be478483290",
+            "vertical": false,
+            "translation": "Loiret - 45"
+        },
+        {
+            "bbox": [
+                589.4331020585287,
+                759.2713378830965,
+                796.2971895494694,
+                786.0984606998626
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Châlette (Hartweizen)",
+            "uuid": "ed683e3b-6102-4d20-b82d-f40b6c957c0d",
+            "vertical": false,
+            "translation": "Châlette (durum wheat)"
+        },
+        {
+            "bbox": [
+                296.01500306510223,
+                815.5217566924445,
+                494.2236894057945,
+                841.4834884506053
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Maine - et - Loire - 49",
+            "uuid": "b44d19df-7a00-4ed5-9893-db4de075ef93",
+            "vertical": false,
+            "translation": "Maine-et-Loire - 49"
+        },
+        {
+            "bbox": [
+                585.9709415984292,
+                816.3871477510501,
+                876.7924202467811,
+                844.0796616264214
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Montreuil-Bellay (Hartweizen)",
+            "uuid": "cd4f7cff-53c6-4a20-9cea-115c777b435a",
+            "vertical": false,
+            "translation": "Montreuil-Bellay (durum wheat)"
+        },
+        {
+            "bbox": [
+                1000.5646566953355,
+                818.1179298682606,
+                1157.2274175148348,
+                844.0796616264214
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Gennes (Gerste)",
+            "uuid": "edc13626-c533-4d19-96e5-62ebcb067d34",
+            "vertical": false,
+            "translation": "Gennes (barley)"
+        },
+        {
+            "bbox": [
+                293.4183827200277,
+                874.3683486776089,
+                418.05615928360714,
+                896.868516201348
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Rhône - 69",
+            "uuid": "1ef9271a-315d-4c69-833e-6714f2ca4b44",
+            "vertical": false,
+            "translation": "Rhône - 69"
+        },
+        {
+            "bbox": [
+                998.8335764652859,
+                874.3683486776089,
+                1262.823311547867,
+                900.3300804357693
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Saint-Roman-en-Gal (Mais)",
+            "uuid": "67ef95af-8e0b-4741-a795-fa094051cc36",
+            "vertical": false,
+            "translation": "Saint-Roman-en-Gal (corn)"
+        },
+        {
+            "bbox": [
+                254.46913727582523,
+                938.4766830877236,
+                515.862252013332,
+                967.8999790803055
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "2. im Teil ,,Österreich\":",
+            "uuid": "352ca9f5-6fac-4e5b-b099-d4d241ef2128",
+            "vertical": false,
+            "translation": "2. in the \"Austria\" section:"
+        },
+        {
+            "bbox": [
+                289.0907418768195,
+                978.2846717835698,
+                752.1547034151179,
+                1008.5733588347571
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "der Ort „Enns\" als„ Ennsdorf\" bezeichnet.",
+            "uuid": "fdd8b850-124d-4736-8738-0cd78879d89f",
+            "vertical": false,
+            "translation": "the town of \"Enns\" is called \"Ennsdorf\"."
+        },
+        {
+            "bbox": [
+                585.9717671788407,
+                364.67403052766326,
+                758.2142500687871,
+                391.5011533444293
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Solférino (Gerste)",
+            "uuid": "a22e67b5-5eed-42c1-9e95-7296e1f4e734",
+            "vertical": false,
+            "translation": "Solférino (barley)"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

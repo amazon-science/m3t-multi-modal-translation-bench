@@ -1,0 +1,483 @@
+{
+    "file": "87428306.png",
+    "annotations": [
+        {
+            "bbox": [
+                115.0,
+                152.90191834422606,
+                175.21772320377764,
+                160.916182968182
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "LAC FILE NUMBER",
+            "uuid": "4d3995ec-59bd-4984-9416-586f1fcaae6e",
+            "vertical": false,
+            "translation": "NÚMERO DE EXPEDIENTE LAC"
+        },
+        {
+            "bbox": [
+                115.0,
+                181.00000000000006,
+                169.7706711370397,
+                187.87122972205484
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "PHYSICAL STATE",
+            "uuid": "4976fcb7-de7d-4e7f-b26f-862530da555d",
+            "vertical": false,
+            "translation": "ESTADO FISICO"
+        },
+        {
+            "bbox": [
+                125.31897802682188,
+                185.87917475951744,
+                551.8398828681546,
+                202.6045711665898
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "A crystalline solid at room temperature which melts at >56°C.",
+            "uuid": "5b66c2cd-e62b-4f3d-ba3b-60833695b198",
+            "vertical": false,
+            "translation": "Un sólido cristalino a temperatura ambiente que se derrite a >56 °C."
+        },
+        {
+            "bbox": [
+                115.0,
+                210.0,
+                128.0,
+                215.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "pH",
+            "uuid": "59302010-ec18-43a4-98f9-51126e361b31",
+            "vertical": true,
+            "translation": "pH"
+        },
+        {
+            "bbox": [
+                116.94512061371177,
+                289.915958287966,
+                177.24056649368305,
+                297.4879445147531
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "SPECIFIC GRAVITY",
+            "uuid": "dea97c5e-c1fd-4115-ba91-9fa7b82b0cf9",
+            "vertical": false,
+            "translation": "GRAVEDAD ESPECÍFICA"
+        },
+        {
+            "bbox": [
+                129.0,
+                221.0,
+                588.0,
+                275.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "The pH of a 50% concentration of A221 in water was theoretically calculated to be 7.26 at 22°C from a 0.5% solution in 79.5% aqueous dioxane according to the extrapolation procedures of Dr. P. D. Schickedantz, Lozillard Accession Number 1662. Reference 45-10-1.",
+            "uuid": "61f53760-4ea2-4138-ae59-837bd488514e",
+            "vertical": false,
+            "translation": "El pH de una concentración del 50 % de A221 en agua se calculó teóricamente en 7,26 a 22 °C a partir de una solución al 0,5 % en dioxano acuoso al 79,5 % según los procedimientos de extrapolación del Dr. P. D. Schickedantz, Lozillard Número de Acceso 1662. Referencia 45-10-1."
+        },
+        {
+            "bbox": [
+                129.0,
+                303.91110636960974,
+                230.52491401551816,
+                315.99724418023266
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Not Determined.",
+            "uuid": "853fac6a-54f5-4471-b3ce-bdd9237397d2",
+            "vertical": false,
+            "translation": "No determinado."
+        },
+        {
+            "bbox": [
+                116.0,
+                350.0,
+                153.98893620669148,
+                356.56959365802146
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "SOLUBILITY",
+            "uuid": "2fce0657-bc0e-44fa-b92d-e1bef0968b83",
+            "vertical": false,
+            "translation": "SOLUBILIDAD"
+        },
+        {
+            "bbox": [
+                126.10082724985922,
+                362.71350913583757,
+                212.339883996143,
+                369.9144292511247
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "MUTAGENICITY SOLVENTS",
+            "uuid": "86d12fa0-b4dd-4eb0-86bb-26f2d358b2df",
+            "vertical": false,
+            "translation": "DISOLVENTES DE MUTAGENICIDAD"
+        },
+        {
+            "bbox": [
+                128.0,
+                369.0,
+                533.0,
+                398.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "A221 is soluble in EtOH at 0.2 g/mL, with stirring, at room temperature. Reference BC30-88.",
+            "uuid": "b0121fac-3ae6-4d1e-b440-709d27b46310",
+            "vertical": false,
+            "translation": "El A221 es soluble en EtOH a 0,2 g/ml, con agitación, a temperatura ambiente. Referencia BC30-88."
+        },
+        {
+            "bbox": [
+                126.0,
+                487.0,
+                144.42862617760565,
+                493.5227598309065
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "ORAL",
+            "uuid": "1db84f37-e734-4af8-a1eb-25b8f74938f1",
+            "vertical": false,
+            "translation": "ORAL"
+        },
+        {
+            "bbox": [
+                123.05326123010455,
+                435.31646600407623,
+                567.393263523725,
+                467.98038133436273
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.",
+            "uuid": "c73fe379-51fd-4888-828f-e4c360851302",
+            "vertical": false,
+            "translation": "El A221 forma una solución en aceite de maíz a 0,5 g/0,5 ml, con agitación a temperatura ambiente. Referencia BC30-88."
+        },
+        {
+            "bbox": [
+                117.27398999080692,
+                573.9018653490629,
+                203.02674160305125,
+                583.0864851418352
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "ACUTE CARDIOVASCULAR",
+            "uuid": "5a579e61-d8a7-4ae9-abfa-4e660704da0f",
+            "vertical": false,
+            "translation": "CARDIOVASCULAR AGUDA"
+        },
+        {
+            "bbox": [
+                254.45934194279923,
+                120.11405160791755,
+                541.9840176439957,
+                138.77918408463563
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "COMPOUND PHYSICAL PARAMETERS",
+            "uuid": "5aa1380c-2831-4347-98b0-cc00e3a6bc49",
+            "vertical": false,
+            "translation": "PARÁMETROS FÍSICOS COMPUESTOS"
+        },
+        {
+            "bbox": [
+                125.31290777308526,
+                504.74944298170675,
+                569.7515065142641,
+                534.4828336675673
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.",
+            "uuid": "8eb1ee12-9c15-48bb-a85c-67b658a70ef0",
+            "vertical": false,
+            "translation": "El A221 forma una solución en aceite de maíz a 0,5 g/0,5 ml, con agitación a temperatura ambiente. Referencia BC30-88."
+        },
+        {
+            "bbox": [
+                117.79567876703025,
+                635.2772020181774,
+                220.27414619533494,
+                645.1012205043104
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "STORAGE RECOMMENDATIONS",
+            "uuid": "610fe796-df7c-4b75-8372-d7c5d6adf4dc",
+            "vertical": false,
+            "translation": "RECOMENDACIONES DE ALMACENAMIENTO"
+        },
+        {
+            "bbox": [
+                126.85150898369658,
+                600.9026779166941,
+                516.1165986200778,
+                614.0416844050334
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "A221 is insoluble for this procedure. Reference BC30-88.",
+            "uuid": "0aebc9d3-d5af-40bf-8a79-50bdd0ef544f",
+            "vertical": false,
+            "translation": "A221 es insoluble para este procedimiento. Referencia BC30-88."
+        },
+        {
+            "bbox": [
+                117.8243676834001,
+                742.3957101587206,
+                203.1869197805573,
+                748.8717877564266
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "COMPOUND SENSITIVE TO",
+            "uuid": "0f431004-21ad-41fd-88d0-b05841b6e703",
+            "vertical": false,
+            "translation": "COMPUESTO SENSIBLE A"
+        },
+        {
+            "bbox": [
+                126.76065831510243,
+                679.7205836476896,
+                517.0477634297971,
+                695.4378873225636
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Refrigerate in an amber glass bottle at no more than 8°C.",
+            "uuid": "b802174c-419f-4445-91ca-df0f551f1bc3",
+            "vertical": false,
+            "translation": "Refrigerar en una botella de vidrio ámbar a no más de 8 °C."
+        },
+        {
+            "bbox": [
+                145.92788395482333,
+                764.7398544119269,
+                158.10106479966444,
+                772.0158599799516
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "AIR",
+            "uuid": "fb78e206-5ae4-4092-b0df-b012714c95cc",
+            "vertical": false,
+            "translation": "AIRE"
+        },
+        {
+            "bbox": [
+                507.02935671975206,
+                148.41975706019494,
+                555.6080195478701,
+                157.0447980405725
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "LOT NUMBER",
+            "uuid": "02686f7e-cafe-4f10-b3a2-e418a34845aa",
+            "vertical": false,
+            "translation": "NUMERO DE LOTE"
+        },
+        {
+            "bbox": [
+                119.0,
+                886.0,
+                155.0,
+                893.0
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "SIGNATURE",
+            "uuid": "762c914f-e182-4531-9b09-b39eebc9b764",
+            "vertical": false,
+            "translation": "FIRMA"
+        },
+        {
+            "bbox": [
+                226.27022973268447,
+                764.1189165217818,
+                260.434921566169,
+                771.3834765169248
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "MOISTURE",
+            "uuid": "e74e12ba-a4e0-4700-8a78-57d97438352d",
+            "vertical": false,
+            "translation": "HUMEDAD"
+        },
+        {
+            "bbox": [
+                117.10836385267285,
+                790.2333559736345,
+                314.0123953598651,
+                801.3216657175319
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)",
+            "uuid": "527dceaa-6dd0-40f4-9657-8ad4f6b5011b",
+            "vertical": false,
+            "translation": "COMENTARIOS DE SEGURIDAD (PROCEDIMIENTO DE MANIPULACIÓN SUGERIDO)"
+        },
+        {
+            "bbox": [
+                114.40963422028166,
+                910.3664836649097,
+                222.7241236056109,
+                921.250039966707
+            ],
+            "order": "33",
+            "label": "Page-footer",
+            "text": "LORILLARD RESEARCH CENTER",
+            "uuid": "025bcd3b-4a9d-4c48-b32d-bef1e694d3af",
+            "vertical": false,
+            "translation": "CENTRO DE INVESTIGACIÓN LORILLARD"
+        },
+        {
+            "bbox": [
+                285.7594413767193,
+                763.6180490067625,
+                309.8901099020038,
+                770.8135705137944
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "OTHER,",
+            "uuid": "65a86ee5-7ca7-433a-8a03-93ba725aefc8",
+            "vertical": false,
+            "translation": "OTROS,"
+        },
+        {
+            "bbox": [
+                149.67323713103923,
+                880.2593910408733,
+                351.1083404612201,
+                909.2018804973969
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "Elizabeth W. Crouse",
+            "uuid": "d1438646-9f9e-42f0-9119-1548a692f87c",
+            "vertical": false,
+            "translation": "Elizabeth W. Crouse"
+        },
+        {
+            "bbox": [
+                511.00000000000006,
+                882.0,
+                527.0,
+                888.0
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "DATE",
+            "uuid": "aa729575-7341-41b4-bca9-db8eccd26cfa",
+            "vertical": false,
+            "translation": "FECHA"
+        },
+        {
+            "bbox": [
+                645.581936817181,
+                644.2401333137577,
+                665.7739000886132,
+                735.2609259967772
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "87428306",
+            "uuid": "c51f0bce-5db1-4007-8c2b-b523f1ed473a",
+            "vertical": true,
+            "translation": "87428306"
+        },
+        {
+            "bbox": [
+                510.0,
+                886.0,
+                673.0,
+                904.0
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "November 28, 1990",
+            "uuid": "750b92a9-d8b4-4069-ba3e-6b5f90c7067a",
+            "vertical": false,
+            "translation": "28 de noviembre de 1990"
+        },
+        {
+            "bbox": [
+                652.2277912576994,
+                905.910880807271,
+                699.2052655083563,
+                912.0725745280256
+            ],
+            "order": "34",
+            "label": "Page-footer",
+            "text": "FORM 9 (1/3)",
+            "uuid": "1a54e8c9-b604-481b-8c41-816003b45668",
+            "vertical": false,
+            "translation": "FORMULARIO 9 (1/3)"
+        },
+        {
+            "bbox": [
+                130.2568924344873,
+                162.7435676547111,
+                157.45541968998396,
+                172.54678047484617
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "A221",
+            "uuid": "431a8f77-3912-4593-9b02-5be6a4019795",
+            "vertical": false,
+            "translation": "A221"
+        },
+        {
+            "bbox": [
+                182.44742648934658,
+                765.079162091257,
+                200.33148229843408,
+                771.8399307654366
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "HEAT",
+            "uuid": "5e78b547-06a2-41f1-af8a-8b129d556e19",
+            "vertical": false,
+            "translation": "CALOR"
+        },
+        {
+            "bbox": [
+                373.0609751328441,
+                891.5793283509701,
+                422.7794206850232,
+                900.8986289764248
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "A - 13",
+            "uuid": "1c63e5a6-a675-43d6-838f-ce99df0fe212",
+            "vertical": false,
+            "translation": "A - 13"
+        }
+    ],
+    "page_width": 770,
+    "page_height": 1000
+}

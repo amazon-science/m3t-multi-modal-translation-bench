@@ -1,0 +1,805 @@
+{
+    "file": "jrc21998A0421_01.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                2232.485788651539,
+                79.85201955072979,
+                2253.4755549843044,
+                179.85170191177136
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 118/24",
+            "uuid": "3a4ea532-df3e-4062-83c5-0ae7ec2430a7",
+            "vertical": true,
+            "translation": "L 118/24"
+        },
+        {
+            "bbox": [
+                2234.97619219145,
+                311.24860635291174,
+                2253.197204056425,
+                345.4783591075089
+            ],
+            "order": "21",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "110ad427-12e4-42da-bd47-7bb624c873ba",
+            "vertical": true,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                2223.3190553823506,
+                563.019157415261,
+                2254.848706996944,
+                1088.401948329594
+            ],
+            "order": "29",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "efcac94b-65e2-455e-952d-f3848ba6c55e",
+            "vertical": true,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                2232.915970592715,
+                1483.792024941766,
+                2253.7039122492033,
+                1568.6402402784074
+            ],
+            "order": "57",
+            "label": "Page-header",
+            "text": "21.4.98",
+            "uuid": "6bc6bd1f-5248-4318-a8cf-595cf778aa8a",
+            "vertical": true,
+            "translation": "98 年 4 月 21 日"
+        },
+        {
+            "bbox": [
+                194.35670050271665,
+                148.98776373396743,
+                326.5455721647863,
+                170.62599075200853
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Commodity",
+            "uuid": "2704a858-3c46-4c5b-8468-01353c85754c",
+            "vertical": false,
+            "translation": "商品"
+        },
+        {
+            "bbox": [
+                195.599077116082,
+                179.82845511600337,
+                284.0562919876925,
+                201.21796688096373
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Species",
+            "uuid": "f1d9743a-b560-4ed1-9ef2-9a9623a8b36e",
+            "vertical": false,
+            "translation": "种类"
+        },
+        {
+            "bbox": [
+                196.09602776142808,
+                208.1819939672296,
+                403.32444687076287,
+                229.32279047910922
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Animal/public health",
+            "uuid": "2c80b6bc-d508-4b2e-8eee-e863f7d4e143",
+            "vertical": false,
+            "translation": "动物/公众健康"
+        },
+        {
+            "bbox": [
+                635.4358642420002,
+                109.57316076300516,
+                1144.2680717024025,
+                133.1951335865748
+            ],
+            "order": "2",
+            "label": "Table cell",
+            "text": "European Community exports to the United States",
+            "uuid": "2c740597-e319-4c57-a7d0-1c7516c04610",
+            "vertical": false,
+            "translation": "欧洲共同体对美国的出口"
+        },
+        {
+            "bbox": [
+                510.0141222323104,
+                177.56560913165708,
+                656.6145626094177,
+                194.47824634116077
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Trade conditions",
+            "uuid": "ebbea790-91d0-4bd7-9ecc-04c7c9766cf0",
+            "vertical": false,
+            "translation": "贸易条件"
+        },
+        {
+            "bbox": [
+                481.5561380475813,
+                238.17576513236946,
+                563.4295987543283,
+                277.25748139479464
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "EC standards",
+            "uuid": "f7ddb25a-36a6-43e0-991b-9411055bff71",
+            "vertical": false,
+            "translation": "欧盟委员会标准"
+        },
+        {
+            "bbox": [
+                605.3240152981267,
+                238.3868718515209,
+                687.5219415030509,
+                277.685107317616
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "US standards",
+            "uuid": "f6bcd7ae-01ea-469d-8f81-e70c812c1986",
+            "vertical": false,
+            "translation": "美国标准"
+        },
+        {
+            "bbox": [
+                716.1247538782837,
+                204.15855036746035,
+                770.0585716946619,
+                246.65808621159806
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Equiv. (Cat.)",
+            "uuid": "7fae0c51-1e9b-4cdb-85dd-d4c574a79be2",
+            "vertical": false,
+            "translation": "等效性（类别）"
+        },
+        {
+            "bbox": [
+                836.2749674513973,
+                207.43278391612898,
+                991.0649241650841,
+                228.86709152022738
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Special conditions",
+            "uuid": "7ccc7a17-0a84-4314-bc4c-c703e7d854d2",
+            "vertical": false,
+            "translation": "特殊条件"
+        },
+        {
+            "bbox": [
+                1151.8828000417616,
+                207.7087342494319,
+                1216.8902967993502,
+                224.71573629241118
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Actions",
+            "uuid": "564c5327-c9d5-4afc-9680-baae36f2adc1",
+            "vertical": false,
+            "translation": "行动"
+        },
+        {
+            "bbox": [
+                193.97373804726965,
+                324.83078137613006,
+                625.5141291854708,
+                351.73800840909445
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "6. Fresh meat — public health (Cont'd)",
+            "uuid": "9c4bf89a-9e9a-41ce-a15c-0f99952d7bea",
+            "vertical": false,
+            "translation": "6. 新鲜肉类 — 公众健康（续）"
+        },
+        {
+            "bbox": [
+                193.21801930392965,
+                385.1585142664856,
+                325.914004959395,
+                409.2507171097793
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Ruminants (⁸)",
+            "uuid": "21798a45-6939-4e27-a1b6-4e903f0086d5",
+            "vertical": false,
+            "translation": "反刍动物 (⁸)"
+        },
+        {
+            "bbox": [
+                193.31619326119426,
+                412.95065548035893,
+                274.59463441784715,
+                436.7930446601122
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Equidae",
+            "uuid": "e4b78b68-6e45-4da2-8685-3466f69474da",
+            "vertical": false,
+            "translation": "马科"
+        },
+        {
+            "bbox": [
+                193.94301928553864,
+                440.1393448958669,
+                266.2369540932556,
+                458.54399619251893
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Porcine",
+            "uuid": "03ec5a08-700d-41b8-9d96-103110aa45fe",
+            "vertical": false,
+            "translation": "猪"
+        },
+        {
+            "bbox": [
+                193.94301928553864,
+                466.9097467819059,
+                252.8646655739091,
+                485.10525431382297
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Ovine",
+            "uuid": "57e5079d-def5-4898-80ea-6cd85a878e86",
+            "vertical": false,
+            "translation": "羊"
+        },
+        {
+            "bbox": [
+                194.36083063441814,
+                493.8721235597981,
+                271.66937363689,
+                516.6687939158779
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Caprine",
+            "uuid": "e10a3244-fbd9-4969-8c8b-90e479c971e1",
+            "vertical": false,
+            "translation": "山羊"
+        },
+        {
+            "bbox": [
+                194.70294478290555,
+                519.0962583241221,
+                269.69351685017034,
+                542.1394904708176
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(cont'd)",
+            "uuid": "027a100e-0eed-4fb0-a200-851f3a176a04",
+            "vertical": false,
+            "translation": "（续）"
+        },
+        {
+            "bbox": [
+                1495.0605696565408,
+                109.54096040683564,
+                2005.1924715322875,
+                133.30136251797757
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "United States exports to the European Community",
+            "uuid": "773d2587-0033-407e-af4e-32de5102624c",
+            "vertical": false,
+            "translation": "美国对欧洲共同体的出口"
+        },
+        {
+            "bbox": [
+                1697.214744147423,
+                207.37328341838048,
+                1851.225075789772,
+                228.83846699026384
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Special conditions",
+            "uuid": "c851ba92-0479-4be6-abd2-b0b7c6767f74",
+            "vertical": false,
+            "translation": "特殊条件"
+        },
+        {
+            "bbox": [
+                1370.3064898490231,
+                177.5234012577176,
+                1517.27731280035,
+                194.09179147788547
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Trade conditions",
+            "uuid": "1e681833-1934-4879-ad5b-41b348f0ac7b",
+            "vertical": false,
+            "translation": "贸易条件"
+        },
+        {
+            "bbox": [
+                1576.6755557838358,
+                204.6414550476126,
+                1630.4380961703523,
+                246.6839972866198
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Equiv. (Cat.)",
+            "uuid": "6efeb3d4-92d8-4cdf-9b93-cc43947ca4d5",
+            "vertical": false,
+            "translation": "等效性（类别）"
+        },
+        {
+            "bbox": [
+                1465.5244283073205,
+                238.49919820087575,
+                1547.4883012626572,
+                277.77894480703367
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "EC standards",
+            "uuid": "c37c3913-035e-40f0-9f5d-beda328d25e9",
+            "vertical": false,
+            "translation": "欧盟委员会标准"
+        },
+        {
+            "bbox": [
+                1341.4022708389116,
+                238.45899881919087,
+                1422.3560384105017,
+                277.34984567091783
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "US standards",
+            "uuid": "93ec5e2e-7903-44bd-b51c-3ad2b1dc15f0",
+            "vertical": false,
+            "translation": "美国标准"
+        },
+        {
+            "bbox": [
+                2012.6012438690163,
+                208.05798149947694,
+                2076.2438614155367,
+                224.36622381199265
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Actions",
+            "uuid": "3b4174bf-78c2-4f8e-9954-dc2eeeca1c09",
+            "vertical": false,
+            "translation": "行动"
+        },
+        {
+            "bbox": [
+                1919.1356006496053,
+                385.1026941076132,
+                2180.6957680731666,
+                942.7996795087472
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Regarding footnote 5(e), the results of the inspections after incision of pig hearts shall be jointly evaluated after 12 months, with a view to determining if modifications should be made to the provisions of footnote 5(e). Equivalency (Yes2) shall be granted after the EC has completed verification of the application of the specified conditions. This process shall be completed within 12 months of the entry into force of this Agreement.",
+            "uuid": "36b90004-8db6-4941-b84b-8af4343f145e",
+            "vertical": false,
+            "translation": "关于脚注 5(e)，猪心切开后的检查结果应在 12 个月后进行联合评估，以确定是否应修改脚注 5(e) 的规定。等效性 (是 2) 应在欧盟委员会完成对指定条件应用的验证后授予。此过程应在本协议生效后 12 个月内完成。"
+        },
+        {
+            "bbox": [
+                193.88202939997163,
+                1120.370467792717,
+                334.19139278153006,
+                1139.6314093324208
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Animal health",
+            "uuid": "e33682f3-6c36-4d56-a4b2-d1d733a35bec",
+            "vertical": false,
+            "translation": "动物健康"
+        },
+        {
+            "bbox": [
+                194.80969461241168,
+                1020.3528075082303,
+                378.25549037243263,
+                1047.0396542198682
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "7. Poultry meat",
+            "uuid": "a63c0865-c84e-4086-9fb3-f7415358fe58",
+            "vertical": false,
+            "translation": "7. 禽肉"
+        },
+        {
+            "bbox": [
+                472.35503926638654,
+                1121.535263288537,
+                539.6020802132595,
+                1139.133813228663
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "01a56c37-5530-4573-acc1-e4446ca30ed0",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                471.9116521832203,
+                1147.2755381655656,
+                539.4542845188707,
+                1165.0219750799786
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "94/438",
+            "uuid": "0969ea17-86f0-4706-a24b-030d691ec294",
+            "vertical": false,
+            "translation": "94/438"
+        },
+        {
+            "bbox": [
+                596.851327841722,
+                1121.6872283782711,
+                690.3622612513302,
+                1138.6642372033064
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "9 CFR 94",
+            "uuid": "098064bb-7582-4241-b642-50182ad5a588",
+            "vertical": false,
+            "translation": "9 CFR 94"
+        },
+        {
+            "bbox": [
+                720.004934615794,
+                1121.4870918970757,
+                769.4418931545545,
+                1138.854376787054
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Yes 1",
+            "uuid": "dc69b889-b4f7-4bf0-9bfa-3603a629950b",
+            "vertical": false,
+            "translation": "是 1"
+        },
+        {
+            "bbox": [
+                193.61235964923853,
+                1252.9364066280884,
+                323.37697932254497,
+                1272.309600259656
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Public health",
+            "uuid": "f6e7b072-8ec2-4b6a-af47-eb3caadd2b83",
+            "vertical": false,
+            "translation": "公众健康"
+        },
+        {
+            "bbox": [
+                472.3325979521813,
+                1307.6794971673849,
+                527.1325401588547,
+                1324.6565059924199
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "a1d54cc7-53bc-44b3-bad1-9473f11d0ea5",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                472.5276155401054,
+                1254.016538237676,
+                539.6136657859973,
+                1272.1643752575412
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "c4181671-c9bb-46c5-9d3e-e052e675ba5d",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                472.5276155401054,
+                1281.3358627837097,
+                527.3275577467788,
+                1299.2885617711029
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "44251532-93ab-4b32-9a46-4b149f221c1b",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                596.395517669878,
+                1254.5588009710846,
+                695.4346283940425,
+                1271.616060965196
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "9 CFR 381",
+            "uuid": "af7dbcd0-ae39-4d8e-ba47-3013d192148a",
+            "vertical": false,
+            "translation": "9 CFR 381"
+        },
+        {
+            "bbox": [
+                719.6842045955956,
+                1254.215711482932,
+                769.3838310680854,
+                1271.9937007725694
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Yes 3",
+            "uuid": "d5cd36b9-ba1c-4f66-b382-2eade911dd4c",
+            "vertical": false,
+            "translation": "是 3"
+        },
+        {
+            "bbox": [
+                1332.526217016032,
+                1121.3206370210867,
+                1425.683004800216,
+                1139.2187478599783
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "9 CFR 53",
+            "uuid": "9b3432a4-ff3c-4554-bbad-3262efebdcda",
+            "vertical": false,
+            "translation": "9 CFR 53"
+        },
+        {
+            "bbox": [
+                1332.2953298369625,
+                1254.1732428296139,
+                1407.9897927176203,
+                1325.3626997096756
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "9 CFR 381.1 — 381.5",
+            "uuid": "d87d2ee9-bd3c-4c80-b232-959199575d8d",
+            "vertical": false,
+            "translation": "9 CFR 381.1 — 381.5"
+        },
+        {
+            "bbox": [
+                789.6574439063676,
+                1253.3595514759509,
+                1026.2620565326272,
+                1490.1102931556065
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Establishments listed in accordance with footnote (7), and fulfilling the relevant provisions of footnote (1). Post-mortem inspection to be carried out by official inspectors.",
+            "uuid": "d1a5bdb9-0f5d-4922-97be-9b30356088a1",
+            "vertical": false,
+            "translation": "根据脚注 (7) 列出并符合脚注 (1) 相关规定的机构。宰后检查将由官方检查员进行。"
+        },
+        {
+            "bbox": [
+                1061.937084936369,
+                1252.5712057992323,
+                1305.8784797457379,
+                1516.95143173748
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Equivalency (Yes2) shall be granted after the US has completed verification of veterinary delivery systems. This process shall be completed within 12 months of the date of entry into force of the Agreement.",
+            "uuid": "8cfb7d8d-22ef-44b6-b6b1-98cc3de53642",
+            "vertical": false,
+            "translation": "等效性（是 2）应在美国完成兽医交货系统验证后授予。此过程应在本协议生效之日起 12 个月内完成。"
+        },
+        {
+            "bbox": [
+                1456.214907782282,
+                1121.3409230538166,
+                1524.149301783788,
+                1139.1074693040089
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "49512e68-f0bd-4960-b909-33c80a045ddc",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                1456.7295622822933,
+                1147.5111314501905,
+                1524.149301783788,
+                1165.5351638779223
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "93/342",
+            "uuid": "f8e826ca-75bd-42d4-9f0a-6acbf055ad8e",
+            "vertical": false,
+            "translation": "93/342"
+        },
+        {
+            "bbox": [
+                1456.6495173514347,
+                1174.3447751850008,
+                1524.219040417387,
+                1192.0969764522706
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "94/984",
+            "uuid": "644e9ac5-9f0a-4c00-bece-dd8ab1e7022d",
+            "vertical": false,
+            "translation": "94/984"
+        },
+        {
+            "bbox": [
+                1580.0742491829608,
+                1121.5283310210498,
+                1628.629233094675,
+                1139.1955935262754
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Yes 1",
+            "uuid": "24fb1303-367c-4cdf-84e9-c754511535de",
+            "vertical": false,
+            "translation": "是 1"
+        },
+        {
+            "bbox": [
+                1456.0266633918839,
+                1334.4460950258197,
+                1524.260854690554,
+                1352.1069065791855
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "96/712",
+            "uuid": "64b0119d-76b3-42bd-8ee5-d349d4d13f93",
+            "vertical": false,
+            "translation": "96/712"
+        },
+        {
+            "bbox": [
+                1456.9364526091997,
+                1254.3351972579753,
+                1523.7149811601646,
+                1272.7242897001395
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "9a13bf65-c7ae-4976-b0a4-2f6447bf7726",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                1456.8322879903078,
+                1281.319653354553,
+                1512.4301916639693,
+                1299.6084374577313
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "9402f56f-22ff-47e9-9a09-37ef5e8a669f",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                1456.7544947657364,
+                1307.1510699615135,
+                1511.8877213350618,
+                1326.0863730702765
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "c29a7e83-f44f-4b17-a07a-4381c2d00932",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                1579.8374245013974,
+                1254.3002466048126,
+                1629.4784099243097,
+                1272.600326019097
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Yes 3",
+            "uuid": "abf446e1-5581-4880-8375-6fd6328fd3b9",
+            "vertical": false,
+            "translation": "是 3"
+        },
+        {
+            "bbox": [
+                1650.3286894642736,
+                1252.7840102937994,
+                1883.6417517796044,
+                1435.9281254118528
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Establishments listed in accordance with footnote (7), and fulfilling the relevant provisions of footnotes (2), (3), (4) and (6).",
+            "uuid": "9549d904-c06b-4468-9585-c80e91663d95",
+            "vertical": false,
+            "translation": "按照脚注 (7) 列出并符合脚注 (2)、(3)、 (4)、(6) 的相关规定的机构。"
+        },
+        {
+            "bbox": [
+                1920.6469495661254,
+                1253.1366108441366,
+                2179.344083209581,
+                1569.946557004692
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "The EC shall evaluate the US residue programme, and additional information to be submitted by the US to determine whether it meets the EC level of protection. This evaluation shall be completed within six months of the entry into force of this Agreement.",
+            "uuid": "f5e3b201-8883-4495-89a5-5b311c57dde0",
+            "vertical": false,
+            "translation": "欧盟委员会应评估美国的残留物计划以及美国要提交的其他信息，以确定其是否符合欧盟委员会的保护水平。此评估应在本协议生效后六个月内完成。"
+        },
+        {
+            "bbox": [
+                184.71266606973904,
+                91.19711850945356,
+                2186.6720027373517,
+                1591.5554112609154
+            ],
+            "order": "1",
+            "label": "Table",
+            "text": "",
+            "uuid": "6dc187f1-5cca-4620-9ca4-f24b3aaf1f14",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

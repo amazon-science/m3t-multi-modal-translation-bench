@@ -1,0 +1,2639 @@
+{
+    "file": "00d3acfdcb3640b85daff96c604113471fefe92a31fb320522ed70e662b21652.png",
+    "annotations": [
+        {
+            "bbox": [
+                149.92532729038442,
+                201.92110111148168,
+                618.2616360912076,
+                225.08344657603305
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "Reconciliation of Adjusted Operating Profit",
+            "uuid": "56fd4ed7-3aba-40a3-a5d1-5c3af672e366",
+            "vertical": false,
+            "translation": "Abstimmung des bereinigten Betriebsergebnisses"
+        },
+        {
+            "bbox": [
+                149.95931918446033,
+                272.97957401158965,
+                325.2701305050658,
+                291.7345516226955
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "(In millions of dollars)",
+            "uuid": "b74f23dd-63d0-45c1-8f6f-cf52d7b55f59",
+            "vertical": false,
+            "translation": "(in Millionen Dollar)"
+        },
+        {
+            "bbox": [
+                149.892253969958,
+                310.83580254407093,
+                300.2733465397183,
+                333.0435429034284
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Operating income",
+            "uuid": "59be6f6c-8626-4801-a3d4-6dbfa73cd4e7",
+            "vertical": false,
+            "translation": "Betriebsergebnis"
+        },
+        {
+            "bbox": [
+                186.22573194170621,
+                340.9074038149152,
+                301.3577873054318,
+                362.58440977537333
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Add (deduct):",
+            "uuid": "c382651b-3724-4f67-860e-5d16309f88ce",
+            "vertical": false,
+            "translation": "Aufrechnung (Abrechnung):"
+        },
+        {
+            "bbox": [
+                187.66502132105208,
+                371.9930208435557,
+                439.84501793408674,
+                393.1132104427873
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Depreciation and amortization",
+            "uuid": "17ecf752-57e8-4747-9f66-48019f44d562",
+            "vertical": false,
+            "translation": "Abschreibungen und Amortisationen"
+        },
+        {
+            "bbox": [
+                189.0,
+                403.07479059447485,
+                359.8153226947204,
+                424.2180262171336
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Impairment of assets",
+            "uuid": "3238204a-8c3b-41f9-84a5-a1963fe4d562",
+            "vertical": false,
+            "translation": "Wertminderung von Vermögenswerten"
+        },
+        {
+            "bbox": [
+                189.39237455909125,
+                432.1538280569467,
+                484.1901771301837,
+                454.0245102246905
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Stock-based compensation expense",
+            "uuid": "5ea61436-13de-43bb-b938-89f2bcb021a5",
+            "vertical": false,
+            "translation": "Ausgaben für aktienbasierte Vergütungen"
+        },
+        {
+            "bbox": [
+                187.9528511083543,
+                464.25107614893125,
+                486.4810273901204,
+                512.7417868343447
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Restructuring, acquisition and other expenses",
+            "uuid": "9105a406-8612-4511-bac7-cf9ebd1dca44",
+            "vertical": false,
+            "translation": "Restrukturierungs-, Erwerbs- und sonstige Kosten"
+        },
+        {
+            "bbox": [
+                149.0,
+                536.9194889677319,
+                360.96682910104226,
+                557.0675740788876
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Adjusted operating profit",
+            "uuid": "91c0391f-5c57-48da-8cd0-b1f56f78f8c0",
+            "vertical": false,
+            "translation": "Bereinigtes Betriebsergebnis"
+        },
+        {
+            "bbox": [
+                150.0,
+                602.0,
+                562.0,
+                622.0
+            ],
+            "order": "25",
+            "label": "Section-header",
+            "text": "Reconciliation of Adjusted Net Income",
+            "uuid": "ac401ee2-2eab-4403-ae42-bd2c0034754d",
+            "vertical": false,
+            "translation": "Abstimmung des bereinigten Reinerlöses"
+        },
+        {
+            "bbox": [
+                149.05022415334918,
+                672.4323529747587,
+                325.6522875634547,
+                691.4901287986016
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(In millions of dollars)",
+            "uuid": "fd95f40b-f856-4ee8-8dc1-4b0d96ea988f",
+            "vertical": false,
+            "translation": "(In Millionen Dollar)"
+        },
+        {
+            "bbox": [
+                148.8133836772476,
+                709.905281210053,
+                477.0,
+                759.1719038631514
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Net income from continuing operations Add (deduct):",
+            "uuid": "3346668a-b970-48a5-abc6-09cf9c9df3e7",
+            "vertical": false,
+            "translation": "Aufrechnung (Abrechnung) Reinerlös aus laufender Geschäftstätigkeit:"
+        },
+        {
+            "bbox": [
+                187.9280241273402,
+                769.015513975851,
+                483.7542455976805,
+                790.8527347444303
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Stock-based compensation expense",
+            "uuid": "e25affaf-281e-4a0d-bb51-161e013a9e48",
+            "vertical": false,
+            "translation": "Aktienbasierte Vergütungen"
+        },
+        {
+            "bbox": [
+                188.2406808956565,
+                799.9959145619673,
+                485.5688511788572,
+                849.0135505251859
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Restructuring, acquisition and other expenses",
+            "uuid": "15556320-48cb-4329-a90b-f4730b078ffa",
+            "vertical": false,
+            "translation": "Restrukturierungs-, Erwerbs- und sonstige Kosten"
+        },
+        {
+            "bbox": [
+                188.20602509623575,
+                858.363927423758,
+                360.0750639150861,
+                879.5423511926001
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Impairment of assets",
+            "uuid": "8aaa14c8-f7f1-4b76-8163-9956b7db3a74",
+            "vertical": false,
+            "translation": "Wertminderung von Vermögenswerten"
+        },
+        {
+            "bbox": [
+                188.2406808956565,
+                888.071829476449,
+                403.2495320104202,
+                910.6471669669464
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Gain on sale of TVtropolis",
+            "uuid": "2d12a9ad-cbf5-4ee1-ab61-7cb274bd3b6d",
+            "vertical": false,
+            "translation": "Gewinn aus Verkauf von TVtropolis"
+        },
+        {
+            "bbox": [
+                189.0,
+                920.0685835703134,
+                435.37283694980005,
+                941.0546024984983
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Gain on spectrum distribution",
+            "uuid": "f50472de-8db9-4e78-bb56-c777f889f562",
+            "vertical": false,
+            "translation": "Gewinn bei der Spektrumsverteilung"
+        },
+        {
+            "bbox": [
+                150.38996981100908,
+                950.4150390625,
+                430.80666471477707,
+                971.151304008421
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Income tax impact of above items",
+            "uuid": "54baf9ce-aef5-4409-bf83-10f4909f9a3c",
+            "vertical": false,
+            "translation": "Ertragssteuerliche Auswirkung der obigen Posten"
+        },
+        {
+            "bbox": [
+                149.0,
+                981.0,
+                429.8684053723668,
+                1029.1949426347003
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Income tax adjustment, legislative tax change",
+            "uuid": "ab069d3c-95c7-46b9-b4fb-821cc28eba58",
+            "vertical": false,
+            "translation": "Ertragssteueranpassung, Änderung der Steuergesetzgebung"
+        },
+        {
+            "bbox": [
+                149.31640625000003,
+                1052.734375,
+                320.94993270745795,
+                1073.9501953125
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Adjusted net income",
+            "uuid": "7c8d5e1d-25eb-48af-abc5-3ab202151968",
+            "vertical": false,
+            "translation": "Bereinigter Reinerlös"
+        },
+        {
+            "bbox": [
+                150.00000000000003,
+                1189.9658203125,
+                326.6120322877135,
+                1208.5193143874033
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "(In millions of dollars)",
+            "uuid": "4c65827d-bdb4-4e24-b8f0-73bdd0288ddc",
+            "vertical": false,
+            "translation": "(In Millionen Dollar)"
+        },
+        {
+            "bbox": [
+                148.2627167550488,
+                1227.023302562799,
+                455.0,
+                1277.0430544323165
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Cash provided by operating activities Add (deduct):",
+            "uuid": "5ae40e62-dc4a-4c95-a68e-3e252546a58f",
+            "vertical": false,
+            "translation": "Aufrechnung (Abrechnung) Barmittel aus laufender Geschäftstätigkeit:"
+        },
+        {
+            "bbox": [
+                188.79394531250003,
+                1286.376953125,
+                443.44664352636215,
+                1335.5727170313085
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Property, plant and equipment expenditures",
+            "uuid": "d129249b-0fcd-4184-bb10-30a051eb42eb",
+            "vertical": false,
+            "translation": "Aufwendungen für Sachanlagen"
+        },
+        {
+            "bbox": [
+                188.3776659254787,
+                1345.8440867543466,
+                486.1760637425494,
+                1392.646595000637
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Interest on long-term debt expense, net of capitalization",
+            "uuid": "934c233c-0ee1-474b-8c54-0dda7033ac7c",
+            "vertical": false,
+            "translation": "Zinsen für langfristige Fremdkapitalkosten, abzüglich Kapitalisierung"
+        },
+        {
+            "bbox": [
+                188.1815332840941,
+                1402.701719535388,
+                485.95297164833147,
+                1451.204926601241
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Restructuring, acquisition and other expenses",
+            "uuid": "ae074dba-911d-47f0-b076-0d1cd63542ea",
+            "vertical": false,
+            "translation": "Restrukturierungs-, Erwerbs- und sonstige Kosten"
+        },
+        {
+            "bbox": [
+                189.12196139298803,
+                1461.0445930450883,
+                343.02821331296013,
+                1477.763523189334
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Cash income taxes",
+            "uuid": "80fcb344-38f8-44bd-bc93-cfd9126f9600",
+            "vertical": false,
+            "translation": "Barwirksame Ertragssteuern"
+        },
+        {
+            "bbox": [
+                188.26456355814787,
+                1492.6882893750337,
+                290.51369444329623,
+                1512.7663619649336
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Interest paid",
+            "uuid": "fe827a8a-8403-47b9-beae-de68142d320a",
+            "vertical": false,
+            "translation": "Gezahlte Zinsen"
+        },
+        {
+            "bbox": [
+                188.93006913589537,
+                1521.6979780011152,
+                488.6714636124432,
+                1542.8210475842995
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Change in non-cash working capital",
+            "uuid": "c9bd0327-f643-48e9-8011-d9a6c7767def",
+            "vertical": false,
+            "translation": "Veränderung des umlaufenden Bankvermögens"
+        },
+        {
+            "bbox": [
+                190.19359865266784,
+                1553.5350044840854,
+                342.86951592760744,
+                1573.409514408528
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "Other adjustments",
+            "uuid": "a10bb2ea-a7eb-4d74-b859-1f8b7238b2a6",
+            "vertical": false,
+            "translation": "Sonstige Anpassungen"
+        },
+        {
+            "bbox": [
+                613.8662108020487,
+                245.10946699760055,
+                830.8057789265723,
+                263.96040635076497
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Years ended December 31",
+            "uuid": "7eb3e7b7-30ff-40b3-a2ab-719054409a5a",
+            "vertical": false,
+            "translation": "Geschäftsjahre mit Abschluss 31. Dezember"
+        },
+        {
+            "bbox": [
+                596.9429148599238,
+                312.00000000000006,
+                667.5698499376641,
+                330.2476377611168
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "$ 2,926",
+            "uuid": "55c38922-a0fb-476c-b8ab-af08da5fb05c",
+            "vertical": false,
+            "translation": "2.926 $"
+        },
+        {
+            "bbox": [
+                764.2637567824808,
+                312.0819760433986,
+                832.0159004252877,
+                330.4065407762496
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "$ 2,766",
+            "uuid": "05e5d96d-f063-4d2b-a335-086fc14a3c51",
+            "vertical": false,
+            "translation": "2.766 $"
+        },
+        {
+            "bbox": [
+                149.84520548850003,
+                1596.3756331074903,
+                330.277456243196,
+                1614.7791621626075
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Pre-tax free cash flow",
+            "uuid": "a8087733-6c14-44ea-9a10-a3d76f4fb40f",
+            "vertical": false,
+            "translation": "Freier Cashflow vor Steuern"
+        },
+        {
+            "bbox": [
+                189.43120990283404,
+                1628.9500960733349,
+                344.5700594547011,
+                1645.237170998843
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Cash income taxes",
+            "uuid": "14fa6b59-6462-496b-a347-bfb10d476177",
+            "vertical": false,
+            "translation": "Barwirksame Ertragssteuern"
+        },
+        {
+            "bbox": [
+                149.08937816426754,
+                1672.5493427970032,
+                346.3243374183606,
+                1688.8364177225112
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "After-tax free cash flow",
+            "uuid": "13042333-3274-49cc-834f-af8b887ea053",
+            "vertical": false,
+            "translation": "Freier Cashflow nach Steuern"
+        },
+        {
+            "bbox": [
+                617.2955543028125,
+                373.9611891840313,
+                665.0,
+                390.6860522306367
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "1,898",
+            "uuid": "e4a9fa40-8d5a-4b15-959b-0f85de740240",
+            "vertical": false,
+            "translation": "1.898"
+        },
+        {
+            "bbox": [
+                643.550459184139,
+                435.00000000000006,
+                667.0,
+                450.3561157986776
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "84",
+            "uuid": "e40404f1-cc4b-4a6c-9e60-c5af80045e49",
+            "vertical": false,
+            "translation": "84"
+        },
+        {
+            "bbox": [
+                644.3645647618544,
+                493.00000000000006,
+                666.0,
+                510.52739984581405
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "85",
+            "uuid": "1ff0037d-7fb1-4b10-8c99-2063fbd8c282",
+            "vertical": false,
+            "translation": "85"
+        },
+        {
+            "bbox": [
+                597.9605468320683,
+                536.0,
+                667.0124173376762,
+                553.8785218591668
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "$ 4,993",
+            "uuid": "3810794a-65a4-42b9-a7ec-ca5fcab6aa73",
+            "vertical": false,
+            "translation": "4.993 $"
+        },
+        {
+            "bbox": [
+                643.994140625,
+                771.9999999999999,
+                667.6659587095927,
+                787.1337890625
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "84",
+            "uuid": "a250d26c-844d-4a5e-a0df-86429d5f542b",
+            "vertical": false,
+            "translation": "84"
+        },
+        {
+            "bbox": [
+                643.994140625,
+                829.0,
+                666.3229668757624,
+                845.6787109375
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "85",
+            "uuid": "fbb2f1b7-6fa7-4160-9e45-d0fabcc66497",
+            "vertical": false,
+            "translation": "85"
+        },
+        {
+            "bbox": [
+                613.0,
+                646.0000000000003,
+                830.1438012013664,
+                662.456295643177
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Years ended December 31",
+            "uuid": "30cb485f-63be-449c-b4ca-afac5d3b7d7b",
+            "vertical": false,
+            "translation": "Geschäftsjahre mit Abschluss 31. Dezember"
+        },
+        {
+            "bbox": [
+                598.0,
+                711.9384765625,
+                666.5915652425285,
+                729.39453125
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "80ae0255-956e-49a8-8bd6-9b009a845e99",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                765.1123046875,
+                711.8452622894956,
+                832.8539542707205,
+                730.2001953125
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "$ 1,725",
+            "uuid": "26585732-c3a2-4070-9bb0-92e224ccf516",
+            "vertical": false,
+            "translation": "1.725 $"
+        },
+        {
+            "bbox": [
+                638.0,
+                889.990234375,
+                672.7693276781479,
+                908.8174248499712
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "(47)",
+            "uuid": "4b4ec0a6-6ef6-40ac-8461-2fd315ada91e",
+            "vertical": false,
+            "translation": "(47)"
+        },
+        {
+            "bbox": [
+                637.0000000000001,
+                950.9521484375,
+                672.7693276781479,
+                969.8169895174035
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(30)",
+            "uuid": "0bba21ff-3453-4e1e-8173-fb29ac8c1d2f",
+            "vertical": false,
+            "translation": "(30)"
+        },
+        {
+            "bbox": [
+                653.9714439122342,
+                1010.0,
+                668.3545805523704,
+                1024.994322275283
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "60916dbd-0553-4e01-bef4-fca8a7e148ee",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                150.0,
+                1119.0,
+                733.0,
+                1136.0
+            ],
+            "order": "55",
+            "label": "Section-header",
+            "text": "Reconciliation of Pre-tax and After-tax Free Cash Flow",
+            "uuid": "d6fe3428-42a5-4ae8-90bd-c71027a2ec75",
+            "vertical": false,
+            "translation": "Abstimmung des freien Cashflows vor und nach Steuern"
+        },
+        {
+            "bbox": [
+                596.9194783365801,
+                1053.9999999999998,
+                666.4543240969398,
+                1071.4441569243656
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "$ 1,769",
+            "uuid": "6fa813f5-535d-4049-aeac-3b001050be9a",
+            "vertical": false,
+            "translation": "1.769 $"
+        },
+        {
+            "bbox": [
+                611.0,
+                1315.0,
+                672.0,
+                1333.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "(2,240)",
+            "uuid": "bc6eea4b-a72b-4a5b-8377-bb40009e646a",
+            "vertical": false,
+            "translation": "(2.240)"
+        },
+        {
+            "bbox": [
+                627.5859802442844,
+                1372.5637641321139,
+                672.8120844276268,
+                1390.8685377022493
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(709)",
+            "uuid": "00da93bd-c159-4a78-814b-622e7292340f",
+            "vertical": false,
+            "translation": "(709)"
+        },
+        {
+            "bbox": [
+                645.0,
+                1433.0,
+                667.1890830424912,
+                1447.629186045931
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "85",
+            "uuid": "9ed536c4-42be-4b27-9852-ab16ca456530",
+            "vertical": false,
+            "translation": "85"
+        },
+        {
+            "bbox": [
+                632.9833984375,
+                1463.0,
+                666.6518863089591,
+                1478.3935546875
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "496",
+            "uuid": "6218a56f-469e-4247-8142-db5d74442cb3",
+            "vertical": false,
+            "translation": "496"
+        },
+        {
+            "bbox": [
+                634.1255504103613,
+                1492.2528390843906,
+                666.6357806578541,
+                1510.1447115746907
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "700",
+            "uuid": "91ad49d4-2434-469f-bae7-727c174d4ad7",
+            "vertical": false,
+            "translation": "700"
+        },
+        {
+            "bbox": [
+                627.7598986408143,
+                1522.3362788666109,
+                673.3142994571415,
+                1543.3434600683345
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "(238)",
+            "uuid": "096f73bd-abac-4520-b905-c14878c88564",
+            "vertical": false,
+            "translation": "(238)"
+        },
+        {
+            "bbox": [
+                638.0859375,
+                1554.0000000000002,
+                672.0,
+                1572.9248046875
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "(40)",
+            "uuid": "e6d9b51f-18f1-4d56-ad50-73ba3a992782",
+            "vertical": false,
+            "translation": "(40)"
+        },
+        {
+            "bbox": [
+                785.6118824955016,
+                373.9611891840313,
+                832.8300060030032,
+                391.28129605540494
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "1,819",
+            "uuid": "a6f9317b-1e07-4b0f-9b20-4399d2b78aa3",
+            "vertical": false,
+            "translation": "1.819"
+        },
+        {
+            "bbox": [
+                811.0,
+                403.9999999999999,
+                833.2903541285424,
+                419.6046495912572
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "80",
+            "uuid": "ec8a9030-b66f-4d56-8a07-4f6762ee0c44",
+            "vertical": false,
+            "translation": "80"
+        },
+        {
+            "bbox": [
+                810.0,
+                435.00000000000006,
+                832.4761161400527,
+                450.3561157986776
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "77",
+            "uuid": "118ea54e-fa6c-4a48-9362-b9ef9d95e05f",
+            "vertical": false,
+            "translation": "77"
+        },
+        {
+            "bbox": [
+                616.7548220999611,
+                1598.974609375,
+                667.6269531250001,
+                1615.6603028928341
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "2,044",
+            "uuid": "13387d65-819f-4f1b-9ac3-cf17a11d839c",
+            "vertical": false,
+            "translation": "2.044"
+        },
+        {
+            "bbox": [
+                811.6632609823992,
+                494.0417618970741,
+                832.6796756371751,
+                509.1027150848119
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "92",
+            "uuid": "dbe72bc9-a003-4d4e-8db5-d17c9f1665c1",
+            "vertical": false,
+            "translation": "92"
+        },
+        {
+            "bbox": [
+                628.2733963674372,
+                1628.4225844061814,
+                673.0885026016934,
+                1647.962343465953
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "(496)",
+            "uuid": "6128a762-7a7a-42d6-808c-3ca30c52a221",
+            "vertical": false,
+            "translation": "(496)"
+        },
+        {
+            "bbox": [
+                600.9946187348412,
+                1673.0,
+                666.1968651070173,
+                1690.6536287953136
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "$ 1,548",
+            "uuid": "cb22bbb2-346a-4852-81aa-8f130bf1b3cb",
+            "vertical": false,
+            "translation": "1.548 $"
+        },
+        {
+            "bbox": [
+                764.6486638693262,
+                536.7823047271404,
+                833.9010326199098,
+                554.6926274368823
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "$4,834",
+            "uuid": "46d78d08-e311-49cf-988e-93367fbdf2c0",
+            "vertical": false,
+            "translation": "4.834 $"
+        },
+        {
+            "bbox": [
+                811.0,
+                771.9999999999999,
+                832.3167575371883,
+                786.5966796875
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "77",
+            "uuid": "c8ad5b8f-a695-4723-bf70-d0b0a63a6acf",
+            "vertical": false,
+            "translation": "77"
+        },
+        {
+            "bbox": [
+                613.0,
+                1162.0,
+                831.6836597239455,
+                1179.5380160812022
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Years ended December 31 2013",
+            "uuid": "beeaf9cd-7de0-40f2-8d13-ee8437025dc3",
+            "vertical": false,
+            "translation": "Geschäftsjahre mit Abschluss 31. Dezember 2013"
+        },
+        {
+            "bbox": [
+                789.0000000000001,
+                1191.0,
+                832.0554536078545,
+                1206.4327432999132
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "2012",
+            "uuid": "d58e2d7a-4f7e-4a55-91e5-9b168104f5e9",
+            "vertical": false,
+            "translation": "2012"
+        },
+        {
+            "bbox": [
+                601.0000000000001,
+                1228.90625,
+                666.6518863089591,
+                1247.16796875
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "$ 3,990",
+            "uuid": "0df1861b-f24c-4ce1-a713-70f0ff593193",
+            "vertical": false,
+            "translation": "3.990 $"
+        },
+        {
+            "bbox": [
+                768.8720703125001,
+                1228.90625,
+                829.63806830696,
+                1246.7408256792742
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "$ 3,421",
+            "uuid": "58eacba6-da2c-4972-8d8b-e1a769fedf72",
+            "vertical": false,
+            "translation": "3.421 $"
+        },
+        {
+            "bbox": [
+                811.0,
+                829.9999999999999,
+                832.3167575371883,
+                845.1416015625
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "92",
+            "uuid": "791af743-5ca6-4018-ad5d-b80cf383bbc9",
+            "vertical": false,
+            "translation": "92"
+        },
+        {
+            "bbox": [
+                811.0,
+                859.912109375,
+                832.5853559039543,
+                874.4211945529167
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "80",
+            "uuid": "417a53c0-3a85-45bd-8568-4e7c998b9dcc",
+            "vertical": false,
+            "translation": "80"
+        },
+        {
+            "bbox": [
+                794.0000000000001,
+                920.0000000000001,
+                837.9692020734288,
+                939.4515674582852
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "(233)",
+            "uuid": "1a83035e-b460-4c3f-8cc3-dfcfaf8b7ae8",
+            "vertical": false,
+            "translation": "(233)"
+        },
+        {
+            "bbox": [
+                805.9326171875001,
+                950.9521484375,
+                838.2259216060417,
+                969.8169895174035
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(14)",
+            "uuid": "995ac804-cc27-4efe-a959-91ea526896ce",
+            "vertical": false,
+            "translation": "(14)"
+        },
+        {
+            "bbox": [
+                811.0,
+                1010.0,
+                833.3911510042526,
+                1026.7857459468999
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "54",
+            "uuid": "e7532b00-9bf6-4961-8ce7-835961e49d30",
+            "vertical": false,
+            "translation": "54"
+        },
+        {
+            "bbox": [
+                765.9729609459712,
+                1054.0898354160315,
+                830.2986755204105,
+                1073.176135308321
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "$ 1,781",
+            "uuid": "6f99c36c-71b8-4787-9618-54deb67da3e6",
+            "vertical": false,
+            "translation": "1.781 $"
+        },
+        {
+            "bbox": [
+                779.345703125,
+                1313.7804002150958,
+                838.8234394060044,
+                1333.960393736134
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "(2,142)",
+            "uuid": "c83f6345-7bfe-420f-ae01-b66c21f1faa4",
+            "vertical": false,
+            "translation": "(2,142)"
+        },
+        {
+            "bbox": [
+                794.0,
+                1373.0,
+                838.0,
+                1390.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "(663)",
+            "uuid": "2f7b1b0b-365b-4cb6-9e1b-31cece370263",
+            "vertical": false,
+            "translation": "(663)"
+        },
+        {
+            "bbox": [
+                811.0,
+                1433.0,
+                833.0908851695921,
+                1447.7783203125
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "92",
+            "uuid": "0012e32f-db31-460d-b579-80f27bc4dd2a",
+            "vertical": false,
+            "translation": "92"
+        },
+        {
+            "bbox": [
+                801.0,
+                1463.0,
+                834.4338770034224,
+                1478.3935546875
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "380",
+            "uuid": "c964e028-ce82-450d-b1a8-c483e1b43ed5",
+            "vertical": false,
+            "translation": "380"
+        },
+        {
+            "bbox": [
+                800.2112174925352,
+                1492.4269467043946,
+                832.788782507465,
+                1508.5730532956054
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "680",
+            "uuid": "23ab16da-7cc4-45c1-896e-8d2258d2ac8d",
+            "vertical": false,
+            "translation": "680"
+        },
+        {
+            "bbox": [
+                800.5615234375,
+                1524.0,
+                833.056640625,
+                1539.6240234375
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "248",
+            "uuid": "866e012e-a6cd-423a-82c1-2dee91ce2b39",
+            "vertical": false,
+            "translation": "248"
+        },
+        {
+            "bbox": [
+                813.1835937500001,
+                1554.0000000000002,
+                832.0,
+                1570.5078125
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "87dc235d-2a54-481b-a822-5bede6e0f3b5",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                783.1054687500001,
+                1598.6510212305275,
+                832.9490819425101,
+                1616.0564643890132
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "2,029",
+            "uuid": "b06d74c2-301b-4d14-9349-f8f8f2409d56",
+            "vertical": false,
+            "translation": "2.029"
+        },
+        {
+            "bbox": [
+                793.9436575916341,
+                1628.4172641395644,
+                838.4425558239217,
+                1647.4366961939277
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "(380)",
+            "uuid": "e325bcb3-17bf-459b-9c74-725eda4b2534",
+            "vertical": false,
+            "translation": "(380)"
+        },
+        {
+            "bbox": [
+                768.961275150121,
+                1673.0,
+                832.2407653192071,
+                1690.6536287953136
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "$ 1,649",
+            "uuid": "e6d730ef-21bc-4b6f-95da-b3ba44fed53f",
+            "vertical": false,
+            "translation": "1.649 $"
+        },
+        {
+            "bbox": [
+                866.0,
+                202.0,
+                1255.0,
+                222.0
+            ],
+            "order": "94",
+            "label": "Section-header",
+            "text": "Reconciliation of Adjusted Net Debt",
+            "uuid": "841fc7af-40e3-43aa-b759-6d4568ed3c20",
+            "vertical": false,
+            "translation": "Abstimmung der bereinigten Nettoverbindlichkeiten"
+        },
+        {
+            "bbox": [
+                865.9954402326256,
+                245.94308708826176,
+                1042.0551394758984,
+                264.48435232620886
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "(In millions of dollars)",
+            "uuid": "3971b5d3-dced-449c-a3fc-fe985a0c0e8f",
+            "vertical": false,
+            "translation": "(In Millionen Dollar)"
+        },
+        {
+            "bbox": [
+                866.3025341573208,
+                281.75145588821715,
+                997.3565499856146,
+                304.2302859833533
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Long-term debt",
+            "uuid": "4170395f-39a6-4911-8ae2-c32206f115a0",
+            "vertical": false,
+            "translation": "Langfristige Verbindlichkeiten"
+        },
+        {
+            "bbox": [
+                865.9015103794484,
+                314.58074871298675,
+                1146.3896518613053,
+                335.3174493358087
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "Current portion of long-term debt",
+            "uuid": "24de32bf-b95e-43f8-886f-bca17aab7516",
+            "vertical": false,
+            "translation": "Kurzfristiger Anteil langfristiger Verbindlichkeiten"
+        },
+        {
+            "bbox": [
+                865.8838907130454,
+                399.7548633428815,
+                979.8110590779138,
+                418.5609488673552
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "Add (deduct):",
+            "uuid": "cd566a52-b3f9-4e79-8e78-d29e242bea29",
+            "vertical": false,
+            "translation": "Aufrechnung (Abrechnung):"
+        },
+        {
+            "bbox": [
+                905.8488719248551,
+                430.7919801365283,
+                1150.712609509165,
+                477.732081412584
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "Net Debt Derivatives liabilities (assets)",
+            "uuid": "ecab5c74-2f83-4801-ad85-3af4bb8b725c",
+            "vertical": false,
+            "translation": "Nettoverbindlichkeiten aus Derivaten (Vermögenswerte)"
+        },
+        {
+            "bbox": [
+                904.3335712794433,
+                488.8500264136768,
+                1121.407583801218,
+                507.658622053073
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "Deferred transaction costs",
+            "uuid": "6c00d74e-9eca-415b-a43b-e2291c7c8998",
+            "vertical": false,
+            "translation": "Abgegrenzte Transaktionskosten"
+        },
+        {
+            "bbox": [
+                905.1972010841847,
+                519.0758159053474,
+                1093.846104138637,
+                541.0674982551487
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "Short-term borrowings",
+            "uuid": "49140633-15d6-4308-9aff-3d00392f6473",
+            "vertical": false,
+            "translation": "Kurzfristige Anleihen"
+        },
+        {
+            "bbox": [
+                906.0608308889263,
+                550.4474889709364,
+                1123.6955416837498,
+                571.884306476029
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "Cash and cash equivalents",
+            "uuid": "a1f8178a-85a7-45dd-9646-e89fe262d222",
+            "vertical": false,
+            "translation": "Liquide Mittel und Äquivalente"
+        },
+        {
+            "bbox": [
+                864.9365468451114,
+                586.8259740301511,
+                1017.8504333011738,
+                606.6373031278265
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "Adjusted net debt",
+            "uuid": "e7112f21-2e60-486a-9a3b-5a552d848018",
+            "vertical": false,
+            "translation": "Bereinigte Nettoverbindlichkeiten"
+        },
+        {
+            "bbox": [
+                864.2251942522779,
+                900.4485103304447,
+                1143.843812912521,
+                921.0292198171551
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "Adjusted basic earnings per share",
+            "uuid": "3403e228-9134-44cc-b8f1-585e626ce651",
+            "vertical": false,
+            "translation": "Angepasstes bereinigtes Ergebnis je Aktie"
+        },
+        {
+            "bbox": [
+                903.513338310619,
+                964.9214836275787,
+                1077.37789922189,
+                985.7702081543359
+            ],
+            "order": "138",
+            "label": "Table cell",
+            "text": "Adjusted net income",
+            "uuid": "6d701167-31a7-409e-840c-af18708f1ea2",
+            "vertical": false,
+            "translation": "Bereinigter Reinerlös"
+        },
+        {
+            "bbox": [
+                905.9030243663551,
+                994.4884233041473,
+                1142.9948315247373,
+                1067.6212195420562
+            ],
+            "order": "141",
+            "label": "Table cell",
+            "text": "Divided by: diluted weighted average number of shares outstanding",
+            "uuid": "4c9c00dd-c64c-4fe0-9f44-777ed3903113",
+            "vertical": false,
+            "translation": "Geteilt durch: verwässerte, gewichtete durchschnittliche Anzahl ausgegebener Aktien"
+        },
+        {
+            "bbox": [
+                866.5299603395108,
+                1090.9999999999998,
+                1159.0133087375118,
+                1111.8154594391915
+            ],
+            "order": "144",
+            "label": "Table cell",
+            "text": "Adjusted diluted earnings per share",
+            "uuid": "c7a22770-ad28-4bcb-a851-59bf07f26ebf",
+            "vertical": false,
+            "translation": "Bereinigtes verwässertes Ergebnis je Aktie"
+        },
+        {
+            "bbox": [
+                865.9295933671198,
+                1126.3232629610318,
+                1070.2743766048281,
+                1147.2119154326072
+            ],
+            "order": "147",
+            "label": "Table cell",
+            "text": "Basic earnings per share:",
+            "uuid": "30d7d3a9-5a13-497a-8d1e-9a9d80258071",
+            "vertical": false,
+            "translation": "Unverwässertes Ergebnis je Aktie:"
+        },
+        {
+            "bbox": [
+                866.0,
+                655.0,
+                1377.0,
+                676.0
+            ],
+            "order": "121",
+            "label": "Section-header",
+            "text": "How We Calculate Adjusted Earnings Per Share",
+            "uuid": "037e1522-14a9-4586-9b10-2607c38e2326",
+            "vertical": false,
+            "translation": "Wie wir das bereinigte Ergebnis je Aktie berechnen"
+        },
+        {
+            "bbox": [
+                866.4703483272233,
+                695.0,
+                1145.1066524549624,
+                757.036039130815
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "(In millions of dollars, except per share amounts; number of shares outstanding in millions)",
+            "uuid": "b102e12f-18b0-439a-98c8-457a2a0c7e54",
+            "vertical": false,
+            "translation": "(In Mio. Dollar, ausgenommen Beträge je Aktie; Anzahl ausgegebener Aktien in Mio.)"
+        },
+        {
+            "bbox": [
+                865.0000000000001,
+                770.8306047526264,
+                1149.6945271500404,
+                792.2082660779067
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "Adjusted basic earnings per share:",
+            "uuid": "432d413e-fc2f-4dd9-b104-98a544d337f5",
+            "vertical": false,
+            "translation": "bereinigtes Ergebnis je Aktie:"
+        },
+        {
+            "bbox": [
+                905.0483425411607,
+                830.0841915459646,
+                1174.7018562651324,
+                877.9381953899367
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "Divided by: weighted average number of shares outstanding",
+            "uuid": "6a9f1372-1a6b-4a06-a088-687c5b266f5b",
+            "vertical": false,
+            "translation": "Geteilt durch: gewichtete durchschnittliche Anzahl ausgegebener Aktien"
+        },
+        {
+            "bbox": [
+                904.9368512782021,
+                1154.0,
+                1139.8529592521597,
+                1203.0662319112544
+            ],
+            "order": "148",
+            "label": "Table cell",
+            "text": "Net income from continuing operations",
+            "uuid": "01e8d164-40c9-4d7f-96fd-b458c697c999",
+            "vertical": false,
+            "translation": "Reinerlös aus laufender Geschäftstätigkeit"
+        },
+        {
+            "bbox": [
+                905.6951568433606,
+                1211.8818043479605,
+                1000.2376511324267,
+                1228.9513457049004
+            ],
+            "order": "151",
+            "label": "Table cell",
+            "text": "Net income",
+            "uuid": "293b7207-7dc8-4117-8765-47f3cc2df7a1",
+            "vertical": false,
+            "translation": "Reinerlös"
+        },
+        {
+            "bbox": [
+                905.0801881496634,
+                1240.1804333675711,
+                1175.0359728152935,
+                1288.0640931859944
+            ],
+            "order": "154",
+            "label": "Table cell",
+            "text": "Divided by: weighted average number of shares outstanding",
+            "uuid": "206834fd-9546-4c52-93d5-861fb798935e",
+            "vertical": false,
+            "translation": "Geteilt durch: gewichtete durchschnittliche Anzahl ausgegebener Aktien"
+        },
+        {
+            "bbox": [
+                866.4117895055747,
+                1311.9757187200057,
+                1174.6526049355857,
+                1357.202380098109
+            ],
+            "order": "157",
+            "label": "Table cell",
+            "text": "Basic earnings per share - continuing operations",
+            "uuid": "d5f49a9f-c0d2-40eb-befe-c1a22a9e63e5",
+            "vertical": false,
+            "translation": "Bereinigtes Ergebnis je Aktie – laufende Geschäftstätigkeit"
+        },
+        {
+            "bbox": [
+                865.9927282440622,
+                1376.0,
+                1065.1643562000625,
+                1395.3994393541293
+            ],
+            "order": "160",
+            "label": "Table cell",
+            "text": "Basic earnings per share",
+            "uuid": "70f55dc5-c59a-45c8-acd8-a01126bae29e",
+            "vertical": false,
+            "translation": "Ergebnis je Aktie"
+        },
+        {
+            "bbox": [
+                866.8949310479074,
+                1410.0,
+                1087.9962760075848,
+                1432.051414230988
+            ],
+            "order": "163",
+            "label": "Table cell",
+            "text": "Diluted earnings per share:",
+            "uuid": "4ae3cbb9-d1ef-493e-b081-8b0880ca3f94",
+            "vertical": false,
+            "translation": "Verwässertes Ergebnis je Aktie:"
+        },
+        {
+            "bbox": [
+                905.226713824948,
+                1438.8176895675554,
+                1140.458144070493,
+                1487.727902693227
+            ],
+            "order": "164",
+            "label": "Table cell",
+            "text": "Net income from continuing operations",
+            "uuid": "3ed5fb1e-1943-4def-b954-0f2118c8c23f",
+            "vertical": false,
+            "translation": "Reinerlös aus laufender Geschäftstätigkeit"
+        },
+        {
+            "bbox": [
+                904.525228446482,
+                1496.992163521829,
+                1166.0,
+                1538.8406512935592
+            ],
+            "order": "167",
+            "label": "Table cell",
+            "text": "Effect on net income of dilutive securities",
+            "uuid": "668c7052-7553-4261-bfd9-1e8087ad32b3",
+            "vertical": false,
+            "translation": "Auswirkung auf den Reinertrag verwässernder Wertpapiere"
+        },
+        {
+            "bbox": [
+                905.9379336058904,
+                1561.0,
+                1108.6574735800416,
+                1607.5750390303674
+            ],
+            "order": "168",
+            "label": "Table cell",
+            "text": "Diluted net income from continuing operations",
+            "uuid": "5dccbbcf-078c-4ea9-b449-cf0ac29784c4",
+            "vertical": false,
+            "translation": "Verwässerter Reinertrag aus laufender Geschäftstätigkeit"
+        },
+        {
+            "bbox": [
+                866.4111895498382,
+                1617.0287459126434,
+                961.8138474463568,
+                1632.590615519614
+            ],
+            "order": "171",
+            "label": "Table cell",
+            "text": "Net income",
+            "uuid": "960804bf-19b6-4c33-bb02-40a74340bbb9",
+            "vertical": false,
+            "translation": "Reinerlös"
+        },
+        {
+            "bbox": [
+                906.6393429343369,
+                1651.0602042344428,
+                1165.7337482508933,
+                1695.3131605985757
+            ],
+            "order": "174",
+            "label": "Table cell",
+            "text": "Effect on net income of dilutive securities",
+            "uuid": "8a048001-090e-47c7-9090-5a67ca360162",
+            "vertical": false,
+            "translation": "Auswirkung auf den Reinertrag von verwässernden Wertpapieren"
+        },
+        {
+            "bbox": [
+                905.7041431714115,
+                1745.0438145039839,
+                1140.0,
+                1817.0512683234974
+            ],
+            "order": "178",
+            "label": "Table cell",
+            "text": "Divided by: diluted weighted average number of shares outstanding",
+            "uuid": "f5792799-9f80-465e-9321-a71738acbc96",
+            "vertical": false,
+            "translation": "Geteilt durch: verwässerte, gewichtete durchschnittliche Anzahl ausgegebener Aktien"
+        },
+        {
+            "bbox": [
+                1189.0000000000002,
+                243.99999999999986,
+                1548.329112540237,
+                264.2869852151193
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "December 31, 2013 December 31, 2012",
+            "uuid": "13533152-8918-4974-9cb2-a6979e1b8a59",
+            "vertical": false,
+            "translation": "31. Dezember 2013 31. Dezember 2012"
+        },
+        {
+            "bbox": [
+                1279.9774945632666,
+                283.00000000000006,
+                1360.9948221848163,
+                300.9512756324161
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "$ 12,173",
+            "uuid": "60392514-633e-463e-bb75-6bce6d7e7da9",
+            "vertical": false,
+            "translation": "12.173 $"
+        },
+        {
+            "bbox": [
+                1469.2567434578887,
+                283.4388061729194,
+                1549.0938761012198,
+                302.40214252345123
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "$ 10,441",
+            "uuid": "87819cbb-ed2f-4469-9b5f-7a5922989f9f",
+            "vertical": false,
+            "translation": "10.441 $"
+        },
+        {
+            "bbox": [
+                1312.9487704607463,
+                314.93853479965424,
+                1360.9816947025288,
+                332.11105162529395
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "1,170",
+            "uuid": "b23de8b5-1e82-4d09-adaa-16b248314eca",
+            "vertical": false,
+            "translation": "1.170"
+        },
+        {
+            "bbox": [
+                1492.167448061831,
+                358.900328478352,
+                1548.978523640213,
+                377.36977280218827
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "10,789",
+            "uuid": "dd4ca5c8-382b-4510-80cd-6e1936c57f06",
+            "vertical": false,
+            "translation": "10.789"
+        },
+        {
+            "bbox": [
+                866.7567987574818,
+                1836.1479268831097,
+                1099.5031263478697,
+                1883.5662331178344
+            ],
+            "order": "181",
+            "label": "Table cell",
+            "text": "Diluted earnings per share - continuing operations",
+            "uuid": "0d6a9db6-9aaf-4dc8-8778-90070fed0618",
+            "vertical": false,
+            "translation": "Verwässertes Ergebnis je Aktie – laufende Geschäftstätigkeit"
+        },
+        {
+            "bbox": [
+                1301.9583451615863,
+                359.9178679684381,
+                1359.760337719794,
+                376.6070323116068
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "13,343",
+            "uuid": "c524daf9-d766-42cb-8507-e364d9d5c49b",
+            "vertical": false,
+            "translation": "13.343"
+        },
+        {
+            "bbox": [
+                1332.9397449966139,
+                458.91761660882815,
+                1366.9512700192338,
+                477.9938440460577
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "(51)",
+            "uuid": "c56bbe0d-5df5-4a05-9c91-c00e3aae0036",
+            "vertical": false,
+            "translation": "(51)"
+        },
+        {
+            "bbox": [
+                1337.9394531250002,
+                490.91796875,
+                1361.6146781923455,
+                505.51263856291735
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "93",
+            "uuid": "96f006ba-fee5-48b6-bc9e-aa48b1c58f18",
+            "vertical": false,
+            "translation": "93"
+        },
+        {
+            "bbox": [
+                1328.0,
+                522.0000000000001,
+                1361.3460798255796,
+                537.49038391721
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "650",
+            "uuid": "0664e49e-4a24-4d9a-b282-2b30b4b4d7a3",
+            "vertical": false,
+            "translation": "650"
+        },
+        {
+            "bbox": [
+                1304.3701171875,
+                549.1943359375,
+                1368.598235728263,
+                570.6787109375
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "(2,301)",
+            "uuid": "3727afeb-89bf-423c-8448-864c4a7842c7",
+            "vertical": false,
+            "translation": "(2.301)"
+        },
+        {
+            "bbox": [
+                1281.0,
+                590.0,
+                1361.7948082823418,
+                607.470703125
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "$ 11,734",
+            "uuid": "0ddc6e08-5556-458b-b284-75d270d23cd5",
+            "vertical": false,
+            "translation": "11.734 $"
+        },
+        {
+            "bbox": [
+                1290.962779280998,
+                801.0318200000103,
+                1360.9023138713112,
+                820.6441296326233
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "$ 1,769",
+            "uuid": "646a1a88-c082-4092-9b82-7424a8896fde",
+            "vertical": false,
+            "translation": "1.769 $"
+        },
+        {
+            "bbox": [
+                1328.046638612476,
+                707.8903826252548,
+                1549.2010341015578,
+                727.0201176778307
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "Years ended December 31",
+            "uuid": "0bea694f-13be-4983-ad1d-fe9a14bf9390",
+            "vertical": false,
+            "translation": "Geschäftsjahre mit Abschluss 31. Dezember"
+        },
+        {
+            "bbox": [
+                1506.0000000000002,
+                737.9558946796051,
+                1548.7022946063703,
+                752.8342268232998
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "2012",
+            "uuid": "d4392970-d7b6-403b-a969-a0592117dc1d",
+            "vertical": false,
+            "translation": "2012"
+        },
+        {
+            "bbox": [
+                1327.9738012255464,
+                857.9744406387422,
+                1360.0756054246174,
+                874.009976393613
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "515",
+            "uuid": "cc11cc87-328d-4873-916e-38e0af335f55",
+            "vertical": false,
+            "translation": "515"
+        },
+        {
+            "bbox": [
+                1292.1641232537156,
+                900.1259062520598,
+                1360.200327154839,
+                917.7740552461339
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "$ 3.43",
+            "uuid": "03d7697c-0381-49a7-a783-e5413fde8ca3",
+            "vertical": false,
+            "translation": "3,43 $"
+        },
+        {
+            "bbox": [
+                1293.2192343489066,
+                965.2102124734458,
+                1360.5714045776276,
+                983.6313188607883
+            ],
+            "order": "139",
+            "label": "Table cell",
+            "text": "$ 1,769",
+            "uuid": "e7651e5f-97a4-438b-9329-f7a435fd00b8",
+            "vertical": false,
+            "translation": "1.769 $"
+        },
+        {
+            "bbox": [
+                1328.0,
+                1048.9686805783938,
+                1360.3063967509613,
+                1064.367574199063
+            ],
+            "order": "142",
+            "label": "Table cell",
+            "text": "518",
+            "uuid": "356c214c-8bbc-45c1-af08-e7a9cdd5bee1",
+            "vertical": false,
+            "translation": "518"
+        },
+        {
+            "bbox": [
+                1292.7615798149195,
+                1091.2858890803304,
+                1360.5818689157902,
+                1109.401899580617
+            ],
+            "order": "145",
+            "label": "Table cell",
+            "text": "$ 3.42",
+            "uuid": "106a4c66-0764-41b4-af11-710395739d19",
+            "vertical": false,
+            "translation": "3,42 $"
+        },
+        {
+            "bbox": [
+                1290.4898443515917,
+                1182.0386429561981,
+                1360.8821499541223,
+                1201.2586230481531
+            ],
+            "order": "149",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "d1ea4c62-e755-4d34-9808-704f01418343",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                1312.9355747791092,
+                1213.0,
+                1360.5942733525417,
+                1229.339359511105
+            ],
+            "order": "152",
+            "label": "Table cell",
+            "text": "1,669",
+            "uuid": "935f159e-25d0-442c-99f6-6b9be34439af",
+            "vertical": false,
+            "translation": "1.669"
+        },
+        {
+            "bbox": [
+                1329.3418726553361,
+                1268.4388933963419,
+                1360.1624584501712,
+                1283.9817019106624
+            ],
+            "order": "155",
+            "label": "Table cell",
+            "text": "515",
+            "uuid": "2ac226d1-2c7d-45ec-a869-865f107dbc09",
+            "vertical": false,
+            "translation": "515"
+        },
+        {
+            "bbox": [
+                1292.874581633747,
+                1337.0039030970156,
+                1360.9129910337924,
+                1354.9050855221321
+            ],
+            "order": "158",
+            "label": "Table cell",
+            "text": "$ 3.24",
+            "uuid": "659edb37-5c37-45b4-aa2f-66facf2beef6",
+            "vertical": false,
+            "translation": "3,24 $"
+        },
+        {
+            "bbox": [
+                1291.0236516671994,
+                1374.4852349196117,
+                1361.8386065399693,
+                1392.7182449919746
+            ],
+            "order": "161",
+            "label": "Table cell",
+            "text": "$ 3.24",
+            "uuid": "a6281570-05b9-46d3-b926-471bc1d29e62",
+            "vertical": false,
+            "translation": "3,24 $"
+        },
+        {
+            "bbox": [
+                1291.578499045713,
+                1465.8802952950068,
+                1360.3876999687313,
+                1485.4257756029251
+            ],
+            "order": "165",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "27c0c357-a685-4014-abcf-4461246086f7",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                1291.985551834571,
+                1587.9961319523386,
+                1360.591259465854,
+                1605.499401873223
+            ],
+            "order": "169",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "6a808dde-134e-4419-8b3b-85b2aed59958",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                1291.991708935579,
+                1615.9851608403494,
+                1360.0,
+                1634.5129653269653
+            ],
+            "order": "172",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "a4c7064a-e031-45fd-abb6-2af72ac110fc",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                1292.0920652683158,
+                1715.712261889072,
+                1360.405229549782,
+                1735.2255990718315
+            ],
+            "order": "176",
+            "label": "Table cell",
+            "text": "$ 1,669",
+            "uuid": "0339d20c-34ab-444b-be8e-3fea7476bc95",
+            "vertical": false,
+            "translation": "1.669 $"
+        },
+        {
+            "bbox": [
+                1328.722066028985,
+                1799.9688717500237,
+                1360.0,
+                1815.1814908999918
+            ],
+            "order": "179",
+            "label": "Table cell",
+            "text": "518",
+            "uuid": "93128f6b-dcec-49ac-964a-c2f684c58476",
+            "vertical": false,
+            "translation": "518"
+        },
+        {
+            "bbox": [
+                1517.0,
+                460.00000000000006,
+                1549.3649365618223,
+                475.14721650379886
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "524",
+            "uuid": "48c81cfc-6573-4077-8208-18e0db93e466",
+            "vertical": false,
+            "translation": "524"
+        },
+        {
+            "bbox": [
+                1527.0000000000002,
+                490.91796875,
+                1549.3649365618223,
+                505.51263856291735
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "69",
+            "uuid": "1b4c61bf-b9ed-4a45-aba0-59740568a85a",
+            "vertical": false,
+            "translation": "69"
+        },
+        {
+            "bbox": [
+                1292.0873150317855,
+                1862.7342548697443,
+                1359.963367573819,
+                1881.1759031271495
+            ],
+            "order": "182",
+            "label": "Table cell",
+            "text": "$ 3.22",
+            "uuid": "3bbd6acb-ce2e-41ca-8ea8-bdfb475b2af6",
+            "vertical": false,
+            "translation": "3,22 $"
+        },
+        {
+            "bbox": [
+                1292.3926046234287,
+                1901.1214897811803,
+                1359.963367573819,
+                1918.9686390893246
+            ],
+            "order": "185",
+            "label": "Table cell",
+            "text": "$ 3.22",
+            "uuid": "85f83084-35e6-4a49-99eb-876196c68958",
+            "vertical": false,
+            "translation": "3,22 $"
+        },
+        {
+            "bbox": [
+                1511.1572265625,
+                550.0,
+                1555.0055022639096,
+                569.4681292715027
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "(213)",
+            "uuid": "2ee46c58-b83f-4713-acdf-fb1b9c26de09",
+            "vertical": false,
+            "translation": "(213)"
+        },
+        {
+            "bbox": [
+                1470.068359375,
+                588.2785677152044,
+                1550.7079283956527,
+                608.0078125
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "$ 11,169",
+            "uuid": "9a78ecc0-379e-428d-a523-4a8dd207c83f",
+            "vertical": false,
+            "translation": "11.169 $"
+        },
+        {
+            "bbox": [
+                1480.8705847245878,
+                801.9999999999999,
+                1547.0000000000002,
+                820.4991461852308
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "$ 1,781",
+            "uuid": "1f9d76f5-7333-4a60-8473-37a2fb3d19e0",
+            "vertical": false,
+            "translation": "1.781 $"
+        },
+        {
+            "bbox": [
+                1517.0,
+                858.9244489374963,
+                1550.362268540636,
+                873.863269198108
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "519",
+            "uuid": "20c828ca-d898-4065-8ed1-801026353f68",
+            "vertical": false,
+            "translation": "519"
+        },
+        {
+            "bbox": [
+                1481.0,
+                900.9161130413164,
+                1548.4129713569093,
+                917.653762168808
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "$ 3.43",
+            "uuid": "04f37a0f-1f8e-4752-b57e-ccf7905f9250",
+            "vertical": false,
+            "translation": "3,43 $"
+        },
+        {
+            "bbox": [
+                1481.0,
+                965.9411793961767,
+                1547.3497183476038,
+                984.8994412489562
+            ],
+            "order": "140",
+            "label": "Table cell",
+            "text": "$ 1,781",
+            "uuid": "f180ce64-bb69-43a1-98ae-41cc1e391a0b",
+            "vertical": false,
+            "translation": "1.781 $"
+        },
+        {
+            "bbox": [
+                1517.377919940299,
+                1048.5484686589812,
+                1549.3932567572733,
+                1063.6739807758468
+            ],
+            "order": "143",
+            "label": "Table cell",
+            "text": "522",
+            "uuid": "e288dd0d-aa1b-4a14-830a-0a8b0c2b0a74",
+            "vertical": false,
+            "translation": "522"
+        },
+        {
+            "bbox": [
+                1480.959809061792,
+                1091.7987823347137,
+                1547.227363102428,
+                1108.0808938890243
+            ],
+            "order": "146",
+            "label": "Table cell",
+            "text": "$ 3.41",
+            "uuid": "bd42dac6-25b5-4be6-ba5d-3bd00418fceb",
+            "vertical": false,
+            "translation": "3,41 $"
+        },
+        {
+            "bbox": [
+                1480.959809061792,
+                1182.7750806444258,
+                1549.056320026026,
+                1201.0131931849492
+            ],
+            "order": "150",
+            "label": "Table cell",
+            "text": "$ 1,725",
+            "uuid": "40915a4c-21e1-46b2-b496-e9178e8c945f",
+            "vertical": false,
+            "translation": "1.725 $"
+        },
+        {
+            "bbox": [
+                1480.959809061792,
+                1211.981118244971,
+                1549.056320026026,
+                1230.237268686703
+            ],
+            "order": "153",
+            "label": "Table cell",
+            "text": "$ 1,693",
+            "uuid": "baac4af4-ae5d-430b-ad43-36a255ca79ae",
+            "vertical": false,
+            "translation": "1.693 $"
+        },
+        {
+            "bbox": [
+                1516.983980875705,
+                1268.9685086850593,
+                1549.3623875309688,
+                1283.6432123776672
+            ],
+            "order": "156",
+            "label": "Table cell",
+            "text": "519",
+            "uuid": "f797de17-b390-43c2-a92a-942cc2f7114e",
+            "vertical": false,
+            "translation": "519"
+        },
+        {
+            "bbox": [
+                1481.133181465016,
+                1337.773409190897,
+                1549.1214772898215,
+                1356.1314312001734
+            ],
+            "order": "159",
+            "label": "Table cell",
+            "text": "$ 3.32",
+            "uuid": "fe07f8a1-4fef-4c26-9107-3553fb0d356c",
+            "vertical": false,
+            "translation": "3,32 $"
+        },
+        {
+            "bbox": [
+                1480.9999999999998,
+                1376.0,
+                1549.58428504291,
+                1393.3356026976048
+            ],
+            "order": "162",
+            "label": "Table cell",
+            "text": "$ 3.26",
+            "uuid": "a6431c4d-fa69-48d0-be35-0fd339406979",
+            "vertical": false,
+            "translation": "3,26 $"
+        },
+        {
+            "bbox": [
+                1480.6059604608824,
+                1465.9495763965,
+                1549.0741378367602,
+                1485.4187969581944
+            ],
+            "order": "166",
+            "label": "Table cell",
+            "text": "$ 1,725",
+            "uuid": "b4831379-06b9-45b8-b78c-f64a0115d209",
+            "vertical": false,
+            "translation": "1.725 $"
+        },
+        {
+            "bbox": [
+                1480.9999999999998,
+                1587.9591577281426,
+                1549.7185849221132,
+                1605.6972365742272
+            ],
+            "order": "170",
+            "label": "Table cell",
+            "text": "$ 1,725",
+            "uuid": "8506a588-45b6-4214-9ed7-b4b24fbb69f6",
+            "vertical": false,
+            "translation": "1.725 $"
+        },
+        {
+            "bbox": [
+                1480.9999999999998,
+                1617.0,
+                1549.0440110832951,
+                1635.3121160389946
+            ],
+            "order": "173",
+            "label": "Table cell",
+            "text": "$ 1,693",
+            "uuid": "70b6e69c-aa77-40a8-b7a9-a2737a10d3d4",
+            "vertical": false,
+            "translation": "1.693 $"
+        },
+        {
+            "bbox": [
+                1481.387822891689,
+                1716.521779170113,
+                1548.7836764148394,
+                1735.627155475852
+            ],
+            "order": "177",
+            "label": "Table cell",
+            "text": "$ 1,693",
+            "uuid": "8b13df5b-282a-443f-86f4-c4a0495aae9d",
+            "vertical": false,
+            "translation": "1.693 $"
+        },
+        {
+            "bbox": [
+                1516.9909115379905,
+                1799.982305169334,
+                1549.1928651889762,
+                1814.8164836657834
+            ],
+            "order": "180",
+            "label": "Table cell",
+            "text": "522",
+            "uuid": "992ab91c-c49f-48ed-8058-4b90b9d34443",
+            "vertical": false,
+            "translation": "522"
+        },
+        {
+            "bbox": [
+                1481.385253915987,
+                1863.7876436279637,
+                1549.4632712892576,
+                1881.4480498084772
+            ],
+            "order": "183",
+            "label": "Table cell",
+            "text": "$3.30",
+            "uuid": "3dda8185-dd76-4e7c-bef8-012b06f9c1b1",
+            "vertical": false,
+            "translation": "3,30 $"
+        },
+        {
+            "bbox": [
+                1481.5780849176347,
+                1901.295432189349,
+                1549.9433790726616,
+                1919.5135829920594
+            ],
+            "order": "186",
+            "label": "Table cell",
+            "text": "$ 3.24",
+            "uuid": "f3b7355d-0d71-448f-8be5-5be11904761a",
+            "vertical": false,
+            "translation": "3,24 $"
+        },
+        {
+            "bbox": [
+                969.8691895484418,
+                2124.0,
+                1549.0,
+                2140.2209008102022
+            ],
+            "order": "188",
+            "label": "Page-footer",
+            "text": "2013 ANNUAL REPORT ROGERS COMMUNICATIONS INC. 85",
+            "uuid": "b0290f10-effa-4bd3-9f0c-918fa66746fa",
+            "vertical": false,
+            "translation": "JAHRESBERICHT 2013 ROGERS COMMUNICATIONS INC. 85"
+        },
+        {
+            "bbox": [
+                1644.0,
+                199.0,
+                1663.0,
+                656.0
+            ],
+            "order": "187",
+            "label": "Page-header",
+            "text": "MANAGEMENT'S DISCUSSION AND ANALYSIS",
+            "uuid": "d0f6884f-6ea3-4e19-9807-eb890f2f7324",
+            "vertical": true,
+            "translation": "KOMMENTAR UND ANALYSE DER GESCHÄFTSLEITUNG"
+        },
+        {
+            "bbox": [
+                621.9252130325856,
+                272.2989269280262,
+                666.0462188270318,
+                288.9675849800386
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "d010e02f-d6f5-47df-ba1a-2a72f1394eaa",
+            "vertical": false,
+            "translation": "2013"
+        },
+        {
+            "bbox": [
+                789.1530811485986,
+                272.2989269280262,
+                832.9655484409858,
+                288.6589061272234
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "2012",
+            "uuid": "4d6706b1-f649-4f37-a1fb-c0e4891ff6a1",
+            "vertical": false,
+            "translation": "2012"
+        },
+        {
+            "bbox": [
+                145.7885611079957,
+                244.73899575645248,
+                832.3259865620482,
+                563.9790082009887
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "(In millions of dollars) Operating income Add (deduct): Depreciation and amortization Impairment of assets Stock-based compensation expense Restructuring, acquisition and other expenses Adjusted operating profit Years ended December 31 2013 2012 $ 2,926 $ 2,766 1,898 84 85 $ 4,993 1,819 80 77 92 $ 4,834",
+            "uuid": "c3fe1686-5986-4604-904f-cdd4da19f855",
+            "vertical": false,
+            "translation": "(In Millionen Dollar) Aufrechnung (Abrechnung) Betriebsergebnis : Abschreibungen und Amortisationen Wertminderung von Vermögenswerten Aufwendungen für aktienbasierte Vergütungen Restrukturierungs-, Erwerbs- und sonstige Kosten Bereinigtes Betriebsergebnis Geschäftsjahre mit Abschluss 31. Dezember 2013 2012 2.926 $ 2.766 $ 1.898 $ 84 85 4.993 $ 1.819 $ 80 77 92 4.834 $"
+        },
+        {
+            "bbox": [
+                1517.9260669839591,
+                315.81888409818407,
+                1550.0884675293105,
+                330.27818277849434
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "348",
+            "uuid": "61c03315-d739-4da9-b6ed-664eede94e7e",
+            "vertical": false,
+            "translation": "348"
+        },
+        {
+            "bbox": [
+                860.6101424328127,
+                243.68149619420709,
+                1558.4172986371727,
+                618.2997417867076
+            ],
+            "order": "95",
+            "label": "Table",
+            "text": "(In millions of dollars) Long-term debt Current portion of long-term debt Add (deduct): Net Debt Derivatives liabilities (assets) Deferred transaction costs Short-term borrowings Cash and cash equivalents Adjusted net debt December 31, 2013 December 31, 2012 $ 12,173 $ 10,441 348 1,170 10,789 13,343 (51) 93 650 (2,301) $ 11,734 524 69 (213) $ 11,169",
+            "uuid": "53e5c399-f0c6-40e5-a8d8-d5e2b3aac7b4",
+            "vertical": false,
+            "translation": "(In Millionen Dollar) Aufrechnung (Abrechnung) Langfristige Verbindlichkeiten Kurzfristiger Anteil langfristiger Verbindlichkeiten: Nettoverschuldung Derivateverbindlichkeiten (Vermögenswerte) Abgegrenzte Transaktionskosten Kurzfristige Anleihen Liquide Mittel und Äquivalente Bereinigte Nettoverschuldung 31. Dezember 2013 31. Dezember 2012 12.173 $ 10.441 $ 348 1.170 10.789 13.343 (51) 93 650 (2.301) 11.734 $ 524 69 (213) 11.169 $"
+        },
+        {
+            "bbox": [
+                789.8410769801028,
+                673.4005826748914,
+                832.7346906155906,
+                688.9529905620645
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "2012",
+            "uuid": "d7fb5cde-6497-441b-bd4f-3d3de34f04c3",
+            "vertical": false,
+            "translation": "2012"
+        },
+        {
+            "bbox": [
+                622.5847714618587,
+                673.4005826748914,
+                665.7662616989269,
+                688.6649830085985
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "cb026a45-3730-47ef-b890-940d91ef4fbd",
+            "vertical": false,
+            "translation": "2013"
+        },
+        {
+            "bbox": [
+                144.3539496043342,
+                643.7759134277484,
+                843.1589749687128,
+                1083.715740687029
+            ],
+            "order": "26",
+            "label": "Table",
+            "text": "(In millions of dollars) Net income from continuing operations Add (deduct): Stock-based compensation expense Restructuring, acquisition and other expenses Impairment of assets Gain on sale of TVtropolis Gain on spectrum distribution Income tax impact of above items Income tax adjustment, legislative tax change Adjusted net income 84 85 Years ended December 31 2013 2012 $ 1,669 $ 1,725 (47) (30) 8 $ 1,769 77 92 80 (233) (14) 54 $ 1,781",
+            "uuid": "88d8f297-02e8-4404-bbd7-544d40a97b37",
+            "vertical": false,
+            "translation": "(In Millionen Dollar) Aufrechnung (Abrechnung) Reinerlös aus laufender Geschäftstätigkeit: Aufwendungen für aktienbasierte Vergütungen Restrukturierungs-, Erwerbs- und sonstige Kosten Wertminderung von Vermögenswerten Gewinn aus Verkauf von TVtropolis Gewinn bei der Spektrumsverteilung Einkommenssteuerliche Auswirkungen der obigen Posten Ertragssteueranpassung, Änderung der Steuergesetzgebung Bereinigter Nettogewinn 84 85 Geschäftsjahre mit Abschluss 31. Dezember 2013 2012 1.669 $ 1.725 $ (47) (30) 8 1.769 $ 77 92 80 (233) (14) 54 1.781 $"
+        },
+        {
+            "bbox": [
+                623.6156270476205,
+                1190.5639304483586,
+                666.271074957286,
+                1206.229382228722
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "1efb5a01-6d08-42b9-be1e-14cf11969e0e",
+            "vertical": false,
+            "translation": "2013"
+        },
+        {
+            "bbox": [
+                144.23925715564081,
+                1163.1815035332959,
+                838.6743523786112,
+                1703.1022698551774
+            ],
+            "order": "56",
+            "label": "Table",
+            "text": "(In millions of dollars ) Cash provided by operating activities Add (deduct): Property, plant and equipment expenditures Interest on long-term debt expense, net of capitalization Restructuring, acquisition and other expenses Cash income taxes Interest paid Change in non-cash working capital Other adjustments Pre-tax free cash flow Cash income taxes After-tax free cash flow (2,240) (709) 85 496 700 (238) (40) 2,044 (496) $ 1,548 Years ended December 31 2013 2012 $ 3,990 $ 3,421 (2,142) (663) 92 380 680 248 13 2,029 (380) $ 1,649",
+            "uuid": "c49f4690-3edd-462a-9bbc-933fa0bd4caa",
+            "vertical": false,
+            "translation": "(In Millionen Dollar ) Aufrechnung (Abrechnung) Cashflow aus laufender Geschäftstätigkeit: Aufwendungen für Sachanlagen Zinsen für langfristige Fremdkapitalkosten, abzüglich Kapitalisierung Restrukturierungs-, Erwerbs- und sonstige Kosten Barwirksame Ertragssteuern Gezahlte Zinsen Veränderung des zahlungsunwirksamen Betriebskapitals Sonstige Anpassungen Freier Cashflow vor Steuern Barwirksame Ertragssteuern Freier Cashflow nach Steuern (2.240) (709) 85 496 700 (238) (40) 2.044 (496) 1.548 $ Geschäftsjahre mit Abschluss 31. Dezember 2013 2012 3.990 $ 3.421 $ (2.142) (663) 92 380 680 248 13 2.029 (380) 1.649 $"
+        },
+        {
+            "bbox": [
+                1316.5243853388854,
+                736.7294695227085,
+                1360.3813344303721,
+                752.7758783485335
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "db554866-827a-43bc-be4f-6de24a7be3b2",
+            "vertical": false,
+            "translation": "2013"
+        },
+        {
+            "bbox": [
+                905.0722068250249,
+                802.1227684485813,
+                1077.2420584013184,
+                821.6793292050553
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "Adjusted net income",
+            "uuid": "5bda5de1-404a-495b-a93f-b35991f642be",
+            "vertical": false,
+            "translation": "Bereinigter Reinerlös"
+        },
+        {
+            "bbox": [
+                905.7021975865097,
+                1716.4493150033197,
+                1063.002527539008,
+                1733.2560210759684
+            ],
+            "order": "175",
+            "label": "Table cell",
+            "text": "Diluted net income",
+            "uuid": "b68d9169-2ed3-4b29-a85f-2f4cb753c782",
+            "vertical": false,
+            "translation": "Verwässerter Reinerlös"
+        },
+        {
+            "bbox": [
+                866.4471231839801,
+                1900.8767518504192,
+                1083.4399335894134,
+                1922.3987557938055
+            ],
+            "order": "184",
+            "label": "Table cell",
+            "text": "Diluted earnings per share",
+            "uuid": "84b5a680-871e-4873-a10e-e227d7208f52",
+            "vertical": false,
+            "translation": "Verwässertes Ergebnis je Aktie"
+        },
+        {
+            "bbox": [
+                865.8153370097824,
+                935.5861265716679,
+                1165.0793683562947,
+                956.4379119227269
+            ],
+            "order": "137",
+            "label": "Table cell",
+            "text": "Adjusted diluted earnings per share:",
+            "uuid": "d8f5010b-fe4c-4134-b87a-a51e15e5e567",
+            "vertical": false,
+            "translation": "Bereinigtes verwässertes Ergebnis je Aktie:"
+        },
+        {
+            "bbox": [
+                859.2873309844088,
+                686.3840336415276,
+                1562.451987805106,
+                1931.6650969054817
+            ],
+            "order": "122",
+            "label": "Table",
+            "text": "Adjusted basic earnings per share Adjusted diluted earnings per share : Adjusted net income Divided by : diluted weighted average number of shares outstanding Adjusted diluted earnings per share Basic earnings per share : ( In millions of dollars , except per share amounts ; number of shares outstanding in millions ) Adjusted basic earnings per share : Adjusted net income Divided by : weighted average number of shares outstanding Net income from continuing operations Net income Divided by : weighted average number of shares outstanding Basic earnings per share - continuing operations Basic earnings per share Diluted earnings per share : Net income from continuing operations Effect on net income of dilutive securities Diluted net income from continuing operations Net income Effect on net income of dilutive securities Diluted net income Divided by : diluted weighted average number of shares outstanding Diluted earnings per share - continuing operations Diluted earnings per share $ 1,769 Years ended December 31 2013 2012 515 $ 3.43 $ 1,769 518 $ 3.42 $ 1,669 1,669 515 $ 3.24 $ 3.24 $ 1,669 $ 1,669 $ 1,669 $ 1,669 518 $ 3.22 $ 3.22 $ 1,781 519 $ 3.43 $ 1,781 522 $ 3.41 $ 1,725 $ 1,693 519 $ 3.32 $ 3.26 $ 1,725 $ 1,725 $ 1,693 $ 1,693 522 $ 3.30 $ 3.24",
+            "uuid": "e36e5aed-b981-48ca-9e34-60a2cca90662",
+            "vertical": false,
+            "translation": "Bereinigtes Ergebnis je Aktie Bereinigtes verwässertes Ergebnis je Aktie : Bereinigter Reinerlös dividiert durch : verwässerte gewichtete durchschnittliche Anzahl der ausgestellten Aktien Bereinigtes verwässertes Ergebnis je Aktie Bereinigtes Ergebnis je Aktie : ( In Millionen Dollar , ausgenommen Aktiennennwert ; Anzahl der ausgestellten Aktien in Millionen ) Bereinigtes Ergebnis je Aktie : Bereinigter Reinerlös Geteilt durch : gewichtete durchschnittliche Anzahl der ausgestellten Aktien Nettogewinn aus laufender Geschäftstätigkeit Konzernergebnis Dividiert durch : gewichtete durchschnittliche Anzahl der ausgestellten Aktien Ergebnis je Aktie - fortgeführte Geschäftsbereiche Ergebnis je Aktie Verwässertes Ergebnis je Aktie : Nettogewinn aus fortgeführten Geschäftsbereichen Auswirkungen auf den Reinerlös aus verwässernden Titeln Verwässerter Nettogewinn aus fortgeführten Geschäftsbereichen Effekt auf das Ergebnis der verwässerten Wertpapiere Verwässertes Konzernergebnis Dividiert durch: verwässerte gewichtete durchschnittliche Anzahl der ausstehenden Aktien Verwässertes Ergebnis je Aktie - fortgeführte Geschäftsbereiche Verwässertes Ergebnis je Aktie 1.769 $ Geschäftsjahre mit Abschluss 31. Dezember 2013 2012 515 3,43 $ 1.769 518 3,42 $ 1.669 $ 1.669 515 3,24 $ 3,24 $ 1.669 $ 1.669 $ 1.669 $ 1.669 $ 518 3,22 $ 3,22 $ 1.781 $ 519 3,43 $ 1.781 $ 522 3,41 $ 1.725 $ 1.693 $ 519 3,32 $ 3,26 $ 1.725 $ 1.725 $ 1.693 $ 1.693 $ 522 3,30 $ 3,24 $"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

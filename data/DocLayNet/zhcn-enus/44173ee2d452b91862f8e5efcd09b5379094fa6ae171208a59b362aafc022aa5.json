@@ -1,0 +1,329 @@
+{
+    "file": "44173ee2d452b91862f8e5efcd09b5379094fa6ae171208a59b362aafc022aa5.png",
+    "annotations": [
+        {
+            "bbox": [
+                544.1734101650991,
+                194.8258695730479,
+                1159.9161123700524,
+                267.62911492393414
+            ],
+            "order": "1",
+            "label": "Title",
+            "text": "中华人民共和国网络安全法",
+            "uuid": "ab76a53e-bc32-4006-9c95-3bde0d04231f",
+            "vertical": false,
+            "translation": "The Cybersecurity Law of the People's Republic of China"
+        },
+        {
+            "bbox": [
+                792.1980256825251,
+                460.12583144492146,
+                909.4235902305624,
+                500.8462907089765
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "目录",
+            "uuid": "1fd6bc26-0dc4-4069-9e89-ed1c233a2547",
+            "vertical": false,
+            "translation": "Contents"
+        },
+        {
+            "bbox": [
+                313.42414100212056,
+                592.1588357253422,
+                653.9952548469445,
+                636.5811549224932
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "第一章 总则",
+            "uuid": "bba83bc0-6ede-4fcb-a220-7d32fe687bac",
+            "vertical": false,
+            "translation": "Chapter 1 General Provisions"
+        },
+        {
+            "bbox": [
+                309.72228106902463,
+                657.5583612100368,
+                767.5189594618857,
+                704.4485870292516
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "第二章 网络安全支持与促进",
+            "uuid": "44a5d93e-111f-4cb9-9018-3d3763e7ec8f",
+            "vertical": false,
+            "translation": "Chapter 2 Support and Promotion of Cybersecurity"
+        },
+        {
+            "bbox": [
+                306.0204211359287,
+                720.4899800726673,
+                673.7385078234561,
+                773.5499724470419
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "第三章 网络运行安全",
+            "uuid": "3feb6407-7c3e-4be0-a9ee-f67c7cd9eca4",
+            "vertical": false,
+            "translation": "Chapter 3 Safety of Network Operations"
+        },
+        {
+            "bbox": [
+                376.35575986475106,
+                789.5913654904575,
+                671.270601201392,
+                835.2476379986406
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "第一节 一般规定",
+            "uuid": "8af13617-8ccd-445b-b355-3598f897333f",
+            "vertical": false,
+            "translation": "Section 1  General Regulations"
+        },
+        {
+            "bbox": [
+                377.589713175783,
+                854.9908909751522,
+                971.1212557821609,
+                903.1150701053988
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "第二节 关键信息基础设施的运行安全",
+            "uuid": "bfe114cf-b3ef-45fc-907e-03e24f0300e6",
+            "vertical": false,
+            "translation": "Section 2 Operational Safety of Critical Information Infrastructure"
+        },
+        {
+            "bbox": [
+                312.19018769108857,
+                924.0922763929425,
+                672.504554512424,
+                973.4504088342212
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "第四章 网络信息安全",
+            "uuid": "7e46a276-359d-46fe-a1be-9fd246acfa4c",
+            "vertical": false,
+            "translation": "Chapter 4 Security of Network Information"
+        },
+        {
+            "bbox": [
+                312.19018769108857,
+                990.7257551886688,
+                769.9868660839497,
+                1035.1480743858199
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "第五章 监测预警与应急处置",
+            "uuid": "d33c5049-b045-49ef-bffe-8cbcbe6d7a12",
+            "vertical": false,
+            "translation": "Chapter 5 Monitoring, Early Warning, and Emergency Response"
+        },
+        {
+            "bbox": [
+                313.42414100212056,
+                1057.3592339843954,
+                603.4031690946337,
+                1101.7815531815463
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "第六章 法律责任",
+            "uuid": "9e49520b-98e5-48cb-98c7-8d4e05021653",
+            "vertical": true,
+            "translation": "Chapter 6 Legal Liabilities"
+        },
+        {
+            "bbox": [
+                310.9562343800566,
+                1121.5248061580578,
+                656.4631614690084,
+                1172.1168919103686
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "第七章 附则",
+            "uuid": "bc308caa-65bd-40a4-89e0-d4aabb5ae9fb",
+            "vertical": false,
+            "translation": "Chapter 7 Supplementary Provisions"
+        },
+        {
+            "bbox": [
+                730.5003601309267,
+                1191.86014488688,
+                968.6533491600969,
+                1236.282464084031
+            ],
+            "order": "17",
+            "label": "Section-header",
+            "text": "第一章 总则",
+            "uuid": "d44466bf-b2af-4010-86c4-bbc4d5c54b37",
+            "vertical": false,
+            "translation": "Chapter 1 General Provisions"
+        },
+        {
+            "bbox": [
+                192.49671652098743,
+                1253.5578104384786,
+                1507.890946081068,
+                1370.7833749865158
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "第一条 为了保障网络安全，维护网络空间主权和国家安全、社会公共利益，保护公民、法人和其他组织的合法权益，促进经济社会信息化健康发展，制定本法。",
+            "uuid": "6af7cd5d-5973-45bf-909d-8fa3b570c69d",
+            "vertical": false,
+            "translation": "Article 1: This Law is enacted to safeguard cybersecurity, maintain sovereignty, national security, and the public interest of society in cyberspace, protect the legitimate rights and interests of citizens, legal persons, and other organizations, and promote the healthy development of economic and social informatization."
+        },
+        {
+            "bbox": [
+                190.02880989892347,
+                1384.3568614078674,
+                1504.1890861479721,
+                1504.0503325779684
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "第二条 在中华人民共和国境内建设、运营、维护和使用网络，以及网络安全的监督管理，适用本法。",
+            "uuid": "7353d7a2-eb16-49d8-acdb-64778246be3e",
+            "vertical": false,
+            "translation": "Article 2: This Law shall apply to the construction, operation, maintenance, and use of networks within the People's Republic of China, as well as the supervision and administration of cybersecurity."
+        },
+        {
+            "bbox": [
+                194.96462314305137,
+                1522.5596322434483,
+                1505.4230394590043,
+                1702.7168156541156
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "第三条 国家坚持网络安全与信息化发展并重，遵循积极利用、科学发展、依法管理、确保安全的方针，推进网络基础设施建设和互联互通，鼓励网络技术创新和应用，支持培养网络安全人才，建立健全网络安全保障体系，提高网络安全保护能力。",
+            "uuid": "a930aa9c-53cc-4f94-a650-205141bbd94c",
+            "vertical": false,
+            "translation": "Article 3: The government shall place equal emphasis on cybersecurity and information technology development, follow the guidelines of active utilization, scientific development, administration by law, and security guarantee, promote the construction of network infrastructure and interconnection, encourage the innovation and application of network technologies, support the cultivation of cybersecurity talents, establish and improve the cybersecurity guarantee system, and enhance the capability to protect cybersecurity."
+        },
+        {
+            "bbox": [
+                194.96462314305137,
+                1723.6940219416595,
+                1505.4230394590043,
+                1838.4516798676327
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "第四条 国家制定并不断完善网络安全战略，明确保障网络安全的基本要求和主要目标，提出重点领域的网络安全政策、工作任务和措施。",
+            "uuid": "15e40b0b-d731-4096-97bd-78dfe2d70564",
+            "vertical": false,
+            "translation": "Article 4: The government shall develop and continuously improve cybersecurity strategies, specify the fundamental requirements and major objectives for ensuring cybersecurity, and propose cybersecurity policies, tasks, and measures in critical areas."
+        },
+        {
+            "bbox": [
+                194.96462314305137,
+                1934.7000381281264,
+                1467.1704868170132,
+                1980.3563106363092
+            ],
+            "order": "22",
+            "label": "Page-footer",
+            "text": "Source: http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm",
+            "uuid": "e2f55d25-097d-41b3-9f81-4207c038ec4c",
+            "vertical": false,
+            "translation": "Source: http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm"
+        },
+        {
+            "bbox": [
+                193.7306698320194,
+                1986.526077191469,
+                645.3575816697206,
+                2027.246536455524
+            ],
+            "order": "23",
+            "label": "Page-footer",
+            "text": "Accessed: 28-March_2018",
+            "uuid": "5956b388-f215-4c1d-a980-320860bf4697",
+            "vertical": false,
+            "translation": "Accessed: 28-March-2018"
+        },
+        {
+            "bbox": [
+                336.6582256496728,
+                282.9184372726967,
+                1363.4658138811747,
+                327.8062006926529
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "(2016年11月7日第十二届全国人民代表大会常务委员会第二十四次会议通过)",
+            "uuid": "7d778942-fd8f-4795-a17d-ae2f9b3a84dd",
+            "vertical": false,
+            "translation": "(Adopted at the 24th Meeting of the Standing Committee of the 12th National People's Congress on November 7, 2016)"
+        },
+        {
+            "bbox": [
+                443.26666377206914,
+                355.33536965788875,
+                720.4922794411018,
+                392.3819584943992
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "浏览字号：大 中 小",
+            "uuid": "490e40df-1018-44a7-87fa-16af2de778c5",
+            "vertical": false,
+            "translation": "Browse Font Size: Large Medium Small"
+        },
+        {
+            "bbox": [
+                724.3246851828096,
+                355.33536965788875,
+                937.6619381378878,
+                391.1044899138298
+            ],
+            "order": "4",
+            "label": "Section-header",
+            "text": "来源：中国人大网",
+            "uuid": "4053f066-06cf-4de5-96b5-fc38d0f2e091",
+            "vertical": false,
+            "translation": "Source: The National People's Congress website"
+        },
+        {
+            "bbox": [
+                945.3267496213036,
+                356.61283823845815,
+                1140.7794424484111,
+                392.3819584943992
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "2016 年 11 月 7 日",
+            "uuid": "d66f35a0-dea9-49d4-aa8b-178a5a75e6b3",
+            "vertical": false,
+            "translation": "November 7, 2016"
+        },
+        {
+            "bbox": [
+                1153.5541282541044,
+                355.33536965788875,
+                1257.02908328022,
+                389.8270213332607
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "17:31:34",
+            "uuid": "a16f34f5-eded-444f-819c-450e9154a479",
+            "vertical": false,
+            "translation": "17:31:34"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

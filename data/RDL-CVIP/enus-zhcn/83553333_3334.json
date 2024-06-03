@@ -1,0 +1,721 @@
+{
+    "file": "83553333_3334.png",
+    "annotations": [
+        {
+            "bbox": [
+                45.78604279758255,
+                66.0558434323959,
+                98.86140584154639,
+                73.58368437460894
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "11/12/18",
+            "uuid": "e5af45e8-7a7a-47f6-8c37-0c7ac325ae51",
+            "vertical": false,
+            "translation": "1918 年 11 月 12 日"
+        },
+        {
+            "bbox": [
+                112.0,
+                66.00000000000006,
+                144.69407705677284,
+                73.58368437460894
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "18:32",
+            "uuid": "5d54d198-abfb-4360-b733-876694d811ec",
+            "vertical": false,
+            "translation": "18:32"
+        },
+        {
+            "bbox": [
+                43.408934755854716,
+                158.6706575927276,
+                137.9875495544756,
+                171.4214033291035
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Fax Transmittal",
+            "uuid": "33f1af93-9986-4975-861b-48bcd0b38595",
+            "vertical": false,
+            "translation": "传真传输"
+        },
+        {
+            "bbox": [
+                44.20747334876413,
+                177.977978441889,
+                158.92123441946742,
+                216.58673813276985
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "450 Lexington Avenue New York, NY 10017 212-450-4000",
+            "uuid": "8f1ba1fe-6bed-4bc2-b14d-ce1759b76f6a",
+            "vertical": false,
+            "translation": "450 列克星顿大街，纽约市，纽约州 10017 212-450-4000"
+        },
+        {
+            "bbox": [
+                44.921875,
+                327.880859375,
+                61.03515625,
+                337.890625
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "To",
+            "uuid": "91e97876-2fbb-462d-99f2-9fb19b0b56c3",
+            "vertical": false,
+            "translation": "收件人"
+        },
+        {
+            "bbox": [
+                47.0,
+                343.9826696239723,
+                163.57421875,
+                357.421875
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Thomas M. Sobol",
+            "uuid": "1ac5cd2c-1cf0-4f96-a902-c8b014711bc3",
+            "vertical": false,
+            "translation": "托马斯·M·索博尔"
+        },
+        {
+            "bbox": [
+                47.620131812633716,
+                396.21021179162443,
+                146.99782151442352,
+                413.2852223538923
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Joseph F. Rice",
+            "uuid": "9e2ce46e-2d16-46be-b9f8-7ab36bb97c34",
+            "vertical": false,
+            "translation": "约瑟夫·F·赖斯"
+        },
+        {
+            "bbox": [
+                46.8464379988438,
+                481.3281247514581,
+                170.15356200115622,
+                512.1234680727842
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Robert V. Costello Jeffrey D. Woolf",
+            "uuid": "0f6494e2-3c85-4884-b843-c408b6bf0043",
+            "vertical": false,
+            "translation": "罗伯特·V·科斯泰洛 杰弗里·D·伍尔夫"
+        },
+        {
+            "bbox": [
+                46.95630968816918,
+                533.8895729483206,
+                181.95570004165555,
+                546.6644513193667
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Richard M. Heimann",
+            "uuid": "9203cc86-43ee-444d-985c-60550e631008",
+            "vertical": false,
+            "translation": "理查德·M·海曼"
+        },
+        {
+            "bbox": [
+                46.95630968816918,
+                587.0,
+                181.95570004165555,
+                597.4186978205496
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Michael P. Thornton",
+            "uuid": "2e0ba9f7-69ee-456b-83db-87242a5aa199",
+            "vertical": false,
+            "translation": "迈克尔·P·桑顿"
+        },
+        {
+            "bbox": [
+                47.00000000000001,
+                642.9656825719193,
+                98.60431831852911,
+                654.8848858851482
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "Message:",
+            "uuid": "aafdf375-9b53-48e0-b74e-491573f5b7be",
+            "vertical": false,
+            "translation": "信息："
+        },
+        {
+            "bbox": [
+                238.86654828581328,
+                110.9362696549383,
+                473.70630067770674,
+                125.09346507484787
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "DAVIS POLK & WARDWELL",
+            "uuid": "9d4a8930-b461-4068-9e7e-b23615df07d5",
+            "vertical": false,
+            "translation": "戴维斯·波尔克与沃德威尔"
+        },
+        {
+            "bbox": [
+                254.43450827550558,
+                155.07775642315724,
+                292.4569126427253,
+                167.11397231963855
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Sender",
+            "uuid": "2293cfed-5121-4bbd-b843-f3fbe968d910",
+            "vertical": false,
+            "translation": "发件人"
+        },
+        {
+            "bbox": [
+                255.0,
+                176.99999999999994,
+                363.2002516117696,
+                190.85918927624212
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Charles Duggan",
+            "uuid": "014074df-5831-4277-a50f-cf6d115811a0",
+            "vertical": false,
+            "translation": "查尔斯·杜根"
+        },
+        {
+            "bbox": [
+                255.05528456754013,
+                195.35132836182268,
+                280.5838619166968,
+                207.06928261621383
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Date",
+            "uuid": "7d5dc2a6-464e-4eaf-89cd-00a6b22cc5fd",
+            "vertical": false,
+            "translation": "日期"
+        },
+        {
+            "bbox": [
+                255.39611203074514,
+                213.54780805325103,
+                384.73262917028603,
+                228.73112460556877
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "November 12, 1999",
+            "uuid": "01eb7ccf-c834-4f9a-86ca-30b24f885626",
+            "vertical": false,
+            "translation": "1999 年 11 月 12 日"
+        },
+        {
+            "bbox": [
+                255.0,
+                232.02790584737687,
+                373.3108792417932,
+                244.36107052023505
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Sender Voice Number",
+            "uuid": "9e86024e-faec-43c6-9cd0-697b0a6610cb",
+            "vertical": false,
+            "translation": "发件人语音号码"
+        },
+        {
+            "bbox": [
+                255.937370108202,
+                270.0426362954245,
+                362.03941549657,
+                281.63204397110655
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "Sender Fax Number",
+            "uuid": "feb2ef53-818d-4b49-94e8-44e39a56f9df",
+            "vertical": false,
+            "translation": "发件人传真号码"
+        },
+        {
+            "bbox": [
+                204.0,
+                324.99999999999994,
+                270.66164054993504,
+                336.181640625
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Fax Number",
+            "uuid": "9562715a-86c5-405d-b76b-d028ae755df3",
+            "vertical": false,
+            "translation": "传真号码"
+        },
+        {
+            "bbox": [
+                204.0,
+                343.994140625,
+                292.724609375,
+                355.712890625
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "617-439-3278",
+            "uuid": "7901204a-6b42-484a-916a-8ab6076eb692",
+            "vertical": false,
+            "translation": "617-439-3278"
+        },
+        {
+            "bbox": [
+                204.99999999999997,
+                395.9812086298441,
+                293.45703125,
+                408.447265625
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "843-720-9290",
+            "uuid": "50a67776-9ab2-4479-aa00-6f90015f914b",
+            "vertical": false,
+            "translation": "843-720-9290"
+        },
+        {
+            "bbox": [
+                316.9785315311854,
+                66.30935142238914,
+                374.87227887043036,
+                75.75301233588306
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "DPW 1045",
+            "uuid": "1eaa2707-fefb-42a7-ab4a-ecaec215440e",
+            "vertical": false,
+            "translation": "DPW 1045"
+        },
+        {
+            "bbox": [
+                205.0332238457456,
+                480.366535882125,
+                293.8222025340586,
+                492.80280197117264
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "617-722-0286",
+            "uuid": "33ee233e-b9dd-4622-9acb-0d5ad483b230",
+            "vertical": false,
+            "translation": "617-722-0286"
+        },
+        {
+            "bbox": [
+                204.99999999999997,
+                533.8895729483206,
+                294.1674695170599,
+                545.9739173533642
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "415-956-1008",
+            "uuid": "b0047a63-e295-4dd4-8ec0-382610831940",
+            "vertical": false,
+            "translation": "415-956-1008"
+        },
+        {
+            "bbox": [
+                204.0,
+                586.6548407175758,
+                293.8222025340586,
+                597.4188055211266
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "617-720-2445",
+            "uuid": "b37f60f5-ca70-4a62-bf60-92dcda95aa3a",
+            "vertical": false,
+            "translation": "617-720-2445"
+        },
+        {
+            "bbox": [
+                363.0,
+                395.99609375,
+                477.783203125,
+                457.51953125
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Ness, Motley, Loadholt, Richardson & Poole",
+            "uuid": "9d274b6f-5d7d-4877-83ea-e7156993414e",
+            "vertical": false,
+            "translation": "内斯、莫特利、罗德霍尔特、理查森与普尔"
+        },
+        {
+            "bbox": [
+                464.98545103627544,
+                189.95711527386172,
+                662.3112096693167,
+                205.58723523666723
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Number of Pages (this page included)",
+            "uuid": "0f1e6d80-3191-4160-b8f6-a51042b57615",
+            "vertical": false,
+            "translation": "页数（含本页）"
+        },
+        {
+            "bbox": [
+                489.9329574590362,
+                212.95125821687967,
+                499.1004146384844,
+                222.8701463126761
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "6",
+            "uuid": "92186955-72ae-4eb9-aa80-ffaeffa7bef6",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                464.9219569645074,
+                227.97558168907926,
+                647.6105456394387,
+                242.3662768917436
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "If problems receiving this fax, call 212-450-4785",
+            "uuid": "76014dd0-7d34-459b-8f8f-b1c0f3d470b1",
+            "vertical": false,
+            "translation": "如果接收此传真时出现问题，请致电 212-450-4785"
+        },
+        {
+            "bbox": [
+                467.0000000000001,
+                268.9798187360798,
+                521.1401321294177,
+                279.81919342555796
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Reference",
+            "uuid": "8aecace7-a9d0-433e-8ce4-4aa52fd53609",
+            "vertical": false,
+            "translation": "参考"
+        },
+        {
+            "bbox": [
+                468.0,
+                288.00000000000006,
+                536.7615838877832,
+                299.47884359765055
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "17555-002",
+            "uuid": "138a7f48-379a-4547-b667-2b7b765c33a9",
+            "vertical": false,
+            "translation": "17555-002"
+        },
+        {
+            "bbox": [
+                363.0,
+                322.0,
+                413.0,
+                336.0
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Company",
+            "uuid": "0ecf3142-4bb9-440b-b309-d5c9c0aa9f9c",
+            "vertical": false,
+            "translation": "公司"
+        },
+        {
+            "bbox": [
+                362.0,
+                340.81428115908,
+                509.03320312499994,
+                371.337890625
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Brown Rudnick Freed & Gesmer",
+            "uuid": "471e2dfc-30ad-4c18-afff-97b8c56ca6e5",
+            "vertical": false,
+            "translation": "布朗、鲁德尼克、弗里德与格斯默"
+        },
+        {
+            "bbox": [
+                362.87559913430744,
+                481.0,
+                496.49392155578886,
+                508.6850831892299
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Schneider, Reilly, Zabin & Costello",
+            "uuid": "65a767c1-2197-4992-bbcf-50a532eadc55",
+            "vertical": false,
+            "translation": "施耐德、赖利、扎宾与科斯特洛"
+        },
+        {
+            "bbox": [
+                362.87559913430744,
+                533.0,
+                477.410551863614,
+                561.1656646054189
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Lieff, Cabraser & Heimann",
+            "uuid": "26692284-8e06-4698-8604-a1619c03cc9b",
+            "vertical": false,
+            "translation": "利夫、卡布拉瑟与海曼"
+        },
+        {
+            "bbox": [
+                363.9114000833111,
+                584.9890864325048,
+                483.71904318474276,
+                613.6462460216081
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Thomton, Early & Naumes",
+            "uuid": "7b70c2dd-a2d0-4d97-8b9c-304a76ad7504",
+            "vertical": false,
+            "translation": "托姆顿、厄尔利与纳穆斯"
+        },
+        {
+            "bbox": [
+                520.99609375,
+                321.0324705432942,
+                652.587890625,
+                335.693359375
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Recipient Phone Number",
+            "uuid": "7205a02d-478d-41a6-adc5-3a8e5a8db998",
+            "vertical": false,
+            "translation": "收件人电话号码"
+        },
+        {
+            "bbox": [
+                522.3691364951308,
+                394.3553361135983,
+                609.5605510048691,
+                407.10905070155155
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "843-720-9000",
+            "uuid": "f3fd8af1-6ea3-42e8-b31e-9ac7e6fb09e4",
+            "vertical": false,
+            "translation": "843-720-9000"
+        },
+        {
+            "bbox": [
+                521.0,
+                480.0,
+                609.7414919801968,
+                493.1480689541738
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "617-227-7500",
+            "uuid": "f7299e4c-7afa-44b6-ab73-9e1028b5bf7a",
+            "vertical": false,
+            "translation": "617-227-7500"
+        },
+        {
+            "bbox": [
+                633.0319051466761,
+                69.92829481328589,
+                678.1345741711605,
+                77.90098883276553
+            ],
+            "order": "6",
+            "label": "Page-header",
+            "text": "002/007",
+            "uuid": "b16fe779-f022-4e92-9043-5ba002eeaed2",
+            "vertical": false,
+            "translation": "002/007"
+        },
+        {
+            "bbox": [
+                521.0,
+                532.8537719993169,
+                611.1225599122017,
+                546.3191843363655
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "415-956-1000",
+            "uuid": "2df4abcc-b462-4768-8e71-0c1c03e6c757",
+            "vertical": false,
+            "translation": "415-956-1000"
+        },
+        {
+            "bbox": [
+                522.0,
+                586.0,
+                609.7414919801968,
+                597.7639648035508
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "617-720-1333",
+            "uuid": "ce31f202-236b-4829-abad-b3a882b64912",
+            "vertical": false,
+            "translation": "617-720-1333"
+        },
+        {
+            "bbox": [
+                638.5145111039001,
+                722.6613656980392,
+                663.2418948132787,
+                827.5116133854898
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "83553333",
+            "uuid": "c4c09b66-8823-44c8-bbf6-a85e89242bdb",
+            "vertical": true,
+            "translation": "83553333"
+        },
+        {
+            "bbox": [
+                68.03215367161467,
+                892.9125144406898,
+                665.450164038052,
+                940.2201474911631
+            ],
+            "order": "51",
+            "label": "Page-footer",
+            "text": "Confidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure, Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.",
+            "uuid": "9a521caa-03fb-4caf-a4b3-132bc36b46e7",
+            "vertical": false,
+            "translation": "保密说明：此传真仅供其收件人的个人或实体使用，可能包含特权信息、机密信息或以其他方式受到保护而免于披露的信息， 严禁预期收件人以外的任何人或负责向预期收件人传递消息的员工或代理人传播、分发或复制此传真或此处的信息。如果您错误地收到此传真，请立即电话通知我们，并以邮寄的方式将此传真寄给我们。"
+        },
+        {
+            "bbox": [
+                151.4811863701114,
+                66.52435811825885,
+                258.31528623113735,
+                73.1282439709734
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "FAX 212 450 4800",
+            "uuid": "baafbb65-3f18-47a7-914b-34d4b2256829",
+            "vertical": false,
+            "translation": "传真 212 450 4800"
+        },
+        {
+            "bbox": [
+                616.9995149945827,
+                70.3956541776285,
+                631.0829053930466,
+                77.39538814692548
+            ],
+            "order": "5",
+            "label": "Page-header",
+            "text": "Pages Icon",
+            "uuid": "8e2c0319-71a1-4021-95b8-b141708d7655",
+            "vertical": false,
+            "translation": "页面图标"
+        },
+        {
+            "bbox": [
+                256.0876562914717,
+                252.60857451386,
+                344.90679060383064,
+                264.62771882351245
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "212-450-4785",
+            "uuid": "d1416d9f-99fa-43b2-a707-b13f8f882639",
+            "vertical": false,
+            "translation": "212-450-4785"
+        },
+        {
+            "bbox": [
+                256.2379424747413,
+                290.31863978539485,
+                344.756504420561,
+                301.9206787125083
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "212-450-3785",
+            "uuid": "d76bfd62-ab95-4b4d-9bdb-970d12aa7004",
+            "vertical": false,
+            "translation": "212-450-3785"
+        },
+        {
+            "bbox": [
+                466.97207828380203,
+                249.85134219319062,
+                556.4940425596724,
+                261.4650724858956
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "212-450-4785",
+            "uuid": "7704483d-fd0f-4e58-8e93-d2aff17dd541",
+            "vertical": false,
+            "translation": "212-450-4785"
+        },
+        {
+            "bbox": [
+                521.97265625,
+                341.77433288073365,
+                609.86328125,
+                353.73349187112547
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "617-330-9000",
+            "uuid": "3367f860-9b41-443c-a321-bb3b6be88d3e",
+            "vertical": false,
+            "translation": "617-330-9000"
+        },
+        {
+            "bbox": [
+                36.44815552340706,
+                313.30641862531485,
+                660.1650214021043,
+                618.5962493173909
+            ],
+            "order": "24",
+            "label": "Table",
+            "text": "To Thomas M. Sobol Joseph F. Rice Robert V. Costello Jeffrey D. Woolf Richard M. Heimann Michael P. Thornton Fax Number 617-439-3278 843-720-9290 617-722-0286 415-956-1008 617-720-2445 Ness, Motley, Company Brown Rudnick Freed 617-330-9000 & Gesmer Loadholt, Richardson & Poole Schneider, Reilly, Zabin & Costello Lieff, Cabraser & Heimann Thomton, Early & Naumes Recipient Phone Number 843-720-9000 617-227-7500 415-956-1000 617-720-1333",
+            "uuid": "a84a6e41-3cdb-4a0a-a506-7deec2817da2",
+            "vertical": false,
+            "translation": "托马斯·M·索博尔 约瑟夫·F·赖斯 罗伯特·V·科斯泰洛 杰弗里·D·伍尔夫 理查德·M·海曼 迈克尔·P·桑顿 传真号码 617-439-3278 843-720-9290 617-722-0286 415-956-1008 617-720-2445 内斯，莫特利，公司 布朗、鲁德尼克、弗里德 617-330-9000 与格斯默 罗德霍尔特，理查森与普尔 施耐德，赖利、扎宾与科斯特洛 利夫、卡布拉瑟与海曼 托姆顿、厄尔利与纳穆斯 收件人电话号码 843-720-9000 617-227-7500 415-956-1000 617-720-1333"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

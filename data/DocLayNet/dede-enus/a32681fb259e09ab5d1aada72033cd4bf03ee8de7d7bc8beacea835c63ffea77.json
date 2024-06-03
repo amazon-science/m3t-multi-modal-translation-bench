@@ -1,0 +1,497 @@
+{
+    "file": "a32681fb259e09ab5d1aada72033cd4bf03ee8de7d7bc8beacea835c63ffea77.png",
+    "annotations": [
+        {
+            "bbox": [
+                153.4744946020626,
+                2199.107319079536,
+                1462.7613335081542,
+                2231.703671915372
+            ],
+            "order": "34",
+            "label": "Page-footer",
+            "text": "AdB - NL Südbayern - Anschreiben Bekanntmachung Inland - Bekanntmachung Ausschreibung National 01-21",
+            "uuid": "f58009ce-9b86-4a8c-8001-c574551e2c16",
+            "vertical": false,
+            "translation": "AdB - NL South Bavaria - Cover Letter for Domestic Notice - Notice of a National Call for Tenders 01-21"
+        },
+        {
+            "bbox": [
+                1529.3122205479867,
+                2196.390956343216,
+                1624.384916319176,
+                2230.345490547212
+            ],
+            "order": "35",
+            "label": "Page-footer",
+            "text": "Seite 1",
+            "uuid": "235ade99-34e8-43e1-89fd-37a7c1df12ca",
+            "vertical": false,
+            "translation": "Page 1"
+        },
+        {
+            "bbox": [
+                153.96820503552368,
+                159.36779702797767,
+                525.8996303682496,
+                192.94933969004651
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "Bezeichnung der Bauleistung:",
+            "uuid": "dd554415-9df3-4b81-abf6-69511cba42d1",
+            "vertical": false,
+            "translation": "Name of the construction work:"
+        },
+        {
+            "bbox": [
+                141.58827522440498,
+                207.7860869144888,
+                1503.6733947109565,
+                325.4314596479192
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "A - 01654-00 A0165400007 H3.097 N Salzhalle SP Holledau BAU - ELT",
+            "uuid": "61902e20-0b33-4960-bd0f-d2ba1486ec56",
+            "vertical": false,
+            "translation": "A - 01654-00 A0165400007 H3.097 N Salt Storage Depot, Holledau Base BAU - ELT"
+        },
+        {
+            "bbox": [
+                654.6843207803048,
+                326.5462512978957,
+                997.6748557082855,
+                347.6533611396178
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "(wie Aufforderung zur Angebotsabgabe)",
+            "uuid": "4a8a765d-88a1-4693-8f6a-4e0bf002f8c4",
+            "vertical": false,
+            "translation": "(same requirements as the invitation to tender)"
+        },
+        {
+            "bbox": [
+                155.23399998758725,
+                214.4783971548046,
+                303.4473668099068,
+                239.8306835849382
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "A-01654-00",
+            "uuid": "0e9dc525-82d2-4494-bdde-5a0137c24d97",
+            "vertical": false,
+            "translation": "A-01654-00"
+        },
+        {
+            "bbox": [
+                155.23399998758725,
+                269.08332177355396,
+                332.30996982267425,
+                298.33595996216945
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "A0165400007",
+            "uuid": "04c04f9a-a202-4e14-b427-1c42ec9b217a",
+            "vertical": false,
+            "translation": "A0165400007"
+        },
+        {
+            "bbox": [
+                525.3773818675379,
+                270.2534273010984,
+                651.3587436665093,
+                296.7758192587767
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "BAU-ELT",
+            "uuid": "5aa41cab-07b3-4265-8594-d5ac4b8939c3",
+            "vertical": false,
+            "translation": "BAU-ELT"
+        },
+        {
+            "bbox": [
+                525.767417043386,
+                212.91825645141185,
+                940.3748089700324,
+                240.61075393663458
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "H3.097 N Salzhalle SP Holledau",
+            "uuid": "88c5b28b-dca4-47f8-adf3-dec6c6c44189",
+            "vertical": false,
+            "translation": "H3.097 N Salt Storage Depot, Holledau"
+        },
+        {
+            "bbox": [
+                510.8718418544693,
+                407.030379771594,
+                1161.8943659875983,
+                450.7332806971977
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Auftragsbekanntmachung National",
+            "uuid": "d3700856-f056-4547-b6d8-f8e5027581aa",
+            "vertical": false,
+            "translation": "National contract notice"
+        },
+        {
+            "bbox": [
+                153.96548960845038,
+                516.0204814853339,
+                461.89646882535123,
+                546.954187160091
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "Bekanntmachungstext",
+            "uuid": "38a2cca0-302d-495e-acd1-bd93003a63a8",
+            "vertical": false,
+            "translation": "Notice text"
+        },
+        {
+            "bbox": [
+                153.71365153143324,
+                578.8279903067253,
+                1472.3356622177478,
+                642.1218468196685
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "(Der unter a) bis x) angegebene Text dient nur zur Erläuterung; er ist aus drucktechnischen Gründen in der Bekanntmachung nicht zu wiederholen)",
+            "uuid": "79b084d0-51c8-4933-a2c9-3132a06c3341",
+            "vertical": false,
+            "translation": "(The text provided under a) to x) is for explanation purposes only; it is not to be repeated in the notice for technical printing reasons)"
+        },
+        {
+            "bbox": [
+                186.30527281387833,
+                800.0481426808316,
+                387.37435969979987,
+                862.6185927956813
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Seidlstr. 7-11 80335 München",
+            "uuid": "57565da5-6b9f-4cb4-8ea1-892bba49e51f",
+            "vertical": false,
+            "translation": "Seidlstr. 7-11 80335 Munich"
+        },
+        {
+            "bbox": [
+                1184.620319590132,
+                801.4542202115024,
+                1494.660415103039,
+                864.7277090916874
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "Tel.: +49 8954552-3444 Fax.: +49 8954552-3644",
+            "uuid": "f71df783-309a-4a79-9322-ac0796ce9772",
+            "vertical": false,
+            "translation": "Phone: +49 8954552-3444 Fax: +49 8954552-3644"
+        },
+        {
+            "bbox": [
+                155.22064811507477,
+                675.2757716597813,
+                1431.6467544594273,
+                706.9226999162529
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "a) Name, Anschrift, Telefon-, Telefaxnummer sowie Emailadresse des Auftraggebers (Vergabestelle):",
+            "uuid": "f000eeb1-7eaf-40a8-b8e0-10898f0a51a0",
+            "vertical": false,
+            "translation": "a) Name, address, telephone number, fax number and e-mail address of the contracting authority (awarding authority):"
+        },
+        {
+            "bbox": [
+                153.262450843115,
+                733.2594599739696,
+                953.3205657947889,
+                775.4417858940928
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "a) Die Autobahn GmbH des Bundes - Niederlassung Südbayern",
+            "uuid": "e5327016-772b-44bf-9c17-31e2b3df35c0",
+            "vertical": false,
+            "translation": "a) Autobahn GmbH of the Federal Office - South Bavaria Branch Office"
+        },
+        {
+            "bbox": [
+                156.77764466979195,
+                925.8920816758663,
+                581.4130589323676,
+                968.777446361325
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "b) Gewähltes Vergabeverfahren:",
+            "uuid": "0e6554ff-479e-4cff-aff4-de430390aa3a",
+            "vertical": false,
+            "translation": "b) Selected tender procedure:"
+        },
+        {
+            "bbox": [
+                154.6685283737858,
+                991.2746868520576,
+                622.8923460871554,
+                1030.6448577108395
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "b) Öffentliche Ausschreibung (VOB/A)",
+            "uuid": "71a285e7-fbb0-4542-a612-1b02b0050dc6",
+            "vertical": false,
+            "translation": "b) Public invitation to tender (VOB/A)"
+        },
+        {
+            "bbox": [
+                150.69965836415022,
+                1053.5319141537987,
+                1353.282932110069,
+                1092.7138253284777
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "c) ggf. Auftragsvergabe auf elektronischem Wege und Verfahren der Ver- und Entschlüsselung:",
+            "uuid": "a6ee4413-7510-405b-9774-74f9fd3550ec",
+            "vertical": false,
+            "translation": "c) electronic contract award, where applicable, and encryption and decryption procedures:"
+        },
+        {
+            "bbox": [
+                158.23464128235776,
+                1116.8257706667418,
+                480.7319101816393,
+                1157.5146784250621
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "c) elektronisch in Textform",
+            "uuid": "fd98095b-ef0b-48a3-ba31-de9fdd03341f",
+            "vertical": false,
+            "translation": "c) electronically in text form"
+        },
+        {
+            "bbox": [
+                157.48068343512736,
+                1216.9501305247177,
+                433.77491821193564,
+                1248.58687496481
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "d) Art des Auftrages:",
+            "uuid": "19462ba4-d3b3-4299-a003-dda34420dad8",
+            "vertical": false,
+            "translation": "d) Type of contract:"
+        },
+        {
+            "bbox": [
+                153.262450843115,
+                1280.926658170238,
+                565.2431673296535,
+                1316.0785964370077
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "d) Ausführung von Bauleistungen",
+            "uuid": "bbd345ae-1ed3-4887-b2de-27f97368a672",
+            "vertical": false,
+            "translation": "d) Execution of construction work"
+        },
+        {
+            "bbox": [
+                154.6685283737858,
+                1344.9031858157587,
+                455.56911993733263,
+                1380.0551240825282
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "e) Ort der Ausführung:",
+            "uuid": "7b6d12f3-96a1-4959-8f45-a4f3c10facac",
+            "vertical": false,
+            "translation": "e) Place of execution:"
+        },
+        {
+            "bbox": [
+                154.6685283737858,
+                1407.4736359306085,
+                485.79978684675444,
+                1470.044086045458
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "e) A 9 Stützpunkt Holledau 85283 Wolnzach",
+            "uuid": "adcabd2c-af51-4b63-ba3f-24a966af578b",
+            "vertical": false,
+            "translation": "e) A 9 Holledau Base 85283 Wolnzach"
+        },
+        {
+            "bbox": [
+                154.88988771939083,
+                1534.4002397477445,
+                576.9943908936086,
+                1569.8712064010401
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "f) Art und Umfang der Leistung:",
+            "uuid": "cc7b7d46-4497-4480-9b0a-839ddcc3c2bc",
+            "vertical": false,
+            "translation": "f) Type and scope of the service:"
+        },
+        {
+            "bbox": [
+                149.5329069480806,
+                1892.9357352057257,
+                1435.7693523065705,
+                1958.83159250488
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "g) Angaben über den Zweck der baulichen Anlage oder des Auftrages, wenn auch Planungsleistungen gefordert werden:",
+            "uuid": "de645a95-d684-4e06-8964-0a8c2719aa17",
+            "vertical": false,
+            "translation": "g) Information on the purpose of the construction or contract, if design services are also required:"
+        },
+        {
+            "bbox": [
+                150.80013497306433,
+                1994.3139772044244,
+                185.01529164762516,
+                2025.9946778290175
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "g)",
+            "uuid": "6f0890c2-e2c8-4e32-812f-8b23d2170313",
+            "vertical": false,
+            "translation": "g)"
+        },
+        {
+            "bbox": [
+                153.3345910230318,
+                2053.87369437866,
+                1435.7693523065705,
+                2121.036779702798
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "h) Falls der Auftrag in mehrere Lose aufgeteilt ist, Art und Umfang der einzelnen Lose und Möglichkeit, Angebote für ein, mehrere oder alle Lose einzureichen:",
+            "uuid": "dca5575e-4e6a-407a-800c-c366ddec7a53",
+            "vertical": false,
+            "translation": "h) If the contract is split into several batches, the type and size of each batch and the possibility of submitting tenders for one, several or all batches:"
+        },
+        {
+            "bbox": [
+                154.29870494183592,
+                1601.2038936114513,
+                1346.7143672701231,
+                1632.5365808218623
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "f) A 9 Salzhalle Stützpunkt Holledau: BAU-Elektroinstallation; Zusammenfassung (Grobmassen):",
+            "uuid": "67c978f0-b76b-455b-a900-273d0e180452",
+            "vertical": false,
+            "translation": "f) A 9 Salt Storage Depot, Holledau Base: BAU electrical installation; Summary (coarse materials):"
+        },
+        {
+            "bbox": [
+                217.3276559819223,
+                1634.6156936829575,
+                660.8084565135607,
+                1665.7807001879792
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "● 1 Stk. Kleinwandlermessanlage,",
+            "uuid": "1d8eb390-2c76-4f92-a141-f5a9d42c5ac3",
+            "vertical": false,
+            "translation": "● 1x small transducer test device,"
+        },
+        {
+            "bbox": [
+                215.19053102999337,
+                1669.1899130302681,
+                657.9864314186336,
+                1707.0256107937832
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "● 2 Stk. Unterverteilungsanlagen,",
+            "uuid": "3649c1dd-cedf-4916-b33c-966d0f8d9d10",
+            "vertical": false,
+            "translation": "● 2x sub-distribution systems,"
+        },
+        {
+            "bbox": [
+                214.59934825243846,
+                1709.9815246815579,
+                639.6597653144308,
+                1746.6348568899634
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "● 1.700 m Kabel und Leitungen,",
+            "uuid": "6378504f-3004-4ee9-b4f0-468c6aadc947",
+            "vertical": false,
+            "translation": "● 1,700 m of cables and wires,"
+        },
+        {
+            "bbox": [
+                215.19053102999337,
+                1750.181953555293,
+                1113.7883529134822,
+                1782.105823543259
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "● 420 m Verlegesysteme wie Installationskanäle und Installationsrohre,",
+            "uuid": "106f0f7c-bc34-4cf8-80eb-ee222acdb708",
+            "vertical": false,
+            "translation": "● 420 m of installation systems such as installation ducts and installation pipes,"
+        },
+        {
+            "bbox": [
+                214.59934825243846,
+                1788.0176513188082,
+                743.116751386543,
+                1821.7150696394392
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "● 28 Stk. Schalt- und Installationsgeräte,",
+            "uuid": "f7056485-f5d2-44c2-983c-b5310873df12",
+            "vertical": false,
+            "translation": "● 28x switchgear and installation equipment,"
+        },
+        {
+            "bbox": [
+                213.41698269732862,
+                1828.218080192543,
+                538.5675103525384,
+                1859.5507674029543
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "● 32 Stk. LED Leuchten",
+            "uuid": "022d0bd1-83aa-4d71-9338-7a242c49db72",
+            "vertical": false,
+            "translation": "● 32x LED lights"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

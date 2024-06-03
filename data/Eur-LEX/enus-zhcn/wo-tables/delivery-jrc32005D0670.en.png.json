@@ -1,0 +1,259 @@
+{
+    "file": "jrc32005D0670.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                110.7538252309631,
+                122.289673121506,
+                222.38061483772955,
+                152.57599180701806
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.9.2005",
+            "uuid": "ad17c595-5881-48af-af88-081b9f0dcf20",
+            "vertical": false,
+            "translation": "2005 年 9 月 29 日"
+        },
+        {
+            "bbox": [
+                327.9501367914157,
+                120.55902633947662,
+                358.2364750568174,
+                142.19211111484256
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "4d6727f8-821e-4544-bb82-b15cd67e65c3",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                618.6989841392724,
+                120.55902633947662,
+                1025.401240846096,
+                156.03728537107682
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "8408f8f7-b8f0-4bbf-93a4-dbf192b5e075",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1427.0698198042337,
+                118.78570238532505,
+                1528.3127220057193,
+                150.80266785286676
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 253/21",
+            "uuid": "1a54eafd-84c6-41e5-8202-d5b8522c387d",
+            "vertical": false,
+            "translation": "L 253/21"
+        },
+        {
+            "bbox": [
+                687.1108762229045,
+                278.9657326454601,
+                957.0919487602001,
+                321.3665788051773
+            ],
+            "order": "5",
+            "label": "Title",
+            "text": "COMMISSION",
+            "uuid": "cf04f1b8-04ae-47dc-85e0-450a98c8b188",
+            "vertical": false,
+            "translation": "委员会"
+        },
+        {
+            "bbox": [
+                668.0737493132233,
+                470.1989192003011,
+                970.9371319672406,
+                494.4279741487111
+            ],
+            "order": "6",
+            "label": "Title",
+            "text": "COMMISSION DECISION",
+            "uuid": "3963f358-7d47-4956-ab91-9e2c9b112e3f",
+            "vertical": false,
+            "translation": "委员会决定"
+        },
+        {
+            "bbox": [
+                720.8585102900663,
+                514.3304121420474,
+                915.5563991390776,
+                548.0780243916188
+            ],
+            "order": "7",
+            "label": "Title",
+            "text": "of 22 June 2005",
+            "uuid": "ae5961ec-7fcb-40db-8b42-a306e30a418a",
+            "vertical": false,
+            "translation": "2005 年 6 月 22 日"
+        },
+        {
+            "bbox": [
+                249.25695730023907,
+                561.0578752568381,
+                1392.3498958315452,
+                625.0918061919215
+            ],
+            "order": "8",
+            "label": "Title",
+            "text": "relating to a proceeding pursuant to Article 82 of the EC Treaty and Article 54 of the EEA Agreement",
+            "uuid": "9c49b217-9c0c-4b5e-a392-7aab7244c87b",
+            "vertical": false,
+            "translation": "与根据《欧共体条约》第 82 条和《EEA 协议》第 54 条提起的诉讼有关"
+        },
+        {
+            "bbox": [
+                590.1945937736189,
+                638.0716570571412,
+                1052.2775833086055,
+                671.8192693067122
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "(Case COMP/A.39.116/B2 Coca-Cola)",
+            "uuid": "22f29f90-98f2-4800-b701-1053574f7478",
+            "vertical": false,
+            "translation": "（案例 COMP/A.39.116/B2 可口可乐）"
+        },
+        {
+            "bbox": [
+                570.2914880198952,
+                688.317535489446,
+                1072.1793792751243,
+                716.8732073929289
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "(notified under document number C(2005) 1829)",
+            "uuid": "63b1d9b5-1ba1-4648-b6ef-15fb263958e3",
+            "vertical": false,
+            "translation": "（根据 C(2005) 1829 号文件通知）"
+        },
+        {
+            "bbox": [
+                639.6363650941207,
+                738.3882305152806,
+                1002.0881392894798,
+                764.6718844650998
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "(Only the English text is authentic)",
+            "uuid": "dd9d95b9-7392-4465-b1ab-529177fea806",
+            "vertical": false,
+            "translation": "（仅英文文本有效）"
+        },
+        {
+            "bbox": [
+                683.6489255275417,
+                783.5031085010563,
+                956.2259699161573,
+                812.9241037955543
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "(Text with EEA relevance)",
+            "uuid": "85baf372-9bbf-4173-8f22-d8dce5ba5609",
+            "vertical": false,
+            "translation": "（与 EEA 有关的文本）"
+        },
+        {
+            "bbox": [
+                740.760306256585,
+                830.230571615847,
+                902.5758849888743,
+                862.2475370833885
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "(2005/670/EC)",
+            "uuid": "3781e3e6-953b-4c66-b9fb-47695b7ad957",
+            "vertical": false,
+            "translation": "(2005/670/EC)"
+        },
+        {
+            "bbox": [
+                250.97559881840544,
+                913.4259280956386,
+                1395.7991852505918,
+                1184.2721494832208
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(1) This decision adopted pursuant to Article 9(1) of Council Regulation (EC) No 1/2003 (¹) is addressed to the Coca-Cola Company (TCCC) and its three major bottlers, Bottling Holdings (Luxembourg) SARL, Coca-Cola Erfrischungsgetränke AG and Coca-Cola Hellenic Bottling Company SA (hereafter: the Parties). The subject matter of the procedure relates to the conduct of TCCC and its bottlers in the supply of carbonated soft drinks in both the distribution channel for consumption at home and the channel for consumption on premise in the EC Member States, Iceland and Norway. In a preliminary assessment, the Commission expressed concerns under Article 82 of the EC Treaty and Article 54 of the EEA Agreement in relation to practices consisting in exclusivity-related requirements, growth and target rebates and leveraging of market power between various product categories.",
+            "uuid": "4029becb-9095-45f6-b722-8fc6b8261d94",
+            "vertical": false,
+            "translation": "(1) 本决定根据理事会 (EC) 第 1/2003 号条例 (¹) 第 9(1) 条通过，针对可口可乐公司 (TCCC) 及其三大装瓶商， Bottling Holdings（卢森堡）SARL，可口可乐 Erfrischungsgetränke AG 和可口可乐希腊装瓶公司 SA（以下简称：各方）。此程序的主题事项涉及 TCCC 及其装瓶商在欧共体成员国、冰岛和挪威国内分销渠道和本地消费渠道供应碳酸软饮料的行为。在初步评估中，委员会根据《欧共体条约》第 82 条和《EEA 协议》第 54 条，对与排他性相关的要求、增长和目标回扣以及在不同产品类别之间利用市场力量等做法表示担忧。"
+        },
+        {
+            "bbox": [
+                250.99721030729015,
+                1214.585387615764,
+                1393.2248248881563,
+                1569.367977931766
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(2) The Commission considers that the commitments offered following the preliminary assessment and the observations submitted by interested third parties are sufficient to address the identified competition concerns in channels, where the Parties reach defined market share thresholds. In particular, the Parties will refrain from concluding exclusivity agreements save in specific circumstances and from granting growth and target rebates. In the preliminary assessment these practices were considered to make it more difficult for third parties to compete on the merits. By providing that requirements concerning assortment and shelf-space must be defined separately for certain categories of brands, the commitments address the concern identified in the preliminary assessment that strong brands could be leveraged in favour of weaker brands. In regard to financing and technical equipment, the commitments reduce contract duration, give customers the option of repayment and termination without penalties and free up a certain share of cooler space, thus addressing the concerns that the pre-existing arrangements would unduly bind customers and lead to outlet exclusivity.",
+            "uuid": "abf4e5a4-aa8b-4e29-b36b-60253374162e",
+            "vertical": false,
+            "translation": "(2) 委员会认为，在初步评估和有关第三方提交的意见之后作出的承诺足以解决各方达到规定的市场份额阈值的渠道中发现的竞争问题。特别是，除特定情况外，各方将不缔结排他性协议，也不给予增长和目标回扣。在初步评估中，这些做法被认为会增加第三方在竞争中的难度。这些承诺规定，对某些类别的品牌必须分别确定分类和货架空间的要求，因而解决了初步评估中确定的担忧，即可能利用强势品牌来支持较弱的品牌。在融资和技术设备方面，这些承诺缩短了合同期限，使客户可以选择还款和终止而不受到惩罚，并腾出一定份额的冷却空间，从而解决了原有安排会不适当地约束客户并导致网点排他性的担忧。"
+        },
+        {
+            "bbox": [
+                251.8640623428029,
+                1604.1054433720308,
+                1390.6303811219086,
+                1663.812757352041
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(3) The decision finds that, in view of the commitments, there are no longer grounds for action by the Commission. The decision shall be binding until 31 December 2010.",
+            "uuid": "32ba9af6-6e33-4ba2-8ccd-980672168393",
+            "vertical": false,
+            "translation": "(3) 该决定认为，鉴于这些承诺，委员会不再有采取行动的理由。 该决定在 2010 年 12 月 31 日前具有约束力。"
+        },
+        {
+            "bbox": [
+                251.8640623428029,
+                1699.289265525298,
+                1392.361029022789,
+                1760.7272262873373
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(4) The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 20 May 2005.",
+            "uuid": "84be0e47-4850-4de4-aaa3-5b99d99eff97",
+            "vertical": false,
+            "translation": "(4) 限制性惯例和支配地位问题咨询委员会于 2005 年 5 月 20 日发表了赞成意见。"
+        },
+        {
+            "bbox": [
+                251.49583294341343,
+                2161.9896630146777,
+                1329.9817082182863,
+                2188.8275430212498
+            ],
+            "order": "18",
+            "label": "Footnote",
+            "text": "(¹) OJ L 1, 4.1.2003, p. 1. Regulation as amended by Regulation (EC) No 411/2004 (OJ L 68, 6.3.2004, p. 1).",
+            "uuid": "ba260dcd-c933-4ac9-a7c0-bb2574554434",
+            "vertical": false,
+            "translation": "(¹) OJ L 1，2003 年 1 月 4 日，第 1 页。经 (EC) 第 411/2004 号条例（OJ L 68，2004 年 3 月 6 日，第 1 页）修正的条例。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,343 @@
+{
+    "file": "jrc32002L0081.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                2172.005524736801,
+                114.62233612453007,
+                2199.1999325043275,
+                220.95966335029442
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 276/30",
+            "uuid": "22a0d561-b341-4647-ba2b-3c9870a010bd",
+            "vertical": true,
+            "translation": "L 276/30"
+        },
+        {
+            "bbox": [
+                2175.1274611079934,
+                331.33278800549755,
+                2194.8210909463114,
+                365.9418166488857
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "c291cd25-d5d3-4666-ba57-422bd5380183",
+            "vertical": true,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                2167.724754048055,
+                582.3958321885833,
+                2202.7212600488306,
+                1061.7131807881362
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "7874cc5c-5f0e-43ee-9342-8909cafc0c68",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2171.052917003514,
+                1409.1509822949329,
+                2200.9329071030306,
+                1535.3721455825837
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "12.10.2002",
+            "uuid": "c21dffce-1221-4ad6-88d6-3ab7b7761e79",
+            "vertical": true,
+            "translation": "12.10.2002"
+        },
+        {
+            "bbox": [
+                1047.5758818273302,
+                111.08363642965894,
+                1157.5358784525467,
+                141.80330873932394
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "19cb7c7b-72a0-4cb8-b8ce-4529e95accab",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                106.98303929464853,
+                219.66537209921086,
+                2102.8160963200817,
+                775.3771830008421
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "d5a2de08-d013-4ac3-ac03-cff6d0199507",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                108.77763107010652,
+                172.63634015017294,
+                776.8141697071738,
+                202.1744866017743
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "In Anhang I wird folgender Eintrag am Ende der Tabelle angefügt:",
+            "uuid": "cda6de3f-2817-45cd-9207-900909a636a1",
+            "vertical": false,
+            "translation": "In Annex I, the following entry has been added at the end of the table:"
+        },
+        {
+            "bbox": [
+                109.95999662521639,
+                781.3505546496167,
+                1207.1952317671605,
+                806.1575594866869
+            ],
+            "order": "24",
+            "label": "Footnote",
+            "text": "(¹) Weitere Einzelheiten hinsichtlich der Identität und Spezifikation des Wirkstoffs sind dem Beurteilungsbericht zu entnehmen.\"",
+            "uuid": "6f152f71-c18d-400d-b34e-cf40cadffe99",
+            "vertical": false,
+            "translation": "(¹) Refer to the assessment report for further details regarding the identity and specification of the active substance.\""
+        },
+        {
+            "bbox": [
+                135.25880529316356,
+                250.79789926577652,
+                164.02425257270517,
+                271.5921679826868
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Nr.",
+            "uuid": "d277d829-3abc-471c-863b-6cf7d3c63476",
+            "vertical": false,
+            "translation": "No."
+        },
+        {
+            "bbox": [
+                130.3625589477097,
+                318.64595176468265,
+                167.69643733179555,
+                343.72139345272103
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": ",,39",
+            "uuid": "f95dc210-7717-4041-b23e-232d4e56f6fe",
+            "vertical": false,
+            "translation": "\"39"
+        },
+        {
+            "bbox": [
+                210.53859285451705,
+                237.30366531324046,
+                443.1102942635766,
+                282.5617795794566
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Gebräuchliche Bezeichnung, Kennummern",
+            "uuid": "6eae195d-efe6-4adb-bf78-b89913a21c6c",
+            "vertical": false,
+            "translation": "Common name, identification numbers"
+        },
+        {
+            "bbox": [
+                202.4654256683946,
+                317.54179123423495,
+                426.2430014071466,
+                421.89716239858933
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Flumioxazin CAS-Nr. 103361-09-7 CIPAC-Nr. 578",
+            "uuid": "487a34b7-a66c-40ed-92f8-f33dab4a9e54",
+            "vertical": false,
+            "translation": "Flumioxazin CAS No. 103361-09-7 CIPAC No. 578"
+        },
+        {
+            "bbox": [
+                656.4142221670057,
+                249.37772276723692,
+                824.7802077228287,
+                279.1935430999098
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "IUPAC-Bezeichnung",
+            "uuid": "97869a19-f5b1-4351-aeda-74ba9ca94db6",
+            "vertical": false,
+            "translation": "IUPAC name"
+        },
+        {
+            "bbox": [
+                1045.360960951027,
+                248.3128720410701,
+                1141.2656362676348,
+                275.99899092140913
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Reinheit (¹)",
+            "uuid": "8f10dae5-d06e-459d-a916-7152d0273817",
+            "vertical": false,
+            "translation": "Purity (¹)"
+        },
+        {
+            "bbox": [
+                1230.776666563136,
+                249.37772276723692,
+                1336.2718094114043,
+                272.80443874290864
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Inkrafttreten",
+            "uuid": "237ba7eb-1a24-437a-98d9-f6ccf5fe360c",
+            "vertical": false,
+            "translation": "Entry into force"
+        },
+        {
+            "bbox": [
+                480.58898408655773,
+                313.26876633724993,
+                1012.327128341973,
+                379.2895113595964
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "7-fluor-6-[(3,4,5,6-tetra-hydro) phtalimido]-4-(2-propynyl)-1,4-benzoxazin-(2H)-1",
+            "uuid": "d234839b-658c-4513-b8ef-4f5bb9adb89f",
+            "vertical": false,
+            "translation": "7-fluoro-6-[(3,4,5,6-tetra-hydro)phtalimido]-4-(2-propynyl)-1,4-benzoxazine-(2H)-1"
+        },
+        {
+            "bbox": [
+                1030.4424559017768,
+                314.3336170634168,
+                1132.7407762394919,
+                351.6033924792576
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "960 g/kg",
+            "uuid": "1105c8e2-2234-45e3-9200-90f4e0aade24",
+            "vertical": false,
+            "translation": "960g/kg"
+        },
+        {
+            "bbox": [
+                1186.0211514153855,
+                314.3336170634168,
+                1279.7946117249576,
+                344.14943739608924
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "1.1.2003",
+            "uuid": "a10869ea-f2fb-4e54-b449-984b3ae58901",
+            "vertical": false,
+            "translation": "1.1.2003"
+        },
+        {
+            "bbox": [
+                1410.8643346576553,
+                319.7623059686874,
+                1524.8843375340666,
+                345.31872339669235
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "31.12.2012",
+            "uuid": "fc6aef40-c24d-48c1-956c-c3c7dd3b1fab",
+            "vertical": false,
+            "translation": "31.12.2012"
+        },
+        {
+            "bbox": [
+                1758.2523808044793,
+                247.35245658933934,
+                1962.8490214799099,
+                275.03857546967816
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Besondere Bedingungen",
+            "uuid": "35707358-5351-432a-8876-6140fac8f06f",
+            "vertical": false,
+            "translation": "Special conditions"
+        },
+        {
+            "bbox": [
+                1418.32358718228,
+                247.3267261594058,
+                1606.9361153049426,
+                271.81829286124434
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Aufnahme befristet bis",
+            "uuid": "dc45047d-8e51-471c-a82b-f34a4bff3cfb",
+            "vertical": false,
+            "translation": "Inclusion limited to"
+        },
+        {
+            "bbox": [
+                1643.8227564437784,
+                309.38369576833827,
+                2094.6680496896456,
+                365.00407973779045
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Nur Anwendungen als Herbizid dürfen zugelassen werden.",
+            "uuid": "d147b011-f67d-4df6-98b4-211e63f6087f",
+            "vertical": false,
+            "translation": "Only use as a herbicide may be authorized."
+        },
+        {
+            "bbox": [
+                1637.8387329069608,
+                386.94098533137196,
+                2098.181174426679,
+                603.1056827432488
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Bei der Anwendung der einheitlichen Grund sätze gemäß Anhang VI sind die Schlussfolgerungen des vom Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit am 28. Juni 2002 abgeschlossenen Beurteilungsberichts über Flumioxazin und insbesondere dessen Anlagen I und II zu berücksichtigen. Bei dieser Gesamtbewertung müssen die Mitgliedstaaten",
+            "uuid": "53e24234-72ec-4a9f-9416-693677132f9b",
+            "vertical": false,
+            "translation": "In applying the uniform principles provided for in Annex VI, account shall be taken of the conclusions of the review report on flumioxazin, and in particular Annexes I and II thereof, finalized by the Standing Committee on the Food Chain and Animal Health on 28 June 2002. For the purposes of this overall assessment, Member States shall"
+        },
+        {
+            "bbox": [
+                1642.101162921032,
+                614.8606634853886,
+                2096.049959419643,
+                752.2264071609163
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "— das Risiko für Wasserpflanzen und Algen sorgfältig prüfen und gegebenenfalls entsprechende Risikominderungsmaßnahmen in die Zulassungsbedingungen aufnehmen",
+            "uuid": "9fa45761-401e-459f-92e0-76eea7752ee9",
+            "vertical": false,
+            "translation": "— carefully assess the risk to aquatic plants and algae and, where appropriate, include appropriate risk mitigation measures in the conditions for approval;"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

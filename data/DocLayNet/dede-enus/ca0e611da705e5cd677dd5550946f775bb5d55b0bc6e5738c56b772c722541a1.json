@@ -1,0 +1,1099 @@
+{
+    "file": "ca0e611da705e5cd677dd5550946f775bb5d55b0bc6e5738c56b772c722541a1.png",
+    "annotations": [
+        {
+            "bbox": [
+                168.00000000000003,
+                242.0000000000001,
+                200.0880452101313,
+                263.6228293116793
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Nr.",
+            "uuid": "5504296f-1c07-431f-bbc2-d39f2110877c",
+            "vertical": false,
+            "translation": "No."
+        },
+        {
+            "bbox": [
+                148.0,
+                551.0,
+                184.0,
+                569.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "4.7",
+            "uuid": "4400c6dd-3a73-4f33-a345-3680d90929ed",
+            "vertical": false,
+            "translation": "4.7"
+        },
+        {
+            "bbox": [
+                148.0,
+                657.0,
+                185.0,
+                677.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "4.8",
+            "uuid": "cca471e1-eb9c-421a-9bc2-df2296392e27",
+            "vertical": false,
+            "translation": "4.8"
+        },
+        {
+            "bbox": [
+                147.0,
+                796.9885006215177,
+                169.76273387653018,
+                816.9333026889788
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "5.",
+            "uuid": "b87e1b6b-f406-4f49-9d72-51fa80a9f484",
+            "vertical": false,
+            "translation": "5."
+        },
+        {
+            "bbox": [
+                147.49876877796888,
+                841.9815043563277,
+                186.0,
+                865.0008079384854
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "5.1",
+            "uuid": "fdf18a14-0657-4d3a-82ab-da873a82c642",
+            "vertical": false,
+            "translation": "5.1"
+        },
+        {
+            "bbox": [
+                177.0,
+                344.0,
+                193.0,
+                364.0
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "5275a785-1823-403c-b268-9e296778d69f",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                147.0,
+                950.0,
+                186.22879139734115,
+                970.2299790446979
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "5.2",
+            "uuid": "f4ca626d-7bd8-4434-bd3a-0b6c7fa6ce80",
+            "vertical": false,
+            "translation": "5.2"
+        },
+        {
+            "bbox": [
+                148.0,
+                1027.0,
+                170.0,
+                1046.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "6.",
+            "uuid": "ea753886-f336-42a7-ad21-2241512e7495",
+            "vertical": false,
+            "translation": "6."
+        },
+        {
+            "bbox": [
+                148.0,
+                1136.0,
+                169.0,
+                1154.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "7.",
+            "uuid": "65f1f0e5-1f1f-40bd-b484-c633cff28406",
+            "vertical": false,
+            "translation": "7."
+        },
+        {
+            "bbox": [
+                147.96260138418887,
+                1242.9635515020743,
+                169.53081757342017,
+                1264.0679350850858
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "8.",
+            "uuid": "d9556fc8-787d-4a1e-889d-844eb25239c1",
+            "vertical": false,
+            "translation": "8."
+        },
+        {
+            "bbox": [
+                147.96260138418887,
+                1320.8874293470387,
+                169.53081757342017,
+                1342.2237292331604
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "9.",
+            "uuid": "d8578ae7-bba4-4775-8d80-300d4d241c65",
+            "vertical": false,
+            "translation": "9."
+        },
+        {
+            "bbox": [
+                149.12218289973893,
+                1399.0,
+                183.0,
+                1419.6837744719048
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "9.1",
+            "uuid": "7c13f186-2c6d-4184-9ad3-89e71b35498c",
+            "vertical": false,
+            "translation": "9.1"
+        },
+        {
+            "bbox": [
+                148.0,
+                1445.0,
+                185.0,
+                1463.0
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "9.2",
+            "uuid": "e389c89f-1d18-47f9-84fa-c7ad2c8ff8f4",
+            "vertical": false,
+            "translation": "9.2"
+        },
+        {
+            "bbox": [
+                148.0,
+                1490.9999999999998,
+                185.0,
+                1509.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "9.3",
+            "uuid": "68262bb6-05c3-4497-8d7e-c72715427a91",
+            "vertical": false,
+            "translation": "9.3"
+        },
+        {
+            "bbox": [
+                293.0,
+                225.0,
+                479.0,
+                280.0
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Funkdienst/ Funkanwendung",
+            "uuid": "4afd47d2-dcb8-4ab2-93c8-b6bf196e0bc3",
+            "vertical": false,
+            "translation": "Radio service/radio application"
+        },
+        {
+            "bbox": [
+                378.2554903724327,
+                342.8963791321103,
+                393.09813377147356,
+                362.8411811995716
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "a39c1f8f-8c1c-45a0-b7cc-22eb45dfa64f",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                240.99999999999997,
+                796.0,
+                409.0,
+                819.0
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Flugfunkdienst",
+            "uuid": "6d9c8ae3-fc97-4654-b9ff-1b71e219118d",
+            "vertical": false,
+            "translation": "Aeronautical radio"
+        },
+        {
+            "bbox": [
+                239.00000000000003,
+                1028.0,
+                457.0,
+                1046.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Amateurfunkdienst",
+            "uuid": "55eb8900-f8a4-4913-b1c3-55d154b8b14d",
+            "vertical": false,
+            "translation": "Amateur radio service"
+        },
+        {
+            "bbox": [
+                238.8896605328902,
+                1134.0,
+                408.5359412011746,
+                1218.98833069
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Seefunkdienst/ Binnenschiff-fahrtsfunk",
+            "uuid": "a21b074e-179c-4bf8-b100-2f95837f5136",
+            "vertical": false,
+            "translation": "Marine radio service/inland navigation radio"
+        },
+        {
+            "bbox": [
+                238.8896605328902,
+                1242.9999999999998,
+                479.51040556239565,
+                1298.6182175342972
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Nichtnavigatorischer Ortungsfunkdienst",
+            "uuid": "bc61ffe5-486e-41b2-8961-22ebf2507c0c",
+            "vertical": false,
+            "translation": "Non-navigational positioning service"
+        },
+        {
+            "bbox": [
+                236.16640479124337,
+                1323.301836784657,
+                463.3186101771609,
+                1379.4865902999522
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Sonstige Funkanwendungen",
+            "uuid": "66a65a2b-9115-4a7c-a14a-f6d12111f239",
+            "vertical": false,
+            "translation": "Other radio applications"
+        },
+        {
+            "bbox": [
+                776.0,
+                40.00000000000001,
+                1512.0,
+                89.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz sowie des Bundesamts für Justiz - www.gesetze-im-internet.de",
+            "uuid": "3c42e1a1-53e5-4b3d-93df-6d92992ebaf0",
+            "vertical": false,
+            "translation": "A service of the Federal Ministry of Justice and Consumer Protection and the Federal Office of Justice - www.gesetze-im-internet.de"
+        },
+        {
+            "bbox": [
+                673.0,
+                243.0,
+                840.0,
+                265.0
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Nutzergruppen",
+            "uuid": "8f167fd2-32a3-41ef-9360-1a83141ec1f7",
+            "vertical": false,
+            "translation": "User groups"
+        },
+        {
+            "bbox": [
+                750.0561985510061,
+                342.97176483553505,
+                765.0000000000001,
+                363.3798240150598
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "04215ba0-d1fa-45a4-898e-ba69fdfb01b3",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                550.0,
+                383.0,
+                932.9999999999999,
+                528.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "zur vorübergehenden Einrichtung einer Fernseh-, Ton- und Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke",
+            "uuid": "a37bc37a-f71b-4713-a18a-f6fb7b66a562",
+            "vertical": false,
+            "translation": "for the temporary installation of a television, sound and signalling line, temporary installation of an image, sound or signal transmission link"
+        },
+        {
+            "bbox": [
+                551.0,
+                549.0,
+                923.0,
+                632.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie-und Kommandofunk)",
+            "uuid": "82155bab-a943-46c5-b69b-f436a48ee800",
+            "vertical": false,
+            "translation": "Communication radio (wireless microphones, guidance radio, control and command radio)"
+        },
+        {
+            "bbox": [
+                549.3369341500327,
+                656.4155443516482,
+                956.5377384850218,
+                775.5025720345225
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte",
+            "uuid": "f06e9df2-7066-48c9-82dd-c269b70ea1e9",
+            "vertical": false,
+            "translation": "Rental radiotelephone, radio system for remote control of models, wireless microphone system for the hearing-impaired"
+        },
+        {
+            "bbox": [
+                551.2576926610468,
+                842.7291199200162,
+                870.1036054893873,
+                933.0047699376788
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "stationäre Bodenfunkstellen, ortfeste Flugnavigationsfunkstellen",
+            "uuid": "37ddd135-c23f-4355-a70f-5341afede1b7",
+            "vertical": false,
+            "translation": "stationary ground stations, fixed air navigation stations"
+        },
+        {
+            "bbox": [
+                551.0,
+                949.0,
+                836.0,
+                999.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "übrige Bodenfunkstellen, Luftfunkstellen",
+            "uuid": "91c9edfa-3ed8-444e-be7e-0a20684e05e2",
+            "vertical": false,
+            "translation": "other ground stations, air stations"
+        },
+        {
+            "bbox": [
+                550.0,
+                1028.0,
+                700.0,
+                1046.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Amateurfunk",
+            "uuid": "c8c45d2a-ca67-478e-9542-5d787d421373",
+            "vertical": false,
+            "translation": "Amateur radio"
+        },
+        {
+            "bbox": [
+                550.4848699236167,
+                1132.3763748261529,
+                806.4788020937068,
+                1189.5598942475428
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Seefunk/Binnenschiff-fahrtfunk",
+            "uuid": "4eda395d-28ca-4783-9f17-beea205a238e",
+            "vertical": false,
+            "translation": "Maritime radio/inland navigation radio"
+        },
+        {
+            "bbox": [
+                551.0,
+                1488.0,
+                666.0,
+                1511.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "WLL/DECT",
+            "uuid": "b0d7c9e5-76b8-4874-88e7-64949dafa32d",
+            "vertical": false,
+            "translation": "WLL/DECT"
+        },
+        {
+            "bbox": [
+                551.0,
+                1242.9999999999998,
+                788.0,
+                1296.9999999999998
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Nichtnavigatorischer Ortungsfunk",
+            "uuid": "5ff87afc-816b-4445-89c9-a0c84fa2aa68",
+            "vertical": false,
+            "translation": "Non-navigational radio locator"
+        },
+        {
+            "bbox": [
+                552.0,
+                1396.0,
+                871.9999999999999,
+                1421.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Demonstrationsfunkanlagen",
+            "uuid": "67e780ef-f1d2-4a53-84bb-65fc0a0c6edc",
+            "vertical": false,
+            "translation": "Demonstration radio systems"
+        },
+        {
+            "bbox": [
+                550.0,
+                1445.0,
+                793.0,
+                1467.0
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Versuchsfunkanlagen",
+            "uuid": "5c787a90-270b-45a1-aecc-06f1c96139bb",
+            "vertical": false,
+            "translation": "Test radio equipment"
+        },
+        {
+            "bbox": [
+                840.0,
+                2118.0,
+                943.0000000000001,
+                2175.0
+            ],
+            "order": "77",
+            "label": "Formula",
+            "text": "A = πr²/36",
+            "uuid": "281b9b70-f878-490b-897b-b3135405c0a8",
+            "vertical": false,
+            "translation": "A = πr²/36"
+        },
+        {
+            "bbox": [
+                1037.0,
+                242.0,
+                1197.0,
+                264.0
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Bezugseinheit",
+            "uuid": "57b23b7b-dd27-433c-8b26-37c338ccc05f",
+            "vertical": false,
+            "translation": "Reference unit"
+        },
+        {
+            "bbox": [
+                766.3205505169882,
+                2270.9699869180117,
+                940.0,
+                2296.283676499053
+            ],
+            "order": "78",
+            "label": "Page-footer",
+            "text": "- Seite 6 von 78 -",
+            "uuid": "ef9a947d-dc3a-48ee-a64d-0d690ea50a27",
+            "vertical": false,
+            "translation": "- Page 6 of 78 -"
+        },
+        {
+            "bbox": [
+                982.0000000000001,
+                550.0,
+                1180.0,
+                574.0
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Sendefunkanlage",
+            "uuid": "5540e562-1695-414e-9185-3a97ef75aa96",
+            "vertical": false,
+            "translation": "Transmitter"
+        },
+        {
+            "bbox": [
+                983.4283576392194,
+                836.9668443869739,
+                1104.4361438331075,
+                861.9367050301571
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Funkstelle",
+            "uuid": "b6a4b349-a806-4bc7-81b4-68bbb79b840d",
+            "vertical": false,
+            "translation": "Radio station"
+        },
+        {
+            "bbox": [
+                983.0,
+                950.0,
+                1097.0,
+                968.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Funkstelle",
+            "uuid": "ff9d2764-0f87-4e8d-9189-a22a63c6ec21",
+            "vertical": false,
+            "translation": "Radio station"
+        },
+        {
+            "bbox": [
+                1108.5599288658666,
+                343.1282954352204,
+                1122.9387396586874,
+                363.5369301089017
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "100d943d-e066-48d4-a2a6-01bda5df1f92",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                980.0,
+                1027.0,
+                1200.0,
+                1107.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "je Zulassung zur Teilnahme am Amateurfunkdienst",
+            "uuid": "2531c755-86b9-4bed-be48-54a327e8b1e8",
+            "vertical": false,
+            "translation": "per license to participate in the amateur radio service"
+        },
+        {
+            "bbox": [
+                984.0,
+                1136.0,
+                1096.0,
+                1154.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Funkstelle",
+            "uuid": "975194e8-7caf-46eb-b8b8-b7bebb8d26b5",
+            "vertical": false,
+            "translation": "Radio station"
+        },
+        {
+            "bbox": [
+                982.0000000000001,
+                1242.0,
+                1181.0,
+                1267.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Sendefunkanlage",
+            "uuid": "b7365d3a-8a7e-4b97-9a0f-f2441d5fd458",
+            "vertical": false,
+            "translation": "Transmitter"
+        },
+        {
+            "bbox": [
+                982.0000000000001,
+                1396.0,
+                1180.0,
+                1423.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Sendefunkanlage",
+            "uuid": "994082d0-0d0e-428d-8a99-cc318f573b68",
+            "vertical": false,
+            "translation": "Transmitter"
+        },
+        {
+            "bbox": [
+                980.9999999999999,
+                1444.0,
+                1089.0,
+                1468.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Zuteilung",
+            "uuid": "1e57c77f-91c3-4714-be49-4ac2ef790752",
+            "vertical": false,
+            "translation": "Allocation"
+        },
+        {
+            "bbox": [
+                982.0000000000001,
+                1489.0,
+                1180.0,
+                1515.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Sendefunkanlage",
+            "uuid": "2819255e-e32f-41bb-b2f2-516e8a57fee8",
+            "vertical": false,
+            "translation": "Transmitter"
+        },
+        {
+            "bbox": [
+                1327.0000000000002,
+                185.82970915319387,
+                1513.557706679111,
+                270.3430836378144
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Jahresbeitrag je Bezugseinheit (in Euro)",
+            "uuid": "1336a579-cd6f-41eb-a263-db1c949beba6",
+            "vertical": false,
+            "translation": "Annual contribution per reference unit (in euros)"
+        },
+        {
+            "bbox": [
+                1316.0,
+                296.0,
+                1360.0,
+                314.0
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "TKG",
+            "uuid": "378e768a-ca29-4ad4-b8d8-bb495a2dbc59",
+            "vertical": false,
+            "translation": "TKG"
+        },
+        {
+            "bbox": [
+                1331.0,
+                344.0,
+                1345.0,
+                362.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "094c531d-6f45-494a-a49c-60334a5507a2",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1358.0,
+                551.0,
+                1407.0,
+                571.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "5,00",
+            "uuid": "e01e1957-2d93-41d2-b452-bd6c7a7deb51",
+            "vertical": false,
+            "translation": "5.00"
+        },
+        {
+            "bbox": [
+                1360.0,
+                842.0,
+                1409.0,
+                863.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "8,03",
+            "uuid": "43b36ff7-c040-4837-9e4d-8ed1144edc2e",
+            "vertical": false,
+            "translation": "8.03"
+        },
+        {
+            "bbox": [
+                1273.0,
+                656.0000000000002,
+                1415.599022617392,
+                683.3061635058457
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "kein Beitrag",
+            "uuid": "0ee012ed-71e0-4e30-8d66-aa4676d00261",
+            "vertical": false,
+            "translation": "no contribution"
+        },
+        {
+            "bbox": [
+                1357.0,
+                950.0,
+                1408.0,
+                969.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "4,62",
+            "uuid": "7fadcd61-13d0-44f2-8728-90bbdb2b31e0",
+            "vertical": false,
+            "translation": "4.62"
+        },
+        {
+            "bbox": [
+                1360.0,
+                1029.0,
+                1409.0,
+                1048.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "1,18",
+            "uuid": "5eaa405c-f8e9-470f-b175-42d9cd1c1ec1",
+            "vertical": false,
+            "translation": "1.18"
+        },
+        {
+            "bbox": [
+                1344.9943601932264,
+                1136.0,
+                1410.855176631736,
+                1158.8816972854902
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "15,13",
+            "uuid": "4b45a242-2a8f-43dd-8c52-2a1ed5356405",
+            "vertical": false,
+            "translation": "15.13"
+        },
+        {
+            "bbox": [
+                1359.3314086696366,
+                1242.2468092075778,
+                1409.0,
+                1268.4798649949164
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "2,08",
+            "uuid": "719aaedf-5ad1-4130-b074-5704043cc717",
+            "vertical": false,
+            "translation": "2.08"
+        },
+        {
+            "bbox": [
+                1467.0000000000002,
+                295.3129442809977,
+                1534.686050300266,
+                320.28280492418105
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "EMVG 6",
+            "uuid": "f616a1b7-ec77-4262-a76b-00fe0f24a7fe",
+            "vertical": false,
+            "translation": "EMCD 6"
+        },
+        {
+            "bbox": [
+                1359.7794414345244,
+                1399.0,
+                1408.1669800424086,
+                1420.5328319799753
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "1,10",
+            "uuid": "73fe18ce-c90d-4116-9032-3eae93eafa04",
+            "vertical": false,
+            "translation": "1.10"
+        },
+        {
+            "bbox": [
+                1360.0,
+                1445.0,
+                1411.0,
+                1465.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "1,92",
+            "uuid": "e6659250-34ce-4df1-a10d-7dba2c12d93e",
+            "vertical": false,
+            "translation": "1.92"
+        },
+        {
+            "bbox": [
+                1345.0,
+                1492.0,
+                1408.0,
+                1510.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "30,00",
+            "uuid": "2f0aea29-b6d6-4263-95b1-a8f166712fc5",
+            "vertical": false,
+            "translation": "30.00"
+        },
+        {
+            "bbox": [
+                1519.0000000000002,
+                549.34553924541,
+                1569.9159448051125,
+                574.2116516598641
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "0,93",
+            "uuid": "acc2c74f-a5a7-466a-923c-b5908bb085d2",
+            "vertical": false,
+            "translation": "0.93"
+        },
+        {
+            "bbox": [
+                1505.0,
+                843.0,
+                1569.0,
+                863.0
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "78,75",
+            "uuid": "2a7232ef-1ec3-478a-a0e7-80b2240eca6d",
+            "vertical": false,
+            "translation": "78.75"
+        },
+        {
+            "bbox": [
+                1505.0,
+                950.0,
+                1568.0,
+                970.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "24,66",
+            "uuid": "a68ed728-edee-497f-bf60-4e4541f8e72c",
+            "vertical": false,
+            "translation": "24.66"
+        },
+        {
+            "bbox": [
+                1506.0,
+                1028.0,
+                1569.0,
+                1048.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "11,40",
+            "uuid": "d457d862-ac38-4a3a-a3f5-70ecfd3a4095",
+            "vertical": false,
+            "translation": "11.40"
+        },
+        {
+            "bbox": [
+                1521.0,
+                1136.0,
+                1568.9395847222368,
+                1157.0895662259388
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "1,61",
+            "uuid": "1a873fe8-eff5-440b-ab52-b2a86bd2abb3",
+            "vertical": false,
+            "translation": "1.61"
+        },
+        {
+            "bbox": [
+                1519.0,
+                1245.0,
+                1571.0,
+                1264.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "0,14",
+            "uuid": "fc6d66c7-b09d-4f83-a3e1-9787d5593e9f",
+            "vertical": false,
+            "translation": "0.14"
+        },
+        {
+            "bbox": [
+                145.0,
+                1539.9999999999998,
+                610.0,
+                1569.0
+            ],
+            "order": "73",
+            "label": "Text",
+            "text": "*) Theoretische Versorgungsfläche:",
+            "uuid": "351bb68a-97b8-4566-8973-2c8ff7ed2fa9",
+            "vertical": false,
+            "translation": "*) Theoretical coverage area:"
+        },
+        {
+            "bbox": [
+                197.0,
+                1576.0,
+                1550.0,
+                1732.0
+            ],
+            "order": "74",
+            "label": "Text",
+            "text": "Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.",
+            "uuid": "82aa6745-d515-47a0-92b4-b7186ba13efb",
+            "vertical": false,
+            "translation": "The theoretical coverage area is a calculation variable to determine the contribution amount. For all radio services, it is based on the international distribution curves of the ITU-R P.370, as well as the applicable national guidelines (currently 176 TR 22 and 5 R 22 from March 1992) and other national and international regulations, such as Wiesbaden 1995 and Maastricht 2002 for T-DAB and Chester 1997 for DVB-T."
+        },
+        {
+            "bbox": [
+                197.0,
+                1742.0,
+                1523.0,
+                1970.0
+            ],
+            "order": "75",
+            "label": "Text",
+            "text": "Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.23, Tabelle 1, Position ,,Medianwert der Mindestfeldstärke\") und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position ,,Medianwert für die minimale äquivalente Feldstärke\") zu entnehmen. In Gleichwellennetzen unterbleibt eine Mehrfachveranschlagung von Theoretischen Versorgungsflächen verschiedener Sender.",
+            "uuid": "c1649110-00b9-41f5-b45b-a44f2f26e450",
+            "vertical": false,
+            "translation": "The details for the respective frequency-dependent minimum useful field strength are taken from the ITU-R BT.417 for TV analog, the 1984 Geneva Agreement for the operation of a channel in band II in analog transmission technology (FM sound broadcasting), the 1995 Wiesbaden Agreement for the operation of a T-DAB channel (Point 2.23, Table 1, item \"Median value of the minimum field strength\") and the 1997 Chester Agreement for the operation of a DVB-T channel (Table A.1.50, Item \"Median value for the minimum equivalent field strength\"). In single-wave networks, there is no multiple estimation of theoretical coverage areas of different transmitters."
+        },
+        {
+            "bbox": [
+                198.0,
+                1976.0,
+                1536.0,
+                2103.0
+            ],
+            "order": "76",
+            "label": "Text",
+            "text": "Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement",
+            "uuid": "df6825ff-2ac1-44a9-a649-0627c13a6ef4",
+            "vertical": false,
+            "translation": "On the basis of these distribution curves, a minimum useful field strength contour for a transmitter is calculated in accordance with the applicable international agreements. This results in a distance R from the transmitter site to the point at which the minimum useful field strength is reached for each 10° step. From this, an area element can be calculated for each of the 36 directions"
+        },
+        {
+            "bbox": [
+                1519.0,
+                1397.0,
+                1569.0,
+                1420.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "0,61",
+            "uuid": "90187944-0f2f-4462-b14f-f7a3bb2dcbe8",
+            "vertical": false,
+            "translation": "0.61"
+        },
+        {
+            "bbox": [
+                1506.0,
+                1444.0,
+                1569.0,
+                1463.9999999999998
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "13,03",
+            "uuid": "c9feea46-b844-49f0-aa21-791eed0d12e4",
+            "vertical": false,
+            "translation": "13.03"
+        },
+        {
+            "bbox": [
+                1521.0,
+                1490.9999999999998,
+                1569.0,
+                1510.0
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "1,45",
+            "uuid": "fd5faa54-a3a7-4fac-b726-477e3f115853",
+            "vertical": false,
+            "translation": "1.45"
+        },
+        {
+            "bbox": [
+                1488.2306991398677,
+                337.56963152330786,
+                1511.2748003820107,
+                368.3017676995335
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "f72e3f75-daf4-4604-a4da-2b29cc5849fb",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1430.621696257018,
+                650.6532688186062,
+                1572.726987250231,
+                687.147680527874
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "kein Beitrag",
+            "uuid": "c7a8c515-5d6e-4d95-9c43-b6ededc0b3ae",
+            "vertical": false,
+            "translation": "no contribution"
+        },
+        {
+            "bbox": [
+                134.19046074696578,
+                177.947982865767,
+                1580.8654382577427,
+                1529.1382973264217
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "Nr . 4.7 4.8 5 . 5.1 1 5.2 6 . 7 . 8 . 9 . 9.1 9.2 9.3 Funkdienst / Funkanwendung 2 Flugfunkdienst Amateurfunkdienst Seefunkdienst / Binnenschiff fahrtsfunk Nichtnavigatorischer Ortungsfunkdienst Sonstige Funkanwendungen Nutzergruppen 3 zur vorübergehenden Einrichtung einer Fernseh- , Ton- und Meldeleitung , vorübergehende Einrichtung einer Bild- , Ton- oder Meldeübertragungsstrecke Durchsagefunk ( drahtlose Mikrofone , Führungsfunk , Regie und Kommandofunk ) Mietsprechfunkgerät , Funkanlage zur Fernsteuerung von Modellen , drahtlose Mikrofonanlage für Hörgeschädigte stationäre Bodenfunkstellen , ortsfeste fahrtsfunk Flugnavigationsfunkstellen übrige Bodenfunkstellen , Luftfunkstellen Amateurfunk Seefunk / Binnenschiff WLL / DECT Nichtnavigatorischer Ortungsfunk Demonstrationsfunkanlagen Versuchsfunkanlagen Bezugseinheit Sendefunkanlage Funkstelle Funkstelle 4 je Zulassung zur Teilnahme am Amateurfunkdienst Funkstelle Sendefunkanlage Sendefunkanlage Zuteilung Sendefunkanlage Jahresbeitrag je Bezugseinheit ( in Euro ) TKG 5 5,00 8,03 kein Beitrag kein Beitrag 4,62 1,18 15,13 2,08 EMVG 6 1,10 1,92 30,00 0,93 78,75 24,66 11,40 1,61 0,14 0,61 13,03 1,45",
+            "uuid": "4a82cfd3-cd55-4a1c-b153-f374ad85f2e4",
+            "vertical": false,
+            "translation": "No. 4.7 4.8 5 . 5.1 1 5.2 6. 7. 8. 9 . 9.1 9.2 9.3 Radio service/radio application 2 Aeronautical radio Amateur radio service Maritime radio service/inland navigation radio Non-navigational positioning service Other radio applications User groups 3 for the temporary establishment of a television , sound and signalling line, temporary establishment of an image, sound or signalling transmission link Communication radio (wireless microphones, guidance radio, control and command radio) Rental radiotelephone, radio system for the remote control of models, wireless microphone system for the hearing-impaired stationary ground stations, fixed radiotelephone air navigation stations other ground radio stations, air stations Amateur radio/inland navigation WLL/ DECT Non-navigational positioning radio demonstration radio systems Test radio equipment Reference unit radio installation Radio station Radio station 4 per license to participate in the amateur radio service Radio station transmitter transmitter allocation transmitter annual contribution per reference unit (in euros) TKG 5 5.00 8.03 no contribution no contribution 4.62 1.18 15.13 2.08 EMCD 6 1.10 1.92 30.00 0.93 78.75 24.66 11.40 1.61 0.14 0.61 13.03 1.45"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

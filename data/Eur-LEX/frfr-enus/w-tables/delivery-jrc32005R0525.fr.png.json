@@ -1,0 +1,315 @@
+{
+    "file": "jrc32005R0525.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                111.31982549280667,
+                123.73547269314737,
+                205.94167716169235,
+                149.71009864146885
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "2.4.2005",
+            "uuid": "d9eb0363-b482-433b-b7b2-855ddab1fd23",
+            "vertical": false,
+            "translation": "2.4.2005"
+        },
+        {
+            "bbox": [
+                330.24881562865977,
+                120.02481184338706,
+                356.2234415769814,
+                142.28877694194847
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "00c66678-bf92-4fbb-b633-af31eb21780f",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                619.6803619099571,
+                121.88014226826722,
+                1011.1550815596606,
+                153.42075949122918
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "9c66c1bb-b888-4e78-a541-6d9642850ca5",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1437.8810792820861,
+                121.88014226826722,
+                1528.7922701012117,
+                151.56542906634903
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 84/15",
+            "uuid": "d2992c86-e809-404a-b632-00ba339ed6fe",
+            "vertical": false,
+            "translation": "L 84/15"
+        },
+        {
+            "bbox": [
+                773.6727871750063,
+                223.92331563667324,
+                868.2946388438919,
+                244.3319503103545
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "8f6dc5ea-91ce-4f0f-ba6b-f6601a532977",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                245.85708940980484,
+                274.1846006598424,
+                1396.3914375072509,
+                335.64887301229373
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Délivrance des certificats d'exportation du système A3 dans le secteur des fruits et légumes (tomates, oranges, citrons et pommes)",
+            "uuid": "f2bbc8a3-d05d-45b8-845f-49e8e55b35f3",
+            "vertical": true,
+            "translation": "Issue of A3 export licenses in the fruits and vegetables sector (tomatoes, oranges, lemons and apples)"
+        },
+        {
+            "bbox": [
+                243.93633089879071,
+                374.0640432325756,
+                1390.6291619742085,
+                675.6231294617895
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "876d6115-4b8f-46f8-a33a-ebaaa54cf088",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                393.7554947578905,
+                395.19238685373074,
+                468.6650766874404,
+                424.00376451894226
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Produit",
+            "uuid": "323c9476-29bf-4439-bf1e-3dfa52421302",
+            "vertical": false,
+            "translation": "Product"
+        },
+        {
+            "bbox": [
+                697.2353394981184,
+                387.5093528096745,
+                941.171670396909,
+                435.528315585027
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Taux de restitution maximal (en EUR/t net)",
+            "uuid": "2b6f3d86-c59a-4d8d-934a-6a3be085e759",
+            "vertical": true,
+            "translation": "Maximum refund rate (in EUR/t net)"
+        },
+        {
+            "bbox": [
+                1033.368078925586,
+                377.90556025460387,
+                1381.0253694191379,
+                447.05286665111146
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Pourcentages de délivrance des quantités demandées au niveau du taux de restitution maximal",
+            "uuid": "f1ad0d4e-d0ec-41c2-8be0-3836cee86809",
+            "vertical": true,
+            "translation": "Percentages of issue of quantities applied for at the level of the maximum refund rate"
+        },
+        {
+            "bbox": [
+                251.6193649428471,
+                473.9434858053089,
+                336.1327394274675,
+                496.9925879374781
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Tomates",
+            "uuid": "dd449e70-03c9-4056-a8f7-9002576d2ee7",
+            "vertical": false,
+            "translation": "Tomatoes"
+        },
+        {
+            "bbox": [
+                806.7185746259219,
+                466.2604517612524,
+                835.5299522911336,
+                498.9133464484922
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "45",
+            "uuid": "46f42fd2-8b5a-418b-b922-77a3729fcf22",
+            "vertical": false,
+            "translation": "45"
+        },
+        {
+            "bbox": [
+                1179.3457257626574,
+                468.1812102722665,
+                1238.8892396040944,
+                498.9133464484922
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "100 %",
+            "uuid": "d1bb9605-17d9-425c-bc11-a6c7740381fc",
+            "vertical": false,
+            "translation": "100%"
+        },
+        {
+            "bbox": [
+                251.6193649428471,
+                523.8832070916756,
+                336.1327394274675,
+                548.8530677348588
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Oranges",
+            "uuid": "dc1af164-c45d-496d-bfe5-f0f2b59ebe48",
+            "vertical": false,
+            "translation": "Oranges"
+        },
+        {
+            "bbox": [
+                810.5600916479501,
+                518.1209315586332,
+                839.3714693131617,
+                546.9323092238448
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "7e722a2f-29d4-4032-85ea-d99b57ccb3e8",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1175.504208740629,
+                520.0416900696473,
+                1240.8099981151088,
+                552.694584756887
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "100 %",
+            "uuid": "3c4d6a86-62e6-44ea-a0e7-062d2a546a3a",
+            "vertical": false,
+            "translation": "100%"
+        },
+        {
+            "bbox": [
+                249.69860643183299,
+                573.8229283780421,
+                320.7666713393547,
+                602.6343060432537
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Citrons",
+            "uuid": "6fb9828d-a73e-46e3-b442-76e075548003",
+            "vertical": false,
+            "translation": "Lemons"
+        },
+        {
+            "bbox": [
+                806.7185746259219,
+                575.7436868890562,
+                841.2922278241758,
+                598.7927890212254
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "70",
+            "uuid": "ada92251-f510-4b75-866e-528b2f5afd95",
+            "vertical": false,
+            "translation": "70"
+        },
+        {
+            "bbox": [
+                1179.3457257626574,
+                575.7436868890562,
+                1238.8892396040944,
+                606.4758230652819
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "100 %",
+            "uuid": "13e96f66-a1fe-4720-8428-c09f35fcf050",
+            "vertical": false,
+            "translation": "100%"
+        },
+        {
+            "bbox": [
+                251.6193649428471,
+                625.6834081754229,
+                338.05349793848154,
+                654.4947858406344
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Pommes",
+            "uuid": "5181bb55-d050-49e6-a8cc-179f4039a062",
+            "vertical": true,
+            "translation": "Apples"
+        },
+        {
+            "bbox": [
+                808.639333136936,
+                619.9211326423805,
+                839.3714693131617,
+                654.4947858406344
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "55",
+            "uuid": "fecf736c-2ce4-4b93-af49-a61e3e90565c",
+            "vertical": false,
+            "translation": "55"
+        },
+        {
+            "bbox": [
+                1179.3457257626574,
+                621.8418911533946,
+                1240.8099981151088,
+                650.6532688186062
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "100 %",
+            "uuid": "89d3fe35-6e67-4946-bd61-47ac0b57455e",
+            "vertical": false,
+            "translation": "100%"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,553 @@
+{
+    "file": "b6bb5da6390bd0c8f70d737e9f581e0ebca0fd602862c0ce1103472b26ec384f.png",
+    "annotations": [
+        {
+            "bbox": [
+                266.3862828300073,
+                622.7736204558548,
+                1013.1412724026508,
+                662.0765146438887
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "1.1 Contracting authority: who is the buyer?",
+            "uuid": "992de826-e595-409c-bbad-87fc60466292",
+            "vertical": false,
+            "translation": "1.1 Pouvoir adjudicateur : qui est l'acheteur ?"
+        },
+        {
+            "bbox": [
+                266.0,
+                704.3122080571616,
+                1068.4564568154392,
+                742.1379657676613
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1.2 Subject: what is this call for tenders about?",
+            "uuid": "06ad1d64-577b-4a14-a59c-69ed5f40bb7d",
+            "vertical": false,
+            "translation": "1.2 Objet : de quoi traite cet appel d'offres ?"
+        },
+        {
+            "bbox": [
+                266.3862828300073,
+                785.80784819881,
+                1084.4687470401936,
+                822.1994168914339
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "1.3 Lots: is this call for tenders divided into lots?",
+            "uuid": "101c1046-f5e1-4c64-a679-55a8e0ac9df5",
+            "vertical": false,
+            "translation": "1.3 Lots : l'appel d'offres est-il divisé en lots ?"
+        },
+        {
+            "bbox": [
+                1374.1456338334804,
+                627.1406086989697,
+                1401.8032260398743,
+                654.7982009053638
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "4d80c2fa-f938-4c6b-a881-f45aea7dba36",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                267.0,
+                866.0,
+                1359.0000000000002,
+                932.0000000000001
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "1.4 Description: what do we want to buy through this call for tenders?",
+            "uuid": "cc249081-1ba0-4af8-9593-7acc365af25c",
+            "vertical": false,
+            "translation": "1.4 Description : que voulons-nous acheter dans le cadre de cet appel d’offres ?"
+        },
+        {
+            "bbox": [
+                1378.512622076595,
+                906.6278562583216,
+                1401.8032260398743,
+                934.2854484647157
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "9d9836fb-33aa-4cc3-b148-d5655acfbb46",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1377.0569593288901,
+                707.2020598227423,
+                1400.3475632921698,
+                737.7709775245464
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "3e35896f-c0e3-42be-99a3-2eb8087cbf47",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                266.0,
+                986.0000000000001,
+                1352.310692617906,
+                1017.2582250838983
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "1.5 Place of performance: where will the contract be performed?",
+            "uuid": "45363f41-aba7-4f72-9c26-5fd48a098ead",
+            "vertical": false,
+            "translation": "1.5 Lieu d'exécution : où le contrat sera-t-il exécuté ?"
+        },
+        {
+            "bbox": [
+                266.3862828300073,
+                1063.8394330104568,
+                1356.6776808610207,
+                1098.775338955376
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1.6 Nature of the contract: how will the contract be implemented?",
+            "uuid": "956566c3-0aee-4af6-8764-3d88bf7f7d81",
+            "vertical": false,
+            "translation": "1.6 Nature du contrat : comment le contrat sera-t-il mis en œuvre ?"
+        },
+        {
+            "bbox": [
+                1378.512622076595,
+                784.352185451105,
+                1400.3475632921698,
+                813.4654404052042
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "8f1f37e0-6c91-488e-ac7b-38a99dd10e7c",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                266.0,
+                1175.8998813938465,
+                1361.0446691041357,
+                1255.9869157075113
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "1.7 Volume and value of the contract: how much do we plan to buy?",
+            "uuid": "631fcdc0-ba34-49c9-8708-e82c55b55bfb",
+            "vertical": false,
+            "translation": "1.7 Volume et valeur du contrat : combien prévoit-on d'acheter ?"
+        },
+        {
+            "bbox": [
+                1378.512622076595,
+                1226.8736607534122,
+                1400.3475632921695,
+                1255.9869157075113
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "9",
+            "uuid": "7baffde1-e90c-4696-b9a3-9056781460e2",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                266.0,
+                2063.879740683763,
+                628.8463070085419,
+                2097.359983880977
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "3.1. Exclusion criteria",
+            "uuid": "689b0fb2-ed50-4854-8e14-2178e5f15b2d",
+            "vertical": false,
+            "translation": "3.1 Critères d'exclusion"
+        },
+        {
+            "bbox": [
+                266.0,
+                1300.0,
+                1358.3359734033554,
+                1378.2625865147277
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "1.8 Duration of the contract: how long do we plan to use the contract?",
+            "uuid": "ed5cbb10-9f66-4919-a6ad-9385a60d728a",
+            "vertical": false,
+            "translation": "1.8 Durée du contrat : combien de temps prévoyons-nous d’utiliser le contrat ?"
+        },
+        {
+            "bbox": [
+                1365.0000000000002,
+                1342.261094062242,
+                1401.8032260398743,
+                1368.463023520931
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "f535a3eb-5479-4a34-aa31-6a2309511869",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1371.0000000000002,
+                1105.9999999999998,
+                1404.7145515352843,
+                1132.2555821525898
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": ".7",
+            "uuid": "9b920e76-9c73-49a0-820f-30ac4a4d87d6",
+            "vertical": false,
+            "translation": ".7"
+        },
+        {
+            "bbox": [
+                266.3862828300073,
+                1420.4768061981715,
+                1355.222018113316,
+                1499.0825945742395
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "1.9 Electronic exchange system: can exchanges under the contract be automated?",
+            "uuid": "bde74754-640d-4ef0-92e4-8b2149326f0d",
+            "vertical": false,
+            "translation": "1.9 Système d'échange électronique : les échanges au sein du contrat peuvent-ils être automatisés ?"
+        },
+        {
+            "bbox": [
+                1365.0000000000002,
+                1464.1466886293201,
+                1401.8032260398743,
+                1489.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "34f007d6-6b92-4a21-a01e-acf1047f1e87",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                265.0,
+                1623.0,
+                896.0,
+                1652.9999999999998
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "2.1 Legal basis: what are the rules?",
+            "uuid": "ce86b28b-7858-4ae1-acc2-1b48a463c7a4",
+            "vertical": false,
+            "translation": "2.1 Base juridique : quelles sont les règles ?"
+        },
+        {
+            "bbox": [
+                263.4749573345974,
+                1698.5083910098188,
+                1340.6653906362662,
+                1737.8112851978524
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "2.2 Rules on access to procurement: who may submit a tender?",
+            "uuid": "1b8df831-c7a9-4a97-81c0-3dea9ff5c890",
+            "vertical": false,
+            "translation": "2.2 Règles d'accès aux marchés : qui peut soumettre une offre ?"
+        },
+        {
+            "bbox": [
+                263.4749573345974,
+                1775.6585166381813,
+                1232.9463473060994,
+                1815.0000000000002
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "2.3 Registration in the Participant Register: why register?",
+            "uuid": "2b344840-6b8f-43f9-a664-b1d89e426626",
+            "vertical": false,
+            "translation": "2.3 Inscription au Registre des participants : pourquoi s’inscrire ?"
+        },
+        {
+            "bbox": [
+                263.4749573345974,
+                1857.175630509659,
+                1362.6982488212211,
+                1934.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "2.4 Ways to submit a tender: how can economic operators organise themselves to submit a tender?",
+            "uuid": "24031289-10bb-4218-9fd4-96e3e002c62d",
+            "vertical": false,
+            "translation": "2.4 Comment soumettre une offre : comment les opérateurs économiques peuvent-ils s'organiser pour soumettre une offre ?"
+        },
+        {
+            "bbox": [
+                1365.4116573472506,
+                1548.0000000000002,
+                1397.4362377967595,
+                1573.3213947071922
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "b7e4dd9e-743f-44bc-a4e4-8a87f99209fa",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1364.346049843733,
+                1618.446939886046,
+                1397.8262930409467,
+                1647.9999999999998
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "b2a631fd-3ada-415c-8d66-ec23ca2e3c25",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1365.0216021030633,
+                1902.586609715803,
+                1399.9575080479822,
+                1931.6998646699021
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "acad0aae-80be-4c8b-afee-dad55c4553e9",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                1362.8903870960278,
+                1982.3626268122855,
+                1400.7376185363566,
+                2012.9315445140894
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "17",
+            "uuid": "2d762d10-5bed-4316-a716-efafcba2f986",
+            "vertical": false,
+            "translation": "17"
+        },
+        {
+            "bbox": [
+                1365.0000000000002,
+                2060.968415188353,
+                1401.8032260398743,
+                2092.992995637862
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "17",
+            "uuid": "65323ce1-ee5b-4a97-8551-c472c79177c8",
+            "vertical": false,
+            "translation": "17"
+        },
+        {
+            "bbox": [
+                196.5144709401693,
+                78.35575281420063,
+                650.6812482241162,
+                159.8728666856782
+            ],
+            "order": "1",
+            "label": "Picture",
+            "text": "ECHA",
+            "uuid": "a250b872-cb1e-4d1e-9752-eaf98b7a9b2b",
+            "vertical": false,
+            "translation": "ECHA"
+        },
+        {
+            "bbox": [
+                192.14748269705444,
+                178.79648240584262,
+                650.6812482241162,
+                200.63142362141696
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EUROPEAN CHEMICALS AGENCY",
+            "uuid": "cc60de81-83f3-409a-a77f-1b8e7f798954",
+            "vertical": false,
+            "translation": "AGENCE EUROPÉENNE DES PRODUITS CHIMIQUES"
+        },
+        {
+            "bbox": [
+                665.2378757011658,
+                471.3846946945391,
+                988.3950056916664,
+                501.9536123963432
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "TABLE OF CONTENTS",
+            "uuid": "70037f5f-eb02-4050-b4b8-9fb3cacdc25b",
+            "vertical": false,
+            "translation": "TABLE DES MATIÈRES"
+        },
+        {
+            "bbox": [
+                1378.512622076595,
+                545.6234948274919,
+                1400.3475632921695,
+                577.6480752770009
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "88b83442-5a9e-4641-8fb5-3e5b70e43c80",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                1379.9682848243,
+                985.2336446343893,
+                1400.3475632921695,
+                1012.8912368407834
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "896d9861-6495-413f-9e97-d939fb4be32e",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1362.5003318518404,
+                1702.8753792529335,
+                1395.9805750490546,
+                1733.4442969547376
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "8462d5cf-5e0f-4c63-ab71-2e68e057db49",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1364.346049843733,
+                1781.4811676290012,
+                1397.8262930409467,
+                1814.9614108262151
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "949be1f2-016f-4a72-8b0c-46e75c95fc7a",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                848.6513819119904,
+                2190.5223997340945,
+                877.7646368660896,
+                2218.1799919404884
+            ],
+            "order": "39",
+            "label": "Page-footer",
+            "text": "2",
+            "uuid": "ea6443a5-5358-467e-9c3e-94c7bc3a429b",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                197.34363261412673,
+                542.1342925134778,
+                1114.8184158201545,
+                578.487066942396
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "1. SCOPE AND DESCRIPTION OF THE PROCUREMENT",
+            "uuid": "a549612f-0187-412a-bf8f-c6c26a0c22c6",
+            "vertical": false,
+            "translation": "1. PORTÉE ET DESCRIPTION DU MARCHÉ"
+        },
+        {
+            "bbox": [
+                192.15037912428124,
+                1540.9700470604175,
+                955.5586421315608,
+                1575.5917369927206
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "2. GENERAL INFORMATION ON TENDERING",
+            "uuid": "2ed9108d-2916-4658-b8fb-6666a33b9156",
+            "vertical": false,
+            "translation": "2. INFOS GÉNÉRALES SUR LES APPELS D'OFFRES"
+        },
+        {
+            "bbox": [
+                190.41929462766615,
+                1977.2033402074344,
+                706.2824746189798,
+                2011.8250301397375
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "3. EVALUATION AND AWARD",
+            "uuid": "867a8495-a117-4964-b82b-7241ded8e33e",
+            "vertical": false,
+            "translation": "3. ÉVALUATION ET ATTRIBUTION"
+        },
+        {
+            "bbox": [
+                174.81160370241426,
+                527.6297166030552,
+                1419.5907817902953,
+                2115.9728195935013
+            ],
+            "order": "4",
+            "label": "Table",
+            "text": "",
+            "uuid": "5886875c-48c8-4433-8921-c4e25146ab67",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

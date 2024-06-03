@@ -1,0 +1,385 @@
+{
+    "file": "jrc32005R0554.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                104.6281626807944,
+                112.6792162584222,
+                227.9262668556024,
+                153.24287454663616
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "12.4.2005",
+            "uuid": "05822e2a-8816-44da-9862-e75fca3fc5e0",
+            "vertical": false,
+            "translation": "12.4.2005"
+        },
+        {
+            "bbox": [
+                325.36299946884867,
+                120.34174827553038,
+                357.6336568095752,
+                141.8473209901457
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "50a13761-3202-4f72-a1c5-76a92c151304",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                639.105501392578,
+                119.44568274575487,
+                1003.0468036241041,
+                155.28830393678015
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "0df1bcf7-e1b7-447f-9e98-12228f308cda",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1432.3796960646366,
+                114.5564218495367,
+                1538.0161081371514,
+                156.1024497683002
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 93/33",
+            "uuid": "262cf4d9-d1a1-456f-b95f-28fec8511913",
+            "vertical": false,
+            "translation": "L 93/33"
+        },
+        {
+            "bbox": [
+                767.224832448349,
+                213.22823815660018,
+                876.3247334412745,
+                244.38775909567266
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "d4f1edfd-2016-4ae2-b49d-f27a7d6ff638",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                233.69640704304476,
+                272.0851110415152,
+                1388.3297662853477,
+                645.9993623103868
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "c18b39f6-9de8-4300-9408-eb4f625435d9",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1237.2532268205275,
+                277.2200033514648,
+                1384.3077198272558,
+                310.16793200104195
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "(EUR/100 Stück)",
+            "uuid": "489370fe-a630-42bf-aa6f-989121c7e3ac",
+            "vertical": true,
+            "translation": "(EUR/100 units)"
+        },
+        {
+            "bbox": [
+                701.0046481018483,
+                311.4351600260258,
+                911.4446984390632,
+                343.11586065061914
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "13. bis 26. April 2005",
+            "uuid": "0de3f615-2a76-4868-8e5a-21eaa55f741f",
+            "vertical": true,
+            "translation": "13 to 26 April 2005"
+        },
+        {
+            "bbox": [
+                273.7859916943698,
+                363.39150905035893,
+                442.39157419346367,
+                421.6839981996106
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Gemeinschaftlicher Erzeugerpreis",
+            "uuid": "e28b5a48-687a-42f8-8604-3d6f4415d869",
+            "vertical": true,
+            "translation": "Community producer price"
+        },
+        {
+            "bbox": [
+                512.1156872569987,
+                365.9259651003264,
+                670.5795805832148,
+                420.41677017462695
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Einblütige Nelken (Standard)",
+            "uuid": "864acd85-4fd5-47d0-ab95-94359a7b5549",
+            "vertical": false,
+            "translation": "Bloom carnations (standard)"
+        },
+        {
+            "bbox": [
+                730.1620044738721,
+                364.6587370753425,
+                902.5707204127951,
+                420.41677017462695
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Mehrblütige Nelken (Spray)",
+            "uuid": "e9a2c5e4-1113-425f-8cf7-fb2eecf272f5",
+            "vertical": true,
+            "translation": "Multiflorous carnations (spray)"
+        },
+        {
+            "bbox": [
+                955.8145885704037,
+                370.9948772002613,
+                1123.152459922888,
+                416.61508609967564
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Großblütige Rosen",
+            "uuid": "4f9d40f8-ecab-4e98-9e07-687c3ec1ae23",
+            "vertical": false,
+            "translation": "Large-flowered roses"
+        },
+        {
+            "bbox": [
+                1186.5380172533744,
+                374.7965612752124,
+                1356.411310899078,
+                411.5461739997407
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Kleinblütige Rosen",
+            "uuid": "7a9c6674-b898-4ab0-be9a-5afbb9297979",
+            "vertical": false,
+            "translation": "Small-flowered roses"
+        },
+        {
+            "bbox": [
+                555.2178662417296,
+                444.4941026493178,
+                626.2096904518742,
+                481.24371537384604
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "15,65",
+            "uuid": "65fa0011-c129-4f1e-b1b5-b5f6581d683b",
+            "vertical": false,
+            "translation": "15.65"
+        },
+        {
+            "bbox": [
+                783.4058726314807,
+                447.0285586992853,
+                846.7914299619672,
+                479.97648734886246
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "12,78",
+            "uuid": "695de0a5-c052-4829-948d-ded8e00b00a0",
+            "vertical": false,
+            "translation": "12.78"
+        },
+        {
+            "bbox": [
+                1006.5230344347929,
+                448.2957867242689,
+                1073.7117252051085,
+                482.5109433988299
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "22,47",
+            "uuid": "17a19709-ecff-4a1f-be0a-4613746a7339",
+            "vertical": false,
+            "translation": "22.47"
+        },
+        {
+            "bbox": [
+                1238.5141742643732,
+                447.0285586992853,
+                1309.5059984745183,
+                478.7092593238786
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "11,72",
+            "uuid": "3fe667ed-2275-4c3c-9962-9e003ab338c1",
+            "vertical": false,
+            "translation": "11.72"
+        },
+        {
+            "bbox": [
+                276.32141398758927,
+                510.38995994847187,
+                439.85615190024424,
+                567.4152210727399
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Gemeinschaftlicher Einfuhrpreis",
+            "uuid": "dfb80593-fafb-4688-8d9d-98656ab9d94d",
+            "vertical": false,
+            "translation": "Community import price"
+        },
+        {
+            "bbox": [
+                509.5802649637793,
+                515.4588720484069,
+                668.0441582899953,
+                564.8807650227725
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Einblütige Nelken (Standard)",
+            "uuid": "2ba628fc-c78e-4709-b94e-4d0c6a9ace75",
+            "vertical": true,
+            "translation": "Bloom carnations (standard)"
+        },
+        {
+            "bbox": [
+                727.6265821806525,
+                514.1916440234232,
+                901.3030092661854,
+                566.1479930477564
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Mehrblütige Nelken (Spray)",
+            "uuid": "3d0dc80b-4554-4b29-810a-a7dad3248658",
+            "vertical": true,
+            "translation": "Multiflorous carnations (spray)"
+        },
+        {
+            "bbox": [
+                957.0822997170136,
+                521.7950121733256,
+                1120.6170376296684,
+                553.475712797919
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Großblütige Rosen",
+            "uuid": "2be3445b-8366-47d1-a40b-a48312235008",
+            "vertical": true,
+            "translation": "Large-flowered roses"
+        },
+        {
+            "bbox": [
+                1186.5380172533744,
+                521.7950121733256,
+                1355.1435997524682,
+                557.27739687287
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Kleinblütige Rosen",
+            "uuid": "4c2b72cf-448f-4f93-9ac7-39e42f342bf5",
+            "vertical": true,
+            "translation": "Small-flowered roses"
+        },
+        {
+            "bbox": [
+                242.0932130291266,
+                596.5614656473657,
+                344.77781590451457,
+                635.8455344218618
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Jordanien",
+            "uuid": "c53b48a9-fb6c-4e54-a01b-1c687662eb25",
+            "vertical": true,
+            "translation": "Jordan"
+        },
+        {
+            "bbox": [
+                571.698111147656,
+                599.0959216973332,
+                613.5325789857769,
+                623.1732541720244
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "3957ddbc-2a43-46f4-9396-f5ac2704e8df",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                794.8152729509682,
+                604.1648337972682,
+                831.5788962026504,
+                624.440482197008
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "72e80ed1-de69-4a04-ab2c-547245be2943",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1021.7355681941096,
+                599.0959216973332,
+                1061.0346137390113,
+                624.440482197008
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "62c55a57-3786-4c1f-96ff-2e41496029a8",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1251.1912857304706,
+                597.8286936723496,
+                1290.490331275372,
+                624.440482197008
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "37d81a36-8f2b-4831-a918-894459f38e84",
+            "vertical": true,
+            "translation": "-"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

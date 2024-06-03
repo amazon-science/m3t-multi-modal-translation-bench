@@ -1,0 +1,371 @@
+{
+    "file": "jrc32002L0081.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                2171.848819575797,
+                115.82013842356442,
+                2200.962074529896,
+                219.17219351061667
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 276/30",
+            "uuid": "d829befa-05e8-491a-a6f1-abe553ff7079",
+            "vertical": true,
+            "translation": "L 276/30"
+        },
+        {
+            "bbox": [
+                2177.671470566617,
+                329.80256233619326,
+                2198.050749034486,
+                366.1941310288172
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "008a04eb-1715-45d1-9c83-ce46f74ea4fe",
+            "vertical": true,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                2167.4818313326823,
+                584.5435431845609,
+                2198.050749034486,
+                1070.734900918017
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "6becc9d5-aeea-4f4d-b014-e0a35507bd17",
+            "vertical": true,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                2173.304482323502,
+                1408.4486583855671,
+                2199.506411782191,
+                1536.5469801836034
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "12.10.2002",
+            "uuid": "66576dbd-cc58-4102-a2d1-bc86686c71f0",
+            "vertical": true,
+            "translation": "2002 年 10 月 12 日"
+        },
+        {
+            "bbox": [
+                1098.3390551885568,
+                117.82154786144902,
+                1174.7859496548058,
+                138.10337700555564
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "3cbf8f0e-0528-4902-af75-c13f0d40a664",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                144.51737529762346,
+                179.14340917843538,
+                786.5716686046223,
+                207.82624702376538
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "In Annex I the following row is added at the end of the table:",
+            "uuid": "11e70f82-2e38-4b0a-a2bf-f8d1f867c860",
+            "vertical": false,
+            "translation": "在附件一中，在表格末尾增加了以下一行："
+        },
+        {
+            "bbox": [
+                143.41418922664923,
+                225.47722415935283,
+                2133.561861264151,
+                772.6575153625685
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "bae81d6b-b720-4685-972f-698361de9a10",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                172.9105801766782,
+                256.2276869690359,
+                197.62502941349223,
+                271.66732196937807
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "No",
+            "uuid": "a36454d6-c164-460e-a03f-4c083d4783ce",
+            "vertical": false,
+            "translation": "编号"
+        },
+        {
+            "bbox": [
+                289.3553557326316,
+                241.81736096871657,
+                435.58251371711486,
+                288.1362659697433
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Common name, identification Nos",
+            "uuid": "74951d4d-ed0b-43d8-b05e-d410e9e9da0f",
+            "vertical": false,
+            "translation": "通用名称，识别编号"
+        },
+        {
+            "bbox": [
+                721.8582173768779,
+                253.1397599689673,
+                826.8946266333376,
+                274.75524896944654
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "IUPAC name",
+            "uuid": "858ce931-0607-426e-9fa1-0ece813eb3cf",
+            "vertical": false,
+            "translation": "IUPAC 名称"
+        },
+        {
+            "bbox": [
+                1095.6642620836906,
+                254.16906896899025,
+                1164.65876620313,
+                276.8138669694922
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Purity (¹)",
+            "uuid": "81e17fb4-40b0-4f78-8ffc-1f5c6467e87a",
+            "vertical": false,
+            "translation": "纯度  (¹)"
+        },
+        {
+            "bbox": [
+                1254.916615198878,
+                255.198377969013,
+                1383.6377049739513,
+                274.75524896944654
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Entry into force",
+            "uuid": "9789439a-ff38-48bd-ac8c-84385c64cd97",
+            "vertical": false,
+            "translation": "生效"
+        },
+        {
+            "bbox": [
+                1452.6322090933907,
+                255.198377969013,
+                1640.0501158058973,
+                274.75524896944654
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Expiration of inclusion",
+            "uuid": "2fd61841-424e-45ff-ada2-4a090916fe31",
+            "vertical": false,
+            "translation": "纳入期限"
+        },
+        {
+            "bbox": [
+                1820.259641491,
+                252.11045096894455,
+                1973.6951805028873,
+                277.8431759695152
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Specific provisions",
+            "uuid": "d72df50a-16c9-44e9-a734-951def4b569b",
+            "vertical": false,
+            "translation": "具体规定"
+        },
+        {
+            "bbox": [
+                169.8203545857209,
+                326.22069897058765,
+                202.77295356813966,
+                343.71895197097547
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "'39",
+            "uuid": "83986f59-56cc-4255-ab19-16834bcbe8fd",
+            "vertical": false,
+            "translation": "“39"
+        },
+        {
+            "bbox": [
+                243.09851268560348,
+                323.132771970519,
+                367.7005275878744,
+                345.77756997102114
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Flumioxazine",
+            "uuid": "baf0ccd6-26b6-4377-9f9a-e2b1478a3022",
+            "vertical": false,
+            "translation": "丙炔氟草胺"
+        },
+        {
+            "bbox": [
+                243.09759324924792,
+                361.2172049713633,
+                461.4085615077723,
+                385.9206209719108
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "CAS No 103361-09-7",
+            "uuid": "b4583e88-40f8-4590-8ea2-20679cffa144",
+            "vertical": false,
+            "translation": "CAS 编号 103361-09-7"
+        },
+        {
+            "bbox": [
+                242.06782453104736,
+                401.3602559722533,
+                394.47359482473416,
+                420.91712697268684
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "CICAP No 578",
+            "uuid": "3e2a4e37-6ba0-4dbc-ae88-d5b21e1b0805",
+            "vertical": false,
+            "translation": "CICAP 编号 578"
+        },
+        {
+            "bbox": [
+                515.9863035724034,
+                324.1620809705419,
+                1022.6325129270917,
+                374.5982219716601
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazin-6-yl)cyclohex-1-ene-1,2-dicarboximide",
+            "uuid": "126f20ac-256b-44d9-a06d-f848da51c0f7",
+            "vertical": false,
+            "translation": "N-(7-氟-3,4-二氢-3-氧代-4-丙-2-炔基-2H-1,4-苯并恶嗪-6-基)环己-1-烯-1,2-二甲酰亚胺"
+        },
+        {
+            "bbox": [
+                1066.7512067293203,
+                324.1620809705419,
+                1160.4601600855738,
+                349.8948059711122
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "960 g/kg",
+            "uuid": "cacb8cec-64ec-4173-8a78-8f5239d970e6",
+            "vertical": false,
+            "translation": "960 克/千克"
+        },
+        {
+            "bbox": [
+                1227.3951267686116,
+                324.1620809705419,
+                1379.8008970622984,
+                346.8068789710437
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "1 January 2003",
+            "uuid": "78bf247f-97a7-4d6c-9587-4e714d0ffd40",
+            "vertical": false,
+            "translation": "2003 年 1 月 1 日"
+        },
+        {
+            "bbox": [
+                1444.3411917573421,
+                325.19138997056467,
+                1641.0270169336545,
+                343.71895197097547
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "31 December 2012",
+            "uuid": "ec1798f7-3d35-465e-9548-32877b73bd28",
+            "vertical": false,
+            "translation": "2012 年 12 月 31 日"
+        },
+        {
+            "bbox": [
+                1683.2475343798783,
+                324.1620809705419,
+                2104.422940123918,
+                344.74826097099805
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Only uses as herbicide may be authorised.",
+            "uuid": "94b935c7-63ee-4ea3-a9a0-32c1b7eb74c9",
+            "vertical": false,
+            "translation": "只能授权用作除草剂。"
+        },
+        {
+            "bbox": [
+                1678.953766599524,
+                367.39305897150024,
+                2126.903159016779,
+                577.3720949761552
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "For the implementation of the uniform principles of Annex VI, the conclusions of the review report on flumioxazine, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 June 2002 shall be taken into account. In this overall assessment Member States:",
+            "uuid": "7ea29b9e-0169-45d5-8a7f-3e52e1fc0945",
+            "vertical": false,
+            "translation": "为了执行附件六的统一原则，应考虑到食物链和动物卫生常设委员会于 2002 年 6 月 28 日最后审定的关于丙炔氟草胺的审查报告的结论，特别是其附录一和附录二。在这项全面评估中，成员国："
+        },
+        {
+            "bbox": [
+                1679.9835353177248,
+                600.0168929766571,
+                2131.022233889582,
+                706.0357199790074
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "- must carefully consider the risk to aquatic plants and algae. Conditions of authorisation must include risk mitigation measures, where appropriate.",
+            "uuid": "7ed6ea27-82f6-4e53-8d7e-7fee6fea2de5",
+            "vertical": false,
+            "translation": "- 必须认真考虑对水生植物和藻类造成的风险。授权条件必须酌情包括风险缓解措施。"
+        },
+        {
+            "bbox": [
+                145.5796836576847,
+                733.7297486410331,
+                1029.7468665044532,
+                758.2109803683026
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "(¹) Further details on identity and specification of active substances are provided in the review report.'",
+            "uuid": "b1c11e53-d920-42bb-b0cd-847975898069",
+            "vertical": false,
+            "translation": "(¹) 审查报告中提供了关于活性物质的特性和规格的更多细节。”"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

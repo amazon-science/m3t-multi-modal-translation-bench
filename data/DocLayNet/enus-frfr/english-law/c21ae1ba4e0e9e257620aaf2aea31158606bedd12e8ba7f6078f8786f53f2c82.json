@@ -1,0 +1,371 @@
+{
+    "file": "c21ae1ba4e0e9e257620aaf2aea31158606bedd12e8ba7f6078f8786f53f2c82.png",
+    "annotations": [
+        {
+            "bbox": [
+                195.9095558733953,
+                397.98840026974506,
+                1461.7866861322573,
+                459.77526019904667
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "The Annexes constitutes an integral part of the specifications of the procurement procedure and consists of the following documents:",
+            "uuid": "2d684603-2fe8-44ee-81a5-02dc8c262218",
+            "vertical": false,
+            "translation": "Les Annexes font partie intégrante du cahier des charges de la procédure de passation de marché et se composent des documents suivants :"
+        },
+        {
+            "bbox": [
+                194.40255928975378,
+                81.51911770502943,
+                655.5435138840536,
+                162.8969332216706
+            ],
+            "order": "1",
+            "label": "Picture",
+            "text": "ECHA",
+            "uuid": "ec0e98f0-c8d2-4bce-87ac-839253e652fa",
+            "vertical": false,
+            "translation": "ECHA"
+        },
+        {
+            "bbox": [
+                188.3745729551878,
+                176.4599024744442,
+                660.064503634978,
+                197.55785464542527
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EUROPEAN CHEMICALS AGENCY",
+            "uuid": "3c7388fe-040d-415b-8d42-4ab5c5eba16a",
+            "vertical": false,
+            "translation": "AGENCE EUROPÉENNE DES PRODUITS CHIMIQUES"
+        },
+        {
+            "bbox": [
+                194.40255928975378,
+                315.10358816946234,
+                429.49402633782813,
+                352.7785027605001
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "5 ANNEXES",
+            "uuid": "5b14e5ce-e714-44b0-b855-d0e45b1a61d7",
+            "vertical": false,
+            "translation": "5 ANNEXES"
+        },
+        {
+            "bbox": [
+                233.58447046443285,
+                515.5341337937822,
+                810.7641619991283,
+                545.6740654666122
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "5.2 TECHNICAL DOCUMENTATION",
+            "uuid": "6fd8ded6-b3bd-4b8d-8266-5664e8818669",
+            "vertical": false,
+            "translation": "5.2 DOCUMENTATION TECHNIQUE"
+        },
+        {
+            "bbox": [
+                235.09146704807438,
+                718.978672585385,
+                862.0020458429394,
+                753.6395940091397
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "5.3 CONTRACTUAL DOCUMENTATION",
+            "uuid": "bb2469a0-616e-4dc3-b9fc-7a05443afe6e",
+            "vertical": false,
+            "translation": "5.3 DOCUMENTATION CONTRACTUELLE"
+        },
+        {
+            "bbox": [
+                232.07747388079136,
+                931.4651908788369,
+                866.5230355938638,
+                961.6051225516669
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "5.4 PROCUREMENT DOCUMENTATION",
+            "uuid": "0fa4b91b-7acb-443d-a4a9-b2b955cd423a",
+            "vertical": false,
+            "translation": "5.4 DOCUMENTS DE PASSATION"
+        },
+        {
+            "bbox": [
+                195.47559199139232,
+                1000.8449407300659,
+                368.6485996616191,
+                1028.3951919503293
+            ],
+            "order": "10",
+            "label": "Section-header",
+            "text": "ELIGIBILITY",
+            "uuid": "d1d63b71-da16-424d-a674-d3af88e15ef6",
+            "vertical": false,
+            "translation": "ADMISSIBILITÉ"
+        },
+        {
+            "bbox": [
+                196.7875087161668,
+                1305.2096208777373,
+                505.0879390381613,
+                1334.071788822775
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "SELECTION CRITERIA",
+            "uuid": "77fcb9ad-226e-4f1f-b28d-d5b5bdc36342",
+            "vertical": false,
+            "translation": "CRITÈRES DE SÉLECTION"
+        },
+        {
+            "bbox": [
+                196.7875087161668,
+                1557.0976320344307,
+                449.98743659763466,
+                1589.8955501537919
+            ],
+            "order": "21",
+            "label": "Section-header",
+            "text": "AWARD CRITERIA",
+            "uuid": "42dbab66-3efa-4816-94c2-07c1f38a80c4",
+            "vertical": false,
+            "translation": "CRITÈRES D'ATTRIBUTION"
+        },
+        {
+            "bbox": [
+                194.1636752666179,
+                1656.8033031172886,
+                438.1801860746648,
+                1688.2893045118753
+            ],
+            "order": "23",
+            "label": "Section-header",
+            "text": "OTHER ANNEXES",
+            "uuid": "e8a0dced-b3df-4fd7-9d9b-1afd5a6fa2a7",
+            "vertical": false,
+            "translation": "AUTRES ANNEXES"
+        },
+        {
+            "bbox": [
+                849.4796268250309,
+                2188.9668909485226,
+                881.295529442994,
+                2220.782793566486
+            ],
+            "order": "26",
+            "label": "Page-footer",
+            "text": "47",
+            "uuid": "12fba064-5ea6-464a-8890-650348f2346e",
+            "vertical": false,
+            "translation": "47"
+        },
+        {
+            "bbox": [
+                236.7410700052482,
+                587.1160819611636,
+                1027.2503820227723,
+                628.2884419620763
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "Annex 1 - Technical Specifications (and its annexes)",
+            "uuid": "53576eb6-7000-428b-8f62-3bf913d69efb",
+            "vertical": false,
+            "translation": "Annexe 1 - Spécifications techniques (et ses annexes)"
+        },
+        {
+            "bbox": [
+                238.7996880052938,
+                799.1537359658641,
+                1064.3055060235938,
+                834.15024196664
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "● Annex 2 - Draft Framework Contract (and its annexes)",
+            "uuid": "d4ff0e11-9abc-4b40-bef1-db34e4494fa8",
+            "vertical": false,
+            "translation": "● Annexe 2 - Projet de contrat-cadre (et ses annexes)."
+        },
+        {
+            "bbox": [
+                240.85830600533944,
+                1054.422367971523,
+                1233.112182027336,
+                1089.418873972299
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "Annex 3 - Declaration on honour Exclusion and Selection criteria",
+            "uuid": "4ea3f3b6-dd79-4eb6-afad-b71b8eddd2e0",
+            "vertical": false,
+            "translation": "Annexe 3 - Déclaration sur l’honneur Critères d’exclusion et de sélection"
+        },
+        {
+            "bbox": [
+                238.7996880052938,
+                1105.8878179726642,
+                701.9887380155619,
+                1136.7670879733485
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "Annex 4 - Power of Attorney",
+            "uuid": "d469e56c-b918-44b5-a08b-8cd144c614d9",
+            "vertical": false,
+            "translation": "Annexe 4 - Procuration"
+        },
+        {
+            "bbox": [
+                244.9755420054307,
+                1155.2946499737593,
+                885.2057400196235,
+                1182.0566839743524
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "Annex 5 - List of identified subcontractors",
+            "uuid": "ed15acb7-d2c4-4be5-bd90-a69bf423ce2b",
+            "vertical": false,
+            "translation": "Annexe 5 - Liste des sous-traitants identifiés"
+        },
+        {
+            "bbox": [
+                236.7410700052482,
+                1206.7600999749,
+                1144.5916080253737,
+                1237.6393699755847
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "Annex 6 - Commitment letter by an identified subcontractor",
+            "uuid": "dd05ed0c-3cae-4361-9257-f927c2cf8ee5",
+            "vertical": false,
+            "translation": "Annexe 6 - Lettre d'engagement d'un sous-traitant identifié"
+        },
+        {
+            "bbox": [
+                236.7410700052482,
+                1254.1083139759498,
+                1381.332678030622,
+                1291.1634379767713
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "Annex 7 - Commitment letter by an entity on whose capacities is being relied",
+            "uuid": "88990a5e-bd18-4b61-b8ce-10b8eee59392",
+            "vertical": false,
+            "translation": "Annexe 7 - Lettre d'engagement d'une entité dont les capacités sont utilisées"
+        },
+        {
+            "bbox": [
+                238.7996880052938,
+                1354.9805959781859,
+                1121.9468100248719,
+                1389.9771019789616
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "Annex 8 - Financial and Economic Capacity Overview Form",
+            "uuid": "6caf7a24-51d7-4d00-85a8-f42a0841e4b1",
+            "vertical": false,
+            "translation": "Annexe 8 - Formulaire d’aperçu de la capacité financière et économique"
+        },
+        {
+            "bbox": [
+                236.7410700052482,
+                1408.5046639793725,
+                944.905662020947,
+                1439.383933980057
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "Annex 9 - \"References_Selection criterion T1\"",
+            "uuid": "57c5fd1f-0d48-47d9-b8fc-633cb3c81ab1",
+            "vertical": false,
+            "translation": "Annexe 9 - « Références_Critère de sélection T1 »"
+        },
+        {
+            "bbox": [
+                242.91692400538506,
+                1457.9114959804676,
+                936.6711900207645,
+                1492.9080019812436
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "Annex 10 - \"ISO 9001_Selection criterion T2\"",
+            "uuid": "b004ccdc-c86f-45f3-887e-5d200b08d7b0",
+            "vertical": false,
+            "translation": "Annexe 10 - « ISO 9001_Critère de sélection T2 »"
+        },
+        {
+            "bbox": [
+                240.85830600533944,
+                1507.318327981563,
+                959.3159880212665,
+                1542.314833982339
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "Annex 11 - \"ISO 27001_Selection criterion T2\"",
+            "uuid": "d11a01a8-da66-41bf-ab7f-8c7d09672c0d",
+            "vertical": false,
+            "translation": "Annexe 11 - « ISO 27001_Critère de sélection T2 »"
+        },
+        {
+            "bbox": [
+                244.9755420054307,
+                1602.014755983662,
+                689.6370300152881,
+                1645.2457339846205
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "● Annex 12 - Price Catalogue",
+            "uuid": "42fdebb8-a22b-4d89-a04b-a675a2180d8e",
+            "vertical": false,
+            "translation": "● Annexe 12 - Catalogue de prix"
+        },
+        {
+            "bbox": [
+                242.91692400538506,
+                1704.945655985944,
+                988.1366400219055,
+                1739.94216198672
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "● Annex 13 - Tenderer's Administrative Data Form",
+            "uuid": "137d4271-3ce9-48dd-bd81-f7e368c8926e",
+            "vertical": false,
+            "translation": "● Annexe 13 - Form. de données admin. du soumissionnaire."
+        },
+        {
+            "bbox": [
+                244.9755420054307,
+                1758.4697239871305,
+                920.2022460203995,
+                1797.583465987998
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "Annex 14 - Minimum requirements checklist",
+            "uuid": "286855e4-0933-4dee-bd65-52aa4c2667e8",
+            "vertical": false,
+            "translation": "Annexe 14 - Liste de contrôle des exigences minimales"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

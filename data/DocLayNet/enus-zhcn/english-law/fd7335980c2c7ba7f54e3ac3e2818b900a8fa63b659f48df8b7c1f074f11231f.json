@@ -1,0 +1,427 @@
+{
+    "file": "fd7335980c2c7ba7f54e3ac3e2818b900a8fa63b659f48df8b7c1f074f11231f.png",
+    "annotations": [
+        {
+            "bbox": [
+                291.2839484670044,
+                175.16795880612588,
+                478.38604675237946,
+                258.9416822938924
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "European Agency for Safety and Health at Work",
+            "uuid": "96703b74-1c82-4f3a-8967-83ef1aa1c37b",
+            "vertical": false,
+            "translation": "欧洲工作场所安全与卫生局"
+        },
+        {
+            "bbox": [
+                294.7062191330275,
+                281.15315332445897,
+                470.55302391958537,
+                365.13776107282933
+            ],
+            "order": "6",
+            "label": "Formula",
+            "text": "Pr = Po x (lr/lo)",
+            "uuid": "8a3df76c-da23-4805-aa5b-2b573cd96ac7",
+            "vertical": false,
+            "translation": "Pr = Po x (lr/lo)"
+        },
+        {
+            "bbox": [
+                294.0,
+                373.0,
+                372.0,
+                392.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "where:",
+            "uuid": "6a265f55-b144-4a8f-8d03-15364dab9d73",
+            "vertical": false,
+            "translation": "位置："
+        },
+        {
+            "bbox": [
+                481.0,
+                370.0,
+                689.0,
+                395.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Pr = revised price;",
+            "uuid": "3ed296c9-5338-4011-8b0e-9b07da9cecde",
+            "vertical": false,
+            "translation": "Pr = 修改后的价格；"
+        },
+        {
+            "bbox": [
+                754.0,
+                153.0,
+                1023.0000000000001,
+                182.0
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Contract no: [complete]",
+            "uuid": "77a8b4a1-6aa6-4c53-b72e-5851eaa5a702",
+            "vertical": false,
+            "translation": "合同编号： [完整］"
+        },
+        {
+            "bbox": [
+                480.0,
+                440.0,
+                755.0,
+                461.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Po = price in the tender;",
+            "uuid": "7da8a48b-dd38-412e-9d35-831e00ed2ff3",
+            "vertical": false,
+            "translation": "Po = 招标中的价格；"
+        },
+        {
+            "bbox": [
+                480.0,
+                505.0,
+                1168.0,
+                527.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "lo = index for the month in which the FWC enters into force;",
+            "uuid": "fb26591c-f4f0-41c6-8139-bedf69f8c994",
+            "vertical": false,
+            "translation": "lo = FWC生效当月的指数；"
+        },
+        {
+            "bbox": [
+                480.0,
+                572.0,
+                1309.0,
+                595.0
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Ir = index for the month in which the request to revise prices is received.",
+            "uuid": "3bbb564c-86be-4ced-b0dc-c4eb9332aeb7",
+            "vertical": false,
+            "translation": "Ir = 收到价格修改请求的月份的指数。"
+        },
+        {
+            "bbox": [
+                358.0,
+                639.0,
+                869.0000000000001,
+                661.0
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "II.21. PAYMENTS AND GUARANTEES",
+            "uuid": "a87f1432-1f4d-4247-925f-c8921f623613",
+            "vertical": false,
+            "translation": "II.21. 付款和担保"
+        },
+        {
+            "bbox": [
+                361.0,
+                976.0,
+                588.0,
+                995.0
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "II.21.3. Conversion",
+            "uuid": "063040c0-8d12-45b8-ba92-a5c8a5095ea2",
+            "vertical": false,
+            "translation": "II.21.3. 转换"
+        },
+        {
+            "bbox": [
+                361.0,
+                706.0,
+                649.0,
+                733.0
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "II.21.1. Date of payment",
+            "uuid": "c6db6a5a-a3c8-45ea-855c-2af2316a9b5f",
+            "vertical": false,
+            "translation": "II.21.1 付款日期"
+        },
+        {
+            "bbox": [
+                294.0,
+                776.0,
+                1468.0,
+                800.0
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "The date of payment is deemed to be the date on which the contracting authority's account is debited.",
+            "uuid": "abafe97f-489c-4027-b9cd-e60c08d79493",
+            "vertical": false,
+            "translation": "付款日期被视为订约当局账户借记的日期。"
+        },
+        {
+            "bbox": [
+                360.0,
+                839.0,
+                562.0,
+                868.0
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "II.21.2. Currency",
+            "uuid": "99cf7d2f-697e-4435-9c78-60619d13f621",
+            "vertical": false,
+            "translation": "II.21.2. 货币"
+        },
+        {
+            "bbox": [
+                295.0,
+                908.0,
+                1243.0,
+                932.0
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Payments are made in euros, unless another currency is provided for in Article 1.7.",
+            "uuid": "983bf44e-f295-45c7-8d02-25992fa8b03a",
+            "vertical": false,
+            "translation": "除非第1.7条另有规定，否则付款以欧元进行。"
+        },
+        {
+            "bbox": [
+                1208.0,
+                133.0,
+                1480.0,
+                147.0
+            ],
+            "order": "4",
+            "label": "Page-footer",
+            "text": "EC-FWC services Dec 2018",
+            "uuid": "4d20edb6-e395-49c6-8c7b-7bcc1773b6f3",
+            "vertical": false,
+            "translation": "EC-FWC 服务 2018 年 12 月"
+        },
+        {
+            "bbox": [
+                294.0,
+                1042.0,
+                1480.0,
+                1155.0
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "The contracting authority makes any conversion between the euro and another currency at the daily euro exchange rate published in the Official Journal of the European Union, or failing that, at the monthly accounting exchange rate, as established by the European Commission and published on the website indicated below, applicable on the day when it issues the payment order.",
+            "uuid": "5820846d-130f-446e-8371-5dee007f647d",
+            "vertical": false,
+            "translation": "订约当局按照《欧盟官方公报》上公布的每日欧元汇率进行欧元与另一种货币之间的任何兑换，否则按欧盟委员会确定并在下文所示网站上公布的每月会计汇率，在签发付款单之日适用。"
+        },
+        {
+            "bbox": [
+                294.0,
+                1197.0,
+                1478.0,
+                1278.0
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "The contractor makes any conversion between the euro and another currency at the monthly accounting exchange rate, established by the Commission and published on the website indicated below, applicable on the date of the invoice.",
+            "uuid": "fd21797c-02d2-49ce-aaad-caae91695195",
+            "vertical": false,
+            "translation": "承包者按委员会确定并在下文所示网站上公布的适用于发票日期的每月会计汇率兑换欧元和另一种货币。"
+        },
+        {
+            "bbox": [
+                361.0,
+                1392.0,
+                657.0,
+                1410.0
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "II.21.4. Costs of transfer",
+            "uuid": "75bfe51c-a452-4974-837e-622a34777a1e",
+            "vertical": false,
+            "translation": "II.21.4. 转账费用"
+        },
+        {
+            "bbox": [
+                295.0,
+                1326.0,
+                1282.0,
+                1349.0
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "http://ec.europa.eu/budget/contracts grants/info contracts/inforeuro/inforeuro en.cfm",
+            "uuid": "92b49883-bf4e-42e3-aee7-055b96848fe2",
+            "vertical": false,
+            "translation": "http://ec.europa.eu/budget/contracts grants/info contracts/inforeuro/inforeuro en.cfm"
+        },
+        {
+            "bbox": [
+                295.0,
+                1458.0,
+                824.0,
+                1478.0
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "The costs of the transfer are borne as follows:",
+            "uuid": "a85b4c99-f2a6-4a0c-85e4-8250f34a2a7d",
+            "vertical": false,
+            "translation": "转账成本承担如下："
+        },
+        {
+            "bbox": [
+                342.0,
+                1526.0,
+                1225.0,
+                1549.0
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "a) the contracting authority bears the costs of dispatch charged by its bank;",
+            "uuid": "f2d4f8b7-29d9-49ea-b69a-8b624e1f836b",
+            "vertical": false,
+            "translation": "a) 订约当局承担其银行收取的转账费用；"
+        },
+        {
+            "bbox": [
+                342.0,
+                1556.0,
+                1088.0,
+                1580.0
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "b) the contractor bears the costs of receipt charged by its bank;",
+            "uuid": "76d053d3-3e11-45a3-826f-53eeff743747",
+            "vertical": false,
+            "translation": "b) 承包商承担其银行收取的收取费用；"
+        },
+        {
+            "bbox": [
+                341.0,
+                1585.0,
+                1306.0,
+                1609.0
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "c) the party causing repetition of the transfer bears the costs for repeated transfer.",
+            "uuid": "e8b25e27-4635-4f0a-b93a-b6d67b60185c",
+            "vertical": false,
+            "translation": "c）造成重复转账的一方承担重复转账费用。"
+        },
+        {
+            "bbox": [
+                361.0,
+                1652.0,
+                1196.0,
+                1675.0
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "II.21.5. Pre-financing, performance and money retention guarantees",
+            "uuid": "0af4fe77-6cab-4a76-928f-bb379c466616",
+            "vertical": false,
+            "translation": "II.21.5. 预融资、履约和留款担保"
+        },
+        {
+            "bbox": [
+                293.0,
+                1718.0,
+                1478.0,
+                1772.0
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "If, as provided for in Article 1.6, a financial guarantee is required for the payment of pre-financing, as performance guarantee or as retention money guarantee, it must fulfil the following conditions:",
+            "uuid": "c36f8077-37a4-490d-8173-baf816cbe3ef",
+            "vertical": false,
+            "translation": "如果根据第1.6条的规定，支付预融资需要财务担保，作为履约担保或留存款担保，则必须满足以下条件："
+        },
+        {
+            "bbox": [
+                342.0,
+                1816.0,
+                1483.0,
+                1900.0
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "a) the financial guarantee is provided by a bank or a financial institution approved by the contracting authority or, at the request of the contractor and with the agreement of the contracting authority, by a third party; and",
+            "uuid": "a47e9900-6358-42b4-99cd-2b63715eb409",
+            "vertical": false,
+            "translation": "a) 融资担保由订约当局批准的银行或金融机构提供，或应承包商的请求并经订约当局同意由第三方提供，以及"
+        },
+        {
+            "bbox": [
+                342.0,
+                1906.0,
+                1480.0,
+                1959.0
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "b) the guarantee shall have the effect of making the bank or financial institution or the third party provide irrevocable collateral security, or stand as first-call guarantor of the contractor's",
+            "uuid": "7570e463-2e4f-4682-928d-e0af9a73d65e",
+            "vertical": false,
+            "translation": "b) 担保的效力应是使银行或金融机构或第三方提供不可撤销的抵押担保，或者作为承包商的首次到期担保人"
+        },
+        {
+            "bbox": [
+                1453.0,
+                2070.0,
+                1475.0,
+                2085.0
+            ],
+            "order": "30",
+            "label": "Page-footer",
+            "text": "31",
+            "uuid": "810a8160-e2dc-4e52-86d4-32ad2cfc88b9",
+            "vertical": false,
+            "translation": "31"
+        },
+        {
+            "bbox": [
+                183.82014174986227,
+                72.33340336308362,
+                290.9219598768482,
+                260.0673564725969
+            ],
+            "order": "1",
+            "label": "Picture",
+            "text": "logo",
+            "uuid": "05d78f3c-c7b1-4ab3-9e1f-900d741cdb64",
+            "vertical": false,
+            "translation": "标识"
+        },
+        {
+            "bbox": [
+                1361.03515625,
+                178.4417232612798,
+                1480.810546875,
+                257.9830058232181
+            ],
+            "order": "5",
+            "label": "Picture",
+            "text": "flag",
+            "uuid": "173ff700-4da2-4b67-ac7d-9a08d29069e9",
+            "vertical": false,
+            "translation": "标记"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

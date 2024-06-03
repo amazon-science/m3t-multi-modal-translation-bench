@@ -1,0 +1,273 @@
+{
+    "file": "jrc32001D0336.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.71374576982996,
+                141.20204898502433,
+                216.38556207689328,
+                168.48346864743755
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 120/40",
+            "uuid": "60887c62-bae2-4db5-a18f-44314c9c717f",
+            "vertical": false,
+            "translation": "L 120/40"
+        },
+        {
+            "bbox": [
+                336.0467779054153,
+                144.44983704007373,
+                364.1769009754115,
+                162.20441174100915
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "af3d644b-1528-4f57-b6df-0387e62a9274",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                584.6172106050705,
+                139.82705069285166,
+                1068.8154785721952,
+                168.67802005023992
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "4f8e77d2-63fd-4086-b664-2b5466ebb16c",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                788.0419921875,
+                258.7112996799446,
+                864.56201171875,
+                275.853227804549
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "a4b39081-2aa5-49c5-bacf-c23380148e95",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                1424.3682959268904,
+                142.39729952510476,
+                1532.1801556044184,
+                162.19521643698766
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "28.4.2001",
+            "uuid": "a9be13c8-f925-451c-8a19-3d82c005b001",
+            "vertical": false,
+            "translation": "2001 年 4 月 28 日"
+        },
+        {
+            "bbox": [
+                673.8459032930909,
+                319.66752314649625,
+                979.8612998839586,
+                343.24526151100423
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Country: SLOVAK REPUBLIC",
+            "uuid": "85438e9e-7051-4258-918d-519f6f3485a1",
+            "vertical": false,
+            "translation": "国家：斯洛伐克共和国"
+        },
+        {
+            "bbox": [
+                342.3264105051146,
+                404.67588762337493,
+                350.4516677194383,
+                419.47032326627277
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "e17619e3-aeed-4399-b438-1fe379af444d",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                256.47198107848817,
+                465.7304079608494,
+                316.5634698511931,
+                483.1658175723845
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "SK 16",
+            "uuid": "52f7a27b-ff41-4124-88ab-d6c128e01a11",
+            "vertical": false,
+            "translation": "SK 16"
+        },
+        {
+            "bbox": [
+                549.5595627701267,
+                404.4447989204927,
+                559.505459754256,
+                419.8607034857546
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "afc82598-cb8e-4cea-ac50-18204b0c01fa",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                453.6109095114672,
+                465.1352563546798,
+                613.3303140213089,
+                483.86850747195973
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Lumas Nitra a.s.",
+            "uuid": "3af815f5-b73d-4548-b3a3-d2f253ed0f63",
+            "vertical": false,
+            "translation": "Lumas Nitra a.s."
+        },
+        {
+            "bbox": [
+                690.2803481403024,
+                465.44042191062823,
+                737.2425712663435,
+                483.20696816082074
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Nitra",
+            "uuid": "4b372bea-f24b-417d-ba06-f12dfac2bc61",
+            "vertical": false,
+            "translation": "Nitra"
+        },
+        {
+            "bbox": [
+                759.2440511418312,
+                404.67368401141886,
+                768.2505048920308,
+                420.50908393006864
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "51f82b2f-a77d-4fa6-aad8-2f73e27b638d",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                870.948547669051,
+                465.3301534980565,
+                917.9477863587604,
+                483.2828524854499
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Nitra",
+            "uuid": "3739dc3d-d795-4698-8c7c-bae3da4d70b1",
+            "vertical": false,
+            "translation": "Nitra"
+        },
+        {
+            "bbox": [
+                939.5947386183358,
+                405.0325014643115,
+                950.3207059541616,
+                419.66785389968624
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "a3f3b498-bce6-479b-b4f8-5b3001963770",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                1052.4441665906845,
+                465.42222788645387,
+                1136.508690270646,
+                485.8140927728139
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "MM, MP",
+            "uuid": "16a2ff08-dd5d-4ee5-b7fe-f67679d14b19",
+            "vertical": false,
+            "translation": "MM, MP"
+        },
+        {
+            "bbox": [
+                1121.406189263207,
+                404.974914116171,
+                1129.7762500625104,
+                420.63295322534066
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "b15d2b3e-ba35-41ff-9845-d4943664c73d",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1301.6898941538561,
+                465.43883263529494,
+                1312.368975029093,
+                483.9778374181048
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "e8caf0fa-1ea2-4f5f-a320-4c9f7e18ff0a",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                1302.3332122788706,
+                404.41460855854666,
+                1311.5969932790758,
+                419.8637792108882
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "995b2fae-0788-4eb0-9ca3-0030a122a432",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                253.97991584589118,
+                384.86556686311724,
+                1394.8522651001617,
+                509.8954245924055
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "0a0f4bc3-d92b-4d7a-b453-23a3248b10a2",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,987 @@
+{
+    "file": "jrc32005R0546.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                103.77996239720339,
+                123.65012891089818,
+                213.20895521960261,
+                149.63969002111335
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.4.2005",
+            "uuid": "e709ea57-2550-446b-8a41-695b53b45d29",
+            "vertical": false,
+            "translation": "2005 年 4 月 9 日"
+        },
+        {
+            "bbox": [
+                327.0288347414176,
+                119.59449937769287,
+                357.82896025851807,
+                142.88510334097217
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "6c75a45d-4598-4ea1-be2d-9c4bb0c76586",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.567993270017,
+                119.11430974993941,
+                1022.3967368459085,
+                154.05021569485837
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "bdf73796-0b69-41b9-ae13-1afd81875e1d",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1446.560210562272,
+                112.7987140457613,
+                1541.151373849431,
+                148.07026126676737
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 91/7",
+            "uuid": "44c9b41f-ce68-4c08-8523-25d2b99ca3cd",
+            "vertical": false,
+            "translation": "L 91/7"
+        },
+        {
+            "bbox": [
+                772.9569190313326,
+                219.5550393415814,
+                875.3106455108261,
+                248.6682942956805
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "262276a4-d224-4fd2-8282-48416205693b",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                250.26020428350117,
+                296.5820390394256,
+                889.8736248509334,
+                331.64107091486306
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Annex I to Regulation (EC) No 1358/2003 is amended as follows:",
+            "uuid": "ed489f98-da23-4a27-b8f5-aec61d5ffe9c",
+            "vertical": false,
+            "translation": "(EC) 第 1358/2003 号条例附件一的修正如下："
+        },
+        {
+            "bbox": [
+                251.8296553529577,
+                452.4610789743747,
+                722.0087228616591,
+                484.4856594238837
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "(a) in Section III the following tables are added:",
+            "uuid": "4545d46d-fb9b-4da1-98fd-b47d36c166a2",
+            "vertical": false,
+            "translation": "(a) 在第三节中增加了以下表格："
+        },
+        {
+            "bbox": [
+                259.5338477430265,
+                666.005086248912,
+                1396.4825358808353,
+                1009.4385723481834
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "29cac716-4f63-48fc-b3bf-28c6f64227e2",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                295.4995377841064,
+                702.8350715796274,
+                410.25111113083096,
+                755.2389304970059
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "(1) Airport",
+            "uuid": "ab0377cb-717d-42ad-8288-2e9edd2f951e",
+            "vertical": false,
+            "translation": "(1) 机场"
+        },
+        {
+            "bbox": [
+                504.35923854044603,
+                700.9565942864843,
+                617.4976887466554,
+                752.9357165069147
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "(2) Airport Name",
+            "uuid": "cc0c9fd5-2e92-43ab-b5e5-1700a7615e4d",
+            "vertical": false,
+            "translation": "(2) 机场名称"
+        },
+        {
+            "bbox": [
+                697.2624561506748,
+                698.4680833365126,
+                837.0060799303507,
+                756.6945932447109
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "(3) Airport category in 2004",
+            "uuid": "b2ed36b9-ba59-405b-9899-f00f0abc8102",
+            "vertical": false,
+            "translation": "(3) 2004 年的机场类别"
+        },
+        {
+            "bbox": [
+                866.031333461935,
+                663.5321773915936,
+                1380.4618245838749,
+                740.6823030199563
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "(4) Categories '1' and '2' airports only: For each table: last year for which a derogation is requested (or '2004' or '2005')",
+            "uuid": "e420d597-0006-4e88-894f-f8251ade964c",
+            "vertical": false,
+            "translation": "(4) 仅限“1”类和“2”类机场：对于每份表格：申请克减的最后一年（或“2004”或“2005”）"
+        },
+        {
+            "bbox": [
+                882.1316251092045,
+                763.9729069832356,
+                1018.1190861981507,
+                784.4955360808825
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "4.1) Table Al",
+            "uuid": "5e224b81-ec84-4cd3-a033-744c2b22a7f2",
+            "vertical": false,
+            "translation": "(4.1) 表 A1"
+        },
+        {
+            "bbox": [
+                1059.7224803292092,
+                763.9729069832356,
+                1185.3179014264388,
+                791.6304991896297
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "(4.2) Table B1",
+            "uuid": "bb753c49-b53a-44b0-ad84-13c2a9ab5ee6",
+            "vertical": false,
+            "translation": "(4.2) 表 B1"
+        },
+        {
+            "bbox": [
+                1244.3959866105693,
+                762.2187694149839,
+                1366.8080802763043,
+                790.0647277473573
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "(4.3) Table C1",
+            "uuid": "87720dc5-0694-40e9-ae11-29edb6056b0e",
+            "vertical": false,
+            "translation": "(4.3) 表 C1"
+        },
+        {
+            "bbox": [
+                272.2089338208271,
+                810.485097191098,
+                346.49029143626586,
+                833.8447188730735
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "LKPR",
+            "uuid": "b6c8ce94-165f-4aa2-aa88-f73a3b278d2f",
+            "vertical": false,
+            "translation": "LKPR"
+        },
+        {
+            "bbox": [
+                439.4437343237685,
+                814.1978916354144,
+                597.0956731356997,
+                838.3310555234713
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Praha-Ruzyne",
+            "uuid": "cd26defb-a159-426a-a790-6d8e2998904a",
+            "vertical": false,
+            "translation": "Praha-Ruzyne"
+        },
+        {
+            "bbox": [
+                755.5318538694642,
+                807.6427894143843,
+                781.5425340262882,
+                842.0438499677879
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "f34a2f31-8895-4152-8840-4fe88de786ca",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                276.2276094361221,
+                866.1770138558445,
+                339.28838496089463,
+                895.8793694103758
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "LKTB",
+            "uuid": "871714d9-2b96-4b5d-8b63-0444df020024",
+            "vertical": false,
+            "translation": "LKTB"
+        },
+        {
+            "bbox": [
+                441.06581255460225,
+                867.3249620702875,
+                567.8475774058949,
+                897.8938797720919
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Brno-Turany",
+            "uuid": "6982e54f-e493-4101-99e6-439731a6ad38",
+            "vertical": false,
+            "translation": "Brno-Turany"
+        },
+        {
+            "bbox": [
+                762.1665267152507,
+                866.1770138558445,
+                784.4232710181118,
+                888.453780521743
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "b42357de-7a0c-4b45-8bef-076a64ce6f25",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                276.2276094361221,
+                913.9061699968464,
+                345.0339935022551,
+                940.4329027421734
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "LKMT",
+            "uuid": "08a229ea-0d99-4f21-a1ba-5bae469ed72d",
+            "vertical": false,
+            "translation": "LKMT"
+        },
+        {
+            "bbox": [
+                441.06581255460225,
+                915.3618327445513,
+                601.3424298881413,
+                944.4750876986504
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Ostrava-Mosnov",
+            "uuid": "caafef9e-646d-42df-9ce8-0fa2a12d429c",
+            "vertical": false,
+            "translation": "Ostrava-Mosnov"
+        },
+        {
+            "bbox": [
+                760.311798023346,
+                916.2997388541165,
+                788.1327284019219,
+                936.720108297857
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "c47da715-f1bd-4825-bd35-ca19e042e24e",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                278.0823381280273,
+                962.7096694080722,
+                341.1431136527997,
+                990.5556277404454
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "LKKV",
+            "uuid": "79d741e4-1a7d-402d-bcd3-cd449b113e34",
+            "vertical": false,
+            "translation": "LKKV"
+        },
+        {
+            "bbox": [
+                435.2431615637824,
+                964.5660666302302,
+                563.4786836038627,
+                995.4232838683239
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Karlovy Vary",
+            "uuid": "b59c980d-6c34-4667-bd57-520dcfa478dd",
+            "vertical": false,
+            "translation": "Karlovy Vary"
+        },
+        {
+            "bbox": [
+                761.3116170496929,
+                966.3100289142249,
+                783.1465582652673,
+                993.967621120619
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "600bd6c2-50ae-417c-825f-9671fea6dfad",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                266.9539659765968,
+                1165.0569666233184,
+                1402.0479254225008,
+                1410.1013999482043
+            ],
+            "order": "30",
+            "label": "Table",
+            "text": "",
+            "uuid": "ae931184-8e91-4608-a4e3-0bfe6707adfe",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                289.2107102794577,
+                1200.3285138443248,
+                420.89644740471766,
+                1254.1640332869133
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(1) ICAO Airport Code",
+            "uuid": "bc42ab39-8bc2-4e11-a724-f544753a6fb1",
+            "vertical": false,
+            "translation": "(1) ICAO 机场代码"
+        },
+        {
+            "bbox": [
+                504.35923854044603,
+                1196.6157194000082,
+                617.4976887466554,
+                1267.158813842021
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "(2) Airport Name",
+            "uuid": "a09f65ef-6b90-4923-849f-f1d4ee780e28",
+            "vertical": false,
+            "translation": "(2) 机场名称"
+        },
+        {
+            "bbox": [
+                693.5415651147633,
+                1202.1849110664832,
+                838.2104030833588,
+                1263.4460193977043
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(3) Airport category in 2004",
+            "uuid": "9a2eae68-2291-4799-ada6-b1a0700977b2",
+            "vertical": false,
+            "translation": "(3) 2004 年的机场类别"
+        },
+        {
+            "bbox": [
+                869.0306603798599,
+                1168.647150845214,
+                1376.0929307818426,
+                1241.4302882304619
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(4) Categories '1' and '2' airports only: For each table: last year for which a derogation is requested (' or '2004' or '2005')",
+            "uuid": "2862617c-46f9-4f2a-b1f4-93bbc5c4cbb6",
+            "vertical": false,
+            "translation": "(4) 仅限“1”类和“2”类机场：对于每份表格：申请克减的最后一年（或“2004”或“2005”）"
+        },
+        {
+            "bbox": [
+                880.8691629971753,
+                1261.589622175546,
+                1016.2643575062458,
+                1296.8611693965527
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "(4.1) Table A1",
+            "uuid": "c739dcd9-36db-4ac2-9d2e-bb46bfdf3538",
+            "vertical": false,
+            "translation": "(4.1) 表 A1"
+        },
+        {
+            "bbox": [
+                1062.6325748038723,
+                1263.4460193977043,
+                1192.4635832372273,
+                1287.5791832857612
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(4.2) Table B1",
+            "uuid": "6282094d-0fa1-470f-bc5d-463a1b8a2044",
+            "vertical": false,
+            "translation": "(4.2) 表 B1"
+        },
+        {
+            "bbox": [
+                1238.8318005348544,
+                1259.7332249533881,
+                1372.3722663520193,
+                1289.43558050792
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "(4.3) Table C1",
+            "uuid": "5d365671-24d4-4ea6-a1dd-63cfa4747e1a",
+            "vertical": false,
+            "translation": "(4.3) 表 C1"
+        },
+        {
+            "bbox": [
+                275.120259316237,
+                1312.7577628680046,
+                343.53640845837003,
+                1343.3266805698088
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "EETN",
+            "uuid": "f5411e26-ec45-4e86-9ed4-3109d8e27248",
+            "vertical": false,
+            "translation": "EETN"
+        },
+        {
+            "bbox": [
+                432.02481955614815,
+                1309.85594995166,
+                600.8051305195097,
+                1341.41470272835
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Tallinn/Ülemiste",
+            "uuid": "4d67d9f6-204b-430d-b467-331bd6ee4792",
+            "vertical": false,
+            "translation": "Tallinn/Ülemiste"
+        },
+        {
+            "bbox": [
+                760.3117980233457,
+                1317.2815388402928,
+                778.8590849423966,
+                1348.8402916169828
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "be887cd1-b172-4cf9-8b8d-cc5775dd031f",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                280.9429103070568,
+                1362.2502962899732,
+                331.9273120961587,
+                1395.7305394871871
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "EECL",
+            "uuid": "75b88796-a6ca-4bf6-952b-ad61a8b6fdcf",
+            "vertical": false,
+            "translation": "EECL"
+        },
+        {
+            "bbox": [
+                433.87954824805325,
+                1365.5478666164067,
+                600.8051305195097,
+                1400.8194138374129
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Tallinn/City Hall",
+            "uuid": "1bfde7e1-9f42-48fc-9c05-a624c2135bf9",
+            "vertical": false,
+            "translation": "塔林/市政厅"
+        },
+        {
+            "bbox": [
+                758.4002915542831,
+                1361.8350721720901,
+                778.8590849423966,
+                1389.9078884963674
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "e7ccc31a-e1ac-4802-99f2-54316388f392",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                279.9262356263817,
+                1556.276721723553,
+                1411.3107376884752,
+                1806.8903467149132
+            ],
+            "order": "44",
+            "label": "Table",
+            "text": "",
+            "uuid": "d4c9ce17-d9e3-4622-b941-beef90abd694",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                289.199879085907,
+                1602.6866522775088,
+                407.9025153678316,
+                1654.665774497939
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "(1) ICAO Airport Code",
+            "uuid": "4987c6bb-a7f3-4f9a-a752-37457c917b90",
+            "vertical": false,
+            "translation": "(1) ICAO 机场代码"
+        },
+        {
+            "bbox": [
+                504.3484073468954,
+                1600.8302550553503,
+                602.6490280178641,
+                1663.9477606087298
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "(2) Airport Name",
+            "uuid": "5479e27d-f16e-4e6e-89a9-97e609c0b36b",
+            "vertical": false,
+            "translation": "(2) 机场名称"
+        },
+        {
+            "bbox": [
+                689.8212765374024,
+                1597.117460611034,
+                841.9090292736183,
+                1663.9477606087298
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(3) Airport category in 2004",
+            "uuid": "8ec9ee57-d962-498e-9603-3966eb6ed0ad",
+            "vertical": false,
+            "translation": "(3) 2004 年的机场类别"
+        },
+        {
+            "bbox": [
+                864.1657735764791,
+                1571.1278995008188,
+                1383.489807309899,
+                1641.6709939428315
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(4) Categories '1' and '2' airports only: For each table: last year for which a derogation is requested or '2004' or '2005')",
+            "uuid": "d3af92ba-4780-4152-bd29-0114f4fe7391",
+            "vertical": false,
+            "translation": "(4) 仅限“1”类和“2”类机场：对于每份表格：申请克减的最后一年（或“2004”或“2005”）"
+        },
+        {
+            "bbox": [
+                879.2202996137946,
+                1662.1168223171946,
+                1013.4747452131743,
+                1694.1414027667038
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "(4.1) Table Al",
+            "uuid": "9872e651-fbbb-47b5-b5cc-a99c577acbe2",
+            "vertical": false,
+            "translation": "(4.1) 表 A1"
+        },
+        {
+            "bbox": [
+                1055.3554920860945,
+                1663.5724850648996,
+                1186.8885659679615,
+                1692.6857400189988
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "(4.2) Table B1",
+            "uuid": "3a98e17c-720d-481b-8395-6f2f0a0db246",
+            "vertical": false,
+            "translation": "(4.2) 表 B1"
+        },
+        {
+            "bbox": [
+                1244.591649287739,
+                1665.0281478126046,
+                1370.2677390458,
+                1692.6857400189988
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "(4.3) Table C1",
+            "uuid": "ffb43fa7-7eb3-450c-887e-061e06f4a77e",
+            "vertical": false,
+            "translation": "(4.3) 表 C1"
+        },
+        {
+            "bbox": [
+                279.9262356263817,
+                1706.6448967183692,
+                342.9870111511541,
+                1741.9164439393755
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "LCLK",
+            "uuid": "5e5a1f6f-2fb0-4ddf-b8fe-de95be9c97eb",
+            "vertical": false,
+            "translation": "LCLK"
+        },
+        {
+            "bbox": [
+                435.2431615637824,
+                1713.0650184868682,
+                527.0712352535948,
+                1743.7728411615337
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Larnaka",
+            "uuid": "95bffc5d-47b4-4b29-894c-dbfb3dfd6416",
+            "vertical": false,
+            "translation": "Larnaka"
+        },
+        {
+            "bbox": [
+                762.1556955217001,
+                1708.5012939405274,
+                781.9672015605677,
+                1742.1782734409674
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "9be2e6d1-b1b4-40e4-aabe-ace5b1917d21",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                279.4872475593519,
+                1766.9245401519515,
+                341.1322824592489,
+                1796.0377951060507
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "LCPH",
+            "uuid": "eb01b56d-f1b5-45a6-a498-2e9de5301343",
+            "vertical": false,
+            "translation": "LCPH"
+        },
+        {
+            "bbox": [
+                437.5781744383127,
+                1759.6462264134268,
+                502.3579982305099,
+                1788.759481367526
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Pafos",
+            "uuid": "927ea7c8-284f-4472-9456-cf8873092886",
+            "vertical": false,
+            "translation": "Pafos"
+        },
+        {
+            "bbox": [
+                761.3116170496929,
+                1762.5575519088368,
+                775.8682445267425,
+                1794.5821323583457
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "07f358cb-e7e8-4a51-9eb6-1e8609c94523",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                283.6356930101918,
+                1955.4021244875712,
+                1392.7634507694243,
+                2185.5953800351913
+            ],
+            "order": "59",
+            "label": "Table",
+            "text": "",
+            "uuid": "e67c0985-e690-47dc-b94b-27ac01850ba4",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                291.054607777812,
+                2007.3812467080015,
+                406.0477866759265,
+                2061.21676615059
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "(1) ICAO Airport Code",
+            "uuid": "8b557d6d-1008-47ce-b6ef-fefdecc8d983",
+            "vertical": false,
+            "translation": "(1) ICAO 机场代码"
+        },
+        {
+            "bbox": [
+                502.20364795821047,
+                2003.6684522636851,
+                608.6677474132923,
+                2052.2344387021235
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "(2) Airport Name",
+            "uuid": "b0eecb6b-46ee-444e-ba0b-fef9767a3b05",
+            "vertical": false,
+            "translation": "(2) 机场名称"
+        },
+        {
+            "bbox": [
+                695.8067934029698,
+                2008.5645562709747,
+                849.3279440412385,
+                2058.057089692943
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "(3) Airport category in 2004",
+            "uuid": "d0a896ca-0872-4461-9b49-5ea2163b9f3d",
+            "vertical": false,
+            "translation": "(3) 2004 年的机场类别"
+        },
+        {
+            "bbox": [
+                871.5846883440994,
+                1968.396905042679,
+                1383.489807309899,
+                2048.2219855954822
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "(4) Categories '1' and '2' airports only: For each table: last year for which a derogation is requested (or '2004' or '2005')",
+            "uuid": "bdc44f86-a62e-467b-8234-b7fb9b134561",
+            "vertical": false,
+            "translation": "(4) 仅限“1”类和“2”类机场：对于每份表格：申请克减的最后一年（或“2004”或“2005”）"
+        },
+        {
+            "bbox": [
+                879.2202996137946,
+                2063.879740683763,
+                1020.8000627383251,
+                2090.0816701424524
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "(4.1) Table Al",
+            "uuid": "242de91f-d1a9-4b9f-bb10-6ca93dd625ab",
+            "vertical": false,
+            "translation": "(4.1) 表 A1"
+        },
+        {
+            "bbox": [
+                1056.8111548337993,
+                2066.791066179173,
+                1184.9094766318356,
+                2087.1703446470424
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "(4.2) Table B1",
+            "uuid": "ca306919-c451-4127-9856-dbf1062903dc",
+            "vertical": false,
+            "translation": "(4.2) 表 B1"
+        },
+        {
+            "bbox": [
+                1240.224661044624,
+                2065.335403431468,
+                1371.7678648349079,
+                2094.631916149438
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "(4.3]  Table C1",
+            "uuid": "3761bf72-998f-4bbe-aa2a-4b894d654c18",
+            "vertical": false,
+            "translation": "(4.3] 表 C1"
+        },
+        {
+            "bbox": [
+                282.3985730547618,
+                2114.8279368534363,
+                341.1322824592489,
+                2139.5742035644207
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "EVRA",
+            "uuid": "ee52a71f-a54f-4fbe-b372-090cabf8302b",
+            "vertical": false,
+            "translation": "EVRA"
+        },
+        {
+            "bbox": [
+                442.52147530230724,
+                2109.005285862617,
+                618.8618329513674,
+                2165.77613302311
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Riga International Airport",
+            "uuid": "b39e997a-f60f-4bcf-8816-b647ee57bb2f",
+            "vertical": false,
+            "translation": "里加国际机场"
+        },
+        {
+            "bbox": [
+                762.1556955217001,
+                2109.005285862617,
+                777.5983077585354,
+                2141.0418467033933
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "19c40e1d-66e0-4b69-8cd3-65eb9da2ef04",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                540.0508793985393,
+                606.7613302311004,
+                1140.0913616249695,
+                635.8745851851994
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Czech Republic : List of Community airports and derogations",
+            "uuid": "9edf8846-550e-4c93-b809-2824ea8287bf",
+            "vertical": false,
+            "translation": "捷克共和国：共同体机场和克减清单"
+        },
+        {
+            "bbox": [
+                580.8729549648541,
+                1110.4206409370156,
+                1099.3150194726693,
+                1138.0782331434098
+            ],
+            "order": "29",
+            "label": "Section-header",
+            "text": "Estonia : List of Community airports and derogations",
+            "uuid": "ed26fefe-acea-4fb5-a5a8-deaff6c85608",
+            "vertical": false,
+            "translation": "爱沙尼亚：共同体机场和克减清单"
+        },
+        {
+            "bbox": [
+                586.6981467008969,
+                1513.639222051289,
+                1093.4898277366265,
+                1542.752477005388
+            ],
+            "order": "44",
+            "label": "Section-header",
+            "text": "Cyprus : List of Community airports and derogations",
+            "uuid": "1ea3c903-2093-4f40-bfe9-9ee3a89075e3",
+            "vertical": false,
+            "translation": "塞浦路斯：共同体机场和克减清单"
+        },
+        {
+            "bbox": [
+                588.1544446349077,
+                1913.9464776701523,
+                1094.9461256706372,
+                1945.9710581196612
+            ],
+            "order": "58",
+            "label": "Section-header",
+            "text": "Latvia : List of Community airports and derogations",
+            "uuid": "eb095c31-be3c-4af0-b539-544d9e318c96",
+            "vertical": false,
+            "translation": "拉脱维亚：共同体机场和克减清单"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

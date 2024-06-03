@@ -1,0 +1,581 @@
+{
+    "file": "jrc32002L0003.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                120.39245306777866,
+                140.1656141093203,
+                215.7031450797701,
+                165.24737516510754
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.3.2002",
+            "uuid": "5bf2d119-88ee-4d56-bdc8-2dfe02ca0426",
+            "vertical": false,
+            "translation": "2002 年 3 月 9 日"
+        },
+        {
+            "bbox": [
+                336.0955981475488,
+                141.83773151303947,
+                364.52159401077427,
+                165.24737516510754
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "09913dfb-6e67-4c92-aabb-aae830aa810d",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                580.2247390905444,
+                133.47714449444362,
+                1073.499373187693,
+                171.93584477998422
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "63e9a334-f89b-4525-9171-17e92b4fa4a4",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1446.381554217063,
+                138.49349670560113,
+                1538.3480114216163,
+                170.26372737626505
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 67/29",
+            "uuid": "490ff6dd-8995-4095-86b0-bd8a2aeb43f8",
+            "vertical": false,
+            "translation": "L 67/29"
+        },
+        {
+            "bbox": [
+                769.1740057108082,
+                242.16477573618823,
+                889.5664587785867,
+                267.2465367919755
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX VII",
+            "uuid": "826b910a-9423-4644-b6e7-41a9ed258dc9",
+            "vertical": false,
+            "translation": "附件七"
+        },
+        {
+            "bbox": [
+                267.5387845950637,
+                302.36100227007773,
+                1387.857445086893,
+                329.1148807295839
+            ],
+            "order": "6",
+            "label": "Title",
+            "text": "DATA QUALITY OBJECTIVES AND COMPILATION OF THE RESULTS OF AIR QUALITY ASSESMENT",
+            "uuid": "60424050-dd57-4c9f-9ce9-415bbb6f9e95",
+            "vertical": false,
+            "translation": "数据质量目标和空气质量评估结果汇编"
+        },
+        {
+            "bbox": [
+                267.5387845950637,
+                414.3928683192607,
+                536.7496865938465,
+                444.4909815862052
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "I. Data quality objectives",
+            "uuid": "f37350ab-8b5c-455b-98ac-a51af58a4a18",
+            "vertical": false,
+            "translation": "一、数据质量目标"
+        },
+        {
+            "bbox": [
+                291.32665755450614,
+                467.40983445025256,
+                1399.1023932134478,
+                520.0444826638817
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "The following data quality objectives, for allowed uncertainty of assessment methods, and of minimum time coverage and of data capture of measurement are provided to guide quality-assurance programmes.",
+            "uuid": "dfa3150e-d6fd-4fa8-87e7-65cbb14940bd",
+            "vertical": false,
+            "translation": "为指导质量保证方案，提供了以下数据质量目标，以允许评估方法、最小时间覆盖范围和测量数据采集的不确定性。"
+        },
+        {
+            "bbox": [
+                284.94883846865156,
+                554.0374646869373,
+                1397.862226449989,
+                1439.3502081052636
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "b86968fe-a66e-4006-9b51-e971f4890cca",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1019.7225728846714,
+                577.3351684611036,
+                1224.0255136735157,
+                606.0092654139241
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "For ozone, NO and NO₂",
+            "uuid": "f39f0f1a-2474-4a0f-bfb5-c275c78e4cb3",
+            "vertical": false,
+            "translation": "适用于臭氧、NO 和 NO₂"
+        },
+        {
+            "bbox": [
+                291.2455128999268,
+                654.4989253896125,
+                607.417443570568,
+                675.4895929860037
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Continuous fixed measurement",
+            "uuid": "b65c64cf-55b2-4d70-a4e9-8dd9ca28a135",
+            "vertical": false,
+            "translation": "连续固定测量"
+        },
+        {
+            "bbox": [
+                295.1812630742501,
+                697.7921773071691,
+                665.1417794606436,
+                724.030511802658
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Uncertainty of individual measurements",
+            "uuid": "ddaf711e-5b6a-4ef4-a914-7d478616c902",
+            "vertical": false,
+            "translation": "个别测量的不确定性"
+        },
+        {
+            "bbox": [
+                881.6080390484271,
+                696.4802605823949,
+                927.5251244155326,
+                722.7185950778837
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "15%",
+            "uuid": "ef5eea2e-0178-4fd5-a17c-d08a09c00393",
+            "vertical": false,
+            "translation": "15%"
+        },
+        {
+            "bbox": [
+                291.2455128999268,
+                741.0854292247258,
+                507.7117724877103,
+                768.6356804449891
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Minimum data capture",
+            "uuid": "08d23c3b-4dac-4c10-a978-9ac3709d76fe",
+            "vertical": false,
+            "translation": "最小数据采集"
+        },
+        {
+            "bbox": [
+                878.9842055988781,
+                742.3973459495003,
+                1078.3955477645939,
+                767.3237637202149
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "90% during summer",
+            "uuid": "b7fe2e10-d679-4f1f-ac1b-5d4e5bc2a1f4",
+            "vertical": false,
+            "translation": "夏季 90%"
+        },
+        {
+            "bbox": [
+                877.1249999999999,
+                768.62646484375,
+                1062.4037543672916,
+                793.75244140625
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "75% during winter",
+            "uuid": "a26be9e0-c379-46d0-b60e-20b6f273f3f5",
+            "vertical": false,
+            "translation": "冬季 75%"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                865.7175180782981,
+                533.9501069831991,
+                889.3320191242381
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Indicative measurement",
+            "uuid": "b1c9f91a-4408-481a-b4c5-8da9ba7144a6",
+            "vertical": false,
+            "translation": "指示性测量"
+        },
+        {
+            "bbox": [
+                291.2455128999268,
+                911.6346034454037,
+                667.7656129101925,
+                933.9371877665692
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Uncertainty of individual measurements",
+            "uuid": "092fd76e-9916-47c8-bd01-456a11996d76",
+            "vertical": false,
+            "translation": "个别测量的不确定性"
+        },
+        {
+            "bbox": [
+                878.9842055988781,
+                914.2584368949526,
+                930.1489578650816,
+                932.6252710417949
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "30%",
+            "uuid": "8695e961-fcd7-437c-b4f9-488e19c58319",
+            "vertical": false,
+            "translation": "30%"
+        },
+        {
+            "bbox": [
+                291.2455128999268,
+                957.5516888125093,
+                506.39985576293583,
+                983.7900233079981
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Minimum data capture",
+            "uuid": "43c7abbb-2f25-4503-971e-53ee2f2c12e4",
+            "vertical": false,
+            "translation": "最小数据采集"
+        },
+        {
+            "bbox": [
+                880.2961223236525,
+                954.9278553629604,
+                927.5251244155326,
+                978.5423564089004
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "90%",
+            "uuid": "936e9009-9fc9-402a-b77a-ec76de01cbfc",
+            "vertical": false,
+            "translation": "90%"
+        },
+        {
+            "bbox": [
+                289.93359617515233,
+                999.5330240052916,
+                522.1428564602292,
+                1029.7071086751039
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Minimum time coverage",
+            "uuid": "2daf96dc-b32b-4fbc-9443-af98f4d918e3",
+            "vertical": false,
+            "translation": "最小时间覆盖范围"
+        },
+        {
+            "bbox": [
+                875.048455424555,
+                1004.7806909043893,
+                1099.386215360985,
+                1028.3951919503293
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "> 10% during summer",
+            "uuid": "0fc2d154-f3a6-4db3-9390-80d8ffa9f6a8",
+            "vertical": false,
+            "translation": "夏季 > 10%"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                1097.926778363375,
+                394.886934157108,
+                1124.165112858864
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Modelling",
+            "uuid": "66f6e2a9-e44e-4c5e-8ca8-c9632a21070f",
+            "vertical": false,
+            "translation": "建模"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                1141.2200302809317,
+                401.4465177809802,
+                1168.770281501195
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Uncertainty",
+            "uuid": "bd60c177-5bbe-4e84-8df0-0f9e698bd761",
+            "vertical": false,
+            "translation": "不确定性"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                1189.760949097586,
+                533.9501069831991,
+                1213.3754501435262
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "1 hour averages (daytime)",
+            "uuid": "078974fb-5cc2-4ff8-a91d-de721450be3e",
+            "vertical": true,
+            "translation": "1 小时平均值（白天）"
+        },
+        {
+            "bbox": [
+                878.9842055988781,
+                1187.1371156480373,
+                930.1489578650816,
+                1210.7516166939772
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "50%",
+            "uuid": "1b755339-5b0d-4e10-b141-f81c114bb7ae",
+            "vertical": false,
+            "translation": "50%"
+        },
+        {
+            "bbox": [
+                288.62167945037794,
+                1231.7422842903684,
+                519.5190230106803,
+                1259.2925355106318
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "8 hours daily maximum",
+            "uuid": "4b50bd5d-426f-425f-8422-8209fdcac397",
+            "vertical": false,
+            "translation": "每天最多 8 小时"
+        },
+        {
+            "bbox": [
+                881.6080390484271,
+                1231.7422842903684,
+                926.2132076907582,
+                1256.6687020610827
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "50%",
+            "uuid": "5ccbce98-a6f6-4dfb-a5b1-e8793c8a9f40",
+            "vertical": false,
+            "translation": "50%"
+        },
+        {
+            "bbox": [
+                289.93359617515233,
+                1326.2002884741285,
+                505.0879390381614,
+                1357.686289868715
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Objective estimation",
+            "uuid": "90d1c379-9c22-46a7-b2a4-657091341407",
+            "vertical": false,
+            "translation": "客观估计"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                1372.1173738412338,
+                405.3822679553036,
+                1399.6676250614973
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Uncertainty",
+            "uuid": "7af9c7f5-ec57-4ef9-bfbb-36a4381c7ce5",
+            "vertical": false,
+            "translation": "不确定性"
+        },
+        {
+            "bbox": [
+                877.6722888741037,
+                1373.4292905660084,
+                931.460874589856,
+                1397.0437916119483
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "75%",
+            "uuid": "d42b930b-2910-41cb-a0f3-546fd976a28f",
+            "vertical": false,
+            "translation": "75%"
+        },
+        {
+            "bbox": [
+                290.65081278620704,
+                1472.4802871140182,
+                1397.5686278364815,
+                1628.6711444524005
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "The uncertainty (on a 95% confidence interval) of the measurement methods will be evaluated in accordance with the principles of the ISO 'Guide to the Expression of Uncertainty in Measurement' (1993), or the methodology of ISO 5725-1 'Accuracy (trueness and precision) of measurement methods and results' (1994) or equivalent. The percentages for uncertainty in the table are given for individual measurements, averaged over the period for calculating target values and long-term objectives, for a 95% confidence interval. The uncertainty for continuous fixed measurements should be interpreted as being applicable in the region of the concentration used for the appropriate threshold.",
+            "uuid": "f92aa83e-d906-4410-9995-b772e10cb2e4",
+            "vertical": false,
+            "translation": "测量方法的不确定性（置信区间为 95%）将根据 ISO ”测量不确定性表达指南“（1993 年）的原则或 ISO 5725-1 ”测量方法和结果的准确性（真实度和精确度）“（1994 年）的方法或等效方法进行评估。 表中给出的不确定性百分比是在计算目标值和长期目标的期间内，置信区间为 95%的单个测量值的平均值。 连续固定测量值的不确定性应解释为适用于适当阈值的浓度区域。"
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                1653.1184090792779,
+                1407.0758974136004,
+                1734.6092911688686
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "The uncertainty for modelling and objective estimation is defined as the maximum deviation of the measured and calculated concentration levels, over the period for calculating the appropriate threshold, without taking into account the timing of the events.",
+            "uuid": "968ab6ec-0c00-41d0-8995-4425b1e94eda",
+            "vertical": false,
+            "translation": "建模和客观估计的不确定性定义为在计算适当阈值的时间段内测量和计算的浓度水平的最大偏差，而不考虑事件发生的时间。"
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                1759.0565557957457,
+                1403.0013533091208,
+                1812.0256291539797
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "'Time coverage' is defined as the percentage of the time considered for setting the threshold value during which the pollutant is measured.",
+            "uuid": "2ce8772d-f7b8-4bd7-b470-bacf51065e71",
+            "vertical": false,
+            "translation": "“时间覆盖范围”定义为设定污染物测量阈值所考虑的时间百分比。"
+        },
+        {
+            "bbox": [
+                290.65081278620704,
+                1839.1892565171765,
+                1401.6431719409609,
+                1893.5165112435704
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "'Data capture' is defined as the ratio of the time for which the instrument produces valid data, to the time for which the statistical parameter or aggregated value is to be calculated.",
+            "uuid": "d808cd2a-a38a-406e-8d31-d58dbf60e0e4",
+            "vertical": false,
+            "translation": "“数据采集”定义为仪器产生有效数据的时间与计算统计参数或综合值的时间之比。"
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                1922.0383199749272,
+                1398.9268092046411,
+                1965.5001237560423
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "The requirements for minimum data capture and time coverage do not include losses of data due to the regular calibration or normal maintenance of the instrumentation.",
+            "uuid": "c374b41d-879b-4e9d-885f-a95d1d5fce99",
+            "vertical": false,
+            "translation": "最小数据采集和时间覆盖范围的要求不包括由于仪器的定期校准或正常维护而导致的数据丢失。"
+        },
+        {
+            "bbox": [
+                262.1290040548502,
+                2026.6182853232356,
+                642.4197871396071,
+                2053.7819126864324
+            ],
+            "order": "38",
+            "label": "Section-header",
+            "text": "II. Results of air quality assessment",
+            "uuid": "6b353651-82e4-4b7c-af84-1c17059d1478",
+            "vertical": false,
+            "translation": "二、空气质量评估结果"
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                2080.9455400496295,
+                1401.6431719409609,
+                2135.272794776023
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "The following information should be compiled for zones or agglomerations within which sources other than measurement are employed to supplement information from measurement:",
+            "uuid": "e8a948df-86e7-4213-94f3-827c7a87eaa8",
+            "vertical": false,
+            "translation": "应针对采用测量以外的来源补充测量信息的区域或集聚区汇编以下信息："
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                2139.347338880503,
+                850.2215364680635,
+                2166.5109662436994
+            ],
+            "order": "40",
+            "label": "List-item",
+            "text": "a description of the assessment activities carried out,",
+            "uuid": "ef494f40-7d9d-4507-b28d-0ad4d9aeb9c5",
+            "vertical": false,
+            "translation": "说明已开展的评估活动，"
+        },
+        {
+            "bbox": [
+                292.00899415436686,
+                2171.943691716339,
+                1021.352388856204,
+                2204.5400445521755
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "specific methods used, with references to descriptions of the method,",
+            "uuid": "c1d625c1-ab0c-4779-88c7-96e625287c50",
+            "vertical": false,
+            "translation": "使用的具体方法，并注明方法说明，"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

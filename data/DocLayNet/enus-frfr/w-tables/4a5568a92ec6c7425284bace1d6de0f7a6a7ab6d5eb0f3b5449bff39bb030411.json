@@ -1,0 +1,1953 @@
+{
+    "file": "4a5568a92ec6c7425284bace1d6de0f7a6a7ab6d5eb0f3b5449bff39bb030411.png",
+    "annotations": [
+        {
+            "bbox": [
+                328.84805130877675,
+                197.23958865133955,
+                539.1519486912233,
+                221.76041134865991
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "Douglas C. Arthur",
+            "uuid": "fa1166ce-66cc-4757-8f5a-c35eb26b8e1a",
+            "vertical": false,
+            "translation": "Douglas C. Arthur"
+        },
+        {
+            "bbox": [
+                349.806120178421,
+                233.99999999999991,
+                538.2649939985533,
+                328.10791652508095
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "Attorney-at-Law Arthur and Allamong",
+            "uuid": "c0b89713-697e-4922-8a43-b6675cb18c81",
+            "vertical": false,
+            "translation": "Avocat Arthur et Allamong"
+        },
+        {
+            "bbox": [
+                329.96834398682813,
+                483.0000000000001,
+                479.60173534975263,
+                505.4572968429053
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Ken L. Burch",
+            "uuid": "58a3b68d-4e88-40f6-8851-d39fc06b58be",
+            "vertical": false,
+            "translation": "Ken L. Burch"
+        },
+        {
+            "bbox": [
+                331.0,
+                769.6963365861537,
+                564.054103047624,
+                795.5748851038661
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Harold Morrison, Jr.",
+            "uuid": "43883fdb-9875-4882-89e5-def124121a49",
+            "vertical": false,
+            "translation": "Harold Morrison, Jr."
+        },
+        {
+            "bbox": [
+                353.7736754167396,
+                802.0980376990886,
+                609.6809882882877,
+                964.9617921852406
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "Chairman of the Board Woodstock Garage, Inc. (an auto sales and repair firm)",
+            "uuid": "16b0cdd2-1c48-4da4-ba01-af14426c165c",
+            "vertical": false,
+            "translation": "Président du conseil Woodstock Garage, Inc. (entreprise de vente et de réparation d'automobiles)"
+        },
+        {
+            "bbox": [
+                114.52830808640607,
+                1221.811372095869,
+                342.79570135321876,
+                1250.8492440195516
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Operating Revenues",
+            "uuid": "775bc37a-e763-4cae-9f9c-03b29c5a62cf",
+            "vertical": false,
+            "translation": "Revenus d'exploitation"
+        },
+        {
+            "bbox": [
+                114.99999999999999,
+                1255.0,
+                338.9961299944622,
+                1279.389292727086
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Operating Expenses",
+            "uuid": "5035972c-2020-4032-bf03-95ceb1bdad47",
+            "vertical": false,
+            "translation": "Frais d'exploitation"
+        },
+        {
+            "bbox": [
+                115.96005550155395,
+                1284.0,
+                381.2552449427551,
+                1310.7365593402797
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Income Taxes (Benefit)",
+            "uuid": "f5c42616-e857-4a91-b080-67f5def9ce26",
+            "vertical": false,
+            "translation": "Impôts sur le revenu (Profit)"
+        },
+        {
+            "bbox": [
+                114.9450268099708,
+                1316.0,
+                302.329065537379,
+                1347.6982617647911
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Interest Expense",
+            "uuid": "d9f0c2db-e6ad-4590-8c1f-cb6a60612d88",
+            "vertical": false,
+            "translation": "Frais d'intérêts"
+        },
+        {
+            "bbox": [
+                116.70606479816138,
+                1380.3320827961504,
+                468.9836115647525,
+                1441.7400616043715
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Income (Loss) from Continuing",
+            "uuid": "892ae7d8-3ca7-4913-924b-22163dd20f91",
+            "vertical": false,
+            "translation": "Revenu (perte) de la continuation"
+        },
+        {
+            "bbox": [
+                114.99999999999999,
+                1444.0,
+                512.2135098834967,
+                1473.087328217565
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Discontinued Operations, net of tax",
+            "uuid": "588a66e5-caa2-4ffc-a771-fffb9de7d5ac",
+            "vertical": false,
+            "translation": "Activités abandonnées, nettes d'impôts"
+        },
+        {
+            "bbox": [
+                115.96005550155395,
+                1473.843486349982,
+                479.7379715507838,
+                1536.7176007458384
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Cumulative effect of a change in accounting, net of tax",
+            "uuid": "915d8f62-0d7e-4332-8738-0c16337689a9",
+            "vertical": false,
+            "translation": "Effet cumulatif d’un changement comptable, net d’impôt"
+        },
+        {
+            "bbox": [
+                115.96005550155395,
+                1542.1137173762645,
+                247.81786054767585,
+                1564.5575990862426
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Net Income",
+            "uuid": "32432a2e-3244-4f2d-968b-687125ff47ff",
+            "vertical": false,
+            "translation": "Revenu net"
+        },
+        {
+            "bbox": [
+                115.96005550155395,
+                1606.0,
+                258.2502613755839,
+                1628.6161781334722
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Total Assets",
+            "uuid": "4a3fda58-4fbf-44b2-af19-8a500be118ff",
+            "vertical": false,
+            "translation": "Total de l'actif"
+        },
+        {
+            "bbox": [
+                114.99999999999999,
+                1637.9561144353443,
+                372.1943716904716,
+                1665.5550667811444
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "Long-term Obligations",
+            "uuid": "7393d827-560e-4128-b968-135957bee969",
+            "vertical": false,
+            "translation": "Obligations à long terme"
+        },
+        {
+            "bbox": [
+                115.96005550155395,
+                1672.0,
+                316.0846674155261,
+                1695.9478232634067
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Salary and Wages",
+            "uuid": "e6fae747-e39d-4f45-a056-a507d9f7e3bd",
+            "vertical": false,
+            "translation": "Salaire et paie"
+        },
+        {
+            "bbox": [
+                116.99999999999999,
+                1733.0,
+                399.7915572035331,
+                1759.781952023761
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "Shareholder Information:",
+            "uuid": "85143b0c-f2d4-4e90-b92a-d044db7bbeae",
+            "vertical": false,
+            "translation": "Informations sur les actionnaires :"
+        },
+        {
+            "bbox": [
+                114.99999999999999,
+                1828.2579347441542,
+                465.2747254710179,
+                1887.8812507660375
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "Income (Loss) per share from Continuing Operations-diluted",
+            "uuid": "1f311e16-51b5-4d78-a6c6-048413fb6761",
+            "vertical": false,
+            "translation": "Revenu (perte) par action des activités poursuivies - dilué"
+        },
+        {
+            "bbox": [
+                116.0,
+                1892.7780531086728,
+                487.65508679095694,
+                1952.5987628412759
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "Income per share from Discontinued Operations-diluted",
+            "uuid": "895b07e3-36dc-45c0-bdc0-50da6278290c",
+            "vertical": false,
+            "translation": "Bénéfice par action dilué des activités abandonnées"
+        },
+        {
+            "bbox": [
+                114.94140625,
+                2030.810546875,
+                442.57812500000006,
+                2057.305051370873
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "Net Income per share-diluted",
+            "uuid": "1b924f72-29fb-4d70-be4b-688ae2e6e56f",
+            "vertical": false,
+            "translation": "Revenu net par action dilué"
+        },
+        {
+            "bbox": [
+                669.0,
+                1190.9604847888975,
+                724.7503468847123,
+                1211.534043023044
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "2003",
+            "uuid": "839a1ca2-f674-4fe0-92f2-50860cc459d2",
+            "vertical": false,
+            "translation": "2003"
+        },
+        {
+            "bbox": [
+                633.5720774379259,
+                1221.8030067541047,
+                766.0,
+                1249.4080934086323
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "$ 105,861",
+            "uuid": "c9cbde7e-9d94-42ec-911e-b13dca0fb838",
+            "vertical": false,
+            "translation": "105 861 $"
+        },
+        {
+            "bbox": [
+                689.0,
+                1255.9542255740425,
+                768.7029485667529,
+                1278.8815711621705
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "87,233",
+            "uuid": "0560370e-8d26-4c50-88e0-32d4345f42a7",
+            "vertical": false,
+            "translation": "87 233"
+        },
+        {
+            "bbox": [
+                702.774046043692,
+                1286.0,
+                768.1444646538273,
+                1313.036055681023
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "5,304",
+            "uuid": "51cd2936-cf3c-4de2-a7a7-3d812090b04b",
+            "vertical": false,
+            "translation": "5 304"
+        },
+        {
+            "bbox": [
+                704.0,
+                1319.048237981338,
+                768.235367697795,
+                1345.319061596103
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "3,510",
+            "uuid": "24a0d6ed-a6ea-4ee6-bc6a-15d9702a9cd0",
+            "vertical": false,
+            "translation": "3 510"
+        },
+        {
+            "bbox": [
+                634.0396583068838,
+                1411.6586549370163,
+                764.9623016150898,
+                1438.3107644676154
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "$ 9,761",
+            "uuid": "d02d2955-3f97-496e-8465-a3bc090763e8",
+            "vertical": false,
+            "translation": "9 761 $"
+        },
+        {
+            "bbox": [
+                689.0,
+                1448.0,
+                768.235367697795,
+                1473.1228912365036
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "22,389",
+            "uuid": "52f14c6b-4e26-4361-9689-ed1dd1b79c32",
+            "vertical": false,
+            "translation": "22 389"
+        },
+        {
+            "bbox": [
+                729.893736443249,
+                1510.7857991560866,
+                776.6518233390368,
+                1536.50274694877
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "(76)",
+            "uuid": "58889f77-efba-417e-8a97-d7bff0555e14",
+            "vertical": false,
+            "translation": "(76)"
+        },
+        {
+            "bbox": [
+                690.0,
+                1543.9840408520959,
+                767.7677868288371,
+                1566.895503431032
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "32,074",
+            "uuid": "5d536904-0f3f-4c5c-8726-8dc6268e0e25",
+            "vertical": false,
+            "translation": "32 074"
+        },
+        {
+            "bbox": [
+                634.9748200447996,
+                1606.0,
+                768.4110456522822,
+                1631.889244216177
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "$ 185,364",
+            "uuid": "84737294-ee74-4586-a403-9c5b40fcbbd8",
+            "vertical": false,
+            "translation": "185 364 $"
+        },
+        {
+            "bbox": [
+                689.0,
+                1639.0,
+                766.2110380324109,
+                1665.5550667811444
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "43,346",
+            "uuid": "1dd3f20c-a2a6-4782-a9e5-b21f9b77c644",
+            "vertical": false,
+            "translation": "43 346"
+        },
+        {
+            "bbox": [
+                691.0,
+                1670.2169963322913,
+                767.3002059598792,
+                1693.609918918617
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "11,115",
+            "uuid": "b1d0a942-2287-4f2c-8511-b5e86a7b2de0",
+            "vertical": false,
+            "translation": "11 115"
+        },
+        {
+            "bbox": [
+                704.0,
+                1767.0,
+                767.6698968473628,
+                1792.7370631376875
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "3,930",
+            "uuid": "3cb7abd2-dbe4-46db-a0b1-ede2428c6cd5",
+            "vertical": false,
+            "translation": "3 930"
+        },
+        {
+            "bbox": [
+                655.0,
+                1797.8665017671947,
+                767.7677868288371,
+                1823.5974004889074
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "7,592,768",
+            "uuid": "235e969b-2dd3-4a0f-94f0-ef7703b50e78",
+            "vertical": false,
+            "translation": "7 592 768"
+        },
+        {
+            "bbox": [
+                632.1693348310522,
+                1860.068708267622,
+                766.8326250909214,
+                1883.9153325844738
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "$ 1.28",
+            "uuid": "2e01eef6-f3b0-4244-a005-26d46ce465c2",
+            "vertical": false,
+            "translation": "1,28 $"
+        },
+        {
+            "bbox": [
+                715.8663103745126,
+                1925.9976107906832,
+                766.8326250909214,
+                1947.5427172928942
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "2.94",
+            "uuid": "ac30463f-cd5c-4fa7-bdfe-2630b9f8c340",
+            "vertical": false,
+            "translation": "2,94"
+        },
+        {
+            "bbox": [
+                708.8525973401444,
+                1999.8753880860277,
+                775.716661601121,
+                2026.1546372388495
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "(0.01)",
+            "uuid": "f3c464b5-6c27-4fe1-a254-f9eefa55e35c",
+            "vertical": false,
+            "translation": "(0,01)"
+        },
+        {
+            "bbox": [
+                714.9311486365967,
+                2031.0,
+                766.3650442219634,
+                2053.758946644498
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "4.22",
+            "uuid": "ec6530ae-4034-4ca7-91db-ad8025df3a2b",
+            "vertical": false,
+            "translation": "4,22"
+        },
+        {
+            "bbox": [
+                633.104496568968,
+                2060.660901050552,
+                766.3650442219634,
+                2087.445561512407
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "$ 0.39",
+            "uuid": "11368335-aec9-4908-9734-e53863022fef",
+            "vertical": false,
+            "translation": "0,39 $"
+        },
+        {
+            "bbox": [
+                849.4851286370418,
+                200.00000000000006,
+                1031.215585172683,
+                224.2305948099838
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Noel M. Borden",
+            "uuid": "5873009a-8d9b-4402-ac08-3a76fb927283",
+            "vertical": false,
+            "translation": "Noel M. Borden"
+        },
+        {
+            "bbox": [
+                851.7018578257207,
+                489.3193466128045,
+                1104.3028746653367,
+                546.3087522541955
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Christopher E. French President",
+            "uuid": "4b1b4503-f59d-434f-a31a-2da3adb7f477",
+            "vertical": false,
+            "translation": "Christopher E. Président français"
+        },
+        {
+            "bbox": [
+                875.9999999999998,
+                557.0,
+                1103.4990033294512,
+                681.2889438346659
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Shenandoah Telecommunications Company and its subsidiaries",
+            "uuid": "f378f8dd-32c2-4951-b7d4-aa2e9bed0943",
+            "vertical": false,
+            "translation": "Shenandoah Telecommunications Company et ses filiales"
+        },
+        {
+            "bbox": [
+                851.0405986193344,
+                772.3459136097333,
+                968.7447373561188,
+                799.5448907385861
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Zane Neff",
+            "uuid": "78f2f1a7-0d61-437e-ab5a-7d8061463548",
+            "vertical": false,
+            "translation": "Zane Neff"
+        },
+        {
+            "bbox": [
+                868.8945971917681,
+                805.3809480901024,
+                1074.9346643139338,
+                969.1569285617683
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Manager, Retired Hugh Saum Company, Inc. (a hardware and furniture store)",
+            "uuid": "ec98168a-e9e3-4b10-b845-59b3b3c84e71",
+            "vertical": false,
+            "translation": "Directeur, Retraité Hugh Saum Company, Inc. (quincaillerie et magasin de meubles)"
+        },
+        {
+            "bbox": [
+                894.0,
+                1286.8145629252626,
+                973.5033691703039,
+                1310.228837775364
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "(2,109)",
+            "uuid": "905a6a20-abe1-4bba-8cb1-252c6f63255c",
+            "vertical": false,
+            "translation": "(2 109)"
+        },
+        {
+            "bbox": [
+                901.0,
+                1318.9999999999998,
+                965.5544943980199,
+                1342.5828840588294
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "4,195",
+            "uuid": "c4a781e8-74c0-4e03-a49e-e632661220f2",
+            "vertical": false,
+            "translation": "4 195"
+        },
+        {
+            "bbox": [
+                836.0000000000001,
+                1413.3520258568929,
+                975.3736926461353,
+                1439.436276368594
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "$ (2,893)",
+            "uuid": "8e738cfc-c89e-4eac-a8f1-4c534dc2c836",
+            "vertical": false,
+            "translation": "(2 893) $"
+        },
+        {
+            "bbox": [
+                903.8338196955799,
+                1444.8272046349384,
+                967.4248178738515,
+                1470.7835429817876
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "7,412",
+            "uuid": "c4274d71-a43a-4603-9489-c2fa6c7b8909",
+            "vertical": false,
+            "translation": "7 412"
+        },
+        {
+            "bbox": [
+                901.9634962197483,
+                1543.0,
+                965.5544943980199,
+                1567.3630842999899
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "4,519",
+            "uuid": "755d6c38-841e-4c30-8e18-c49df4d97900",
+            "vertical": false,
+            "translation": "4 519"
+        },
+        {
+            "bbox": [
+                818.0,
+                1069.0,
+                1570.0,
+                1093.0
+            ],
+            "order": "29",
+            "label": "Section-header",
+            "text": "FIVE-YEAR SUMMARY OF SELECTED FINANCIAL DATA",
+            "uuid": "baf40246-52e9-4540-9684-254fb4d8df44",
+            "vertical": false,
+            "translation": "RÉSUMÉ SUR CINQ ANS DE DONNÉES FINANCIÈRES SÉLECTIONNÉES"
+        },
+        {
+            "bbox": [
+                836.9697554346033,
+                1605.0,
+                967.2231948360378,
+                1630.4865016093036
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "$164,004",
+            "uuid": "62e19ef4-1cb0-408a-ba07-73db454730a6",
+            "vertical": false,
+            "translation": "164 004 $"
+        },
+        {
+            "bbox": [
+                888.8712318889278,
+                1639.0,
+                967.6940732254035,
+                1661.8144198294813
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "52,043",
+            "uuid": "59194daf-1ce9-43cb-b6b9-61b61b36b2e9",
+            "vertical": false,
+            "translation": "52 043"
+        },
+        {
+            "bbox": [
+                891.9999999999999,
+                1671.0,
+                963.2165900532306,
+                1695.012661525491
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "10,051",
+            "uuid": "6c3d53dd-2112-4743-ac9d-d01f7410d2bf",
+            "vertical": false,
+            "translation": "10 051"
+        },
+        {
+            "bbox": [
+                871.1031588685283,
+                1147.0,
+                1455.1116641969193,
+                1173.6819400683391
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "(Dollar figures in thousands, except per share data.)",
+            "uuid": "46a53c3a-3b09-4551-86a0-ba2f6f3bf65a",
+            "vertical": false,
+            "translation": "(Chiffres en milliers, sauf les données par action.)"
+        },
+        {
+            "bbox": [
+                1273.0,
+                1189.0323838479176,
+                1331.670314792039,
+                1210.1757728419075
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "2000",
+            "uuid": "5173b2ed-0c2e-4218-83d0-4ce1c92400c9",
+            "vertical": false,
+            "translation": "2000"
+        },
+        {
+            "bbox": [
+                865.9597693099918,
+                1189.0000000000002,
+                921.7279817821949,
+                1212.4692047609599
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "2002",
+            "uuid": "5f865636-346b-4246-9f72-b91a1cfbdb89",
+            "vertical": false,
+            "translation": "2002"
+        },
+        {
+            "bbox": [
+                1225.9970384075584,
+                1223.0,
+                1359.2575860605539,
+                1247.6053449173626
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "$ 44,445",
+            "uuid": "41d259b3-7a68-44bf-8eff-0d88ab222cdc",
+            "vertical": false,
+            "translation": "44 445 $"
+        },
+        {
+            "bbox": [
+                889.8063936268435,
+                1255.0,
+                967.8923987428093,
+                1279.3494408131137
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "83,636",
+            "uuid": "41b85322-1292-4da7-8903-5092ee60d44b",
+            "vertical": false,
+            "translation": "83 636"
+        },
+        {
+            "bbox": [
+                1281.0,
+                1254.0,
+                1358.1259719520624,
+                1277.0811329267833
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "39,067",
+            "uuid": "77f09c84-2979-44b2-8490-2bfae223717f",
+            "vertical": false,
+            "translation": "39 067"
+        },
+        {
+            "bbox": [
+                1292.861102668535,
+                1285.8794011873467,
+                1359.725166929512,
+                1309.2584446352407
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "2,975",
+            "uuid": "eec02f06-a2c2-4f7c-86e8-cddbdada5ea2",
+            "vertical": false,
+            "translation": "2 975"
+        },
+        {
+            "bbox": [
+                1294.7314261443664,
+                1319.0776428833562,
+                1359.725166929512,
+                1342.5828840588294
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "2,936",
+            "uuid": "d0d599f7-bcf3-4777-a361-a7474f749b8d",
+            "vertical": false,
+            "translation": "2 936"
+        },
+        {
+            "bbox": [
+                902.0000000000001,
+                1765.1011047156096,
+                968.3599796117671,
+                1791.097375881083
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "3,954",
+            "uuid": "58d73679-8713-481a-b5b1-8596076eb39f",
+            "vertical": false,
+            "translation": "3 954"
+        },
+        {
+            "bbox": [
+                855.0,
+                1797.880452696224,
+                968.3599796117671,
+                1822.1946578820339
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "7,551,818",
+            "uuid": "f3e134f7-5c74-443b-a675-4be7bc0eac81",
+            "vertical": false,
+            "translation": "7 551 818"
+        },
+        {
+            "bbox": [
+                835.5670128277295,
+                1859.0642606981137,
+                976.4992995488451,
+                1886.2532369292633
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "$ (0.38)",
+            "uuid": "11e74c85-a993-42c1-b33e-2875e8e54880",
+            "vertical": false,
+            "translation": "(0,38) $"
+        },
+        {
+            "bbox": [
+                917.8612457643162,
+                1926.0,
+                965.9378352464304,
+                1947.0748476419508
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "0.98",
+            "uuid": "b6374366-7326-4b5e-baea-07a880d40a7d",
+            "vertical": false,
+            "translation": "0,98"
+        },
+        {
+            "bbox": [
+                1062.8113151412588,
+                1190.0,
+                1117.5182768093305,
+                1210.6436424928509
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "2001",
+            "uuid": "b53759da-f5a0-4086-acae-4fdec15bb0bd",
+            "vertical": false,
+            "translation": "2001"
+        },
+        {
+            "bbox": [
+                1077.7739029479108,
+                1255.0,
+                1155.3923271949188,
+                1280.3562204833854
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "62,298",
+            "uuid": "e9cf351e-2ff3-41f1-a50b-3bad39a010bf",
+            "vertical": false,
+            "translation": "62 298"
+        },
+        {
+            "bbox": [
+                1090.8661672787314,
+                1285.8794011873467,
+                1153.522003719087,
+                1309.364138841863
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "5,811",
+            "uuid": "52cd303a-31b2-45f1-9c91-a0ff80ef03d6",
+            "vertical": false,
+            "translation": "5 811"
+        },
+        {
+            "bbox": [
+                1089.9310055408157,
+                1318.9999999999998,
+                1155.3923271949188,
+                1342.115014407886
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "4,127",
+            "uuid": "84a43412-4677-44c0-b5aa-9a988960627c",
+            "vertical": false,
+            "translation": "4 127"
+        },
+        {
+            "bbox": [
+                918.328826633274,
+                2028.7439237007047,
+                967.4248178738515,
+                2051.4097798022813
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "0.60",
+            "uuid": "b989d892-a225-4d14-ac32-e9be0e91fb58",
+            "vertical": false,
+            "translation": "0,60"
+        },
+        {
+            "bbox": [
+                835.5670128277295,
+                2059.2581584436784,
+                968.827560480725,
+                2084.156280803779
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "$ 0.37",
+            "uuid": "6ceb2e3a-4e97-4042-b9b0-494e104fe0e3",
+            "vertical": false,
+            "translation": "0,37 $"
+        },
+        {
+            "bbox": [
+                1023.0669412798389,
+                1413.9965592818057,
+                1155.8599080638767,
+                1439.9041460195372
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "$ 9,694",
+            "uuid": "77b9bf6d-eda8-4914-9221-a912da219e75",
+            "vertical": false,
+            "translation": "9 694 $"
+        },
+        {
+            "bbox": [
+                1090.8661672787314,
+                1445.7525932531764,
+                1156.3274889328345,
+                1471.2514126327308
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "6,678",
+            "uuid": "0278c9de-3650-4655-8b27-f983d2049576",
+            "vertical": false,
+            "translation": "6 678"
+        },
+        {
+            "bbox": [
+                1023.0000000000002,
+                1606.0,
+                1154.4571654570032,
+                1628.6161781334722
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "$ 167,372",
+            "uuid": "edcac5bd-7c30-4a0f-b0e6-afedc8177306",
+            "vertical": false,
+            "translation": "167 372 $"
+        },
+        {
+            "bbox": [
+                1076.838741209995,
+                1638.9029572505453,
+                1156.3274889328345,
+                1662.282000698439
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "56,436",
+            "uuid": "fc163028-cf9c-4126-96dc-9a5562a95774",
+            "vertical": false,
+            "translation": "56 436"
+        },
+        {
+            "bbox": [
+                1093.0,
+                1671.0,
+                1156.3274889328345,
+                1692.6747571807014
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "8,994",
+            "uuid": "6c79af1b-ef67-43d4-84f7-e5de36476122",
+            "vertical": false,
+            "translation": "8 994"
+        },
+        {
+            "bbox": [
+                1080.0,
+                1542.0,
+                1154.4571654570032,
+                1565.960341693116
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "16,372",
+            "uuid": "b213d8bb-c1d7-4f56-9ede-a609a58d2432",
+            "vertical": false,
+            "translation": "16 372"
+        },
+        {
+            "bbox": [
+                1091.8013290166473,
+                1766.0763350777138,
+                1155.8599080638767,
+                1789.9315779239403
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "3,752",
+            "uuid": "d1bf4472-d225-4e3b-ad45-a3ccfc0c79f8",
+            "vertical": false,
+            "translation": "3 752"
+        },
+        {
+            "bbox": [
+                1044.0,
+                1797.0,
+                1155.588805377086,
+                1820.7919152751601
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "7,530,956",
+            "uuid": "384ecf14-2189-4d6b-b217-1a561d6fe879",
+            "vertical": false,
+            "translation": "7 530 956"
+        },
+        {
+            "bbox": [
+                1024.0021030177547,
+                1858.6474836136888,
+                1154.4571654570032,
+                1884.9893716327624
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "$ 1.28",
+            "uuid": "01d0c4e3-5374-4f08-905d-6734b4cef936",
+            "vertical": false,
+            "translation": "1,28 $"
+        },
+        {
+            "bbox": [
+                1104.8935933474677,
+                1925.9976107906832,
+                1155.3923271949188,
+                1948.0105869438373
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "0.88",
+            "uuid": "df4d4382-706a-4445-aac2-790ec8ea985a",
+            "vertical": false,
+            "translation": "0,88"
+        },
+        {
+            "bbox": [
+                1104.8935933474677,
+                2029.800563699332,
+                1156.7950698017924,
+                2051.873274888699
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "2.17",
+            "uuid": "8aed67e7-2e5d-4d02-a739-46ebc1fc8d9c",
+            "vertical": false,
+            "translation": "2,17"
+        },
+        {
+            "bbox": [
+                1021.6641986729653,
+                2060.660901050552,
+                1153.9895845880449,
+                2084.039944498446
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "$ 0.35",
+            "uuid": "0b428041-385d-477a-9bde-5951c9c65ba3",
+            "vertical": false,
+            "translation": "0,35 $"
+        },
+        {
+            "bbox": [
+                1244.0,
+                109.0,
+                1571.0,
+                131.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "BOARD OF DIRECTORS",
+            "uuid": "58289c87-c5b3-4218-ad5f-c2ce6bbcbb81",
+            "vertical": false,
+            "translation": "CONSEIL D'ADMINISTRATION"
+        },
+        {
+            "bbox": [
+                1343.678707377224,
+                206.30349274491604,
+                1538.7501732612207,
+                228.78630576205478
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Dick D. Bowman",
+            "uuid": "fd12a281-28f0-4137-88bf-d267b35528bd",
+            "vertical": false,
+            "translation": "Dick D. Bowman"
+        },
+        {
+            "bbox": [
+                1348.9687810283156,
+                486.9999999999999,
+                1583.186346457282,
+                511.2354683547025
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Grover M. Holler, Jr. President",
+            "uuid": "80fff11b-6a3d-4f10-a378-115a2b93a4bd",
+            "vertical": false,
+            "translation": "Grover M. Holler, Jr. Président"
+        },
+        {
+            "bbox": [
+                1370.7903348390676,
+                520.4016157784699,
+                1555.2816534208814,
+                646.0408649918916
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "President Valley View, Inc. (a real estate developer)",
+            "uuid": "f8d5bbb7-4dfd-4c2b-97c6-81cade0cee0a",
+            "vertical": false,
+            "translation": "Président de Valley View, Inc. (promoteur immobilier)"
+        },
+        {
+            "bbox": [
+                1343.678707377224,
+                771.1237094352603,
+                1554.620394214495,
+                795.752538842949
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "James E. Zerkel II",
+            "uuid": "f933a2d4-6e0c-417c-b139-25ab0df15b71",
+            "vertical": false,
+            "translation": "James E. Zerkel II"
+        },
+        {
+            "bbox": [
+                1227.8673618833898,
+                1413.528978412848,
+                1353.1790347641015,
+                1437.5604232002959
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "$ 5,091",
+            "uuid": "037bdf59-df48-43df-a71c-36db27b63fad",
+            "vertical": false,
+            "translation": "5 091 $"
+        },
+        {
+            "bbox": [
+                1292.9545983220187,
+                1445.0,
+                1356.0,
+                1471.2470380682055
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "4,764",
+            "uuid": "a029d109-4f04-47a5-954f-b1a4bb25cb55",
+            "vertical": false,
+            "translation": "4 764"
+        },
+        {
+            "bbox": [
+                1290.33724938529,
+                1541.0,
+                1355.049358239933,
+                1564.5575990862426
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "9,855",
+            "uuid": "62dbbfa1-86b5-4b43-aa3c-240e13f5b9de",
+            "vertical": false,
+            "translation": "9 855"
+        },
+        {
+            "bbox": [
+                1225.725365002412,
+                1605.0,
+                1359.0552791700259,
+                1630.790589039832
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "$ 152,585",
+            "uuid": "5c336678-8bd7-4379-a15c-da5b671b7a51",
+            "vertical": false,
+            "translation": "152 585 $"
+        },
+        {
+            "bbox": [
+                1368.106864519187,
+                239.44445734967405,
+                1592.1944391558798,
+                367.1463052664913
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "President Bowman Bros., Inc. (a farm equipment dealer)",
+            "uuid": "2385f582-9365-498a-a5b8-2393b147086c",
+            "vertical": false,
+            "translation": "Président de Bowman Bros., Inc. (revendeur de matériel agricole)"
+        },
+        {
+            "bbox": [
+                1294.7314261443664,
+                1766.0049181624124,
+                1357.3872625847225,
+                1788.9964161860244
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "3,726",
+            "uuid": "76f0a323-0953-425b-b2e0-a32f2f53f11d",
+            "vertical": false,
+            "translation": "3 726"
+        },
+        {
+            "bbox": [
+                1229.2701044902637,
+                1858.1983847917907,
+                1358.790005191596,
+                1884.8504943223897
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "$ 0.68",
+            "uuid": "4edb162d-5ac0-48c1-9513-bc9766d60804",
+            "vertical": false,
+            "translation": "0,68 $"
+        },
+        {
+            "bbox": [
+                1307.8236904751873,
+                1924.1272873148514,
+                1357.8548434536804,
+                1946.5711690248295
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "0.63",
+            "uuid": "1d2e1cca-3faa-4239-8bbe-15b207d11774",
+            "vertical": false,
+            "translation": "0,63"
+        },
+        {
+            "bbox": [
+                1311.0,
+                2031.0,
+                1356.4521008468066,
+                2052.3411445396423
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "1.31",
+            "uuid": "cc5ce603-eb1c-4c59-8ac2-faf061b33844",
+            "vertical": false,
+            "translation": "1,31"
+        },
+        {
+            "bbox": [
+                1226.932200145474,
+                2060.660901050552,
+                1355.9845199778488,
+                2085.5598897566088
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "$ .33",
+            "uuid": "9da84009-2b8e-4fdc-9234-4724f8d21c9d",
+            "vertical": false,
+            "translation": "0,33 $"
+        },
+        {
+            "bbox": [
+                1479.8934502516868,
+                1188.9879574298227,
+                1537.8734780024638,
+                1211.5793817947372
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "1999",
+            "uuid": "45600789-3262-41f8-8300-84735da5744a",
+            "vertical": false,
+            "translation": "1999"
+        },
+        {
+            "bbox": [
+                1432.667782486941,
+                1220.885660402202,
+                1559.382197974526,
+                1246.201735964533
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "$ 29,701",
+            "uuid": "eb6beef2-5a58-41a3-a8c1-2ddbad507257",
+            "vertical": false,
+            "translation": "29 701 $"
+        },
+        {
+            "bbox": [
+                1483.0000000000002,
+                1253.0890279603886,
+                1564.0580066641048,
+                1278.0168722286694
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "24,624",
+            "uuid": "5daaa710-66ea-46f8-9866-89626bc7a5b7",
+            "vertical": false,
+            "translation": "24 624"
+        },
+        {
+            "bbox": [
+                1498.0,
+                1284.8635043686093,
+                1560.317359712442,
+                1310.832124817947
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "1,729",
+            "uuid": "9bf559b6-8994-4301-83a5-31e06892e31c",
+            "vertical": false,
+            "translation": "1 729"
+        },
+        {
+            "bbox": [
+                1499.0,
+                1317.1834843359213,
+                1558.9146171055681,
+                1341.647144756943
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "1,951",
+            "uuid": "48a44882-d769-4433-b627-ab67a840b9bd",
+            "vertical": false,
+            "translation": "1 951"
+        },
+        {
+            "bbox": [
+                1432.200201617983,
+                1413.9965592818057,
+                1560.7849405814,
+                1439.4319018040687
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "$ 2,927",
+            "uuid": "3a95e933-d6f5-484c-a79e-d885d860ac32",
+            "vertical": false,
+            "translation": "2 927 $"
+        },
+        {
+            "bbox": [
+                1494.8560380583388,
+                1445.7505791998822,
+                1558.0,
+                1469.3755594644326
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "3,501",
+            "uuid": "5292d818-02a9-4ca0-8ace-261d37db203d",
+            "vertical": false,
+            "translation": "3 501"
+        },
+        {
+            "bbox": [
+                1497.1939424031282,
+                1543.0,
+                1560.0,
+                1566.895503431032
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "6,428",
+            "uuid": "1017f8e5-ec80-4b99-808d-9376bb02c45e",
+            "vertical": false,
+            "translation": "6 428"
+        },
+        {
+            "bbox": [
+                1433.0000000000002,
+                1606.0,
+                1560.951696983888,
+                1629.5513398713879
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "$ 133,644",
+            "uuid": "9db75875-c724-4fb5-bf9c-6807b1629ee9",
+            "vertical": false,
+            "translation": "133 644 $"
+        },
+        {
+            "bbox": [
+                1483.0000000000002,
+                1638.9029572505453,
+                1561.2525214503578,
+                1660.8792580915656
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "33,030",
+            "uuid": "cb67af77-bf39-477e-b4c4-2c0ddc53494f",
+            "vertical": false,
+            "translation": "33 030"
+        },
+        {
+            "bbox": [
+                1497.0,
+                1671.0,
+                1561.2525214503578,
+                1693.1423380496592
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "6,637",
+            "uuid": "ed8f9327-4fda-4cf5-a237-e87920c01ccd",
+            "vertical": false,
+            "translation": "6 637"
+        },
+        {
+            "bbox": [
+                1494.8560380583388,
+                1767.0,
+                1559.0,
+                1790.8667396618562
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "3,683",
+            "uuid": "f796ee3d-3f07-4a36-bbef-e1e9c514ae53",
+            "vertical": false,
+            "translation": "3 683"
+        },
+        {
+            "bbox": [
+                1449.9682746383824,
+                1797.880452696224,
+                1561.7201023193156,
+                1819.8567535372445
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "7,511,520",
+            "uuid": "7def7551-55d5-434e-a6e5-0efe225d03d5",
+            "vertical": false,
+            "translation": "7 511 520"
+        },
+        {
+            "bbox": [
+                1431.2650398800672,
+                1858.1752393982204,
+                1558.9146171055681,
+                1883.9153325844738
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "$ 0.39",
+            "uuid": "7b6c0a70-0a48-4511-a63c-9911ce08c2cf",
+            "vertical": false,
+            "translation": "0,39 $"
+        },
+        {
+            "bbox": [
+                1511.0,
+                1926.0,
+                1561.1783051171985,
+                1947.0704730774255
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "0.47",
+            "uuid": "70af0c4a-8948-4fda-80ef-3524cd3e3b4b",
+            "vertical": false,
+            "translation": "0,47"
+        },
+        {
+            "bbox": [
+                1511.0,
+                2031.0,
+                1561.7201023193156,
+                2053.2768838415286
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "0.86",
+            "uuid": "0cc2604c-e610-4781-9f67-537d263de8b7",
+            "vertical": false,
+            "translation": "0,86"
+        },
+        {
+            "bbox": [
+                1433.6029442248566,
+                2061.596062788468,
+                1563.1228449261891,
+                2086.503132514371
+            ],
+            "order": "137",
+            "label": "Table cell",
+            "text": "$ 0.28",
+            "uuid": "8e33c1c9-1cc0-4be9-82b3-61798b42188a",
+            "vertical": false,
+            "translation": "0,28 $"
+        },
+        {
+            "bbox": [
+                1293.8000466170215,
+                2106.836525017086,
+                1305.522603071825,
+                2127.34879364464
+            ],
+            "order": "138",
+            "label": "Page-footer",
+            "text": "7",
+            "uuid": "031659ed-f90c-4041-b861-28f2ac5334b2",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                107.78525064098797,
+                193.14528611881892,
+                309.4693085888489,
+                453.84232279874686
+            ],
+            "order": "2",
+            "label": "Picture",
+            "text": "Photo: Douglas C. Arthur",
+            "uuid": "03f4740c-4401-49e0-974c-00e06ba83cc0",
+            "vertical": false,
+            "translation": "Photo : Douglas C. Arthur"
+        },
+        {
+            "bbox": [
+                635.4700973373584,
+                196.46056693755517,
+                836.4928960788329,
+                457.8192712232698
+            ],
+            "order": "5",
+            "label": "Picture",
+            "text": "Photo: Noel M. Borden",
+            "uuid": "f15b8660-4d83-4899-af39-4547ac25aa9f",
+            "vertical": false,
+            "translation": "Photo : Noel M. Borden"
+        },
+        {
+            "bbox": [
+                875.5071892556322,
+                232.83227368521005,
+                1079.1750248226524,
+                394.9408371029316
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "President, Retired H. L. Borden Lumber Company (a retail building materials firm)",
+            "uuid": "0352e686-6883-40c7-9afa-f069326bb0db",
+            "vertical": false,
+            "translation": "Président, Retraité H. L. Borden Lumber Company (entreprise de vente de matériaux de construction)"
+        },
+        {
+            "bbox": [
+                1130.0919837144072,
+                196.43606297354356,
+                1329.792264043109,
+                458.4564348650451
+            ],
+            "order": "8",
+            "label": "Picture",
+            "text": "Photo: Dick D. Bowman",
+            "uuid": "3a517575-6c07-4d3d-8a6a-e4351a6741a6",
+            "vertical": false,
+            "translation": "Photo : Dick D. Bowman"
+        },
+        {
+            "bbox": [
+                356.4187122422853,
+                516.0439785354915,
+                442.38240907252106,
+                541.8490151611695
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Farmer",
+            "uuid": "590d6fbd-d470-48e8-a5c4-95ecb9b18506",
+            "vertical": false,
+            "translation": "Agriculteur"
+        },
+        {
+            "bbox": [
+                108.44650984737439,
+                478.3289250056542,
+                308.14679017607597,
+                750.2743109839546
+            ],
+            "order": "11",
+            "label": "Picture",
+            "text": "Photo: Ken L. Burch",
+            "uuid": "f7d68254-5262-4681-93a8-301db7f532d2",
+            "vertical": false,
+            "translation": "Photo : Ken L. Burch"
+        },
+        {
+            "bbox": [
+                634.1475789245857,
+                474.8466088322398,
+                835.8316368724464,
+                749.438665233687
+            ],
+            "order": "14",
+            "label": "Picture",
+            "text": "Photo: Christopher E. French",
+            "uuid": "a978ee88-cbdc-47a1-9785-4f4b3117a311",
+            "vertical": false,
+            "translation": "Photo : Christopher E. French"
+        },
+        {
+            "bbox": [
+                1128.7694653016347,
+                482.7886620986802,
+                1329.792264043109,
+                746.1323692017548
+            ],
+            "order": "17",
+            "label": "Picture",
+            "text": "Photo: Grover M. Holler, Jr.",
+            "uuid": "5687cd9b-89f6-4bae-a27c-353248860834",
+            "vertical": false,
+            "translation": "Photo : Grover M. Holler, Jr."
+        },
+        {
+            "bbox": [
+                1357.5651507113391,
+                805.6775529297483,
+                1593.6346873912944,
+                902.2810233745945
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "Vice President James E. Zerkel, Inc. (a hardware firm)",
+            "uuid": "ea9937e4-65cc-48ba-8b28-96f9c84fc9df",
+            "vertical": false,
+            "translation": "Vice-président James E. Zerkel, Inc. (quincaillerie)"
+        },
+        {
+            "bbox": [
+                1132.0757613335668,
+                769.7482033099781,
+                1331.1147824558818,
+                1026.4752343551863
+            ],
+            "order": "26",
+            "label": "Picture",
+            "text": "Photo: James E. Zerkel II",
+            "uuid": "fd049bb1-0a6f-45fc-ad5f-19fd3c66d548",
+            "vertical": false,
+            "translation": "Photo : James E. Zerkel II"
+        },
+        {
+            "bbox": [
+                634.8088381309719,
+                770.4319244833749,
+                834.5091184596737,
+                1029.1439583459428
+            ],
+            "order": "23",
+            "label": "Picture",
+            "text": "Photo: Zane Neff",
+            "uuid": "944fb77b-4000-47cf-a5cf-548f95c69354",
+            "vertical": false,
+            "translation": "Photo : Zane Neff"
+        },
+        {
+            "bbox": [
+                107.78525064098797,
+                770.4315160839745,
+                310.7918270016217,
+                1027.8202147349698
+            ],
+            "order": "20",
+            "label": "Picture",
+            "text": "Photo: Harold Morrison, Jr.",
+            "uuid": "1652fc4d-e3c2-480d-b49f-60004a2fd565",
+            "vertical": false,
+            "translation": "Photo : Harold Morrison, Jr."
+        },
+        {
+            "bbox": [
+                138.2031741347637,
+                1765.5878237525324,
+                410.9725967691657,
+                1788.0845223492774
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "Number of Shareholders",
+            "uuid": "8a6f3868-7b20-44d6-94a9-48c24693cc14",
+            "vertical": false,
+            "translation": "Nombre d'actionnaires"
+        },
+        {
+            "bbox": [
+                137.21128532518404,
+                1797.6805404304844,
+                356.4187122422853,
+                1823.154743253269
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "Shares Outstanding",
+            "uuid": "65d68a11-312e-4ced-b1da-2e2fff80151a",
+            "vertical": false,
+            "translation": "Actions en circulation"
+        },
+        {
+            "bbox": [
+                115.76351716284303,
+                1957.0720791263893,
+                567.2913481746248,
+                2015.7417613958112
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "Loss per share from cumulative effect of a change in accounting - diluted",
+            "uuid": "3e306a41-d8cd-422b-bd30-f49b1f950947",
+            "vertical": false,
+            "translation": "Perte par action résultant de l'effet cumulatif d'un changement comptable - dilué"
+        },
+        {
+            "bbox": [
+                116.01562500000001,
+                2061.604580158005,
+                394.23828125,
+                2089.5515172743617
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "Cash dividends per share",
+            "uuid": "195e7d4d-f7b7-4e23-b8a4-b23cc0d68d8b",
+            "vertical": false,
+            "translation": "Dividendes en espèces par action"
+        },
+        {
+            "bbox": [
+                836.5021745656453,
+                1222.7372130489882,
+                967.8923987428093,
+                1248.0021741999203
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "$ 92,974",
+            "uuid": "bcc9774b-89b6-4091-aee4-04eddd5463dc",
+            "vertical": false,
+            "translation": "92 974 $"
+        },
+        {
+            "bbox": [
+                1023.5345221487968,
+                1221.4046444645442,
+                1156.3274889328345,
+                1248.5410842192491
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "$ 68,722",
+            "uuid": "58385f19-cc2e-45ea-97bd-438852ca0c2d",
+            "vertical": false,
+            "translation": "68 722 $"
+        },
+        {
+            "bbox": [
+                1294.7314261443664,
+                1669.6237700681163,
+                1359.725166929512,
+                1694.8887312190484
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "7,402",
+            "uuid": "fbbd1d87-43e2-479b-9259-ff0a35c248f7",
+            "vertical": false,
+            "translation": "7 402"
+        },
+        {
+            "bbox": [
+                1281.1715809445882,
+                1638.2765034549227,
+                1358.3224243226382,
+                1662.6057253039685
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "55,487",
+            "uuid": "eec69a21-7416-4580-9761-2b9970aaf7a3",
+            "vertical": false,
+            "translation": "55 487"
+        },
+        {
+            "bbox": [
+                1246.103015772747,
+                1796.4164454737197,
+                1358.3224243226382,
+                1822.149276275595
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "7,518,462",
+            "uuid": "2bb3ddb6-fb73-4520-a7ae-e69fa3fcf603",
+            "vertical": false,
+            "translation": "7 518 462"
+        },
+        {
+            "bbox": [
+                111.05579799287736,
+                1191.0011448881237,
+                1567.1207050106027,
+                2094.8128259305704
+            ],
+            "order": "31",
+            "label": "Table",
+            "text": "Operating Revenues Operating Expenses Income Taxes (Benefit) Interest Expense Income (Loss) from Continuing Operations Discontinued Operations, net of tax Cumulative effect of a change in accounting, net of tax Net Income Total Assets Long-term Obligations Salary and Wages Shareholder Information: Number of Shareholders Shares Outstanding Income (Loss) per share from Continuing Operations-diluted Income per share from Discontinued Operations-diluted Loss per share from cumulative effect of a change in accounting-diluted Net Income per share-diluted Cash dividends per share 2003 $ 105,861 87,233 5,304 3,510 9,761 22,389 (76) 32,074 $ 185,364 43,346 11,115 3,930 7,592,768 1.28 2.94 (0.01) 4.22 0.39 (2,109) 4,195 $ (2,893) $ 7,412 4,519 $ 164,004 52,043 10,051 2000 2002 92,974 $ $ 44,445 83,636 39,067 2,975 2,936 3,954 7,551,818 (0.38) $ 0.98 2001 68,722 62,298 5,811 4,127 0.60 0.37 $ 9,694 6,678 $ 167,372 56,436 8,994 16,372 3,752 7,530,956 1.28 0.88 2.17 0.35 $ $ 5,091 4,764 9,855 $ 152,585 55,487 7,402 3,726 7,518,462 0.68 0.63 1.31 0.33 $ $ 1999 29,701 24,624 1,729 1,951 $ 2,927 3,501 6,428 $ 133,644 33,030 6,637 3,683 7,511,520 0.39 0.47 0.86 $ 0.28",
+            "uuid": "92fb92be-e716-4990-90bc-b63023f61634",
+            "vertical": false,
+            "translation": "Revenus d'exploitation Dépenses d'exploitation Impôts sur le revenu (profit) Frais d'intérêts Revenu (perte) des activités poursuivies Activités abandonnées, nettes d'impôt Effet cumulatif d'un changement de comptabilité, net d'impôt Revenu net Total des actifs Obligations à long terme Salaires et paie Informations sur les actionnaires : Nombre d'actionnaires Actions en circulation Revenu (perte) par action des activités poursuivies - dilué Revenu par action des activités abandonnées - dilué Perte par action résultant de l'effet cumulatif d'un changement comptable - dilué Bénéfice net par action - dilué Dividendes en espèces par action 2003 105 861 $ 87 233 5 304 3 510 9 761 22 389 (76) 32 074 185 364 $ 43 346 11 115 3 930 7 592 768 1,28 2,94 (0,01) 4,22 0,39 (2 109) 4 195 $ (2 893) $ 7 412 4 519 $ 164 004 52 043 10 051 2000 2002 92 974 $ 44 445 $ 83 636 39 067 2 975 2 936 3 954 7 551 818 (0,38) 0,98 $ 2001 68 722 62 298 5 811 4 127 0,60 0,37 9 694 $ 6 678 167 372 $ 56 436 8 994 16 372 3 752 7 530 956 1,28 0,88 2,17 0,35 $ 5 091 $ 4 764 9 855 152 585 $ 55 487 7 402 3 726 7 518 462 0,68 0,63 1,31 0,33 $ $ 1999 29 701 24 624 1 729 1 951 2 927 $ 3 501 6 428 133 644 $ 33 030 6 637 3 683 7 511 520 0,39 0,47 0,86 0,28 $"
+        },
+        {
+            "bbox": [
+                1363.5184086903275,
+                2106.358631653217,
+                1599.203491097434,
+                2125.49672052775
+            ],
+            "order": "139",
+            "label": "Page-footer",
+            "text": "2003 ANNUAL REPORT",
+            "uuid": "89cac90f-58e0-4285-8cfd-21c12491150b",
+            "vertical": false,
+            "translation": "RAPPORT ANNUEL 2003"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

@@ -1,0 +1,441 @@
+{
+    "file": "82092117.png",
+    "annotations": [
+        {
+            "bbox": [
+                104.0,
+                84.59540263642707,
+                245.4403095358991,
+                101.47294145539065
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "ATT. GEN. ADMIN. OFFICE",
+            "uuid": "8f4a8282-7f58-4138-8d4e-63621b5d7fe1",
+            "vertical": false,
+            "translation": "OFICINA DE ADMIN. DEL FISCAL GENERAL"
+        },
+        {
+            "bbox": [
+                147.07543696311464,
+                149.80305793354998,
+                305.2314067224652,
+                190.66002318563514
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "Attorney General Betty D. Montgomery",
+            "uuid": "a2047fd6-2056-4ed9-8295-a3fa97e29339",
+            "vertical": false,
+            "translation": "Fiscal General Betty D. Montgomery"
+        },
+        {
+            "bbox": [
+                104.0,
+                347.0,
+                129.66086570571932,
+                358.26717733563095
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "9c2b6eff-0023-4298-87ad-171f7eaf1b1f",
+            "vertical": false,
+            "translation": "PARA:"
+        },
+        {
+            "bbox": [
+                104.0,
+                377.9501615676867,
+                201.39633382907567,
+                390.2679801505048
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "FAX NUMBER:",
+            "uuid": "eead1482-e03d-4338-be04-01d917c95dda",
+            "vertical": false,
+            "translation": "NÚMERO DE FAX:"
+        },
+        {
+            "bbox": [
+                104.0,
+                409.99999999999994,
+                146.65831837376925,
+                421.13879594049973
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "DATE:",
+            "uuid": "92246d67-767b-4c75-b39d-79b2031c7f08",
+            "vertical": false,
+            "translation": "FECHA:"
+        },
+        {
+            "bbox": [
+                186.0,
+                409.99999999999994,
+                234.1730839694911,
+                421.8970466171413
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "12/10/98",
+            "uuid": "ee9b4ebd-a17a-4bc2-af02-661ed004bae0",
+            "vertical": false,
+            "translation": "12/10/98"
+        },
+        {
+            "bbox": [
+                102.97405955004196,
+                694.4626306870712,
+                139.63665041151202,
+                704.148832004833
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "NOTE:",
+            "uuid": "75a1b69f-4b57-42f8-9c73-ff4de7aee374",
+            "vertical": false,
+            "translation": "NOTA:"
+        },
+        {
+            "bbox": [
+                264.0,
+                252.0,
+                468.2684697326082,
+                280.8629994429448
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "CONFIDENTIAL FACSIMILE TRANSMISSION COVER SHEET",
+            "uuid": "8648c14d-559b-4d67-9f4b-fb97f23194bd",
+            "vertical": false,
+            "translation": "CARÁTULA DE TRANSMISIÓN FACSÍMIL CONFIDENCIAL"
+        },
+        {
+            "bbox": [
+                294.9896787207433,
+                296.99080636636245,
+                435.888634406093,
+                312.5259842631636
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "FAX NO.(614) 466-5087",
+            "uuid": "9d8cc2f7-7681-4908-bf2e-8d215b79ac13",
+            "vertical": false,
+            "translation": "Nº DE FAX (614) 466-5087"
+        },
+        {
+            "bbox": [
+                420.0,
+                85.98146501936466,
+                484.022770750879,
+                97.36044070788886
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Dec 10 '98",
+            "uuid": "63bc4920-5684-4488-81fb-76cff797aa26",
+            "vertical": false,
+            "translation": "10 Dic 98"
+        },
+        {
+            "bbox": [
+                102.96995343577132,
+                505.9943529498421,
+                273.6416090495559,
+                516.7499189362505
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "SPECIAL INSTRUCTIONS:",
+            "uuid": "b213dbdc-af17-4d5d-81a8-cf8dc4cc3bae",
+            "vertical": false,
+            "translation": "INSTRUCCIONES ESPECIALES:"
+        },
+        {
+            "bbox": [
+                103.9394890554136,
+                442.9946654949414,
+                419.38712832554455,
+                454.75318311154547
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "NUMBER OF PAGES INCLUDING COVER SHEET:",
+            "uuid": "9a763ae0-9cbd-4c0d-bb30-51e882f7af99",
+            "vertical": false,
+            "translation": "NÚMERO DE PÁGINAS, INCLUIDA LA PORTADA:"
+        },
+        {
+            "bbox": [
+                103.0,
+                473.0,
+                279.32623902724606,
+                485.81889632084494
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "SENDER/PHONE NUMBER:",
+            "uuid": "a52da51d-33e9-4fb1-ab69-92c942736864",
+            "vertical": false,
+            "translation": "REMITENTE/NÚMERO DE TELÉFONO:"
+        },
+        {
+            "bbox": [
+                384.9385935084025,
+                378.0,
+                500.12134603798813,
+                389.6082053034852
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "PHONE NUMBER:",
+            "uuid": "cde99d28-f975-489f-b60f-0052315bc334",
+            "vertical": false,
+            "translation": "TELÉFONO:"
+        },
+        {
+            "bbox": [
+                171.2031021354681,
+                598.4127170354282,
+                557.017708619204,
+                648.9252842285338
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY PLEASE CONTACT SENDER AS SOON AS POSSIBLE",
+            "uuid": "b8f6d2d5-e24e-423a-a970-65f4d12a8251",
+            "vertical": false,
+            "translation": "SI NO RECIBE ALGUNA DE LAS PÁGINAS CORRECTAMENTE, CONTACTE CON EL REMITENTE LO ANTES POSIBLE"
+        },
+        {
+            "bbox": [
+                562.9355045908062,
+                85.93522344945836,
+                589.7177278576983,
+                96.38907916330575
+            ],
+            "order": "5",
+            "label": "Page-header",
+            "text": "P.01",
+            "uuid": "487cc46f-3a86-42f4-bacb-565e779a5128",
+            "vertical": false,
+            "translation": "P.01"
+        },
+        {
+            "bbox": [
+                160.91733581585282,
+                687.448510845752,
+                625.7401670258621,
+                813.113509536548
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not the intended recipient or the employee or agent responsible for delivering the message to the intended recipient, you are hereby notified that any dissemination, distribution, copying, or conveying of this communication in any manner is strictly prohibited. If you have received this communication in error, please notify us immediately by telephone and return the original message to us at the address below via the U.S. Postal Service. Thank you for your cooperation.",
+            "uuid": "1f0784aa-d735-451a-b7b9-32d00dd45536",
+            "vertical": false,
+            "translation": "ESTE MENSAJE ESTÁ DESTINADO SOLO PARA EL USO DE LA PERSONA O ENTIDAD A QUIEN SE DIRIGE Y PUEDE CONTENER INFORMACIÓN PRIVILEGIADA, CONFIDENCIAL Y EXENTA DE DIVULGACIÓN SEGÚN LA LEY APLICABLE. Si el lector de este mensaje no es el destinatario previsto o el empleado o agente responsable de entregar el mensaje al destinatario previsto, se le notifica que cualquier difusión, distribución, copia o transmisión de esta comunicación de cualquier manera está estrictamente prohibida. Si ha recibido esta comunicación por error, notifíquenos inmediatamente por teléfono y devuélvanos el mensaje original a la dirección a continuación a través del Servicio Postal de los EE. UU. Gracias por su cooperación."
+        },
+        {
+            "bbox": [
+                182.0,
+                887.9125825173048,
+                537.587368170621,
+                900.6830116430548
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "State Office Tower/30 East Broad Street/Columbus, Ohio 43215-3428 www.ag.state.ch.us",
+            "uuid": "584a3b81-6d6c-40e3-9af6-97f169e6340f",
+            "vertical": false,
+            "translation": "State Office Tower/30 East Broad Street/Columbus, Ohio 43215-3428 www.ag.state.ch.us"
+        },
+        {
+            "bbox": [
+                290.8894360821538,
+                915.0,
+                431.2088508249938,
+                926.6512150207882
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "An Equal Opportunity Employer",
+            "uuid": "3de115f3-9067-40c2-ae07-c9aad05d8909",
+            "vertical": false,
+            "translation": "Una empresa que ofrece igualdad de oportunidades"
+        },
+        {
+            "bbox": [
+                307.0935755939493,
+                943.9839855333224,
+                425.00011636650186,
+                951.2924333332687
+            ],
+            "order": "31",
+            "label": "Page-footer",
+            "text": "Printed on Recycled Paper",
+            "uuid": "12fa84a8-2ad7-49fe-b610-dc913516194e",
+            "vertical": false,
+            "translation": "Impreso en papel reciclado"
+        },
+        {
+            "bbox": [
+                631.7864800921187,
+                775.1229546430183,
+                653.6593632743308,
+                876.0693361137005
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "82092117",
+            "uuid": "a505c791-1a66-4047-acac-590247db5d9c",
+            "vertical": true,
+            "translation": "82092117"
+        },
+        {
+            "bbox": [
+                249.73532351681132,
+                86.31016276562065,
+                352.0973595455998,
+                97.66459916370529
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "Fax:614-466-5087",
+            "uuid": "bd6bba3c-1a80-42b8-8ac0-be935c82f555",
+            "vertical": false,
+            "translation": "Fax: 614-466-5087"
+        },
+        {
+            "bbox": [
+                501.8775862621403,
+                85.60645351282004,
+                533.4241773986178,
+                97.53677854864473
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "17:46",
+            "uuid": "3e6ba951-40a8-4832-b7d8-f709b3356dd4",
+            "vertical": false,
+            "translation": "17:46"
+        },
+        {
+            "bbox": [
+                145.2050045768728,
+                346.23608694777784,
+                235.52951868009984,
+                360.14972059195907
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "George Baroody",
+            "uuid": "290aa5b5-2a35-4bde-aadc-812a87f27038",
+            "vertical": false,
+            "translation": "George Baroody"
+        },
+        {
+            "bbox": [
+                226.03197099471183,
+                378.34212012889515,
+                310.2037313106354,
+                390.45086342570556
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "(336) 335-7392",
+            "uuid": "d5b0475e-57ad-4b39-ab4f-b470caa99478",
+            "vertical": false,
+            "translation": "(336) 335-7392"
+        },
+        {
+            "bbox": [
+                464.27351277377267,
+                442.9206623992422,
+                471.37768836139946,
+                453.9979326444368
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "82092117",
+            "uuid": "0e214af1-d378-4ced-8b21-1028e71a27f7",
+            "vertical": false,
+            "translation": "82092117"
+        },
+        {
+            "bbox": [
+                506.00595154551667,
+                378.98619141194047,
+                589.5399010888699,
+                390.1037323127847
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "(336) 335-7363",
+            "uuid": "29df5c42-f61b-4636-bc50-a8e5f2ea57ce",
+            "vertical": false,
+            "translation": "(336) 335-7363"
+        },
+        {
+            "bbox": [
+                306.3021255683278,
+                473.8996346350771,
+                534.5044674609398,
+                486.96057878277134
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "June Flynn for Eric Brown/(614) 466-8980",
+            "uuid": "d3728ec9-fbc1-484e-80ad-d44026a5c4aa",
+            "vertical": false,
+            "translation": "June Flynn para Eric Brown/(614) 466-8980"
+        },
+        {
+            "bbox": [
+                311.61844053280055,
+                904.2933517753983,
+                408.8853075704511,
+                914.313040655379
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "www.ag.state.ch.us",
+            "uuid": "7e247c80-f53c-4d0e-832e-0f2b5884a400",
+            "vertical": false,
+            "translation": "www.ag.state.ch.us"
+        },
+        {
+            "bbox": [
+                292.2561836283503,
+                942.3226254789616,
+                307.0626153788123,
+                954.3917961753021
+            ],
+            "order": "30",
+            "label": "Picture",
+            "text": "Recycle Symbol",
+            "uuid": "bee83fb0-7dc4-46fa-8dfb-973c179be179",
+            "vertical": false,
+            "translation": "Símbolo de reciclaje"
+        },
+        {
+            "bbox": [
+                60.767905008569215,
+                130.76043456802066,
+                144.1184774189716,
+                212.64837652441614
+            ],
+            "order": "6",
+            "label": "Picture",
+            "text": "Seal",
+            "uuid": "b0108122-c1b5-4848-83da-2a517e45535b",
+            "vertical": false,
+            "translation": "Sello"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

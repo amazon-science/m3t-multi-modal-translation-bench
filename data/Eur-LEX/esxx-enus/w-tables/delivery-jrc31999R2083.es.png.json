@@ -1,0 +1,637 @@
+{
+    "file": "jrc31999R2083.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                119.3844219544745,
+                134.97990237893225,
+                249.26417770714454,
+                167.77782049829332
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "1. 10. 1999",
+            "uuid": "5a3bdadd-6735-4efc-9c42-a6ded731a22c",
+            "vertical": false,
+            "translation": "1. 10. 1999"
+        },
+        {
+            "bbox": [
+                333.2268480927091,
+                140.22756927802993,
+                366.0247662120702,
+                167.77782049829332
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "d45e7be0-0687-4713-a27a-3fa7cbbf637f",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                587.7386926989515,
+                134.97990237893225,
+                1063.964463792075,
+                170.40165394784214
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "39ab9deb-b0ec-40c1-b6c6-933d44efb70c",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1431.3011467289195,
+                136.2918191037068,
+                1538.878318160424,
+                170.40165394784214
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 256/49",
+            "uuid": "6ed7fb6d-b7f6-4891-abd7-8337ed723691",
+            "vertical": false,
+            "translation": "L 256/49"
+        },
+        {
+            "bbox": [
+                368.6485996616191,
+                235.9974901865645,
+                502.4641055886125,
+                271.4192417554744
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Departamentos",
+            "uuid": "d0e37b8c-d3c5-413c-ae17-45155aa78df4",
+            "vertical": false,
+            "translation": "Departments"
+        },
+        {
+            "bbox": [
+                700.5635310295537,
+                238.62132363611335,
+                865.8650383511338,
+                274.0430752050235
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Centros suprimidos",
+            "uuid": "29c18a75-a9c6-473e-a3dd-7c2f830769a9",
+            "vertical": false,
+            "translation": "Centers deleted"
+        },
+        {
+            "bbox": [
+                1124.3126331316996,
+                237.30940691133907,
+                1262.0638892330162,
+                266.17157485637676
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Centros creados",
+            "uuid": "024ea4e4-43bf-4173-be29-6058a4a28370",
+            "vertical": false,
+            "translation": "Centers created"
+        },
+        {
+            "bbox": [
+                288.62167945037794,
+                301.5933264252869,
+                488.0330216160936,
+                337.01507799419676
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Indre-et-Loire-37",
+            "uuid": "5fa8ec5c-35bd-487f-b010-2045d7b7dbcd",
+            "vertical": false,
+            "translation": "Indre-et-Loire-37"
+        },
+        {
+            "bbox": [
+                586.426775974177,
+                305.52907659961,
+                850.1220376538404,
+                339.6389114437456
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "La Ville-aux-Dames (maíz)",
+            "uuid": "d14af0cc-821f-4480-82d0-dea1c99b0a11",
+            "vertical": false,
+            "translation": "La Ville-aux-Dames (maize)"
+        },
+        {
+            "bbox": [
+                1000.9924610029016,
+                308.1529100491591,
+                1206.9633867924895,
+                339.6389114437456
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Ville-perdue (cebada)",
+            "uuid": "ced7684d-70a7-496b-b1b8-83685fcffd34",
+            "vertical": false,
+            "translation": "Ville-perdue (barley)"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                359.3176623153622,
+                425.0610188269202,
+                392.11558043472354
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Landes 40",
+            "uuid": "6b6c17a5-b358-4362-9f30-47296aa852f1",
+            "vertical": false,
+            "translation": "Landes 40"
+        },
+        {
+            "bbox": [
+                585.1148592494025,
+                354.0699954162646,
+                764.8474505435015,
+                396.05133060904694
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Solférino (cebada)",
+            "uuid": "0ebf3f93-e91d-4308-b0d5-e43d09b195d7",
+            "vertical": false,
+            "translation": "Solferino (barley)"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                420.97774837976124,
+                425.0610188269202,
+                451.15183304957344
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Landes 40",
+            "uuid": "088f09d3-e2f2-4f93-9de6-e37054a2654b",
+            "vertical": false,
+            "translation": "Landes 40"
+        },
+        {
+            "bbox": [
+                587.7386926989515,
+                419.66583165498696,
+                922.277457516435,
+                452.463749774348
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Haut-Mauco (trigo, cebada, maíz)",
+            "uuid": "796ef3e3-9403-48f7-a3cd-5233a31a59ba",
+            "vertical": false,
+            "translation": "Haut-Mauco (wheat, barley, maize)"
+        },
+        {
+            "bbox": [
+                998.3686275533528,
+                422.28966510453574,
+                1271.2473063064372,
+                453.7756664991223
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Tartas (trigo, cebada, maíz)",
+            "uuid": "e02ae47e-641f-43aa-9f14-e23ae291c880",
+            "vertical": false,
+            "translation": "Tartas (wheat, barley, maize)"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                478.70208426983686,
+                422.43718537737135,
+                504.94041876532566
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "83befb2e-2888-4ed4-a339-a34bb08eb66c",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                586.426775974177,
+                474.76633409551346,
+                805.5168690115094,
+                508.87616893964906
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Ormes (cebada, maíz)",
+            "uuid": "491423df-9d33-495a-8c55-1b0946350457",
+            "vertical": false,
+            "translation": "Ormes (barley, maize)"
+        },
+        {
+            "bbox": [
+                1000.9924610029016,
+                476.078250820288,
+                1205.651470067715,
+                507.5642522148748
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Châteaurenard (trigo)",
+            "uuid": "3ee1c954-f889-460f-a959-2a8a7f3a8d88",
+            "vertical": false,
+            "translation": "Châteaurenard (wheat)"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                531.1787532608148,
+                419.81335192782245,
+                561.352837930627
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "a7bef2e2-f787-41ec-b5ab-78db1f22093e",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                585.1148592494025,
+                532.4906699855891,
+                957.699209085345,
+                563.9766713801758
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Beaugency (trigo duro, cebada, maíz)",
+            "uuid": "6dc9d746-38d8-4ee3-8e31-97fc9bc55c0b",
+            "vertical": false,
+            "translation": "Beaugency (durum wheat, barley, maize)"
+        },
+        {
+            "bbox": [
+                997.0567108285782,
+                532.4906699855891,
+                1290.9260571780542,
+                566.6005048297246
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Meung-sur-Loire (trigo, maíz)",
+            "uuid": "a6a13744-84d1-4d59-8c1b-b01fc7bd31f5",
+            "vertical": false,
+            "translation": "Meung-sur-Loire (wheat, maize)"
+        },
+        {
+            "bbox": [
+                293.86934634947573,
+                591.5269226004392,
+                419.81335192782245,
+                623.0129239950257
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "7e34f449-dabc-4d16-adac-ad7ef764e1bb",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                997.0567108285782,
+                588.9030891508901,
+                1167.6058850492561,
+                620.3890905454768
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Artenay (cebada)",
+            "uuid": "4612d655-4d02-4f5f-9f3a-aac06d0cbf50",
+            "vertical": false,
+            "translation": "Artenay (barley)"
+        },
+        {
+            "bbox": [
+                293.86934634947573,
+                642.6916748666426,
+                423.7491021021458,
+                675.4895929860037
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "e366797d-7297-4cde-871c-081ee2578e62",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                998.3686275533528,
+                646.6274250409657,
+                1195.1561362695195,
+                682.0491766098759
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Courtenay (cebada)",
+            "uuid": "68246891-bae9-4d83-b96d-cb596e2c9aec",
+            "vertical": false,
+            "translation": "Courtenay (barley)"
+        },
+        {
+            "bbox": [
+                292.55742962470123,
+                705.663677655816,
+                415.87760175349905,
+                729.2781787017559
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "fb698ae4-2721-4b9c-8e10-bb15ff62d07c",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                1000.9924610029016,
+                703.039844206267,
+                1241.073221636625,
+                735.8377623256281
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Chatillon-Coligny (maíz)",
+            "uuid": "bc958432-ed22-47c9-8459-a2bad6b87d77",
+            "vertical": false,
+            "translation": "Chatillon-Coligny (maize)"
+        },
+        {
+            "bbox": [
+                295.1812630742501,
+                760.7641800963427,
+                419.81335192782245,
+                789.6263480413803
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "51173566-27d8-492e-b7bc-0e716ff1143d",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                585.1148592494025,
+                755.5165131972448,
+                792.3977017637649,
+                789.6263480413803
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Chalette (trigo duro)",
+            "uuid": "48ee80b4-e9f4-4828-98c5-6886270daa81",
+            "vertical": false,
+            "translation": "Chalet (durum wheat)"
+        },
+        {
+            "bbox": [
+                291.2455128999268,
+                810.6170156377715,
+                495.9045219647402,
+                844.7268504819071
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Maine-et-Loire-49",
+            "uuid": "5fbea4e3-2da1-492c-a01e-856cc20d4155",
+            "vertical": false,
+            "translation": "Maine-et-Loire-49"
+        },
+        {
+            "bbox": [
+                585.1148592494025,
+                811.9289323625458,
+                875.048455424555,
+                847.3506839314559
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Montreuil-Bellay (trigo duro)",
+            "uuid": "a01969b0-7b89-4e63-9997-c571779f4c98",
+            "vertical": false,
+            "translation": "Montreuil-Bellay (durum wheat)"
+        },
+        {
+            "bbox": [
+                1000.9924610029016,
+                813.2408490873204,
+                1161.0463014253837,
+                847.3506839314559
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Gennes (cebada)",
+            "uuid": "902fb49d-ce0d-413f-aae9-942d20295c4c",
+            "vertical": false,
+            "translation": "Gennes (barley)"
+        },
+        {
+            "bbox": [
+                296.49317979902463,
+                870.965184977396,
+                421.1252686525969,
+                902.4511863719828
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Rhône 69",
+            "uuid": "75e74329-6ba0-4db3-b395-338062a3fb39",
+            "vertical": false,
+            "translation": "Rhône 69"
+        },
+        {
+            "bbox": [
+                999.6805442781272,
+                873.5890184269448,
+                1260.7519725082418,
+                902.4511863719828
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Saint-Roman-en-Gal (maíz)",
+            "uuid": "89a5ff24-98c1-4614-9580-a9bfb912e750",
+            "vertical": false,
+            "translation": "Saint-Roman-en-Gal (maize)"
+        },
+        {
+            "bbox": [
+                283.37401255128015,
+                218.9425727644967,
+                1397.191311884784,
+                907.6988532710805
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "c266ebcf-a85a-44e6-aee5-445b8562afaf",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                253.19992788146791,
+                937.8729379408926,
+                783.2142846903438,
+                1012.652191253036
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "2) En la parte «Österreich»: el centro «Enns» se denominará«Ennsdorf».",
+            "uuid": "99998f3b-2ec8-4db9-8037-4974e25db26d",
+            "vertical": false,
+            "translation": "2) In the \"Österreich\" part: the \"Enns\" center will be termed \"Ennsdorf\"."
+        },
+        {
+            "bbox": [
+                772.7189508921482,
+                1045.450109372397,
+                885.5437892227503,
+                1075.6241940422094
+            ],
+            "order": "38",
+            "label": "Section-header",
+            "text": "Artículo 2",
+            "uuid": "e011e12e-239a-41ce-9e47-58c86b08fa61",
+            "vertical": false,
+            "translation": "Article 2"
+        },
+        {
+            "bbox": [
+                257.1356780557913,
+                1086.119527840405,
+                1401.1270620591074,
+                1155.6511142534507
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "El presente Reglamento entrará en vigor el tercer día siguiente al de su publicación en el Diario Oficial de las Comunidades Europeas.",
+            "uuid": "d9bb7d35-f0dc-4789-bd1f-21b9fbf454d1",
+            "vertical": false,
+            "translation": "This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities."
+        },
+        {
+            "bbox": [
+                321.41959756973904,
+                1215.9992835930748,
+                1325.0358920221895,
+                1278.9712863822483
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.",
+            "uuid": "c9cedd90-978a-458b-a2e4-0d3d41cf057a",
+            "vertical": false,
+            "translation": "This Regulation shall be binding in its entirety and directly applicable in all Member States."
+        },
+        {
+            "bbox": [
+                324.04343101928794,
+                1330.1360386484519,
+                893.4152895713971,
+                1360.310123318264
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Hecho en Bruselas, el 30 de septiembre de 1999.",
+            "uuid": "520210e5-4ff6-4b0a-96c0-1d745e24fba0",
+            "vertical": false,
+            "translation": "Done at Brussels, 30 September 1999."
+        },
+        {
+            "bbox": [
+                998.3686275533528,
+                1391.7961247128505,
+                1178.1012188474517,
+                1428.529793006535
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Por la Comisión",
+            "uuid": "4ebbc73f-c362-4eb7-9f03-240e3bbab458",
+            "vertical": false,
+            "translation": "For the Commission"
+        },
+        {
+            "bbox": [
+                1010.1758780763228,
+                1437.7132100799563,
+                1176.789302122677,
+                1467.8872947497684
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "Franz FISCHLER",
+            "uuid": "69283b5d-0f64-4a60-9765-d7bad504d270",
+            "vertical": false,
+            "translation": "Franz FISCHLER"
+        },
+        {
+            "bbox": [
+                955.075375635796,
+                1474.4468783736406,
+                1222.7063874897829,
+                1511.1805466673252
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Miembro de la Comisión",
+            "uuid": "3e3a3f4e-2b40-4960-b5ea-6a7c9c6d9c68",
+            "vertical": false,
+            "translation": "Member of the Commission"
+        },
+        {
+            "bbox": [
+                1000.9924610029016,
+                360.6295790401368,
+                1225.3302209393319,
+                397.3632473338212
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Aire-sur-l'Adour (maíz)",
+            "uuid": "6879cf04-dd77-49c8-a667-7181bb59912f",
+            "vertical": false,
+            "translation": "Aire-sur-l'Adour (maize)"
+        },
+        {
+            "bbox": [
+                278.4033510728144,
+                215.8229286871224,
+                1403.265375609438,
+                916.0495389611709
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "f6cb56e2-3b31-4ac9-8249-28f0ad4fc0ae",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,861 @@
+{
+    "file": "jrc21998A0421_01.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                2230.8496049972714,
+                74.54198392834532,
+                2259.218142099782,
+                180.95488388823236
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 118/24",
+            "uuid": "ab3ac53c-6be5-4e48-b1f0-e22c83a55489",
+            "vertical": true,
+            "translation": "L 118/24"
+        },
+        {
+            "bbox": [
+                2233.2338971302897,
+                306.2856327298769,
+                2254.510299957173,
+                348.85079271383125
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "90c9319e-fb27-4f88-8787-a43aaa5ae563",
+            "vertical": true,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                2229.687829992476,
+                574.6826137398136,
+                2256.8743447157153,
+                1071.2761468859521
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "107c9a0e-8893-41bf-9c49-9ff8e5ce593b",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2230.8739704818104,
+                1481.5569945090713,
+                2256.878462825778,
+                1570.2344111423101
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "21.4.98",
+            "uuid": "06509d1f-e68c-4bec-a0d3-90d7886f8797",
+            "vertical": true,
+            "translation": "21.4.98"
+        },
+        {
+            "bbox": [
+                177.4634164436705,
+                81.63724902016989,
+                2184.1700021151814,
+                289.46264511750246
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "addbc7f7-efb4-4181-a68b-52d0b489302b",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                179.9162193936351,
+                365.4963266165263,
+                2191.690245938054,
+                933.2144818092391
+            ],
+            "order": "24",
+            "label": "Table",
+            "text": "",
+            "uuid": "373e2b78-fbfa-4b91-8f71-7754386778db",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                179.9162193936351,
+                1044.7305480078078,
+                2191.690245938054,
+                1579.5007745509436
+            ],
+            "order": "33",
+            "label": "Table",
+            "text": "",
+            "uuid": "87669dc1-6234-4c0d-b18a-3add8abc67ee",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                182.449939830089,
+                314.807205617177,
+                836.1498124352025,
+                352.82404636668906
+            ],
+            "order": "23",
+            "label": "Section-header",
+            "text": "6. Frisches Fleisch Verbrauchergesundheit (Fortsetzung)",
+            "uuid": "39ef393f-7c35-4816-9f8e-243e20109155",
+            "vertical": false,
+            "translation": "6. Fresh meat consumer health (continued)"
+        },
+        {
+            "bbox": [
+                187.51738070299686,
+                973.7657786087185,
+                400.3498973651269,
+                1009.2481633082632
+            ],
+            "order": "32",
+            "label": "Section-header",
+            "text": "7. Geflügelfleisch",
+            "uuid": "243730a1-d846-4694-95e9-1408439d9cc4",
+            "vertical": false,
+            "translation": "7. Poultry"
+        },
+        {
+            "bbox": [
+                194.00978330861378,
+                123.01257559697945,
+                297.65097225583895,
+                156.45492367136228
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "— Produkt",
+            "uuid": "413c5dc8-c38c-4c4f-b938-724c46c67b5e",
+            "vertical": false,
+            "translation": "— Product"
+        },
+        {
+            "bbox": [
+                192.25321954191097,
+                158.12704107508156,
+                289.20788016996033,
+                179.8645673234304
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "— Tierart",
+            "uuid": "eb120274-a31f-4583-bb6c-bfa19d76d186",
+            "vertical": false,
+            "translation": "— Species"
+        },
+        {
+            "bbox": [
+                192.25176357013538,
+                191.56938914946457,
+                389.504348985822,
+                231.7002068387241
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "—Tier-/Verbrauchergesundheit",
+            "uuid": "2725c981-0c60-4ee2-b93c-f7e32b28524d",
+            "vertical": false,
+            "translation": "—Animal/Consumer Health"
+        },
+        {
+            "bbox": [
+                543.2945003268659,
+                94.58657973375388,
+                1243.708341760533,
+                131.37316261557507
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Ausfuhren der Europäischen Gemeinschaft in die Vereinigten Staaten",
+            "uuid": "b89b7835-aa43-42e3-9ea2-34ce3f7ade01",
+            "vertical": false,
+            "translation": "Exports from the European Community to the United States"
+        },
+        {
+            "bbox": [
+                1407.261544167529,
+                98.44178531839148,
+                2094.9844895192855,
+                130.26738656384177
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Ausfuhren der Vereinigten Staaten in die Europäische Gemeinschaft",
+            "uuid": "8c87c29e-a726-4e75-b5f3-f668294f0419",
+            "vertical": false,
+            "translation": "Exports from the United States to the European Community"
+        },
+        {
+            "bbox": [
+                509.06111376149784,
+                162.09298780929188,
+                660.8006960099282,
+                191.47046588201536
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Handelsregelung",
+            "uuid": "f0338b51-b81e-4ba5-93d5-27f1d776737c",
+            "vertical": false,
+            "translation": "Trade arrangement"
+        },
+        {
+            "bbox": [
+                465.83178133880637,
+                216.42585054152786,
+                575.759862611035,
+                270.81466607658103
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "EU Vorschriften",
+            "uuid": "23e5368f-f16f-4316-ab0e-d41d289a4f8d",
+            "vertical": false,
+            "translation": "EU regulations"
+        },
+        {
+            "bbox": [
+                592.3047441624473,
+                219.97294720685747,
+                699.8687806761336,
+                271.997031631691
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "US Vorschriften",
+            "uuid": "6cff8e37-97e9-4266-b4bd-5c4664e979d5",
+            "vertical": false,
+            "translation": "US regulations"
+        },
+        {
+            "bbox": [
+                711.6890044688462,
+                157.30757278603514,
+                774.336190570224,
+                274.36176274191064
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Gleichwertigkeitsstatus (Kat.)",
+            "uuid": "12ac7f77-3448-42b2-a8a3-b3d6b743a268",
+            "vertical": false,
+            "translation": "Equivalence status (Cat.)"
+        },
+        {
+            "bbox": [
+                829.8912423959739,
+                190.41380832911102,
+                1001.2844873903091,
+                218.79058165174766
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Sondervorschriften",
+            "uuid": "593c8ff8-8517-4451-b711-3eef783a3621",
+            "vertical": false,
+            "translation": "Special regulations"
+        },
+        {
+            "bbox": [
+                1126.5788595930644,
+                192.7785394393308,
+                1242.4170527616498,
+                218.79058165174766
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Maßnahmen",
+            "uuid": "2b90e6fa-7ed9-4a17-bf4f-c62f30e15579",
+            "vertical": false,
+            "translation": "Measures"
+        },
+        {
+            "bbox": [
+                1367.7114249644053,
+                162.03703500647453,
+                1519.0102895111283,
+                190.41380832911102
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Handelsregelung",
+            "uuid": "8585c0ec-d098-443e-926f-7da93f8f156e",
+            "vertical": false,
+            "translation": "Trade arrangement"
+        },
+        {
+            "bbox": [
+                1327.5226640691817,
+                222.33767831707726,
+                1437.4507453414105,
+                271.997031631691
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "US Vorschriften",
+            "uuid": "e9153328-b9ab-4d57-b9ba-c168ddc0fd3d",
+            "vertical": false,
+            "translation": "US regulations"
+        },
+        {
+            "bbox": [
+                1451.6350138926657,
+                219.97294720685747,
+                1560.3810727856235,
+                270.81466607658103
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "EU Vorschriften",
+            "uuid": "c5688a1a-93b1-4469-b462-60b60c6cd246",
+            "vertical": false,
+            "translation": "EU regulations"
+        },
+        {
+            "bbox": [
+                1573.3833189576073,
+                153.76047612070553,
+                1633.6664603004424,
+                275.5441282970206
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Gleichwertigkeitsstatus (Kat.)",
+            "uuid": "f3486901-0dc4-491a-8a2d-dfe4d6cf5ff6",
+            "vertical": false,
+            "translation": "Equivalence status (Cat.)"
+        },
+        {
+            "bbox": [
+                1688.0394897469214,
+                195.1432705495506,
+                1859.4327347412566,
+                217.60821609663768
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Sondervorschriften",
+            "uuid": "d2a3d5b2-d860-4d08-b266-318bd751f3e5",
+            "vertical": false,
+            "translation": "Special regulations"
+        },
+        {
+            "bbox": [
+                1988.2731740818256,
+                195.1432705495506,
+                2100.565300112597,
+                216.42585054152786
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Maßnahmen",
+            "uuid": "79363fc6-f1dd-477b-a33c-0f6a186bb6e4",
+            "vertical": false,
+            "translation": "Measures"
+        },
+        {
+            "bbox": [
+                191.95245518323938,
+                376.61371588282185,
+                347.4565437831252,
+                405.2965537281515
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Wiederkäuer (⁸)",
+            "uuid": "f16191c9-c17c-49fb-8dfe-613fec1ff503",
+            "vertical": false,
+            "translation": "Ruminants (⁸)"
+        },
+        {
+            "bbox": [
+                191.93996760244707,
+                407.50292587009994,
+                279.0663718534469,
+                429.5666472895846
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Equiden",
+            "uuid": "dfd7be3a-c15b-4260-9cd0-8226c9a2b60b",
+            "vertical": false,
+            "translation": "Equidae"
+        },
+        {
+            "bbox": [
+                193.03290745328403,
+                432.8762055025073,
+                287.8793728404484,
+                457.1462990639402
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Schweine",
+            "uuid": "c550b238-b416-4e0f-af51-bc97ce6c0f4f",
+            "vertical": false,
+            "translation": "Pigs"
+        },
+        {
+            "bbox": [
+                191.93004157668906,
+                459.3526712058888,
+                261.41059180216996,
+                480.3132065543991
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Schafe",
+            "uuid": "073da6cb-5783-4b26-8280-c893d9942a82",
+            "vertical": false,
+            "translation": "Sheep"
+        },
+        {
+            "bbox": [
+                193.0303458982497,
+                484.7259508382958,
+                264.7166278769205,
+                510.09923047070293
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Ziegen",
+            "uuid": "18fa9dad-eb0f-4a71-969f-0d77061b683d",
+            "vertical": false,
+            "translation": "Goats"
+        },
+        {
+            "bbox": [
+                190.82461414505983,
+                514.5119747545998,
+                325.37425108964186,
+                536.5756961740843
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "(Fortsetzung)",
+            "uuid": "851639ed-8878-406a-af80-377a02c80bda",
+            "vertical": false,
+            "translation": "(Continuation)"
+        },
+        {
+            "bbox": [
+                1919.0154427693228,
+                377.7169019537959,
+                2184.8061190287017,
+                910.5557742343466
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Fußnote 5 (e): Die Ergebnisse der Kontrollen nach dem Anschneiden von Schweineherzen werden nach 12 Monaten gemeinsam ausgewertet um festzustellen, ob die Bestimmungen der Fußnote 5 (e) geändert wer den müssen. Gleichwertigkeit (Ja (2)) wird zuerkannt, nachdem die EU die Anwendung der Sonderbedingungen abschließend überprüft hat. Diese Überprüfung muß innerhalb von 12 Monaten nach dem Inkrafttreten dieses Abkommens abgeschlossen sein.",
+            "uuid": "31e13bf9-8dfc-4ac9-b815-a9e706f814ce",
+            "vertical": false,
+            "translation": "Footnote 5 (e): The results of the checks carried out after the incision of pig hearts will be jointly assessed after 12 months to determine whether the provisions of footnote 5 (e) need to be amended. Equivalence (Yes (2)) will be granted after the EU has completed its verification of the application of the special conditions. This review shall be completed within 12 months of the entry into force of this Agreement."
+        },
+        {
+            "bbox": [
+                187.3342380041529,
+                1062.1766339869025,
+                344.59401716089945,
+                1099.529139368962
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Tiergesundheit",
+            "uuid": "f2b993ce-d2b3-4d6a-8dc5-6d41cc6f5dff",
+            "vertical": false,
+            "translation": "Animal health"
+        },
+        {
+            "bbox": [
+                471.63805522524,
+                1071.1031435057366,
+                543.5182346563801,
+                1091.1685523503663
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "25accd03-aa1c-42e5-9626-072a5e73562f",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                469.966423145446,
+                1096.1849045615238,
+                545.1898667361739,
+                1121.266665617311
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "94/438",
+            "uuid": "cbe33d7c-e678-47fe-b461-7233a2b6cf29",
+            "vertical": false,
+            "translation": "94/438"
+        },
+        {
+            "bbox": [
+                591.9955649704048,
+                1067.7589086982982,
+                692.293489758042,
+                1096.1849045615238
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "9 CFR 94",
+            "uuid": "6d4eb941-3e6f-47f1-90b3-087e8af1f291",
+            "vertical": false,
+            "translation": "9 CFR 94"
+        },
+        {
+            "bbox": [
+                714.0247067953635,
+                1067.7589086982982,
+                774.2034616679458,
+                1097.8570219652427
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Ja (1)",
+            "uuid": "e0c7a9ba-8281-436e-9160-817b9fdd5ba8",
+            "vertical": false,
+            "translation": "Yes (1)"
+        },
+        {
+            "bbox": [
+                1325.8420479999509,
+                1066.0867912945791,
+                1431.1548690269701,
+                1099.529139368962
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "9 CFR 53",
+            "uuid": "9f833aec-2171-4c48-ba62-c292bd60bfd5",
+            "vertical": false,
+            "translation": "9 CFR 53"
+        },
+        {
+            "bbox": [
+                1452.6725435372061,
+                1061.0704390834214,
+                1531.2392512875222,
+                1094.5127871578045
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "0f34a111-86ca-4e45-b5c2-dcc85d3f9295",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                1451.0339134843255,
+                1096.1849045615238,
+                1531.2722533144351,
+                1119.5945482135917
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "93/342",
+            "uuid": "2d0b485f-1941-448f-9e1d-1a4627214c10",
+            "vertical": false,
+            "translation": "93/342"
+        },
+        {
+            "bbox": [
+                1456.048809723707,
+                1124.6109004247492,
+                1527.9289891548472,
+                1146.3484266730982
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "94/984",
+            "uuid": "8e6b25a7-f5b6-4aee-b008-3f0ec9efd794",
+            "vertical": false,
+            "translation": "94/984"
+        },
+        {
+            "bbox": [
+                1576.406319468872,
+                1071.1031435057366,
+                1629.8985460222784,
+                1104.5454915801195
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Ja (1)",
+            "uuid": "73ecd76e-4a51-4296-b458-c19b4e8745a3",
+            "vertical": false,
+            "translation": "Yes (1)"
+        },
+        {
+            "bbox": [
+                189.170089006227,
+                1193.1677139772344,
+                424.8702122571745,
+                1226.6100620516174
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Verbrauchergesundheit",
+            "uuid": "788439ff-4611-4acb-bdbf-577cade27a71",
+            "vertical": false,
+            "translation": "Consumer health"
+        },
+        {
+            "bbox": [
+                473.3475425711992,
+                1196.5119487846728,
+                545.2277220023392,
+                1224.9379446478981
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "ea2c54a7-5e3b-4e3f-bda6-cf76de314a36",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                468.33264633181733,
+                1223.2658272441788,
+                531.8546653639876,
+                1250.0197057036853
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "e5a49d67-14f1-41e7-bf10-e15ca8d692d4",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                470.00427841161127,
+                1253.3639405111237,
+                531.8546653639876,
+                1276.7735841631918
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "f5a251a4-c2a2-4a2f-873b-7b70a311e715",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                592.03342023657,
+                1194.8398313809535,
+                699.017873343383,
+                1224.9379446478981
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "9 CFR 381",
+            "uuid": "e18f58ea-457b-4ceb-8b59-0d3073f0a5a2",
+            "vertical": false,
+            "translation": "9 CFR 381"
+        },
+        {
+            "bbox": [
+                717.4058262211166,
+                1196.5119487846728,
+                774.2413169341108,
+                1229.9542968590556
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Ja (3)",
+            "uuid": "8331429d-0c4c-47be-8e6e-1dd0559f8de0",
+            "vertical": false,
+            "translation": "Yes (3)"
+        },
+        {
+            "bbox": [
+                789.2860056522567,
+                1198.1840661883919,
+                1036.6875534617618,
+                1407.1987416532852
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Auflistung von Betrieben gemäß Fußnote 7 unter den einschlägigen Bedingungen der Fußnote 1. Fleischuntersuchungen werden von amtlichen Kontrolleuren durchgeführt.",
+            "uuid": "f6500d0b-7bb3-420a-8416-4dfcc4d6a181",
+            "vertical": false,
+            "translation": "List of establishments referred to in footnote 7 under the relevant conditions of footnote 1. Meat inspections shall be carried out by official inspectors."
+        },
+        {
+            "bbox": [
+                1061.7620346586712,
+                1196.5119487846728,
+                1304.1486862287945,
+                1490.8046118392426
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Gleichwertigkeit (Ja(2)) wird zuerkannt, nachdem die US die Veterinärbescheinigungsregelung abschließend überprüft haben. Diese Überprüfung muß innerhalb von 12 Monaten nach dem Tag des Inkrafttretens dieses Abkommens abgeschlossen sein.",
+            "uuid": "c1b9179e-f43d-4368-8647-429ac62e5c54",
+            "vertical": false,
+            "translation": "Equivalency (Yes(2)) will be granted after the final US review of the veterinary certification arrangement. This review must be completed within 12 months from the date of entry into force of this Agreement."
+        },
+        {
+            "bbox": [
+                1328.9149867332058,
+                1196.5119487846728,
+                1402.46679824414,
+                1221.59370984046
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "9 CFR",
+            "uuid": "ae01887c-0ecc-4f29-9221-7775f323c396",
+            "vertical": false,
+            "translation": "9 CFR"
+        },
+        {
+            "bbox": [
+                1332.2582508927935,
+                1224.9379446478981,
+                1414.1682228026975,
+                1250.0197057036853
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "381.1 —",
+            "uuid": "1d7fff0a-fe86-4b4a-851a-1f56da2544b2",
+            "vertical": false,
+            "translation": "381.1 —"
+        },
+        {
+            "bbox": [
+                1330.5866188129999,
+                1250.0197057036853,
+                1394.10863784517,
+                1276.7735841631918
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "381.5",
+            "uuid": "ed62a820-1e4f-4d20-924c-0e6eea9185c2",
+            "vertical": false,
+            "translation": "381.5"
+        },
+        {
+            "bbox": [
+                1452.6157606379584,
+                1198.1840661883919,
+                1524.4959400690982,
+                1218.2494750330213
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "bb70fc14-9bdc-4fd5-95ff-beae2f592add",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                1457.6306568773402,
+                1224.9379446478981,
+                1512.7945155105408,
+                1248.3475882999662
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "da6b9e96-61de-4c7d-a1da-bd013e5a7eba",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                1450.9441285581647,
+                1253.3639405111237,
+                1517.8094117499227,
+                1271.7572319520343
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "918e864b-85de-4719-8ec6-cb2e7026b004",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                1457.6306568773402,
+                1280.11781897063,
+                1526.1675721488925,
+                1300.1832278152597
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "96/712",
+            "uuid": "e1c7b4da-f398-4961-97f8-ba5e799a3d7c",
+            "vertical": false,
+            "translation": "96/712"
+        },
+        {
+            "bbox": [
+                1577.988166622505,
+                1193.928185989823,
+                1632.4840740361894,
+                1228.9246919905988
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Ja (3)",
+            "uuid": "caeed739-3a23-4741-a870-d14ad05bdb5d",
+            "vertical": false,
+            "translation": "Yes (3)"
+        },
+        {
+            "bbox": [
+                1648.196713973851,
+                1199.856183592111,
+                1898.9415259429443,
+                1330.2813410822043
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Auflistung von Betrieben gemäß Fußnote 7 unter den einschlägigen Bedingungen der Fußnoten 2, 3, 4 und 6.",
+            "uuid": "f13a2866-8075-45fe-8f45-6772fe8a3219",
+            "vertical": false,
+            "translation": "List of establishments in accordance with footnote 7 under the relevant conditions of footnotes 2, 3, 4 and 6."
+        },
+        {
+            "bbox": [
+                1920.6727429802654,
+                1196.5119487846728,
+                2181.4473474281226,
+                1567.7220124103235
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "EU prüft das US-Rückstandsprogramm sowie die von den US noch mitzuteilenden zusätzlichen Informationen, um festzustellen, ob sie dem Gesundheitsschutzniveau der EU entsprechen. Diese Überprüfung muß innerhalb von 6 Monaten nach dem Tag des Inkrafttretens dieses Abkommens abgeschlossen sein.",
+            "uuid": "6456a976-399c-40eb-be60-5b27c1c4ba22",
+            "vertical": false,
+            "translation": "The EU is reviewing the US Residue Program and any additional information to be provided by the US to determine whether it meets the EU's level of health protection. This review must be completed within 6 months of the date of entry into force of this Agreement."
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

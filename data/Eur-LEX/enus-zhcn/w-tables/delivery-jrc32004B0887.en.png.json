@@ -1,0 +1,3479 @@
+{
+    "file": "jrc32004B0887.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.089549278237,
+                139.75919949941618,
+                239.44731381563327,
+                160.56596729277243
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "28.12.2004",
+            "uuid": "7e501f5e-88ac-4040-9c04-a64c78edab49",
+            "vertical": false,
+            "translation": "2004 年 12 月 28 日"
+        },
+        {
+            "bbox": [
+                331.7132686332929,
+                141.3976758527683,
+                359.9785501966897,
+                159.78145584237382
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "9dcb0935-062b-4926-8c34-a0f67b47ecd9",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                622.18930732182,
+                137.92457063628243,
+                1030.6548299816816,
+                166.766962330524
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "61ceac23-445e-434c-9b35-cb9c2488a7a9",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1437.1049194317827,
+                138.53333873945903,
+                1534.8744078795469,
+                167.05594439333387
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 383/27",
+            "uuid": "6cf7ad20-74e1-4c1c-9f84-0b5940d8e657",
+            "vertical": false,
+            "translation": "L 383/27"
+        },
+        {
+            "bbox": [
+                772.623779296875,
+                344.9592739435128,
+                876.5539550781251,
+                364.9581900888845
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "TABLE 1",
+            "uuid": "446bfff5-e17c-4feb-9dc2-48429bfd2686",
+            "vertical": false,
+            "translation": "表 1"
+        },
+        {
+            "bbox": [
+                141.37911322498096,
+                390.336479003867,
+                1510.7650381124552,
+                418.28821483303386
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Calculation of capping of harmonised value added tax (VAT) bases pursuant to Article 2(1)(c) of Decision 2000/597/EC, Euratom",
+            "uuid": "f88c25b5-82f7-4c68-bc83-51f9ca475091",
+            "vertical": false,
+            "translation": "根据第 2000/597/EC 号决定第 2(1)(c) 条计算统一增值税 (VAT) 基数上限，欧洲原子能共同体"
+        },
+        {
+            "bbox": [
+                139.0204348409286,
+                512.1624715299031,
+                254.3056734895035,
+                528.7496720252014
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Member State",
+            "uuid": "fe97d07d-955c-48aa-95c9-f0fb91a9966a",
+            "vertical": false,
+            "translation": "成员国"
+        },
+        {
+            "bbox": [
+                303.26436525076605,
+                486.84778140283163,
+                406.5123284372953,
+                552.1962211500535
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1% of noncapped VAT base",
+            "uuid": "5a1d0456-c834-428b-af66-13b11415e7a8",
+            "vertical": false,
+            "translation": "无上限增值税基数的 1%"
+        },
+        {
+            "bbox": [
+                340.9579770488899,
+                586.4660520279358,
+                366.20016982488505,
+                612.1008164297604
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "(1)",
+            "uuid": "650e5164-40a0-4599-8a0b-a888e2703a72",
+            "vertical": false,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                286.70610003779586,
+                631.7038715605674,
+                429.49402633782813,
+                650.9299448619363
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "1 132 980 000",
+            "uuid": "a314287f-155e-4732-a0e2-ffd974c1d7c2",
+            "vertical": false,
+            "translation": "1,132,980,000"
+        },
+        {
+            "bbox": [
+                134.12269594409372,
+                629.8189624133746,
+                209.8492742720792,
+                655.8307086446378
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Belgium",
+            "uuid": "691c3214-652b-4365-acf4-2ed0d98e3171",
+            "vertical": false,
+            "translation": "比利时"
+        },
+        {
+            "bbox": [
+                464.09054138896,
+                474.9359954438539,
+                585.7708176117898,
+                567.3191563714585
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "1% of reduced non capped VAT base (¹)",
+            "uuid": "1bbcba64-5f87-4609-be76-72706f466c88",
+            "vertical": false,
+            "translation": "减少的无上限增值税基数的 1% (¹)"
+        },
+        {
+            "bbox": [
+                512.0371827578423,
+                587.7033738497174,
+                536.1476714605175,
+                610.8338923862444
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "(2)",
+            "uuid": "6e29c39f-4e4b-41eb-a810-98467e8e8106",
+            "vertical": false,
+            "translation": "(2)"
+        },
+        {
+            "bbox": [
+                689.5102645486674,
+                586.9572280904748,
+                714.117876729748,
+                610.8338923862444
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "(3)",
+            "uuid": "8a11be39-0804-4c01-af12-d0e15c42c7de",
+            "vertical": false,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                634.5781201848405,
+                499.17379243254317,
+                768.3043358759663,
+                540.9579549501401
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "1% of gross national income",
+            "uuid": "f49fa3cc-dab6-4118-bf0b-36f8de3a4897",
+            "vertical": false,
+            "translation": "国民总收入的 1%"
+        },
+        {
+            "bbox": [
+                819.5922151907891,
+                486.03156497135365,
+                941.8121069297664,
+                556.8097236413496
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "1% of reduced gross national income (²)",
+            "uuid": "5265ed12-0aaa-47c5-a97a-8a6d93bb4184",
+            "vertical": false,
+            "translation": "减少的国民总收入的 1% (²)"
+        },
+        {
+            "bbox": [
+                812.1708934912688,
+                631.2209105971009,
+                956.4228340256974,
+                649.553613990313
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "2 825 190 000",
+            "uuid": "dd9ff516-35c9-453b-94e0-6fbdec7449d6",
+            "vertical": false,
+            "translation": "2,825,190,000"
+        },
+        {
+            "bbox": [
+                991.2102794921994,
+                630.5247319872321,
+                1015.0976587125309,
+                649.3215544536903
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "dc7593fb-bb64-485a-b279-d8be87b1fa53",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                992.6017773108595,
+                587.5937177119883,
+                1014.6338261063108,
+                611.7279095207742
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "(5)",
+            "uuid": "20c94cd0-333b-4e98-b384-3b4280117260",
+            "vertical": false,
+            "translation": "(5)"
+        },
+        {
+            "bbox": [
+                642.484608666753,
+                631.1366707947668,
+                785.6813754899151,
+                649.5228255962279
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "2 825 190 000",
+            "uuid": "aec5f258-ac44-487d-8b4c-6413325b8cb3",
+            "vertical": false,
+            "translation": "2,825,190,000"
+        },
+        {
+            "bbox": [
+                659.9089940102795,
+                699.6092472967595,
+                785.6813754899151,
+                717.9954020982202
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "790 620 000",
+            "uuid": "d577daf5-6da9-485d-bc1b-3667a2defd6a",
+            "vertical": false,
+            "translation": "790,620,000"
+        },
+        {
+            "bbox": [
+                642.8014156729992,
+                741.7706022725232,
+                785.3645684836691,
+                760.4737597429747
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "1 928 917 000",
+            "uuid": "1ae4b627-6b7a-4c95-b4a3-8c00a515205b",
+            "vertical": false,
+            "translation": "1,928,917,000"
+        },
+        {
+            "bbox": [
+                475.2105093689003,
+                700.2432526347405,
+                600.0324698297981,
+                718.6294074362016
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "281 456 667",
+            "uuid": "ad53e161-0e7e-4d8b-acc9-933d57218365",
+            "vertical": false,
+            "translation": "281,456,667"
+        },
+        {
+            "bbox": [
+                474.89370236265427,
+                741.7706022725232,
+                600.6660838422899,
+                761.107765080956
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "751 886 000",
+            "uuid": "cb424634-ac8a-400a-8ac5-30be6734693e",
+            "vertical": false,
+            "translation": "751,886,000"
+        },
+        {
+            "bbox": [
+                965.4387859723431,
+                488.1959612200733,
+                1032.9505261475038,
+                555.331109699905
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Capping rate (in %)",
+            "uuid": "f58d4ead-8147-4dd4-b2fa-90a8435e4c4e",
+            "vertical": false,
+            "translation": "上限率（以 % 为单位）"
+        },
+        {
+            "bbox": [
+                1051.7992607364993,
+                474.6291181406567,
+                1200.6985536720879,
+                568.4619081619054
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "1% of reduced gross national income multiplied by capping rate t",
+            "uuid": "88f23078-f130-429b-8079-158a7764e998",
+            "vertical": false,
+            "translation": "减少的国民总收入的 1% 乘以上限率 t"
+        },
+        {
+            "bbox": [
+                1113.5766269544563,
+                587.7990709703384,
+                1138.287573441639,
+                611.8912738136319
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "(6)",
+            "uuid": "d0acb373-4589-47e0-b40a-7adfe0e4213a",
+            "vertical": false,
+            "translation": "(6)"
+        },
+        {
+            "bbox": [
+                1284.1861660563056,
+                587.314873170476,
+                1308.4318684102336,
+                610.9481185854943
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "(7)",
+            "uuid": "89b14258-9187-4eea-b990-847bc34ca1b0",
+            "vertical": false,
+            "translation": "(7)"
+        },
+        {
+            "bbox": [
+                1235.2263327957114,
+                485.04124902093554,
+                1358.8833759047488,
+                556.770764828155
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "1% of reduced capped VAT base (³), (⁴)",
+            "uuid": "f72f3eaa-7e48-41f9-b53e-65f532994a90",
+            "vertical": false,
+            "translation": "减少的增值税基数上限的 1%  (³)，(⁴)"
+        },
+        {
+            "bbox": [
+                1440.8733718792193,
+                587.3050632317241,
+                1465.0671411831618,
+                610.6171558690706
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "(8)",
+            "uuid": "6eb44f87-2e1b-4588-904d-792b3f34baf0",
+            "vertical": false,
+            "translation": "(8)"
+        },
+        {
+            "bbox": [
+                1392.4858332713352,
+                487.78036004920665,
+                1512.1105814963823,
+                558.1649474350411
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Member States whose VAT base is capped",
+            "uuid": "632732f8-b136-4cc4-926c-1d64f02dcf56",
+            "vertical": false,
+            "translation": "有增值税基数上限的成员国"
+        },
+        {
+            "bbox": [
+                133.90289911619092,
+                670.9863734391901,
+                217.25967075143558,
+                723.9299102338557
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Czech Republic",
+            "uuid": "ee04e5bb-5ce0-4c80-95d0-9ad3cb4a3688",
+            "vertical": false,
+            "translation": "捷克共和国"
+        },
+        {
+            "bbox": [
+                304.7547218295648,
+                699.9966834120735,
+                430.9722448375416,
+                718.3346682236337
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "422 185 000",
+            "uuid": "78e14b7a-9fed-46f1-9690-15d678c3b533",
+            "vertical": false,
+            "translation": "422,185,000"
+        },
+        {
+            "bbox": [
+                304.7547218295648,
+                742.2923580580909,
+                430.0854706712093,
+                760.6303428696511
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "751 886 000",
+            "uuid": "31aedcfd-ecd2-4c9f-90d2-352410635f07",
+            "vertical": false,
+            "translation": "751,886,000"
+        },
+        {
+            "bbox": [
+                286.42805572536207,
+                785.4753545498294,
+                430.0854706712093,
+                802.9260175156686
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "9 451 381 000",
+            "uuid": "aa18efcb-cf50-4475-9fea-144982deb762",
+            "vertical": false,
+            "translation": "9,451,381,000"
+        },
+        {
+            "bbox": [
+                133.60730772741346,
+                740.2219404180761,
+                221.98913297187502,
+                761.2218907667984
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Denmark",
+            "uuid": "e2af391f-a585-43f2-bd62-db68994264fe",
+            "vertical": false,
+            "translation": "丹麦"
+        },
+        {
+            "bbox": [
+                134.72659891772722,
+                785.8519103271631,
+                220.637214194845,
+                807.9541746414193
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Germany",
+            "uuid": "1dfa3dd5-91d1-423e-bee7-658e7ba5df17",
+            "vertical": false,
+            "translation": "德国"
+        },
+        {
+            "bbox": [
+                134.64297765452173,
+                955.2758276038888,
+                195.15311584749503,
+                974.295987743331
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "France",
+            "uuid": "b36f627b-8910-42e7-b3d4-28ac8fac51b5",
+            "vertical": false,
+            "translation": "法国"
+        },
+        {
+            "bbox": [
+                287.97756867755356,
+                955.2758276038888,
+                429.9071074757317,
+                973.6619824053494
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "7 575 510 000",
+            "uuid": "ab6bbf4b-6b7f-4f80-85b0-8e49444e331f",
+            "vertical": false,
+            "translation": "7,575,510,000"
+        },
+        {
+            "bbox": [
+                133.05894262329207,
+                912.7974699591342,
+                185.96571266636295,
+                936.8896728024281
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "50504a4d-1b97-4a4e-9804-271d31c16046",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                286.3935336463239,
+                913.1144726281251,
+                430.22391448197766,
+                931.8176300985766
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "4 571 090 000",
+            "uuid": "cec0fb50-3b3b-4620-a871-f4028cfe23c8",
+            "vertical": false,
+            "translation": "4,571,090,000"
+        },
+        {
+            "bbox": [
+                317.4406202584253,
+                828.4641942193892,
+                429.5903004694859,
+                845.6177533016909
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "48 159 000",
+            "uuid": "79c7063e-cb6a-4f8d-b5bf-a9d73344c2db",
+            "vertical": false,
+            "translation": "48,159,000"
+        },
+        {
+            "bbox": [
+                133.05894262329207,
+                828.4996091761927,
+                202.12286998490555,
+                846.8857639776538
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Estonia",
+            "uuid": "5605ff1e-72fc-4712-baa7-828303f462f1",
+            "vertical": false,
+            "translation": "爱沙尼亚"
+        },
+        {
+            "bbox": [
+                133.69255663578392,
+                870.9779668209472,
+                196.42034387247878,
+                889.364121622408
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Greece",
+            "uuid": "87b01272-7726-470e-992b-ade10099660a",
+            "vertical": false,
+            "translation": "希腊"
+        },
+        {
+            "bbox": [
+                306.0355680335718,
+                871.2949694899379,
+                430.5407214882236,
+                888.7301162844269
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "897 770 000",
+            "uuid": "e05239d1-14ca-43e4-801b-550bf73c4e94",
+            "vertical": false,
+            "translation": "897,770,000"
+        },
+        {
+            "bbox": [
+                318.4935308334838,
+                1168.3091045444864,
+                429.52485768055124,
+                1188.0148973387766
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "76 782 000",
+            "uuid": "763884fd-a119-4643-89c3-ff48eef63f04",
+            "vertical": false,
+            "translation": "76,782,000"
+        },
+        {
+            "bbox": [
+                134.1204101057848,
+                1166.270574255422,
+                221.3835630100549,
+                1187.675142290599
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "Lithuania",
+            "uuid": "c68cd554-2093-45f1-90d5-25b07f663e3a",
+            "vertical": false,
+            "translation": "立陶宛"
+        },
+        {
+            "bbox": [
+                133.7551034218022,
+                1083.0305874519556,
+                201.0108424876572,
+                1106.5849206729254
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "Cyprus",
+            "uuid": "cf32df23-9989-4924-ab46-51c7393817b4",
+            "vertical": false,
+            "translation": "塞浦路斯"
+        },
+        {
+            "bbox": [
+                134.1204101057848,
+                1126.5192336186647,
+                190.4849368844184,
+                1145.5455163165996
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "Latvia",
+            "uuid": "70fb7d0a-cbd1-47c0-9674-3ebd228d7543",
+            "vertical": false,
+            "translation": "拉托维亚"
+        },
+        {
+            "bbox": [
+                316.4562587812441,
+                1126.5192336186647,
+                429.52485768055124,
+                1143.8467410757128
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "41 803 000",
+            "uuid": "8e37a28a-597f-4642-b831-a2aedfab57f1",
+            "vertical": false,
+            "translation": "41,803,000"
+        },
+        {
+            "bbox": [
+                287.9344500498873,
+                1040.2214513816014,
+                430.20394836463123,
+                1058.2284689350045
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "5 511 310 000",
+            "uuid": "7a2a1f93-efe8-415c-8286-80a813f304f2",
+            "vertical": false,
+            "translation": "5,511,310,000"
+        },
+        {
+            "bbox": [
+                317.135349465324,
+                1084.4451797710901,
+                429.1853123385114,
+                1101.432932179961
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "94 920 000",
+            "uuid": "b2bb03c2-1e5e-460f-9c2b-6cff1a322f85",
+            "vertical": false,
+            "translation": "94,920,000"
+        },
+        {
+            "bbox": [
+                304.2326264678055,
+                997.4678874376723,
+                430.20394836463123,
+                1017.8531903283169
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "657 675 000",
+            "uuid": "0935e011-5527-475d-9a29-df6929ef3563",
+            "vertical": false,
+            "translation": "657,675,000"
+        },
+        {
+            "bbox": [
+                134.45995544782477,
+                1039.2841813368134,
+                174.86585115058017,
+                1063.746544805587
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "Italy",
+            "uuid": "1a97d020-bc8d-4cd2-bb59-0894787ae0b2",
+            "vertical": false,
+            "translation": "意大利"
+        },
+        {
+            "bbox": [
+                134.45995544782477,
+                997.4943104109913,
+                199.9922064615373,
+                1015.5013279643942
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Ireland",
+            "uuid": "8e4b124a-be79-46a6-9bc4-4eeae503b957",
+            "vertical": false,
+            "translation": "爱尔兰"
+        },
+        {
+            "bbox": [
+                287.5949047078474,
+                1380.6518155326216,
+                429.86440302259126,
+                1399.6780982305568
+            ],
+            "order": "171",
+            "label": "Table cell",
+            "text": "1 065 330 000",
+            "uuid": "fe1d4dd0-6454-4bbc-88ad-326a793ba079",
+            "vertical": false,
+            "translation": "1,065,330,000"
+        },
+        {
+            "bbox": [
+                133.78086476374483,
+                1379.9723054362664,
+                202.0294785137771,
+                1399.6780982305568
+            ],
+            "order": "170",
+            "label": "Table cell",
+            "text": "Austria",
+            "uuid": "6b3eff0a-c10d-4994-8960-d80632647583",
+            "vertical": false,
+            "translation": "奥地利"
+        },
+        {
+            "bbox": [
+                134.1204101057848,
+                1209.4152712512046,
+                252.62173447773134,
+                1236.9354301535752
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "Luxembourg",
+            "uuid": "2592f731-da59-4751-896e-639bcd8ebaf5",
+            "vertical": false,
+            "translation": "卢森堡"
+        },
+        {
+            "bbox": [
+                132.76222873762495,
+                1251.839984866104,
+                214.93220151129563,
+                1278.6806336721197
+            ],
+            "order": "144",
+            "label": "Table cell",
+            "text": "Hungary",
+            "uuid": "6e541627-ca1c-4fee-89bb-77a9b12b0c95",
+            "vertical": false,
+            "translation": "匈牙利"
+        },
+        {
+            "bbox": [
+                134.7995007898647,
+                1294.3093658882808,
+                185.73130209585892,
+                1314.6946687789257
+            ],
+            "order": "153",
+            "label": "Table cell",
+            "text": "Malta",
+            "uuid": "dc1ad06f-5556-4f1f-aa2c-0eefa16bcacd",
+            "vertical": false,
+            "translation": "马耳他"
+        },
+        {
+            "bbox": [
+                133.78086476374483,
+                1337.7980120549896,
+                244.47264626877225,
+                1358.8628250419895
+            ],
+            "order": "162",
+            "label": "Table cell",
+            "text": "Netherlands",
+            "uuid": "3a90b4d7-8269-4b24-bd01-40879c72ad50",
+            "vertical": false,
+            "translation": "荷兰"
+        },
+        {
+            "bbox": [
+                286.57626868172747,
+                1339.8365423440541,
+                430.20394836463123,
+                1358.1833149456347
+            ],
+            "order": "163",
+            "label": "Table cell",
+            "text": "2 220 805 000",
+            "uuid": "71bd480d-d3ad-43b7-992e-232beef47927",
+            "vertical": false,
+            "translation": "2,220,805,000"
+        },
+        {
+            "bbox": [
+                306.60944386208524,
+                1210.7296240366368,
+                430.8830390487111,
+                1229.0763966382174
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "160 257 000",
+            "uuid": "de3df2f7-8040-49f8-be6e-77de5261328f",
+            "vertical": false,
+            "translation": "160,257,000"
+        },
+        {
+            "bbox": [
+                306.60944386208524,
+                1252.519494962459,
+                429.86440302259126,
+                1270.866267564039
+            ],
+            "order": "145",
+            "label": "Table cell",
+            "text": "378 425 000",
+            "uuid": "0b49732d-e8ff-4327-9ea0-8da9a74808f3",
+            "vertical": false,
+            "translation": "378,425,000"
+        },
+        {
+            "bbox": [
+                318.15398549144396,
+                1296.008141129168,
+                429.52485768055124,
+                1314.6946687789257
+            ],
+            "order": "154",
+            "label": "Table cell",
+            "text": "27 580 000",
+            "uuid": "dcb604c2-d24d-48e1-803a-bc8aec3b2bf9",
+            "vertical": false,
+            "translation": "27,580,000"
+        },
+        {
+            "bbox": [
+                133.20971807013765,
+                1549.7582587232832,
+                212.08752214479478,
+                1569.3519052192757
+            ],
+            "order": "205",
+            "label": "Table cell",
+            "text": "Slovakia",
+            "uuid": "f711393a-8253-49bf-bb1f-db892d89fe06",
+            "vertical": false,
+            "translation": "斯洛伐克"
+        },
+        {
+            "bbox": [
+                305.58254165986034,
+                1551.4140598356207,
+                429.96677116220417,
+                1569.0759383672194
+            ],
+            "order": "206",
+            "label": "Table cell",
+            "text": "143 215 000",
+            "uuid": "508fd079-66ea-43e4-95b3-57b72053d3c1",
+            "vertical": false,
+            "translation": "143,215,000"
+        },
+        {
+            "bbox": [
+                133.48551458788123,
+                1508.3632309148484,
+                212.6391151802819,
+                1528.5088111149535
+            ],
+            "order": "196",
+            "label": "Table cell",
+            "text": "Slovenia",
+            "uuid": "abb1743b-a902-4226-9235-129cf2504be8",
+            "vertical": false,
+            "translation": "斯洛文尼亚"
+        },
+        {
+            "bbox": [
+                306.409931213091,
+                1509.4670983230733,
+                430.51836419769137,
+                1527.1289768546721
+            ],
+            "order": "197",
+            "label": "Table cell",
+            "text": "144 988 000",
+            "uuid": "9a36670f-a425-4a84-926f-aa32f35255fd",
+            "vertical": false,
+            "translation": "144,988,000"
+        },
+        {
+            "bbox": [
+                133.20971807013765,
+                1464.7604682899635,
+                210.70853955607694,
+                1490.4253855311931
+            ],
+            "order": "187",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "a56d2213-c255-4cf9-ad2c-5810f94f1a8a",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                305.0309486243732,
+                1466.140302550245,
+                428.86358509122994,
+                1484.354114785956
+            ],
+            "order": "188",
+            "label": "Table cell",
+            "text": "841 380 000",
+            "uuid": "b448f3d0-97f0-4e02-b609-d25cb59bbc65",
+            "vertical": false,
+            "translation": "841,380,000"
+        },
+        {
+            "bbox": [
+                134.03710762336834,
+                1423.1405739232755,
+                198.29769625761693,
+                1443.2861541233804
+            ],
+            "order": "178",
+            "label": "Table cell",
+            "text": "Poland",
+            "uuid": "9705e346-ee49-4711-963e-c22c5ece350f",
+            "vertical": false,
+            "translation": "波兰"
+        },
+        {
+            "bbox": [
+                305.0309486243732,
+                1423.416540775332,
+                430.7941607154348,
+                1442.734220419268
+            ],
+            "order": "179",
+            "label": "Table cell",
+            "text": "970 307 000",
+            "uuid": "56171ac9-6419-4cd8-8225-5ffba6db3be2",
+            "vertical": false,
+            "translation": "970,307,000"
+        },
+        {
+            "bbox": [
+                131.37356298037244,
+                1677.8708328673579,
+                219.80507490344863,
+                1730.6711973052554
+            ],
+            "order": "229",
+            "label": "Table cell",
+            "text": "United Kingdom",
+            "uuid": "b52362f8-3e1c-42c3-b0bb-9374f4cf0625",
+            "vertical": false,
+            "translation": "英国"
+        },
+        {
+            "bbox": [
+                285.30989855017174,
+                1706.637927974902,
+                430.8761733206675,
+                1725.5732310836654
+            ],
+            "order": "230",
+            "label": "Table cell",
+            "text": "8 457 364 000",
+            "uuid": "55c70f30-8c8c-4de8-ae63-9a2f58ea605d",
+            "vertical": false,
+            "translation": "8,457,364,000"
+        },
+        {
+            "bbox": [
+                133.19314141500365,
+                1592.2978284335238,
+                203.06495330484162,
+                1613.417974208683
+            ],
+            "order": "213",
+            "label": "Table cell",
+            "text": "Finland",
+            "uuid": "9d4cbe7f-67ba-4f5a-a643-fe8be511b933",
+            "vertical": false,
+            "translation": "芬兰"
+        },
+        {
+            "bbox": [
+                133.5570571019299,
+                1636.7229626502378,
+                204.8845317394728,
+                1655.658265759001
+            ],
+            "order": "221",
+            "label": "Table cell",
+            "text": "Sweden",
+            "uuid": "2121edc8-8c0f-4811-ba15-435ff7a43fa2",
+            "vertical": false,
+            "translation": "瑞典"
+        },
+        {
+            "bbox": [
+                287.49339267172917,
+                1637.8153839834356,
+                429.0565948860363,
+                1656.0224062034004
+            ],
+            "order": "222",
+            "label": "Table cell",
+            "text": "1 210 952 000",
+            "uuid": "ab937dcb-4399-487d-b7ce-1cebc867debf",
+            "vertical": false,
+            "translation": "1,210,952,000"
+        },
+        {
+            "bbox": [
+                305.325261331115,
+                1594.1185306555208,
+                429.42051057296254,
+                1611.2331315422873
+            ],
+            "order": "214",
+            "label": "Table cell",
+            "text": "641 720 000",
+            "uuid": "de27a31f-24ca-4d61-bccb-6fb71be3b170",
+            "vertical": false,
+            "translation": "641,720,000"
+        },
+        {
+            "bbox": [
+                207.20182437564603,
+                1745.7951121182252,
+                262.1835367534247,
+                1766.2157754914574
+            ],
+            "order": "238",
+            "label": "Table cell",
+            "text": "Total",
+            "uuid": "3bc9a02d-4591-4b8b-9701-597db7987d6f",
+            "vertical": false,
+            "translation": "总计"
+        },
+        {
+            "bbox": [
+                273.03855256612064,
+                1748.4216880157371,
+                430.7941607154348,
+                1768.291301363786
+            ],
+            "order": "239",
+            "label": "Table cell",
+            "text": "47 495 774 000",
+            "uuid": "4aba2f96-bb36-4ae2-b462-a96f17bd60ec",
+            "vertical": false,
+            "translation": "47,495,774,000"
+        },
+        {
+            "bbox": [
+                456.6884850437482,
+                955.1182486199808,
+                599.297528700532,
+                974.1445313179162
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "7 575 510 000",
+            "uuid": "f030f4ec-4628-49a5-ad74-e41cda03da66",
+            "vertical": false,
+            "translation": "7,575,510,000"
+        },
+        {
+            "bbox": [
+                630.8752455102484,
+                954.7784935718036,
+                784.6892854543511,
+                973.4650212215615
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "16 112 960 000",
+            "uuid": "39c68155-83fc-443a-bba7-eca4745a31ea",
+            "vertical": false,
+            "translation": "16,112,960,000"
+        },
+        {
+            "bbox": [
+                456.00939435966825,
+                913.6681327423363,
+                599.637074042572,
+                931.6751502957396
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "4 571 090 000",
+            "uuid": "6b59e878-342f-485a-be8b-b25297b16f7e",
+            "vertical": false,
+            "translation": "4,571,090,000"
+        },
+        {
+            "bbox": [
+                642.0802417975672,
+                913.3283776941593,
+                786.7265575065908,
+                932.6944154402717
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "7 841 620 000",
+            "uuid": "32b14a00-41a2-4419-9d1d-2226f0f8d48f",
+            "vertical": false,
+            "translation": "7,841,620,000"
+        },
+        {
+            "bbox": [
+                474.6843881718662,
+                869.8397315274501,
+                599.9766193846119,
+                889.2057692735625
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "897 770 000",
+            "uuid": "8b57e1ac-a765-4a78-bde2-c905182b23ec",
+            "vertical": false,
+            "translation": "897,770,000"
+        },
+        {
+            "bbox": [
+                643.4384231657269,
+                870.1794865756275,
+                785.7079214804709,
+                887.8467490808529
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "1 646 135 000",
+            "uuid": "17f7f0ca-4b19-4036-b5c3-b064894ab44f",
+            "vertical": false,
+            "translation": "1,646,135,000"
+        },
+        {
+            "bbox": [
+                486.9080204853048,
+                828.049860601628,
+                599.9766193846119,
+                846.0568781550307
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "32 106 000",
+            "uuid": "4dbb2ffc-3713-4ae2-8a2d-239b6cb49b35",
+            "vertical": false,
+            "translation": "32,106,000"
+        },
+        {
+            "bbox": [
+                671.9602318970838,
+                827.3816746366955,
+                786.0474668225107,
+                846.4079573346307
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "77 069 000",
+            "uuid": "a5eb39f8-3e6f-4009-b8fa-e4a716afc09f",
+            "vertical": false,
+            "translation": "77,069,000"
+        },
+        {
+            "bbox": [
+                456.00939435966825,
+                785.2524680749713,
+                599.9766193846119,
+                803.5992406765516
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "9 451 381 000",
+            "uuid": "b1acf6be-20e5-43e7-bf41-2ba8231c8531",
+            "vertical": true,
+            "translation": "9,451,381,000"
+        },
+        {
+            "bbox": [
+                629.8566094841286,
+                784.5989615396603,
+                785.0288307963909,
+                803.6252442375956
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "21 696 270 000",
+            "uuid": "934c70be-867f-43c0-ae7a-cdcdb2716ac8",
+            "vertical": false,
+            "translation": "21,696,270,000"
+        },
+        {
+            "bbox": [
+                487.24756582734466,
+                1167.6916674648178,
+                599.9766193846119,
+                1186.7179501627531
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "51 188 000",
+            "uuid": "09a225f1-e819-411e-8969-537c9be45365",
+            "vertical": false,
+            "translation": "51,188,000"
+        },
+        {
+            "bbox": [
+                660.4156902677252,
+                1168.3711775611725,
+                786.3870121645508,
+                1186.7179501627531
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "170 165 000",
+            "uuid": "3124e64e-46d8-4628-aacd-34a008ca7d20",
+            "vertical": false,
+            "translation": "170,165,000"
+        },
+        {
+            "bbox": [
+                488.2662018534646,
+                1126.921061683528,
+                598.2788926744122,
+                1144.2485691405761
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "27 868 667",
+            "uuid": "4743ccbc-565d-42d5-a4a6-5d3756fb23af",
+            "vertical": false,
+            "translation": "27,868,667"
+        },
+        {
+            "bbox": [
+                673.9975039493236,
+                1126.2415515871733,
+                785.0288307963909,
+                1144.2485691405761
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "95 382 000",
+            "uuid": "89ac78b8-243a-4f42-8f39-0c9c4ba938f7",
+            "vertical": false,
+            "translation": "95,382,000"
+        },
+        {
+            "bbox": [
+                475.3634788559461,
+                998.8334085206427,
+                599.297528700532,
+                1015.4814058813361
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "657 675 000",
+            "uuid": "d934712c-7631-4f7e-be5a-dc222edebc07",
+            "vertical": false,
+            "translation": "657,675,000"
+        },
+        {
+            "bbox": [
+                642.7593324816471,
+                998.8524917791511,
+                784.010194770271,
+                1015.8402441880219
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "1 179 773 000",
+            "uuid": "5edae893-1e7f-4624-937b-b6fc9dfceff8",
+            "vertical": false,
+            "translation": "1,179,773,000"
+        },
+        {
+            "bbox": [
+                457.02803038578816,
+                1039.962852608618,
+                600.3161647266519,
+                1058.3096252101984
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "5 511 310 000",
+            "uuid": "f24e9944-f223-4696-a45e-a51627bb2eb3",
+            "vertical": false,
+            "translation": "5,511,310,000"
+        },
+        {
+            "bbox": [
+                487.5871111693846,
+                1082.7719886789725,
+                599.637074042572,
+                1101.4585163287302
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "63 280 000",
+            "uuid": "7a9ebb96-5682-4f61-9a60-71a75094a22a",
+            "vertical": false,
+            "translation": "63,280,000"
+        },
+        {
+            "bbox": [
+                629.5170641420887,
+                1039.6230975604408,
+                784.6892854543511,
+                1058.6493802583761
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "13 338 450 000",
+            "uuid": "816f99b8-2ac2-44f6-a859-080dce7fe11d",
+            "vertical": false,
+            "translation": "13,338,450,000"
+        },
+        {
+            "bbox": [
+                661.7738716358849,
+                1083.7912538235048,
+                785.0288307963909,
+                1100.7790062323754
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "120 306 000",
+            "uuid": "1a3608a2-64b1-4561-a263-b96516dfe714",
+            "vertical": false,
+            "translation": "120,306,000"
+        },
+        {
+            "bbox": [
+                456.6884850437482,
+                1381.5853108669355,
+                599.9766193846119,
+                1400.2718385166932
+            ],
+            "order": "172",
+            "label": "Table cell",
+            "text": "1 065 330 000",
+            "uuid": "a2f9e468-6999-4e79-8973-a6ceb9388383",
+            "vertical": false,
+            "translation": "1,065,330,000"
+        },
+        {
+            "bbox": [
+                642.4197871396071,
+                1380.9058007705805,
+                785.3683761384309,
+                1400.2718385166932
+            ],
+            "order": "173",
+            "label": "Table cell",
+            "text": "2 289 350 000",
+            "uuid": "6e7e7bbc-f2ab-4b45-843f-6088bc25a51d",
+            "vertical": false,
+            "translation": "2,289,350,000"
+        },
+        {
+            "bbox": [
+                475.0239335139062,
+                1211.3680317300507,
+                599.297528700532,
+                1228.695539187099
+            ],
+            "order": "137",
+            "label": "Table cell",
+            "text": "160 257 000",
+            "uuid": "0bb6b28e-207d-4c29-ab7d-530a0f8eb96a",
+            "vertical": false,
+            "translation": "160,257,000"
+        },
+        {
+            "bbox": [
+                660.4156902677252,
+                1210.7283657998123,
+                786.0474668225107,
+                1228.7353833532152
+            ],
+            "order": "138",
+            "label": "Table cell",
+            "text": "220 670 000",
+            "uuid": "46c8766a-289d-4d9f-938e-43d0384fd537",
+            "vertical": false,
+            "translation": "220,670,000"
+        },
+        {
+            "bbox": [
+                660.755235609765,
+                1251.4993909933767,
+                784.6892854543511,
+                1272.2244489321988
+            ],
+            "order": "147",
+            "label": "Table cell",
+            "text": "731 932 000",
+            "uuid": "05525590-c1fe-4ce1-9a18-9c40a4e619c7",
+            "vertical": false,
+            "translation": "731,932,000"
+        },
+        {
+            "bbox": [
+                672.2997772391237,
+                1296.007302304618,
+                786.0474668225107,
+                1315.713095098908
+            ],
+            "order": "156",
+            "label": "Table cell",
+            "text": "44 080 000",
+            "uuid": "314e996d-a6d2-4f1a-aecf-0f6bcd55f287",
+            "vertical": false,
+            "translation": "44,080,000"
+        },
+        {
+            "bbox": [
+                640.7220604294073,
+                1339.1561934231495,
+                785.0288307963909,
+                1358.522231169262
+            ],
+            "order": "165",
+            "label": "Table cell",
+            "text": "4 599 995 000",
+            "uuid": "f0eac788-6cb6-45d6-9a33-77d9aea5d946",
+            "vertical": false,
+            "translation": "4,599,995,000"
+        },
+        {
+            "bbox": [
+                475.70302419798605,
+                1250.819880897022,
+                598.618438016452,
+                1271.5449388358443
+            ],
+            "order": "146",
+            "label": "Table cell",
+            "text": "252 283 333",
+            "uuid": "4417391e-3f5d-423c-a60a-ffb15a341c0b",
+            "vertical": false,
+            "translation": "252,283,333"
+        },
+        {
+            "bbox": [
+                488.6057471955046,
+                1296.3470573527957,
+                600.3161647266519,
+                1315.0335850025533
+            ],
+            "order": "155",
+            "label": "Table cell",
+            "text": "18 386 667",
+            "uuid": "b1f2bcb3-cde4-4b5d-9356-f343a97e8e70",
+            "vertical": false,
+            "translation": "18,386,667"
+        },
+        {
+            "bbox": [
+                456.00939435966825,
+                1338.8164383749724,
+                600.3161647266519,
+                1357.8427210729076
+            ],
+            "order": "164",
+            "label": "Table cell",
+            "text": "2 220 805 000",
+            "uuid": "dac3b8af-513d-4dc5-b249-3f0ef80d3309",
+            "vertical": false,
+            "translation": "2,220,805,000"
+        },
+        {
+            "bbox": [
+                476.042569540026,
+                1593.159386650298,
+                599.637074042572,
+                1613.544689540943
+            ],
+            "order": "215",
+            "label": "Table cell",
+            "text": "641 720 000",
+            "uuid": "4e9d0691-b378-4c00-88c7-ee0c4f039922",
+            "vertical": false,
+            "translation": "641,720,000"
+        },
+        {
+            "bbox": [
+                641.4011511134872,
+                1593.8388967466528,
+                786.7265575065908,
+                1612.5254243964107
+            ],
+            "order": "216",
+            "label": "Table cell",
+            "text": "1 471 320 000",
+            "uuid": "20c8affd-5d02-4076-b361-cb004e966580",
+            "vertical": false,
+            "translation": "1,471,320,000"
+        },
+        {
+            "bbox": [
+                487.92665651142465,
+                1551.369515724476,
+                599.9766193846119,
+                1570.3957984224114
+            ],
+            "order": "207",
+            "label": "Table cell",
+            "text": "95 476 667",
+            "uuid": "336a8411-5780-488b-9974-9c76ce2a2582",
+            "vertical": false,
+            "translation": "95,476,667"
+        },
+        {
+            "bbox": [
+                662.1134169779249,
+                1550.0104955317663,
+                785.3683761384309,
+                1571.4150635669437
+            ],
+            "order": "208",
+            "label": "Table cell",
+            "text": "316 358 000",
+            "uuid": "7b710c92-aabf-4842-93e2-c183d822599a",
+            "vertical": false,
+            "translation": "316,358,000"
+        },
+        {
+            "bbox": [
+                475.0239335139062,
+                1422.9421075134135,
+                598.957983358492,
+                1442.6479003077034
+            ],
+            "order": "180",
+            "label": "Table cell",
+            "text": "646 871 333",
+            "uuid": "111d4799-ad00-4bc2-b5ba-0f1a39ae1008",
+            "vertical": false,
+            "translation": "646,871,333"
+        },
+        {
+            "bbox": [
+                642.7593324816471,
+                1423.624134083418,
+                785.3683761384309,
+                1442.3106617331755
+            ],
+            "order": "181",
+            "label": "Table cell",
+            "text": "1 819 610 000",
+            "uuid": "400ceaf6-9623-4cf9-b126-c86a19623458",
+            "vertical": false,
+            "translation": "1,819,610,000"
+        },
+        {
+            "bbox": [
+                475.70302419798605,
+                1465.7537600574171,
+                600.3161647266519,
+                1483.4210225626427
+            ],
+            "order": "189",
+            "label": "Table cell",
+            "text": "841 380 000",
+            "uuid": "ff883765-e27a-4d62-be67-067eb7e9c355",
+            "vertical": false,
+            "translation": "841,380,000"
+        },
+        {
+            "bbox": [
+                486.9080204853048,
+                1507.8833860314164,
+                598.957983358492,
+                1527.5891788257065
+            ],
+            "order": "198",
+            "label": "Table cell",
+            "text": "96 658 667",
+            "uuid": "2ba9a013-2bea-44cf-98c4-12a8da17e8db",
+            "vertical": false,
+            "translation": "96,658,667"
+        },
+        {
+            "bbox": [
+                643.7779685077669,
+                1466.0935151055946,
+                785.3683761384309,
+                1484.7800427553525
+            ],
+            "order": "190",
+            "label": "Table cell",
+            "text": "1 319 570 000",
+            "uuid": "dee1d5ae-f599-4fcd-bf00-452975677d03",
+            "vertical": false,
+            "translation": "1,319,570,000"
+        },
+        {
+            "bbox": [
+                661.434326293845,
+                1509.2424062241264,
+                785.3683761384309,
+                1529.627709114771
+            ],
+            "order": "199",
+            "label": "Table cell",
+            "text": "255 496 000",
+            "uuid": "8df40bf7-e8a7-496f-b5ed-f8efbbe9de15",
+            "vertical": false,
+            "translation": "255,496,000"
+        },
+        {
+            "bbox": [
+                457.3675757278282,
+                1637.1922824547048,
+                600.3161647266519,
+                1655.878810104463
+            ],
+            "order": "223",
+            "label": "Table cell",
+            "text": "1 210 952 000",
+            "uuid": "f3a2e566-c557-41f9-944e-4c8a70d32cff",
+            "vertical": false,
+            "translation": "1,210,952,000"
+        },
+        {
+            "bbox": [
+                641.7406964555272,
+                1636.5182247179237,
+                786.0474668225107,
+                1655.2047523676815
+            ],
+            "order": "224",
+            "label": "Table cell",
+            "text": "2 788 731 000",
+            "uuid": "3b99513f-1ed9-4668-bbcb-31e24c598b3a",
+            "vertical": false,
+            "translation": "2,788,731,000"
+        },
+        {
+            "bbox": [
+                629.1775188000487,
+                1705.488918910214,
+                785.0288307963909,
+                1723.835691511794
+            ],
+            "order": "232",
+            "label": "Table cell",
+            "text": "16 774 645 000",
+            "uuid": "4a654e7b-3285-4fb6-a95d-28f863aa3013",
+            "vertical": false,
+            "translation": "16,774,645,000"
+        },
+        {
+            "bbox": [
+                617.63297717069,
+                1748.2980549805682,
+                786.3870121645508,
+                1767.6640927266808
+            ],
+            "order": "241",
+            "label": "Table cell",
+            "text": "100 454 614 000",
+            "uuid": "fc691d49-37ce-4e28-bebf-260c344aef09",
+            "vertical": false,
+            "translation": "100,454,614,000"
+        },
+        {
+            "bbox": [
+                442.7671260201098,
+                1746.9390347878584,
+                599.9766193846119,
+                1766.6448275821485
+            ],
+            "order": "240",
+            "label": "Table cell",
+            "text": "46 712 986 001",
+            "uuid": "32bffda0-dd6d-479b-811e-9d76cb977e6f",
+            "vertical": false,
+            "translation": "46,712,986,001"
+        },
+        {
+            "bbox": [
+                456.6884850437482,
+                1706.5081840547462,
+                599.637074042572,
+                1724.8549566563263
+            ],
+            "order": "231",
+            "label": "Table cell",
+            "text": "8 457 364 000",
+            "uuid": "9711b017-a8f0-4ffd-a07e-06d89d75caf0",
+            "vertical": false,
+            "translation": "8,457,364,000"
+        },
+        {
+            "bbox": [
+                1059.7210125067197,
+                631.4059236795633,
+                1202.3300561635035,
+                648.7334311366117
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "1 412 595 000",
+            "uuid": "a451dd06-4ab7-414b-8166-a87b9afb4f91",
+            "vertical": false,
+            "translation": "1,412,595,000"
+        },
+        {
+            "bbox": [
+                831.5465426558657,
+                699.4154413273957,
+                955.1410471584117,
+                719.1212341216855
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "527 080 000",
+            "uuid": "ed161293-340f-4b78-8729-209900d60f76",
+            "vertical": false,
+            "translation": "527,080,000"
+        },
+        {
+            "bbox": [
+                990.4537627305677,
+                700.0949514237507,
+                1016.2592087256046,
+                718.1019689771534
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "bd96cab4-d99e-4f08-8504-1c4bdf700802",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1076.698279608718,
+                700.4347064719279,
+                1201.9905108214637,
+                717.762213928976
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "263 540 000",
+            "uuid": "a7766508-4564-45b6-9847-b16d284ae13f",
+            "vertical": false,
+            "translation": "263,540,000"
+        },
+        {
+            "bbox": [
+                811.8529128175479,
+                742.1182563860613,
+                955.1410471584119,
+                759.8918399029756
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "1 928 917 000",
+            "uuid": "2e1a9adc-1da1-44de-b900-c5fdd0ce2622",
+            "vertical": false,
+            "translation": "1,928,917,000"
+        },
+        {
+            "bbox": [
+                991.4723987566877,
+                741.8848223495722,
+                1014.901027357445,
+                759.8918399029756
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "ff7c2e5c-5c19-4978-a873-03023f74d907",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1075.6796435825981,
+                741.8848223495722,
+                1201.6509654794236,
+                759.8918399029756
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "964 458 500",
+            "uuid": "65de5686-9359-4fd1-b0fc-df314bbb1562",
+            "vertical": false,
+            "translation": "964,458,500"
+        },
+        {
+            "bbox": [
+                799.6292805041093,
+                955.2509926049889,
+                955.1410471584117,
+                972.2387450138593
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "16 112 960 000",
+            "uuid": "4ca2fe84-027d-46c9-b053-7cf526ca56b4",
+            "vertical": false,
+            "translation": "16,112,960,000"
+        },
+        {
+            "bbox": [
+                991.1328534146477,
+                955.5907476531662,
+                1015.9196633835646,
+                972.2387450138593
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "fdb4b5a0-1e10-41c5-9d79-e2327a126f65",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1060.0605578487596,
+                954.571482508634,
+                1203.0091468475835,
+                973.2580101583916
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "8 056 480 000",
+            "uuid": "d5a8b499-169b-429f-aefd-d727131cea2e",
+            "vertical": false,
+            "translation": "8,056,480,000"
+        },
+        {
+            "bbox": [
+                810.834276791428,
+                913.1213666309892,
+                955.1410471584117,
+                931.4681392325695
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "7 841 620 000",
+            "uuid": "b7f42105-df58-4213-a088-3acbf8cc51de",
+            "vertical": false,
+            "translation": "7,841,620,000"
+        },
+        {
+            "bbox": [
+                991.1328534146477,
+                913.1213666309892,
+                1014.901027357445,
+                931.1283841843922
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "f7608903-e984-45c4-b6a3-f5b0bd5cafb1",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1058.7023764806,
+                914.1406317755217,
+                1201.6509654794236,
+                930.7886291362146
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "3 920 810 000",
+            "uuid": "9341a24f-3dbf-48af-8eca-214712a3c5f7",
+            "vertical": false,
+            "translation": "3,920,810,000"
+        },
+        {
+            "bbox": [
+                812.1924581595879,
+                870.6519856088125,
+                954.4619564743317,
+                888.6590031622153
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "1 646 135 000",
+            "uuid": "4342079d-8527-4af1-959b-5dd723ffc4d4",
+            "vertical": false,
+            "translation": "1,646,135,000"
+        },
+        {
+            "bbox": [
+                991.4723987566877,
+                869.9724755124577,
+                1015.2405726994849,
+                888.319248114038
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "77008251-6e60-4a65-8b42-c50c619a7583",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1077.3773702927979,
+                870.312230560635,
+                1202.6696015055436,
+                888.319248114038
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "823 067 500",
+            "uuid": "6b3c4c7b-b9bd-4e5e-9e06-b717d1a4589f",
+            "vertical": false,
+            "translation": "823,067,500"
+        },
+        {
+            "bbox": [
+                844.4492656533843,
+                828.8621146829904,
+                953.7828657902518,
+                845.8498670918611
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "51 379 333",
+            "uuid": "a845e3bd-8c21-4446-8921-a7834d470925",
+            "vertical": false,
+            "translation": "51,379,333"
+        },
+        {
+            "bbox": [
+                991.1328534146477,
+                827.3812552244208,
+                1014.901027357445,
+                845.7280278260012
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "16cf0c87-174f-47c1-80bd-ad965c3f304d",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1088.2428212380767,
+                827.3820940489704,
+                1201.3114201373837,
+                847.0878868432607
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "25 689 667",
+            "uuid": "59ab4b20-643a-4f42-89e6-9ec4ce227ed5",
+            "vertical": false,
+            "translation": "25,689,667"
+        },
+        {
+            "bbox": [
+                799.9688258461492,
+                784.5729579786163,
+                954.1224111322917,
+                803.5992406765516
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "21 696 270 000",
+            "uuid": "6500447c-e2e8-4136-93a9-5b8867a456fd",
+            "vertical": false,
+            "translation": "21,696,270,000"
+        },
+        {
+            "bbox": [
+                992.1514894407675,
+                784.5993809519352,
+                1016.5987540676447,
+                803.6256636498706
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "9ff6f4a4-0ac5-40cc-a158-fe02b5eb7f53",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1046.4787441671613,
+                784.5993809519352,
+                1203.0091468475835,
+                803.6256636498706
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "10 848 135 000",
+            "uuid": "45469f7d-8107-4ad8-8f63-098d6010ef6f",
+            "vertical": false,
+            "translation": "10,848,135,000"
+        },
+        {
+            "bbox": [
+                830.7712659634175,
+                1211.1903977139516,
+                955.7313339981833,
+                1229.2403936323112
+            ],
+            "order": "139",
+            "label": "Table cell",
+            "text": "220 670 000",
+            "uuid": "ed755c02-ab7d-48c4-acf2-3e41e84acf43",
+            "vertical": false,
+            "translation": "220,670,000"
+        },
+        {
+            "bbox": [
+                991.1530855670934,
+                1211.1903977139516,
+                1015.095565794227,
+                1229.8967571202516
+            ],
+            "order": "140",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "a6565473-6e49-4144-a95d-2a1244ac330a",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1077.7395894022065,
+                1210.2058524820409,
+                1202.371678255779,
+                1229.8967571202516
+            ],
+            "order": "141",
+            "label": "Table cell",
+            "text": "110 335 000",
+            "uuid": "eb8560d1-d8d9-4ab4-99a2-bd2986ec02bd",
+            "vertical": false,
+            "translation": "110,335,000"
+        },
+        {
+            "bbox": [
+                830.4432867822238,
+                1167.8704075098883,
+                954.4194172734088,
+                1186.2485851722183
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "113 443 333",
+            "uuid": "aa15aa27-d3db-492f-930d-46c0c6c2b4c0",
+            "vertical": false,
+            "translation": "113,443,333"
+        },
+        {
+            "bbox": [
+                992.4650022918677,
+                1168.1985892538587,
+                1015.4235449754204,
+                1186.9049486601584
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "5fb22dc2-4e4a-45da-a174-6de355c6a0bc",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1091.186735831145,
+                1167.8704075098883,
+                1201.0597615310044,
+                1186.2485851722183
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "56 721 667",
+            "uuid": "dec6262f-03e4-4874-b79a-6fd75fb5cb4d",
+            "vertical": false,
+            "translation": "56,721,667"
+        },
+        {
+            "bbox": [
+                843.2344748487747,
+                1126.191326025676,
+                954.4194172734088,
+                1143.9131402000655
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "63 588 000",
+            "uuid": "20d1fa64-acba-4619-865a-df59c59cdab9",
+            "vertical": false,
+            "translation": "63,588,000"
+        },
+        {
+            "bbox": [
+                991.8090439294806,
+                1126.8476895136164,
+                1014.7675866130334,
+                1144.5695036880056
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "bfdfb929-594e-4ae5-a6f3-7104d5bc6af3",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1090.8587566499511,
+                1125.863144281706,
+                1202.371678255779,
+                1144.2413219440357
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "31 794 000",
+            "uuid": "88b75eb2-b600-4e48-af84-049c1f344cd7",
+            "vertical": false,
+            "translation": "31,794,000"
+        },
+        {
+            "bbox": [
+                843.890433211162,
+                1082.5431540776426,
+                955.075375635796,
+                1100.9213317399724
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "80 204 000",
+            "uuid": "d2414c98-80f0-42f8-9d3a-d29647f8d0f0",
+            "vertical": false,
+            "translation": "80,204,000"
+        },
+        {
+            "bbox": [
+                992.1370231106742,
+                1083.2047841977737,
+                1014.7675866130334,
+                1101.5829618601035
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "a6e33472-0c54-40d6-b26f-be163be56fae",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1089.8748191063703,
+                1083.2047841977737,
+                1202.0436990745852,
+                1100.598416628193
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "40 102 000",
+            "uuid": "1285bfb5-e947-48ae-8f28-fd8b164876a3",
+            "vertical": false,
+            "translation": "40,102,000"
+        },
+        {
+            "bbox": [
+                801.581118837186,
+                1040.869339225621,
+                954.0914380922152,
+                1057.9347899120703
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "13 338 450 000",
+            "uuid": "d7b6a180-0a74-42a4-9a0d-ded1b6f8ac1b",
+            "vertical": false,
+            "translation": "13,338,450,000"
+        },
+        {
+            "bbox": [
+                992.4650022918677,
+                1040.5672880798277,
+                1013.7836490694525,
+                1057.960920510247
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "e0328b39-fd37-44c6-a82f-376495fbe8cf",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1059.3727552553644,
+                1040.2749599473095,
+                1202.371678255779,
+                1058.9813193536093
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "6 669 225 000",
+            "uuid": "a32583d0-d5e5-4ad6-9c9c-0dd45df95592",
+            "vertical": false,
+            "translation": "6,669,225,000"
+        },
+        {
+            "bbox": [
+                811.7484734541879,
+                998.2676967191269,
+                955.075375635796,
+                1017.302237869397
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "1 179 773 000",
+            "uuid": "e044072e-ee24-4365-9fa6-6a4331eba1d5",
+            "vertical": false,
+            "translation": "1,179,773,000"
+        },
+        {
+            "bbox": [
+                992.1370231106742,
+                997.9395149751567,
+                1014.7675866130334,
+                1016.6458743814568
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "285b48a8-ecc8-474f-9c77-539e531944ea",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1078.3955477645939,
+                997.2831514872163,
+                1203.3556157993598,
+                1016.3176926374865
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "589 886 500",
+            "uuid": "79901d52-0759-41b0-b8b7-5fdcee505c08",
+            "vertical": false,
+            "translation": "589,886,500"
+        },
+        {
+            "bbox": [
+                457.18700250675647,
+                630.8490829085107,
+                600.0961927146919,
+                650.1399597521993
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "1 132 980 000",
+            "uuid": "d84f1077-bfbd-4a20-a361-36657c9510e9",
+            "vertical": false,
+            "translation": "1,132,980,000"
+        },
+        {
+            "bbox": [
+                867.5536493351103,
+                587.9993674756536,
+                890.5048040794254,
+                610.9646970514733
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "(4)",
+            "uuid": "0c3bd2c6-8e4f-4c74-8330-eda33160cc71",
+            "vertical": false,
+            "translation": "(4)"
+        },
+        {
+            "bbox": [
+                811.8786289125038,
+                1464.990763855555,
+                955.1258710074072,
+                1484.4774921858498
+            ],
+            "order": "191",
+            "label": "Table cell",
+            "text": "1 319 570 000",
+            "uuid": "554c1e83-b6e7-47d2-aa5a-87a355fc63b1",
+            "vertical": false,
+            "translation": "1,319,570,000"
+        },
+        {
+            "bbox": [
+                991.4786454363251,
+                1465.8568406702343,
+                1016.146599513091,
+                1484.91053059319
+            ],
+            "order": "192",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "5395eed4-e804-4e87-83d8-8231fb8dc7bd",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1078.0328702670824,
+                1465.8568406702343,
+                1203.103725147527,
+                1484.4774921858498
+            ],
+            "order": "193",
+            "label": "Table cell",
+            "text": "659 785 000",
+            "uuid": "fa6f0cba-6bf0-4faa-8307-840d9940d43f",
+            "vertical": false,
+            "translation": "659,785,000"
+        },
+        {
+            "bbox": [
+                812.3114000366576,
+                1424.285153565605,
+                954.6930998832534,
+                1443.3388434885603
+            ],
+            "order": "182",
+            "label": "Table cell",
+            "text": "1 213 073 333",
+            "uuid": "70977dfe-6b77-4085-bd05-728002820afe",
+            "vertical": false,
+            "translation": "1,213,073,333"
+        },
+        {
+            "bbox": [
+                991.4786454363251,
+                1423.852115158265,
+                1015.2810572647836,
+                1442.0397282665404
+            ],
+            "order": "183",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "bcdcba64-c0ed-401d-a08a-2a4d57b969ca",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1078.0328702670824,
+                1423.852115158265,
+                1203.103725147527,
+                1444.20492030324
+            ],
+            "order": "184",
+            "label": "Table cell",
+            "text": "606 536 667",
+            "uuid": "34170184-4c4e-4e3d-a159-574b0320e23a",
+            "vertical": false,
+            "translation": "606,536,667"
+        },
+        {
+            "bbox": [
+                830.0550161269628,
+                1252.801944259008,
+                955.5586421315608,
+                1271.855634181963
+            ],
+            "order": "148",
+            "label": "Table cell",
+            "text": "487 954 667",
+            "uuid": "c6a3487d-6e1b-49f0-9abb-c508b4a5c310",
+            "vertical": false,
+            "translation": "487,954,667"
+        },
+        {
+            "bbox": [
+                991.4786454363251,
+                1252.7928566306805,
+                1014.8482861406296,
+                1271.8465465536356
+            ],
+            "order": "149",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "3c8aef36-4413-4b88-bf01-88aa763bb8a5",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1077.167328018775,
+                1252.7928566306805,
+                1203.9692673958345,
+                1272.2795849609756
+            ],
+            "order": "150",
+            "label": "Table cell",
+            "text": "243 977 334",
+            "uuid": "d1ad6030-88e3-48a9-a8dc-5bb8db9fdd53",
+            "vertical": false,
+            "translation": "243,977,334"
+        },
+        {
+            "bbox": [
+                841.3070653549612,
+                1295.23062054999,
+                955.1258710074072,
+                1315.5834256949647
+            ],
+            "order": "157",
+            "label": "Table cell",
+            "text": "29 386 667",
+            "uuid": "9874d9da-61fd-4f12-9d30-7f47bbc52427",
+            "vertical": false,
+            "translation": "29,386,667"
+        },
+        {
+            "bbox": [
+                991.4786454363251,
+                1296.0966973646696,
+                1015.2810572647836,
+                1314.284310472945
+            ],
+            "order": "158",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "58484ae1-af18-4bdb-a8c7-0031ed0b908b",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1090.5832328675424,
+                1295.23062054999,
+                1202.6709540233733,
+                1315.1503872876249
+            ],
+            "order": "159",
+            "label": "Table cell",
+            "text": "14 693 334",
+            "uuid": "4a0fb1f5-abe9-4efe-91d4-63ea5c037ef5",
+            "vertical": false,
+            "translation": "14,693,334"
+        },
+        {
+            "bbox": [
+                811.4458577883499,
+                1338.5344612839792,
+                954.6930998832534,
+                1357.5881512069343
+            ],
+            "order": "166",
+            "label": "Table cell",
+            "text": "4 599 995 000",
+            "uuid": "c79fb9ea-72de-4be4-8308-5435aa377d73",
+            "vertical": false,
+            "translation": "4,599,995,000"
+        },
+        {
+            "bbox": [
+                990.6131031880177,
+                1339.4005380986587,
+                1015.7138283889373,
+                1358.4542280216142
+            ],
+            "order": "167",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "7eef7103-92e1-4e2e-9391-65a7117da84e",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1058.9909408043159,
+                1338.5344612839792,
+                1202.6709540233733,
+                1357.5881512069343
+            ],
+            "order": "168",
+            "label": "Table cell",
+            "text": "2 299 997 500",
+            "uuid": "77e6cec6-08de-413e-8eb6-9c90f092270c",
+            "vertical": false,
+            "translation": "2,299,997,500"
+        },
+        {
+            "bbox": [
+                810.5803155400424,
+                1381.4052636106283,
+                955.1258710074072,
+                1399.1598383115636
+            ],
+            "order": "174",
+            "label": "Table cell",
+            "text": "2 289 350 000",
+            "uuid": "7468bedc-93bb-44dc-bd6a-48eb7b7de7c9",
+            "vertical": false,
+            "translation": "2,289,350,000"
+        },
+        {
+            "bbox": [
+                991.0458743121713,
+                1380.9722252032882,
+                1014.8482861406296,
+                1399.5928767189037
+            ],
+            "order": "175",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "11c7e5fc-03bd-4004-bf54-579d2739df92",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1059.8564830526236,
+                1381.838302017968,
+                1203.9692673958345,
+                1399.1598383115636
+            ],
+            "order": "176",
+            "label": "Table cell",
+            "text": "1 144 675 000",
+            "uuid": "6026c7c9-9c9f-49b3-ac21-7c238ad75558",
+            "vertical": false,
+            "translation": "1,144,675,000"
+        },
+        {
+            "bbox": [
+                797.7920826984479,
+                1746.9650672072275,
+                957.3504992381374,
+                1767.3863064300463
+            ],
+            "order": "242",
+            "label": "Table cell",
+            "text": "98 980 941 333",
+            "uuid": "d5fd87a6-e069-4d23-bf3f-883f0703de31",
+            "vertical": false,
+            "translation": "98,980,941,333"
+        },
+        {
+            "bbox": [
+                1046.4063596323829,
+                1748.357424426965,
+                1204.5732783534122,
+                1766.9221873568001
+            ],
+            "order": "243",
+            "label": "Table cell",
+            "text": "49 490 470 670",
+            "uuid": "e251637e-a9ab-4920-8a2c-8c76bd7d0283",
+            "vertical": false,
+            "translation": "49,490,470,670"
+        },
+        {
+            "bbox": [
+                831.1880303462897,
+                1508.8719826320928,
+                955.0313362070374,
+                1528.8291027816651
+            ],
+            "order": "200",
+            "label": "Table cell",
+            "text": "170 330 667",
+            "uuid": "82c95a8e-00df-4479-9390-523b45d1261b",
+            "vertical": false,
+            "translation": "170,330,667"
+        },
+        {
+            "bbox": [
+                990.7464468859794,
+                1508.7914853978289,
+                1015.3295750156408,
+                1527.8203674009098
+            ],
+            "order": "201",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "cbea61ec-ed37-4d46-98c3-ac9c47f4a836",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1090.0066246170654,
+                1508.7914853978289,
+                1204.5732783534122,
+                1528.2844864741558
+            ],
+            "order": "202",
+            "label": "Table cell",
+            "text": "85 165 334",
+            "uuid": "2ef28607-de3b-4461-a719-17f042bda6bd",
+            "vertical": false,
+            "translation": "85,165,334"
+        },
+        {
+            "bbox": [
+                829.7965325276299,
+                1551.0263210632036,
+                955.9590014194774,
+                1569.1269649197927
+            ],
+            "order": "209",
+            "label": "Table cell",
+            "text": "210 905 333",
+            "uuid": "f73b9cbe-d1c1-4e95-b910-73e2c536dd76",
+            "vertical": false,
+            "translation": "210,905,333"
+        },
+        {
+            "bbox": [
+                990.7464468859794,
+                1550.5622019899579,
+                1014.8657424094208,
+                1570.0552030662848
+            ],
+            "order": "210",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "44fe4f2e-f7f6-4102-bfc3-d71dc709cf60",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1077.0193116429045,
+                1550.5622019899579,
+                1201.326450109872,
+                1568.6628458465473
+            ],
+            "order": "211",
+            "label": "Table cell",
+            "text": "105 452 667",
+            "uuid": "48d27e24-b52a-4e02-8544-75f0bcf9dada",
+            "vertical": false,
+            "translation": "105,452,667"
+        },
+        {
+            "bbox": [
+                810.7793956726086,
+                1594.6535139483162,
+                955.4951688132572,
+                1612.2900387316595
+            ],
+            "order": "217",
+            "label": "Table cell",
+            "text": "1 471 320 000",
+            "uuid": "b47af1f4-8d69-4443-a83e-ef8df9f7c8b6",
+            "vertical": false,
+            "translation": "1,471,320,000"
+        },
+        {
+            "bbox": [
+                992.6017773108595,
+                1592.7970376553326,
+                1015.3295750156408,
+                1613.6823959513972
+            ],
+            "order": "218",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "18cc8e35-e7e3-492d-b207-065235f889bb",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1077.0193116429045,
+                1593.7252758018246,
+                1202.2541153223121,
+                1611.8259196584138
+            ],
+            "order": "219",
+            "label": "Table cell",
+            "text": "735 660 000",
+            "uuid": "42f36e3f-6a9f-432a-b6d4-027f0c0eba7e",
+            "vertical": false,
+            "translation": "735,660,000"
+        },
+        {
+            "bbox": [
+                810.3155630663886,
+                1635.960111467199,
+                955.4951688132572,
+                1655.4531125435262
+            ],
+            "order": "225",
+            "label": "Table cell",
+            "text": "2 788 731 000",
+            "uuid": "59218e9b-9e4d-4630-ad20-caa8b9440285",
+            "vertical": false,
+            "translation": "2,788,731,000"
+        },
+        {
+            "bbox": [
+                989.8187816735393,
+                1635.4959923939537,
+                1014.8657424094208,
+                1656.8454697632637
+            ],
+            "order": "226",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "fcac40b2-3425-4394-a17b-bb6b0fa97f6d",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1059.3936726065435,
+                1637.8165877601825,
+                1201.790282716092,
+                1656.3813506900178
+            ],
+            "order": "227",
+            "label": "Table cell",
+            "text": "1 394 365 500",
+            "uuid": "5dbba48d-9002-4b3f-99e8-65ad014667fc",
+            "vertical": false,
+            "translation": "1,394,365,500"
+        },
+        {
+            "bbox": [
+                800.8659237115379,
+                1706.811835290571,
+                955.471325495702,
+                1725.2167640185603
+            ],
+            "order": "233",
+            "label": "Table cell",
+            "text": "16 774 645 000",
+            "uuid": "7d6ff433-a08a-4b4f-b710-d9ee7ae79491",
+            "vertical": false,
+            "translation": "16,774,645,000"
+        },
+        {
+            "bbox": [
+                991.761339419316,
+                1707.309265796733,
+                1015.6232663827881,
+                1724.7193335123984
+            ],
+            "order": "234",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "1d7f7622-e45c-4c15-8dce-f3c8e0f2dcdb",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1057.8787620472704,
+                1705.3195437720856,
+                1202.0445707849153,
+                1725.2167640185603
+            ],
+            "order": "235",
+            "label": "Table cell",
+            "text": "8 387 322 500",
+            "uuid": "3254f057-f723-40ba-b3ee-468767004c3f",
+            "vertical": false,
+            "translation": "8,387,322,500"
+        },
+        {
+            "bbox": [
+                1228.8892386188218,
+                912.9231408588159,
+                1372.0608003996551,
+                932.3229305991288
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "3 920 810 000",
+            "uuid": "dde35558-72c4-41a3-b394-3299617986b4",
+            "vertical": false,
+            "translation": "3,920,810,000"
+        },
+        {
+            "bbox": [
+                1388.962998665448,
+                912.425710352654,
+                1441.6580873764492,
+                938.2920966730712
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "Spain",
+            "uuid": "a91aa818-402b-40b2-991b-639ba8e67cf7",
+            "vertical": false,
+            "translation": "西班牙"
+        },
+        {
+            "bbox": [
+                1247.2828073198314,
+                869.6466868227333,
+                1371.5636769212497,
+                888.0516155507225
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "823 067 500",
+            "uuid": "86db8852-f9f1-4010-a9cf-a8618a930253",
+            "vertical": false,
+            "translation": "823,067,500"
+        },
+        {
+            "bbox": [
+                1389.9572456222593,
+                870.1441173288952,
+                1452.0976804229683,
+                888.5490460568844
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Greece",
+            "uuid": "8ba76085-268a-4003-92b6-e04ba9219762",
+            "vertical": false,
+            "translation": "希腊"
+        },
+        {
+            "bbox": [
+                1229.3863620972272,
+                630.8800438650363,
+                1371.5636769212497,
+                650.777264111511
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1 132 980 000",
+            "uuid": "a9b642ab-d432-45b3-857d-f98ac53d1dcb",
+            "vertical": false,
+            "translation": "1,132,980,000"
+        },
+        {
+            "bbox": [
+                1390.454369100665,
+                671.7286017272554,
+                1471.4854960807895,
+                723.9588048742517
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Czech Republic",
+            "uuid": "34f7deed-c4de-44c4-966d-f2298df025e5",
+            "vertical": false,
+            "translation": "捷克共和国"
+        },
+        {
+            "bbox": [
+                1246.7856838414257,
+                699.5847100723201,
+                1371.0665534428438,
+                719.9793608249568
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "263 540 000",
+            "uuid": "77303021-4795-4a95-bf9d-71e1efdd84ec",
+            "vertical": false,
+            "translation": "263,540,000"
+        },
+        {
+            "bbox": [
+                1247.7799307982368,
+                741.8663030960788,
+                1372.5579238780608,
+                761.2660928363921
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "751 886 000",
+            "uuid": "2bc0d0f8-164a-4369-bfea-b4b94dd2caa9",
+            "vertical": false,
+            "translation": "751,886,000"
+        },
+        {
+            "bbox": [
+                1228.8892386188218,
+                785.1427571321617,
+                1372.5579238780608,
+                804.5425468724745
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "9 451 381 000",
+            "uuid": "da4a9b61-bdda-4b14-b9fd-85147f689804",
+            "vertical": false,
+            "translation": "9,451,381,000"
+        },
+        {
+            "bbox": [
+                1258.7166473231619,
+                827.4243501559206,
+                1372.0608003996551,
+                846.8241398962334
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "25 689 667",
+            "uuid": "aafc2e58-dc54-4d4e-a891-84b15d3ec725",
+            "vertical": false,
+            "translation": "25,689,667"
+        },
+        {
+            "bbox": [
+                1389.9572456222593,
+                827.4243501559206,
+                1457.5660386854308,
+                846.8241398962334
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "Estonia",
+            "uuid": "a2db498d-470b-41f2-8ec3-6c0fb752f495",
+            "vertical": false,
+            "translation": "爱沙尼亚"
+        },
+        {
+            "bbox": [
+                1248.7741777550486,
+                1211.1831046254342,
+                1371.5636769212497,
+                1230.582894365747
+            ],
+            "order": "142",
+            "label": "Table cell",
+            "text": "110 335 000",
+            "uuid": "9e655a58-2e48-4f4e-99ae-bea443f007a4",
+            "vertical": false,
+            "translation": "110,335,000"
+        },
+        {
+            "bbox": [
+                1388.4658751870425,
+                1210.1882436131104,
+                1509.2668804396208,
+                1235.557199427366
+            ],
+            "order": "143",
+            "label": "Table cell",
+            "text": "Luxembourg",
+            "uuid": "b940424f-d699-4d3f-bf1c-09f408b74cf9",
+            "vertical": false,
+            "translation": "卢森堡"
+        },
+        {
+            "bbox": [
+                1259.7108942799732,
+                1168.4040810955134,
+                1372.5579238780608,
+                1187.3064403296644
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "51 188 000",
+            "uuid": "7f27315b-e8c3-4fd9-9f92-6a6f585d9db4",
+            "vertical": false,
+            "translation": "51,188,000"
+        },
+        {
+            "bbox": [
+                1229.3863620972272,
+                953.514102433586,
+                1372.5579238780608,
+                973.9087531862226
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "7 575 510 000",
+            "uuid": "88a85828-83c8-49cb-a725-f66eba236542",
+            "vertical": false,
+            "translation": "7,575,510,000"
+        },
+        {
+            "bbox": [
+                1249.271301233454,
+                997.3463222495078,
+                1372.5579238780608,
+                1018.2384035083063
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "589 886 500",
+            "uuid": "dc697353-e451-4043-855c-811ff1309424",
+            "vertical": false,
+            "translation": "589,886,500"
+        },
+        {
+            "bbox": [
+                1388.962998665448,
+                996.8488917433461,
+                1454.5832978149967,
+                1016.7461119898209
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "Ireland",
+            "uuid": "912119f2-f2dd-47a5-9196-6884ffdd4700",
+            "vertical": false,
+            "translation": "爱尔兰"
+        },
+        {
+            "bbox": [
+                1229.883485575633,
+                1040.1253457794287,
+                1372.5579238780608,
+                1059.0277050135796
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "5 511 310 000",
+            "uuid": "3bdbb024-0db5-483c-af70-344f7cac7098",
+            "vertical": false,
+            "translation": "5,511,310,000"
+        },
+        {
+            "bbox": [
+                1257.7224003663505,
+                1083.899230321673,
+                1372.5579238780608,
+                1100.8118675311764
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "40 102 000",
+            "uuid": "9ec35cc7-8186-4a98-b3a2-2acf86064191",
+            "vertical": false,
+            "translation": "40,102,000"
+        },
+        {
+            "bbox": [
+                1390.454369100665,
+                1081.9095082970255,
+                1457.5660386854308,
+                1107.7758946174429
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "Cyprus",
+            "uuid": "b3077cea-4b26-489d-9048-e01aa775d316",
+            "vertical": false,
+            "translation": "塞浦路斯"
+        },
+        {
+            "bbox": [
+                1259.7108942799732,
+                1125.68339283927,
+                1373.0550473564665,
+                1144.585752073421
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "27 868 667",
+            "uuid": "10148b8f-366c-414d-8ff0-ea3fcb61f40c",
+            "vertical": false,
+            "translation": "27,868,667"
+        },
+        {
+            "bbox": [
+                1260.208017758379,
+                1508.7048825839092,
+                1374.0492943132776,
+                1528.1046723242218
+            ],
+            "order": "203",
+            "label": "Table cell",
+            "text": "85 165 334",
+            "uuid": "fba7cc1d-6d7b-47ce-a66b-22e392b29ebe",
+            "vertical": false,
+            "translation": "85,165,334"
+        },
+        {
+            "bbox": [
+                1390.9514925790706,
+                1506.715160559262,
+                1469.9941256455725,
+                1528.6021028303837
+            ],
+            "order": "204",
+            "label": "Table cell",
+            "text": "Slovenia",
+            "uuid": "3386e35d-cf52-46c4-95ca-ad108807a283",
+            "vertical": false,
+            "translation": "斯洛文尼亚"
+        },
+        {
+            "bbox": [
+                1248.2770542766427,
+                1252.0307414043848,
+                1373.0550473564665,
+                1271.9279616508597
+            ],
+            "order": "151",
+            "label": "Table cell",
+            "text": "243 977 334",
+            "uuid": "ccf9bb3d-3626-4582-973f-ca484904a49e",
+            "vertical": false,
+            "translation": "243,977,334"
+        },
+        {
+            "bbox": [
+                1390.454369100665,
+                1253.8362467753143,
+                1470.9883726023838,
+                1278.2103415772456
+            ],
+            "order": "152",
+            "label": "Table cell",
+            "text": "Hungary",
+            "uuid": "84913f2b-028a-4ec2-9afc-9f6fb06012ea",
+            "vertical": false,
+            "translation": "匈牙利"
+        },
+        {
+            "bbox": [
+                1390.9514925790706,
+                1295.1229787867496,
+                1442.6523343332606,
+                1313.5279075147387
+            ],
+            "order": "161",
+            "label": "Table cell",
+            "text": "Malta",
+            "uuid": "fe53c2d2-41e5-4547-bc4f-12f1f602ab7c",
+            "vertical": false,
+            "translation": "马耳他"
+        },
+        {
+            "bbox": [
+                1259.7108942799732,
+                1295.620409292911,
+                1373.0550473564665,
+                1314.522768527062
+            ],
+            "order": "160",
+            "label": "Table cell",
+            "text": "14 693 334",
+            "uuid": "9693b02c-b447-4e00-bb5b-6cc493b410d3",
+            "vertical": false,
+            "translation": "14,693,334"
+        },
+        {
+            "bbox": [
+                1229.883485575633,
+                1338.9235747437829,
+                1371.0665534428438,
+                1356.8310729656105
+            ],
+            "order": "169",
+            "label": "Table cell",
+            "text": "2 220 805 000",
+            "uuid": "cd93ba78-d970-4ac7-aa13-5865d023c66a",
+            "vertical": false,
+            "translation": "2,220,805,000"
+        },
+        {
+            "bbox": [
+                1230.3806090540386,
+                1380.7077372613796,
+                1372.0608003996551,
+                1399.1126659893694
+            ],
+            "order": "177",
+            "label": "Table cell",
+            "text": "1 065 330 000",
+            "uuid": "2954a159-c850-42ea-8c6a-ac5cb2eb5a43",
+            "vertical": false,
+            "translation": "1,065,330,000"
+        },
+        {
+            "bbox": [
+                1246.2279753641449,
+                1423.4867607913004,
+                1370.9040532757351,
+                1444.1039178400736
+            ],
+            "order": "185",
+            "label": "Table cell",
+            "text": "606 536 667",
+            "uuid": "080b0cd9-4755-4dbc-b278-ef2744b19e78",
+            "vertical": false,
+            "translation": "606,536,667"
+        },
+        {
+            "bbox": [
+                1389.5521845872977,
+                1422.7786052016622,
+                1454.5542423018876,
+                1443.0376522081528
+            ],
+            "order": "186",
+            "label": "Table cell",
+            "text": "Poland",
+            "uuid": "cded3262-7090-4481-b87d-d3b6dd5a01ad",
+            "vertical": false,
+            "translation": "波兰"
+        },
+        {
+            "bbox": [
+                1389.5521845872977,
+                1464.8960976625249,
+                1467.8743360958613,
+                1490.4864728286186
+            ],
+            "order": "195",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "6632a294-7a87-4ee7-9e65-89db4b88ded9",
+            "vertical": false,
+            "translation": "葡萄牙"
+        },
+        {
+            "bbox": [
+                1247.2935828676627,
+                1467.028628926366,
+                1371.4368570274942,
+                1484.6220118530553
+            ],
+            "order": "194",
+            "label": "Table cell",
+            "text": "659 785 000",
+            "uuid": "8a61101c-a7c9-40b0-b5cd-95ab57642626",
+            "vertical": false,
+            "translation": "659,785,000"
+        },
+        {
+            "bbox": [
+                1260.1969868636863,
+                1551.6258915145002,
+                1370.9255924040103,
+                1569.9161886864579
+            ],
+            "order": "212",
+            "label": "Table cell",
+            "text": "95 476 667",
+            "uuid": "3c8c35b1-abf9-4be3-9d10-20617d8e7dcc",
+            "vertical": false,
+            "translation": "95,476,667"
+        },
+        {
+            "bbox": [
+                1246.839250322314,
+                1594.547729236573,
+                1371.277111786678,
+                1612.486289924455
+            ],
+            "order": "220",
+            "label": "Table cell",
+            "text": "641 720 000",
+            "uuid": "11b3bedb-d9dc-4317-b28c-674ac3ed4e50",
+            "vertical": false,
+            "translation": "641,720,000"
+        },
+        {
+            "bbox": [
+                1229.2632811889293,
+                1637.4595802938593,
+                1371.9801505520134,
+                1655.749877465817
+            ],
+            "order": "228",
+            "label": "Table cell",
+            "text": "1 210 952 000",
+            "uuid": "709075e9-06f1-4ebc-a125-725eba08b6c0",
+            "vertical": false,
+            "translation": "1,210,952,000"
+        },
+        {
+            "bbox": [
+                1229.2632811889293,
+                1706.7516676568534,
+                1372.6831893173487,
+                1724.3384918606594
+            ],
+            "order": "236",
+            "label": "Table cell",
+            "text": "8 387 322 500",
+            "uuid": "7e89568a-a836-4cfc-8c3a-edcf5d6b2fb5",
+            "vertical": false,
+            "translation": "8,387,322,500"
+        },
+        {
+            "bbox": [
+                1214.4994671168863,
+                1748.6083092619112,
+                1372.6831893173487,
+                1765.8433969816406
+            ],
+            "order": "244",
+            "label": "Table cell",
+            "text": "45 507 318 170",
+            "uuid": "bf146f23-caba-44b9-a314-1f7c5adb55b0",
+            "vertical": false,
+            "translation": "45,507,318,170"
+        },
+        {
+            "bbox": [
+                1389.2046003027303,
+                1677.557539478536,
+                1475.3268490563157,
+                1730.3180120899533
+            ],
+            "order": "237",
+            "label": "Table cell",
+            "text": "United Kingdom",
+            "uuid": "3c49be3d-8858-4049-bb3a-80b8946cf050",
+            "vertical": false,
+            "translation": "英国"
+        },
+        {
+            "bbox": [
+                118.76120487428992,
+                468.2647320104853,
+                1531.6361318802126,
+                1781.413484631386
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "a8f439e3-ace8-40cf-b5a1-c4b0c9ac7c17",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                134.143485108187,
+                1791.2745648438927,
+                1517.231692201646,
+                1843.9237947989625
+            ],
+            "order": "245",
+            "label": "Footnote",
+            "text": "(¹) The VAT bases of the ten new Member States have been reduced by one third to limit their contributions in view of the fact that the Accession Treaty took effect on 1 May 2004.",
+            "uuid": "375e5c7a-4b64-4ca5-a8a2-ee6161b82008",
+            "vertical": false,
+            "translation": "(¹) 鉴于《加入条约》于 2004 年 5 月 1 日生效，十个新成员国的增值税基数已减去三分之一，以限制其缴款额。"
+        },
+        {
+            "bbox": [
+                134.37543404975077,
+                1847.3720029612984,
+                1516.8649566128815,
+                1901.9173806530116
+            ],
+            "order": "246",
+            "label": "Footnote",
+            "text": "(²) The GNI bases of the ten new Member States have been reduced by one third to limit their contributions in view of the fact that the Accession Treaty took effect on 1 May 2004.",
+            "uuid": "91e4a9dc-ba23-4b4d-882d-4115076870ca",
+            "vertical": false,
+            "translation": "(²) 鉴于《加入条约》于 2004 年 5 月 1 日生效，十个新成员国的国民总收入基数已减去三分之一，以限制其缴款额。"
+        },
+        {
+            "bbox": [
+                134.80820517390455,
+                1903.8486346633676,
+                1516.862790159022,
+                1957.15245124409
+            ],
+            "order": "247",
+            "label": "Footnote",
+            "text": "(³) As with the GNI, a reduction of one third has been applied to the VAT bases of the new Member States to take account of the fact that the Accession Treaty took effect on 1 May 2004.",
+            "uuid": "7778eb07-7651-4108-89d9-f510e63481f8",
+            "vertical": false,
+            "translation": "(³) 鉴于《加入条约》于 2004 年 5 月 1 日生效，同国民总收入，新成员国的增值税基数已减去三分之一。"
+        },
+        {
+            "bbox": [
+                134.80820517390455,
+                1961.1908086137444,
+                633.1846022130652,
+                1986.5895743900955
+            ],
+            "order": "248",
+            "label": "Footnote",
+            "text": "(⁴) The base to be used does not exceed 50% of GNI.",
+            "uuid": "3b825a74-0cc3-4fda-97f3-70ed2b6e98bd",
+            "vertical": false,
+            "translation": "(⁴) 拟使用的基数不超过国民总收入的 50%。"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

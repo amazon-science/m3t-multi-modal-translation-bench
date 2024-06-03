@@ -1,0 +1,875 @@
+{
+    "file": "jrc32004D0129.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.48931655875494,
+                137.56124850159216,
+                228.35951669166457,
+                164.57011234681806
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "10.2.2004",
+            "uuid": "f1d9f311-07a7-49f2-99a1-cc80e39c86a3",
+            "vertical": false,
+            "translation": "10.2.2004"
+        },
+        {
+            "bbox": [
+                331.5074143277546,
+                141.37970090496037,
+                363.4998103860071,
+                161.22294781165706
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "dc58d461-3ff3-41fe-9403-37eb769e7584",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                1449.2122965601386,
+                133.87306087860168,
+                1538.5275673222943,
+                169.38185763266895
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 37/31",
+            "uuid": "da85234a-2d54-4c3e-8089-6fabbcb5bbfa",
+            "vertical": false,
+            "translation": "L 37/31"
+        },
+        {
+            "bbox": [
+                642.0203020476406,
+                137.43569810878466,
+                1012.9109627157725,
+                168.01550504541726
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "f71fc452-c778-4367-8e6c-adb2a2660f63",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                768.0986454430781,
+                243.8721163895762,
+                891.7288656657886,
+                267.72436580014977
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG II",
+            "uuid": "86341213-722d-4247-86b4-52fbe8d4ee63",
+            "vertical": false,
+            "translation": "ANNEX II"
+        },
+        {
+            "bbox": [
+                577.9331898265161,
+                306.76641082133165,
+                1077.5025573036742,
+                338.39086393714064
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Liste der Zulassungen gemäß Artikel 2 Absatz 2",
+            "uuid": "9527cd63-3602-4759-bb4b-fee385193e16",
+            "vertical": false,
+            "translation": "List of approvals according to Article 2 para. 2"
+        },
+        {
+            "bbox": [
+                254.99790406717005,
+                365.8759321259702,
+                1399.2463279111346,
+                1458.0304621191365
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "1cd19179-ab18-48a3-8265-50031989dfe9",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                361.27624393051906,
+                381.06870443960196,
+                438.01349123155035,
+                407.5344322257223
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Spalte A",
+            "uuid": "b3d9e4c7-ed98-475f-bc5f-06cfb7fd9a86",
+            "vertical": false,
+            "translation": "Column A"
+        },
+        {
+            "bbox": [
+                649.2106939804064,
+                380.3900960348299,
+                719.8361251247184,
+                406.85582382095
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Spalte B",
+            "uuid": "a3787c35-2068-44f5-9f18-f068473d40a2",
+            "vertical": false,
+            "translation": "Column B"
+        },
+        {
+            "bbox": [
+                357.8807905101195,
+                429.2499011784366,
+                444.1253073882696,
+                450.9653701311506
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Wirkstoff",
+            "uuid": "4c2a7177-c9fb-41cb-835d-a23d5931576d",
+            "vertical": false,
+            "translation": "Agent"
+        },
+        {
+            "bbox": [
+                630.1961548261685,
+                429.2499011784366,
+                738.8506642789563,
+                455.03702055978454
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Mitgliedstaat",
+            "uuid": "b9570da5-2a88-4fe3-bb5c-0694cb7ab98d",
+            "vertical": false,
+            "translation": "Member State"
+        },
+        {
+            "bbox": [
+                551.4216354728975,
+                482.1813567506772,
+                627.4797920898488,
+                515.4331685845207
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Belgien",
+            "uuid": "22fbe307-9e14-4cd2-a89f-99d7169d28c1",
+            "vertical": false,
+            "translation": "Belgium"
+        },
+        {
+            "bbox": [
+                258.0544599503707,
+                484.21718196499415,
+                519.5043733211411,
+                535.1128123229178
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Alkyldimethylbenzylammoniumchlorid",
+            "uuid": "73b95da6-07b9-4589-bcc9-db37cddab00f",
+            "vertical": false,
+            "translation": "Alkyldimethylbenzylammonium chloride"
+        },
+        {
+            "bbox": [
+                1075.7752072698745,
+                381.79785725935267,
+                1147.6095498994941,
+                407.133149153031
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Spalte C",
+            "uuid": "b7a58c79-35de-44a0-a0a5-58a8e6543e56",
+            "vertical": false,
+            "translation": "Column C"
+        },
+        {
+            "bbox": [
+                1059.3701324824872,
+                430.4764166419084,
+                1162.771815990867,
+                452.83108595985993
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Anwendung",
+            "uuid": "17baf743-5880-4c93-8a11-269f0f4ed6cf",
+            "vertical": false,
+            "translation": "Application"
+        },
+        {
+            "bbox": [
+                257.6964158026969,
+                559.218840557897,
+                389.5586168713283,
+                586.3255146571618
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Cinosulfuron",
+            "uuid": "a5e5ad0e-5d9e-4ad0-8a96-a987d139b592",
+            "vertical": false,
+            "translation": "Cinosulfuron"
+        },
+        {
+            "bbox": [
+                551.5607496127898,
+                560.6461039044257,
+                629.924571962148,
+                592.2705570202347
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "11b70494-7655-4993-8d0c-c2c2fbb0a0d7",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                552.3142479046106,
+                598.2942623756268,
+                614.1011078339121,
+                622.3890837971954
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "9d3ca060-b1df-4627-84d9-4f5b1edbdc52",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                258.4499140945176,
+                648.742794727036,
+                375.9956476185548,
+                678.861321503997
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Flamprop-M",
+            "uuid": "618a4f26-f704-42d8-a3e0-5b605a75d267",
+            "vertical": false,
+            "translation": "Flamprop-M"
+        },
+        {
+            "bbox": [
+                551.5607496127898,
+                644.977978879916,
+                651.0225241331291,
+                675.8494688263007
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Österreich",
+            "uuid": "5eb81e00-25be-425d-82f9-16639024296e",
+            "vertical": false,
+            "translation": "Austria"
+        },
+        {
+            "bbox": [
+                554.5747427800728,
+                713.4976272975018,
+                657.8040087595157,
+                742.1102277356148
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Dänemark",
+            "uuid": "03f86efd-e060-4e45-bbab-b977aeb579e0",
+            "vertical": false,
+            "translation": "Denmark"
+        },
+        {
+            "bbox": [
+                834.1226090455715,
+                481.55821499506686,
+                1366.8459013628426,
+                516.1945207885719
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Desinfizierung von Pilzwuchskammern und Ausrüstung",
+            "uuid": "a079365a-9fa2-4215-b6c2-858cab8be309",
+            "vertical": false,
+            "translation": "Disinfection of mushroom growth chambers and equipment"
+        },
+        {
+            "bbox": [
+                834.8761073373922,
+                562.0969126364105,
+                881.5930014302788,
+                585.4387708885552
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "96e20cd0-cb02-497a-9cb6-5959f9e3a096",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                836.3831039210338,
+                596.7332184299155,
+                881.5930014302788,
+                624.5928556986041
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "0110ab27-519e-45b0-aeee-dfd97388e7dd",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                834.8761073373922,
+                650.9792090946453,
+                1396.9858330356726,
+                702.1807046154787
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Frühjahrsweizen, Frühjahrsgerste, Winterweizen, Wintergerste",
+            "uuid": "d4e5e501-451e-45f5-a231-c1dc70c71a13",
+            "vertical": false,
+            "translation": "Spring wheat, spring barley, winter wheat, winter barley"
+        },
+        {
+            "bbox": [
+                259.10355314295293,
+                765.9946105045958,
+                395.5428925194952,
+                789.592340910795
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Hexaflumuron",
+            "uuid": "a309c932-3585-4a3f-be0d-21644bc84790",
+            "vertical": false,
+            "translation": "Hexaflumuron"
+        },
+        {
+            "bbox": [
+                257.13567805579123,
+                854.419016968881,
+                385.70351708368685,
+                877.3612548637973
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Methidathion",
+            "uuid": "d2c2f95d-0889-4ca6-b37f-6842fd28b4d6",
+            "vertical": false,
+            "translation": "Methidathion"
+        },
+        {
+            "bbox": [
+                551.6609827676542,
+                765.9275279456335,
+                636.2796115156059,
+                791.4917358856827
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "8cc5a1c2-66c5-47a7-a75c-23f87058a1b4",
+            "vertical": false,
+            "translation": "Portugal"
+        },
+        {
+            "bbox": [
+                552.9728994924286,
+                803.2906010887823,
+                631.6879029788953,
+                833.443256607815
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "bdd7ec43-c224-41cd-bdfc-ed7965eb3e1b",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                836.3469120437086,
+                712.8209882540871,
+                983.9375435808337,
+                741.6626587505531
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Frühjahrsgerste",
+            "uuid": "320a65c9-175f-4317-8f6e-573d668d24b8",
+            "vertical": false,
+            "translation": "Spring barley"
+        },
+        {
+            "bbox": [
+                838.9707454932576,
+                761.956838938517,
+                963.6028343468298,
+                790.1430169236996
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Zitrusfrüchte",
+            "uuid": "c60233cf-a22f-4f2f-8103-24358b5cde77",
+            "vertical": false,
+            "translation": "Citrus fruits"
+        },
+        {
+            "bbox": [
+                837.6588287684832,
+                799.3199120816661,
+                898.0069981081076,
+                826.8505975555655
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Kiefer",
+            "uuid": "f8fd23aa-221d-4096-91ed-259cc0f737f5",
+            "vertical": false,
+            "translation": "Pine"
+        },
+        {
+            "bbox": [
+                551.0050244052669,
+                851.1038204730482,
+                657.9262374743842,
+                877.9790134356642
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Frankreich",
+            "uuid": "a8e08b2f-39fe-4545-a958-c470dfb10342",
+            "vertical": false,
+            "translation": "France"
+        },
+        {
+            "bbox": [
+                257.5060801727488,
+                1120.3782383041826,
+                367.4477994672828,
+                1145.8599191689048
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Pretilachlor",
+            "uuid": "87ea638a-fb42-4083-b868-f3d100f7cfbe",
+            "vertical": false,
+            "translation": "Pretilachlor"
+        },
+        {
+            "bbox": [
+                256.6613560342591,
+                1208.5863845870185,
+                367.5851600453234,
+                1239.2966952932388
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Quinclorac",
+            "uuid": "599d30bc-86c6-4808-aa17-a5e845024419",
+            "vertical": false,
+            "translation": "Quinclorac"
+        },
+        {
+            "bbox": [
+                257.20594083462436,
+                1376.0861523167234,
+                374.71585312551764,
+                1396.574622964267
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Triadimefon",
+            "uuid": "558eacd4-c44e-4b94-997a-b6fb940c57d3",
+            "vertical": false,
+            "translation": "Triadimefon"
+        },
+        {
+            "bbox": [
+                552.2242785122419,
+                1372.9006666390846,
+                651.5525970144439,
+                1400.1579836731796
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Schweden",
+            "uuid": "118593fa-3e4a-4c0c-a347-bd4d1fef644e",
+            "vertical": false,
+            "translation": "Sweden"
+        },
+        {
+            "bbox": [
+                552.7389330122533,
+                889.1572350733862,
+                672.6534315149116,
+                918.9859971106972
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Deutschland",
+            "uuid": "f83a9292-f3fe-4ed7-8f58-9a89509a1f8c",
+            "vertical": false,
+            "translation": "Germany"
+        },
+        {
+            "bbox": [
+                552.7389330122533,
+                930.2952381336962,
+                615.5267820136453,
+                953.952532163288
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "ff4e6f10-e9e4-4b4c-8874-dc64e69bb9bc",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                551.7096240122304,
+                967.3240461800135,
+                637.6569255141358,
+                997.152808217325
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "e0f13de5-be4c-43fc-a775-cc5f66126798",
+            "vertical": false,
+            "translation": "Portugal"
+        },
+        {
+            "bbox": [
+                835.7989080185281,
+                889.1521180822325,
+                903.7333020200342,
+                920.0094581208303
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Ölraps",
+            "uuid": "7f4c0cd4-e7d0-49fd-ac4d-0dfd9df9f415",
+            "vertical": false,
+            "translation": "Rapeseed"
+        },
+        {
+            "bbox": [
+                834.7695990185055,
+                926.1809261285498,
+                905.7919200200798,
+                954.9811101645745
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Oliven",
+            "uuid": "4a279ede-a064-44ad-b7e2-d9a7f21a784f",
+            "vertical": false,
+            "translation": "Olives"
+        },
+        {
+            "bbox": [
+                551.0803008120148,
+                1029.8132605729115,
+                633.5183295513731,
+                1060.257851958989
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "032a7206-4607-4bd3-bcb9-190c376b8331",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                552.8724318715662,
+                1069.131960751569,
+                682.8019336890329,
+                1095.9948355039905
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Griechenland",
+            "uuid": "4fe74785-52ea-4caa-89c1-3a778ea4ed56",
+            "vertical": false,
+            "translation": "Greece"
+        },
+        {
+            "bbox": [
+                551.9763663417905,
+                1121.066851939584,
+                655.9199677957639,
+                1146.138868375177
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Frankreich",
+            "uuid": "d12799bd-c2ce-4675-917f-a23c94b23549",
+            "vertical": false,
+            "translation": "France"
+        },
+        {
+            "bbox": [
+                552.8724318715662,
+                1157.7794474345599,
+                617.3891500154117,
+                1181.9560347117388
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "c44ca2fe-f0fc-4b04-a4a3-964aa6d6c9c7",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                553.7684974013417,
+                1210.6097677809882,
+                629.9340674322707,
+                1237.4726425334097
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "ac76aa75-1f5f-43db-84ce-ac11e5ba602a",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                552.8724318715662,
+                1244.6360758007222,
+                681.9058681592574,
+                1270.6035213947293
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Griechenland",
+            "uuid": "a418f654-0c6a-469e-b41d-64fc6d819577",
+            "vertical": false,
+            "translation": "Greece"
+        },
+        {
+            "bbox": [
+                834.2370082211152,
+                1031.523936098179,
+                1038.5399490099596,
+                1058.3868108506008
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Zitrusfrüchte, Oliven",
+            "uuid": "d6656af1-49b7-46df-b7f3-ab0cf9c83d7e",
+            "vertical": false,
+            "translation": "Citrus fruits, olives"
+        },
+        {
+            "bbox": [
+                836.9252048104422,
+                1067.341102434741,
+                1039.4360145397354,
+                1097.7856938208188
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Oliven, Äpfel, Birnen",
+            "uuid": "1b436303-1e8b-473d-8578-47bac3a10246",
+            "vertical": false,
+            "translation": "Olives, apples, pears"
+        },
+        {
+            "bbox": [
+                836.9252048104422,
+                1121.066851939584,
+                880.8324157694481,
+                1149.7205850088333
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "1a0b1d63-2ba1-41a7-ac26-e2fd5cd65757",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                834.2370082211152,
+                1159.5703057513879,
+                881.7284812992237,
+                1185.5377513453952
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "cf1ed932-0167-4f77-8bc6-07d16fbd334a",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                835.1330737508908,
+                1207.9234803057464,
+                886.2088089481019,
+                1235.6817842165817
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "ed992518-9fb4-4208-80c1-0318578ab5b1",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                836.0291392806665,
+                1244.6360758007222,
+                881.7284812992237,
+                1275.9760963452138
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "ca3ce497-a7bf-424e-9304-7b49f8871ac9",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                551.960801401833,
+                1286.4821236810574,
+                634.9868379152181,
+                1313.828812466038
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "ace6e3f7-1008-4f84-b7e0-820d8c83bb24",
+            "vertical": false,
+            "translation": "Portugal"
+        },
+        {
+            "bbox": [
+                552.888466614273,
+                1324.489386060183,
+                613.6505380290968,
+                1347.201042847709
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "1043f984-7280-4c3d-8af1-990bd10c31da",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                838.6093520458102,
+                1324.952889259928,
+                880.3542866056127,
+                1347.201042847709
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "45733108-079d-4750-8b36-a52da868d18e",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                838.1455194395901,
+                1375.5053728343178,
+                973.1208078496182,
+                1401.461552020062
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Felderdbeeren",
+            "uuid": "7ce36ad0-606e-4b92-b201-5aa038768c1e",
+            "vertical": false,
+            "translation": "Strawberries"
+        },
+        {
+            "bbox": [
+                837.7339113042032,
+                848.9322410477116,
+                1198.01044136118,
+                881.661392633719
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Äpfel, Birnen, Pflaumen, Zitrusfrüchte",
+            "uuid": "8173cfba-f994-46f4-9f98-5be2199c5438",
+            "vertical": false,
+            "translation": "Apples, pears, plums, citrus fruits"
+        },
+        {
+            "bbox": [
+                834.8676757812499,
+                964.9596646702297,
+                1394.49169921875,
+                1017.4584871641653
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Äpfel, Birnen, Pfirsiche, Oliven, Reben, Zitrusfrüchte, Mango und Rahmapfel",
+            "uuid": "13ae6842-622c-4c83-b53a-20c0fe91a37f",
+            "vertical": false,
+            "translation": "Apples, pears, peaches, olives, vines, citrus fruits, mango and sweetsops"
+        },
+        {
+            "bbox": [
+                837.7339113042032,
+                1284.1872911772527,
+                879.2202996137946,
+                1308.9159834866805
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Reis",
+            "uuid": "be408266-cadb-4402-a3d8-f022adf83e7e",
+            "vertical": false,
+            "translation": "Rice"
+        },
+        {
+            "bbox": [
+                836.009765625,
+                1413.627399173267,
+                1232.31494140625,
+                1438.7355316703665
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Tomaten und Gurken in Gewächshäusern",
+            "uuid": "4d4ee44f-3ab4-4eea-86ef-85819816984e",
+            "vertical": false,
+            "translation": "Tomatoes and cucumbers in greenhouses"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

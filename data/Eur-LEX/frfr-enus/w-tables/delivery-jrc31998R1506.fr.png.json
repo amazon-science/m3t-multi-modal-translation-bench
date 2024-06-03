@@ -1,0 +1,539 @@
+{
+    "file": "jrc31998R1506.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                152.19209273500158,
+                153.42075949122918,
+                245.00953795570385,
+                181.25071586443082
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "16. 7. 98",
+            "uuid": "e4529862-649b-4ce9-9161-5f60d0107766",
+            "vertical": false,
+            "translation": "16.7.98"
+        },
+        {
+            "bbox": [
+                371.27792871908065,
+                157.13142034098925,
+                400.97951118970536,
+                179.39538543955067
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "ff7e43a0-be59-4fcd-a9c0-1388a77fbcd1",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                566.1945636825554,
+                155.27608991610907,
+                1091.5413036317302,
+                186.81670713907104
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "3206512c-7bb5-4b49-ba66-097d8cafaee8",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1410.8333151909462,
+                157.13142034098925,
+                1503.650760411649,
+                181.25071586443082
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 200/3",
+            "uuid": "4040c5e6-81d9-42e5-99c7-d974ac7e11e2",
+            "vertical": false,
+            "translation": "L 200/3"
+        },
+        {
+            "bbox": [
+                764.4618873836118,
+                268.4223251268003,
+                889.7340034505187,
+                287.6299102369412
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE 1",
+            "uuid": "28372762-c25b-4b4e-9f36-c456ce0b485d",
+            "vertical": false,
+            "translation": "APPENDIX 1"
+        },
+        {
+            "bbox": [
+                147.89840534808567,
+                331.8073559902655,
+                1504.714133738913,
+                525.8039656026897
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "Numéro d'ordre 09.0201 Code NC 0802 21 00 0802 22 00 Désignation des marchandises Noisettes (Corylus Spp.) fraîc en coque et sans coques ou sèches Volume du contin gent autonome (en tonnes) 9 060 Droit contingentaire Exemption",
+            "uuid": "d1a68d98-bd66-4e09-b97d-dc9d4edd00e9",
+            "vertical": false,
+            "translation": "Order number 09.0201 CN code 0802 21 00 0802 22 00 Description of hazelnut products (Corylus Spp.) fresh in shell and shelled or dried Volume of autonomous quota (in tons) 9,060 Quota duty Exemption"
+        },
+        {
+            "bbox": [
+                195.9595439689235,
+                364.4602506775053,
+                336.25188619096343,
+                387.5093528096745
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Numéro d'ordre",
+            "uuid": "cb636adb-c48e-4345-8724-a3a497278717",
+            "vertical": false,
+            "translation": "Order number"
+        },
+        {
+            "bbox": [
+                153.71972706480744,
+                452.81514218415384,
+                226.74861753655432,
+                475.864244316323
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "09.0201",
+            "uuid": "3e879795-50dc-4376-9f71-5b6ad834a248",
+            "vertical": false,
+            "translation": "09.0201"
+        },
+        {
+            "bbox": [
+                445.87746479728014,
+                364.4602506775053,
+                528.515419804783,
+                389.4301113206886
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Code NC",
+            "uuid": "88bbce9d-9c95-468e-b7e5-672dba3a5394",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                695.7131427269404,
+                364.4602506775053,
+                959.0015110066591,
+                397.1131453647448
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Désignation des marchandises",
+            "uuid": "142e00a5-3c3b-44c8-89f6-b7b508f94feb",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                611.1533748122862,
+                452.81514218415384,
+                1045.4830918284647,
+                504.67562198153456
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Noisettes (Corylus Spp.) fraîc en coque et sans coques ou sèches",
+            "uuid": "cc0fc1f1-4541-47ef-b612-04743db71384",
+            "vertical": false,
+            "translation": "Hazelnuts (Corylus Spp.), fresh in shell and without shells or dried"
+        },
+        {
+            "bbox": [
+                1087.762975785792,
+                341.32849090612086,
+                1252.4396333010586,
+                414.03403976395714
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Volume du contingent autonome (en tonnes)",
+            "uuid": "79c4bced-a633-466e-8db2-0a3f54ffa162",
+            "vertical": false,
+            "translation": "Volume of autonomous quota (in tons)"
+        },
+        {
+            "bbox": [
+                1139.643489109778,
+                452.81514218415384,
+                1199.2196892314664,
+                475.864244316323
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "9 060",
+            "uuid": "d31e9812-5c21-46ce-bc5b-4c14309d6ce1",
+            "vertical": false,
+            "translation": "9,060"
+        },
+        {
+            "bbox": [
+                1301.0736645182074,
+                364.4602506775053,
+                1474.0368261618182,
+                389.4301113206886
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Droit contingentaire",
+            "uuid": "82246313-7f54-4abd-b597-c0be1100bc6c",
+            "vertical": false,
+            "translation": "Quota duty"
+        },
+        {
+            "bbox": [
+                1339.3907758977361,
+                452.81514218415384,
+                1447.0122986982053,
+                477.7850028273371
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Exemption",
+            "uuid": "39910fd8-2bb1-42fa-a788-889e0303c8e8",
+            "vertical": false,
+            "translation": "Exemption"
+        },
+        {
+            "bbox": [
+                756.7788533395554,
+                646.8117517965779,
+                901.2142698788438,
+                673.7023709507754
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "ANNEXE II",
+            "uuid": "e105ead9-e375-4096-abf0-b3b00efeca98",
+            "vertical": false,
+            "translation": "APPENDIX II"
+        },
+        {
+            "bbox": [
+                149.73880895721018,
+                709.1190241344785,
+                1500.8705079246106,
+                1092.6191624370945
+            ],
+            "order": "19",
+            "label": "Table",
+            "text": "Numéro d'ordre 09.0217 09.0207 09.0209 Code NC ex 0807 11 00 2002 90 31 2002 90 39 2002 90 91 2002 90 99 Pastèques fraîches: du 16 juin au 31 mars Désignation des marchandises Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, autres qu'entières ou en morceaux, d'une teneur en poids de matière sèche égale ou supérieure à 12 % : Volume du contingent par période indiquée (en tonnes) 14 000 30 000 , d'une teneur en poids de matière sèche de 28 à 30 % Droit contingentaire Exemption Exemption",
+            "uuid": "83faa983-ea95-43ac-8182-17a66360483e",
+            "vertical": false,
+            "translation": "Order No 09.0217 09.0207 09.0209 CN code ex 0807 11 00 2002 90 31 2002 90 39 2002 90 91 2002 90 99 Watermelons, fresh: from June 16 to March 31 Description Tomatoes prepared or preserved otherwise than by vinegar or acetic acid, other than whole or in pieces, with a dry matter content of 12% or more by weight: Quota volume per indicated period (in tons) 14,000 30,000, with a dry matter content of 28 to 30% by weight Quota duty Exemption Exemption"
+        },
+        {
+            "bbox": [
+                188.27229234031861,
+                735.1666433032265,
+                265.1448086263679,
+                785.1063645895931
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Numéro d'ordre",
+            "uuid": "31118b26-edce-4995-af5b-4e7d24bf8f74",
+            "vertical": false,
+            "translation": "Sequence number"
+        },
+        {
+            "bbox": [
+                153.2009779504405,
+                827.3630518319032,
+                234.5619492913524,
+                857.1916708974345
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "09.0217",
+            "uuid": "2da82dda-ba98-4afa-bedb-bd01a8290910",
+            "vertical": false,
+            "translation": "09.0217"
+        },
+        {
+            "bbox": [
+                340.1745917155509,
+                744.7704358582971,
+                422.8125467230539,
+                771.6610550124946
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Code NC",
+            "uuid": "5f3cd835-17bb-41dc-8466-0e679eed2e88",
+            "vertical": false,
+            "translation": "NC code"
+        },
+        {
+            "bbox": [
+                307.50377229398,
+                831.2045688539315,
+                457.40517905177614,
+                858.095188008129
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "ex 0807 11 00",
+            "uuid": "2b84227b-6549-40a5-8f0a-061f37d3e2d5",
+            "vertical": false,
+            "translation": "ex 0807 11 00"
+        },
+        {
+            "bbox": [
+                591.9320825523624,
+                748.6119528803254,
+                843.6895733891739,
+                769.7402965014804
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Désignation des marchandises",
+            "uuid": "a3ed6ae0-3519-4429-ad71-c7c057f42bcf",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                484.3105597518934,
+                829.2838103429174,
+                728.3807989601,
+                896.5103582284108
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Pastèques fraîches: du 16 juin au 31 mars",
+            "uuid": "3f7646e6-c948-46ab-9962-cb6a97a35d7c",
+            "vertical": false,
+            "translation": "Fresh watermelons: June 16 to March 31"
+        },
+        {
+            "bbox": [
+                480.46693393759085,
+                934.925528448693,
+                955.1547220039454,
+                1065.5371071976517
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, autres qu'entières ou en morceaux, d'une teneur en poids de matière sèche égale ou supérieure à 12 %:",
+            "uuid": "c980c7cd-de71-410d-967e-d871cf1f81b9",
+            "vertical": false,
+            "translation": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid, other than whole or in pieces, containing 12% or more by weight of dry matter:"
+        },
+        {
+            "bbox": [
+                1008.96548340418,
+                721.7213337261279,
+                1239.5830322623278,
+                796.6309156556778
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Volume du contingent par période indiquée (en tonnes)",
+            "uuid": "e8dab176-2790-4a49-8cd1-30c8b0dd6c94",
+            "vertical": false,
+            "translation": "Volume of the quota per period indicated (in tons)"
+        },
+        {
+            "bbox": [
+                1089.6816255045317,
+                833.1253273649456,
+                1158.8668901619762,
+                854.2536709861007
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "14 000",
+            "uuid": "c14e1940-70ef-4e4a-8d81-e5d298ba375d",
+            "vertical": false,
+            "translation": "14,000"
+        },
+        {
+            "bbox": [
+                976.294663982609,
+                933.0047699376788,
+                1264.5666000552937,
+                1017.5181444222991
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "30 000, d'une teneur en poids de matière sèche de 28 à 30 %",
+            "uuid": "6394c09d-11fc-4670-92b0-b29e6a5e61d3",
+            "vertical": false,
+            "translation": "30,000, with a dry matter content by weight of 28 to 30%"
+        },
+        {
+            "bbox": [
+                1304.92467110547,
+                744.7704358582971,
+                1479.8096456562319,
+                771.6610550124946
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Droit contingentaire",
+            "uuid": "418c1a73-dee3-4840-b5d0-9e65f580add7",
+            "vertical": false,
+            "translation": "Quota duty"
+        },
+        {
+            "bbox": [
+                1335.6736776198898,
+                831.2045688539315,
+                1445.2170133275097,
+                854.2536709861007
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Exemption",
+            "uuid": "d1db90ca-c352-4391-881c-dc98bf0e1326",
+            "vertical": false,
+            "translation": "Exemption"
+        },
+        {
+            "bbox": [
+                1335.6736776198898,
+                938.7670454707212,
+                1449.060639141812,
+                961.8161476028904
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Exemption",
+            "uuid": "78aed1fb-f148-40e2-bf72-0f055a7ab9f7",
+            "vertical": false,
+            "translation": "Exemption"
+        },
+        {
+            "bbox": [
+                428.44326358245854,
+                452.09787972868827,
+                540.96347853569,
+                472.8672651352169
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "0802 21 00",
+            "uuid": "ba11d6f4-4187-4552-ad73-3ae07fe8106e",
+            "vertical": false,
+            "translation": "0802 21 00"
+        },
+        {
+            "bbox": [
+                431.90542404255814,
+                478.05961148684906,
+                537.5013180755905,
+                502.2905611277988
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "0802 22 00",
+            "uuid": "4c66e50a-e4e3-4f15-820f-7047d9be0e3d",
+            "vertical": false,
+            "translation": "0802 22 00"
+        },
+        {
+            "bbox": [
+                341.8892520799729,
+                934.1206993718705,
+                452.6783868031546,
+                958.3516490128205
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "2002 90 31",
+            "uuid": "2807921b-229a-4d87-bb3a-9e88b881be44",
+            "vertical": false,
+            "translation": "2002 90 31"
+        },
+        {
+            "bbox": [
+                343.6203323100226,
+                961.813213247242,
+                455.2750071482292,
+                984.3133807709813
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "2002 90 39",
+            "uuid": "e5cf2925-833d-4d26-83b6-7a6f26ea0035",
+            "vertical": false,
+            "translation": "2002 90 39"
+        },
+        {
+            "bbox": [
+                341.8892520799729,
+                989.5057271226133,
+                451.8128466881297,
+                1012.8712857049579
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "2002 90 91",
+            "uuid": "604fbb2a-3181-4ab3-8e31-062949a52194",
+            "vertical": false,
+            "translation": "2002 90 91"
+        },
+        {
+            "bbox": [
+                342.7547921949978,
+                1016.3328499393793,
+                455.2750071482292,
+                1041.4291906389346
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "2002 90 99",
+            "uuid": "db75526b-907f-40bd-b333-e34b445a079c",
+            "vertical": false,
+            "translation": "2002 90 99"
+        },
+        {
+            "bbox": [
+                154.06704711957903,
+                935.8514814890814,
+                231.9656574718161,
+                957.4862579542149
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "09.0207",
+            "uuid": "7f04e6b1-8b66-424a-8470-bbf25f79a70f",
+            "vertical": false,
+            "translation": "09.0207"
+        },
+        {
+            "bbox": [
+                154.93258723460386,
+                963.5439953644527,
+                229.36903712674157,
+                984.3133807709813
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "09.0209",
+            "uuid": "1e3ad10c-6921-4d54-94cb-07b0b9fd3208",
+            "vertical": false,
+            "translation": "09.0209"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

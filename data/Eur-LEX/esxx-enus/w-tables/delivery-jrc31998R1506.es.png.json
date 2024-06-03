@@ -1,0 +1,735 @@
+{
+    "file": "jrc31998R1506.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                153.49425679861008,
+                155.97056997532343,
+                249.26417770714454,
+                184.83273792036113
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "16.7.98",
+            "uuid": "e66846e8-633c-4c97-a93a-bee9e86e6bd0",
+            "vertical": false,
+            "translation": "16.7.98"
+        },
+        {
+            "bbox": [
+                372.5843498359424,
+                159.90632014964683,
+                401.4465177809802,
+                180.89698774603775
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "ad988e98-d4a0-4ead-9800-af23a2fc707e",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                581.1791090750792,
+                154.6586532505489,
+                1074.4597975902705,
+                182.20890447081229
+            ],
+            "order": "3333333",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "b6e3c27f-fb81-4fc3-9984-f99ed9d41d94",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1414.2462293068518,
+                155.97056997532343,
+                1499.5208164171909,
+                182.20890447081229
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 200/3",
+            "uuid": "87fec5dc-250e-4905-bb70-25df24a19ea0",
+            "vertical": false,
+            "translation": "L 200/3"
+        },
+        {
+            "bbox": [
+                187.60409164274563,
+                364.5653292144602,
+                342.41026516613016,
+                396.05133060904694
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Número de orden",
+            "uuid": "a1a1c125-1afb-4f77-bf4f-0f4fc06465f9",
+            "vertical": false,
+            "translation": "Serial No."
+        },
+        {
+            "bbox": [
+                428.9967690012436,
+                363.2534124896856,
+                545.7573575061691,
+                392.11558043472354
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Código NC",
+            "uuid": "cb55ed2e-efdc-4ea5-a8bb-e5ade6737238",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                703.1873644791025,
+                365.8772459392347,
+                951.1396254614727,
+                388.1798302604002
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Designación de la mercancía",
+            "uuid": "488e3a8f-0a52-4efa-b32c-dbf38f77530a",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                1081.4584115521268,
+                344.39164502072356,
+                1257.1112491952852,
+                360.30444564344873
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Volumen del contin",
+            "uuid": "c7f91e12-0beb-4ed6-9565-2aeb4c7807bf",
+            "vertical": false,
+            "translation": "Size of"
+        },
+        {
+            "bbox": [
+                1101.0433969339424,
+                368.872876747993,
+                1239.3623561930149,
+                389.681923716172
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "gente autónomo",
+            "uuid": "a7e75715-f0a2-4573-b0d5-cee7f15e7813",
+            "vertical": false,
+            "translation": "autonomous quota"
+        },
+        {
+            "bbox": [
+                1112.0599512112137,
+                392.74207768208066,
+                1227.12174032938,
+                413.5511246502596
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "(en toneladas)",
+            "uuid": "38bec8cd-a023-4c24-a6c0-cf750451694f",
+            "vertical": false,
+            "translation": "(in tons)"
+        },
+        {
+            "bbox": [
+                1353.2000837248174,
+                356.6322608843583,
+                1427.8678404929894,
+                374.9931846798103
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Derecho",
+            "uuid": "475805f4-edd8-4cac-943a-8a099a2e43d8",
+            "vertical": false,
+            "translation": "Rate"
+        },
+        {
+            "bbox": [
+                1329.9429135839116,
+                378.6653694389008,
+                1452.3490722202584,
+                403.1466011661703
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "contingentario",
+            "uuid": "8aae9b1a-beb7-4a4f-8362-a53e9d6e0e1c",
+            "vertical": false,
+            "translation": "quota"
+        },
+        {
+            "bbox": [
+                150.55957512270695,
+                450.27297224116376,
+                230.1235782363326,
+                474.7542039684332
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "09.0201",
+            "uuid": "4ef5fc6b-3a44-4645-ba0e-45801118e055",
+            "vertical": false,
+            "translation": "09.0201"
+        },
+        {
+            "bbox": [
+                427.80952443403316,
+                452.7210954138907,
+                539.8111595862908,
+                475.36623476161503
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "0802 21 00",
+            "uuid": "0e229774-18e2-4a17-a1d3-713ca72f39df",
+            "vertical": false,
+            "translation": "0802 21 00"
+        },
+        {
+            "bbox": [
+                426.58546284766976,
+                480.2624811070688,
+                540.4231903794725,
+                499.2354356957027
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "0802 22 00",
+            "uuid": "9535e8da-81d6-4d40-9f69-2b9de5197243",
+            "vertical": false,
+            "translation": "0802 22 00"
+        },
+        {
+            "bbox": [
+                612.6428239749173,
+                451.49703382752733,
+                1044.7365639612228,
+                477.8143579343419
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Avellanas (Corylus spp.) frescas o secas con",
+            "uuid": "672c10f0-62ed-438d-9dbf-65b0377e311c",
+            "vertical": false,
+            "translation": "Fresh or dried hazelnuts (Corylus spp.) with"
+        },
+        {
+            "bbox": [
+                613.8668855612809,
+                480.2624811070688,
+                790.7437847908024,
+                502.29558966161136
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "cáscara y sin ella",
+            "uuid": "e09d057a-17e2-4044-9ca0-a1fe38438b98",
+            "vertical": false,
+            "translation": "shell or shelled"
+        },
+        {
+            "bbox": [
+                1141.4374292839368,
+                453.33312620707244,
+                1195.2961390839296,
+                475.9782655547968
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "9 060",
+            "uuid": "0772e481-8f0e-4144-b7ec-382cfc00a034",
+            "vertical": false,
+            "translation": "9,060"
+        },
+        {
+            "bbox": [
+                1344.6316526202731,
+                452.7210954138907,
+                1437.0483023907154,
+                474.7542039684332
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Exención",
+            "uuid": "803b8515-138b-42a2-ac75-249a266d2e3b",
+            "vertical": false,
+            "translation": "Free"
+        },
+        {
+            "bbox": [
+                167.925340771129,
+                734.5258456008536,
+                275.50251220263345,
+                755.5165131972448
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Número de",
+            "uuid": "9734156e-ed78-4074-b1a6-fcc42e108ae4",
+            "vertical": false,
+            "translation": "Number of"
+        },
+        {
+            "bbox": [
+                195.47559199139235,
+                760.7641800963427,
+                254.51184460624236,
+                783.0667644175081
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "orden",
+            "uuid": "4988d476-9e83-4ea9-a79a-c09cf717ac47",
+            "vertical": false,
+            "translation": "Serial"
+        },
+        {
+            "bbox": [
+                329.29109791838573,
+                745.0211793990492,
+                435.5563526251158,
+                767.3237637202149
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Código NC",
+            "uuid": "1f3de717-2ef2-495f-b109-b72b2f5de161",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                585.1148592494025,
+                743.7092626742749,
+                847.4982042042916,
+                769.9475971697638
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Designación de las mercancías",
+            "uuid": "cfd3db00-6bbd-4f0e-8106-695fff234eac",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                993.120960654255,
+                721.4066783531091,
+                1250.2566387100462,
+                747.645012848598
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Volumen del contingente por",
+            "uuid": "77a89b84-5ab1-4d92-804d-28a9d8d361a9",
+            "vertical": false,
+            "translation": "Size of quota per"
+        },
+        {
+            "bbox": [
+                1008.0147163703186,
+                748.9439993138509,
+                1237.5262638134695,
+                769.1410154888481
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "año o por período indicado",
+            "uuid": "a8c4772e-f537-4166-92ca-3d3730820e93",
+            "vertical": false,
+            "translation": "year or period indicated"
+        },
+        {
+            "bbox": [
+                1062.485456963493,
+                772.8132002479385,
+                1179.3833384612046,
+                793.0102164229357
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "( en toneladas )",
+            "uuid": "2eb6cb5a-e1c6-4402-8d89-ee4020fd43b6",
+            "vertical": false,
+            "translation": "(tons)"
+        },
+        {
+            "bbox": [
+                1320.7624516861856,
+                734.8672910706711,
+                1458.469380152076,
+                755.6763380388501
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Derecho contin",
+            "uuid": "a6e9acc9-44a2-45c3-a8d2-cf27eec6dc0a",
+            "vertical": false,
+            "translation": "Rate of"
+        },
+        {
+            "bbox": [
+                1351.9760221384543,
+                758.1244612115769,
+                1421.747532561172,
+                784.4417853183915
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "gentario",
+            "uuid": "22ca1616-5353-4749-bad2-2342b537bdec",
+            "vertical": false,
+            "translation": "quota"
+        },
+        {
+            "bbox": [
+                152.39566750225217,
+                828.5080024274765,
+                231.9596706158778,
+                853.6012649479276
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "09.0217",
+            "uuid": "f88e3d37-13a7-46da-8045-eabf8118ac29",
+            "vertical": false,
+            "translation": "09.0217"
+        },
+        {
+            "bbox": [
+                310.9116429363217,
+                832.7922179797486,
+                454.7388793340296,
+                855.4373573274729
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "ex 0807 11 00",
+            "uuid": "a211ed55-36a7-4158-b77a-9447119101df",
+            "vertical": false,
+            "translation": "ex 0807 11 00"
+        },
+        {
+            "bbox": [
+                483.50432661357115,
+                828.5080024274765,
+                638.9601480817321,
+                854.8253265342911
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Sandías frescas:",
+            "uuid": "d57bb285-e5ac-4c43-8899-b82fde2ba6d5",
+            "vertical": false,
+            "translation": "Fresh watermelons:"
+        },
+        {
+            "bbox": [
+                484.72838819993456,
+                864.0057884320172,
+                818.8972012771621,
+                887.8749893661048
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "del 16 de junio 31 de marzo",
+            "uuid": "32abb8c9-1fb5-4b85-acb8-1395c456a55b",
+            "vertical": false,
+            "translation": "From June 16 to March 31"
+        },
+        {
+            "bbox": [
+                1090.6388734498528,
+                832.7922179797486,
+                1156.1261683202986,
+                854.2132957411093
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "14 000",
+            "uuid": "c1633071-218f-490e-b871-e36729682bf5",
+            "vertical": false,
+            "translation": "14,000"
+        },
+        {
+            "bbox": [
+                1344.0196218270914,
+                830.3440948070216,
+                1435.8242408043518,
+                854.8253265342911
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Exención",
+            "uuid": "4733bb86-27b9-4877-8c90-4c913deeac84",
+            "vertical": false,
+            "translation": "Free"
+        },
+        {
+            "bbox": [
+                150.55957512270695,
+                931.9412064751899,
+                231.9596706158778,
+                957.0344689956409
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "09.0207",
+            "uuid": "97c03035-d00a-4875-ad1d-f16c63f431f0",
+            "vertical": false,
+            "translation": "09.0207"
+        },
+        {
+            "bbox": [
+                342.7372441817719,
+                931.9412064751899,
+                451.0666945749392,
+                958.2585305820045
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "2002 90 31",
+            "uuid": "649b3476-ebcc-452d-a1a2-5db9cf6cd47a",
+            "vertical": false,
+            "translation": "2002 90 31"
+        },
+        {
+            "bbox": [
+                481.66823423402593,
+                933.1652680615532,
+                948.0356986385085,
+                960.7066537547313
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Tomates preparados o conservados ( excepto en",
+            "uuid": "ca516d3f-52d1-4c66-983e-8602347a8c9f",
+            "vertical": false,
+            "translation": "Prepared or preserved tomatoes (except in"
+        },
+        {
+            "bbox": [
+                482.8922958203894,
+                962.5427461342764,
+                946.811637052145,
+                985.1878854820008
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "vinagre o en ácido acético) , salvo enteros o en",
+            "uuid": "804cafff-422b-4727-b436-f75d9d1a495a",
+            "vertical": false,
+            "translation": "vinegar or acetic acid), except whole or in"
+        },
+        {
+            "bbox": [
+                485.9524497862981,
+                988.2480394479095,
+                959.0522529157797,
+                1015.1773943479058
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "trozos , con un contenido de materia seca igual",
+            "uuid": "e7a4ea10-006e-404d-bc85-b8eb4ca8b8ce",
+            "vertical": false,
+            "translation": "pieces, with dry matter content equal to"
+        },
+        {
+            "bbox": [
+                484.1163574067529,
+                1017.6255175206327,
+                782.1753536862582,
+                1046.3909648001743
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "o superior al 12% en peso",
+            "uuid": "4e74bd82-d334-45ba-86f6-cdd953030315",
+            "vertical": false,
+            "translation": "or greater than 12% by weight"
+        },
+        {
+            "bbox": [
+                980.4733306771404,
+                935.0013604410985,
+                1264.4556187134658,
+                957.6464997888227
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "30 000, con un contenido de",
+            "uuid": "d0c275d4-6b6b-499d-915a-d09dbb4688bf",
+            "vertical": false,
+            "translation": "30,000 with a content of"
+        },
+        {
+            "bbox": [
+                979.8612998839586,
+                960.7066537547313,
+                1265.0676495066475,
+                988.8600702410912
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "materia seca del 28 al 30 %",
+            "uuid": "b25cf592-547b-42e1-97e3-19cf5c649e45",
+            "vertical": false,
+            "translation": "dry matter of 28-30%"
+        },
+        {
+            "bbox": [
+                978.6372382975953,
+                994.3683473797269,
+                1062.485456963493,
+                1018.8495791069963
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "en peso",
+            "uuid": "52dd3a57-910c-4b61-b08b-f16eeaf0cd29",
+            "vertical": false,
+            "translation": "by weight"
+        },
+        {
+            "bbox": [
+                1343.4075910339097,
+                933.777298854735,
+                1435.8242408043518,
+                958.2585305820045
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Exención",
+            "uuid": "1e02d021-6f8f-4813-b4cb-536316cffa7b",
+            "vertical": false,
+            "translation": "Free"
+        },
+        {
+            "bbox": [
+                150.87042334906118,
+                964.1112724363815,
+                233.52117700985124,
+                987.7257734823215
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "09.0209",
+            "uuid": "fd1c0ba8-5037-4d76-91db-cfdc17bf03e8",
+            "vertical": false,
+            "translation": "09.0209"
+        },
+        {
+            "bbox": [
+                341.09834844135577,
+                962.7993557116072,
+                455.2351034967325,
+                987.7257734823215
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "2002 90 39",
+            "uuid": "168347d2-f644-4584-b334-bcc64ca96146",
+            "vertical": false,
+            "translation": "2002 90 39"
+        },
+        {
+            "bbox": [
+                343.7221818909046,
+                990.3496069318705,
+                455.2351034967325,
+                1015.2760247025849
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "2002 90 91",
+            "uuid": "6ac80018-8180-43a1-94ba-d0d34260b9cf",
+            "vertical": false,
+            "translation": "2002 90 91"
+        },
+        {
+            "bbox": [
+                345.03409861567906,
+                1017.8998581521337,
+                455.2351034967325,
+                1042.8262759228483
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "2002 90 99",
+            "uuid": "3bebee3a-f812-4e08-8681-1b003a134f71",
+            "vertical": false,
+            "translation": "2002 90 99"
+        },
+        {
+            "bbox": [
+                771.4070341673737,
+                263.5477414068279,
+                889.4795393970737,
+                292.40990935186556
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO I",
+            "uuid": "4fa0845c-791c-4083-8876-86556bbc2c29",
+            "vertical": false,
+            "translation": "ANNEX I"
+        },
+        {
+            "bbox": [
+                766.1593672682759,
+                641.379758141868,
+                892.1033728466227,
+                671.5538428116803
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "ANEXO II",
+            "uuid": "3bdfe6c5-27a8-44e1-b0a8-e7feacbba7c8",
+            "vertical": false,
+            "translation": "ANNEX II"
+        },
+        {
+            "bbox": [
+                134.98344294439488,
+                331.1212862021265,
+                1496.0664926337097,
+                525.159985434694
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "Número de orden 09.0201 Código NC 0802 21 00 0802 22 00 Designación de la mercancía Avellanas ( Corylus spp . ) frescas o secas con cáscara y sin ella Volumen del contin gente autónomo ( en toneladas ) 9 060 Derecho contingentario Exención",
+            "uuid": "0e15f90c-8fe0-4225-af1b-a41c998b5da8",
+            "vertical": false,
+            "translation": "Serial No. 09.0201 CN code 0802 21 00 0802 22 00 Description of goods Hazelnuts (Corylus spp.) fresh or dried in shell or shelled Size of autonomous quota (tons) 9,060 Quota duty Exemption"
+        },
+        {
+            "bbox": [
+                146.2320631897611,
+                705.1379093605539,
+                1510.1272679404176,
+                1070.7180673349567
+            ],
+            "order": "23",
+            "label": "Table",
+            "text": "Número de orden 09.0217 09.0207 09.0209 Código NC ex 0807 11 00 2002 90 31 2002 90 39 2002 90 91 2002 90 99 Designación de las mercancías Sandías frescas : del 16 de junio 31 de marzo Tomates preparados o conservados ( excepto en vinagre o en ácido acético ) , salvo enteros o en trozos , con un contenido de materia seca igual o superior al 12 % en peso Volumen del contingente por año o por período indicado ( en toneladas ) 14 000 30 000 , con un contenido de materia seca del 28 al 30 % en peso Derecho contin gentario Exención Exención",
+            "uuid": "3a15bb8d-8b54-4f38-b931-e7617f15e3d9",
+            "vertical": false,
+            "translation": "Serial No. 09.0217 09.0207 09.0209 CN code ex 0807 11 00 2002 90 31 2002 90 39 2002 90 91 2002 90 99 Description of goods Fresh watermelons: from June 16 to March 31 Tomatoes prepared or preserved (other than by vinegar or acetic acid), other than whole or in pieces, with a dry matter content equal to or greater than 12% by weight Size of quota per year or per period indicated (tons) 14,000 30,000 with a dry matter content of 28-30% by weight Quota Duty Exemption Exemption"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

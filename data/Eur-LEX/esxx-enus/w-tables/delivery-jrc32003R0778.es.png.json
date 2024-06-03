@@ -1,0 +1,637 @@
+{
+    "file": "jrc32003R0778.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                113.11020099598063,
+                136.1223530497523,
+                217.6396281233007,
+                163.44232655931373
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "8.5.2003",
+            "uuid": "1b445d80-9f87-49ca-838f-9f59d92269da",
+            "vertical": false,
+            "translation": "8.5.2003"
+        },
+        {
+            "bbox": [
+                334.6804753711993,
+                142.76680622818083,
+                360.21834296980484,
+                161.82041146721372
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "7383853a-96db-4131-a69d-6417d16a0de8",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                639.5721788749138,
+                133.9237099278147,
+                1015.3590858884994,
+                168.21941676071438
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de la Unión Europea",
+            "uuid": "24acaab6-e453-41d5-9867-619970860b58",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1449.5801705646804,
+                134.04445844417535,
+                1542.9870494183588,
+                171.90442319395126
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 114/5",
+            "uuid": "a80bf0f8-1cf0-406f-bb56-dd465ac41b8e",
+            "vertical": false,
+            "translation": "L 114/5"
+        },
+        {
+            "bbox": [
+                293.9589282593271,
+                207.0450948043742,
+                1410.033760276882,
+                596.54805943458
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "d72243d5-fbaa-4645-b164-b3b7a736377e",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                341.48486328124994,
+                291.4043178152403,
+                386.0263671875,
+                324.5461661135232
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "País",
+            "uuid": "51b47ec5-68cf-49e0-afb0-cba9d53a6e00",
+            "vertical": false,
+            "translation": "Country"
+        },
+        {
+            "bbox": [
+                529.9296875,
+                290.26149546012715,
+                615.58642578125,
+                324.5461661135232
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Empresa",
+            "uuid": "f6f27d6a-6382-4830-a445-e9ea5ec6b0cb",
+            "vertical": false,
+            "translation": "Company"
+        },
+        {
+            "bbox": [
+                732.40033964977,
+                222.51802062028116,
+                1268.137625134324,
+                273.7887673184005
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Tipo del derecho antidumping aplicable cuando es pagadero el derecho adicional de salvaguardia",
+            "uuid": "c8d5cb9d-64ac-4124-94d7-858adcaf120e",
+            "vertical": false,
+            "translation": "Anti-dumping duty rate applicable when the additional safeguard duty is payable"
+        },
+        {
+            "bbox": [
+                719.5908686888173,
+                317.4911849667351,
+                820.5596397927981,
+                365.74600538849467
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Hasta 28.3.2003",
+            "uuid": "2013dba6-56da-44c7-8b9e-da6e1c6f63fe",
+            "vertical": false,
+            "translation": "Until 28.3.2003"
+        },
+        {
+            "bbox": [
+                833.3691107537508,
+                294.1177563249453,
+                933.5843835659106,
+                391.3813787375542
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Desde 29.3.2003 hasta 28.9.2003",
+            "uuid": "8de30bce-b8b5-4243-bc24-69bfee7d199b",
+            "vertical": false,
+            "translation": "From 29.3.2003 to 28.9.2003"
+        },
+        {
+            "bbox": [
+                947.1473528186841,
+                294.8717378940353,
+                1042.0881375880988,
+                390.6273971684642
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Desde 29.9.2003 hasta 28.3.2004",
+            "uuid": "abbfce65-64d4-4177-971f-48234b93bba7",
+            "vertical": false,
+            "translation": "From 29.9.2003 to 28.3.2004"
+        },
+        {
+            "bbox": [
+                1061.6757486588251,
+                296.865376539732,
+                1158.4044722691813,
+                387.4115744571352
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Desde 29.3.2004 hasta 28.9.2004",
+            "uuid": "a47738bc-d55f-4caa-8622-f224b4a7f8e5",
+            "vertical": false,
+            "translation": "From 29.3.2004 to 28.9.2004"
+        },
+        {
+            "bbox": [
+                1174.7859496548058,
+                295.32775023657916,
+                1276.19509537534,
+                389.77680151249143
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Desde 29.9.2004 hasta 28.3.2005",
+            "uuid": "511d3c7a-8d2b-427a-a915-ae926257aa9f",
+            "vertical": false,
+            "translation": "From 29.9.2004 to 28.3.2005"
+        },
+        {
+            "bbox": [
+                1294.9167838160545,
+                268.00877736702864,
+                1381.5045928543566,
+                346.84641520890557
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Código TARIC adicional",
+            "uuid": "9fec218e-d9e6-48e4-96df-3269f82906fd",
+            "vertical": false,
+            "translation": "TARIC additional code"
+        },
+        {
+            "bbox": [
+                297.38539773686995,
+                418.41487973550653,
+                362.0649641477258,
+                446.5544668943727
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Rusia",
+            "uuid": "e8a47f0c-3139-49f5-bf83-3354898dcb24",
+            "vertical": false,
+            "translation": "Russia"
+        },
+        {
+            "bbox": [
+                437.29011203861256,
+                415.6009210196198,
+                627.1105786791678,
+                448.6649359312876
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Todas las empresas",
+            "uuid": "b129687a-fb2f-4973-88c9-cfd33a66c0c7",
+            "vertical": false,
+            "translation": "All the companies"
+        },
+        {
+            "bbox": [
+                732.7600071699608,
+                414.28966140004405,
+                810.3112698012455,
+                450.1055086197275
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "19,6 %",
+            "uuid": "aae9d546-67e2-47e4-ba0c-d63089c4aca2",
+            "vertical": false,
+            "translation": "19.6%"
+        },
+        {
+            "bbox": [
+                852.069641987322,
+                418.26919998000915,
+                916.6956941800594,
+                445.1310853947714
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "22 %",
+            "uuid": "7b6bc80c-4a6e-466d-b78c-0ad58b507be6",
+            "vertical": false,
+            "translation": "22%"
+        },
+        {
+            "bbox": [
+                968.3965359342492,
+                416.27943069002663,
+                1030.0398472565525,
+                448.1157393297452
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "22 %",
+            "uuid": "506cd948-98b1-4cf2-afbe-d694b3f265b4",
+            "vertical": false,
+            "translation": "22%"
+        },
+        {
+            "bbox": [
+                1075.197971049527,
+                414.6734611048419,
+                1146.5936737852242,
+                447.7284808892207
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "24,1 %",
+            "uuid": "48b8865e-8bc2-42d6-9908-d4a965b37373",
+            "vertical": false,
+            "translation": "24.1%"
+        },
+        {
+            "bbox": [
+                1189.217973925939,
+                414.6734611048419,
+                1262.7448916686717,
+                446.66218992843426
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "24,1 %",
+            "uuid": "9336056d-d55f-4a25-ba87-7e7cfcb87c5b",
+            "vertical": false,
+            "translation": "24.1%"
+        },
+        {
+            "bbox": [
+                296.7570530920665,
+                468.17260590264533,
+                403.7661019765663,
+                525.5750746788327
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "República de Corea",
+            "uuid": "15fda035-710b-41a3-bff1-f6638fd33933",
+            "vertical": false,
+            "translation": "Republic of Korea"
+        },
+        {
+            "bbox": [
+                435.7584980348189,
+                468.17260590264533,
+                628.8160604553082,
+                502.3933084422954
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Todas las empresas",
+            "uuid": "365f2c05-bbc8-43bd-a754-a1bcd25247c6",
+            "vertical": false,
+            "translation": "All companies"
+        },
+        {
+            "bbox": [
+                732.5155511268853,
+                465.9648186420228,
+                808.6353900241069,
+                503.4972020726069
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "20,3 %",
+            "uuid": "1eae222b-0aaf-4852-a103-d9edf74a16c6",
+            "vertical": false,
+            "translation": "20.3%"
+        },
+        {
+            "bbox": [
+                847.1213070187792,
+                469.9313177191374,
+                920.2022460203992,
+                499.8004238297426
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "22,7 %",
+            "uuid": "89c7555f-65c9-4422-985a-4aacb5b95411",
+            "vertical": false,
+            "translation": "22.7%"
+        },
+        {
+            "bbox": [
+                952.1108250211067,
+                467.87137936668154,
+                1031.3676180228638,
+                499.8004238297426
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "22,7 %",
+            "uuid": "117fd574-9a4c-476d-a1f1-bf3973bb2d7a",
+            "vertical": false,
+            "translation": "22.7%"
+        },
+        {
+            "bbox": [
+                1074.598596023822,
+                465.8114410142262,
+                1147.679535025442,
+                496.7105163010595
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "24,8 %",
+            "uuid": "10f98521-5fbf-41a6-bd7e-92ecaf099f5d",
+            "vertical": false,
+            "translation": "24.8%"
+        },
+        {
+            "bbox": [
+                1188.1313984392402,
+                468.1556244785555,
+                1262.0448651945135,
+                501.27243338789435
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "24,8 %",
+            "uuid": "1fc91299-49f2-4284-96b9-5907a749dc2f",
+            "vertical": false,
+            "translation": "24.8%"
+        },
+        {
+            "bbox": [
+                295.97932020619913,
+                544.9127079095241,
+                402.8412125371784,
+                577.9767228211919
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Eslovaquia",
+            "uuid": "8b04c7de-2b02-403e-b4fa-3aacf99a027e",
+            "vertical": false,
+            "translation": "Slovakia"
+        },
+        {
+            "bbox": [
+                437.9931508039479,
+                544.9469773458802,
+                625.7045011484969,
+                578.0109922575476
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Todas las empresas",
+            "uuid": "a43123f5-49d0-4284-b807-6bad7b40ea1e",
+            "vertical": false,
+            "translation": "All companies"
+        },
+        {
+            "bbox": [
+                750.4163665709825,
+                545.0687346935638,
+                792.3977017637649,
+                576.5749305185011
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "0 %",
+            "uuid": "47e6eb57-2823-4a58-95c1-43f54e6944b4",
+            "vertical": true,
+            "translation": "0%"
+        },
+        {
+            "bbox": [
+                862.5852465391976,
+                544.4123556138779,
+                904.5665817319799,
+                572.636656040384
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "0 %",
+            "uuid": "be93846f-6c08-419a-bf63-b67676920289",
+            "vertical": false,
+            "translation": "0%"
+        },
+        {
+            "bbox": [
+                978.0339183193489,
+                545.0687346935638,
+                1017.391420062582,
+                574.6057932794424
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "0 %",
+            "uuid": "a8396577-6391-4bb8-b049-556ffe316a03",
+            "vertical": false,
+            "translation": "0%"
+        },
+        {
+            "bbox": [
+                1088.190750277126,
+                543.9937623944587,
+                1130.4208750066655,
+                574.0025058732459
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "0 %",
+            "uuid": "c6dc688a-0d03-484c-bfbc-209962390354",
+            "vertical": false,
+            "translation": "0%"
+        },
+        {
+            "bbox": [
+                1196.4680529942939,
+                545.8033671908579,
+                1245.0089718109482,
+                574.68404669705
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "0 %",
+            "uuid": "22d9f11c-843b-42f3-88fe-eccbf23e6273",
+            "vertical": false,
+            "translation": "0%"
+        },
+        {
+            "bbox": [
+                1306.152619115598,
+                545.0329204703709,
+                1368.3061883490818,
+                575.6655069565265
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "A999",
+            "uuid": "5e8c1e9a-9be2-4ab6-b7e7-e866b4495f58",
+            "vertical": false,
+            "translation": "A999"
+        },
+        {
+            "bbox": [
+                300.5071194522322,
+                614.9595011264163,
+                676.2940264658179,
+                652.3173246408252
+            ],
+            "order": "37",
+            "label": "Footnote",
+            "text": "(*) DO L 261 de 28.9.2002, p. 1.>>.",
+            "uuid": "5e867967-cad6-414e-a50b-0a9361914b5e",
+            "vertical": false,
+            "translation": "(*) OJ L 261, from 28.9.2002, p. 1.>>."
+        },
+        {
+            "bbox": [
+                774.6966550574889,
+                677.8125608473401,
+                881.2574054092755,
+                707.6687077493598
+            ],
+            "order": "38",
+            "label": "Section-header",
+            "text": "Artículo 5",
+            "uuid": "22525a7b-cde6-48dc-b11e-aa3ae0741fab",
+            "vertical": false,
+            "translation": "Article 5"
+        },
+        {
+            "bbox": [
+                250.46960735881495,
+                719.6440097999742,
+                1402.629801209364,
+                790.1917847377882
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Unión Europea.",
+            "uuid": "985a37d1-4514-4dcb-9ff2-eec8d78b77d7",
+            "vertical": false,
+            "translation": "This Regulation shall enter into force the day following its publication in the Official Journal of the European Union."
+        },
+        {
+            "bbox": [
+                252.3249377836951,
+                797.6178663101894,
+                873.8606301185323,
+                840.3178353514975
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "El presente Reglamento expirará el 28 de marzo de 2005.",
+            "uuid": "7f439427-b304-4641-b9f2-e6e8987e90ad",
+            "vertical": false,
+            "translation": "This Regulation will expire on 28 March 2005."
+        },
+        {
+            "bbox": [
+                319.11683307937915,
+                896.0134471445085,
+                1337.6932363385602,
+                960.9916609030207
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.",
+            "uuid": "ec93dd6d-0335-4c00-b16f-53ec14cd397b",
+            "vertical": false,
+            "translation": "This Regulation shall be binding in its entirety and directly applicable in all Member States."
+        },
+        {
+            "bbox": [
+                320.9721635042592,
+                1009.2611911236299,
+                784.804769724287,
+                1050.104639771838
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Hecho en Bruselas, el 6 de mayo de 2003.",
+            "uuid": "e2f5b26f-78b9-4901-bc90-a2f16553c21d",
+            "vertical": false,
+            "translation": "Done in Brussels, 6 May 2003."
+        },
+        {
+            "bbox": [
+                1021.3398530029364,
+                1076.4020221787705,
+                1168.482035215224,
+                1111.9120150913523
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "Por el Consejo",
+            "uuid": "ef9cb7e9-5dab-404b-b0ab-b5e2e34fc095",
+            "vertical": false,
+            "translation": "For the Council"
+        },
+        {
+            "bbox": [
+                1028.2641909893969,
+                1118.8407941962464,
+                1158.0955282355328,
+                1153.4846897207167
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "El Presidente",
+            "uuid": "247de5ce-57ae-4682-aaae-405b88da223d",
+            "vertical": false,
+            "translation": "The President"
+        },
+        {
+            "bbox": [
+                1017.0121417613985,
+                1159.5473714374991,
+                1170.213119711839,
+                1194.1912669619694
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "P. EFTHYMIOU",
+            "uuid": "71d7a3d2-139d-4f9d-ac7e-04f6045fcf8a",
+            "vertical": false,
+            "translation": "P. EFTHYMIOU"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

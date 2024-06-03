@@ -1,0 +1,497 @@
+{
+    "file": "jrc32000D0666.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                114.34694748942799,
+                134.92960861132033,
+                222.89730421803193,
+                172.3843995760953
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 278/32",
+            "uuid": "a29ac5a8-af10-4d53-a7f1-be41bb97de1f",
+            "vertical": false,
+            "translation": "L 278/32"
+        },
+        {
+            "bbox": [
+                312.23520842829896,
+                135.88998786682725,
+                390.0456411275637,
+                170.46364106508116
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "cb91d8c1-d012-401b-b601-61df9c1ba9aa",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                580.2489210590999,
+                134.92960861132033,
+                1072.0877055285266,
+                171.42402032058808
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "ab8023ae-54a9-429c-af32-8472e6c0eb17",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1408.1567643656779,
+                139.73150488885548,
+                1537.8373002598212,
+                164.7013655320388
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "31.10.2000",
+            "uuid": "93538043-9bd4-45a4-8590-023cb1c1211f",
+            "vertical": false,
+            "translation": "2000 年 10 月 31 日"
+        },
+        {
+            "bbox": [
+                775.1236298898227,
+                243.45246448361698,
+                878.8680586051374,
+                268.4223251268003
+            ],
+            "order": "5",
+            "label": "Title",
+            "text": "ANNEX B",
+            "uuid": "f0db2caf-19a7-4b3c-84be-af5a1a37417c",
+            "vertical": false,
+            "translation": "附件 B"
+        },
+        {
+            "bbox": [
+                253.519696626713,
+                303.95635758056113,
+                1399.5113953060682,
+                332.7677352457727
+            ],
+            "order": "7",
+            "label": "Title",
+            "text": "MINIMUM CONDITIONS FOR THE APPROVAL OF QUARANTINE FACILITIES AND CENTRES FOR BIRDS",
+            "uuid": "f91db1c9-cb5d-44cb-82f9-2cea46cf20d4",
+            "vertical": false,
+            "translation": "批准鸟类检疫设施和中心的最低条件"
+        },
+        {
+            "bbox": [
+                263.8628797450023,
+                521.4360805473455,
+                1406.1442821427793,
+                633.7662111916296
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "1. The quarantine facility or centre must be a separate building which is separated from poultry holdings and other bird holdings by a reasonable distance when taking into account the epidemiology of Newcastle disease and avian influenza as regards airborne spread . Entry/exit doors should be lockable with signs indicating: 'QUARANTINE — No admission for unauthorised persons'.",
+            "uuid": "9c859e4a-d9db-4668-bbca-31d6b143710b",
+            "vertical": false,
+            "translation": "1. 考虑到新城疫和禽流感在空气传播方面的流行病学情况，检疫设施或中心必须是一座独立的建筑物，与家禽饲养场和其他鸟类饲养场保持合理的距离。出入口应可上锁，并标明：“隔离——未经许可不得入内”。"
+        },
+        {
+            "bbox": [
+                262.30344507306893,
+                650.9277589289508,
+                983.2515433077317,
+                688.371135810379
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "2. Each quarantine unit of the centre must occupy a separate airspace.",
+            "uuid": "45e4139b-5c5f-4faa-beb2-92965bbed170",
+            "vertical": false,
+            "translation": "2. 该中心的每个检疫单位必须占用单独的空域。"
+        },
+        {
+            "bbox": [
+                265.42443251131425,
+                705.5326835477001,
+                1403.0243537517238,
+                744.5362011325211
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "3. The quarantine facility or centre must be bird, fly and vermin proof and sealable so as to permit fumigation.",
+            "uuid": "eadf5ee6-2981-492e-9187-48c1be70526c",
+            "vertical": false,
+            "translation": "3. 检疫设施或中心必须防鸟、防蝇、防害虫，并可密封，以便进行熏蒸。"
+        },
+        {
+            "bbox": [
+                265.42443251131425,
+                764.8180302766281,
+                1140.8614089391192,
+                797.5809850478774
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "4. The facility or each quarantine unit has to be equipped with handwashing facilities.",
+            "uuid": "979f99cd-8e2a-45d3-a5f8-7439e84f0457",
+            "vertical": false,
+            "translation": "4. 设施内或每个检疫单元必须配备洗手设施。"
+        },
+        {
+            "bbox": [
+                263.8639387921916,
+                817.8628141919844,
+                1253.2169567159497,
+                853.7460503700196
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "5. Entry and exit doors to the facility and to each quarantine unit must be double door systems.",
+            "uuid": "0e6beea8-2f8b-4d56-99d5-8334ee3ec90b",
+            "vertical": false,
+            "translation": "5. 进入设施和每个检疫单元的出入口必须是双门系统。"
+        },
+        {
+            "bbox": [
+                262.30344507306893,
+                869.3474574039479,
+                1261.0194253115628,
+                908.3509749887689
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "6. Hygiene barriers have to be installed at all entrances/exits to the facility and the different units.",
+            "uuid": "a5d95ddf-e168-4b67-8c26-5a0daf9fed32",
+            "vertical": false,
+            "translation": "6. 卫生屏障必须安装在设施及不同单位的所有出入口。"
+        },
+        {
+            "bbox": [
+                262.30344507306893,
+                927.0726634294831,
+                1153.3453586921003,
+                961.3957589041255
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "7. All equipment must be constructed in a way that it can be cleansed and disinfected.",
+            "uuid": "05ce594f-97b8-4b3b-91b3-35705a758d9e",
+            "vertical": false,
+            "translation": "7. 所有设备都必须能够清洗和消毒。"
+        },
+        {
+            "bbox": [
+                263.8639387921916,
+                980.1174473448394,
+                1175.1922707598171,
+                1012.880402116089
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "8. The feed store must be bird and rodent proof and should be protected against insects.",
+            "uuid": "471a6f0c-ccda-4843-b2e2-87e86665091f",
+            "vertical": false,
+            "translation": "8. 饲料库必须防鸟和防啮齿动物，并应保护其免受昆虫侵害。"
+        },
+        {
+            "bbox": [
+                263.8639387921916,
+                1031.602090556803,
+                1117.4540031522795,
+                1067.4853267348383
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "9. A container must be available to store litter and must be bird and rodent proof.",
+            "uuid": "7f3282fc-1fc0-408b-a724-12ae133610ae",
+            "vertical": false,
+            "translation": "9. 必须有可用来存放垃圾的容器，而且必须防鸟和防啮齿动物。"
+        },
+        {
+            "bbox": [
+                254.50097647745574,
+                1090.8874372857308,
+                980.1305558694862,
+                1122.0902513535875
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "10. A refrigerator and/or freezer must be provided for holding carcases.",
+            "uuid": "c3f82db5-d663-4acb-91c8-02e2d2041d79",
+            "vertical": false,
+            "translation": "10. 必须有冰箱和/或冰柜用于存放动物尸体。"
+        },
+        {
+            "bbox": [
+                763.6894783992025,
+                417.281109730393,
+                885.6852417959151,
+                441.2905911180691
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "CHAPTER 1",
+            "uuid": "cfcd40e4-3307-45e2-b2d8-6f03f928daa3",
+            "vertical": false,
+            "translation": "第 1 章"
+        },
+        {
+            "bbox": [
+                477.43170286990835,
+                469.1415895277737,
+                1172.903613887388,
+                502.75486347052043
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Construction and equipment of the quarantine facility or centre",
+            "uuid": "ef5579fe-0286-45a2-86dc-709f965f49a4",
+            "vertical": false,
+            "translation": "检疫设施或中心的建造和设备"
+        },
+        {
+            "bbox": [
+                761.7821188674412,
+                1175.0203423254554,
+                890.5179882784383,
+                1199.9902029686384
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "CHAPTER 2",
+            "uuid": "d15191b8-aa4b-4b51-b925-8613543ca21e",
+            "vertical": false,
+            "translation": "第 2 章"
+        },
+        {
+            "bbox": [
+                688.7664076971682,
+                1227.8412013783432,
+                973.1381789334002,
+                1257.6129582990616
+            ],
+            "order": "21",
+            "label": "Section-header",
+            "text": "A. Management provisions",
+            "uuid": "44ef9de1-e34f-4846-a65c-f03023fa2d93",
+            "vertical": false,
+            "translation": "A. 管理规定"
+        },
+        {
+            "bbox": [
+                264.13018172955094,
+                1285.4639567087663,
+                664.7485216130268,
+                1313.3149551184706
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "1. Quarantine facilities or centres must:",
+            "uuid": "f484a0b1-31eb-4430-88be-5746de399cc7",
+            "vertical": false,
+            "translation": "1. 检疫设施或中心必须："
+        },
+        {
+            "bbox": [
+                288.5251296600831,
+                1314.9256344843154,
+                1193.6065799414314,
+                1350.7185249295237
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "— have an efficient control system so as to ensure adequate surveillance of the animals,",
+            "uuid": "232425bf-49db-44ff-8eed-5c7ec220ff95",
+            "vertical": false,
+            "translation": "–– 拥有有效的控制系统，以确保对动物进行充分的监视，"
+        },
+        {
+            "bbox": [
+                284.54674965884647,
+                1352.7070188431464,
+                998.6659598808332,
+                1388.499909288355
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "— be under the control and responsibility of the official veterinarian,",
+            "uuid": "e1d002a6-4627-4c62-8bf6-e4da0f200b17",
+            "vertical": false,
+            "translation": "–– 由官方兽医控制和负责，"
+        },
+        {
+            "bbox": [
+                290.5143196607014,
+                1392.4768971156002,
+                1402.4715300063576,
+                1477.982135401376
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "— be cleaned and disinfected in accordance with a programme approved by the competent authority after which there shall be an appropriate resting period; the disinfectants used must be approved for the purpose by the competent authority.",
+            "uuid": "a5049fc4-05fe-49cb-a988-02aa68389168",
+            "vertical": false,
+            "translation": "–– 根据主管机构批准的方案进行清洁和消毒，之后应有适当的休息时间；所使用的消毒剂必须经主管机构批准。"
+        },
+        {
+            "bbox": [
+                262.6656596520446,
+                1489.913098883112,
+                1189.628199940195,
+                1531.6714710691886
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "2. An ‘all-in, all-out' policy must be followed in each quarantine facility or quarantine unit.",
+            "uuid": "77212382-2d2d-4447-94e1-5497b73baf95",
+            "vertical": false,
+            "translation": "2. 每个检疫设施或检疫单位都必须遵循“全进、全出”的政策。"
+        },
+        {
+            "bbox": [
+                262.6656596520446,
+                1543.6024345509247,
+                1370.6444899964642,
+                1589.3377945642465
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "3. Precautions should be taken to prevent cross-contamination between incoming and outgoing consignments.",
+            "uuid": "744bd021-cd90-4ad0-bbbc-4c7a78ef8d94",
+            "vertical": true,
+            "translation": "3. 应采取预防措施，防止进出货物之间的交叉污染。"
+        },
+        {
+            "bbox": [
+                264.6548496526629,
+                1597.2917702187372,
+                889.2605098468241,
+                1641.0386363184364
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "4. No unauthorised persons may enter the quarantine facility.",
+            "uuid": "4c514a9a-eba3-4309-8466-2aec64361e7e",
+            "vertical": false,
+            "translation": "4. 未经许可的人员不得进入检疫设施。"
+        },
+        {
+            "bbox": [
+                262.6656596520446,
+                1650.9811058865496,
+                1187.639009939576,
+                1698.7049598134943
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "5. Persons entering the quarantine facility must wear protective clothing including footwear.",
+            "uuid": "f1007eab-e53c-4ab1-b836-4bb58db2376b",
+            "vertical": false,
+            "translation": "5. 进入检疫设施的人员必须穿着防护服，包括鞋子。"
+        },
+        {
+            "bbox": [
+                262.6656596520446,
+                1708.6474293816077,
+                1201.5633399439046,
+                1750.4058015676842
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "6. No contacts of personnel shall take place, which may cause contamination between units.",
+            "uuid": "fc0dce77-51ea-492d-b3a3-0b469d934b10",
+            "vertical": false,
+            "translation": "6. 不得发生人员接触，以免造成单位间污染。"
+        },
+        {
+            "bbox": [
+                262.6656596520446,
+                1760.3482711357979,
+                1022.5362398882534,
+                1802.1066433218743
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "7. Appropriate equipment has to be available for cleaning and disinfection.",
+            "uuid": "dfad2590-6911-4db3-b973-1adb0bc2f998",
+            "vertical": false,
+            "translation": "7. 必须有适当的设备进行清洁和消毒。"
+        },
+        {
+            "bbox": [
+                260.67646965142615,
+                1820.0030885444783,
+                1402.4715300063576,
+                1909.4853146574992
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "8. Cleansing and disinfection of the cages or crates used for the transport must be carried out at the quarantine facility or centre unless they are destroyed. If reused, they have to be made of a material that allows effective cleaning and disinfection. The cages and crates have to be destroyed in such a way so as to avoid spread of disease agents.",
+            "uuid": "b18eb3c7-1812-4585-a02a-11562bdcdfc4",
+            "vertical": false,
+            "translation": "8. 用于运输的笼子或板条箱必须在检疫设施或中心进行清洁和消毒，除非已被销毁。笼子和板条箱必须由能够进行有效清洁和消毒的材料制成方可再次使用。 笼子或板条箱必须以能够避免病原体传播的方式销毁。"
+        },
+        {
+            "bbox": [
+                260.67646965142615,
+                1927.3817598801036,
+                1404.460720006976,
+                1993.0020590296522
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "9. Litter and waste material has to be collected regularly, stored in the litter container and subsequently has to be treated in such a way as to avoid spread of disease-causing agents.",
+            "uuid": "043f3d7a-6383-4e51-a5f5-8c2270093c00",
+            "vertical": false,
+            "translation": "9. 必须定期收集垃圾和废料，并储存在垃圾箱中，然后以避免致病因子传播的方式进行处理。"
+        },
+        {
+            "bbox": [
+                250.73051964833442,
+                2002.9445285977656,
+                1362.6877299939908,
+                2046.6913946974646
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "10. Carcases of dead birds must be examined in an official laboratory designated by the competent authority.",
+            "uuid": "2ecfb487-b906-45f6-bfb7-6a21389ef0b1",
+            "vertical": false,
+            "translation": "10. 鸟类尸体必须在主管机构指定的官方实验室内检查。"
+        },
+        {
+            "bbox": [
+                250.73051964833442,
+                2060.6108520928237,
+                1404.460720006976,
+                2126.231151242372
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "11. The necessary analyses and treatments must be carried out in consultation with and under the control of the official veterinarian.",
+            "uuid": "1ecc79ef-b506-4ea3-997f-e6f5aec6f0fb",
+            "vertical": false,
+            "translation": "11. 必要的分析和治疗必须在与官方兽医协商并在其控制下进行。"
+        },
+        {
+            "bbox": [
+                248.74132964771607,
+                2136.1736208104858,
+                1404.460720006976,
+                2205.77090778728
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "12. The official veterinarian must be informed of diseases and death of birds and/or sentinel chickens during the quarantine period.",
+            "uuid": "a086ccbb-f740-493e-afc0-2ab2e2a1cbd9",
+            "vertical": false,
+            "translation": "12. 在检疫期间，必须告知官方兽医鸟类和/或哨兵鸡的疾病和死亡情况。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

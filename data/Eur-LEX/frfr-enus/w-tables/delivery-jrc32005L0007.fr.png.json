@@ -1,0 +1,1267 @@
+{
+    "file": "jrc32005L0007.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                124.30713846696744,
+                118.16948141850689,
+                215.21832928609288,
+                151.56542906634903
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 27/42",
+            "uuid": "f28164cc-ac3b-4303-9a36-88701e4db846",
+            "vertical": false,
+            "translation": "L 27/42"
+        },
+        {
+            "bbox": [
+                346.9467894525808,
+                118.16948141850689,
+                371.0660849760223,
+                144.14410736682862
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "e176ac01-ebd7-4a4c-b800-2ac0ad3b22c3",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                636.3783357338781,
+                120.02481184338706,
+                1031.5637162333417,
+                155.27608991610907
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "9615d300-0783-4559-b843-bae72bf44df7",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1436.025748857206,
+                120.02481184338706,
+                1545.4902439251325,
+                153.42075949122918
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "29.1.2005",
+            "uuid": "dc62b49a-7eff-40e3-ab4c-5ac429fe5973",
+            "vertical": false,
+            "translation": "29.1.2005"
+        },
+        {
+            "bbox": [
+                797.7920826984478,
+                218.357324362033,
+                879.4266213931727,
+                242.47661988547435
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "921c107d-966a-4561-b210-f4a7f96066ac",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                265.3122507578559,
+                329.67714985483957,
+                916.5332298907748,
+                355.65177580316106
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Les annexes de la directive 2002/70/CE sont modifiées comme suit:",
+            "uuid": "fe6b99b7-40f1-4af9-877c-372a8ec975f4",
+            "vertical": false,
+            "translation": "The Annexes to Directive 2002/70/EC are amended as follows:"
+        },
+        {
+            "bbox": [
+                267.57506948348066,
+                386.98529119015797,
+                729.5523452786283,
+                409.2492562887194
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1) l'annexe I est remplacée par le texte suivant:",
+            "uuid": "2bc6a766-b68a-4f2a-b0dc-7c03875411ed",
+            "vertical": false,
+            "translation": "1) Annex I is replaced by the following text:"
+        },
+        {
+            "bbox": [
+                296.4409920065716,
+                895.908781968009,
+                1146.6502260254194,
+                922.6708159686025
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "L'incertitude de mesure peut être prise en compte de l'une des deux manières suivantes:",
+            "uuid": "de508f21-6048-4605-9f49-c5a5dbbcda8c",
+            "vertical": false,
+            "translation": "Measurement uncertainty can be taken into account in one of two ways:"
+        },
+        {
+            "bbox": [
+                298.4996100066172,
+                926.7880519686936,
+                1410.1533300312608,
+                978.2535019698344
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "en calculant l'incertitude étendue à l'aide d'un coefficient de couverture 2 qui donne un niveau de confiance d'environ 95 %;",
+            "uuid": "01a15313-40ca-44a1-b1e3-f4954e9f5d7f",
+            "vertical": true,
+            "translation": "calculating the extended uncertainty using a coverage factor 2 which gives a confidence level of about 95%;"
+        },
+        {
+            "bbox": [
+                300.55822800666294,
+                976.194883969789,
+                1408.094712031215,
+                1029.7189519709755
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "- en établissant la limite de décision (CCa) conformément aux dispositions de la décision 2002/657/CE de la Commission (***) (point 3.1.2.5 de l'annexe — cas de substances pour lesquelles une limite autorisée est fixée).",
+            "uuid": "59915da4-9ba6-416e-8329-0b487a9a5d02",
+            "vertical": false,
+            "translation": "- by establishing the decision limit (CCa) in accordance with the provisions of Commission Decision 2002/657/EC (***) (point 3.1.2.5 of the Annex - cases of substances for which an authorized limit is set)."
+        },
+        {
+            "bbox": [
+                292.3237560064803,
+                1035.8948059711122,
+                1412.2119480313065,
+                1122.356761973029
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Les règles d'interprétation ici définies sont applicables aux résultats d'analyse des échantillons destinés au contrôle officiel. Elles ne portent pas atteinte au droit des États membres d'appliquer les règles nationales en cas d'analyse à des fins de défense ou d'arbitrage conformément à l'article 18 de la directive 95/53 (****).",
+            "uuid": "3eff9fa6-4526-4a36-88d6-f4728e6d9e37",
+            "vertical": true,
+            "translation": "The rules of interpretation defined here are applicable to the analysis results of samples intended for official control. They do not affect the right of the Member States to apply national rules in the case of analysis for defence or arbitration purposes in accordance with Article 18 of Directive 95/53 (****)."
+        },
+        {
+            "bbox": [
+                292.3237560064803,
+                1159.4118859738505,
+                636.1129620141016,
+                1188.2325379744893
+            ],
+            "order": "17",
+            "label": "Footnote",
+            "text": "(*) Tableau des PCB de type dioxine",
+            "uuid": "11ee810f-4cdd-494a-9f66-736b55a465b9",
+            "vertical": false,
+            "translation": "(*) Table of dioxin-like PCBs"
+        },
+        {
+            "bbox": [
+                348.96984879000235,
+                1208.1277832444284,
+                1406.374728958205,
+                2110.7264898892467
+            ],
+            "order": "18",
+            "label": "Table",
+            "text": "",
+            "uuid": "d6c40a55-453c-48e6-bb45-dd38a14ce334",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                444.6614880098574,
+                1212.9359539750371,
+                541.4165340120023,
+                1241.756605975676
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Congénère",
+            "uuid": "ff651fdd-3bf2-4479-bb5a-3446c69f3113",
+            "vertical": false,
+            "translation": "Congener"
+        },
+        {
+            "bbox": [
+                706.1059740156533,
+                1214.9945719750826,
+                829.6230540183914,
+                1235.580751975539
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Valeur du TEF",
+            "uuid": "eac1cc14-ac37-4c51-92d4-abb6c2bc6825",
+            "vertical": false,
+            "translation": "EFT value"
+        },
+        {
+            "bbox": [
+                961.3746060213122,
+                1214.9945719750826,
+                1051.9537980233201,
+                1237.6393699755847
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Congénère",
+            "uuid": "2bb6eeed-8345-49aa-b18d-9fe439f58f64",
+            "vertical": false,
+            "translation": "Congener"
+        },
+        {
+            "bbox": [
+                1208.4087660267885,
+                1212.9359539750371,
+                1340.160318029709,
+                1239.6979879756302
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Valeur du TEF",
+            "uuid": "532f882e-2aae-4764-bdb7-5f9b9a8b6ed6",
+            "vertical": false,
+            "translation": "EFT value"
+        },
+        {
+            "bbox": [
+                352.02367800780377,
+                1258.225549976041,
+                634.054344014056,
+                1291.1634379767713
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Dibenzo-p-dioxines (\"PCDD\")",
+            "uuid": "3daaecc0-15d8-4f84-a43d-b2b8f6dedaf8",
+            "vertical": false,
+            "translation": "Dibenzo-p-dioxins (\"PCDDs\")"
+        },
+        {
+            "bbox": [
+                868.7367960192585,
+                1264.4014039761778,
+                934.6125720207187,
+                1289.1048199767254
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "OCDF",
+            "uuid": "503ae77a-f930-498e-b9bb-71921cdda42f",
+            "vertical": false,
+            "translation": "OCDF"
+        },
+        {
+            "bbox": [
+                1247.5225080276555,
+                1264.4014039761778,
+                1319.5741380292527,
+                1287.04620197668
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "69f9b2ba-4478-4ff3-9ce4-b029427f7aba",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                358.19953200794066,
+                1303.515145977045,
+                489.9510840108614,
+                1332.3357979776838
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "2,3,7,8-TCDD",
+            "uuid": "9c8aadb5-cbbd-4b31-bb5a-55f299864c70",
+            "vertical": true,
+            "translation": "2,3,7,8-TCDD"
+        },
+        {
+            "bbox": [
+                728.7507720161552,
+                1305.5737639770907,
+                751.3955700166572,
+                1332.3357979776838
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "1acb2b26-cac8-405e-bf0b-c468638e96de",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                870.795414019304,
+                1313.808235977273,
+                1255.7569800278382,
+                1342.628887977912
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "PCB \"de type dioxine\": PCB non-ortho +",
+            "uuid": "08b7e246-9538-4fd6-8406-43f660f6896c",
+            "vertical": true,
+            "translation": "\"Dioxin-like\" PCBs: Non-ortho+ PCBs"
+        },
+        {
+            "bbox": [
+                358.3344907993353,
+                1348.8196679361363,
+                515.8631799913137,
+                1373.0548508887482
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1,2,3,7,8-PeCDD",
+            "uuid": "5cc6746a-dd57-46e7-b152-9e8fe4db9733",
+            "vertical": true,
+            "translation": "1,2,3,7,8-PeCDD"
+        },
+        {
+            "bbox": [
+                732.2487420682071,
+                1345.3574989429057,
+                746.0974180411281,
+                1371.3237663921332
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "14daaac9-5117-4225-ac71-c92abc4619ac",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                869.0044173008037,
+                1340.1642454530606,
+                1049.037204948779,
+                1366.1305129022878
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "PCB mono-ortho",
+            "uuid": "2c82c68f-dc9a-448d-a540-145e2277c483",
+            "vertical": true,
+            "translation": "Mono-ortho PCB"
+        },
+        {
+            "bbox": [
+                356.6034063027202,
+                1397.2900338413604,
+                540.0983629439257,
+                1416.3319633041272
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1,2,3,4,7,8-HxCDD",
+            "uuid": "14f4f244-7d5a-46a9-9277-32cd0595fa7a",
+            "vertical": true,
+            "translation": "1,2,3,4,7,8-HxCDD"
+        },
+        {
+            "bbox": [
+                733.9798265648221,
+                1393.82786484813,
+                765.1393475038948,
+                1421.5252167939723
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "bb38da49-a147-4f9d-9846-cf72abd99cb9",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                869.0044173008037,
+                1386.9035268616692,
+                1024.8020219961668,
+                1412.8697943108966
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "PCB non - ortho",
+            "uuid": "0b64983b-a095-4d84-94f0-a10063779b6e",
+            "vertical": false,
+            "translation": "Non-ortho PCB"
+        },
+        {
+            "bbox": [
+                354.87232180610505,
+                1438.8360617601238,
+                534.9051094540803,
+                1466.5334137059663
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "1,2,3,6,7,8-HxCDD",
+            "uuid": "83be598b-02b2-4c3c-bfd0-048e96b2b5b7",
+            "vertical": true,
+            "translation": "1,2,3,6,7,8-HxCDD"
+        },
+        {
+            "bbox": [
+                733.9798265648221,
+                1442.2982307533543,
+                765.1393475038948,
+                1463.0712447127357
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "2383d89d-9819-4928-85a7-67ace70c4467",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                872.466586294034,
+                1437.1049772635085,
+                945.17213515187,
+                1459.6090757195054
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "PCB 77",
+            "uuid": "1a459aff-4860-4c48-823e-4731da998824",
+            "vertical": false,
+            "translation": "PCB 77"
+        },
+        {
+            "bbox": [
+                1246.3808375629058,
+                1438.8360617601238,
+                1315.6242174275114,
+                1457.8779912228906
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "4a5ccfea-dd3a-4fc0-9ad8-4a51412b465b",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                355.34032453760847,
+                1482.3417040877114,
+                539.7331415949621,
+                1505.3908062198807
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "1,2,3,7,8,9-HxCDD",
+            "uuid": "0f594389-d3a1-446c-968b-9c678a02e976",
+            "vertical": true,
+            "translation": "1,2,3,7,8,9-HxCDD"
+        },
+        {
+            "bbox": [
+                733.7297512073862,
+                1484.2624625987255,
+                764.4618873836118,
+                1505.3908062198807
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "f62942c7-bc48-4ae8-be2e-966763ac702b",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                1484.2624625987255,
+                941.171670396909,
+                1511.153081752923
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "PCB 81",
+            "uuid": "ce340bf4-3de7-493e-9194-a3fd85c0a386",
+            "vertical": false,
+            "translation": "PCB 81"
+        },
+        {
+            "bbox": [
+                1244.6515151371368,
+                1486.1832211097396,
+                1319.5610970666867,
+                1509.232323241909
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "bcfcb863-ffe2-4d61-b3a2-fd10b0e8cbd3",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                353.4195660265944,
+                1528.4399083520498,
+                560.8614852161172,
+                1559.1720445282751
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "1,2,3,4,6,7,8-HpCDD",
+            "uuid": "e286ae22-5efc-499f-9bb5-ead0ec032ca0",
+            "vertical": false,
+            "translation": "1,2,3,4,6,7,8-HpCDD"
+        },
+        {
+            "bbox": [
+                731.8089926963721,
+                1524.5983913300215,
+                777.9071969607105,
+                1553.4097689952332
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "0,01",
+            "uuid": "9df70b28-611b-45cd-b127-e83356c6c079",
+            "vertical": false,
+            "translation": "0.01"
+        },
+        {
+            "bbox": [
+                873.9451225114157,
+                1534.202183885092,
+                964.2207725290783,
+                1561.0928030392897
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "PCB 126",
+            "uuid": "9a4c323b-4d0f-454f-b0cb-8a1e5e3f3903",
+            "vertical": false,
+            "translation": "PCB 126"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                1532.281425374078,
+                1281.1459268464046,
+                1563.0135615503034
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "90395493-6ed8-4ca6-ac2e-359ae0297c35",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                355.34032453760847,
+                1568.775837083346,
+                420.6461139120879,
+                1597.5872147485575
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "OCDD",
+            "uuid": "6cb374e5-9fb1-46d9-a9e2-feb618482aa0",
+            "vertical": false,
+            "translation": "OCDD"
+        },
+        {
+            "bbox": [
+                737.5712682294144,
+                1574.5381126163882,
+                802.8770576038938,
+                1597.5872147485575
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "712fdd1c-22ea-4155-925c-1a4f4a0230b9",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                873.9451225114157,
+                1578.3796296384164,
+                958.4584969960359,
+                1609.1117658146418
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "PCB 169",
+            "uuid": "eee8e710-002b-4641-ac23-3889c73547d8",
+            "vertical": false,
+            "translation": "PCB 169"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                1582.2211466604447,
+                1296.5119949345176,
+                1611.0325243256561
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "0,01",
+            "uuid": "f8faa9b9-d0f3-4840-a46c-d4163160afe4",
+            "vertical": false,
+            "translation": "0.01"
+        },
+        {
+            "bbox": [
+                357.2610830486226,
+                1614.8740413476844,
+                589.6728628813287,
+                1649.4476945459382
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Dibenzofuranes (\"PCDF\")",
+            "uuid": "c7542522-774f-4c85-87bc-05b0aeb86e4a",
+            "vertical": true,
+            "translation": "Dibenzofurans (\"PCDF\")"
+        },
+        {
+            "bbox": [
+                870.1036054893874,
+                1626.398592413769,
+                1046.8133885026843,
+                1655.2099700789802
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "PCB mono-ortho",
+            "uuid": "50eb5d2e-a96d-45c7-a562-049066c2a11a",
+            "vertical": false,
+            "translation": "Mono-ortho PCB"
+        },
+        {
+            "bbox": [
+                357.2610830486226,
+                1659.0514871010084,
+                487.87266179758143,
+                1685.9421062552062
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "2,3,7,8-TCDF",
+            "uuid": "af5009ce-04c5-44a9-aa26-8354ea40cf7a",
+            "vertical": true,
+            "translation": "2,3,7,8-TCDF"
+        },
+        {
+            "bbox": [
+                735.6505097184003,
+                1662.8930041230367,
+                768.3034044056401,
+                1684.0213477441919
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "cf4ccf43-e4a7-4ec2-b17c-60a66640ae04",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                870.1036054893874,
+                1678.2590722111497,
+                964.2207725290783,
+                1705.1496913653468
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "PCB 105",
+            "uuid": "160e32d4-b71e-4fc4-8bbe-c65a3ab4876a",
+            "vertical": false,
+            "translation": "PCB 105"
+        },
+        {
+            "bbox": [
+                1248.493032159165,
+                1678.2590722111497,
+                1315.7195800446584,
+                1701.3081743433186
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "abb6f78a-5954-483b-8ddb-31471f369fe8",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                353.4195660265944,
+                1705.1496913653468,
+                516.684039462793,
+                1737.8025860525865
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "1,2,3,7,8-PeCDF",
+            "uuid": "72cdc260-86f8-4ec3-a503-fab875c4ffb6",
+            "vertical": true,
+            "translation": "1,2,3,7,8-PeCDF"
+        },
+        {
+            "bbox": [
+                733.7297512073862,
+                1707.0704498763612,
+                783.6694724937528,
+                1726.278034986502
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "0,05",
+            "uuid": "180b1503-ad05-4792-913e-4811f688077e",
+            "vertical": false,
+            "translation": "0.05"
+        },
+        {
+            "bbox": [
+                868.1828469783732,
+                1730.1195520085303,
+                962.3000140180641,
+                1753.1686541406996
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "PCB 114",
+            "uuid": "f89a52f2-b3bf-4f51-be32-64d0d6c7813b",
+            "vertical": false,
+            "translation": "PCB 114"
+        },
+        {
+            "bbox": [
+                1248.493032159165,
+                1728.1987934975164,
+                1321.481855577701,
+                1753.1686541406996
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "0,0005",
+            "uuid": "9624c97f-84f4-4e1e-8767-571e2a526310",
+            "vertical": false,
+            "translation": "0.0005"
+        },
+        {
+            "bbox": [
+                357.2610830486226,
+                1751.2478956296852,
+                512.8425224407647,
+                1774.2969977618548
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "2,3,4,7,8-PeCDF",
+            "uuid": "5bdbbb2f-99d1-4e08-8c95-dc10da219017",
+            "vertical": true,
+            "translation": "2,3,4,7,8-PeCDF"
+        },
+        {
+            "bbox": [
+                733.7297512073862,
+                1751.2478956296852,
+                768.3034044056401,
+                1772.3762392508406
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "0,5",
+            "uuid": "fc4e83fa-4e0c-4415-9ead-ca7a72d8cfb7",
+            "vertical": false,
+            "translation": "0.5"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                1772.3762392508406,
+                954.6169799740078,
+                1803.1083754270662
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "PCB 118",
+            "uuid": "5ac3ffe0-61c9-48ac-a4ce-28676e6d54ec",
+            "vertical": false,
+            "translation": "PCB 118"
+        },
+        {
+            "bbox": [
+                1248.493032159165,
+                1778.138514783883,
+                1319.5610970666867,
+                1799.266858405038
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "fc341a1e-5288-4d2d-9f93-1eb10a9d6cb4",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                361.1026000706508,
+                1799.266858405038,
+                537.812383083948,
+                1824.2367190482214
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "1,2,3,4,7,8-HxCDF",
+            "uuid": "bfbd9508-7068-4f76-afb7-af4ad60fcda5",
+            "vertical": true,
+            "translation": "1,2,3,4,7,8-HxCDF"
+        },
+        {
+            "bbox": [
+                731.8089926963721,
+                1795.4253413830097,
+                766.382645894626,
+                1822.3159605372073
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "59f4097d-70e7-432f-9572-3d4a5563a4ed",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                359.18184155963667,
+                1837.6820286253198,
+                539.7331415949621,
+                1874.176440334588
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "1,2,3,6,7,8-HxCDF",
+            "uuid": "7b7ea3d3-a120-4c80-823e-4376125ff9cd",
+            "vertical": true,
+            "translation": "1,2,3,6,7,8-HxCDF"
+        },
+        {
+            "bbox": [
+                735.6505097184003,
+                1839.602787136334,
+                770.224162916654,
+                1868.4141648015457
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "0b266e8f-20eb-4435-bc3d-4aac259bed9f",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                873.9451225114157,
+                1822.3159605372073,
+                960.3792555070501,
+                1854.9688552244468
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "PCB 123",
+            "uuid": "88bb320c-1a11-4493-9509-77c1604f67b8",
+            "vertical": false,
+            "translation": "PCB 123"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                1824.2367190482214,
+                1319.5610970666867,
+                1847.2858211803903
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "9045b879-60fa-4945-bc2a-408721f72031",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                357.2610830486226,
+                1883.7802328896582,
+                533.9708660619199,
+                1916.4331275768982
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "1,2,3,7,8,9-HxCDF",
+            "uuid": "f6d85a46-f858-4545-98b8-1c589c95716c",
+            "vertical": false,
+            "translation": "1,2,3,7,8,9-HxCDF"
+        },
+        {
+            "bbox": [
+                731.8089926963721,
+                1885.7009914006724,
+                764.4618873836118,
+                1906.8293350218275
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "eb0951e0-5e05-447a-90b0-f2ba04b6bd4e",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                1870.3349233125598,
+                962.3000140180641,
+                1895.304783955743
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "PCB 156",
+            "uuid": "aefb368a-6be9-44b1-8870-3a4fc9bef549",
+            "vertical": false,
+            "translation": "PCB 156"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                1872.2556818235735,
+                1323.402614088715,
+                1897.225542466757
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "0,0005",
+            "uuid": "5088d28d-35e5-423c-81cd-49a5bffcdfed",
+            "vertical": false,
+            "translation": "0.0005"
+        },
+        {
+            "bbox": [
+                361.1026000706508,
+                1931.7991956650108,
+                530.1293490398916,
+                1958.6898148192083
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "2,3,4,6,7,8-HxCDF",
+            "uuid": "929451cc-7a0c-4070-b791-492a83d5a6cf",
+            "vertical": true,
+            "translation": "2,3,4,6,7,8-HxCDF"
+        },
+        {
+            "bbox": [
+                731.8089926963721,
+                1933.7199541760249,
+                764.4618873836118,
+                1954.84829779718
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "0,1",
+            "uuid": "97b3d969-595d-441f-88a2-2035cd2d84de",
+            "vertical": false,
+            "translation": "0.1"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                1922.1954031099401,
+                960.3792555070501,
+                1945.2445052421097
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "PCB 157",
+            "uuid": "46c12cc8-6715-4a26-adef-59cfdd5a2dbb",
+            "vertical": false,
+            "translation": "PCB 157"
+        },
+        {
+            "bbox": [
+                1246.572273648151,
+                1924.1161616209545,
+                1325.3233725997288,
+                1951.0067807751518
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "0,0005",
+            "uuid": "a025dbd8-5d2c-4fbe-b16e-92d1474b7afd",
+            "vertical": false,
+            "translation": "0.0005"
+        },
+        {
+            "bbox": [
+                357.2610830486226,
+                1975.976641418335,
+                558.9407267051031,
+                2000.9465020615185
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "1,2,3,4,6,7,8-HpCDF",
+            "uuid": "cea5ff1e-09c9-438c-9361-d20a5a345c36",
+            "vertical": true,
+            "translation": "1,2,3,4,6,7,8-HpCDF"
+        },
+        {
+            "bbox": [
+                731.8089926963721,
+                1972.1351243963068,
+                777.9071969607105,
+                1997.1049850394902
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "0,01",
+            "uuid": "b22daaac-6049-4b8a-a12d-7ebcaffcefaf",
+            "vertical": false,
+            "translation": "0.01"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                1966.3728488632646,
+                958.4584969960359,
+                1997.1049850394902
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "PCB 167",
+            "uuid": "2e210629-5b4a-4e9b-bb0f-cd7fd082ce95",
+            "vertical": false,
+            "translation": "PCB 167"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                1970.2143658852929,
+                1333.0064066437853,
+                1995.1842265284763
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "0,00001",
+            "uuid": "27576d07-85d8-4226-b0eb-ab74cf734422",
+            "vertical": false,
+            "translation": "0.00001"
+        },
+        {
+            "bbox": [
+                353.4195660265944,
+                2023.9956041936875,
+                549.3369341500326,
+                2045.1239478148427
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "1,2,3,4,7,8,9-HPCDF",
+            "uuid": "07c3fe77-8a12-4965-8cd9-af75c6a2f4c0",
+            "vertical": true,
+            "translation": "1,2,3,4,7,8,9-HPCDF"
+        },
+        {
+            "bbox": [
+                729.888234185358,
+                2016.3125701496313,
+                781.7487139827388,
+                2047.0447063258569
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "0,01",
+            "uuid": "9342d272-3852-41ab-b9b5-95e058b81d84",
+            "vertical": false,
+            "translation": "0.01"
+        },
+        {
+            "bbox": [
+                872.0243640004014,
+                2014.391811638617,
+                954.6169799740078,
+                2041.2824307928147
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "PCB 189",
+            "uuid": "89755352-0f22-4c01-9c1d-13ae3b9e1aa0",
+            "vertical": true,
+            "translation": "PCB 189"
+        },
+        {
+            "bbox": [
+                1250.4137906701792,
+                2020.1540871716593,
+                1319.5610970666867,
+                2045.1239478148427
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "0,0001",
+            "uuid": "28f923bc-0925-43d8-b07f-4a2268fad0e2",
+            "vertical": false,
+            "translation": "0.0001"
+        },
+        {
+            "bbox": [
+                355.34032453760847,
+                2060.4900159029557,
+                1400.232954529279,
+                2108.5089786783083
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Abréviations utilisées: \"T\" = tétra; “Pe\" = penta; \"Hx\" = hexa; \"Hp\" = hepta; “O\" = octa; “CDD\" = chlorodibenzodioxine; \"CDF\" = chlorodibenzofurane; \"CB\" = chlorobiphényle.",
+            "uuid": "4576d5cf-1e14-4962-baa1-2d58d985f329",
+            "vertical": false,
+            "translation": "Abbreviations used: \"T\" = tetra; “Pe\" = penta; \"Hx\" = hexa; \"Hp\" = hepta; “O\" = octa; “CDD\" = chlorodibenzodioxin; \"CDF\" = chlorodibenzofuran; \"CB\" = chlorobiphenyl."
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                2120.0335297443926,
+                628.0880331016107,
+                2141.1618733655478
+            ],
+            "order": "86",
+            "label": "Footnote",
+            "text": "(**) JO L 140 du 30.5.2002, p. 10.",
+            "uuid": "e4b113b5-5048-4a33-a580-8ac4e94a6a3a",
+            "vertical": false,
+            "translation": "(**) OJ L 140, 30.5.2002, p. 10."
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                2141.1618733655478,
+                593.5143799033568,
+                2162.2902169867025
+            ],
+            "order": "87",
+            "label": "Footnote",
+            "text": "(***) JO 221 du 17.8.2002, p. 8.",
+            "uuid": "81e6e7e0-67ad-4997-bd10-426cb7d4025f",
+            "vertical": false,
+            "translation": "(***) OJ 221, 17.8.2002, p. 8."
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                2164.210975497717,
+                633.8503086346531,
+                2185.339319118872
+            ],
+            "order": "88",
+            "label": "Footnote",
+            "text": "(****) JO L 265 du 8.11.1995, p. 17.»",
+            "uuid": "bf5c5682-8e25-4234-b11c-3c661da50d4b",
+            "vertical": false,
+            "translation": "(****) OJ L 265, 8.11.1995, p. 17.\""
+        },
+        {
+            "bbox": [
+                296.52865444628577,
+                453.4750108536478,
+                661.0656680775865,
+                472.0140156364574
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "«1. Objet et domaine d'application",
+            "uuid": "790165ca-caed-47af-a641-0f98d23a265c",
+            "vertical": true,
+            "translation": "“1. Object and scope"
+        },
+        {
+            "bbox": [
+                296.52865444628577,
+                490.83146145764044,
+                1412.79453799524,
+                674.1616198654249
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Les échantillons destinés au contrôle officiel des teneurs en dioxines (PCDD/PCDF) des aliments des animaux ainsi qu'à la détermination des teneurs en PCB de type dioxine (*) des aliments des animaux sont à prélever conformément aux dispositions de la directive 76/371/CEE. Les exigences quantitatives concernant les contrôles des substances ou produits répartis uniformément dans les aliments pour animaux prévues au point 5.A. de l'annexe à la directive 76/371/CEE doivent être appliquées . Les échantillons globaux ainsi obtenus sont considérés comme représentatifs des lots ou sous - lots sur lesquels ils sont prélevés . Le respect des teneurs maximales fixées dans la directive 2002 / 32 / CE du Parlement européen et du Conseil (**) est établi sur la base des teneurs déterminées dans les échantillons de laboratoire.",
+            "uuid": "e01e4f61-3778-4544-96fb-d2f66682a1d2",
+            "vertical": true,
+            "translation": "Samples for the official control of the levels of dioxins (PCDD/PCDF) in feedingstuffs and for the determination of the levels of dioxin-like PCBs (*) in feedingstuffs shall be taken in accordance with the provisions of Directive 76/371/EEC. The quantitative requirements for controls of substances or products uniformly distributed in feedingstuffs laid down in point 5.A. of the Annex to Directive 76/371/EEC must be applied. The aggregate samples thus obtained shall be considered representative of the lots or sub-lots from which they are taken. Compliance with the maximum levels laid down in Directive 2002/32/ EC of the European Parliament and of the Council (**) shall be established on the basis of the levels determined in the laboratory samples."
+        },
+        {
+            "bbox": [
+                292.40959214536707,
+                711.239629431044,
+                842.3044093180068,
+                740.0780813154145
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "2. Conformité du lot ou sous-lot aux spécifications",
+            "uuid": "cd5ded4d-7220-47c1-8112-d46319b4d77d",
+            "vertical": true,
+            "translation": "2. Conformity of the lot or sublot with specifications"
+        },
+        {
+            "bbox": [
+                292.40959214536707,
+                748.3176389966632,
+                1408.6754756943214,
+                803.9346533450921
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Le lot est accepté si le résultat d'une analyse unique n'excède pas la teneur maximale correspondante fixée dans la directive 2002/32/CE compte tenu de l'incertitude de mesure .",
+            "uuid": "88b2ccc2-1266-4d14-a651-f77a4af3b5da",
+            "vertical": true,
+            "translation": "The batch is accepted if the result of a single analysis does not exceed the corresponding maximum level laid down in Directive 2002/32/EC, taking into account measurement uncertainty."
+        },
+        {
+            "bbox": [
+                292.40959214536707,
+                810.1143216060285,
+                1410.7350068447804,
+                886.3302301575792
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Le lot n'est pas conforme à la teneur maximale fixée dans la directive 2002/32/CE si le résultat analytique confirmé par une double analyse et calculé sous forme de moyenne d'au moins deux déterminations distinctes dépasse quasi certainement la teneur maximale compte tenu de l'incertitude de mesure.",
+            "uuid": "451a1d8e-5272-4fdd-ab83-9bb45fc77b00",
+            "vertical": false,
+            "translation": "The batch does not comply with the maximum level laid down in Directive 2002/32/EC if the analytical result confirmed by a double analysis and calculated as the mean of at least two separate determinations almost certainly exceeds the maximum level, taking into account the measurement uncertainty."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

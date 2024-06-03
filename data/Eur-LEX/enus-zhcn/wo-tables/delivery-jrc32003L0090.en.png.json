@@ -1,0 +1,819 @@
+{
+    "file": "jrc32003L0090.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.08856768611922,
+                139.49382680944206,
+                226.3056350235918,
+                161.8101853994141
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "8.10.2003",
+            "uuid": "aa360316-83bc-4ca7-9100-0a3d8d6ac1bc",
+            "vertical": false,
+            "translation": "2003 年 10 月 8 日"
+        },
+        {
+            "bbox": [
+                333.8828064550962,
+                142.4474625051736,
+                361.105078494166,
+                160.8256401675036
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "e396320f-af91-49ad-bd43-9b935f2f48e6",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.4043480070902,
+                138.25554601326738,
+                1032.525464648581,
+                166.1116543583316
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "d6b7b03b-6bbe-4c3f-96b7-4024c6e8e1db",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                781.6177368164062,
+                247.28123150320417,
+                873.2704467773436,
+                264.85170783092366
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX I",
+            "uuid": "71149b44-f24f-44f5-ad19-80c903602c04",
+            "vertical": false,
+            "translation": "附件一"
+        },
+        {
+            "bbox": [
+                1452.5948039013738,
+                138.86336438306228,
+                1536.1115482735268,
+                166.59511510158669
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 254/9",
+            "uuid": "a11170fa-9e25-4d7e-8f8e-fe39a84fd928",
+            "vertical": false,
+            "translation": "L 254/9"
+        },
+        {
+            "bbox": [
+                432.2919889970658,
+                307.55928293946135,
+                1220.807419571113,
+                327.98052216227984
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "LIST OF SPECIES WHICH SHALL COMPLY WITH CPVO TEST GUIDELINES",
+            "uuid": "e4589a0d-a71c-4f03-8ea2-381fbc7ca1ba",
+            "vertical": false,
+            "translation": "应符合 CPVO 测试指南的物种清单"
+        },
+        {
+            "bbox": [
+                258.826663240428,
+                368.6268640262556,
+                639.3433006099073,
+                394.2616284280802
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "Sunflower, protocol TP-8 of 31.10.2002",
+            "uuid": "3418ab49-158e-4acd-9199-dddc5c4000fb",
+            "vertical": false,
+            "translation": "向日葵，2002 年 10 月 31 日第 TP-8 号议定书"
+        },
+        {
+            "bbox": [
+                257.6964158026969,
+                406.34226555120404,
+                602.4218843106906,
+                432.73099361190583
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Barley, protocol TP-19 of 27.3.2002",
+            "uuid": "18bbfa86-9cb0-4da2-8adb-10c01bc505c8",
+            "vertical": false,
+            "translation": "大麦，2002 年 3 月 27 日第 TP-19 号议定书"
+        },
+        {
+            "bbox": [
+                257.6964158026969,
+                445.1713939833797,
+                592.2496573711103,
+                470.42917655576554
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Rye, protocol TP-58 of 31.10.2002",
+            "uuid": "391b3fe4-665d-484c-80ee-9b9a5e45e430",
+            "vertical": false,
+            "translation": "黑麦，2002 年 10 月 31 日第 TP-58 号议定书"
+        },
+        {
+            "bbox": [
+                258.07316494860726,
+                483.6235405861168,
+                625.7803313571337,
+                508.5043413290643
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Wheat, protocol TP-03/2 of 27.3.2002",
+            "uuid": "1c3c9264-7226-4d24-b5f6-829fbc0c71d8",
+            "vertical": false,
+            "translation": "小麦，2002 年 3 月 27 日第 TP-03/2 号议定书"
+        },
+        {
+            "bbox": [
+                862.2770456838556,
+                369.44297775234077,
+                1291.4822119211112,
+                393.3610586695167
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Durum wheat, protocol TP-120 of 27.3.2002",
+            "uuid": "11d3f8c8-abb0-40c1-be47-076ab256cb06",
+            "vertical": false,
+            "translation": "硬质小麦，2002 年 3 月 27 日第 TP-120 号议定书"
+        },
+        {
+            "bbox": [
+                862.6285650665234,
+                425.7540317200075,
+                1215.2025058822212,
+                451.4307950575637
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Maize, protocol TP-02 of 15.11.2001",
+            "uuid": "6e1c391c-1148-4043-a228-010597006fb4",
+            "vertical": false,
+            "translation": "玉米，2001 年 11 月 15 日第 TP-02 号议定书"
+        },
+        {
+            "bbox": [
+                860.8709681531849,
+                482.3836056562618,
+                1208.8751569942028,
+                508.41210547789433
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Potato, protocol TP-23 of 27.3.2002",
+            "uuid": "de80f0e6-261a-40d7-8681-990589568e0f",
+            "vertical": false,
+            "translation": "马铃薯，2002 年 3 月 27 日第 TP-23 号议定书"
+        },
+        {
+            "bbox": [
+                258.4499140945176,
+                532.2190613709342,
+                1032.292659794429,
+                558.6077894316362
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "The text of these protocols can be found on the CPVO website (www.cpvo.eu.int).",
+            "uuid": "999094e5-ddc4-43ec-a627-7a514f1fff1d",
+            "vertical": false,
+            "translation": "这些议定书的文本可在 CPVO 的网站上找到 (www.cpvo.eu.int)。"
+        },
+        {
+            "bbox": [
+                778.2945969724395,
+                715.3519262373392,
+                875.5404241963453,
+                733.0737404117287
+            ],
+            "order": "15",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "1e275c71-83d9-4e05-a679-0ad8c8e2f07f",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                432.8625976565915,
+                777.364746845539,
+                1224.2904814317028,
+                796.7586246367711
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "LIST OF SPECIES WHICH SHALL COMPLY WITH UPOV TEST GUIDELINES",
+            "uuid": "052f4bb5-76c1-4db4-8c6d-f2add3bc4fbe",
+            "vertical": false,
+            "translation": "应符合 UPOV 测试指南的物种清单"
+        },
+        {
+            "bbox": [
+                255.1079334210153,
+                836.1499850731891,
+                697.1404071487018,
+                863.0688913214498
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "Fodder beet, guideline TG/150/3 of 4.11.1994",
+            "uuid": "c44d280b-b4f6-4cec-8fa2-2115f6675d76",
+            "vertical": false,
+            "translation": "饲料甜菜，1994 年 11 月 4 日第 TG/150/3 号指南"
+        },
+        {
+            "bbox": [
+                256.49943123967535,
+                874.2919703849504,
+                692.9659136927215,
+                900.2826384867199
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Velvet bent, guideline TG/30/6 of 12.10.1990",
+            "uuid": "361adfae-f684-4d0f-a58b-87d2ec1e103b",
+            "vertical": false,
+            "translation": "绒鳞禾，1990 年 10 月 12 日第 TG/30/6 号指南"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                911.8856153178665,
+                659.5699660448795,
+                938.3404024928817
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "Red top, guideline TG/30/6 of 12.10.1990",
+            "uuid": "0ceb36db-5af2-4334-886c-7fa37fffc1bd",
+            "vertical": false,
+            "translation": "红毛花顶草，1990 年 10 月 12 日第 TG/30/6 号指南"
+        },
+        {
+            "bbox": [
+                258.3547616645555,
+                950.4074983972744,
+                718.476707034823,
+                976.3981664990436
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "Creeping bent, guideline TG/30/6 of 12.10.1990",
+            "uuid": "cf0eda32-9a57-487b-98b1-b1e58d27784d",
+            "vertical": false,
+            "translation": "爬行禾，1990 年 10 月 12 日第 TG/30/6 号指南"
+        },
+        {
+            "bbox": [
+                257.4270964521154,
+                988.9293814766822,
+                686.9360898118612,
+                1013.9918114319596
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Brown top, guideline TG/30/6 of 12.10.1990",
+            "uuid": "a4220b23-e281-4e16-801a-fa75ea626725",
+            "vertical": false,
+            "translation": "褐顶小米，1990 年 10 月 12 日第 TG/30/6 号指南"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1291.5350172329938,
+                713.8383809726228,
+                1317.525685334763
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "Italian ryegrass, guideline TG/4/7 of 12.10.1990",
+            "uuid": "564d28c9-7a96-4fc4-b5e1-fed9d542bd1e",
+            "vertical": false,
+            "translation": "意大利黑麦草，1990 年 10 月 12 日第 TG/4/7 号指南"
+        },
+        {
+            "bbox": [
+                256.96326384589537,
+                1253.477253226832,
+                685.544591993201,
+                1279.0038022553551
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "Red fescue , guideline TG/67/4 of 12.11.1980",
+            "uuid": "67d1f6ee-c0c4-4d01-947f-f5c94dd1d7e8",
+            "vertical": false,
+            "translation": "红羊茅，1980 年 11 月 12 日第 TG/67/4 号指南"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1026.5230264095983,
+                690.1829180554014,
+                1052.5136945113675
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "Rescue grass, guideline TG/180/3 of 4.4.2001",
+            "uuid": "6c2af5de-db42-43f1-9ae2-1be9694f6925",
+            "vertical": false,
+            "translation": "救援草，2001 年 4 月 4 日第 TG/180/3 号指南"
+        },
+        {
+            "bbox": [
+                258.81859427077546,
+                1064.463338935162,
+                755.1194829262053,
+                1090.4540070369312
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "Alaska brome-grass, guideline TG/180/3 of 4.4.2001",
+            "uuid": "d5dc895c-ce14-4db2-b389-7c447c1854b0",
+            "vertical": false,
+            "translation": "阿拉斯加黑草，2001 年 4 月 4 日第 TG/180/3 号指南"
+        },
+        {
+            "bbox": [
+                258.3547616645555,
+                1102.98522201457,
+                666.9912877444,
+                1127.5835328966011
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Cocksfoot, guideline TG/31/8 of 17.4.2002",
+            "uuid": "78c0ee6c-86f7-42b8-a814-edbe863955d2",
+            "vertical": false,
+            "translation": "鸡爪草，2002 年 4 月 17 日第 TG/31/8 号指南"
+        },
+        {
+            "bbox": [
+                257.4270964521154,
+                1141.0429860207316,
+                672.5572790190403,
+                1167.0336541225008
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Tall fescue, guideline TG/39/8 of 17.4.2002",
+            "uuid": "b1dd8559-68fb-463e-b1bb-620e0003f6e4",
+            "vertical": false,
+            "translation": "高羊茅，2002 年 4 月 17 日第 TG/39/8 号指南"
+        },
+        {
+            "bbox": [
+                256.96326384589537,
+                1179.1007500268936,
+                718.476707034823,
+                1203.699060908925
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "Sheep's fescue, guideline TG/67/4 of 12.11.1980",
+            "uuid": "2a3ec713-4af0-4937-9210-fa56a20bce84",
+            "vertical": false,
+            "translation": "羊茅，1980 年 11 月 12 日第 TG/67/4 号指南"
+        },
+        {
+            "bbox": [
+                256.0010446461002,
+                1216.4759197600363,
+                715.6350026567584,
+                1241.718112536031
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "Meadow fescue, guideline TG/39/8 of 17.4.2002",
+            "uuid": "e9e59a8b-abc2-4689-aa9f-b60d2184096f",
+            "vertical": false,
+            "translation": "草甸羊茅，2002 年 4 月 17 日第 TG/39/8 号指南"
+        },
+        {
+            "bbox": [
+                257.0660477473492,
+                1545.1964183285713,
+                682.0472916663678,
+                1570.3126459542852
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "Blue lupin, guideline TG/66/3 of 14.11.1979",
+            "uuid": "2c4ded67-8d41-40bf-ac97-ee2f2c90730f",
+            "vertical": false,
+            "translation": "蓝羽扇豆，1979 年 11 月 14 日第 TG/66/3 号指南"
+        },
+        {
+            "bbox": [
+                256.2005054990417,
+                1329.1102530659655,
+                741.7697067995903,
+                1355.092557506359
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "Perennial ryegrass, guideline TG/4/7 of 12.10.1990",
+            "uuid": "e61e4a77-10dc-4feb-96ac-29e9a73b06bd",
+            "vertical": false,
+            "translation": "多年生黑麦草，1990 年 10 月 12 日第 TG/4/7 号指南"
+        },
+        {
+            "bbox": [
+                258.3643611198106,
+                1366.2018775129777,
+                720.1311505919009,
+                1393.4832971753908
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "Hybrid ryegrass, guideline TG/4/7 of 12.10.1990",
+            "uuid": "e11860f6-0145-44f4-a546-2092b534b970",
+            "vertical": false,
+            "translation": "杂交黑麦草，1990 年 10 月 12 日第 TG/4/7 号指南"
+        },
+        {
+            "bbox": [
+                257.49881887150303,
+                1405.6083725809078,
+                654.7827108446792,
+                1431.5906770213012
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "Timothy, guideline TG/34/6 of 7.11.1984",
+            "uuid": "949ba26b-6ae7-429e-a26d-09c7ef9c86f9",
+            "vertical": false,
+            "translation": "唐梅草，1984 年 11 月 7 日第 TG/34/6 号指南"
+        },
+        {
+            "bbox": [
+                257.9315899956568,
+                1507.2138993764222,
+                696.7615098875965,
+                1533.7877411535155
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "White lupin, guideline TG/66/3 of 14.11.1979",
+            "uuid": "cf852a50-caa8-4a26-b578-d04ccea87ec0",
+            "vertical": false,
+            "translation": "白羽扇豆，1979 年 11 月 14 日第 TG/66/3 号指南"
+        },
+        {
+            "bbox": [
+                258.4475947805657,
+                1443.735132002955,
+                793.7096184885393,
+                1493.6187570864215
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "Smooth-stalked meadowgrass/Kentucky bluegrass, guide line TG/33/6 of 12.10.1990",
+            "uuid": "c7f7c1a8-a72e-4ddb-87a2-9228f178fed3",
+            "vertical": false,
+            "translation": "光滑茎草地早熟禾/肯塔基蓝草，1990 年 10 月 12 日第 TG/33/6 号指南"
+        },
+        {
+            "bbox": [
+                257.49881887150303,
+                1583.447101608084,
+                705.8497034948259,
+                1609.4294060484776
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "Yellow lupin, guideline TG/66/3 of 14.11.1979",
+            "uuid": "e5a74d84-0135-47a8-9e7b-ace9c7c269c4",
+            "vertical": false,
+            "translation": "黄羽扇豆， 1979 年 11 月 14 日第 TG/66/3 号指南"
+        },
+        {
+            "bbox": [
+                258.3643611198106,
+                1622.4205582686743,
+                648.7239151065261,
+                1646.6707090797083
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Lucerne, guideline TG/6/4 of 21.10.1988",
+            "uuid": "3798e45d-8745-401b-9e08-44be7218d00c",
+            "vertical": false,
+            "translation": "苜蓿，1988 年 10 月 21 日第 TG/6/4 号指南"
+        },
+        {
+            "bbox": [
+                861.2733298144233,
+                835.6366122857054,
+                1396.5353535223967,
+                886.1766008571124
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Field pea, guideline TG/7/9 of 4.11.1994 (and correction 18.10.1996)",
+            "uuid": "680735aa-670e-4be5-b5fd-efb6bfa71c8b",
+            "vertical": false,
+            "translation": "田园豌豆，1994 年 11 月 4 日第 TG/7/9 号指南（以及 1996 年 10 月 18 日更正）"
+        },
+        {
+            "bbox": [
+                862.9456215626506,
+                1094.935636757129,
+                1303.5066259512053,
+                1119.6188259755031
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Fodder radish, guideline TG/178/3 of 4.4.2001",
+            "uuid": "7b15b12d-efb3-40f3-a296-53065451fc80",
+            "vertical": false,
+            "translation": "饲料萝卜，2001 年 4 月 4 日第 TG/178/3 号指南"
+        },
+        {
+            "bbox": [
+                860.7817659418818,
+                902.2335454908775,
+                1250.7085488044436,
+                925.1845810798918
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "Red clover, guideline TG/5/7 of 4.4.2001",
+            "uuid": "0d4150fe-9f26-4b24-88a8-fc8e37906c8d",
+            "vertical": false,
+            "translation": "红三叶草，2001 年 4 月 4 日第 TG/5/7 号指南"
+        },
+        {
+            "bbox": [
+                861.2145370660354,
+                940.7886643193636,
+                1284.4646964884387,
+                965.4718535377376
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "White clover, guideline TG/38/7 of 9.4.2003",
+            "uuid": "c5482e55-862a-4c74-97de-bc7045de36db",
+            "vertical": false,
+            "translation": "白色三叶草，2003 年 4 月 9 日第 TG/38/7 号指南"
+        },
+        {
+            "bbox": [
+                861.647308190189,
+                979.3290825726141,
+                1260.2295135358265,
+                1004.0122717909879
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Field bean, guideline TG/8/6 of 17.4.2002",
+            "uuid": "bcdc224a-43eb-4212-a920-a3831827c204",
+            "vertical": false,
+            "translation": "田菜豆，2002 年 4 月 17 日第 TG/8/6 号指南"
+        },
+        {
+            "bbox": [
+                862.0800793143429,
+                1019.168616047884,
+                1334.666146890278,
+                1041.6866132295584
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Common vetch, guideline TG/32/6 of 21.10.1988",
+            "uuid": "273323dc-e8c8-41f6-8df2-c82b7d7774c2",
+            "vertical": false,
+            "translation": "普通野生苜蓿，1988 年 10 月 21 日第 TG/32/6 号指南"
+        },
+        {
+            "bbox": [
+                861.2145370660354,
+                1055.9768806717748,
+                1223.4439679827547,
+                1081.0931082974885
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "Swede, guideline TG/89/6 of 4.4.2001",
+            "uuid": "c72b3cde-46e7-4f64-99a0-eebdf9249ace",
+            "vertical": false,
+            "translation": "甘蓝萝卜，2001 年 4 月 4 日第 TG/89/6 号指南"
+        },
+        {
+            "bbox": [
+                861.9292881768104,
+                1210.1851910788314,
+                1397.847270247171,
+                1258.7560891864175
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "Swede rape, guideline TG/36/6 of 18.10.1996 (and correction 17.4.2002)",
+            "uuid": "ad01581a-cc3f-490e-ae79-5aaca842b6c8",
+            "vertical": false,
+            "translation": "甘蓝型油菜，1996 年 10 月 18 日第 TG/36/6 号指南（以及 2002 年 4 月 17 日更正）"
+        },
+        {
+            "bbox": [
+                861.567006879272,
+                1312.2729912591565,
+                1227.6097757926184,
+                1338.7232502130687
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "Cotton, guideline TG/88/6 of 4.4.2001",
+            "uuid": "948517a1-30a9-47ae-a2df-0d92cb742a28",
+            "vertical": false,
+            "translation": "棉花，2001 年 4 月 4 日第 TG/88/6 号指南"
+        },
+        {
+            "bbox": [
+                862.0150396441599,
+                1351.7242249531273,
+                1304.223378588435,
+                1377.7261744332448
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "Flax/Linseed, guideline TG/57/6 of 20.10.1995",
+            "uuid": "a2d0a310-92ae-4f4c-b87d-fe74465b0ce6",
+            "vertical": false,
+            "translation": "亚麻/亚麻籽， 1995 年 10 月 20 日第 TG/57/6 号指南"
+        },
+        {
+            "bbox": [
+                862.9111051739353,
+                1132.949201741107,
+                1363.363703553627,
+                1156.7096038522484
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "Groundnut/Peanut, guideline TG/93/3 of 13.11.1985",
+            "uuid": "72e6e614-73dd-4705-b42c-ceb927f4aa48",
+            "vertical": false,
+            "translation": "落花生/花生，1985 年 11 月 13 日第 TG/93/3 号指南"
+        },
+        {
+            "bbox": [
+                861.567006879272,
+                1172.39711492819,
+                1301.9832147639959,
+                1196.6058265131269
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "Turnip rape, guideline TG/185/3 of 17.4.2002",
+            "uuid": "69a585c3-dfd1-48db-972d-35e9754f1a90",
+            "vertical": false,
+            "translation": "芜菁型油菜，2002 年 4 月 17 日第 TG/185/3 号指南"
+        },
+        {
+            "bbox": [
+                862.0150396441599,
+                1273.715056005888,
+                1290.3343628769128,
+                1300.6136244335955
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "Safflower, guideline TG/134/3 of 12.10.1990",
+            "uuid": "0fd1be60-0b32-49a7-b102-41070345ddc3",
+            "vertical": false,
+            "translation": "番红花，1990 年 10 月 12 日第 TG/134/3 号指南"
+        },
+        {
+            "bbox": [
+                862.0150396441599,
+                1582.9556187316684,
+                1275.1012488707272,
+                1606.7160208428102
+            ],
+            "order": "56",
+            "label": "Text",
+            "text": "Sorghum, guideline TG/122/3 of 6.10.1989",
+            "uuid": "407aa7c6-8e5c-44bf-8762-7ac2b36d1c67",
+            "vertical": false,
+            "translation": "高粱， 1989 年 10 月 6 日第 TG/122/3 号指南"
+        },
+        {
+            "bbox": [
+                861.1189741143842,
+                1623.3034713732295,
+                1265.692560808083,
+                1647.063873484371
+            ],
+            "order": "57",
+            "label": "Text",
+            "text": "Triticale, guideline TG/121/3 of 6.10.1989",
+            "uuid": "1b3d8573-91b8-43a7-bf24-c9244c6bc8af",
+            "vertical": false,
+            "translation": "小黑麦，1989 年 10 月 6 日第 TG/121/3 号指南"
+        },
+        {
+            "bbox": [
+                862.4630724090476,
+                1389.285926052175,
+                1323.9368202434991,
+                1414.839566058497
+            ],
+            "order": "51",
+            "label": "Text",
+            "text": "Opium poppy, guideline TG/166/3 of 24.3.1999",
+            "uuid": "799d6580-2d36-4d8d-9f60-0f439ce28109",
+            "vertical": false,
+            "translation": "罂粟，1999 年 3 月 24 日第 TG/166/3 号指南"
+        },
+        {
+            "bbox": [
+                861.1189741143842,
+                1428.2235469702262,
+                1315.4241977106303,
+                1452.8805680289581
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "White mustard, guideline TG/179/3 of 4.4.2001",
+            "uuid": "d069a72f-0b1b-4c1d-858b-0a7a1e265d90",
+            "vertical": false,
+            "translation": "白芥末，2001 年 4 月 4 日第 TG/179/3 号指南"
+        },
+        {
+            "bbox": [
+                861.1189741143842,
+                1467.226471190402,
+                1260.764200394317,
+                1492.331801722929
+            ],
+            "order": "53",
+            "label": "Text",
+            "text": "Soya bean, guideline TG/80/6 of 1.4.1998",
+            "uuid": "8d4ad4d4-4a93-4145-bd64-5644a7cd81a4",
+            "vertical": false,
+            "translation": "大豆， 1998 年 4 月 1日第 TG/80/6 号指南"
+        },
+        {
+            "bbox": [
+                862.4630724090476,
+                1504.8844669891926,
+                1233.8822345010478,
+                1531.334725943105
+            ],
+            "order": "54",
+            "label": "Text",
+            "text": "Oats, guideline TG/20/10 of 1.10.1994",
+            "uuid": "7497d99f-696d-4a0b-a942-ae0f1183ec74",
+            "vertical": false,
+            "translation": "燕麦，1994 年 10 月 1 日第 TG/20/10 号指南"
+        },
+        {
+            "bbox": [
+                862.0150396441599,
+                1545.2323196307536,
+                1230.2979723819453,
+                1569.8893406894856
+            ],
+            "order": "55",
+            "label": "Text",
+            "text": "Rice  guideline TG/16/4 of 13.11.1985",
+            "uuid": "d5e22c63-a57c-41c6-82e6-9176393995b4",
+            "vertical": false,
+            "translation": "大米，1985 年 11 月 13 日第 TG/16/4 号指南"
+        },
+        {
+            "bbox": [
+                259.4126413185305,
+                1665.5307769164242,
+                1013.8823913313249,
+                1691.3521605779074
+            ],
+            "order": "58",
+            "label": "Text",
+            "text": "The text of these guidelines can be found on the UPOV website (www.upov.int).",
+            "uuid": "c14be13b-f5c0-49b1-874d-8acf38613c74",
+            "vertical": false,
+            "translation": "这些指南的文本可在 UPOV 网站上找到 (www.upov.int)。"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

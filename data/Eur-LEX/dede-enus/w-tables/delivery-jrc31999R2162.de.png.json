@@ -1,0 +1,735 @@
+{
+    "file": "jrc31999R2162.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                166.18411167505408,
+                270.34564919116906,
+                1546.095395710783,
+                976.8561617051048
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "Italien Griechenland Spanien Portugal Frankreich Deutschland Belgien Österreich 35 % II III (Flue-cured) (Light air-cured) (Dark air-cured) 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 35 % 40 % 40 % 40 % 40 % 40 % 40 % IV (Fire - cured) 32 % 32 % V (Sun-cured) 45 % 45 % VI Basmas 30 % Andere VII Katerini 30 % 30 % VIII K. Kulak 30 %\"",
+            "uuid": "bbe243de-cd9b-4cac-bd5c-230c972c414f",
+            "vertical": false,
+            "translation": "Italy Greece Spain Portugal France Germany Belgium Austria 35% II III (flue-cured) (light air-cured) (dark air-cured) 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 40% 40% 40% 40% 40% 40% IV (fire - cured) 32% 32% V (sun-cured) 45% 45% VI Basmas 30% Other VII Katerini 30% 30% VIII K. Kulak 30%\""
+        },
+        {
+            "bbox": [
+                118.57811471264341,
+                138.78791432918638,
+                259.661153461695,
+                167.345819263163
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "13. 10. 1999",
+            "uuid": "9c84e5ea-95c8-44ff-830d-8db60f8d2043",
+            "vertical": false,
+            "translation": "13.10.1999"
+        },
+        {
+            "bbox": [
+                336.6942236989073,
+                141.36428165401168,
+                366.98812772477726,
+                163.86444917775108
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "bd8bf84e-6db7-45ef-96a2-4ce842a7a445",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                592.02855763124,
+                140.49889059540664,
+                1060.2857598596875,
+                169.056795529383
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "66d61233-6602-420f-a021-1ea3bae881dd",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1435.9301697804751,
+                140.49889059540664,
+                1536.3328231233586,
+                166.46062235356692
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 265/17",
+            "uuid": "9af8e5fb-d125-4c4e-a885-cf5f2b753da4",
+            "vertical": false,
+            "translation": "L 265/17"
+        },
+        {
+            "bbox": [
+                712.3386336196951,
+                214.05713057686157,
+                996.235791347848,
+                243.48042656944375
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "2001 und folgende Ernten",
+            "uuid": "d59e4fd0-a9de-459b-a7ec-90542482cd4c",
+            "vertical": false,
+            "translation": "2001 and following harvests"
+        },
+        {
+            "bbox": [
+                347.08070507920564,
+                310.11553808205593,
+                446.6178183070641,
+                357.7120463053503
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "( Flue - cured )",
+            "uuid": "a0d7653a-ea6c-419f-833d-6bf9a62f29d5",
+            "vertical": false,
+            "translation": "(flue - cured)"
+        },
+        {
+            "bbox": [
+                482.97050313810814,
+                310.11553808205593,
+                613.6670605068614,
+                359.44282842256115
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "II ( Light air - cured )",
+            "uuid": "c537ad27-d83e-4cd0-b7fa-2b6002cfb8bd",
+            "vertical": false,
+            "translation": "II (light air - cured)"
+        },
+        {
+            "bbox": [
+                634.4400232674582,
+                311.84632019926676,
+                766.0021207512361,
+                359.44282842256115
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "III ( Dark air - cured )",
+            "uuid": "0f559890-4ae4-41d7-9333-e1c15231c817",
+            "vertical": false,
+            "translation": "III (dark air - cured)"
+        },
+        {
+            "bbox": [
+                799.7581852372056,
+                309.2501470234504,
+                901.8919188101388,
+                361.1736105397717
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "IV ( Fire - cured )",
+            "uuid": "75fab9a8-69f7-4824-b0cf-a667aaf35986",
+            "vertical": false,
+            "translation": "IV (fire - cured)"
+        },
+        {
+            "bbox": [
+                945.1689245613815,
+                311.84632019926676,
+                1057.6891395146129,
+                361.1736105397717
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "V ( Sun - cured )",
+            "uuid": "68406145-ef3b-4eb8-87b7-dba82cc33079",
+            "vertical": false,
+            "translation": "V (sun - cured)"
+        },
+        {
+            "bbox": [
+                1273.208628155802,
+                282.42302420668454,
+                1338.9896768976912,
+                306.6539738476345
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Andere",
+            "uuid": "e4fc0c6f-c04a-4d26-a068-aa97512d42d5",
+            "vertical": false,
+            "translation": "Other"
+        },
+        {
+            "bbox": [
+                1126.0668086015764,
+                332.6157056057953,
+                1189.251236998391,
+                382.80838700490557
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "VI Basmas",
+            "uuid": "3dee864b-3720-48af-b7d3-7f2af2ff67bf",
+            "vertical": false,
+            "translation": "VI Basmas"
+        },
+        {
+            "bbox": [
+                1273.208628155802,
+                336.07726984021673,
+                1340.720757127741,
+                381.9429959463003
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "VII Katerini",
+            "uuid": "ad99bb6b-f204-4a26-85a0-0103ec03aaa8",
+            "vertical": false,
+            "translation": "VII Katerini"
+        },
+        {
+            "bbox": [
+                1417.7538273649534,
+                336.07726984021673,
+                1495.65243771719,
+                381.07760488769475
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "VIII K. Kulak",
+            "uuid": "dc184624-3ff7-4545-b5c9-32370f7ed760",
+            "vertical": false,
+            "translation": "VIII K. Kulak"
+        },
+        {
+            "bbox": [
+                171.37606172915963,
+                421.75098464214636,
+                230.23278955084996,
+                444.25115216588574
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Italien",
+            "uuid": "32f4332b-2580-4110-9765-667e5ffe6952",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                375.6435288750258,
+                420.8855935835413,
+                425.84485554646744,
+                443.3857611072805
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "d28f24af-9142-4dd8-8cc0-0109bfc45b02",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                525.3819687743262,
+                420.0202025249358,
+                575.5832954457678,
+                445.1165432244913
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "dae20b15-5c66-4570-b446-45aa578225f5",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                673.3893284435765,
+                418.28942040772523,
+                726.1872754600928,
+                445.98193428309685
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "806e968d-7077-4327-bebb-a0f49cd0cd5a",
+            "vertical": false,
+            "translation": "40%"
+        },
+        {
+            "bbox": [
+                826.589928802976,
+                420.8855935835413,
+                879.3878758194926,
+                445.1165432244913
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "32 %",
+            "uuid": "43d770b9-1999-47c6-8539-5a61b30f3aa5",
+            "vertical": false,
+            "translation": "32%"
+        },
+        {
+            "bbox": [
+                978.9249890473508,
+                420.8855935835413,
+                1030.8573959488424,
+                442.5203700486749
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "45 %",
+            "uuid": "0ccdef0c-cae3-431b-a418-3543747a34cb",
+            "vertical": false,
+            "translation": "45%"
+        },
+        {
+            "bbox": [
+                1282.7295694210757,
+                420.0202025249358,
+                1334.6619763225672,
+                442.5203700486749
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "30 %",
+            "uuid": "93de828b-21f5-4004-b066-d727a95d1959",
+            "vertical": false,
+            "translation": "30%"
+        },
+        {
+            "bbox": [
+                978.0594489323263,
+                492.7130514477857,
+                1030.8573959488424,
+                515.2132189715248
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "45 %",
+            "uuid": "ce1e1170-f7f4-4acb-bac0-a14c90b37792",
+            "vertical": false,
+            "translation": "45%"
+        },
+        {
+            "bbox": [
+                1134.722209751825,
+                490.98226933057487,
+                1182.3269160781924,
+                516.9440010887357
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "30 %",
+            "uuid": "f8695ce6-26c4-4119-9da7-c06cbb014d83",
+            "vertical": false,
+            "translation": "30%"
+        },
+        {
+            "bbox": [
+                1283.5951095361004,
+                489.2514872133643,
+                1333.796436207542,
+                517.8093921473412
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "30 %",
+            "uuid": "ee6b9c4e-0d0b-485f-8760-788f85e69b6f",
+            "vertical": false,
+            "translation": "30%"
+        },
+        {
+            "bbox": [
+                1431.602469205351,
+                489.2514872133643,
+                1490.4591970270415,
+                518.6747832059463
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "30 %\"",
+            "uuid": "aa7f685a-cb9b-423e-8bd4-cf0b27c4cafb",
+            "vertical": false,
+            "translation": "30%\""
+        },
+        {
+            "bbox": [
+                373.9124486449762,
+                492.7130514477857,
+                425.84485554646744,
+                517.8093921473412
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "3cbc056e-58e8-43dc-9a3a-af350e33bd8c",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                525.3819687743262,
+                491.8476603891802,
+                577.3143756758175,
+                516.9440010887357
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "7852497f-e4ed-40c9-b1dd-179d83bb2d57",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                525.3819687743262,
+                562.8097271948193,
+                577.3143756758175,
+                587.9060678943748
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "4af80639-47b8-45b5-8144-01fb86d3f9b5",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                676.851488903676,
+                566.2712914292406,
+                732.2460562652668,
+                587.9060678943748
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "735727c4-e542-463e-ab14-d76b0deb78a9",
+            "vertical": false,
+            "translation": "40%"
+        },
+        {
+            "bbox": [
+                824.8588485729265,
+                561.9443361362142,
+                884.5811165096417,
+                590.5022410701906
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "32 %",
+            "uuid": "d1d74726-a594-4afe-aeb4-c88cbeffdd2f",
+            "vertical": false,
+            "translation": "32%"
+        },
+        {
+            "bbox": [
+                374.77798876000094,
+                566.2712914292406,
+                425.84485554646744,
+                587.9060678943748
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "5241661f-4dcb-477e-9d5b-0b723ce63f7f",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                171.37606172915963,
+                492.7130514477857,
+                292.55167783263954,
+                516.9440010887357
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Griechenland",
+            "uuid": "195f746f-d870-4a0f-8dbc-bdcc87a8b163",
+            "vertical": false,
+            "translation": "Greece"
+        },
+        {
+            "bbox": [
+                172.24160184418457,
+                565.4059003706351,
+                245.81251162129723,
+                590.5022410701906
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Spanien",
+            "uuid": "8236fac7-f927-4355-b1fa-6ec440a35854",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                172.24160184418457,
+                638.098749293485,
+                253.602372656521,
+                664.0604810516461
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Portugal",
+            "uuid": "9d73d7ca-334d-4ee0-8dfa-2f6c119dedd8",
+            "vertical": false,
+            "translation": "Portugal"
+        },
+        {
+            "bbox": [
+                170.51052161413472,
+                706.464642923308,
+                270.0476348419932,
+                734.1571567986794
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Frankreich",
+            "uuid": "863b65b0-81f7-4324-9098-d0c8ad76f51c",
+            "vertical": false,
+            "translation": "France"
+        },
+        {
+            "bbox": [
+                373.9124486449761,
+                634.6371850590637,
+                424.1137753164179,
+                661.4643078758297
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "3218b035-6bfc-4800-8adf-3dd68b561a52",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                523.6508885442763,
+                633.7717940004584,
+                579.0454559058671,
+                662.329698934435
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "f832d4b6-2ef8-458b-9518-341d83a61719",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                373.0469085299512,
+                703.8684697474921,
+                426.71039566149244,
+                732.426374681469
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "07e87857-3f66-404c-b45f-2d49e9aa3315",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                523.6508885442763,
+                709.0608160991244,
+                577.3143756758174,
+                732.426374681469
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "cf60b2f3-f6b1-40d4-b58e-73de06492cb8",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                677.7170290187009,
+                707.3300339819135,
+                728.7838958051675,
+                732.426374681469
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "94f3bb19-422c-42a1-b213-e2b6fb3264eb",
+            "vertical": false,
+            "translation": "40%"
+        },
+        {
+            "bbox": [
+                170.5115626561005,
+                777.4886975068567,
+                288.225018299481,
+                804.3158203236231
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Deutschland",
+            "uuid": "8556c1ec-2148-48f9-a2ab-8e4f83ac79e7",
+            "vertical": false,
+            "translation": "Germany"
+        },
+        {
+            "bbox": [
+                373.91348968694183,
+                780.0848706826731,
+                426.7114367034581,
+                806.0466024408337
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "c9fd3388-0ea6-4833-b9f3-6c9163b85644",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                521.9208493561923,
+                780.9502617412784,
+                575.5843364877335,
+                801.7196471478068
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "6cf4d5bd-fec5-48ac-8454-3f0892f8a68d",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                674.2559096005671,
+                775.7579153896464,
+                727.9193967321082,
+                804.3158203236231
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "0ae7e60f-4851-47fc-b106-b7f0caa8bae8",
+            "vertical": false,
+            "translation": "40%"
+        },
+        {
+            "bbox": [
+                171.37710277112535,
+                851.0469374883122,
+                240.62031197311387,
+                879.6048424222886
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Belgien",
+            "uuid": "fdc8ef13-5625-4ad8-b7b8-0b020728f8a8",
+            "vertical": false,
+            "translation": "Belgium"
+        },
+        {
+            "bbox": [
+                521.0553092411675,
+                851.0469374883122,
+                578.1809568328081,
+                874.4124960706566
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "67a3ab12-b945-4836-aeb6-b44e815c1394",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                677.7180700606666,
+                851.9123285469175,
+                727.0538566170833,
+                876.1432781878675
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "b6d03f9a-ef06-4a87-80f3-19d6bcd00188",
+            "vertical": false,
+            "translation": "40%"
+        },
+        {
+            "bbox": [
+                170.5115626561005,
+                917.6820490009244,
+                271.77975611400876,
+                947.1053449935063
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Österreich",
+            "uuid": "b2d39e77-f3c0-4723-b031-e59e99ee68f7",
+            "vertical": false,
+            "translation": "Austria"
+        },
+        {
+            "bbox": [
+                373.91348968694183,
+                921.1436132353458,
+                424.11481635838345,
+                948.8361271107171
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "9336a013-cd93-4482-8b6b-2f740501067e",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                523.6519295862421,
+                922.8743953525566,
+                577.3154167177831,
+                946.239953934901
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "35 %",
+            "uuid": "e2d4d089-7a48-446d-ab18-ec2b3d4daac6",
+            "vertical": false,
+            "translation": "35%"
+        },
+        {
+            "bbox": [
+                674.2559096005671,
+                923.7397864111618,
+                731.3815571922077,
+                947.9707360521116
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "40 %",
+            "uuid": "8ec9fbbc-9f01-4e0a-b568-95a49b392150",
+            "vertical": false,
+            "translation": "40%"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

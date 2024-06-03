@@ -1,0 +1,903 @@
+{
+    "file": "jrc21998A0421_01.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                2227.6345986670076,
+                78.79229889677923,
+                2259.1206000615944,
+                196.93772672604237
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 118/24",
+            "uuid": "9c3e0316-bc4a-4caa-ad22-5fff614fad56",
+            "vertical": true,
+            "translation": "L 118/24"
+        },
+        {
+            "bbox": [
+                2232.8822655661056,
+                315.56768471684734,
+                2256.4967666120456,
+                347.07313213798443
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "5860ced6-1d65-4f59-8610-29fd65eb631e",
+            "vertical": true,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                2217.139264868812,
+                551.377251218257,
+                2256.4967666120456,
+                1092.2207652811064
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "f06baa31-537f-431b-bf8d-de837d2d4fc0",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2232.8822655661056,
+                1482.868915350151,
+                2256.4967666120456,
+                1566.8834418065157
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "21.4.98",
+            "uuid": "2da135a5-ac0b-4591-86ab-c6af02e2d39c",
+            "vertical": true,
+            "translation": "21.4.98"
+        },
+        {
+            "bbox": [
+                187.5643345755377,
+                68.0116299801824,
+                2177.742006058371,
+                966.9905843821176
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "849f3157-f420-4cf5-bb2e-97d94594ec50",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                508.323690730621,
+                104.63890572507603,
+                1274.153461633991,
+                133.08245772899218
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Exportations de la Communauté européenne vers les États- nis d'Amérique",
+            "uuid": "32036ca6-a40a-46c8-a1f4-3a4e1c23c51f",
+            "vertical": true,
+            "translation": "Exports from the European Community to the United States of America"
+        },
+        {
+            "bbox": [
+                1379.4968580682971,
+                106.65594965765986,
+                2116.9006331084415,
+                135.099501661576
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Exportations des États-Unis d'Amérique vers la Communauté européenne",
+            "uuid": "35e2a1b9-a164-40a5-9d2f-ee143f12c899",
+            "vertical": true,
+            "translation": "Exports from the United States of America to the European Community"
+        },
+        {
+            "bbox": [
+                197.30985363885947,
+                136.77265177945372,
+                289.2763108434126,
+                158.52360331186011
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Produit",
+            "uuid": "b7af5a07-db2a-46a2-b3c4-f7c9365398a7",
+            "vertical": false,
+            "translation": "Product"
+        },
+        {
+            "bbox": [
+                197.30985363885947,
+                166.889353901247,
+                284.2599586322552,
+                193.65975578728617
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Espèce",
+            "uuid": "7428b6f0-f996-4029-8cfc-46dfe4b5cdc4",
+            "vertical": false,
+            "translation": "Species"
+        },
+        {
+            "bbox": [
+                193.96561883142112,
+                198.67920614091838,
+                396.29182468143813,
+                238.8348089699765
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Santé des animaux/santé publique",
+            "uuid": "acf53496-563d-4128-8c5a-83ef1c6302ac",
+            "vertical": true,
+            "translation": "Animal health/public health"
+        },
+        {
+            "bbox": [
+                469.8649904450806,
+                176.92825460851182,
+                698.9450747546039,
+                200.35235625879574
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Conditions commerciales",
+            "uuid": "9ac320a0-a5a7-455e-bf2f-36d1531d8138",
+            "vertical": false,
+            "translation": "Commercial conditions"
+        },
+        {
+            "bbox": [
+                488.2582818859912,
+                238.8348089699765,
+                563.503565053353,
+                282.3367120347896
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Normes CE",
+            "uuid": "d9e2942e-a8fc-478a-8701-65936fa83a24",
+            "vertical": false,
+            "translation": "EC standards"
+        },
+        {
+            "bbox": [
+                610.3228523574891,
+                235.48850873422163,
+                683.8960181211315,
+                278.9904117990348
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Normes EU",
+            "uuid": "ef7a0dcf-f3b9-4254-be03-7349e829a7f7",
+            "vertical": false,
+            "translation": "EU standards"
+        },
+        {
+            "bbox": [
+                712.3220139843571,
+                186.96715531577644,
+                774.1903579219655,
+                260.5857605023831
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Équivalence (cat.)",
+            "uuid": "c99d12fc-515a-4bc4-833a-1da44fccf68e",
+            "vertical": true,
+            "translation": "Equivalence (cat.)"
+        },
+        {
+            "bbox": [
+                827.6981148409784,
+                203.69865649455062,
+                1006.6146770389271,
+                228.7959082627119
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Conditions spéciales",
+            "uuid": "0fd824c8-7fa5-4aa5-bdd3-236b561618f3",
+            "vertical": false,
+            "translation": "Special conditions"
+        },
+        {
+            "bbox": [
+                1150.4167737587738,
+                207.04495673030547,
+                1223.9899395224163,
+                230.4690583805896
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Actions",
+            "uuid": "13e0ec73-32c9-4bc3-940f-2e8311301046",
+            "vertical": false,
+            "translation": "Actions"
+        },
+        {
+            "bbox": [
+                1337.6939229753184,
+                171.9088042548794,
+                1555.0691854588076,
+                203.69865649455062
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Conditions commerciales",
+            "uuid": "0cac8116-802e-448b-85a4-c7973c90ff6d",
+            "vertical": false,
+            "translation": "Commercial conditions"
+        },
+        {
+            "bbox": [
+                1344.3823925901952,
+                233.81535861634427,
+                1414.6113235463993,
+                277.31726168115705
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Normes EU",
+            "uuid": "569ba687-8bab-4c1b-928e-15b601853578",
+            "vertical": false,
+            "translation": "EU standards"
+        },
+        {
+            "bbox": [
+                1471.4633152728504,
+                232.14220849846657,
+                1540.0201288253354,
+                282.3367120347896
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Normes CE",
+            "uuid": "de8b118c-a477-4983-9df0-f05b14a6bcdd",
+            "vertical": false,
+            "translation": "EC standards"
+        },
+        {
+            "bbox": [
+                1575.1345943034376,
+                180.27455484426667,
+                1631.9865860298887,
+                257.23946026662804
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Équivalence (cat.)",
+            "uuid": "aee7c76d-3ea1-4f84-a310-52fc9e1f5a03",
+            "vertical": true,
+            "translation": "Equivalence (cat.)"
+        },
+        {
+            "bbox": [
+                1687.1664603526203,
+                202.0255063766731,
+                1864.4109051468502,
+                228.7959082627119
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Conditions spéciales",
+            "uuid": "bf3980ae-dc8d-4341-97af-c0107fc20b0a",
+            "vertical": false,
+            "translation": "Special conditions"
+        },
+        {
+            "bbox": [
+                2011.557236674135,
+                208.71810684818283,
+                2081.786167630339,
+                227.12275814483453
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Actions",
+            "uuid": "7890bfca-6856-4db3-86c8-2073c3c3402b",
+            "vertical": false,
+            "translation": "Actions"
+        },
+        {
+            "bbox": [
+                193.96561883142118,
+                320.8191647459702,
+                672.1911962950976,
+                349.2627167498866
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "6. Viande fraîche - Santé publique (suite)",
+            "uuid": "3842cec9-12b4-4c1b-92e3-1a1855e1dcc7",
+            "vertical": true,
+            "translation": "6. Fresh meat - Public health (continued)"
+        },
+        {
+            "bbox": [
+                193.96561883142118,
+                382.7257191074353,
+                326.06289372523383,
+                402.80352052196434
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Ruminants (³)",
+            "uuid": "ed9c5955-60ec-4e6b-bba5-ffaa0f0bbd6a",
+            "vertical": true,
+            "translation": "Ruminants (³)"
+        },
+        {
+            "bbox": [
+                193.96561883142118,
+                407.65154032532246,
+                277.57148901737855,
+                427.72934173985146
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Équidés",
+            "uuid": "3dd0c5cd-06ac-4adb-b65a-4dee210abf8e",
+            "vertical": false,
+            "translation": "Equidae"
+        },
+        {
+            "bbox": [
+                193.96561883142118,
+                432.74879209348387,
+                264.1945497876254,
+                457.84604386164517
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Porcins",
+            "uuid": "6a8f523f-3c7d-4b42-8072-5f8110cd213d",
+            "vertical": false,
+            "translation": "Pigs"
+        },
+        {
+            "bbox": [
+                192.29350142770204,
+                461.1923440973998,
+                254.1618453653105,
+                482.9432956298066
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Ovins",
+            "uuid": "6412d677-e5f2-45a4-b219-613fc06f3e31",
+            "vertical": false,
+            "translation": "Sheep"
+        },
+        {
+            "bbox": [
+                195.63773623514035,
+                487.96274598343916,
+                270.883019402502,
+                511.38684763372277
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Caprins",
+            "uuid": "8623f078-0218-415a-ba01-00603217a48a",
+            "vertical": false,
+            "translation": "Goats"
+        },
+        {
+            "bbox": [
+                197.30985363885947,
+                514.7331478694776,
+                252.48972796159137,
+                538.1572495197615
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "(suite)",
+            "uuid": "6615bb10-c0c5-4b74-9163-34d0ca4dd6b4",
+            "vertical": true,
+            "translation": "(continued)"
+        },
+        {
+            "bbox": [
+                1919.590779469582,
+                379.0262306295494,
+                2177.096859642331,
+                673.5006513759763
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "En ce qui concerne la note de bas de page 5, point e), les résultats des contrôles après incision des cœurs de porcs doivent être évalués conjointement après douze mois, en vue de modifications éventuelles des dispositions de la note de bas de page 5, point e).",
+            "uuid": "0f14d916-5dd5-452a-9345-e1a44d6cc78d",
+            "vertical": false,
+            "translation": "With regard to footnote 5, point e), the results of the post-incision checks of pig hearts should be assessed jointly after 12 months, with a view to possible amendments to the provisions of footnote 5, point e)."
+        },
+        {
+            "bbox": [
+                1919.590779469582,
+                698.7817262643108,
+                2177.096859642331,
+                968.1588952425765
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "L'équivalence [Oui (2)] doit être reconnue à l'issue de la vérification, par la CE, de l'application des conditions spécifiques. Cette procédure doit être achevée dans un délai de douze mois à compter de l'entrée en vigueur du présent accord.",
+            "uuid": "489a0673-8384-4c66-80b7-6be50f1f7f82",
+            "vertical": true,
+            "translation": "Equivalence [Yes (2)] must be recognized following verification by the EC of the application of the specific conditions. This procedure must be completed within 12 months of the entry into force of this Agreement."
+        },
+        {
+            "bbox": [
+                190.1550925903959,
+                1029.0963179892533,
+                441.774457533243,
+                1056.0035450222178
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "7. Viande de volaille",
+            "uuid": "593f94d3-9230-43a8-8526-8fe37b741617",
+            "vertical": false,
+            "translation": "7. Poultry meat"
+        },
+        {
+            "bbox": [
+                186.31357556836772,
+                1098.3610658141858,
+                2187.74394404506,
+                1576.9253180433407
+            ],
+            "order": "33",
+            "label": "Table",
+            "text": "",
+            "uuid": "e1d98209-a219-4be3-8e49-8d4f499ad67e",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                190.1550925903959,
+                1123.3036420851088,
+                334.2119809164534,
+                1150.210869118073
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Santé animale",
+            "uuid": "c44296f3-fae2-4825-a78d-c987a808381d",
+            "vertical": false,
+            "translation": "Animal health"
+        },
+        {
+            "bbox": [
+                474.4273522204827,
+                1123.3036420851088,
+                539.7331415949621,
+                1144.4450347538666
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "564d9cf5-d51d-4b0b-ad29-e467a4bfd676",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                595.435138414371,
+                1119.4597525089707,
+                693.3938224760901,
+                1150.210869118073
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "9 CFR 94",
+            "uuid": "199bf82c-8910-4f30-b9f7-844008b50841",
+            "vertical": false,
+            "translation": "9 CFR 94"
+        },
+        {
+            "bbox": [
+                722.2052001413017,
+                1121.3816972970399,
+                762.5411288725977,
+                1148.2889243300042
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Qui",
+            "uuid": "2f09e734-e829-432d-a81a-6ef622398100",
+            "vertical": false,
+            "translation": "Which"
+        },
+        {
+            "bbox": [
+                1327.244131110743,
+                1125.2255868731775,
+                1427.1235736834763,
+                1148.2889243300042
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "9 CFR 53",
+            "uuid": "cca19def-31ba-4069-b399-3c590bde9a6b",
+            "vertical": false,
+            "translation": "9 CFR 53"
+        },
+        {
+            "bbox": [
+                1454.0141928376736,
+                1125.2255868731775,
+                1527.0030162562095,
+                1142.5230899657975
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "91/494",
+            "uuid": "41ce100e-283e-4edc-bee0-9b3bb61e806b",
+            "vertical": false,
+            "translation": "91/494"
+        },
+        {
+            "bbox": [
+                1576.9427375425762,
+                1119.4597525089707,
+                1621.1201832959005,
+                1148.2889243300042
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Qui",
+            "uuid": "76a233d2-a310-4ee8-8901-db41cec2b48f",
+            "vertical": false,
+            "translation": "Which"
+        },
+        {
+            "bbox": [
+                466.7443181764263,
+                1154.054758694211,
+                543.5746586169903,
+                1173.2742065749
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "94/438",
+            "uuid": "a85bc639-bb10-49ba-ba3d-63b01a946323",
+            "vertical": false,
+            "translation": "94/438"
+        },
+        {
+            "bbox": [
+                720.2844416302876,
+                1150.210869118073,
+                751.016577806513,
+                1180.9619857271755
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "(1)",
+            "uuid": "b51724a7-d8fc-457a-9ecb-684f64f93906",
+            "vertical": true,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                1455.9349513486877,
+                1144.4450347538666,
+                1527.0030162562095,
+                1177.1180961510377
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "93/342",
+            "uuid": "eeb8e0ae-e215-4ec4-82e6-77250ff931a5",
+            "vertical": false,
+            "translation": "93/342"
+        },
+        {
+            "bbox": [
+                1580.7842545646045,
+                1154.054758694211,
+                1615.357907762858,
+                1175.1961513629687
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "(1)",
+            "uuid": "3a3a3976-4529-4d4d-9c8c-b3ebb15509c7",
+            "vertical": true,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                1457.8557098597018,
+                1175.1961513629687,
+                1528.9237747672237,
+                1200.1814336078644
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "94/984",
+            "uuid": "b1c4f5e7-3211-4a26-ab3d-a6f71a60dbe3",
+            "vertical": false,
+            "translation": "94/984"
+        },
+        {
+            "bbox": [
+                189.9658923124344,
+                1251.5626426605158,
+                342.29703237429214,
+                1282.0288706728875
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Santé publique",
+            "uuid": "b18b2191-ff91-40e5-83e2-bdc67780dc18",
+            "vertical": false,
+            "translation": "Public health"
+        },
+        {
+            "bbox": [
+                470.5858351984545,
+                1252.0739428857246,
+                539.7331415949621,
+                1277.0592251306202
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "26820efd-18e9-475c-8303-c08058029da9",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                593.5143799033568,
+                1253.9958876737935,
+                697.2353394981184,
+                1278.981169918689
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "9 CFR 381",
+            "uuid": "42155f57-ef97-415d-962b-254b65562df4",
+            "vertical": false,
+            "translation": "9 CFR 381"
+        },
+        {
+            "bbox": [
+                720.2844416302876,
+                1250.1519980976557,
+                758.6996118505695,
+                1275.1372803425515
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Oui",
+            "uuid": "b0fcb18e-956f-4df5-ac6c-808e9ab8391a",
+            "vertical": false,
+            "translation": "Yes"
+        },
+        {
+            "bbox": [
+                789.4317480267952,
+                1249.640712687039,
+                1037.209595947614,
+                1519.224268427301
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Établissements repris dans la liste conformément à la note de bas de page 7 et satisfaisant aux clauses appropriées mentionnées dans la note de bas de page 1. Inspection post mortem à effectuer par des inspecteurs officiels",
+            "uuid": "6c1d507d-8b2e-4d74-95ca-c7e907048257",
+            "vertical": true,
+            "translation": "Establishments included in the list in accordance with footnote 7 and meeting the appropriate requirements set out in footnote 1. Post-mortem inspection to be carried out by official inspectors"
+        },
+        {
+            "bbox": [
+                1056.417181057755,
+                1250.1519980976557,
+                1309.9573045116163,
+                1513.4584340630943
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "L'équivalence [Oui (2)] doit être reconnue à l'issue de la vérification, par les EU, des services vétérinaires. Cette procédure doit être achevée dans un délai de douze mois à compter de l'entrée en vigueur de l'accord.",
+            "uuid": "995a99e3-7d3d-4980-9d72-915dd34991b8",
+            "vertical": true,
+            "translation": "The equivalence [Yes (2)] must be recognized after the verification, by the US, of the veterinary services. This procedure must be completed within 12 months of the entry into force of the Agreement."
+        },
+        {
+            "bbox": [
+                1331.0856481327712,
+                1250.1519980976557,
+                1402.1537130402928,
+                1277.0592251306202
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "9 CFR",
+            "uuid": "5cfec196-1f46-482e-921d-adf2bcf439dc",
+            "vertical": false,
+            "translation": "9 CFR"
+        },
+        {
+            "bbox": [
+                1452.0934343266595,
+                1250.1519980976557,
+                1532.765291789252,
+                1275.1372803425515
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "71/118",
+            "uuid": "d488b26b-6c88-45bf-8f5b-59055690cdb3",
+            "vertical": false,
+            "translation": "71/118"
+        },
+        {
+            "bbox": [
+                1576.9427375425762,
+                1248.230053309587,
+                1619.1994247848863,
+                1280.9031147067583
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Oui",
+            "uuid": "7244ac54-8569-470a-a3d7-ea53af20a21e",
+            "vertical": false,
+            "translation": "Yes"
+        },
+        {
+            "bbox": [
+                1646.0900439390837,
+                1250.1519980976557,
+                1893.8678918599026,
+                1465.409814361372
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Établissements repris dans la liste conformément à la note de bas de page 7 et satisfaisant aux clauses appropriées mentionnées dans les notes de bas de page 2, 3, 4 et 6",
+            "uuid": "26b418f7-7747-4301-a9c0-e881599766ed",
+            "vertical": false,
+            "translation": "Establishments listed in accordance with footnote 7 and meeting the appropriate requirements set out in footnotes 2, 3, 4 and 6"
+        },
+        {
+            "bbox": [
+                1916.9169939920719,
+                1250.1519980976557,
+                2180.060910001004,
+                1573.0387224932301
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "La CE doit évaluer le programme EU sur les résidus et les informations supplémentaires fournies par les EU afin de déterminer si le niveau de protection CE est respecté. Cette évaluation doit être achevée dans un délai de six mois à compter de l'entrée en vigueur du présent accord.",
+            "uuid": "44bc44e3-0760-4ee9-bd9d-250bbcf086c0",
+            "vertical": true,
+            "translation": "The EC must evaluate the US residue program and the additional information provided by the US to determine whether the EC level of protection is respected. This evaluation shall be completed within six months of the entry into force of this Agreement."
+        },
+        {
+            "bbox": [
+                466.74431817642636,
+                1280.9031147067583,
+                532.0501075509058,
+                1303.9664521635848
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "d7bbce62-56f9-42f1-96fe-d213f9ef2939",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                720.2844416302876,
+                1278.981169918689,
+                749.0958192954989,
+                1305.8883969516537
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "(3)",
+            "uuid": "cc3accce-0baa-4271-949f-f6940d63c746",
+            "vertical": true,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                1331.0856481327712,
+                1278.981169918689,
+                1402.1537130402928,
+                1328.9517344084804
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "381.1-381.5",
+            "uuid": "6adf43e7-b9a4-4973-8dc7-ebb20b5d2056",
+            "vertical": true,
+            "translation": "381.1-381.5"
+        },
+        {
+            "bbox": [
+                1455.9349513486877,
+                1278.981169918689,
+                1519.319982212153,
+                1303.9664521635848
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "96/22",
+            "uuid": "9d935efb-14d7-419b-a2f5-f76065fc1775",
+            "vertical": false,
+            "translation": "96/22"
+        },
+        {
+            "bbox": [
+                1576.9427375425762,
+                1282.825059494827,
+                1609.595632229816,
+                1305.8883969516537
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "(3)",
+            "uuid": "5ff23176-88b9-492d-b360-998a657c712d",
+            "vertical": true,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                1454.0141928376736,
+                1305.8883969516537,
+                1513.5577066791109,
+                1327.0297896204117
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "2eab969d-d599-4100-bd5b-5196f70d2776",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                472.50659370946863,
+                1305.8883969516537,
+                528.2085905288775,
+                1328.9517344084804
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "96/23",
+            "uuid": "46a7eb04-1262-429a-af7f-20f304c208b7",
+            "vertical": false,
+            "translation": "96/23"
+        },
+        {
+            "bbox": [
+                1455.9349513486877,
+                1332.7956239846183,
+                1527.0030162562095,
+                1355.858961441445
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "96/712",
+            "uuid": "447f9926-a38e-46bd-a085-69600d8ef591",
+            "vertical": false,
+            "translation": "96/712"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

@@ -1,0 +1,665 @@
+{
+    "file": "2811e2210c3c3a6257c6d9e7474402933e2e2bab5747d75f9ba1acb8c3912d2a.png",
+    "annotations": [
+        {
+            "bbox": [
+                146.73073050076005,
+                185.30649918426388,
+                193.326138049093,
+                212.4124814599768
+            ],
+            "order": "2",
+            "label": "List-item",
+            "text": "§ 9",
+            "uuid": "b560f10f-da5b-4e04-9c9e-dad8fb2c2ae9",
+            "vertical": false,
+            "translation": "§ 9"
+        },
+        {
+            "bbox": [
+                147.0,
+                234.0,
+                200.0,
+                259.0
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "§ 10",
+            "uuid": "5592f969-3653-4a43-a3b9-889f346a0ce3",
+            "vertical": false,
+            "translation": "§ 10"
+        },
+        {
+            "bbox": [
+                147.0,
+                575.0,
+                201.0,
+                599.0
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "§ 11",
+            "uuid": "58f45208-1a07-41c5-becb-6493ccda85cf",
+            "vertical": false,
+            "translation": "§ 11"
+        },
+        {
+            "bbox": [
+                146.0,
+                625.0,
+                200.0,
+                649.0
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "§ 12",
+            "uuid": "9b46355a-095c-4087-8db0-e58a96e9f5c3",
+            "vertical": false,
+            "translation": "§ 12"
+        },
+        {
+            "bbox": [
+                147.0,
+                674.0,
+                202.0,
+                697.0
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "§ 13",
+            "uuid": "78d1ebc0-e0a3-4812-b529-9ef2b340ac8e",
+            "vertical": false,
+            "translation": "§ 13"
+        },
+        {
+            "bbox": [
+                147.0,
+                720.0,
+                200.0,
+                746.0
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "§ 14",
+            "uuid": "449a7fe6-a159-45c4-b7bc-96b1023b1d1d",
+            "vertical": false,
+            "translation": "§ 14"
+        },
+        {
+            "bbox": [
+                147.0,
+                1061.0,
+                201.0,
+                1085.0
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "§ 15",
+            "uuid": "1617ba41-32bb-4cd8-9031-aaf5a8a460a5",
+            "vertical": false,
+            "translation": "§ 15"
+        },
+        {
+            "bbox": [
+                147.0,
+                1110.0,
+                198.0,
+                1134.0
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "§ 16",
+            "uuid": "abe9d735-25fd-48df-afb4-95deb17fb074",
+            "vertical": false,
+            "translation": "§ 16"
+        },
+        {
+            "bbox": [
+                147.0,
+                1158.0,
+                199.0,
+                1183.0
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "§ 17",
+            "uuid": "f5e04d3e-5edf-41c9-90cb-8fac0502ca29",
+            "vertical": false,
+            "translation": "§ 17"
+        },
+        {
+            "bbox": [
+                147.0,
+                1207.0,
+                199.0,
+                1231.0000000000002
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "§ 18",
+            "uuid": "1f524694-1766-4b02-b36a-1f55ce4ea5a3",
+            "vertical": false,
+            "translation": "§ 18"
+        },
+        {
+            "bbox": [
+                147.0,
+                1582.0,
+                199.0,
+                1604.0000000000002
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "§ 19",
+            "uuid": "ec354086-108c-497e-bbba-20edb109fef8",
+            "vertical": false,
+            "translation": "§ 19"
+        },
+        {
+            "bbox": [
+                147.0,
+                1632.0,
+                199.0,
+                1654.0
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "§ 20",
+            "uuid": "df4bca94-a31e-4496-8b30-f75f5b11564d",
+            "vertical": false,
+            "translation": "§ 20"
+        },
+        {
+            "bbox": [
+                148.0,
+                1679.0,
+                201.0,
+                1703.0
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "§ 21",
+            "uuid": "ec6d3804-799e-4a94-8269-51ae746c07f1",
+            "vertical": false,
+            "translation": "§ 21"
+        },
+        {
+            "bbox": [
+                147.0,
+                1727.0,
+                199.0,
+                1752.0
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "§ 22",
+            "uuid": "fbede7b2-0b02-4dd1-8a4e-0066a41083d0",
+            "vertical": false,
+            "translation": "§ 22"
+        },
+        {
+            "bbox": [
+                147.0,
+                2034.0,
+                201.0,
+                2057.0
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "§ 23",
+            "uuid": "fb73f31d-ff4e-48ed-8e27-ad769e9eba3f",
+            "vertical": false,
+            "translation": "§ 23"
+        },
+        {
+            "bbox": [
+                147.0,
+                2084.0,
+                201.0,
+                2107.0
+            ],
+            "order": "44",
+            "label": "List-item",
+            "text": "§ 24",
+            "uuid": "155884f5-65f5-40f5-9e95-b91db3573884",
+            "vertical": false,
+            "translation": "§ 24"
+        },
+        {
+            "bbox": [
+                289.20514973508585,
+                183.7383845071566,
+                454.097298326061,
+                216.22075996152336
+            ],
+            "order": "3",
+            "label": "List-item",
+            "text": "Arbeitsprobe",
+            "uuid": "394618ad-de99-4da7-8f87-8125bd2062f0",
+            "vertical": false,
+            "translation": "Work sample"
+        },
+        {
+            "bbox": [
+                292.0,
+                231.0,
+                535.0,
+                262.0
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "Schriftliche Prüfung",
+            "uuid": "c4e3a820-578e-4090-9329-5636f09785dc",
+            "vertical": false,
+            "translation": "Written examination"
+        },
+        {
+            "bbox": [
+                290.0,
+                576.0,
+                739.0,
+                601.0
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "Anforderungen und Prüfungsinhalte",
+            "uuid": "b059d3f2-e97e-4ba5-bc75-7522f1e33d02",
+            "vertical": false,
+            "translation": "Requirements and exam content"
+        },
+        {
+            "bbox": [
+                292.0,
+                623.0,
+                556.0,
+                649.0
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "Prüfungsbestandteile",
+            "uuid": "37d9f7c1-c404-4e96-ba36-32cb5617247d",
+            "vertical": false,
+            "translation": "Exam components"
+        },
+        {
+            "bbox": [
+                292.0,
+                673.0,
+                412.0,
+                694.0000000000001
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "Fallstudie",
+            "uuid": "4d05f070-1b0d-46c1-9a29-462380c23e11",
+            "vertical": false,
+            "translation": "Case study"
+        },
+        {
+            "bbox": [
+                291.0,
+                719.0,
+                535.0,
+                748.0000000000001
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "Schriftliche Prüfung",
+            "uuid": "6a4a0c78-ec1e-432f-9536-8c60fc7a8f73",
+            "vertical": false,
+            "translation": "Written examination"
+        },
+        {
+            "bbox": [
+                292.0,
+                1158.8626808455829,
+                412.63817646167945,
+                1183.5234993543202
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "Fallstudie",
+            "uuid": "86b52bb1-d47d-4f0d-a907-bd1e2f96df5d",
+            "vertical": false,
+            "translation": "Case study"
+        },
+        {
+            "bbox": [
+                291.0,
+                1205.0,
+                535.0,
+                1234.0
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "Schriftliche Prüfung",
+            "uuid": "080bd5f4-0b06-4e09-b552-a620c38f6ba5",
+            "vertical": false,
+            "translation": "Written examination"
+        },
+        {
+            "bbox": [
+                291.0,
+                1061.0,
+                738.0,
+                1087.0
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "Anforderungen und Prüfungsinhalte",
+            "uuid": "05351253-a9c0-4901-903c-b0ac3f330965",
+            "vertical": false,
+            "translation": "Requirements and exam content"
+        },
+        {
+            "bbox": [
+                292.0,
+                1109.0,
+                555.0,
+                1136.0
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "Prüfungsbestandteile",
+            "uuid": "5d3a3d3b-bfe1-40d7-9f50-0452c0c419c5",
+            "vertical": false,
+            "translation": "Exam components"
+        },
+        {
+            "bbox": [
+                626.0,
+                466.00000000000006,
+                1084.1624642962386,
+                500.84091710327755
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Betriebs- und Unternehmensführung",
+            "uuid": "adb5ca88-a86f-40eb-b873-73ac904c0bba",
+            "vertical": false,
+            "translation": "Business and company management"
+        },
+        {
+            "bbox": [
+                775.0,
+                40.00000000000001,
+                1511.0,
+                88.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz sowie des Bundesamts für Justiz — www.gesetze-im-internet.de",
+            "uuid": "e827ae68-a22a-4a7e-aac0-9c4954fe11cf",
+            "vertical": false,
+            "translation": "A service of the Federal Ministry of Justice and Consumer Protection and the Federal Office of Justice — www.gesetze-im-internet.de"
+        },
+        {
+            "bbox": [
+                782.0,
+                338.99999999999994,
+                923.0,
+                364.0
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Abschnitt 3",
+            "uuid": "6580f2ce-8bda-4e19-99c9-40d463399ebb",
+            "vertical": false,
+            "translation": "Section 3"
+        },
+        {
+            "bbox": [
+                293.0,
+                1580.0,
+                679.0,
+                1608.0
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "Bewertungen in den Prüfungen",
+            "uuid": "b98051c8-7248-41c5-b3be-2369f022c636",
+            "vertical": false,
+            "translation": "Evaluations in the exams"
+        },
+        {
+            "bbox": [
+                293.0,
+                1630.0,
+                754.0,
+                1656.0
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "Befreiung von Prüfungsbestandteilen",
+            "uuid": "77c3a5c1-ed2d-414b-866a-102a9ad0fddc",
+            "vertical": false,
+            "translation": "Exemption from exam components"
+        },
+        {
+            "bbox": [
+                293.0,
+                1676.0,
+                563.0,
+                1705.0
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "Bestehen der Prüfung",
+            "uuid": "0a667330-0b95-4519-89c7-e3bb9437d8a4",
+            "vertical": false,
+            "translation": "Passing the exam"
+        },
+        {
+            "bbox": [
+                290.0,
+                1728.9999999999998,
+                420.0,
+                1754.0
+            ],
+            "order": "39",
+            "label": "List-item",
+            "text": "Zeugnisse",
+            "uuid": "a7d6f114-bb89-4c74-af72-5aed899a301c",
+            "vertical": false,
+            "translation": "Certificates"
+        },
+        {
+            "bbox": [
+                779.8707320344776,
+                437.92380973624495,
+                928.6866446690758,
+                466.5567448254335
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "Prüfungsteil",
+            "uuid": "8069d3f7-e540-4c3f-94d5-fa804e877d67",
+            "vertical": false,
+            "translation": "Exam section"
+        },
+        {
+            "bbox": [
+                780.0,
+                923.0,
+                928.0,
+                949.0
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "Prüfungsteil",
+            "uuid": "f364d7ae-a6e8-4078-8930-0511728069e8",
+            "vertical": false,
+            "translation": "Exam section"
+        },
+        {
+            "bbox": [
+                569.0,
+                955.0,
+                1140.0,
+                983.0
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "Mitarbeiterführung und Personalmanagement",
+            "uuid": "386afede-4bf3-4b88-a7ae-28f568a0de66",
+            "vertical": false,
+            "translation": "Employee management and human resources management"
+        },
+        {
+            "bbox": [
+                294.0,
+                2031.0000000000002,
+                670.0,
+                2061.0
+            ],
+            "order": "43",
+            "label": "List-item",
+            "text": "Mündliche Ergänzungsprüfung",
+            "uuid": "8c4116b7-8e33-4195-8dac-3945669dff4f",
+            "vertical": false,
+            "translation": "Oral supplementary examination"
+        },
+        {
+            "bbox": [
+                291.0,
+                2084.0,
+                618.0,
+                2109.0
+            ],
+            "order": "45",
+            "label": "List-item",
+            "text": "Wiederholung der Prüfung",
+            "uuid": "e3f8ae1d-0f8e-43e6-bf7f-1abe914ea13b",
+            "vertical": false,
+            "translation": "Repeating the exam"
+        },
+        {
+            "bbox": [
+                782.0,
+                827.0,
+                922.0,
+                847.0
+            ],
+            "order": "17",
+            "label": "Section-header",
+            "text": "Abschnitt 4",
+            "uuid": "8b7c8e62-ab85-4095-9de9-f9e8aa4fbf9d",
+            "vertical": false,
+            "translation": "Section 4"
+        },
+        {
+            "bbox": [
+                771.0,
+                1411.0,
+                935.0,
+                1435.0
+            ],
+            "order": "29",
+            "label": "Section-header",
+            "text": "Bewertungen",
+            "uuid": "130a85d7-13be-4844-930f-db44c7949c9e",
+            "vertical": false,
+            "translation": "Evaluations"
+        },
+        {
+            "bbox": [
+                652.0,
+                1441.0,
+                1055.0,
+                1471.0
+            ],
+            "order": "30",
+            "label": "Section-header",
+            "text": "in den Prüfungen, Befreiung von",
+            "uuid": "ca6bac3e-8e25-4d38-88d3-178897949636",
+            "vertical": false,
+            "translation": "in the exams, exemption from"
+        },
+        {
+            "bbox": [
+                483.99999999999994,
+                1477.0,
+                1223.0,
+                1502.0
+            ],
+            "order": "31",
+            "label": "Section-header",
+            "text": "Prüfungsbestandteilen, Bestehens- und Zeugnisregelungen",
+            "uuid": "002f78c3-b6b4-4e9a-b14c-57ebf1a6906c",
+            "vertical": false,
+            "translation": "exam components, passing and certificate rules"
+        },
+        {
+            "bbox": [
+                782.0,
+                1314.0,
+                923.0,
+                1335.0
+            ],
+            "order": "28",
+            "label": "Section-header",
+            "text": "Abschnitt 5",
+            "uuid": "6039e28e-ba6b-4b7c-bee3-619633d4e5b2",
+            "vertical": false,
+            "translation": "Section 5"
+        },
+        {
+            "bbox": [
+                781.8895057062344,
+                1831.0,
+                925.6642600301278,
+                1856.2798009064065
+            ],
+            "order": "40",
+            "label": "Section-header",
+            "text": "Abschnitt 6",
+            "uuid": "fa9a96f1-8d10-4538-b5da-b83bd134c46f",
+            "vertical": false,
+            "translation": "Section 6"
+        },
+        {
+            "bbox": [
+                602.0,
+                1929.0,
+                1104.0,
+                1956.0
+            ],
+            "order": "41",
+            "label": "Section-header",
+            "text": "Ergänzungs- und Wiederholungsprüfung",
+            "uuid": "824df96a-f1a3-4811-b902-f0cb3a0e97ef",
+            "vertical": false,
+            "translation": "Supplementary and repeat exam"
+        },
+        {
+            "bbox": [
+                782.7894945173531,
+                2186.0,
+                925.535383631952,
+                2212.3949929971936
+            ],
+            "order": "46",
+            "label": "Section-header",
+            "text": "Abschnitt 7",
+            "uuid": "e41e502f-3899-4966-a33d-73003efeeaaf",
+            "vertical": false,
+            "translation": "Section 7"
+        },
+        {
+            "bbox": [
+                768.2099739194639,
+                2273.973616528801,
+                940.0225068512548,
+                2292.160390552085
+            ],
+            "order": "47",
+            "label": "Page-footer",
+            "text": "- Seite 2 von 15 -",
+            "uuid": "612da41b-0ea8-41e0-bcaf-4bd1348b9829",
+            "vertical": false,
+            "translation": "- Page 2 of 15 -"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

@@ -1,0 +1,567 @@
+{
+    "file": "4d95ca8aaf95e4751a78473dba17e0aaeb523c5bbab5fb5329eb9531ca379024.png",
+    "annotations": [
+        {
+            "bbox": [
+                292.8623939782751,
+                179.0000000000001,
+                448.2488873122029,
+                205.1472304388898
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "European Agency",
+            "uuid": "45169b51-5467-431e-9df9-d5de6ac6fa33",
+            "vertical": false,
+            "translation": "Agencia Europea"
+        },
+        {
+            "bbox": [
+                288.9898333967442,
+                206.1086568563468,
+                478.2148387554977,
+                235.15957494575431
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "for Safety and Health",
+            "uuid": "cf908176-cbeb-4dc8-9a27-a3e997b51148",
+            "vertical": false,
+            "translation": "de Seguridad y Salud"
+        },
+        {
+            "bbox": [
+                290.9261136875096,
+                235.6337746091545,
+                361.58337420614293,
+                259.36307858032256
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "at Work",
+            "uuid": "fc07a014-11c0-4306-95d4-2d637ed7d3a1",
+            "vertical": false,
+            "translation": "en el Trabajo"
+        },
+        {
+            "bbox": [
+                293.81954629281233,
+                280.63257181052154,
+                1483.1016527386682,
+                370.89371989918254
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "[Reimbursement of expenses is not applicable to this specific contract.] [Within the maximum amount, up to EUR [amount in figures and in words] is earmarked for expenses, which must be reimbursed in accordance with the FWC].",
+            "uuid": "c199610a-e035-4f78-9913-e8e4076f69c1",
+            "vertical": false,
+            "translation": "[El reembolso de los gastos no es aplicable a este contrato específico.] [Dentro del importe máximo, hasta [importe en cifras y letras] EUR se destinan a gastos, que deben reembolsarse de acuerdo con el contrato marco]."
+        },
+        {
+            "bbox": [
+                754.1811732531448,
+                154.803942878988,
+                1026.2285541056913,
+                183.8481472404699
+            ],
+            "order": "2",
+            "label": "Title",
+            "text": "Contract no: [complete]",
+            "uuid": "072b89b8-60e9-4444-9794-e2d31a2efa58",
+            "vertical": false,
+            "translation": "N.º de contrato: [rellenar]"
+        },
+        {
+            "bbox": [
+                292.0,
+                406.0,
+                1479.0,
+                525.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "[For Contractors established in Spain, the order forms shall include the following provision: \"Direct VAT exoneration (BOE 07/02/1997, n°33 pages 3917 to 3919\".] and Article 4 of the Seat Agreement between the Kingdom of Spain and the European Agency for Safety and Health at Work (BOE 16/05/2014, n°119 pages 38049 to 38055)].",
+            "uuid": "bbe93b68-eb7d-4de1-9072-221acc332dff",
+            "vertical": false,
+            "translation": "[Para los contratistas establecidos en España, las hojas de pedido incluirán el siguiente precepto: \"Exoneración directa del IVA (BOE 07/02/1997, n.º 33 páginas 3917 a 3919\".] y el artículo 4 del Acuerdo de Sede entre el Reino de España y la Agencia Europea para la Seguridad y la Salud en el Trabajo (BOE 16/05/2014, n.º 119 páginas 38049 a 38055)]."
+        },
+        {
+            "bbox": [
+                294.0,
+                566.0,
+                832.0,
+                588.0
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "ARTICLE 4 COMMUNICATION DETAILS",
+            "uuid": "8a339b0f-d9b6-441d-8835-bb9d4f817d7b",
+            "vertical": false,
+            "translation": "ARTÍCULO 4 DATOS DE LA COMUNICACIÓN"
+        },
+        {
+            "bbox": [
+                294.5759474434637,
+                634.5392507290217,
+                1425.186488583615,
+                664.4644263423257
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "For the purpose of this specific contract, communications must be sent to the following addresses:",
+            "uuid": "83c44384-f79f-4042-8f23-9e2cd8110e84",
+            "vertical": false,
+            "translation": "A los efectos de este contrato específico, las comunicaciones deberán enviarse a las siguientes direcciones:"
+        },
+        {
+            "bbox": [
+                368.0,
+                702.8060575968719,
+                619.0770705002317,
+                728.0554245205974
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Contracting authority:",
+            "uuid": "402176b5-ec9d-4b1e-bbc5-8292acc3763f",
+            "vertical": false,
+            "translation": "Órgano de contratación:"
+        },
+        {
+            "bbox": [
+                369.0,
+                765.4485124344991,
+                927.5327978087967,
+                796.3222313884477
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "European Agency for Safety and Health at Work",
+            "uuid": "1dc3e07d-f68a-41d6-992b-a8b6f0ddeb75",
+            "vertical": false,
+            "translation": "Agencia Europea para la Seguridad y la Salud en el Trabajo"
+        },
+        {
+            "bbox": [
+                366.5834012629771,
+                799.0,
+                568.5783366527808,
+                827.1825687396675
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "[Name Surname]",
+            "uuid": "b6eb6a7a-bfff-4661-80b6-71112c8d09c8",
+            "vertical": false,
+            "translation": "[Nombre Apellido]"
+        },
+        {
+            "bbox": [
+                368.0,
+                829.0,
+                559.2267192736232,
+                851.4967739254774
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "[Unit [complete]]",
+            "uuid": "ab210c1b-9852-4df1-b9b5-6bbd38b4f96f",
+            "vertical": false,
+            "translation": "[Unidad [rellenar]]"
+        },
+        {
+            "bbox": [
+                369.0,
+                857.0,
+                814.0,
+                884.0
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "Santiago de Compostela, 12- 5th floor",
+            "uuid": "e6c94107-60ca-4d2c-9ee5-d76cb3423777",
+            "vertical": false,
+            "translation": "Santiago de Compostela, 12- 5ª planta"
+        },
+        {
+            "bbox": [
+                369.0,
+                889.0,
+                547.0,
+                908.0
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "E-48003 Bilbao",
+            "uuid": "f7a58fa4-ebc2-46f3-93b2-31693a95353e",
+            "vertical": false,
+            "translation": "E-48003 Bilbao"
+        },
+        {
+            "bbox": [
+                369.0,
+                918.0,
+                445.0,
+                937.0
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "SPAIN",
+            "uuid": "55cb4400-9839-4035-ae2b-f41969941445",
+            "vertical": false,
+            "translation": "ESPAÑA"
+        },
+        {
+            "bbox": [
+                369.0,
+                946.0,
+                793.0,
+                973.0
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "E-mail: information@osha.europa.eu",
+            "uuid": "0c71a3f5-d5ff-499d-b2ab-29a14b581a83",
+            "vertical": false,
+            "translation": "Correo electrónico: information@osha.europa.eu"
+        },
+        {
+            "bbox": [
+                368.0,
+                1015.0,
+                946.9999999999999,
+                1039.0
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Contractor (or leader in the case of a joint tender):",
+            "uuid": "cd566f90-73f6-488c-a014-5be5307b2cd7",
+            "vertical": false,
+            "translation": "Contratista (o el responsable en el caso de una oferta conjunta):"
+        },
+        {
+            "bbox": [
+                367.0,
+                1083.0,
+                497.0,
+                1105.0
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "[Full name]",
+            "uuid": "4530ae6a-f820-4fd7-aeaf-0b5b649a9576",
+            "vertical": false,
+            "translation": "[Nombre completo]"
+        },
+        {
+            "bbox": [
+                368.0,
+                1114.0,
+                481.99999999999994,
+                1136.0
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "[Function]",
+            "uuid": "ce796aab-751f-4f4a-976f-3423734734ed",
+            "vertical": false,
+            "translation": "[Función]"
+        },
+        {
+            "bbox": [
+                363.66729932478114,
+                1142.2905025985356,
+                568.7868203235523,
+                1166.6462796030878
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "[Company name] [Full official address] E-mail: [complete]",
+            "uuid": "218fd142-83fd-4c34-bb8e-b4fea1e8c3b8",
+            "vertical": false,
+            "translation": "[Nombre de la empresa] [Dirección oficial completa] Correo electrónico: [rellenar]"
+        },
+        {
+            "bbox": [
+                292.0,
+                1269.0,
+                866.0,
+                1291.0
+            ],
+            "order": "24",
+            "label": "Section-header",
+            "text": "ARTICLE 5 PERFORMANCE GUARANTEE",
+            "uuid": "845bf2b9-100a-474d-94a3-064107eeffd8",
+            "vertical": false,
+            "translation": "ARTÍCULO 5 GARANTÍA DE CUMPLIMIENTO"
+        },
+        {
+            "bbox": [
+                295.0,
+                1338.0,
+                1041.0,
+                1362.0
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Performance guarantee is not applicable to this specific contract.",
+            "uuid": "11fd9042-a344-4b51-beb2-9a56539015a2",
+            "vertical": false,
+            "translation": "La garantía de cumplimiento no es aplicable a este contrato específico."
+        },
+        {
+            "bbox": [
+                293.0,
+                1406.0,
+                917.0,
+                1428.0
+            ],
+            "order": "26",
+            "label": "Section-header",
+            "text": "ARTICLE 6 RETENTION MONEY GUARANTEE",
+            "uuid": "74419b15-6a9f-49f1-95c5-0d1c3b38d298",
+            "vertical": false,
+            "translation": "ARTÍCULO 6 GARANTÍA DE PAGOS RETENIDOS"
+        },
+        {
+            "bbox": [
+                294.0,
+                1476.0,
+                1089.0,
+                1499.0
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "Retention money guarantee is not applicable to this specific contract.",
+            "uuid": "b1904666-ed11-4be0-b453-63a773d5eb0b",
+            "vertical": false,
+            "translation": "La garantía de pagos retenidos no es aplicable a este contrato específico."
+        },
+        {
+            "bbox": [
+                294.0,
+                1541.0,
+                400.0,
+                1560.0
+            ],
+            "order": "28",
+            "label": "Section-header",
+            "text": "Annexes",
+            "uuid": "70289268-c9f6-457e-b37e-233d7defa68d",
+            "vertical": false,
+            "translation": "Anexos"
+        },
+        {
+            "bbox": [
+                293.0,
+                1606.0,
+                518.0,
+                1632.0
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "Request for service",
+            "uuid": "d0cbffe8-aca4-425b-99db-93a8a90cb1d8",
+            "vertical": false,
+            "translation": "Solicitud de servicio"
+        },
+        {
+            "bbox": [
+                294.0,
+                1638.0,
+                782.0,
+                1661.0
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "Contractor's specific tender of [insert date]",
+            "uuid": "cb63db4c-bcc5-4452-b12a-64c518e8f2c9",
+            "vertical": false,
+            "translation": "Oferta específica del contratista de [insertar fecha]"
+        },
+        {
+            "bbox": [
+                1209.1110811936428,
+                132.03210465437377,
+                1480.0,
+                148.995346806448
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "EC-FWC services Dec 2018",
+            "uuid": "6e20d7f5-8c85-4860-a04f-7058bbf0cf0d",
+            "vertical": false,
+            "translation": "CE-Contrato marco de servicios dic 2018"
+        },
+        {
+            "bbox": [
+                309.0,
+                1704.0,
+                442.0,
+                1728.0
+            ],
+            "order": "31",
+            "label": "Section-header",
+            "text": "Signatures",
+            "uuid": "439718bd-adc0-4b00-ac34-ac31644378db",
+            "vertical": false,
+            "translation": "Firmas"
+        },
+        {
+            "bbox": [
+                310.0,
+                1763.0,
+                520.0,
+                1786.0
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "For the contractor,",
+            "uuid": "eb97ca2d-c39d-4c34-8e81-a954e1da4aa8",
+            "vertical": false,
+            "translation": "Por el contratista,"
+        },
+        {
+            "bbox": [
+                308.0,
+                1796.0,
+                832.0,
+                1819.0
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "[Company name/forename/surname/function]",
+            "uuid": "57e7dc56-a297-46ec-9453-5446e13bfdc4",
+            "vertical": false,
+            "translation": "[Nombre de la empresa/nombre/apellido/función]"
+        },
+        {
+            "bbox": [
+                309.0,
+                1863.0,
+                422.0,
+                1885.0
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "signature:",
+            "uuid": "8c658a08-6a47-4c4a-a219-2251b77bd55d",
+            "vertical": false,
+            "translation": "firma:"
+        },
+        {
+            "bbox": [
+                309.0,
+                1890.0,
+                563.0,
+                1915.9999999999998
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Done at [place], [date]",
+            "uuid": "7e0efdde-bcc7-4eb0-8cc8-6f0e05cef568",
+            "vertical": false,
+            "translation": "Hecho en [lugar], [fecha]"
+        },
+        {
+            "bbox": [
+                295.0,
+                1957.0,
+                555.0,
+                1982.0
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "In duplicate in English.",
+            "uuid": "47584233-7c3e-4e06-aefd-b9a45a36429b",
+            "vertical": false,
+            "translation": "Por duplicado en inglés."
+        },
+        {
+            "bbox": [
+                913.9999999999999,
+                1763.9999999999998,
+                1247.0,
+                1819.0
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "For the contracting authority, [forename/surname/function]",
+            "uuid": "4173d4cc-d3c7-4adc-8585-4667584917fd",
+            "vertical": false,
+            "translation": "Por el órgano de contratación, [nombre/apellido/función]"
+        },
+        {
+            "bbox": [
+                916.0,
+                1857.0,
+                1030.0,
+                1878.0
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "signature:",
+            "uuid": "42264a0e-31a0-46d8-9170-1816300a98c4",
+            "vertical": false,
+            "translation": "firma:"
+        },
+        {
+            "bbox": [
+                915.0,
+                1889.0,
+                1171.0,
+                1915.9999999999998
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Done at [place], [date]",
+            "uuid": "61a60286-cf71-48b2-9a75-43da1d5c1c13",
+            "vertical": false,
+            "translation": "Hecho en [lugar], [fecha]"
+        },
+        {
+            "bbox": [
+                1453.0,
+                2068.0,
+                1476.0,
+                2084.0
+            ],
+            "order": "41",
+            "label": "Page-footer",
+            "text": "38",
+            "uuid": "7bdcea61-0901-412a-8e33-4f6b210c8242",
+            "vertical": false,
+            "translation": "38"
+        },
+        {
+            "bbox": [
+                367.40700285022285,
+                1169.3754474270747,
+                609.5528061225742,
+                1197.4232057352115
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "[ Full official address ]",
+            "uuid": "17e3699c-0355-4559-a1a1-740d5694e2dc",
+            "vertical": false,
+            "translation": "[Dirección oficial completa]"
+        },
+        {
+            "bbox": [
+                367.40700285022285,
+                1199.2930562890874,
+                583.3748814444823,
+                1230.1455904280376
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "E - mail : [ complete ]",
+            "uuid": "12cec3d7-6279-4594-9544-f5fd30ac8ee2",
+            "vertical": false,
+            "translation": "Correo electrónico: [rellenar]"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

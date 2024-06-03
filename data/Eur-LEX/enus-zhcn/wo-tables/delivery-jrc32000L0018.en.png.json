@@ -1,0 +1,511 @@
+{
+    "file": "jrc32000L0018.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.8065629900006,
+                138.4886645002296,
+                232.13100926336818,
+                169.42237017498667
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "19.5.2000",
+            "uuid": "00fc62e0-4a26-47e1-a465-68aed7ccf4fd",
+            "vertical": false,
+            "translation": "2000 年 5 月 19 日"
+        },
+        {
+            "bbox": [
+                331.0792459363913,
+                140.719978490118,
+                368.8656209770087,
+                166.91949256882697
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "bf13402d-b448-496d-9b0c-c2401f3cdfcf",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                579.5107437697313,
+                131.45827684687566,
+                1074.5620253334555,
+                173.64060276699917
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "a4c32eb0-f03f-4903-b0f1-5e5b846e95aa",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1431.786529643643,
+                132.8643543775465,
+                1540.0789974857075,
+                173.64060276699917
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 118/41",
+            "uuid": "24f1c722-3844-4f14-a377-6fe715d7c223",
+            "vertical": false,
+            "translation": "L 118/41"
+        },
+        {
+            "bbox": [
+                250.4141531847557,
+                250.52536275478406,
+                1356.087214416229,
+                285.63982823288603
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "DIRECTIVE 2000/18/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+            "uuid": "3439547b-6385-45cd-ba39-3cf702a375c6",
+            "vertical": false,
+            "translation": "欧洲议会和理事会第 2000/18/EC 号指令"
+        },
+        {
+            "bbox": [
+                113.99377161747937,
+                449.231798778472,
+                739.8398520034375,
+                509.6931325973156
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF EUROPEAN UNION,",
+            "uuid": "752d2c54-6e9a-497d-b116-00b1238a4ade",
+            "vertical": false,
+            "translation": "欧洲议会和欧盟理事会，"
+        },
+        {
+            "bbox": [
+                114.00172550722436,
+                539.2207607414018,
+                796.1036333436058,
+                605.3064046829285
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community , and in particular Article 75(1)(c) thereof,",
+            "uuid": "d6edc055-30ac-4fcc-bbad-17c0ccb36a5d",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，特别是其中第 75(1)(c) 条，"
+        },
+        {
+            "bbox": [
+                114.00172550722436,
+                637.6461878883564,
+                755.3181584420488,
+                672.798126155126
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to the proposal from the Commission (¹),",
+            "uuid": "8c1b0995-d012-4acc-8dee-4ee3b40cbf02",
+            "vertical": false,
+            "translation": "考虑到委员会的建议 (¹)，"
+        },
+        {
+            "bbox": [
+                114.00172550722436,
+                706.5439868912248,
+                796.1036333436058,
+                767.0053207100681
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Having regard to the opinion of the Economic and Social Committee (²),",
+            "uuid": "4603f2ce-282e-415d-8e56-13213cabcc14",
+            "vertical": false,
+            "translation": "考虑到经济及社会委员会的意见(²)，"
+        },
+        {
+            "bbox": [
+                115.40812119348496,
+                797.9390263848254,
+                658.2768560900688,
+                835.9031197129365
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "After consulting the Committee of the Regions,",
+            "uuid": "f44bb0d0-3277-4d79-a688-5f9dd098aaf6",
+            "vertical": false,
+            "translation": "在征求地区委员会的意见后，"
+        },
+        {
+            "bbox": [
+                114.2650791279862,
+                867.3249620702875,
+                794.213400581783,
+                929.9184602216009
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Acting in accordance with the procedure referred to in Article 251 of the Treaty (³),",
+            "uuid": "9a863829-d7e7-4c13-b43b-6197942fb55c",
+            "vertical": false,
+            "translation": "根据《条约》第 251 条所述程序行事 (³)，"
+        },
+        {
+            "bbox": [
+                114.99307518949993,
+                961.94304067111,
+                795.6693927048104,
+                1141.7173900126722
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(1) Whereas the improvement of transport safety and the protection of the environment, especially within the context of the transport of dangerous goods by road, rail and inland waterway, are important issues, as is also the human element in the safe operation of these modes of transport.",
+            "uuid": "19b1faa7-393d-4ed3-8fd2-ab5e305a4ec2",
+            "vertical": false,
+            "translation": "(1) 鉴于改善运输安全和保护环境，特别是在公路、铁路和内河运输危险货物方面，以及这些运输方式安全运作中的人为因素，都是重要的问题。"
+        },
+        {
+            "bbox": [
+                114.30345135305095,
+                1174.4698018360339,
+                797.891753114416,
+                1527.4680181544861
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(2) Whereas under the terms of Council Directive 96/35/EC of 3 June 1996 on the appointment and vocational qualification of safety advisers for the transport of dangerous goods by road, rail and inland waterway (4), all undertakings the activities of which include the trans port of dangerous goods, as well as the loading or unloading related to that type of transport, are obliged to appoint one or more safety advisers . The said Directive does not contain any detailed provisions aimed at the harmonisation of examination requirements for safety advisers or any provisions applicable to examination bodies.",
+            "uuid": "6c09d74a-f1be-4068-a1b1-2db94989572e",
+            "vertical": false,
+            "translation": "(2) 鉴于 1996 年 6 月 3 日关于公路、铁路和内河运输危险货物安全顾问的任命和职业资格的理事会第 96/35/EC 号指令 (4)，所有从事危险货物运输以及与相关装卸活动的企业， 都有义务任命一名或多名安全顾问。所述指令不包含任何旨在协调安全顾问考试要求的详细规定或适用于考试机构的任何规定。"
+        },
+        {
+            "bbox": [
+                114.30295729006727,
+                1566.0430809686675,
+                797.163262989919,
+                1748.000924431787
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(3) Whereas Member States should set up a common minimum framework for the examination of safety advisers and the conditions for the examination bodies in order to guarantee a certain level of quality and to facilitate the mutual recognition of EC certificates of training.",
+            "uuid": "56d8d77a-ac48-4efc-b965-05b945432aa5",
+            "vertical": false,
+            "translation": "(3) 鉴于成员国应为安全顾问的考试和考试机构的条件制定共同的最低框架，以保证一定的质量水平并促进欧共体培训证书的相互承认。"
+        },
+        {
+            "bbox": [
+                115.03177678988709,
+                1778.5698421335912,
+                794.9800982436838,
+                1960.5276855967109
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(4) Whereas the examination of safety advisers will as a minimum include a written test consisting of questions relating at least to the subjects listed in Annex II to Directive 96/35/EC and a case study whereby the candidates can demonstrate that they have the ability to carry out the tasks of a safety adviser.",
+            "uuid": "ac701699-736c-4376-8cdf-75f40d5f2af5",
+            "vertical": false,
+            "translation": "(4) 鉴于安全顾问的考试至少将包括笔试，其中至少包括与第 96/35/EC 号指令附件二所列科目有关的题目，以及一项案例研究，考生可以籍此证明他们有能力执行安全顾问的任务。"
+        },
+        {
+            "bbox": [
+                117.6755778936334,
+                1995.6644161562297,
+                754.0708003371144,
+                2020.1540871716593
+            ],
+            "order": "31",
+            "label": "Footnote",
+            "text": "(¹) OJ C 148, 14.5.1998, p. 21, and OJ C 52, 23.2.1999, p. 16.",
+            "uuid": "f9a5d8aa-72b1-4895-b905-9f411c42d514",
+            "vertical": false,
+            "translation": "(¹) OJ C 148，1998 年 5 月 14 日，第 21 页，以及 OJ C 52，1999 年 2 月 23 日，第 16 页。"
+        },
+        {
+            "bbox": [
+                116.70443504567473,
+                2019.1173617723975,
+                458.7327943813419,
+                2040.9115634977948
+            ],
+            "order": "32",
+            "label": "Footnote",
+            "text": "(²) OJ C 407, 28.12.1998, p. 118.",
+            "uuid": "b845b894-ad7b-496a-898c-2eeaed5a45fd",
+            "vertical": false,
+            "translation": "(²) OJ C 407，1998 年 12 月 28 日，第 118 页。"
+        },
+        {
+            "bbox": [
+                117.16974607860874,
+                2039.841861909554,
+                794.8706206957797,
+                2173.8147680527873
+            ],
+            "order": "33",
+            "label": "Footnote",
+            "text": "(3) Opinion of the European Parliament of 20 October 1998 (OJ C 341, 9.11.1998, p. 29), confirmed on 16 September 1999, Council Common Position of 29 March 1999 (OJ C 36, 8.2.2000, p. 1) and Decision of the European Parliament of 18 January 2000 (not yet published in the Official Journal). Council Decision of 28 March 2000.",
+            "uuid": "e83e8641-bc82-438f-a1ff-3ddcbdfa1f7f",
+            "vertical": false,
+            "translation": "(3) 欧洲议会 1998 年 10 月 20 日的意见（OJ C 341，1998 年 11 月 9 日，第 29 页），确认于 1999 年 9 月 16 日，1999 年 3 月 29 日的理事会共同立场（OJ C 36，2000 年 2 月 8 日，第 1 页）和 2000 年 1 月 18 日欧洲议会的决定（尚未在官方公报上公布）。2000 年 3 月 28 日的理事会决定。"
+        },
+        {
+            "bbox": [
+                117.16974607860874,
+                2176.6959058193083,
+                428.8833305056421,
+                2203.1063353457525
+            ],
+            "order": "34",
+            "label": "Footnote",
+            "text": "(4) OJ L 145, 19.6.1996, p. 10.",
+            "uuid": "1044bfbd-006d-49c8-ad0b-1169e38951ac",
+            "vertical": false,
+            "translation": "(4) OJ L 145，1996 年 6 月 19 日，第 10 页。"
+        },
+        {
+            "bbox": [
+                857.8828742478437,
+                449.9833984375,
+                1542.1494858155913,
+                631.57568359375
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "(5) Whereas Member States may provide that candidates who intend to work for undertakings whose activities are concerned only with specific dangerous goods will be examined only on subject matters related to their activities. In this case, the EC certificate of training should clearly indicate the limits of its validity.",
+            "uuid": "ab98f820-6f42-47f3-8925-76fb0cf3735c",
+            "vertical": false,
+            "translation": "(5) 鉴于成员国可以规定，打算为活动仅涉及特定危险货物的企业工作的候选人，将仅就与其活动相关的主题事项进行考试。在这种情况下， 欧共体培训证书应明确说明其有效性的限制。"
+        },
+        {
+            "bbox": [
+                857.8828742478437,
+                654.41748046875,
+                1537.5800927500304,
+                809.74169921875
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "(6) Whereas the examination organised by the examination bodies will be subject to approval of the Member States' competent authorities. Member States will define the criteria applicable to examination bodies should be technically competent, reliable and independent.",
+            "uuid": "9bb34f69-3ac2-4f5c-9df5-92af43cf0f18",
+            "vertical": false,
+            "translation": "(6) 鉴于考试机构组织的考试须经成员国主管机构批准。成员国将规定适用于考试机构的标准应具有技术能力、可靠和独立。"
+        },
+        {
+            "bbox": [
+                859.0197956387893,
+                834.86767578125,
+                1537.5746658745854,
+                895.3984375
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "(7) Whereas Member States should assist one another in the implementation of this Directive,",
+            "uuid": "83683ce4-5b66-411f-bc3e-b46cf270ca1c",
+            "vertical": false,
+            "translation": "(7) 鉴于各成员国应当相互协助执行本指令，"
+        },
+        {
+            "bbox": [
+                857.8774473723989,
+                987.90771484375,
+                1215.4324547525407,
+                1018.744140625
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "HAVE ADOPTED THIS DIRECTIVE:",
+            "uuid": "4a93e401-381a-4947-a5c4-e167e1ae76c7",
+            "vertical": false,
+            "translation": "已通过以下指令："
+        },
+        {
+            "bbox": [
+                1137.7527726380051,
+                1079.27490234375,
+                1257.6993406089794,
+                1110.111328125
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "CHAPTER I",
+            "uuid": "b9c4ab24-3f1a-4a61-ad6f-a012d7b958c4",
+            "vertical": false,
+            "translation": "第一章"
+        },
+        {
+            "bbox": [
+                1064.6424835890302,
+                1136.37939453125,
+                1331.9519779243442,
+                1172.92626953125
+            ],
+            "order": "23",
+            "label": "Section-header",
+            "text": "Scope and definitions",
+            "uuid": "4fd25048-00f2-4774-b605-fff69a85d293",
+            "vertical": false,
+            "translation": "范围和定义"
+        },
+        {
+            "bbox": [
+                1149.1762553019073,
+                1230.03076171875,
+                1246.2758579450772,
+                1259.72509765625
+            ],
+            "order": "24",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "f9116cd6-ff42-4648-98f6-7de3bce46154",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                854.284580969722,
+                1288.1547034556697,
+                1541.8844939742755,
+                1418.0344592083395
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "1. This Directive lays down the minimum examination requirements for the examination needed to obtain the EC certificate of training as safety adviser for the transport of dangerous goods provided for in Directive 96/35/EC.",
+            "uuid": "84afbb6f-7239-4fe8-9f45-89869baa4f13",
+            "vertical": false,
+            "translation": "1. 该指令规定了获得第 96/35/EC 号指令规定的欧共体危险货物运输安全顾问培训证书所需的最低考试要求。"
+        },
+        {
+            "bbox": [
+                851.6554042262621,
+                1435.0893766304073,
+                1545.816385102996,
+                1562.3452989335285
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "2. Member States shall take all necessary measures to ensure that safety advisers for the transport of dangerous goods are examined in such a way that they satisfy these minimum requirements.",
+            "uuid": "7da7e1d0-96bf-43df-bc8c-82a7fbb8a518",
+            "vertical": false,
+            "translation": "2. 成员国应采取一切必要措施，确保对危险货物运输安全顾问的考试应符合这些最低要求。"
+        },
+        {
+            "bbox": [
+                1145.5912448999643,
+                1618.7577180988299,
+                1249.2561172804217,
+                1648.9318027686418
+            ],
+            "order": "27",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "3e3b6868-6c54-49e7-8624-7ff49eb73c21",
+            "vertical": false,
+            "translation": "第 2 条"
+        },
+        {
+            "bbox": [
+                856.9042585240067,
+                1677.7939707136798,
+                1253.1927580037304,
+                1713.21572228259
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "For the purposes of this Directive:",
+            "uuid": "fc0396bf-a708-4215-ab7a-36b800d17272",
+            "vertical": false,
+            "translation": "就本指令而言："
+        },
+        {
+            "bbox": [
+                859.5286856728791,
+                1734.2063898789809,
+                1541.8797443796877,
+                1828.6643940627407
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "(a) 'safety adviser for the transport of dangerous goods', hereinafter referred to as 'adviser', shall mean any person specified in Article 2(b) of Directive 96/35/EC;",
+            "uuid": "7c6be238-19b1-4434-8a17-3c18137d1069",
+            "vertical": false,
+            "translation": "(a) “危险货物运输安全顾问”，以下简称“顾问”，是指第 96/35/EC 号指令第 2(b) 条规定的任何人员；"
+        },
+        {
+            "bbox": [
+                856.9042585240067,
+                1841.7835613104853,
+                1545.8163851029965,
+                1940.1773156685686
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "(b) 'dangerous goods' shall mean goods defined in Article 2 of Directive 94/55/ EC (⁵) and Article 2 of Directive 96/49/EC (⁶);",
+            "uuid": "6f076783-bacf-4fe6-8a6a-cd645504b695",
+            "vertical": false,
+            "translation": "(b) \"危险货物\"是指第 94/55/EC 号指令 (⁵) 第 2 条和第 96/49/EC 号指令 (⁶) 第 2 条所定义的货物；"
+        },
+        {
+            "bbox": [
+                859.4648906225143,
+                1970.256167581588,
+                1538.9518573191685,
+                2087.31212200993
+            ],
+            "order": "35",
+            "label": "Footnote",
+            "text": "(5 ) Council Directive 94/ 55/EC of 21 November 1994 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road (OJ L 319, 12.12.1994, p. 7). Directive amended by Commission Directive 96/ 86/EC (OJ L 335, 24.12.1996, p. 43 and OJ L 251, 15.9.1997, p. 1).",
+            "uuid": "141d5a76-a4fb-4320-adec-67d8d2074f60",
+            "vertical": false,
+            "translation": "(5) 1994 年 11 月 21 日关于成员国公路运输危险货物法律近似化的理事会第 94/55/EC 号指令（OJ L 319，1994 年 12 月 12 日，第 7 页）。经委员会第 96/86/EC 号指令修正（OJ L 335，1996 年 12 月 24 日，第 43 页和 OJ L 251，1997 年 9 月 15 日，第 1 页）。"
+        },
+        {
+            "bbox": [
+                856.9042585240067,
+                2087.663641392598,
+                1545.2792062071871,
+                2205.1844940730066
+            ],
+            "order": "36",
+            "label": "Footnote",
+            "text": "(⁶) Council Directive 96/49/EC of 23 July 1996 on the harmonisation of the laws of the Member States with regard to transport of dangerous goods by rail (OJ L 235, 17.9.1996, p. 25). Directive amended by Commission Directive 96/87/EC ( OJ L 335, 24.12.1996, p. 45).",
+            "uuid": "215325df-0e97-432f-b37e-f1bbcdb81217",
+            "vertical": false,
+            "translation": "(⁶) 1996 年 7 月 23 日关于协调成员国铁路危险货物运输法律的理事会第 96/49/EC 号指令（OJ L 235，1996 年 9 月 17 日，第 25 页）。经委员会第 96/87/EC 号指令修正的指令（OJ L 335，1996 年 12 月 24 日，第 45 页）。"
+        },
+        {
+            "bbox": [
+                715.6662487917955,
+                287.31194563660523,
+                941.4020982938804,
+                325.77064592214583
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "of 17 April 2000",
+            "uuid": "2b3fe550-e06f-4e4f-8bb4-965a4336aec3",
+            "vertical": false,
+            "translation": "2000 年 4 月 17 日"
+        },
+        {
+            "bbox": [
+                255.83396276902965,
+                337.4754677481797,
+                1399.562266912927,
+                394.3274594746309
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "on minimum examination requirements for safety advisers for the transport of dangerous goods by road, rail or inland waterway",
+            "uuid": "be2b622e-3826-41ae-b6b2-699b4e94a46d",
+            "vertical": false,
+            "translation": "关于公路、铁路或内河危险货物运输安全顾问的最低考试要求"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,1211 @@
+{
+    "file": "jrc32004R1924.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                125.20129144727514,
+                118.13970872029714,
+                226.2204019919613,
+                148.5624524364576
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 331/12",
+            "uuid": "33ca7072-a992-4548-9d66-b3f08785acbe",
+            "vertical": false,
+            "translation": "L 331/12"
+        },
+        {
+            "bbox": [
+                345.5571064497564,
+                118.15644859024859,
+                373.00885113004347,
+                143.99899173392592
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "411e4cae-0d16-464b-a32b-ff6ef577b4fd",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                657.2151489965449,
+                123.00192542968809,
+                1015.7026383508821,
+                155.30510435928448
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "2b94f1f2-8151-4408-89b3-be477bccf6e3",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1440.397276640029,
+                119.77160753672842,
+                1550.2042553611773,
+                148.84446857336513
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "5.11.2004",
+            "uuid": "5c6b0d81-1909-4943-98fb-aefe8347ad68",
+            "vertical": false,
+            "translation": "5.11.2004"
+        },
+        {
+            "bbox": [
+                788.0146383555597,
+                221.52662116495708,
+                886.5179575024722,
+                240.90852852271505
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "b3a73c9f-28f9-402d-af3e-530da1156d3a",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                258.3574468770798,
+                263.52075377343243,
+                1403.2566808961112,
+                318.4361579537462
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "zur Verordnung der Kommission vom 4. November 2004 zur Festlegung pauschaler Einfuhrwerte für die Bestimmung der im Sektor Obst und Gemüse geltenden Einfuhrpreise",
+            "uuid": "a86efd3f-e7e4-4873-848e-6ae12962e45a",
+            "vertical": false,
+            "translation": "to the Commission Regulation dated 4 November 2004 establishing the standard import values for determining the import prices applicable to the fruit and vegetables sector"
+        },
+        {
+            "bbox": [
+                268.04314401783824,
+                363.66060845518126,
+                1411.3275695262646,
+                1461.9686920614581
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "80b99022-8cf6-4cfd-abc4-aa72b831227d",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                271.27276103904853,
+                1468.4293278473776,
+                1406.4831439944492,
+                1516.8840962417719
+            ],
+            "order": "86",
+            "label": "Footnote",
+            "text": "(¹) Nomenklatur der Länder gemäß der Verordnung (EG) Nr. 2081/2003 der Kommission (ABl. L 313 vom 28.11.2003, S. 11). Der Code „999” steht für „Verschiedenes”.",
+            "uuid": "93fdb37b-167f-48df-8b32-c8f47ad98384",
+            "vertical": false,
+            "translation": "(¹) Country codes according to Commission Regulation (EC) No. 2081/2003 (OJ L 313 dated 28.11.2003, p. 11). Code '999' stands for 'Miscellaneous'."
+        },
+        {
+            "bbox": [
+                1292.7393629790688,
+                366.9206534319039,
+                1406.8018447617476,
+                395.44246216326064
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "(EUR/100 kg)",
+            "uuid": "891c9a88-0294-4c7f-9fa1-8cb413b6b268",
+            "vertical": false,
+            "translation": "(EUR/100 kg)"
+        },
+        {
+            "bbox": [
+                444.06018304842075,
+                410.3824572130188,
+                522.8176109459849,
+                433.47154047173615
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "KN-Code",
+            "uuid": "bf2135ea-6198-4a2d-8195-4e7505d39d8e",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                813.4053621542387,
+                411.7406385811787,
+                960.0571244462546,
+                438.90426594437554
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Drittland-Code (¹)",
+            "uuid": "6f2f6fd9-0520-44c5-bf25-24f1cf06f2c8",
+            "vertical": false,
+            "translation": "Third country code (¹)"
+        },
+        {
+            "bbox": [
+                1140.6560539354964,
+                411.7406385811787,
+                1337.5496236794067,
+                438.90426594437554
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Pauschaler Einfuhrpreis",
+            "uuid": "b68ae5ea-48cf-4214-94ad-2028f94b6423",
+            "vertical": false,
+            "translation": "Standard import price"
+        },
+        {
+            "bbox": [
+                423.69188273008535,
+                461.99334920309315,
+                543.1859112643205,
+                486.4406138299701
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "0702 00 00",
+            "uuid": "72cbfaf7-fe28-4644-b057-1acf6fc455ff",
+            "vertical": false,
+            "translation": "0702 00 00"
+        },
+        {
+            "bbox": [
+                865.0050562940222,
+                460.6351678349332,
+                912.5310903701384,
+                487.79879519813005
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "e0c242a4-11b9-4dc6-98de-821940b18e76",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1227.5608019603949,
+                456.56062373045353,
+                1275.0868360365114,
+                487.79879519813005
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "56,5",
+            "uuid": "fbf289dc-3950-47c3-aea4-5853a2e9be9e",
+            "vertical": false,
+            "translation": "56.5"
+        },
+        {
+            "bbox": [
+                867.7208296698003,
+                490.51515793444986,
+                907.0995436185823,
+                509.5296970886875
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "204",
+            "uuid": "c32a44d5-6341-4826-9c78-b70bec6cbaa1",
+            "vertical": false,
+            "translation": "204"
+        },
+        {
+            "bbox": [
+                1228.918688648284,
+                489.1569765662899,
+                1275.0868360365114,
+                512.2460598250073
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "69,5",
+            "uuid": "cef46514-7754-44f2-b7f8-9f2c8bcd59e9",
+            "vertical": false,
+            "translation": "69.5"
+        },
+        {
+            "bbox": [
+                866.362942981911,
+                516.3206039294868,
+                908.4574303064712,
+                540.767868556364
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "c6cdec09-bd9a-4444-9012-6d18a77d61c4",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1228.918688648284,
+                519.0369666658065,
+                1276.4447227244002,
+                540.767868556364
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "63,0",
+            "uuid": "c3c9ff2e-c4a3-4e43-8d56-98e258e040f6",
+            "vertical": false,
+            "translation": "63.0"
+        },
+        {
+            "bbox": [
+                420.9761093543072,
+                558.424226342442,
+                544.5437979522095,
+                581.5133096011593
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "0707 00 05",
+            "uuid": "e8a5956d-2c92-4e15-8278-c3588f311be8",
+            "vertical": false,
+            "translation": "0707 00 05"
+        },
+        {
+            "bbox": [
+                865.0050562940222,
+                557.0660449742821,
+                908.4574303064712,
+                582.8714909693193
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "ea7034e7-34d8-4607-80e6-bef9b629219c",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1208.5503883299484,
+                557.0660449742821,
+                1276.4447227244002,
+                581.5133096011593
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "104,0",
+            "uuid": "bb94f288-7cbe-4c00-aaf6-7bd1e876ec64",
+            "vertical": false,
+            "translation": "104.0"
+        },
+        {
+            "bbox": [
+                865.0050562940222,
+                584.2296723374792,
+                909.8153169943605,
+                607.3187555961965
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "cf6622bc-007d-4299-b9ac-10c4caf6ada4",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1213.9819350815046,
+                586.9460350737987,
+                1279.1604961001783,
+                608.6769369643564
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "104,0",
+            "uuid": "650ce9c5-8e3e-4809-8e6d-d8054184f434",
+            "vertical": false,
+            "translation": "104.0"
+        },
+        {
+            "bbox": [
+                425.0497694179743,
+                619.5423879096352,
+                544.5437979522095,
+                653.4969221136313
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "0709 90 70",
+            "uuid": "48a645ed-2f18-4429-a870-cc919d50fe38",
+            "vertical": false,
+            "translation": "0709 90 70"
+        },
+        {
+            "bbox": [
+                865.0050562940222,
+                620.9005692777951,
+                909.8153169943605,
+                650.7805593773116
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "d30a7c01-90d5-4996-a163-06154e7827b3",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1227.5608019603949,
+                626.3332947504344,
+                1279.1604961001783,
+                652.1387407454713
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "89,8",
+            "uuid": "c80d8c1e-f51e-4794-85ac-69c3a4882832",
+            "vertical": false,
+            "translation": "89.8"
+        },
+        {
+            "bbox": [
+                865.0050562940222,
+                650.7805593773116,
+                911.1732036822493,
+                672.5114612678691
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "204",
+            "uuid": "c1086cb9-ff07-4c05-807c-090f1293854a",
+            "vertical": false,
+            "translation": "204"
+        },
+        {
+            "bbox": [
+                1227.5608019603949,
+                652.1387407454713,
+                1277.8026094122895,
+                672.5114612678691
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "54,8",
+            "uuid": "428740f0-7c92-4367-b265-aa1368f88d7a",
+            "vertical": false,
+            "translation": "54.8"
+        },
+        {
+            "bbox": [
+                866.362942981911,
+                676.5860053723486,
+                912.6978794034163,
+                703.7496327355457
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "57a04e70-e0a5-4e92-9c89-34a946bf269f",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1227.5608019603949,
+                677.9441867405085,
+                1276.4447227244002,
+                703.7496327355457
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "72,3",
+            "uuid": "0a755bb8-d902-43b2-b283-a020961ca887",
+            "vertical": false,
+            "translation": "72.3"
+        },
+        {
+            "bbox": [
+                297.40842075640484,
+                718.6896277853039,
+                673.543033301668,
+                770.3005197753779
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "0805 20 30, 0805 20 50, 0805 20 70, 0805 20 90",
+            "uuid": "0394af56-503f-44ff-942f-59f4c7b6b1db",
+            "vertical": false,
+            "translation": "0805 20 30, 0805 20 50, 0805 20 70, 0805 20 90"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                718.6896277853039,
+                908.4562515853881,
+                747.2114365166606
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "9b1e7b50-13b1-4401-90a2-87a5b718c2c5",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1230.27539661509,
+                721.4059905216236,
+                1277.801430691206,
+                744.495073780341
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "68,9",
+            "uuid": "be132af4-f9c4-459f-98e7-b6ab046599e6",
+            "vertical": false,
+            "translation": "68.9"
+        },
+        {
+            "bbox": [
+                869.0775376366062,
+                749.9277992529804,
+                905.74047820961,
+                770.3005197753779
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "624",
+            "uuid": "7e17d332-c4e1-4f16-92b5-d9f2ae00811e",
+            "vertical": false,
+            "translation": "624"
+        },
+        {
+            "bbox": [
+                1228.9175099272006,
+                748.5696178848204,
+                1276.4435440033171,
+                770.3005197753779
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "80,4",
+            "uuid": "31a38eb7-5ee5-4026-a8a9-ec4f7c5cd88b",
+            "vertical": false,
+            "translation": "80.4"
+        },
+        {
+            "bbox": [
+                865.0038775729389,
+                775.7332452480173,
+                908.4562515853881,
+                796.1059657704151
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "0685ed6e-04ae-40a2-b42d-5d7cc5c355b8",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1228.9175099272006,
+                774.3750638798576,
+                1277.801430691206,
+                797.464147138575
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "74,7",
+            "uuid": "bc267f02-3041-4cb6-90df-5cb7f0d9c7fc",
+            "vertical": false,
+            "translation": "74.7"
+        },
+        {
+            "bbox": [
+                426.40647738478003,
+                813.7623235564931,
+                543.1847325432373,
+                838.2095881833703
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "0805 50 10",
+            "uuid": "06d2ca3d-90ad-4afe-b16b-c252b4c18a33",
+            "vertical": false,
+            "translation": "0805 50 10"
+        },
+        {
+            "bbox": [
+                862.2881041971608,
+                813.7623235564931,
+                908.4562515853881,
+                839.5677695515302
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "fb97f205-79aa-48d8-a5da-d761a8a79739",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1224.8438498635337,
+                815.120504924653,
+                1279.1593173790952,
+                840.9259509196899
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "63,3",
+            "uuid": "6b0d2faa-a5fa-42ba-a5fb-d5a104cf72cd",
+            "vertical": false,
+            "translation": "63.3"
+        },
+        {
+            "bbox": [
+                867.7196509487169,
+                840.9259509196899,
+                907.0983648974991,
+                864.0150341784075
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "388",
+            "uuid": "324d26a9-09b1-4874-9c45-f55739fb75fd",
+            "vertical": false,
+            "translation": "388"
+        },
+        {
+            "bbox": [
+                1227.5596232393118,
+                843.6423136560097,
+                1275.085657315428,
+                866.731396914727
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "35,0",
+            "uuid": "96ab73c1-00b8-4a7e-b560-5055ff9bf3ba",
+            "vertical": false,
+            "translation": "35.0"
+        },
+        {
+            "bbox": [
+                867.7196509487169,
+                870.8059410192066,
+                908.4562515853881,
+                891.1786615416044
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "524",
+            "uuid": "ce0b46a0-a5cc-42e7-8f8f-50ae35fe6f27",
+            "vertical": false,
+            "translation": "524"
+        },
+        {
+            "bbox": [
+                1231.6332833029787,
+                869.4477596510469,
+                1275.085657315428,
+                891.1786615416044
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "64,5",
+            "uuid": "2d911617-3f07-41ff-b0af-2df762d7e449",
+            "vertical": false,
+            "translation": "64.5"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                896.6113870142436,
+                907.0983648974991,
+                918.3422889048011
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "528",
+            "uuid": "fdb67edc-2010-4d0b-a8df-a907ecb633d1",
+            "vertical": false,
+            "translation": "528"
+        },
+        {
+            "bbox": [
+                1230.27539661509,
+                895.2532056460838,
+                1276.4435440033171,
+                916.9841075366415
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "44,0",
+            "uuid": "76e9b7ca-8a90-40bf-8c30-199a48a9fdb2",
+            "vertical": false,
+            "translation": "44.0"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                923.7750143774405,
+                907.265153930777,
+                946.8640976361579
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "6e8e88f4-51ee-4c93-9ffd-b8c2621d6b69",
+            "vertical": true,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1226.2017365514225,
+                922.4168330092808,
+                1276.4435440033171,
+                948.2222790043178
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "51,7",
+            "uuid": "c4e5cb40-dc82-4b47-9b75-f37edc1f4bf2",
+            "vertical": false,
+            "translation": "51.7"
+        },
+        {
+            "bbox": [
+                426.40647738478003,
+                959.0877299495965,
+                545.9005059190154,
+                987.6095386809535
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "0806 10 10",
+            "uuid": "99b41920-b3e5-4687-96c8-a8c229744e9a",
+            "vertical": false,
+            "translation": "0806 10 10"
+        },
+        {
+            "bbox": [
+                859.5723308213829,
+                963.1622740540762,
+                911.1720249611661,
+                984.8931759446336
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "1750eaaa-0a20-4fe0-9c8c-e09849a6c196",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1228.9175099272006,
+                959.0877299495965,
+                1277.801430691206,
+                990.325901417273
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "86,0",
+            "uuid": "7520df60-c798-4f2e-8d6d-1622deb74410",
+            "vertical": false,
+            "translation": "86.0"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                991.6840827854329,
+                909.8141382732771,
+                1012.0568033078305
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "400",
+            "uuid": "7c9f8f81-0716-4fb2-9132-0329307398eb",
+            "vertical": false,
+            "translation": "400"
+        },
+        {
+            "bbox": [
+                1216.6965297361994,
+                993.0422641535928,
+                1281.875090754873,
+                1013.4149846759904
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "218,4",
+            "uuid": "07b2c7d7-014c-4eda-b79d-6e1429db69b0",
+            "vertical": false,
+            "translation": "218.4"
+        },
+        {
+            "bbox": [
+                867.7196509487169,
+                1017.4895287804701,
+                908.4562515853881,
+                1039.2204306710275
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "508",
+            "uuid": "e69f504f-707f-4d80-9438-9fb6b2c94e24",
+            "vertical": false,
+            "translation": "508"
+        },
+        {
+            "bbox": [
+                1220.7701897998668,
+                1017.4895287804701,
+                1279.1593173790952,
+                1039.2204306710275
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "249,0",
+            "uuid": "77bfa079-977d-4e29-9b86-ae7314eeec5b",
+            "vertical": false,
+            "translation": "249.0"
+        },
+        {
+            "bbox": [
+                867.7196509487169,
+                1043.294974775507,
+                908.4562515853881,
+                1065.0258766660647
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "624",
+            "uuid": "dd493288-3083-4b28-8d2d-e281bab9c31c",
+            "vertical": false,
+            "translation": "624"
+        },
+        {
+            "bbox": [
+                1219.4123031119775,
+                1044.6531561436668,
+                1277.801430691206,
+                1065.0258766660647
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "179,5",
+            "uuid": "56d5d381-bf2f-4f7f-8c1b-d0013a2f1983",
+            "vertical": false,
+            "translation": "179.5"
+        },
+        {
+            "bbox": [
+                867.7196509487169,
+                1069.1004207705441,
+                908.4562515853881,
+                1094.905866765581
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "a84b7dfe-666a-468f-a2ee-2b2902805076",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1218.0544164240887,
+                1070.458602138704,
+                1280.517204066984,
+                1093.5476853974214
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "183,2",
+            "uuid": "2d878215-7d40-4b24-b476-4b2a4730f0b6",
+            "vertical": false,
+            "translation": "183.2"
+        },
+        {
+            "bbox": [
+                298.76512872321064,
+                1109.8458618153395,
+                669.4681945169176,
+                1135.6513078103767
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "0808 10 20, 0808 10 50, 0808 10 90",
+            "uuid": "8cd32479-9683-41fd-a9e8-02e598661c7c",
+            "vertical": false,
+            "translation": "0808 10 20, 0808 10 50, 0808 10 90"
+        },
+        {
+            "bbox": [
+                863.6459908850499,
+                1111.2040431834994,
+                907.0983648974991,
+                1134.2931264422168
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "49915a33-8b8b-43fb-9d49-3c6d34950928",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1228.9175099272006,
+                1111.2040431834994,
+                1280.517204066984,
+                1135.6513078103767
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "90,5",
+            "uuid": "b10eb6a6-92db-4cc3-b719-9312bbc81f25",
+            "vertical": false,
+            "translation": "90.5"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1139.725851914856,
+                908.4562515853881,
+                1160.0985724372538
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "388",
+            "uuid": "8b645a4d-cb5f-4724-a8d4-eabdce061911",
+            "vertical": false,
+            "translation": "388"
+        },
+        {
+            "bbox": [
+                1218.0544164240887,
+                1139.725851914856,
+                1279.1593173790952,
+                1160.0985724372538
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "127,5",
+            "uuid": "9bd1c8cc-6d60-4d64-bcc7-69d1c6d8ac7c",
+            "vertical": false,
+            "translation": "127.5"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1165.5312979098933,
+                907.0983648974991,
+                1187.2621998004508
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "400",
+            "uuid": "4718ec86-ea91-4a38-ac7e-9f0d401785e8",
+            "vertical": false,
+            "translation": "400"
+        },
+        {
+            "bbox": [
+                1227.5596232393118,
+                1165.5312979098933,
+                1277.801430691206,
+                1188.6203811686105
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "99,3",
+            "uuid": "db82fb33-a0b7-4994-8d10-416064c9e79f",
+            "vertical": false,
+            "translation": "99.3"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1191.3367439049302,
+                907.0983648974991,
+                1213.0676457954876
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "404",
+            "uuid": "0654a993-e947-41be-8769-aa0c6dc56c37",
+            "vertical": false,
+            "translation": "404"
+        },
+        {
+            "bbox": [
+                1227.5596232393118,
+                1191.3367439049302,
+                1280.517204066984,
+                1215.7840085318076
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "78,5",
+            "uuid": "5b144541-f2a7-416b-8267-44c304955d4f",
+            "vertical": false,
+            "translation": "78.5"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1218.5003712681273,
+                909.8141382732771,
+                1241.5894545268445
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "512",
+            "uuid": "a68e8c0f-3f50-4e96-8d98-b57856d9474b",
+            "vertical": false,
+            "translation": "512"
+        },
+        {
+            "bbox": [
+                1228.9175099272006,
+                1219.8585526362872,
+                1279.1593173790952,
+                1240.2312731586846
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "82,6",
+            "uuid": "ea15f081-9b78-4f1b-88e8-0247126ee932",
+            "vertical": false,
+            "translation": "82.6"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1247.0221799994838,
+                909.8141382732771,
+                1268.7530818900414
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "720",
+            "uuid": "851c97e1-9dbf-48d6-9566-335f9fec38d2",
+            "vertical": false,
+            "translation": "720"
+        },
+        {
+            "bbox": [
+                1231.6332833029787,
+                1245.6639986313241,
+                1276.4435440033171,
+                1268.7530818900414
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "34,3",
+            "uuid": "800d427a-a31e-4009-9fee-1c9315711df4",
+            "vertical": false,
+            "translation": "34.3"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1271.4694446263609,
+                908.4562515853881,
+                1293.2003465169187
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "800",
+            "uuid": "f372fdc1-6ef8-4d1b-ad61-420c314b6a48",
+            "vertical": false,
+            "translation": "800"
+        },
+        {
+            "bbox": [
+                1216.6965297361994,
+                1272.827625994521,
+                1277.801430691206,
+                1293.2003465169187
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "198,6",
+            "uuid": "36385b73-e13f-47e6-9c71-4312b29db7c6",
+            "vertical": false,
+            "translation": "198.6"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1298.6330719895582,
+                908.4562515853881,
+                1319.0057925119556
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "804",
+            "uuid": "84800e99-8b29-414e-9b06-60b95f7769cb",
+            "vertical": false,
+            "translation": "804"
+        },
+        {
+            "bbox": [
+                1218.0544164240887,
+                1299.991253357718,
+                1279.1593173790952,
+                1320.3639738801155
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "106,7",
+            "uuid": "d2b2e462-8c25-43d9-9ced-ab78f2bfbab0",
+            "vertical": false,
+            "translation": "106.7"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1325.7966993527552,
+                907.0983648974991,
+                1347.5276012433126
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "47a3cc6b-69fd-4ecb-87fa-b902f10c0119",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1219.4123031119775,
+                1325.7966993527552,
+                1277.801430691206,
+                1348.8857826114725
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "102,3",
+            "uuid": "8a7c31ff-dfd3-42c8-ad0e-0ce050c3dd6f",
+            "vertical": false,
+            "translation": "102.3"
+        },
+        {
+            "bbox": [
+                423.690704009002,
+                1362.4675962930708,
+                548.6162792947935,
+                1392.3475863925873
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "0808 20 50",
+            "uuid": "7a2a5d06-effb-4541-8a33-8f38f0e9da8b",
+            "vertical": false,
+            "translation": "0808 20 50"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1363.8257776612306,
+                912.5299116490552,
+                1386.914860919948
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "052",
+            "uuid": "0505428d-40cf-4202-82d4-a850888c63c2",
+            "vertical": false,
+            "translation": "052"
+        },
+        {
+            "bbox": [
+                1218.0544164240887,
+                1362.4675962930708,
+                1277.801430691206,
+                1388.273042288108
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "101,1",
+            "uuid": "54522c78-c6da-4303-944c-64d587b94286",
+            "vertical": false,
+            "translation": "101.1"
+        },
+        {
+            "bbox": [
+                866.3617642608281,
+                1393.7057677607472,
+                911.1720249611661,
+                1416.7948510194647
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "720",
+            "uuid": "0c132080-372b-4e0b-b42a-4966e1fd532b",
+            "vertical": false,
+            "translation": "720"
+        },
+        {
+            "bbox": [
+                1226.2017365514225,
+                1395.063949128907,
+                1281.875090754873,
+                1416.7948510194647
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "48,0",
+            "uuid": "8322819a-f0c1-4fc8-8751-a06842624eba",
+            "vertical": false,
+            "translation": "48.0"
+        },
+        {
+            "bbox": [
+                865.0038775729389,
+                1419.5112137557844,
+                912.5299116490552,
+                1441.242115646342
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "999",
+            "uuid": "df9d34f8-44a6-4e23-9851-30a4ae018aab",
+            "vertical": false,
+            "translation": "999"
+        },
+        {
+            "bbox": [
+                1227.5596232393118,
+                1420.8693951239443,
+                1280.517204066984,
+                1443.9584783826617
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "74,6",
+            "uuid": "5a35a8f7-5ff3-45f7-ae28-fdb4bb4a32df",
+            "vertical": false,
+            "translation": "74.6"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

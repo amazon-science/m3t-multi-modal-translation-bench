@@ -1,0 +1,343 @@
+{
+    "file": "jrc32004R1950.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                110.19815845726349,
+                120.54881840641329,
+                230.8683100376452,
+                149.41098635145124
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "12.11.2004",
+            "uuid": "b9d71de2-fc51-4666-85b7-f464e3a4553b",
+            "vertical": false,
+            "translation": "12.11.2004"
+        },
+        {
+            "bbox": [
+                327.1291839070889,
+                121.36425162728317,
+                359.4219363735134,
+                142.8527374692534
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "d0f7f7aa-afb6-47ec-9109-658ee4115e6e",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                638.7690937622706,
+                117.92498495686446,
+                1003.4028126682066,
+                150.72290307622552
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Union",
+            "uuid": "7218171a-dc4b-4cf3-a333-0bfe6725bae1",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1425.6402578730338,
+                121.23781380530615,
+                1534.0641869758854,
+                147.22371416879955
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 336/33",
+            "uuid": "2940d0e7-8498-4d4f-bc6a-fdded7ddc266",
+            "vertical": false,
+            "translation": "L 336/33"
+        },
+        {
+            "bbox": [
+                769.9434030545966,
+                217.63065603972217,
+                873.5623375638373,
+                247.8047407095344
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "93611cfb-0a88-4ac3-be55-d268a35c7539",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                240.04404176683346,
+                251.74049088385777,
+                1395.5919063572276,
+                608.581840022507
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "21ce694b-80f9-444a-9607-703c05496055",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1276.2333868592416,
+                259.6119912325045,
+                1391.6570101100415,
+                287.16224245276794
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "(EUR/100 kg)",
+            "uuid": "535e94c9-289d-484e-9f47-9492e05f64fd",
+            "vertical": false,
+            "translation": "(EUR/100 kg)"
+        },
+        {
+            "bbox": [
+                305.62564588660615,
+                367.189162664009,
+                389.5700991599151,
+                394.7394138842724
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Erzeugnis",
+            "uuid": "37218d70-168b-4c82-8fe5-d4019ad70733",
+            "vertical": false,
+            "translation": "Product"
+        },
+        {
+            "bbox": [
+                469.5796561860378,
+                356.6938288658134,
+                720.1013839235692,
+                405.23474768246797
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Code der Ausfuhrerstattungsnomenklatur",
+            "uuid": "5fd0803f-bca1-459d-b43e-633664081997",
+            "vertical": false,
+            "translation": "Export refund nomenclature code"
+        },
+        {
+            "bbox": [
+                931.2741491892372,
+                304.2171598748357,
+                1198.84709399791,
+                334.3912445446479
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Ausfuhrerstattungshöchstbetrag",
+            "uuid": "00429b42-f2eb-41e7-8750-9c53763bf224",
+            "vertical": false,
+            "translation": "Maximum amount of export refunds"
+        },
+        {
+            "bbox": [
+                751.5805539010603,
+                358.00574559058794,
+                1044.0745082752462,
+                460.33525012299475
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "bei Ausfuhr nach der Bestimmung gemäß Artikel 1 Absatz 1 erster Gedankenstrich der Verordnung (EG) Nr. 581/2004",
+            "uuid": "a055084c-b166-40d8-9fd8-a2d47a4e3326",
+            "vertical": false,
+            "translation": "when exported in accordance with the provisions of the first indent of Article 1 para. 1 of Regulation (EC) No. 581/2004"
+        },
+        {
+            "bbox": [
+                1071.6187820055509,
+                354.0699954162646,
+                1387.722113862855,
+                457.7114166734456
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "bei Ausfuhr nach den Bestimmungen gemäß Artikel 1 Absatz 1 zweiter Gedankenstrich der Verordnung (EG) Nr. 581/2004",
+            "uuid": "cdff8560-8634-477d-b3af-c41fcb74a223",
+            "vertical": false,
+            "translation": "when exported in accordance with the provisions of the second indent of Article 1 para. 1 of Regulation (EC) No. 581/2004"
+        },
+        {
+            "bbox": [
+                246.60220217881076,
+                478.70208426983686,
+                314.8070704633744,
+                504.94041876532566
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Butter",
+            "uuid": "0765aa9b-245f-4dd8-bf4c-f88cbdf3b311",
+            "vertical": false,
+            "translation": "Butter"
+        },
+        {
+            "bbox": [
+                494.5006657515514,
+                476.078250820288,
+                701.738534770033,
+                507.5642522148748
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "ex 0405 10 19 9500",
+            "uuid": "0065239b-3c30-4150-a12f-2d99cf103b77",
+            "vertical": false,
+            "translation": "ex 0405 10 19 9500"
+        },
+        {
+            "bbox": [
+                886.6786583877918,
+                486.5735846184836,
+                914.2229321180964,
+                504.94041876532566
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "d90ccf2c-96e6-485d-afa0-bfe24b6913e9",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1218.1210382037546,
+                492.4307864738195,
+                1243.090898846938,
+                499.27348866930737
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "91eef019-5830-40e1-a75d-d5fbb65b003a",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                250.5370984259971,
+                525.9310863617169,
+                313.49543838097884,
+                550.8575041324314
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Butter",
+            "uuid": "1dad1f2e-e6f9-47a4-ab94-4f95b28f1a61",
+            "vertical": false,
+            "translation": "Butter"
+        },
+        {
+            "bbox": [
+                493.18903366915595,
+                521.9953361873935,
+                699.1152706052421,
+                549.5455874076569
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "ex 0405 10 19 9700",
+            "uuid": "cab37a96-c3e2-4c51-a915-2c733ada8f7a",
+            "vertical": false,
+            "translation": "ex 0405 10 19 9700"
+        },
+        {
+            "bbox": [
+                884.5997788237382,
+                536.6474524054255,
+                912.2922763089612,
+                546.3983318016309
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "—",
+            "uuid": "66c88c91-a6c8-4631-9d56-e5d07ddc9496",
+            "vertical": false,
+            "translation": "—"
+        },
+        {
+            "bbox": [
+                1196.2238298331188,
+                524.6191696369423,
+                1268.3635943648687,
+                553.4813375819803
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "139,00",
+            "uuid": "782c96b9-5569-4207-87a0-d2152754a985",
+            "vertical": false,
+            "translation": "139.00"
+        },
+        {
+            "bbox": [
+                251.84873050839255,
+                570.536255004048,
+                331.8582875345152,
+                598.0865062243114
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Butteroil",
+            "uuid": "1088ad05-a42e-4b96-ae7f-cb8729e11d48",
+            "vertical": false,
+            "translation": "Butteroil"
+        },
+        {
+            "bbox": [
+                498.4355619987377,
+                570.536255004048,
+                697.8036385228465,
+                598.0865062243114
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "ex 0405 90 10 9000",
+            "uuid": "6712cc36-ddb0-4b59-a2b7-f446247fe4d6",
+            "vertical": false,
+            "translation": "ex 0405 90 10 9000"
+        },
+        {
+            "bbox": [
+                864.3809129870692,
+                571.8481717288223,
+                933.8974133540281,
+                599.3984229490857
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "160,00",
+            "uuid": "4e2b8b68-7794-4709-a6d1-15fd7aa8f05a",
+            "vertical": false,
+            "translation": "160.00"
+        },
+        {
+            "bbox": [
+                1192.2889335859325,
+                573.1600884535969,
+                1269.6752264472643,
+                598.0865062243114
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "170,00",
+            "uuid": "aab5dd48-3dc5-46af-9101-dfc0f636aaac",
+            "vertical": false,
+            "translation": "170.00"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

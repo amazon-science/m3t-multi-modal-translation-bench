@@ -1,0 +1,371 @@
+{
+    "file": "jrc32005R0606.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                101.8902549077429,
+                120.51807898247884,
+                221.21588718943093,
+                146.7350743004095
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "20.4.2005",
+            "uuid": "363b3a86-0b31-40a8-b72c-af5cefcfcd11",
+            "vertical": false,
+            "translation": "2005 年 4 月 20 日"
+        },
+        {
+            "bbox": [
+                326.06845548591053,
+                119.11430974993941,
+                359.71130637739896,
+                142.40491371321872
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "a0b40088-01bf-4db6-8bfb-03ec3a67213e",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                614.0687319937427,
+                120.72565304314043,
+                1041.8947794427218,
+                155.68164680038157
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "7adfa0b3-394e-4ce2-a6ec-5457b849bcb3",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1423.154726489091,
+                120.72565304314043,
+                1539.569977495616,
+                155.68164680038157
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 100/15",
+            "uuid": "121ca793-eb2f-4a32-9545-f3aac170be07",
+            "vertical": false,
+            "translation": "L 100/15"
+        },
+        {
+            "bbox": [
+                526.2496869710045,
+                209.76606916336968,
+                1115.7520507598174,
+                254.77426607536367
+            ],
+            "order": "5",
+            "label": "Title",
+            "text": "COMMISSION REGULATION (EC) No 606/2005 of 19 April 2005 amending Regulation (EC) No 795/2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation (EC) No 1782/2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers",
+            "uuid": "5451dba4-4ab7-442e-991d-f7b6d8e90bda",
+            "vertical": false,
+            "translation": "2005 年 4 月 19 日委员会 (EC) 第 606/2005 号条例修正了 (EC) 第 795/2004 号条例，该条例规定了实施理事会 (EC) 第 1782/2003 号条例规定的单一付款计划的细则，该理事会条例为共同农业政策下的直接支持计划制定了共同规则，并为农民制定了某些支持计划"
+        },
+        {
+            "bbox": [
+                104.75200884019618,
+                490.67658697394165,
+                683.9178825976577,
+                516.8935822918729
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,",
+            "uuid": "5d47e899-6f12-43f4-aa7d-836b7c5b25b1",
+            "vertical": false,
+            "translation": "欧洲共同体委员会，"
+        },
+        {
+            "bbox": [
+                101.89639233934705,
+                587.8377145109356,
+                785.2056480034436,
+                651.886875409954
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community,",
+            "uuid": "fe46d989-8942-48bf-9863-d1dc4e5ebbe4",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，"
+        },
+        {
+            "bbox": [
+                96.07374134852722,
+                713.0247108135621,
+                794.791860246907,
+                1020.1695505793082
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to Council Regulation (EC) No 1782/2003 of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) No 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001 (¹), and in particular the second subparagraph of Article 51[b) and Article 145(c) and (d) thereof,",
+            "uuid": "4e79d96b-4097-4bc5-885c-c3508ef955ff",
+            "vertical": false,
+            "translation": "考虑到 2003 年 9 月 29 日理事会 (EC) 第 1782/2003 号条例，该条例规定了共同农业政策下直接支持计划的共同规则，并为农民制定了某些支持计划，同时修正了(EEC) 第 2019/93 号，(EC) 第 1452/2001 号、(EC) 第 1453/2001 号、(EC) 第 1454/2001 号、(EC) 第 1868/94 号、(EC) 第 1251/1999 号、(EC) 第 1254/1999 号、(EC) 第 1673 号/ 2000 号，(EEC) 第 2358/71 号和 (EC) 第 2529/2001 号条例 (¹)，特别是第 51(b) 条第二分段以及第 145(c) 和 (d) 条，"
+        },
+        {
+            "bbox": [
+                106.17981709062079,
+                1096.3126412684926,
+                215.3191149092379,
+                1132.7251347656186
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Whereas:",
+            "uuid": "f0518c41-39af-4cd2-b21c-c43b90208595",
+            "vertical": false,
+            "translation": "鉴于："
+        },
+        {
+            "bbox": [
+                104.80771783475696,
+                1191.9377548084933,
+                795.3997335415185,
+                1407.3758414688268
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(1) Commission Regulation (EC) No 795/2004 (²) introduces the implementing rules for the single payment scheme as from 2005. Experience of the administrative and operational implementation of that scheme at national level has shown that in certain respects further detailed rules are needed and in other respects the existing rules need to be clarified and adapted.",
+            "uuid": "1d5108aa-a553-4eef-af4c-9467fd55e9f8",
+            "vertical": false,
+            "translation": "(1) 委员会 (EC) 第 795/2004 (²) 号条例自 2005 年起引入了单一付款计划的实施细则。 该计划在国家层面的行政和业务实施经验表明，在某些方面需要进一步的细则，而在其他方面则需要对现有规则进行澄清和调整。"
+        },
+        {
+            "bbox": [
+                101.89639233934705,
+                1475.79199061096,
+                797.7031857423169,
+                1867.90764067629
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(2) Article 24 [2) of Regulation (EC) No 795/2004 provides that the beginning of the 10 month period referred to in Article 44(3) of Regulation (EC) No 1782/2003 for each individual farmer is to be fixed by Member States at a single date within a period to be fixed between 1 September of the calendar year preceding the year of lodging an application under the single payment scheme and 30 April of the following calendar year or is to be left at the farmer's choice within the fixed period. It is appropriate to allow farmers more flexibility for the fixing of the beginning of the 10 month period at the level of each parcel when specific agriculture conditions so warrant.",
+            "uuid": "6b614486-3e7f-4930-82c2-ae195f4426d6",
+            "vertical": false,
+            "translation": "(2) (EC) 第 795/2004 号条例第 24(2) 条规定，(EC) 第 1782/2003 号条例第 44(3) 条所述每个农民的 10 个月期限的起始日期应由成员国在根据单一付款计划提出申请的年份之前的自然年的 9 月 1 日至次年的 4 月 30 日的固定期限内确定为单一日期，或由农民在固定期限内自行选择。在具体农业条件允许的情况下，应允许农民更灵活地确定每个地块的 10 个月期限的起始日期。"
+        },
+        {
+            "bbox": [
+                103.352055087052,
+                1932.8700933903167,
+                791.8805347514971,
+                2015.0141144046795
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(3) Article 51 of Regulation (EC) No 1782/2003, as amended by Council Regulation (EC) No 864/2004 (³]",
+            "uuid": "11ab87d5-e54c-4274-ac82-93eea58b0d6e",
+            "vertical": false,
+            "translation": "(3) (EC) 第 1782/2003 号条例第 51 条，经理事会 (EC) 第 864/2004 号条例修正 (³]"
+        },
+        {
+            "bbox": [
+                918.1818581826128,
+                481.3198883057277,
+                1541.003451067521,
+                791.554332901242
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "and made applicable as from 1 January 2005 by Commission Regulation (EC) No 394/2005, authorises Member States to allow secondary crops to be cultivated on the eligible hectares during a period of maximum three months starting each year on 15 August. It is appropriate to bring forward that date to allow the growing of temporary vegetable crops in regions where cereals are usually harvested sooner for climatic reasons as communicated by the Member States concerned to the Commission.",
+            "uuid": "dfd1d7ee-997b-45a8-bb1d-56bdc9eb8a23",
+            "vertical": false,
+            "translation": "并根据委员会 (EC) 第 394/2005 号条例，自 2005 年 1 月 1 日起适用，该条例授权成员国允许从每年 8 月 15 日开始在符合条件的公顷土地上种植次级作物，期限不超过三个月。将这一日期提前是适当的，以便在有关成员国向委员会通报的由于气候原因而通常较早收获谷物的地区种植临时蔬菜作物。"
+        },
+        {
+            "bbox": [
+                855.6086607666058,
+                877.4878175544596,
+                1558.4657387185,
+                954.682303768367
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(4) Regulation (EC) No 795/2004 should therefore be amended accordingly.",
+            "uuid": "eec88cd8-e6ba-49b9-87ae-a84e8689fb8d",
+            "vertical": false,
+            "translation": "(4) 因此，应对 (EC) 第 795/2004 号条例进行相应修正。"
+        },
+        {
+            "bbox": [
+                849.7878982162795,
+                1046.4417873811246,
+                1536.6378791547763,
+                1181.8962631904337
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(5) Due to the fact that Regulation (EC) No 795/2004 applies as from 1 January 2005, it is appropriate that the provisions provided for in this Regulation apply retroactively from that date.",
+            "uuid": "d7374696-c3ee-4840-bfd5-370d8b998ca3",
+            "vertical": false,
+            "translation": "(5) 由于 (EC) 第 795/2004 号条例自 2005 年 1 月 1 日起适用，因此本条例的规定应自该日起追溯适用。"
+        },
+        {
+            "bbox": [
+                854.1534701290241,
+                1270.742747323422,
+                1549.7345948930106,
+                1362.5022309361796
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Direct Payments,",
+            "uuid": "dbaa3eac-d901-4cfa-a5cd-d8d0d7aaf55a",
+            "vertical": false,
+            "translation": "(6) 本条例规定的措施符合直接支付管理委员会的意见，"
+        },
+        {
+            "bbox": [
+                846.9091483193839,
+                1468.7790033935228,
+                1226.7139047281714,
+                1502.2784974108788
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "HAS ADOPTED THIS REGULATION:",
+            "uuid": "8126b8fe-a3f2-4343-b6af-8971a07c6b98",
+            "vertical": false,
+            "translation": "已通过以下条例："
+        },
+        {
+            "bbox": [
+                1145.223229023604,
+                1598.4074802432917,
+                1257.2729081173843,
+                1633.3634740005327
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "cc745e6c-00fb-4d37-bb97-a91cfe74fd88",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                851.2747202321287,
+                1656.6674698386935,
+                1439.1717378150793,
+                1687.2539643762796
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Regulation (EC) No 795/2004 is amended as follows:",
+            "uuid": "7726c815-c721-4b04-9550-00b5a31a51a3",
+            "vertical": false,
+            "translation": "(EC) 第 795/2004 号条例修正如下："
+        },
+        {
+            "bbox": [
+                845.4624556640234,
+                1791.9001427202795,
+                1472.6496204616765,
+                1832.6821354370609
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "1. in Article 24 (2) the following subparagraph is added:",
+            "uuid": "111bba38-5797-4720-b6ef-b4b9e94be77d",
+            "vertical": false,
+            "translation": "1. 第 24(2) 条增加以下分段："
+        },
+        {
+            "bbox": [
+                883.2974122411441,
+                1915.4021404178573,
+                1535.7241988287306,
+                2186.1554114909795
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "'However, where specific agricultural conditions so warrant, Member States may authorise farmers to fix, within the fixed period referred to in the first subparagraph, two different dates for the beginning of the 10 month period in respect of their holding. Farmers who make use of this possibility shall indicate their choices in respect of each individual parcel in their single application form in addition to the information to be given by them in accordance with Article 12 of Regulation (EC) No 796/2004.'",
+            "uuid": "4fa90f29-a6e9-4d9a-9dfb-157f35c151b3",
+            "vertical": false,
+            "translation": "然而，如果具体农业条件允许，成员国可授权农民在第一分段所述的固定期限内，就其持有的土地确定两个不同的 10 个月期限的起始日期。 利用这种可能性的农民应根据 (EC) 第 796/2004 号条例第 12 条提供信息，并且应在单一申请表中说明对每个地块的选择。"
+        },
+        {
+            "bbox": [
+                104.80771783475696,
+                2030.399497486549,
+                803.5258367331368,
+                2113.7865852348746
+            ],
+            "order": "24",
+            "label": "Footnote",
+            "text": "(¹) OJ L 270, 21.10.2003, p. 1. Regulation last amended by Commission Regulation (EC) No 118/2005 (OJ L 24, 27.1.2005, p. 15].",
+            "uuid": "517640c2-41f2-4384-9fda-52c33734032a",
+            "vertical": false,
+            "translation": "(¹) OJ L 270，2003 年 10 月 21 日，第 1 页。 经委员会 (EC) 第 118/2005 号条例 (OJ L 24，2005 年 1 月 27 日，第 15 页] 最后修正的条例。"
+        },
+        {
+            "bbox": [
+                104.80771783475696,
+                2111.9166113580263,
+                791.8805347514971,
+                2164.764076130851
+            ],
+            "order": "25",
+            "label": "Footnote",
+            "text": "(²) OJ L 141, 30.4.2004, p. 1. Regulation last amended by Regulation (EC) No 394/2005 (OJ L 63, 10.3.2005, p. 17).",
+            "uuid": "9714e48c-fcea-4773-81d3-de4a19d8a00a",
+            "vertical": false,
+            "translation": "(²) OJ L 141，2004 年 4 月 30 日，第 1 页。经 (EC) 第 394/2005 号条例（OJ L 63，2005 年 3 月 10 日，第 17 页）最后修正的条例。"
+        },
+        {
+            "bbox": [
+                97.49446794710084,
+                2164.764076130851,
+                438.0090771411862,
+                2195.3505706684373
+            ],
+            "order": "26",
+            "label": "Footnote",
+            "text": "(³) OJ L 161, 30.4.2004, p. 48.",
+            "uuid": "c127d48c-8033-4acf-af8e-0d9fc060c459",
+            "vertical": false,
+            "translation": "(³) OJ L 161，2004 年 4 月 30 日，第 48 页。"
+        },
+        {
+            "bbox": [
+                710.5015224225197,
+                261.69860406182414,
+                935.6407048321297,
+                303.24463198058766
+            ],
+            "order": "6",
+            "label": "Title",
+            "text": "of 19 April 2005",
+            "uuid": "0d0e45f3-3564-45a9-86a9-18e9475fe26e",
+            "vertical": false,
+            "translation": "2005 年 4 月 19 日"
+        },
+        {
+            "bbox": [
+                249.8321184151636,
+                317.0933079535089,
+                1403.2374682982427,
+                441.73139170979937
+            ],
+            "order": "7",
+            "label": "Title",
+            "text": "amending Regulation (EC) No 795/2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation ( EC ) No 1782/2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers",
+            "uuid": "5abeb1a5-24f1-4aa5-bd46-bac2730309dc",
+            "vertical": false,
+            "translation": "修正 (EC) 第 795/2004 号条例，该条例规定了理事会 (EC) 第 1782/2003 号条例规定的单一付款计划的实施细则，该理事会条例为共同农业政策下的直接支持方案制定了共同规则，并为农民制定了某些支持计划"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,287 @@
+{
+    "file": "96a32a39c30d621b278f91d0c957521aaaf8faba80c8d21dd13411a2f6f8dc6a.png",
+    "annotations": [
+        {
+            "bbox": [
+                218.73762769532294,
+                155.1708197121005,
+                873.7681452261818,
+                184.7299585898466
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "V is the price of the relevant purchase or supply;",
+            "uuid": "4d61bb8f-4944-4080-895b-57b993cadbfd",
+            "vertical": false,
+            "translation": "V ist der Preis des entsprechenden Auftrags oder der Lieferung;"
+        },
+        {
+            "bbox": [
+                215.19053102999337,
+                227.29511857380135,
+                1436.5741494584722,
+                340.8022118643473
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "d is the duration specified in the contract for delivery of the relevant purchase or supply or, failing that, the duration of performance of the contract specified in Article I.3 expressed in days.",
+            "uuid": "e1ca7284-11bd-4acb-9cd2-88b7558ed573",
+            "vertical": false,
+            "translation": "d ist die im Vertrag angebene Dauer fur die Anlieferung des entsprechenden Auftrags oder der Lieferung oder, falls dies nicht der Fall ist, die in Artikel I.3 angegebene Dauer der Erfüllung des Vertrags in Tagen."
+        },
+        {
+            "bbox": [
+                216.37289658510323,
+                383.36737184830207,
+                1436.5741494584722,
+                451.9445740446736
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "Liquidated damages may be imposed together with a reduction in price under the conditions laid down in Article II. 15.",
+            "uuid": "b2bda99c-467a-4af6-ad08-419dd7ab8fab",
+            "vertical": false,
+            "translation": "Eine Vertragsstrafe kann zusammen mit einer Preisminderung unter den in Artikel II. 15 genannten Voraussetzungen verhängt werden."
+        },
+        {
+            "bbox": [
+                219.91999325043275,
+                573.7282262209886,
+                1436.5741494584722,
+                648.2172561929093
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "The contracting authority must formally notify the contractor of its intention to apply liquidated damages and the corresponding calculated amount.",
+            "uuid": "bf70641e-41dc-4b13-9f0c-af13543ad153",
+            "vertical": false,
+            "translation": "Der Auftraggeber muss den Auftragnehmer förmlich von seiner Absicht in Kenntnis setzen, eine Vertragsstrafe zu erheben und den entsprechenden Betrag zu berechnen."
+        },
+        {
+            "bbox": [
+                216.37289658510323,
+                688.4176850666443,
+                1438.938880568692,
+                806.6542405776297
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "The contractor has 30 days following the date of receipt to submit observations. Failing that, the decision becomes enforceable the day after the time limit for submitting observations has elapsed.",
+            "uuid": "57db3e60-e219-4450-9dd6-bd05cf2904ab",
+            "vertical": false,
+            "translation": "Der Auftragnehmer hat ab dem Eingangsdatum 30 Tage Zeit, um eine Stellungnahme einzureichen. Andernfalls wird die Verfügung am Tag nach Ablauf der Frist für die Einreichung der Stellungnahme rechtskräftig."
+        },
+        {
+            "bbox": [
+                218.73762769532294,
+                843.3075727860352,
+                1436.5741494584722,
+                921.3436994232857
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "If the contractor submits observations, the contracting authority, taking into account the relevant observations, must notify the contractor:",
+            "uuid": "c66813a9-b120-4a92-a986-4e4aba86f33a",
+            "vertical": false,
+            "translation": "Wenn der Auftragnehmer eine Stellungnahme einreicht, muss der Auftraggeber dem Auftragnehmer unter Berücksichtigung der entsprechenden Bemerkungen Folgendes mitteilen:"
+        },
+        {
+            "bbox": [
+                216.37289658510323,
+                1188.5583148781125,
+                1437.756515013582,
+                1337.536374821954
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "The parties expressly acknowledge and agree that any amount payable under this Article is not a penalty and represents a reasonable estimate of fair compensation for the damage incurred due to failure to provide the supplies within the applicable time limits set out in this contract.",
+            "uuid": "02b5e647-d0d8-4b5e-8360-56e3214b5c41",
+            "vertical": false,
+            "translation": "Die Parteien erkennen ausdrücklich an und stimmen zu, dass der gemäß diesem Artikel zu zahlende Betrag keine Vertragsstrafe darstellt und eine angemessene Schätzung einer angemessenen Entschädigung für den Schaden darstellt, der durch die Nichtbereitstellung der Lieferungen innerhalb der in diesem Vertrag festgelegten geltenden Fristen entstanden ist."
+        },
+        {
+            "bbox": [
+                219.91999325043275,
+                1458.137661443159,
+                1436.5741494584722,
+                1536.1737880804092
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Any claim for liquidated damages does not affect the contractor's actual or potential liability or the contracting authority's rights under Article II.17.",
+            "uuid": "2e39b5e2-3a16-429d-a4b2-9f22ff6b25ba",
+            "vertical": false,
+            "translation": "Ein etwaiger Anspruch auf eine Vertragsstrafe berührt nicht die tatsächliche oder potenzielle Haftung des Auftragnehmers oder die Rechte des öffentlichen Auftraggebers gemäß Artikel II.17."
+        },
+        {
+            "bbox": [
+                217.55526214021307,
+                1728.8993735633155,
+                1437.756515013582,
+                2032.767321226548
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "If the contractor fails to deliver the supply in accordance with the contract ('unperformed obligations') or if it fails to deliver the supply in accordance with the expected quality levels specified in the tender specifications ('low quality delivery'), the contracting authority may reduce or recover payments proportionally to the seriousness of the unperformed obligations or low quality delivery. This includes in particular cases where the contracting authority cannot approve a document or deliver a certificate of conformity for supply as defined in Article I.5 after the contractor has submitted the required additional information, correction or new version.",
+            "uuid": "7e05d5c6-80a5-4829-9706-ab42fa64dbc3",
+            "vertical": false,
+            "translation": "Liefert der Auftragnehmer die Lieferung nicht vertragsgemäß ('nicht erfüllte Verpflichtungen') oder liefert er die Lieferung nicht in Übereinstimmung mit dem in den Ausschreibungssunterlagen angegebenen erwarteten Qualitätsniveau ('Lieferung von geringer Qualität'), kann der öffentliche Auftraggeber die Zahlungen proportional zur Schwere der nicht erfüllten Verpflichtungen oder der minderwertigen Lieferung herabsetzen oder zurückfordern. Dies gilt insbesondere auch dann, wenn der Auftraggeber ein Dokument nicht genehmigen oder eine Konformitätsbescheinigung für die Lieferung im Sinne von Artikel I.5 nicht aushändigen kann, nachdem der Auftragnehmer die erforderlichen zusätzlichen Informationen, Berichtigungen oder Neufassungen vorgelegt hat."
+        },
+        {
+            "bbox": [
+                215.19053102999337,
+                2078.879577875832,
+                1436.5741494584722,
+                2146.274414517094
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "A reduction in price may be imposed together with liquidated damages under the conditions of Article II.14.",
+            "uuid": "7a70678a-cc6f-43ed-8174-02cff4385db2",
+            "vertical": false,
+            "translation": "Eine Preisminderung kann zusammen mit einer Vertragsstrafe unter den Voraussetzungen von Artikel II.14 verhängt werden."
+        },
+        {
+            "bbox": [
+                214.0081654748835,
+                83.04652085039939,
+                511.96428536256667,
+                109.05856306281613
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Contract number: [complete]",
+            "uuid": "eec06407-854a-4d6e-8093-814517b71d1a",
+            "vertical": false,
+            "translation": "Vertragsnummer: [vollständig]"
+        },
+        {
+            "bbox": [
+                1041.6640540517812,
+                80.68178974017964,
+                1433.0270527931425,
+                103.14673528726675
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "Contract conditions of December 2015",
+            "uuid": "ad6bfe27-fe83-4cb3-9739-f81392a8aef2",
+            "vertical": false,
+            "translation": "Vertragsbedingungen vom Dezember 2015"
+        },
+        {
+            "bbox": [
+                219.91999325043275,
+                498.0568306939579,
+                478.85804981949076,
+                528.7983351268142
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "II.14.2. Procedure",
+            "uuid": "5718154f-71b3-4363-aad1-630c71d8dc0b",
+            "vertical": false,
+            "translation": "II.14.2. Verfahren"
+        },
+        {
+            "bbox": [
+                219.91999325043275,
+                1114.0692849061918,
+                754.3492241600867,
+                1150.7226171145971
+            ],
+            "order": "12",
+            "label": "Section-header",
+            "text": "II.14.3. Nature of liquidated damages",
+            "uuid": "324ce8ef-2575-4c93-98fb-f11b6daf4820",
+            "vertical": false,
+            "translation": "II.14.3. Art der Vertragsstrafe"
+        },
+        {
+            "bbox": [
+                215.19053102999337,
+                1387.1957281365678,
+                610.1006264366846,
+                1417.937232569424
+            ],
+            "order": "14",
+            "label": "Section-header",
+            "text": "II.14.4. Claims and liability",
+            "uuid": "d7499021-f476-4209-9f2a-126cb84eae26",
+            "vertical": false,
+            "translation": "II.14.4. Ansprüche und Haftung"
+        },
+        {
+            "bbox": [
+                216.37289658510323,
+                1575.1918513990347,
+                653.848151975749,
+                1613.0275491625498
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "II.15. REDUCTION IN PRICE",
+            "uuid": "f1be344e-aff3-479b-90eb-a37899e82e36",
+            "vertical": false,
+            "translation": "II.15. PREISMINDERUNG"
+        },
+        {
+            "bbox": [
+                217.55526214021307,
+                1654.4103435913948,
+                588.8180464447072,
+                1687.5165791344707
+            ],
+            "order": "17",
+            "label": "Section-header",
+            "text": "II.15.1. Quality standards",
+            "uuid": "174b6936-03b5-465f-aeca-5b9059d54b79",
+            "vertical": false,
+            "translation": "II.15.1. Qualitätsstandards"
+        },
+        {
+            "bbox": [
+                852.4855652342046,
+                2198.2984989419274,
+                879.679973001731,
+                2217.2163478236853
+            ],
+            "order": "20",
+            "label": "Page-footer",
+            "text": "23",
+            "uuid": "14e8f916-e954-4736-bd0d-d6da5738243f",
+            "vertical": false,
+            "translation": "23"
+        },
+        {
+            "bbox": [
+                213.7392763648186,
+                959.8356182007325,
+                1135.7824320699851,
+                998.8391357855534
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "(a) of the withdrawal of its intention to apply liquidated damages; or",
+            "uuid": "f36d7f41-dee4-4c91-8f08-36f6105fcbe2",
+            "vertical": false,
+            "translation": "(a) der Rücknahme seiner Absicht, eine Vertragsstrafe zu verlangen; oder"
+        },
+        {
+            "bbox": [
+                218.41969847499712,
+                1036.2825126669816,
+                1329.2398792906968,
+                1076.8461709551952
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "(b) of its final decision to apply liquidated damages and the corresponding amount.",
+            "uuid": "a1e6c58c-7ca5-46bb-a974-1373046cf7ba",
+            "vertical": false,
+            "translation": "(b) der endgültigen Entscheidung, eine Vertragsstrafe zu verlangen und des entsprechenden Betrags."
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

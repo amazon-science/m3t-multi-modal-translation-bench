@@ -1,0 +1,539 @@
+{
+    "file": "3d337ff16bbf111f6905a6c822a54105e964e64651071970e0aa076d8d08c682.png",
+    "annotations": [
+        {
+            "bbox": [
+                139.27186912162776,
+                177.6049845995507,
+                422.74375995865813,
+                217.16429095542858
+            ],
+            "order": "2",
+            "label": "List-item",
+            "text": "2. Auftragsplanung",
+            "uuid": "ec7b2353-dfb2-451f-8bc5-c5b9e1b0282e",
+            "vertical": false,
+            "translation": "2. Order Planning"
+        },
+        {
+            "bbox": [
+                144.4639948481457,
+                238.56954858946102,
+                401.71128391984365,
+                281.0216874264162
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "3. Kundenauftrag",
+            "uuid": "489f2b56-e256-4824-a0c9-afd63b51ed2d",
+            "vertical": false,
+            "translation": "3. Customer Orders"
+        },
+        {
+            "bbox": [
+                145.0,
+                369.99999999999983,
+                575.813385302527,
+                400.4744727590196
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "5. Wirtschafts- und Sozialkunde",
+            "uuid": "ae444c4e-bea7-4d71-86e8-3548809417a4",
+            "vertical": false,
+            "translation": "5. Economics and Social Studies"
+        },
+        {
+            "bbox": [
+                770.4342250434174,
+                34.090969890855085,
+                1516.3594775059237,
+                99.09302760544489
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz sowie des Bundesamts für Justiz — www.gesetze-im-internet.de",
+            "uuid": "3ae9fcab-401a-4465-821b-961fe661fe7f",
+            "vertical": false,
+            "translation": "A service of the Federal Ministry of Justice and Consumer Protection and the Federal Office of Justice — www.gesetze-im-internet.de"
+        },
+        {
+            "bbox": [
+                132.35242668692922,
+                443.96530031757794,
+                1541.9550396026273,
+                537.5034634997344
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "(2) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:",
+            "uuid": "dc6e390b-fa8a-45e3-a979-910c7b7bbc97",
+            "vertical": false,
+            "translation": "(2) The final or journeyman's examination is passed if the examination results have been graded as follows:"
+        },
+        {
+            "bbox": [
+                146.99845089811313,
+                540.8034325480816,
+                1107.5572938357834,
+                568.6824490977237
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "1. im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend\",",
+            "uuid": "4fcaf6b5-710c-4145-94bc-35e18997d324",
+            "vertical": false,
+            "translation": "1. a minimum grade of \"sufficient\" in the overall result of Part 1 and Part 2,"
+        },
+        {
+            "bbox": [
+                143.8303808356538,
+                587.6908694724797,
+                878.8226353262195,
+                614.93627200963
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "2. im Ergebnis von Teil 2 mit mindestens ,,ausreichend\",",
+            "uuid": "888b0db4-f2fa-4ea6-a375-2a25ef5f8264",
+            "vertical": false,
+            "translation": "2. a minimum grade of \"sufficient\" in the result of Part 2,"
+        },
+        {
+            "bbox": [
+                145.0,
+                635.0000000000003,
+                1039.7605944991537,
+                663.090936959012
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "3. im Prüfungsbereich Kundenauftrag mit mindestens „ausreichend\",",
+            "uuid": "b63ba24e-1eba-4e03-a6e7-41bca4e8562b",
+            "vertical": false,
+            "translation": "3. a minimum grade of \"sufficient\" in the exam section Customer Orders,"
+        },
+        {
+            "bbox": [
+                143.68001321905717,
+                680.1985152962924,
+                1367.556752325966,
+                713.5116576783776
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "4. in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens „ausreichend“ und",
+            "uuid": "b9710d3f-41a9-4ff3-8ceb-9ca7302fbb90",
+            "vertical": false,
+            "translation": "4. a minimum grade of \"sufficient\" in at least one further exam section of Part 2, and"
+        },
+        {
+            "bbox": [
+                145.0,
+                730.0,
+                912.0000000000001,
+                756.0
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "5. in keinem Prüfungsbereich von Teil 2 mit ,,ungenügend\".",
+            "uuid": "14e0095e-348f-4c53-8f91-853c562cfa24",
+            "vertical": false,
+            "translation": "5. no exam section in Part 2 graded \"unsatisfactory.\""
+        },
+        {
+            "bbox": [
+                138.90366939726445,
+                804.5990008441718,
+                1529.555522316389,
+                868.3977792301247
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Karosserieinstandhaltungstechnik\" oder Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn",
+            "uuid": "e0fb4cd2-41f4-4eb8-8b0b-141a7c6e8b1b",
+            "vertical": false,
+            "translation": "(3) At the candidate's request, one of the exam sections \"Body Maintenance Technology\" or \"Business and Social Studies\" shall be supplemented in the examination by an oral examination of approximately 15 minutes if"
+        },
+        {
+            "bbox": [
+                146.93216690504647,
+                886.2552933695916,
+                1189.773802784966,
+                914.1347301669596
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "1. der Prüfungsbereich schlechter als mit „ausreichend\" bewertet worden ist und",
+            "uuid": "00bfe165-aba0-4cf4-8c3d-464b5ee3aded",
+            "vertical": false,
+            "translation": "1. the exam section has been graded as lower than \"sufficient,\" and"
+        },
+        {
+            "bbox": [
+                143.5509882876324,
+                933.3593887485009,
+                1514.6989345382533,
+                998.275057371569
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "2. die mündliche Ergänzungsprüfung für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann.",
+            "uuid": "61f98a0a-7af8-4a79-ba72-d643ca4a07ab",
+            "vertical": false,
+            "translation": "2. the supplementary oral examination may be decisive in order for the applicant to pass the final or journeyman's examination."
+        },
+        {
+            "bbox": [
+                1382.5457752572538,
+                184.07874351516048,
+                1580.866961167208,
+                215.75944413975375
+            ],
+            "order": "3",
+            "label": "List-item",
+            "text": "mit 10 Prozent,",
+            "uuid": "8c76b861-2d33-4d67-b64a-8b6ae8d31edc",
+            "vertical": false,
+            "translation": "with 10 percent,"
+        },
+        {
+            "bbox": [
+                1384.4466172947293,
+                246.17291673936344,
+                1580.866961167208,
+                274.68554730149737
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "mit 40 Prozent,",
+            "uuid": "64311aab-e220-4d71-a6a6-d42ee9e95343",
+            "vertical": false,
+            "translation": "with 40 percent,"
+        },
+        {
+            "bbox": [
+                1387.0,
+                309.99999999999994,
+                1577.4498170422405,
+                339.9092707688189
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "mit 20 Prozent,",
+            "uuid": "cc4b1108-8682-4189-b55f-e48202ae1146",
+            "vertical": false,
+            "translation": "with 20 percent,"
+        },
+        {
+            "bbox": [
+                1385.806376079685,
+                374.76482621223005,
+                1576.2129118819441,
+                398.9922104094273
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "mit 10 Prozent.",
+            "uuid": "275c673e-af57-4344-b06e-fdcebb2992a5",
+            "vertical": false,
+            "translation": "10 percent."
+        },
+        {
+            "bbox": [
+                140.90418057048046,
+                1014.3500029791196,
+                1551.917251215479,
+                1078.7704864641735
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.",
+            "uuid": "af2babae-56ff-4dff-a731-a276ba5f27e9",
+            "vertical": false,
+            "translation": "When determining the result for this exam section, the previous result and the result of the supplementary oral examination are to be assessed at a ratio of 2:1."
+        },
+        {
+            "bbox": [
+                137.1366891113767,
+                1101.002306538506,
+                1328.4174884799843,
+                1170.3241493860148
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "§ 11 Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Karosserie- und Fahrzeugbautechnik",
+            "uuid": "af1121da-eb42-44bd-a9f3-64a5a1fde4fe",
+            "vertical": false,
+            "translation": "§ 11 Part 2 of the final or journeyman's examination in the subject Body and Vehicle Construction Technology"
+        },
+        {
+            "bbox": [
+                137.1366891113767,
+                1198.2035861833826,
+                951.6683425696087,
+                1232.1110093153168
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "(1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf",
+            "uuid": "35fb572c-1240-49f0-8533-46f8f2912aca",
+            "vertical": false,
+            "translation": "(1) Part 2 of the final or journeyman's examination covers"
+        },
+        {
+            "bbox": [
+                141.72579796787622,
+                1241.4242713765977,
+                1160.4465713309567,
+                1278.7205339997229
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "1. die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie",
+            "uuid": "bb32e6f2-641d-459a-af5d-78943cd8a742",
+            "vertical": false,
+            "translation": "1. the skills, knowledge and abilities listed in the Annex; and"
+        },
+        {
+            "bbox": [
+                143.91817373776348,
+                1296.0,
+                1475.349655385031,
+                1326.2982957929103
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "2. den Lehrstoff des Berufsschulunterrichts, soweit der Lehrstoff für die Berufsausbildung wesentlich ist.",
+            "uuid": "3dec3cec-78fb-4a03-a38f-2c1fcfee457c",
+            "vertical": false,
+            "translation": "2. the subject matter of vocational school lessons, insofar as the subject matter is essential for the vocational training."
+        },
+        {
+            "bbox": [
+                139.0,
+                1374.0,
+                1530.0,
+                1466.0
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "(2) In Teil 2 der Abschluss- oder Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschluss- oder Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.",
+            "uuid": "2f4ad879-15a5-475d-a0f4-c2e9c4434e6c",
+            "vertical": false,
+            "translation": "(2) Part 2 of the final or journeyman's examination shall only include skills, knowledge and abilities which have already been the subject of Part 1 of the final or journeyman's examination to the extent necessary for the determination of professional ability."
+        },
+        {
+            "bbox": [
+                141.0,
+                1504.0,
+                1314.0,
+                1531.0
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "(3) Teil 2 der Abschluss- oder Gesellenprüfung besteht aus den folgenden Prüfungsbereichen:",
+            "uuid": "98368694-ca36-4210-abfb-209ff2aaa543",
+            "vertical": false,
+            "translation": "(3) Part 2 of the final or journeyman's examination consists of the following exam sections:"
+        },
+        {
+            "bbox": [
+                147.0,
+                1552.0,
+                395.2131653325094,
+                1579.8924484745385
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "1. Kundenauftrag,",
+            "uuid": "2685a2cf-4587-4e8e-9ffb-e70dbdcf2b70",
+            "vertical": false,
+            "translation": "1. Customer Orders,"
+        },
+        {
+            "bbox": [
+                143.99999999999997,
+                1597.7888936971428,
+                738.2283654324232,
+                1626.6220554446718
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "2. Karosserie- und Fahrzeugbautechnik sowie",
+            "uuid": "6022117c-ee87-4a8d-a6b3-bc83e755b21e",
+            "vertical": false,
+            "translation": "2. Body and Vehicle Construction Technology and"
+        },
+        {
+            "bbox": [
+                146.0,
+                1646.0,
+                574.1776175585513,
+                1670.368921544371
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "3. Wirtschafts- und Sozialkunde.",
+            "uuid": "04528dc2-63ea-425f-8bb3-76aeada5d62e",
+            "vertical": false,
+            "translation": "3. Economic and Social Studies."
+        },
+        {
+            "bbox": [
+                140.0,
+                1723.0,
+                1063.0,
+                1750.0
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "(4) Für den Prüfungsbereich Kundenauftrag bestehen folgende Vorgaben:",
+            "uuid": "ce86a145-1475-4fa8-bccd-1129e9112321",
+            "vertical": false,
+            "translation": "(4) The following requirements apply to the exam section Customer Order:"
+        },
+        {
+            "bbox": [
+                141.9659859794317,
+                1768.7628139873589,
+                851.753197518882,
+                1798.6127749880206
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "1. der Prüfling soll nachweisen, dass er in der Lage ist,",
+            "uuid": "d3b9d3bb-5910-4382-b413-6eba77ddcb32",
+            "vertical": false,
+            "translation": "1. the examinee should demonstrate that he is able to"
+        },
+        {
+            "bbox": [
+                206.8749750785946,
+                1816.9020537067017,
+                1023.6034371806111,
+                1845.7314912750815
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "a) Arbeitsaufträge zu analysieren und Lösungen zu entwickeln,",
+            "uuid": "e3e00041-9c7a-4ebf-846e-0cf9ba15f5c9",
+            "vertical": false,
+            "translation": "a) analyze work orders and develop solutions,"
+        },
+        {
+            "bbox": [
+                207.0,
+                1863.9999999999998,
+                1528.0,
+                1958.0
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "b) Arbeitsabläufe selbständig zu planen und umzusetzen und dabei sowohl wirtschaftliche, technische, organisatorische, zeitliche und qualitätssichernde Vorgaben zu beachten als auch den Umweltschutz zu berücksichtigen,",
+            "uuid": "3259767b-b3c3-47fa-89d2-655c2ddaf159",
+            "vertical": false,
+            "translation": "b) plan and implement work processes independently, observing economic, technical, organizational, time and quality assurance requirements, as well as taking environmental protection into account,"
+        },
+        {
+            "bbox": [
+                205.70503366706507,
+                1973.0,
+                945.8614964252071,
+                2008.967748182511
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "c) Sicherheit und Gesundheitsschutz zu berücksichtigen,",
+            "uuid": "db0fe659-afbc-4313-8908-66dd35da218c",
+            "vertical": false,
+            "translation": "c) take health and safety into account,"
+        },
+        {
+            "bbox": [
+                204.99400583721848,
+                2015.7451093667692,
+                568.4248908498921,
+                2055.9017848277094
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "d) Material zu disponieren,",
+            "uuid": "0580f82e-b97b-4543-bb7c-d98bfd3ec32c",
+            "vertical": false,
+            "translation": "d) arrange material,"
+        },
+        {
+            "bbox": [
+                207.93880087674953,
+                2073.0,
+                1145.631279909284,
+                2099.9031769098574
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "e) fahrzeugtechnische Systeme außer Betrieb und in Betrieb zu nehmen,",
+            "uuid": "a3979b49-d3f5-441f-bd90-738ccade4b0b",
+            "vertical": false,
+            "translation": "e) decommission and commission in-vehicle technical systems,"
+        },
+        {
+            "bbox": [
+                205.70503366706507,
+                2119.7319970801614,
+                984.0687691179011,
+                2147.611433877529
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "f) Bauteile und Baugruppen herzustellen und zu montieren,",
+            "uuid": "99bea871-fedb-464a-bec7-1178acc82bc4",
+            "vertical": false,
+            "translation": "f) manufacture and assemble components and assemblies,"
+        },
+        {
+            "bbox": [
+                206.0,
+                2168.0,
+                1040.0,
+                2194.0
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "g) Systeme aufzubauen und Funktionsprüfungen durchzuführen,",
+            "uuid": "1149ea4c-d5fc-4679-bed5-fd196322ae56",
+            "vertical": false,
+            "translation": "g) set up systems and perform functional tests,"
+        },
+        {
+            "bbox": [
+                766.8745838567148,
+                2272.271262921552,
+                941.3033599135094,
+                2294.933782890915
+            ],
+            "order": "38",
+            "label": "Page-footer",
+            "text": "- Seite 6 von 24 -",
+            "uuid": "4a5af4b1-702b-48e5-9132-9cfadd1932de",
+            "vertical": false,
+            "translation": "- Page 6 of 24 -"
+        },
+        {
+            "bbox": [
+                140.66019046435838,
+                300.4928457703217,
+                637.2332871036841,
+                345.65620214765875
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "4. Karosserieinstandhaltungstechnik",
+            "uuid": "706094ff-d769-4249-918c-ccc008f4df93",
+            "vertical": false,
+            "translation": "4. Body Maintenance Technology"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

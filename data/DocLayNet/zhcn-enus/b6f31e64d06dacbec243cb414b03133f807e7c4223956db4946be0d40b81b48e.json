@@ -1,0 +1,147 @@
+{
+    "file": "b6f31e64d06dacbec243cb414b03133f807e7c4223956db4946be0d40b81b48e.png",
+    "annotations": [
+        {
+            "bbox": [
+                193.0,
+                237.00000000000003,
+                1453.0,
+                396.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "传送联系地址，或者在具有长的请求或者期望长的响应的情况下，只发送联 系地址。如果对于两种情况请求实体都发送信息，则可以由位置实体执行确 定步骤。",
+            "uuid": "05a2b197-c9c8-425d-99b8-700d05dd5247",
+            "vertical": false,
+            "translation": "Transmit a contact address, or only send a contact address in the case of a long request or expected long response. If the requesting entity sends information in both cases, the location entity can perform the determining step."
+        },
+        {
+            "bbox": [
+                195.0,
+                423.0,
+                1447.0,
+                586.0000000000001
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "如果请求实体与客户端应用之间以及客户端应用与位置实体之间使用的传送协议为安全超文本传送协议（HTTP），则是有利的，这是因为此时可以保障信息的安全传送。使用这样的安全信道防止所谓的中间人类型的攻击。",
+            "uuid": "123457c2-6a3f-4d65-96b6-7eb4945e3210",
+            "vertical": false,
+            "translation": "It is advantageous if the transfer protocol used between the requesting entity and the client application, as well as between the client application and the location entity, is the Secure Hypertext Transfer Protocol (HTTP), due to the fact that at this point the secure transfer of information can be guaranteed. Using such a secure channel prevents so-called man-in-the-middle attacks."
+        },
+        {
+            "bbox": [
+                195.0,
+                613.0000000000001,
+                1451.0,
+                964.0000000000001
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "所返回的位置信息可以相对于客户端应用的位置。如果其为相对的，则在重定向步骤中的位置信息表示 ”localhost“，并且如果其为绝对的，则其可以为 URL（统一资源定位符）或者其他标识请求实体通过本地正常地址转换 或者借助远程目录从其导出 URL 的位置实体的信息。标识关于个人的信息也可以用来由请求实体通过列出个人与其位置实体的特定目录导出适当位置实体的 URL。",
+            "uuid": "8b7cbdd3-04fb-4210-b99e-b2112ce9c1fc",
+            "vertical": false,
+            "translation": "The location information returned can be relative to the location of the client application. If it is relative, the location information in the redirection step means \"localhost,\" and if it is absolute, it can be the URL (Uniform Resource Locator) or other identifying information for the requesting entity from which the URL is exported via the local normal address translation or with the assistance of a remote directory. The requesting entity can also use information that identifies an individual to export the URL of the appropriate location entity by listing the specific directory where the individual is associated with their location entity."
+        },
+        {
+            "bbox": [
+                196.0,
+                989.0,
+                1452.0,
+                1343.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "重定向步骤可以通过超文本传送协议重定向或者简称为 HTTP 重定向进行，至 localhost 或者所导出的 URL，从而向位置实体传送实际的传送指令与返回地址或者联系地址与可能的已有的传送指令与返回地址。这使具有更灵活的传送协议的获取步骤成为可能，并且不需要要求客户端应用（如果其为浏览器的话）打扰用户来按压”提交“按钮从而开始推式操作或者使能脚本。",
+            "uuid": "9d093117-f77f-416b-be4f-f46ebf00bb77",
+            "vertical": false,
+            "translation": "The redirection step can be performed via Hypertext Transfer Protocol redirection or HTTP redirection for short, to localhost or the exported URL, thereby transmitting the actual delivery instruction and a return address or contact address, as well as possibly existing delivery instructions and return address, to the location entity. This enables the obtaining step with a more flexible transfer protocol and does not require the client application (if it is a browser) to bother the user to press the \"submit\" button to start a push operation or enable scripts."
+        },
+        {
+            "bbox": [
+                198.0,
+                1363.0,
+                1456.0,
+                1595.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "该方法还可以包括：由请求实体从在位置实体假名之下的位置实体，与验证一道接受身份相关信息，其中身份相关信息对应于个人的个人假名。这 样的益处在于：可以可靠地保护个人的匿名性。显然，本发明还包括正常的、 非匿名位置实体身份以及个人身份。",
+            "uuid": "4c75fcd5-8967-45bc-915b-b60c88a4368a",
+            "vertical": false,
+            "translation": "The method may also include: the requesting entity receiving from the location entity under the location entity pseudonym, together with the verification, identity-related information, wherein the identity-related information corresponds to a personal pseudonym of the individual, which has the benefit of reliably preserving the anonymity of the individual, and, obviously, the present invention includes normal, non-anonymous location entity identities as well as personal identities."
+        },
+        {
+            "bbox": [
+                199.0,
+                1615.0,
+                1457.0,
+                2164.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "该方法还可以包括：由请求实体发送对于使用身份相关信息的服务器策略。具体地，请求实体或者服务器可以（例如）在传送指令中通过引用或者直接包含对于所请求的身份相关信息的、所承诺的隐私策略或者隐私偏好，例如隐私偏好纲领（P3P），其还可以包含另一安全相关策略，例如有关安全存储的。来自位置实体的身份相关信息还可以包含或者引用预定隐私或者其 他安全策略。这样的益处在于：请求实体可以优化方式与个人以及位置实体 按不同策略交互，例如此时提供不同程度的个性化。请求实体完全可以拒绝继续依赖于应用的交互，除非提供了最少量的信息。这可以在请求中指示，还可以指示对信息或者其指令的其他要求，例如由一定级别权威方的确认，",
+            "uuid": "84aab695-d043-47d7-bb8a-1b84bfbb7857",
+            "vertical": false,
+            "translation": "The method may also include sending a server policy for using the identity-related information by the requesting entity. Specifically, the requesting entity or server may (for example) contain, either by reference or directly in the transmission instruction, a committed privacy policy or privacy preference for the requested identity-related information, such as a Privacy Preference Program (P3P), which may also contain another security-related policy, such as regarding secure storage. The identity-related information from the location entity may also contain or refer to predetermined privacy or other security policies. The benefit of this is that the requesting entity can interact with both the person and the location entity in an optimized manner according to different strategies, such as providing different degrees of personalization at this time. The requesting entity is completely free to refuse further application-dependent interactions unless a minimum amount of information is provided. This may be indicated in the request, but may also indicate other requirements for the information or its instructions, such as confirmation from a party with a certain level of authority,"
+        },
+        {
+            "bbox": [
+                168.78361736784828,
+                155.36195030346315,
+                327.018258650206,
+                187.00887855993471
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "79138281-eeff-4f12-b736-53c34b93b06a",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1198.0622839949942,
+                153.8549537198216,
+                1342.7339560245784,
+                187.00887855993471
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "6973869d-5aed-489d-b4c6-10f8e177a70d",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1369.8598945301258,
+                155.36195030346315,
+                1490.4196212214458,
+                183.99488539265164
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 6/17 页",
+            "uuid": "0640ae3d-fba5-4699-852f-8ff4544661c6",
+            "vertical": false,
+            "translation": "Page 6/17"
+        },
+        {
+            "bbox": [
+                813.7781551664112,
+                2207.891297223189,
+                852.9600663410904,
+                2241.0452220633024
+            ],
+            "order": "10",
+            "label": "Page-footer",
+            "text": "10",
+            "uuid": "3db763c2-afed-4a77-b64a-c655d7ae7eb6",
+            "vertical": false,
+            "translation": "10"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

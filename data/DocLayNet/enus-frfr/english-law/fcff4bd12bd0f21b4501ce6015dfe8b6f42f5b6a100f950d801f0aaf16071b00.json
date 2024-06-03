@@ -1,0 +1,455 @@
+{
+    "file": "fcff4bd12bd0f21b4501ce6015dfe8b6f42f5b6a100f950d801f0aaf16071b00.png",
+    "annotations": [
+        {
+            "bbox": [
+                214.9984130859375,
+                219.00000000000003,
+                407.4405517578125,
+                241.68769236884884
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Contract title :",
+            "uuid": "d0d9ed69-0b54-43c9-af55-a83ecde76aee",
+            "vertical": false,
+            "translation": "Titre du contrat :"
+        },
+        {
+            "bbox": [
+                237.83276151038956,
+                360.8728428161448,
+                264.0784877494504,
+                612.9752984519532
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Tender envelope number",
+            "uuid": "ab828aa8-439d-43a2-bc45-2cf2792bcc1b",
+            "vertical": true,
+            "translation": "N° de l'enveloppe de l'offre"
+        },
+        {
+            "bbox": [
+                245.0,
+                648.0,
+                256.0,
+                666.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "83a1a527-c83a-40a0-98b1-9603ef578c4e",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                242.0,
+                715.0,
+                259.0,
+                733.0
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "a48a2519-3e3c-4316-900f-c0d2f18fa38e",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                244.0,
+                781.0,
+                258.0,
+                799.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "73c636f4-3f38-4bc1-a2e3-0d87e6fe6dfe",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                243.0,
+                848.0,
+                257.0,
+                866.0
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "97966568-93c8-4a60-8866-08ff7ab56f4f",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                244.0,
+                915.0,
+                257.0,
+                932.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "aeb01dd1-2c77-4682-9c00-8392583c564c",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                245.0,
+                982.9999999999999,
+                259.0,
+                1001.0
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "9",
+            "uuid": "268f2972-371e-4d54-a954-2ccabbe6f60b",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                242.0,
+                1047.0,
+                260.0,
+                1067.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "7",
+            "uuid": "43b295c3-668d-4635-a51f-30a85076c93e",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                243.0,
+                1115.0,
+                258.0,
+                1133.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "8",
+            "uuid": "4fe482ad-5828-48ea-9373-e75c72a5e4cb",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                196.0,
+                1221.0,
+                460.0,
+                1245.0
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Chairperson's name",
+            "uuid": "90661a00-430b-449a-bb65-4492389adf41",
+            "vertical": false,
+            "translation": "Nom du président"
+        },
+        {
+            "bbox": [
+                196.0,
+                1289.0,
+                510.0,
+                1314.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Chairperson's signature",
+            "uuid": "0b110a52-33bd-4aed-8ad0-bc771bf5f707",
+            "vertical": false,
+            "translation": "Signature du président"
+        },
+        {
+            "bbox": [
+                193.64906099793305,
+                1358.0,
+                257.49875591084816,
+                1382.5401845749386
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Date",
+            "uuid": "35391011-f1b4-4e6a-94f5-498b7fa1d499",
+            "vertical": false,
+            "translation": "Date"
+        },
+        {
+            "bbox": [
+                197.55136069792852,
+                1525.7499834742944,
+                336.75556859565177,
+                1548.247223965027
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "August 2020",
+            "uuid": "95ae944e-c736-451b-9e06-aefa8b2e39b3",
+            "vertical": false,
+            "translation": "août 2020"
+        },
+        {
+            "bbox": [
+                528.0,
+                201.00000000000014,
+                1189.794167109247,
+                260.0471080681469
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Lot 1 - Construction of Giresun Wastewater Treatment Plant",
+            "uuid": "1fb1c43f-505b-47bd-8e56-f2d54d6306c4",
+            "vertical": false,
+            "translation": "Lot 1 - Construction de la station de traitement des eaux usées de Giresun"
+        },
+        {
+            "bbox": [
+                514.163556516311,
+                479.2269134241473,
+                665.1380587918943,
+                499.5050508533133
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Tenderer name",
+            "uuid": "9d2a44ff-85b8-431e-8688-2662a61f8329",
+            "vertical": false,
+            "translation": "Nom du soumissionnaire"
+        },
+        {
+            "bbox": [
+                198.0,
+                1565.0,
+                583.0,
+                1587.0
+            ],
+            "order": "31",
+            "label": "Page-footer",
+            "text": "Voll_section5_d41_admingrid_en.doc",
+            "uuid": "e6f858dd-e445-482e-90b8-601b07b33e94",
+            "vertical": false,
+            "translation": "Voll_section5_d41_admingrid_en.doc"
+        },
+        {
+            "bbox": [
+                798.0,
+                109.00000000000001,
+                1537.0,
+                136.0
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "ADMINISTRATIVE COMPLIANCE GRID",
+            "uuid": "4b737c1d-cffc-4dc5-b3f4-b56711c6e1dc",
+            "vertical": false,
+            "translation": "GRILLE DE CONFORMITÉ ADMINISTRATIVE"
+        },
+        {
+            "bbox": [
+                872.9624019290089,
+                365.71831965558425,
+                971.5181063076112,
+                619.3262052643563
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Tender submission form duly completed (Yes/No)",
+            "uuid": "f05ee473-4b37-49bf-a705-751ee64a5762",
+            "vertical": true,
+            "translation": "Formulaire de soumission des offres dûment rempli (Oui/Non)"
+        },
+        {
+            "bbox": [
+                1064.0,
+                456.99999999999994,
+                1081.0,
+                518.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "others",
+            "uuid": "7cef9a6f-39ba-4bbd-8182-fc1991b1c16f",
+            "vertical": true,
+            "translation": "autres"
+        },
+        {
+            "bbox": [
+                1174.1882073402664,
+                372.054263426144,
+                1334.4939877404684,
+                603.4883464075634
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Tenderer's declaration (signed by each consortium member, if appropriate)? (Yes/No)",
+            "uuid": "e0408987-1952-4def-90a0-3aac80d6dd1c",
+            "vertical": true,
+            "translation": "Déclaration du soumissionnaire (signée par chaque membre du consortium, le cas échéant) ? (Oui/Non)"
+        },
+        {
+            "bbox": [
+                1392.0,
+                376.0,
+                1413.0,
+                603.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Language as required?",
+            "uuid": "7cd72956-02c6-4130-a925-2554cdbc296f",
+            "vertical": true,
+            "translation": "Langue requise ?"
+        },
+        {
+            "bbox": [
+                1491.8734239099201,
+                377.71081111525325,
+                1626.465059105178,
+                599.9323274731239
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Sub-contracting statement acceptable? (Yes/No/Not Applicable)",
+            "uuid": "3a931ee0-6ad9-402b-9bb2-9cddfea446fa",
+            "vertical": true,
+            "translation": "Déclaration de sous-traitance acceptable ? (Oui/Non/Non applicable)"
+        },
+        {
+            "bbox": [
+                1745.0,
+                385.0000000000002,
+                1848.5494142461532,
+                592.6416429359665
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Nationality of sub-contractors eligible? (Yes/No)",
+            "uuid": "f3e429ab-38ef-49db-b7d0-5c595fdb70dd",
+            "vertical": true,
+            "translation": "Nationalité des sous-traitants éligible ? (Oui/Non)"
+        },
+        {
+            "bbox": [
+                1895.0,
+                66.0,
+                2222.0,
+                86.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ref. Ares(2021)2862163-29/04/2021",
+            "uuid": "a3585bc1-46cf-4d67-96ca-447be86b2e3c",
+            "vertical": false,
+            "translation": "Réf. Ares(2021)2862163-29/04/2021"
+        },
+        {
+            "bbox": [
+                2032.6677687723,
+                398.8290780584204,
+                2092.438415164606,
+                577.3061367166861
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Overall decision? (Accept/Reject)",
+            "uuid": "fd8c7130-d2a5-40c6-b5b6-77fcfd4a08ec",
+            "vertical": true,
+            "translation": "Décision globale ? (Accepter/Refuser)"
+        },
+        {
+            "bbox": [
+                1992.0,
+                1523.0,
+                2107.0,
+                1549.0
+            ],
+            "order": "32",
+            "label": "Page-footer",
+            "text": "Page 1 of 2",
+            "uuid": "bab22347-04a0-4b71-9888-93354a958bc2",
+            "vertical": false,
+            "translation": "Page 1 sur 2"
+        },
+        {
+            "bbox": [
+                1238.0512657556217,
+                201.262291024668,
+                1535.085144109824,
+                225.53210842591974
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Publication reference :",
+            "uuid": "8689ae03-f7ca-4003-b471-7e56f05a085b",
+            "vertical": false,
+            "translation": "Référence de la publication :"
+        },
+        {
+            "bbox": [
+                1597.75485959583,
+                200.52401584027422,
+                1995.4536423203679,
+                225.3955411483677
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "NEAR/ANK/2021/EA-OP/0084",
+            "uuid": "5cea4d57-9d74-49a6-a087-1c4a734b39e8",
+            "vertical": false,
+            "translation": "NEAR/ANK/2021/EA-OP/0084"
+        },
+        {
+            "bbox": [
+                185.3605797879048,
+                176.2392136449556,
+                2191.7706903731146,
+                286.7241641603812
+            ],
+            "order": "3",
+            "label": "Table",
+            "text": "Contract title: Lot 1 Treatment Plant Construction of Giresun Wastewater Publication reference: NEAR/ANK/2021/EA-OP/0084",
+            "uuid": "6875abe8-2b5b-4f7d-8a8f-25e2e58f4b9e",
+            "vertical": false,
+            "translation": "Intitulé du contrat : Lot 1 - Construction de la station de traitement des eaux usées de Giresun Référence de la publication : NEAR/ANK/2021/EA-OP/0084"
+        },
+        {
+            "bbox": [
+                180.03278764797523,
+                351.22445854540996,
+                2192.0217396407875,
+                1164.9259722829288
+            ],
+            "order": "8",
+            "label": "Table",
+            "text": "Tender envelope number 1 2 3 4 5 9 7 8 Tenderer name Tender submission form duly completed ? (Yes/No) others Tenderer's declaration (signed by each consortium member, if appropriate)? (Yes/No) Language as required? Sub-contracting statement acceptable? (Yes/No/Not Applicable) Nationality of sub contractors eligible? (Yes/No) Overall decision? (Accept/Reject)",
+            "uuid": "b1c6a001-16f9-4af5-9053-812963ce23bb",
+            "vertical": true,
+            "translation": "Enveloppe de l'offre numéro 1 2 3 4 5 9 7 8 Nom du soumissionnaire Formulaire de soumission de l'offre dûment rempli ? (Oui/Non) Autres Déclaration du soumissionnaire (signée par chaque membre du consortium, le cas échéant) ? (Oui/Non) Langue requise ? Déclaration de sous-traitance acceptable ? (Oui/Non/Non applicable) Nationalité des sous-traitants éligible ? (Oui/Non) Décision globale ? (Accepter/Rejeter)"
+        },
+        {
+            "bbox": [
+                181.76387214459038,
+                1192.9869744494933,
+                1338.1283158835083,
+                1406.0418708607199
+            ],
+            "order": "26",
+            "label": "Table",
+            "text": "Chairperson's name Chairperson's signature Date",
+            "uuid": "557e416e-1998-4fb9-96c6-0266cb2a551c",
+            "vertical": false,
+            "translation": "Nom du président Signature du président Date"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

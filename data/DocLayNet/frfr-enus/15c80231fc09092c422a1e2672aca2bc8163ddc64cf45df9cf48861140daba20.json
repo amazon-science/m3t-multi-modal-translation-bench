@@ -1,0 +1,441 @@
+{
+    "file": "15c80231fc09092c422a1e2672aca2bc8163ddc64cf45df9cf48861140daba20.png",
+    "annotations": [
+        {
+            "bbox": [
+                233.6219674702194,
+                167.32106890655052,
+                492.3538286517944,
+                207.1259448932242
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "Secrétariat général",
+            "uuid": "29002fb2-6c65-4d71-946c-7c060684e970",
+            "vertical": false,
+            "translation": "General Secretariat"
+        },
+        {
+            "bbox": [
+                234.4872914206594,
+                219.198232909893,
+                1083.3700868023486,
+                257.2724621145368
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "[insérer le nom de l'unité et le nom de l'ordonnateur compétent]",
+            "uuid": "565c5ff4-4374-408b-b74b-c356f78d352a",
+            "vertical": false,
+            "translation": "[insert the name of the unit and the name of the authorizing officer responsible]"
+        },
+        {
+            "bbox": [
+                233.6219674702194,
+                274.5789299348298,
+                483.7005891473938,
+                304.86524862034236
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "Rue de la Loi 175",
+            "uuid": "cc9fc09b-9f4b-481d-bbf3-bac8a8d811f7",
+            "vertical": false,
+            "translation": "Rue de la Loi 175"
+        },
+        {
+            "bbox": [
+                237.94858722241963,
+                321.30639304962045,
+                577.1555757949193,
+                356.78465208122066
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "1048 Bruxelles, Belgique",
+            "uuid": "d80156b2-bfe8-4a83-af5e-461b2fe0a05e",
+            "vertical": false,
+            "translation": "1048 Brussels, Belgium"
+        },
+        {
+            "bbox": [
+                232.75664351977937,
+                368.03385616441085,
+                640.3242241770432,
+                413.8959958881865
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "Courriel: [boîte fonctionnelle]",
+            "uuid": "74c17396-982c-4eed-84b3-df70f4e684f5",
+            "vertical": false,
+            "translation": "Email: [functional box]"
+        },
+        {
+            "bbox": [
+                150.37459232230123,
+                419.20511239542185,
+                992.9092150612585,
+                460.997477377896
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Contractant (ou chef de file dans le cas d'une offre conjointe):",
+            "uuid": "6fb70176-9c2f-402f-b7cf-712580a78dde",
+            "vertical": false,
+            "translation": "Contractor (or leader in the case of a joint tender):"
+        },
+        {
+            "bbox": [
+                232.30243576689486,
+                469.92443882966234,
+                445.42393647046816,
+                512.5487389703769
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "[Nom complet]",
+            "uuid": "c41b3882-b8d2-4da2-aaf5-278a6cba6022",
+            "vertical": false,
+            "translation": "[Full Name]"
+        },
+        {
+            "bbox": [
+                232.73110266927918,
+                519.5755348103181,
+                380.7014981945277,
+                557.6497640149624
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "[ Fonction]",
+            "uuid": "b064a21d-9bb9-44f7-9656-d4b7f37c1ded",
+            "vertical": false,
+            "translation": "[ Function]"
+        },
+        {
+            "bbox": [
+                234.4617505701592,
+                571.4949382711967,
+                553.7662882825377,
+                609.5691674758409
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "[ Dénomination sociale]",
+            "uuid": "c94f4d22-c194-4e3f-87b8-42c4fdc5d320",
+            "vertical": false,
+            "translation": "[ Legal Name]"
+        },
+        {
+            "bbox": [
+                235.3270745205993,
+                621.6836949500458,
+                619.5309085159815,
+                662.3538943277339
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "[ Adresse officielle complète]",
+            "uuid": "b5b65bed-f630-43b2-b74b-73f8c83741ee",
+            "vertical": false,
+            "translation": "[Official full address]"
+        },
+        {
+            "bbox": [
+                235.3270745205993,
+                671.872451628895,
+                522.6146260666959,
+                711.6773276155684
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Courriel : [compléter]",
+            "uuid": "fef3f182-dabe-4f4f-9fff-52f0e3247ef3",
+            "vertical": false,
+            "translation": "Email: [to be completed]"
+        },
+        {
+            "bbox": [
+                155.34919388898675,
+                721.8596308818481,
+                1302.1324303947893,
+                758.6369120664252
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Les parties doivent s'informer mutuellement de tout changement de ces coordonnées.",
+            "uuid": "d23274d7-9a44-42a4-85bb-87fa54bfd47f",
+            "vertical": false,
+            "translation": "The parties must inform each other of any change in these contact details."
+        },
+        {
+            "bbox": [
+                227.23252985428562,
+                772.0823456122492,
+                1083.1407180335436,
+                807.1879321975275
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "1.9 TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL",
+            "uuid": "499810ed-0f6e-4f2d-96c0-c47426ceb1c3",
+            "vertical": false,
+            "translation": "1.9 PROCESSING OF PERSONAL DATA"
+        },
+        {
+            "bbox": [
+                153.6779199326306,
+                820.561488991919,
+                1333.8950700391856,
+                865.6972431729909
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "I.9.1 Traitement des données à caractère personnel par le pouvoir adjudicateur",
+            "uuid": "798732a2-ae73-4a17-80c4-2565bfa6ba3a",
+            "vertical": false,
+            "translation": "I.9.1 Processing of personal data by the contracting authority"
+        },
+        {
+            "bbox": [
+                155.34961561266826,
+                872.3840215701867,
+                518.1075781808303,
+                914.1763865526606
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Aux fins de l'article II.9.1,",
+            "uuid": "dfeba163-a9d7-4a95-af6e-09bb0fb7688f",
+            "vertical": false,
+            "translation": "For the purposes of Article II.9.1,"
+        },
+        {
+            "bbox": [
+                146.9911372124802,
+                920.8631649498565,
+                855.7901055484283,
+                971.0140029288252
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "a) le responsable du traitement des données sont:",
+            "uuid": "83be3da2-e252-458c-8773-55ce99556f8c",
+            "vertical": false,
+            "translation": "a) the data controller is:"
+        },
+        {
+            "bbox": [
+                233.91931257443608,
+                981.0441705246191,
+                894.2391061892934,
+                1024.508230106392
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "• le Directeur de la Prévention et de la Sécurité;",
+            "uuid": "c6ae2c88-713b-42ce-ace7-d34bc1959adb",
+            "vertical": false,
+            "translation": "• the Director of Prevention and Security;"
+        },
+        {
+            "bbox": [
+                150.33452857255543,
+                1032.8667031028865,
+                1241.9518076371169,
+                1074.6590680853606
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "b) l'avis relatif à la protection des données est disponible à l'adresse suivante:",
+            "uuid": "2bb62b93-06d2-48b4-a208-e763ef20fdb7",
+            "vertical": false,
+            "translation": "b) the data protection notice is available at the following address:"
+        },
+        {
+            "bbox": [
+                233.5916240666337,
+                1091.6562837695021,
+                1446.0007377326372,
+                1131.5254351620981
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/data-protection/search/.",
+            "uuid": "36023c9d-ba6f-4565-843f-ef34867ad199",
+            "vertical": false,
+            "translation": "https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/data-protection/search/."
+        },
+        {
+            "bbox": [
+                153.7799770635621,
+                1143.227297357191,
+                1206.9482554872586,
+                1178.332883942469
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "I.9.2 Traitement des données à caractère personnel par le contractant",
+            "uuid": "916c2d86-0878-426c-8694-46d426747345",
+            "vertical": false,
+            "translation": "I.9.2 Processing of personal data by the contractor"
+        },
+        {
+            "bbox": [
+                153.7799770635621,
+                1195.0498299354583,
+                518.2096353117618,
+                1235.1705003186337
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Aux fins de l'article II.9.2,",
+            "uuid": "ed4da74f-c077-4302-b9dc-05ce6c2c022d",
+            "vertical": false,
+            "translation": "For the purposes of Article II.9.2,"
+        },
+        {
+            "bbox": [
+                152.10828138352448,
+                1246.8723625137263,
+                1499.4949994938406,
+                1337.14387087587
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "a) l'objet et la finalité du traitement des données à caractère personnel par le contractant sont l'enregistrement et la gestion des demandes d'interventions dans un système de gestion informatisé;",
+            "uuid": "9b92457c-f313-4031-999f-ab1a4c24cefc",
+            "vertical": false,
+            "translation": "a) the object and purpose of the processing of personal data by the contractor is the recording and management of requests for assistance in a computerized management system;"
+        },
+        {
+            "bbox": [
+                155.45167274359972,
+                1340.487260074468,
+                1502.8383908539158,
+                1422.400295440117
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "b) la localisation des données à caractère personnel traitées par le contractant et l'accès à ces données doivent répondre aux exigences suivantes:",
+            "uuid": "3db04798-69d2-4d98-8ee7-e4c763fd8351",
+            "vertical": false,
+            "translation": "b) the location of the personal data processed by the contractor and the access to these data must meet the following requirements:"
+        },
+        {
+            "bbox": [
+                147.02824889645524,
+                1434.2514075955366,
+                1496.086662686809,
+                1519.5078321597834
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "i. les données à caractère personnel doivent être traitées exclusivement sur le territoire de l'Union européenne et de l'Espace économique européen et ne quitteront pas ce territoire;",
+            "uuid": "47f29984-8e53-4724-8a0c-c196ff0f8b2c",
+            "vertical": false,
+            "translation": "i. personal data must be processed exclusively within the territory of the European Union and the European Economic Area and will not leave this territory;"
+        },
+        {
+            "bbox": [
+                148.69994457649287,
+                1527.8663051562783,
+                1507.7885324470724,
+                1609.779340521927
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "ii. les données doivent être conservées exclusivement dans des centres de données situés sur le territoire de l'Union européenne et de l'Espace économique européen;",
+            "uuid": "988ed1ff-a06d-4b45-889a-bbef09a955f4",
+            "vertical": false,
+            "translation": "ii. the data must be kept exclusively in data centers located within the territory of the European Union and the European Economic Area;"
+        },
+        {
+            "bbox": [
+                147.02824889645524,
+                1623.1528973163188,
+                1509.46022812711,
+                1705.0659326819675
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "iii. aucun accès n'est accordé à ces données en dehors de l'Union européenne et de l'Espace économique européen;",
+            "uuid": "4db87570-a755-4f84-a1e8-ac0f555ec1ce",
+            "vertical": false,
+            "translation": "iii. no access is granted to such data outside the European Union and the European Economic Area;"
+        },
+        {
+            "bbox": [
+                153.7150316166057,
+                1711.7527110791634,
+                1496.086662686809,
+                1793.6657464448126
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "iv. le contractant n'est pas autorisé à modifier le lieu du traitement des données sans l'autorisation écrite préalable du pouvoir adjudicateur;",
+            "uuid": "b5565558-39b9-4609-a1aa-ce14ed4b114c",
+            "vertical": false,
+            "translation": "iv. the contractor is not authorized to change the place of data processing without the prior written authorization of the contracting authority;"
+        },
+        {
+            "bbox": [
+                147.02824889645524,
+                1817.069470834998,
+                1497.7583583668468,
+                1929.073008988028
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "v . tout transfert de données à caractère personnel au titre du CC vers des pays tiers ou des organisations internationales doit satisfaire pleinement aux exigences du chapitre V du règlement (UE) 2018/1725³.",
+            "uuid": "e4ded755-4067-4b9e-9d19-5701c362825c",
+            "vertical": false,
+            "translation": "v. any transfer of personal data under the CC to third countries or international organizations must fully comply with the requirements of Chapter V of Regulation (EU) 2018/1725³."
+        },
+        {
+            "bbox": [
+                145.3578183874623,
+                2022.7898024140356,
+                1504.4464062580416,
+                2166.555537953746
+            ],
+            "order": "29",
+            "label": "Footnote",
+            "text": "3 Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions, organes et organismes de l'Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n° 45/2001 et la décision n° 1247/2002/CE, JO L 295 du 21.11.2018, p. 39.",
+            "uuid": "53354b60-9666-4da9-ad08-194fb2412e9f",
+            "vertical": false,
+            "translation": "3 Regulation (EU) 2018/1725 of the European Parliament and of the Council of October 23, 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC, OJ L 295 of 21.11.2018, p. 39."
+        },
+        {
+            "bbox": [
+                1476.0275796974022,
+                2167.9895234284486,
+                1499.324410871507,
+                2203.7824138736573
+            ],
+            "order": "30",
+            "label": "Page-footer",
+            "text": "8",
+            "uuid": "017c4450-b5d4-4c3d-bdfa-b4781b2391ca",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                1427.5484049763118,
+                2206.676208336921,
+                1494.416232177816,
+                2250.140267918694
+            ],
+            "order": "31",
+            "label": "Page-footer",
+            "text": "FR",
+            "uuid": "3eaae8db-1277-4cb6-a91e-f3d33d2c56be",
+            "vertical": false,
+            "translation": "EN"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

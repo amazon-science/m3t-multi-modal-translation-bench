@@ -1,0 +1,1379 @@
+{
+    "file": "jrc32001R0586.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                119.5717492937763,
+                141.99777948747095,
+                227.17706008183384,
+                164.5089144683421
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "27.3.2001",
+            "uuid": "cb2546ae-eaf0-4dc7-9eac-477ad75c6300",
+            "vertical": false,
+            "translation": "2001 年 3 月 27 日"
+        },
+        {
+            "bbox": [
+                336.1889762396701,
+                141.99777948747095,
+                363.61778095035146,
+                164.5089144683421
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "0f30d161-6551-48ea-a52a-af7b70c09765",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                583.7515213206915,
+                139.18388761486187,
+                1069.0303738942846,
+                171.5436441498645
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "2f02e600-a286-429a-a42c-60e923bf6c69",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1448.6388450702686,
+                140.67723991171752,
+                1534.4417726267586,
+                168.11268566965427
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 86/13",
+            "uuid": "bf7792c9-dad1-4de9-9254-552052532a64",
+            "vertical": false,
+            "translation": "L 86/13"
+        },
+        {
+            "bbox": [
+                151.23415494740848,
+                242.5253192798689,
+                203.2029085046438,
+                260.62596313645776
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "NACE",
+            "uuid": "18ceac8f-03d5-4528-8b9c-d5e3c8ec841d",
+            "vertical": false,
+            "translation": "NACE"
+        },
+        {
+            "bbox": [
+                119.68169743051561,
+                312.14633140403447,
+                142.88203383999564,
+                334.4240469198365
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "37",
+            "uuid": "fe3170d3-ec68-46b4-ba0e-4efc81c14412",
+            "vertical": false,
+            "translation": "37"
+        },
+        {
+            "bbox": [
+                119.20562744140625,
+                369.6970964865235,
+                158.75048828125,
+                388.32897452405064
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "28.1",
+            "uuid": "624120f3-2204-4411-859e-4ca54a9bda14",
+            "vertical": false,
+            "translation": "28.1"
+        },
+        {
+            "bbox": [
+                118.33408368324059,
+                429.15790987639406,
+                160.6580832102056,
+                447.57380188587547
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "28.2",
+            "uuid": "a3abac99-0f07-41c4-86a4-c63d9d5f9e25",
+            "vertical": false,
+            "translation": "28.2"
+        },
+        {
+            "bbox": [
+                251.90064317557756,
+                311.0749003295178,
+                342.51520435328547,
+                337.40847824312397
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Recycling",
+            "uuid": "3ad1b05f-0354-49c8-a524-076dac56cbfa",
+            "vertical": false,
+            "translation": "回收"
+        },
+        {
+            "bbox": [
+                615.4616353967615,
+                242.63783421492323,
+                760.3419884839502,
+                266.5559151320992
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "NACE description",
+            "uuid": "475f4915-6283-4242-9725-f2e122aa5345",
+            "vertical": false,
+            "translation": "NACE 描述"
+        },
+        {
+            "bbox": [
+                251.1508446241219,
+                367.8560225460201,
+                657.6597964901174,
+                395.2914683039571
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Manufacture of structural metal products",
+            "uuid": "b5ef0343-bef4-4308-84c4-b37b7764cfc3",
+            "vertical": false,
+            "translation": "金属结构产品制造"
+        },
+        {
+            "bbox": [
+                252.76871758405682,
+                427.01580210025793,
+                1124.3005670748482,
+                476.0755993977936
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Manufacture of tanks, reservoirs and containers of metal; manufacture of central heating radiators and boilers",
+            "uuid": "b2520a10-318a-4c51-8761-86ddd1de97b2",
+            "vertical": false,
+            "translation": "金属罐、储罐和容器的制造；中央加热散热器和锅炉的制造"
+        },
+        {
+            "bbox": [
+                1240.2883890323544,
+                241.12608685151068,
+                1432.7789206136656,
+                266.1885168067878
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Aggregate classification",
+            "uuid": "75edbb74-5cb7-4258-96a3-5d22983453cd",
+            "vertical": false,
+            "translation": "综合分类"
+        },
+        {
+            "bbox": [
+                1156.750332727281,
+                311.68307173186633,
+                1337.119758136553,
+                338.1378589068815
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Intermediate goods",
+            "uuid": "bac09abe-8bc8-4eb4-ae43-e268ee89e5ac",
+            "vertical": false,
+            "translation": "中间产品"
+        },
+        {
+            "bbox": [
+                1158.6050311890729,
+                366.44912237487944,
+                1287.042899668169,
+                394.7603858428782
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "18ce01a1-34f5-40e8-b4a8-ae0282547ff4",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1157.743516890054,
+                426.74129142216754,
+                1284.9637788008092,
+                454.59739976723256
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "ea8a18f4-7b88-486b-ae17-0871ae80be9c",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                118.74664184572639,
+                514.5770980830921,
+                159.90893037482417,
+                533.2831989152486
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "28.3",
+            "uuid": "c6164674-e1eb-4402-a7cc-bae701956bc2",
+            "vertical": false,
+            "translation": "28.3"
+        },
+        {
+            "bbox": [
+                116.75882525337084,
+                573.9429701387811,
+                159.0433881265166,
+                592.2115652363065
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "29.1",
+            "uuid": "080a2546-4e57-4fdb-ad3e-177fc1132818",
+            "vertical": false,
+            "translation": "29.1"
+        },
+        {
+            "bbox": [
+                115.7561750809629,
+                660.3941803963218,
+                160.49513615781999,
+                678.1013902541094
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "29.2",
+            "uuid": "a0cdb6cf-64e2-4923-98ad-a1632210bec1",
+            "vertical": false,
+            "translation": "29.2"
+        },
+        {
+            "bbox": [
+                117.73410809699239,
+                719.1670471583403,
+                160.02419972543203,
+                737.5335680214711
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "29.3",
+            "uuid": "fee2c786-ba8a-4fa8-ae5c-5e63a5121f41",
+            "vertical": false,
+            "translation": "29.3"
+        },
+        {
+            "bbox": [
+                253.03657474116997,
+                513.27363891832,
+                987.3653241446168,
+                540.5573368560022
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Manufacture of steam generators, except central heating hot water boilers",
+            "uuid": "bc3f0f3b-0448-411e-9842-2a3babc9459d",
+            "vertical": false,
+            "translation": "除中央加热热水锅炉外的蒸汽发生器的制造"
+        },
+        {
+            "bbox": [
+                251.0345236745564,
+                570.113030669225,
+                1124.1880055924678,
+                624.477309058221
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Manufacture of machinery for the production and use of mechanical power, except aircraft, vehicle and cycle engines",
+            "uuid": "9d2e873d-4c0f-4ce5-ae88-d94fd752fdac",
+            "vertical": false,
+            "translation": "生产和使用机械动力的机械制造，飞机、车辆和自行车发动机除外"
+        },
+        {
+            "bbox": [
+                252.3296126323924,
+                658.9019137160002,
+                735.8555283525444,
+                685.6338865057846
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Manufacture of other general purpose machinery",
+            "uuid": "184ffb16-f27b-4b0b-ae6a-f0965c0a9dc4",
+            "vertical": false,
+            "translation": "其他通用机械制造"
+        },
+        {
+            "bbox": [
+                252.3296126323924,
+                716.5866971044827,
+                755.5339086434808,
+                744.0221428624197
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Manufacture of agricultural and forestry machinery",
+            "uuid": "caa48755-bd19-4ba0-a23c-51b0fc4a2e7f",
+            "vertical": false,
+            "translation": "农业和林业机械制造"
+        },
+        {
+            "bbox": [
+                251.62681333628754,
+                776.3818993974223,
+                543.2885212198095,
+                797.486088441989
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Manufacture of machine-tools",
+            "uuid": "f9caea5e-2a89-4358-a1c2-58133aed0729",
+            "vertical": false,
+            "translation": "机床制造"
+        },
+        {
+            "bbox": [
+                118.0944681379008,
+                777.7879769280929,
+                160.96522520029802,
+                798.8921659726599
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "29.4",
+            "uuid": "dac30f60-81b2-432e-86bf-f19c5febdfad",
+            "vertical": false,
+            "translation": "29.4"
+        },
+        {
+            "bbox": [
+                1157.6306007081128,
+                512.5099856760008,
+                1283.7500961099688,
+                538.964772851016
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "9cfdaabd-3909-4f25-a802-a8a5fcfd9e4b",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.1259701999236,
+                572.4570304834263,
+                1284.8554575986618,
+                597.8719952139998
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "e97b3f92-2247-449e-856a-c46b36a9aafd",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.2876337189493,
+                658.7226429888284,
+                1284.747011659607,
+                684.478279450099
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "049e8f18-85d4-4101-91ef-38bebcc7d1c9",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9149181078828,
+                717.3161164906878,
+                1285.5139873335268,
+                742.933787558024
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "393b3525-579b-4657-a244-a34e53cd4f79",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.0471240607044,
+                775.8677936178517,
+                1285.4680858462016,
+                801.9005977084191
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "61819090-dab1-494e-980e-61cf6019a297",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.5400858678565,
+                835.5884437084311,
+                1285.6361092415893,
+                860.7086842696054
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "cb5caeec-9a7c-4e1a-a7d5-7fc58f78a7cc",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.2855170899895,
+                893.7878129293698,
+                1285.014916556478,
+                918.9080534905441
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "e64d0936-47dc-4e42-ba1b-356031bee9b8",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                119.55053435972965,
+                837.5697224697834,
+                159.8038203549295,
+                855.6015783181509
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "29.5",
+            "uuid": "316ec2a6-ffb7-4e2b-9a77-140978215769",
+            "vertical": false,
+            "translation": "29.5"
+        },
+        {
+            "bbox": [
+                119.49290124858061,
+                895.5460117755639,
+                160.28760510845873,
+                913.8415503816916
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "29.6",
+            "uuid": "3d5c7d5a-fb07-4d67-ad9b-45a1814b6da4",
+            "vertical": false,
+            "translation": "29.6"
+        },
+        {
+            "bbox": [
+                119.87157598221516,
+                954.8031425113916,
+                142.53024297945544,
+                972.3411980086571
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "229ea09f-7d27-409f-8253-c11def67b07a",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                119.54603947018254,
+                1013.8188967072413,
+                158.31993979720224,
+                1031.4110820054245
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "31.1",
+            "uuid": "236a7999-a109-4833-8cb6-7eaba848c679",
+            "vertical": false,
+            "translation": "31.1"
+        },
+        {
+            "bbox": [
+                119.54662911259318,
+                1072.7541219318143,
+                160.28760510845873,
+                1090.3471140352872
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "32.2",
+            "uuid": "9b607ec8-f2d8-472b-b5b7-2585c355423a",
+            "vertical": false,
+            "translation": "32.2"
+        },
+        {
+            "bbox": [
+                119.71044766915344,
+                1158.698251787642,
+                158.2680361393976,
+                1176.506956289495
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "33.1",
+            "uuid": "5674927c-951f-4494-a24a-5ca064fddb59",
+            "vertical": false,
+            "translation": "33.1"
+        },
+        {
+            "bbox": [
+                119.6041343732989,
+                1217.8407415355662,
+                160.37891937549256,
+                1235.4329268337492
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "33.2",
+            "uuid": "ca6da86b-4191-40d0-bf40-cde6a1e07667",
+            "vertical": false,
+            "translation": "33.2"
+        },
+        {
+            "bbox": [
+                119.81858517121589,
+                1303.9374715474548,
+                160.43113628082793,
+                1321.421397243803
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "33.3",
+            "uuid": "43e45bab-0298-4806-a5c4-94763d74db66",
+            "vertical": false,
+            "translation": "33.3"
+        },
+        {
+            "bbox": [
+                119.71055822710545,
+                1362.8400214025269,
+                143.0722387588663,
+                1380.540466302545
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "34",
+            "uuid": "f5009c91-db65-4514-99ad-4c4cff0ca57a",
+            "vertical": false,
+            "translation": "34"
+        },
+        {
+            "bbox": [
+                119.9257829306864,
+                1421.9112752256228,
+                158.32113750834887,
+                1439.5034605238059
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "35.1",
+            "uuid": "06476227-2d63-4ee9-a712-3ef5d5460106",
+            "vertical": false,
+            "translation": "35.1"
+        },
+        {
+            "bbox": [
+                119.60046753455775,
+                1479.8952221642144,
+                160.2335087179395,
+                1497.707033833106
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "35.2",
+            "uuid": "b14e32c2-cc82-41fb-b069-a56ac3517114",
+            "vertical": false,
+            "translation": "35.2"
+        },
+        {
+            "bbox": [
+                119.65648026291154,
+                1538.7520950491294,
+                160.17941232742027,
+                1556.627758944833
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "35.3",
+            "uuid": "842ad11c-429c-4437-a4ac-8434adc38c5d",
+            "vertical": false,
+            "translation": "35.3"
+        },
+        {
+            "bbox": [
+                119.33193877244686,
+                1597.8400206609585,
+                160.10672377464053,
+                1615.5404655609766
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "29.7",
+            "uuid": "81dcdf42-2904-49d9-9d77-edb3794cdba7",
+            "vertical": false,
+            "translation": "29.7"
+        },
+        {
+            "bbox": [
+                119.43991043758133,
+                1656.8027810094318,
+                160.16061747558115,
+                1674.50322590945
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "32.3",
+            "uuid": "f14ea73f-7f76-4201-9cd5-473674331625",
+            "vertical": false,
+            "translation": "32.3"
+        },
+        {
+            "bbox": [
+                119.54729246030516,
+                1742.8181467900877,
+                161.24140285379497,
+                1760.7351108937755
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "33.4",
+            "uuid": "28c6654c-686f-4899-adbb-3d6e9959f31f",
+            "vertical": false,
+            "translation": "33.4"
+        },
+        {
+            "bbox": [
+                119.65767797405816,
+                1801.9376835944051,
+                159.5131375849557,
+                1819.4757390916707
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "33.5",
+            "uuid": "1bc1794a-39d5-4187-b359-2ff8c1fc8a5e",
+            "vertical": false,
+            "translation": "33.5"
+        },
+        {
+            "bbox": [
+                119.76587075509663,
+                1860.9590841475615,
+                161.08143539922924,
+                1878.497139644827
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "35.4",
+            "uuid": "69a4800c-b482-447d-a302-18683eb6229a",
+            "vertical": false,
+            "translation": "35.4"
+        },
+        {
+            "bbox": [
+                119.71146111704672,
+                1920.0118570646869,
+                159.2965309069748,
+                1937.6040423628697
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "35.5",
+            "uuid": "60497c66-def9-4b5e-89d2-c9f06902e0c7",
+            "vertical": false,
+            "translation": "35.5"
+        },
+        {
+            "bbox": [
+                119.98161139578684,
+                1979.056315748376,
+                158.052498188286,
+                1996.3778520419714
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "36.1",
+            "uuid": "9220fcda-28b7-4ad9-a461-d9cc07970815",
+            "vertical": false,
+            "translation": "36.1"
+        },
+        {
+            "bbox": [
+                119.44064749059461,
+                2037.971427913195,
+                160.16135452859442,
+                2055.5094834104602
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "36.2",
+            "uuid": "8c81d817-e223-445e-9679-010825b3dbc6",
+            "vertical": false,
+            "translation": "36.2"
+        },
+        {
+            "bbox": [
+                120.14386371469388,
+                2097.0152468435854,
+                160.05340128978528,
+                2114.661561942686
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "36.3",
+            "uuid": "1056fdce-72ba-41d2-b990-256d64c4773c",
+            "vertical": false,
+            "translation": "36.3"
+        },
+        {
+            "bbox": [
+                119.54670281789451,
+                2155.9026617882446,
+                158.15836925233256,
+                2173.765496091015
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "15.1",
+            "uuid": "5a4885ec-ea8c-4e40-9b37-e29a072c7ab9",
+            "vertical": false,
+            "translation": "15.1"
+        },
+        {
+            "bbox": [
+                249.5937718784317,
+                832.8099166888719,
+                730.7471914943616,
+                861.092655134419
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Manufacture of other special purpose machinery",
+            "uuid": "de6de639-72ae-45e8-82e4-3a4fce13e5c1",
+            "vertical": false,
+            "translation": "其他专用机械的制造"
+        },
+        {
+            "bbox": [
+                251.0749678821726,
+                894.3685057655913,
+                665.222122685817,
+                919.4189312459331
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Manufacture of weapons and ammunition",
+            "uuid": "dcf7a33a-d23f-4fe4-8505-fac177b44cba",
+            "vertical": false,
+            "translation": "武器和弹药制造"
+        },
+        {
+            "bbox": [
+                253.49688106815879,
+                951.7420608979869,
+                728.9991699167874,
+                976.7924863783288
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Manufacture of office machinery and computers",
+            "uuid": "6fec025e-80c6-46bc-9e03-daeb5b886c79",
+            "vertical": false,
+            "translation": "办公机械和计算机制造"
+        },
+        {
+            "bbox": [
+                251.0749678821726,
+                1010.7317725129851,
+                844.4436984487975,
+                1038.2064327172309
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Manufacture of electric motors, generators and transformers",
+            "uuid": "6040cb89-ebb7-4a39-b161-ed34b829447b",
+            "vertical": false,
+            "translation": "电动机、发电机和变压器制造"
+        },
+        {
+            "bbox": [
+                251.0749678821726,
+                1068.9134058866823,
+                1126.1929324185282,
+                1125.4788827777768
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy",
+            "uuid": "77c10eac-4b73-4307-a118-5567ea897c39",
+            "vertical": false,
+            "translation": "电视和无线电发射机以及有线电话和有线电报设备的制造"
+        },
+        {
+            "bbox": [
+                251.9515919111157,
+                1154.424059190685,
+                1001.1300707761877,
+                1182.7067976362325
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Manufacture of medical and surgical equipment and orthopaedic appliances",
+            "uuid": "a62337c4-ccb1-4c86-9e04-7d53a66da449",
+            "vertical": false,
+            "translation": "医疗和手术设备以及矫形器具的制造"
+        },
+        {
+            "bbox": [
+                252.01245708430406,
+                1215.1925336113793,
+                1123.8074663886207,
+                1270.7593949266386
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Manufacture of instruments and appliances for measuring, checking, testing, navigating and other purposes, except industrial process control equipment",
+            "uuid": "8a06cee9-7e98-4532-8ce4-24148bf11fd7",
+            "vertical": false,
+            "translation": "用于测量、检查、测试、导航和其他目的的仪器和器具的制造，工业过程控制设备除外"
+        },
+        {
+            "bbox": [
+                253.41805567651375,
+                1301.3147823649645,
+                770.1931501556244,
+                1327.4372870964426
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Manufacture of industrial process control equipment",
+            "uuid": "a7b03741-8d96-4b9f-b268-30300308ef6a",
+            "vertical": false,
+            "translation": "工业过程控制设备制造"
+        },
+        {
+            "bbox": [
+                251.9037283545724,
+                1360.4560797110883,
+                804.9072391547602,
+                1384.6984269501286
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Manufacture of motor vehicles, trailers and semi-trailers",
+            "uuid": "2172ef6c-ce67-4673-9747-b8c91d3816ea",
+            "vertical": false,
+            "translation": "汽车、拖车及半拖车制造"
+        },
+        {
+            "bbox": [
+                253.41805567651375,
+                1419.42529494131,
+                668.5898658339557,
+                1446.1407680240548
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Building and repairing of ships and boats",
+            "uuid": "32a54bdf-2e61-443d-a378-08243a09f27c",
+            "vertical": false,
+            "translation": "船舶的建造和修理"
+        },
+        {
+            "bbox": [
+                253.24065499615332,
+                1477.777512464147,
+                921.8595810460299,
+                1502.837922824289
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Manufacture of railway and tramway locomotives and rolling stock",
+            "uuid": "f79baeb0-46da-442c-ba3d-64a406d75d38",
+            "vertical": false,
+            "translation": "铁路、有轨电车机车及机车车辆制造"
+        },
+        {
+            "bbox": [
+                251.54465599769335,
+                1535.403568552381,
+                627.3315630112791,
+                1563.0772526729336
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Manufacture of aircraft and spacecraft",
+            "uuid": "59d8dd68-f569-4775-a7a6-f686d8bfe410",
+            "vertical": false,
+            "translation": "飞机和航天器制造"
+        },
+        {
+            "bbox": [
+                253.08581356690277,
+                1597.446507759874,
+                662.8178031960432,
+                1622.068061645202
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Manufacture of domestic appliances n.e.c.",
+            "uuid": "e839f8bd-a861-40cb-a23b-137dee569fba",
+            "vertical": false,
+            "translation": "未另分类的家用电器的制造"
+        },
+        {
+            "bbox": [
+                253.37805972902163,
+                1652.9612374826968,
+                1123.832224067777,
+                1707.5303349454714
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Manufacture of television and radio receivers, sound or video recording or reproducing apparatus and associated goods",
+            "uuid": "01c2688e-2355-4408-9395-4fd06163dc5f",
+            "vertical": false,
+            "translation": "电视和无线电接收器、声音或视频录制或复制设备及相关产品的制造"
+        },
+        {
+            "bbox": [
+                251.8737114643715,
+                1739.4609439124818,
+                891.2152679166958,
+                1767.0282104059766
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Manufacture of optical instruments and photographic equipment",
+            "uuid": "4ab0788a-0f3c-4d8e-be08-8dca1e517a23",
+            "vertical": false,
+            "translation": "光学仪器和摄影器材的制造"
+        },
+        {
+            "bbox": [
+                251.8710302720611,
+                1799.2564619057669,
+                601.3777477993317,
+                1822.8855474716195
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Manufacture of watches and clocks",
+            "uuid": "27f6b73e-0a87-493f-85b2-654012b045f3",
+            "vertical": false,
+            "translation": "钟表制造"
+        },
+        {
+            "bbox": [
+                253.83823506114518,
+                1858.9855393083387,
+                653.836542174907,
+                1885.2400788259529
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "Manufacture of motorcycles and bicycles",
+            "uuid": "12fab779-1ec1-49da-9155-7d5699553720",
+            "vertical": false,
+            "translation": "摩托车和自行车制造"
+        },
+        {
+            "bbox": [
+                251.2152953423664,
+                1918.7146167109106,
+                728.5903241601017,
+                1938.4055213491213
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Manufacture of other transport equipment n.e.c.",
+            "uuid": "df6d8a08-3b11-4bf6-8d01-ad6bc5865d51",
+            "vertical": false,
+            "translation": "未另分类的其他运输设备的制造"
+        },
+        {
+            "bbox": [
+                252.52676520175578,
+                1977.130967137602,
+                494.49295425909696,
+                1999.447325727574
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Manufacture of furniture",
+            "uuid": "adc83fdf-ff52-4187-b9bf-bd991649ba1d",
+            "vertical": false,
+            "translation": "家具制造"
+        },
+        {
+            "bbox": [
+                250.54749504727505,
+                2035.5473175642933,
+                689.2341630130237,
+                2059.832766618086
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "Manufacture of jewellery and related articles",
+            "uuid": "9a2f0ef7-6c0c-434f-ab87-14da27cce15d",
+            "vertical": false,
+            "translation": "珠宝及相关物品制造"
+        },
+        {
+            "bbox": [
+                252.5146998363591,
+                2093.9636679909845,
+                604.6443570824084,
+                2116.936390068897
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "Manufacture of musical instruments",
+            "uuid": "edf165b2-019f-4ade-ba72-517a971200f8",
+            "vertical": false,
+            "translation": "乐器制造"
+        },
+        {
+            "bbox": [
+                252.68737792968753,
+                2153.1248779296875,
+                908.2496295310506,
+                2180.603648399111
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Production, processing and preserving of meat and meat products",
+            "uuid": "95d064a5-7920-4318-b714-2834adf6d38a",
+            "vertical": false,
+            "translation": "肉类和肉制品的生产、加工和保藏"
+        },
+        {
+            "bbox": [
+                1158.6033353573428,
+                951.4669972095728,
+                1285.877625445433,
+                978.9920245417838
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "0e862a7c-0920-4750-b46d-7a50db82964c",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9547350053952,
+                1010.256733516113,
+                1285.3306227244263,
+                1037.2044126563808
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "e38b4cb2-bb63-4391-b305-9f9661fe6c19",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.0083001203916,
+                1071.4181722083865,
+                1285.6821421070945,
+                1096.257823582582
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "a25f3966-9f75-48e9-b292-64c6b0971006",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9444976957907,
+                1155.9615176318728,
+                1286.033661489762,
+                1182.3782269741955
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "a10621ec-1a69-498e-942d-796e1dccc593",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9444976957907,
+                1215.2655882353124,
+                1285.79977064272,
+                1240.7664833308306
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "7d89d794-a075-4df3-b294-4ee2575b320c",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9438391554065,
+                1301.3876198874893,
+                1284.7449131581786,
+                1327.4161197091219
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "b89fa835-bf79-4458-a518-eab29101adcf",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.2534922592886,
+                1360.3980447348233,
+                1285.2844650302443,
+                1386.6024127984938
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "f6d56fdc-6270-4502-a99a-0bafe641ca41",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9132637259897,
+                1419.7079805352173,
+                1285.4701051570653,
+                1445.306156564891
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "12b31322-db3c-409a-8cdd-e7dfd30465ed",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.015594631663,
+                1477.1483645176768,
+                1285.0509931919553,
+                1503.481942431283
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "eac26c77-8a46-423d-9e6e-d31fe08247f2",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1159.2072353527574,
+                1536.3963623046875,
+                1286.2786865234375,
+                1562.37890625
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Capital goods",
+            "uuid": "8cd7056d-0a8b-40db-a474-7ee47626e060",
+            "vertical": false,
+            "translation": "资本品"
+        },
+        {
+            "bbox": [
+                1158.9447816122465,
+                1595.5220614162067,
+                1338.0509990224132,
+                1615.6583473575115
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "20c5dc9d-d115-42c6-ae2a-ab386d23e275",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.5121578986955,
+                1654.4166212303624,
+                1338.69993459274,
+                1674.3363879679973
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "2173b0a6-e683-4b19-baf8-b9f7e38fceba",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.952004731777,
+                1740.7855989902241,
+                1338.7071577122701,
+                1761.1384041351987
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "4059b329-8b27-4102-aa27-6911df61d31f",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.298794253973,
+                1799.8278525876276,
+                1337.8376353776907,
+                1820.3971769362724
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "d63c0172-449a-4548-b5cd-adf0739dee01",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1159.041224794916,
+                1858.975208606734,
+                1338.384728066414,
+                1879.978840220825
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "eaaa3f64-8b03-4699-ac92-51313fe13abe",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.9520784370784,
+                1917.2919360387107,
+                1338.7072314175716,
+                1938.5108179983654
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "83823fa2-d3db-411f-993e-a08e5ae4d3d3",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.9520784370784,
+                1976.401678640606,
+                1338.923543274347,
+                1996.9710029892508
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "d7f76b7a-07ee-4e95-b044-e26d5c656306",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.5194547235271,
+                2035.294902038831,
+                1338.4909195607959,
+                2055.647707183806
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "19cd7287-ef34-4e02-8947-cce61751bd6b",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1158.9541421855156,
+                2094.545121777949,
+                1338.492983309233,
+                2115.330965330264
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "Consumer durables",
+            "uuid": "1a5856c3-0b1f-443d-894f-aa6e98481792",
+            "vertical": false,
+            "translation": "耐用消费品"
+        },
+        {
+            "bbox": [
+                1159.1629346797479,
+                2153.733607498573,
+                1383.0925958470186,
+                2174.0076695248194
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Consumer non-durables",
+            "uuid": "56375dd8-a49f-403e-93c6-e15b7c7d090e",
+            "vertical": false,
+            "translation": "非耐用消费品"
+        },
+        {
+            "bbox": [
+                98.23867430315727,
+                214.57742348783012,
+                1555.2437638148392,
+                2204.4306035093973
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "a4ca0335-55c6-4cf4-b26f-a598dd0b858b",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

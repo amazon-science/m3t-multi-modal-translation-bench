@@ -1,0 +1,679 @@
+{
+    "file": "jrc32001L0080.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                87.49373219939831,
+                119.84079239707974,
+                218.73433049849575,
+                163.58765849677886
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "27.11.2001",
+            "uuid": "e74641fd-6252-4ee8-96a4-13be53400abe",
+            "vertical": false,
+            "translation": "27.11.2001"
+        },
+        {
+            "bbox": [
+                312.6859544954807,
+                128.4607922832861,
+                344.4561851661445,
+                158.5589055502309
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "33880857-9d6f-4a1b-b815-a8dbbdc51ef6",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                547.3291931370642,
+                123.48129799305427,
+                1062.6338058246192,
+                161.32852943338315
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "3bf75bfa-f0e7-4cc1-84d2-913bdb5768db",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1414.9041907692188,
+                123.48129799305427,
+                1522.6232340993859,
+                164.23985492879305
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 309/17",
+            "uuid": "83cf6a88-45d7-4bc3-8d97-8a7250acd8cd",
+            "vertical": false,
+            "translation": "L 309/17"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                234.11166681863097,
+                879.2202996137946,
+                266.13624726814
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE VII",
+            "uuid": "92c6f341-60a4-4e1c-b59c-028db6d20461",
+            "vertical": false,
+            "translation": "ANNEX VII"
+        },
+        {
+            "bbox": [
+                503.6593107059154,
+                286.5155257360094,
+                1115.0376647419978,
+                327.27408267174815
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "VALEURS LIMITES D'ÉMISSION POUR LES POUSSIÈRES",
+            "uuid": "e44ea852-e08b-4937-ba2b-a7ce15661e8c",
+            "vertical": false,
+            "translation": "EMISSION LIMIT VALUES FOR DUST"
+        },
+        {
+            "bbox": [
+                214.34021816962357,
+                348.7504440467213,
+                1387.6043928198192,
+                459.380812872298
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "A. Valeurs limites d'émission pour les poussières exprimées en mg/Nm³ (teneur en O₂: 6 % pour les combustibles so lides, 3 % pour les combustibles liquides et gazeux) applicables aux installations nouvelles et existantes visées à l'article 4, paragraphes 1 et 3 respectivement:",
+            "uuid": "c6ce2483-2fa0-45fa-811f-a3ce53db4e21",
+            "vertical": false,
+            "translation": "A. Emission limit values for dust expressed in mg/Nm³ (O₂ content: 6% for solid fuels, 3% for liquid and gaseous fuels) applicable to new and existing installations referred to in Article 4, paragraphs 1 and 3 respectively:"
+        },
+        {
+            "bbox": [
+                369.7383379170593,
+                484.4856594238837,
+                576.4424480911633,
+                525.2442163596226
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Type de combustible",
+            "uuid": "8186880a-8d94-41ec-a3ca-2cf5505f2fdf",
+            "vertical": false,
+            "translation": "Type of fuel"
+        },
+        {
+            "bbox": [
+                270.75327107312216,
+                551.4461458183117,
+                375.56098890787916,
+                583.4707262678207
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Solide",
+            "uuid": "29c278dc-ae9d-4dd3-9020-114bdad5d171",
+            "vertical": false,
+            "translation": "Solid"
+        },
+        {
+            "bbox": [
+                267.84194557771224,
+                624.2292832035598,
+                404.67424386197825,
+                659.1651891484787
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Liquide (¹)",
+            "uuid": "85a58fea-c1f0-4cc2-a882-0475e8c6146b",
+            "vertical": false,
+            "translation": "Liquid (¹)"
+        },
+        {
+            "bbox": [
+                271.74167217269064,
+                679.1724888911331,
+                367.2184759090414,
+                715.8943364820371
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Gazeux",
+            "uuid": "88bbbffe-6681-4215-8a32-70c0f52e4aea",
+            "vertical": false,
+            "translation": "Gaseous"
+        },
+        {
+            "bbox": [
+                709.8923271632998,
+                471.80421510829564,
+                984.3044872432309,
+                533.4475264305988
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Puissance thermique nominale ( MW )",
+            "uuid": "fabf6ce3-fe67-403a-96dc-939304851864",
+            "vertical": false,
+            "translation": "Rated thermal input ( MW )"
+        },
+        {
+            "bbox": [
+                787.4435897945847,
+                551.3439716532032,
+                858.03512372819,
+                576.2001455734867
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "≥ 500",
+            "uuid": "f5cf04a1-94bf-441c-924d-b606eb0b0ec3",
+            "vertical": false,
+            "translation": "≥ 500"
+        },
+        {
+            "bbox": [
+                714.5221660972452,
+                629.5249251974511,
+                937.3301533748808,
+                660.2570613736765
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "toutes les installations",
+            "uuid": "e0fc0ec4-f803-4885-9a26-ee0c6e3cb12e",
+            "vertical": false,
+            "translation": "all facilities"
+        },
+        {
+            "bbox": [
+                712.4468831539627,
+                678.4792697323006,
+                940.6525254142164,
+                711.8752173801424
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "toutes les installations",
+            "uuid": "46323ebb-2ba5-497e-a77a-695fa56bf48f",
+            "vertical": false,
+            "translation": "all facilities"
+        },
+        {
+            "bbox": [
+                1101.9646973623837,
+                475.5918851468708,
+                1336.0730772741344,
+                532.3454317921438
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Valeur limite d'émission (mg/Nm³)",
+            "uuid": "24464fe6-b606-4128-a1f3-b60b617e636b",
+            "vertical": false,
+            "translation": "Emission limit value (mg/Nm³)"
+        },
+        {
+            "bbox": [
+                1157.2299859872255,
+                542.9998347617855,
+                1216.952401120448,
+                576.9083298587705
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "50 (²)",
+            "uuid": "4b33327a-3315-40be-a45f-3928a9c9c4ec",
+            "vertical": false,
+            "translation": "50 (²)"
+        },
+        {
+            "bbox": [
+                1141.3955064194233,
+                622.92975254362,
+                1214.9697812234629,
+                662.6996308160736
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "dd9c3080-40c9-460d-9be6-1704fc609fe8",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1030.0398472565525,
+                677.6133351682437,
+                1169.234421210141,
+                705.4522499589614
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "5 en général",
+            "uuid": "038a1256-c1ce-47bf-9538-5f086e173c9d",
+            "vertical": false,
+            "translation": "5 in general"
+        },
+        {
+            "bbox": [
+                273.0246230937464,
+                806.9418292682343,
+                1382.2846632060534,
+                859.9866131835909
+            ],
+            "order": "25",
+            "label": "Footnote",
+            "text": "(¹) Une valeur limite de 100 mg/Nm³ peut être appliquée aux installations d'une puissance thermique inférieure à 500 MWth qui brûlent un combustible liquide dont la teneur en cendres est supérieure à 0,06%.",
+            "uuid": "3cbd00a3-f497-4634-a880-9d41d048cfcf",
+            "vertical": false,
+            "translation": "(¹) A limit value of 100 mg/Nm³ may be applied to facilities with a thermal output of less than 500 MWth that burn liquid fuel with an ash content of more than 0.06%."
+        },
+        {
+            "bbox": [
+                276.1449045005321,
+                856.866331776805,
+                1380.7245225026606,
+                961.3957589041252
+            ],
+            "order": "26",
+            "label": "Footnote",
+            "text": "(²) Une valeur limite de 100 mg/Nm³ peut être appliquée aux installations autorisées conformément à l'article 4, paragraphe 3, d'une puissance thermique nominale supérieure ou égale à 500 MWth qui brûlent un combustible solide dont le contenu de chaleur est inférieur à 5 800 kJ/kg (valeur calorifique nette), la teneur en humidité supérieure à 45% en poids, la teneur combi née en humidité et en cendres supérieure à 60 % en poids et la teneur en oxyde de calcium supérieure à 10 %.",
+            "uuid": "d2f99d98-f7ab-49d6-9d0f-86552f977ebc",
+            "vertical": false,
+            "translation": "(²) A limit value of 100 mg/Nm³ may be applied to facilities authorized in accordance with Article 4, paragraph 3, with a rated thermal input of 500 MWth or more burning a solid fuel with a heat content of less than 5,800 kJ/kg (net calorific value), a moisture content of more than 45% by weight, a combined moisture and ash content of more than 60% by weight and a calcium oxide content of more than 10%."
+        },
+        {
+            "bbox": [
+                222.63965098561334,
+                1008.2225090516943,
+                1412.2307519075205,
+                1090.2611383413744
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "B. Valeurs limites d'émission pour les poussières exprimées en mg/Nm³ applicables aux installations nouvelles visées à l'article 4, paragraphe 2, à l'exception des turbines à gaz:",
+            "uuid": "d4037bc3-e942-4ad9-bd6d-7626c413cd39",
+            "vertical": false,
+            "translation": "B. Emission limit values for dust expressed in mg/Nm³ applicable to new facilities referred to in Article 4, paragraph 2, with the exception of gas turbines:"
+        },
+        {
+            "bbox": [
+                269.533203125,
+                1113.53759765625,
+                640.71240234375,
+                1156.0851535403408
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "Combustibles solides (teneur en O₂: 6 %)",
+            "uuid": "b41b163d-009d-4216-b3ea-fed1c28eaedf",
+            "vertical": false,
+            "translation": "Solid fuels (O₂ content: 6%)"
+        },
+        {
+            "bbox": [
+                477.67568426438083,
+                1189.7406804332222,
+                636.1126686491012,
+                1225.211647086518
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "50 à 100 MWth",
+            "uuid": "d302e8f6-6882-45f6-8d4b-5889f74f47be",
+            "vertical": false,
+            "translation": "50 to 100 MWth"
+        },
+        {
+            "bbox": [
+                520.2408442483356,
+                1234.6705715273968,
+                581.723853114048,
+                1274.8710004011316
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "dab5bcf4-0240-4084-8c30-2dc42c70a629",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1031.0227640557923,
+                1194.4701426536617,
+                1180.000823999634,
+                1225.211647086518
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "> 100 MWth",
+            "uuid": "c2d92d86-f1ca-4150-9108-f17cf069e768",
+            "vertical": true,
+            "translation": "> 100 MWth"
+        },
+        {
+            "bbox": [
+                1068.8584618193079,
+                1241.7647648580557,
+                1137.435664015679,
+                1274.8710004011316
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "89ce0e8b-ee87-4a5e-99e0-102e77478215",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                269.29354899996366,
+                1349.9582382183153,
+                648.7526407726399,
+                1394.0244553274003
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "Combustibles liquides (teneur en O₂: 3%)",
+            "uuid": "974a11ee-13f4-44a5-8e83-4b582244886e",
+            "vertical": false,
+            "translation": "Liquid fuels (O₂ content: 3%)"
+        },
+        {
+            "bbox": [
+                460.2471564726652,
+                1425.8500565728505,
+                656.0970102908207,
+                1467.4681505092085
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "de 50 à 100 MWth",
+            "uuid": "69653c0e-a351-4b4b-ac08-075bbb204e4a",
+            "vertical": false,
+            "translation": "from 50 to 100 MWth"
+        },
+        {
+            "bbox": [
+                521.4502357908387,
+                1479.7087663728432,
+                580.2051919362854,
+                1513.9824907910204
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "50",
+            "uuid": "ccccd369-c0db-49bd-a0a8-e8c509b3e12d",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                1035.5561020634968,
+                1433.1944260910311,
+                1172.6509997362054,
+                1457.6756578183006
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "> 100 MWth",
+            "uuid": "eb245e29-821c-4d5b-a5dc-1b2045c88bd5",
+            "vertical": false,
+            "translation": "> 100 MWth"
+        },
+        {
+            "bbox": [
+                1078.915977412792,
+                1478.5148646401046,
+                1125.2497923937094,
+                1513.8168189112796
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "169ce14b-b7f3-40c0-a6c2-387273defcae",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                262.5224323839063,
+                1566.4817594817537,
+                1377.824740664578,
+                1640.0549252453961
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "Pour deux installations d'une puissance thermique nominale de 250 MWth sur les îles de Crète et de Rhodes, qui seront autorisées avant le 31 décembre 2007, la valeur limite d'émission de 50 mg/Nm³ est applicable.",
+            "uuid": "f91ee51b-b34d-4e90-b5de-99800c3bb9b7",
+            "vertical": false,
+            "translation": "For two facilities with a nominal thermal input of 250 MWth on the islands of Crete and Rhodes, which will be authorized before December 31, 2007, the emission limit value of 50 mg/Nm³ applies."
+        },
+        {
+            "bbox": [
+                275.79651774355625,
+                1674.8819852735164,
+                650.8797818747927,
+                1716.8030559705371
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Combustibles gazeux (teneur en O₂: 3 %)",
+            "uuid": "7f6e4d27-3c65-4fe8-9836-77c0c9a48cb6",
+            "vertical": false,
+            "translation": "Gaseous fuels (O₂ content: 3%)"
+        },
+        {
+            "bbox": [
+                271.3837734596593,
+                1752.1050102417123,
+                474.37001051891673,
+                1785.2005923709391
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "En règle générale",
+            "uuid": "78bd844a-7c49-4869-bf7d-9ec5462073e3",
+            "vertical": false,
+            "translation": "Generally speaking"
+        },
+        {
+            "bbox": [
+                1085.5350938386373,
+                1752.1050102417123,
+                1126.1366594543936,
+                1784.8249162153736
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "252d30cb-975d-49bc-bfd4-613f0a708029",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                271.3837734596593,
+                1800.6451973645783,
+                516.2910812159373,
+                1838.153523777702
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Gaz de hauts fourneaux",
+            "uuid": "d001b603-ea00-40e2-b1d8-14d750d221ac",
+            "vertical": false,
+            "translation": "Blast furnace gas"
+        },
+        {
+            "bbox": [
+                1081.1223495547404,
+                1798.43882522263,
+                1123.043420251761,
+                1835.9471516357532
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "4b979c16-110a-463b-8dd5-522019f45511",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                271.3837734596593,
+                1855.8045009132895,
+                822.9768089467718,
+                1891.1064551844647
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Gaz produits par les aciéries, pouvant être utilisés ailleurs",
+            "uuid": "448286a9-c316-4edc-9df0-7f45feaeea8b",
+            "vertical": false,
+            "translation": "Gases produced by steelworks, which can be used elsewhere"
+        },
+        {
+            "bbox": [
+                1081.1223495547404,
+                1853.598128771341,
+                1118.6306759678641,
+                1884.4873387586194
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "0b0fa5cf-8cb6-4b86-9c11-b6eb2704a7b7",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                791.42057762183,
+                579.1828864439206,
+                859.0293706850015,
+                604.0390603642043
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "< 500",
+            "uuid": "8da4c194-c544-47f0-be76-37d76288d1f0",
+            "vertical": false,
+            "translation": "< 500"
+        },
+        {
+            "bbox": [
+                1145.1123945109193,
+                581.0836936873187,
+                1203.9692673958343,
+                608.7810456331609
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "099d47b3-b03a-4c7c-9b42-925c38c71727",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                1024.0743655156846,
+                707.440743872584,
+                1375.0435412700892,
+                737.2681525769243
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "10 pour le gaz des hauts fourneaux",
+            "uuid": "11e6095c-9a94-4c73-8e75-287f4382ef96",
+            "vertical": false,
+            "translation": "10 for blast furnace gas"
+        },
+        {
+            "bbox": [
+                1022.085871602062,
+                734.2854117064904,
+                1367.0895656155983,
+                790.9574882447371
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "50 pour les gaz sidérurgiques qui peuvent être utilisés ailleurs",
+            "uuid": "1db2adce-4a8d-470a-8f7b-2c01dc5b25d8",
+            "vertical": false,
+            "translation": "50 for steel gases which may be used elsewhere"
+        },
+        {
+            "bbox": [
+                265.018569453691,
+                466.0391495440829,
+                1383.6651125418014,
+                803.8068650953509
+            ],
+            "order": "8",
+            "label": "Table",
+            "text": "",
+            "uuid": "cd8f444d-6279-45a9-a884-fd9b8720804f",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                262.5224323839063,
+                1170.1899348003155,
+                1397.8901495092077,
+                1305.6314445015664
+            ],
+            "order": "29",
+            "label": "Table",
+            "text": "",
+            "uuid": "0de4d10b-872d-4e94-8331-15c1aa4407ff",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                267.5387845950637,
+                1417.6633105507492,
+                1381.1689754720164,
+                1528.0230591962134
+            ],
+            "order": "35",
+            "label": "Table",
+            "text": "",
+            "uuid": "2f4c7fb8-51fd-43fa-82d1-e63a4cf43c08",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                262.9382605268448,
+                1741.8661532781834,
+                1386.601155826112,
+                1910.7500110538174
+            ],
+            "order": "42",
+            "label": "Table",
+            "text": "",
+            "uuid": "30e0df6f-8713-40b1-90f4-e9247fadc5e0",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,609 @@
+{
+    "file": "jrc31999R1420.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                732.2620706653177,
+                507.7782645911826,
+                918.6051048200449,
+                529.6130798511709
+            ],
+            "order": "11",
+            "label": "Section-header",
+            "text": "BURKINA FASO",
+            "uuid": "03e83131-ecaf-4176-9be0-6ec009d529bb",
+            "vertical": false,
+            "translation": "BURKINA FASO"
+        },
+        {
+            "bbox": [
+                770.1129994779967,
+                704.2916019310779,
+                882.2099809616998,
+                724.6707628404006
+            ],
+            "order": "14",
+            "label": "Section-header",
+            "text": "CAMERÚN",
+            "uuid": "9dc31f0e-3257-49e6-8426-4765c49afd0b",
+            "vertical": false,
+            "translation": "CAMEROON"
+        },
+        {
+            "bbox": [
+                326.0910663398974,
+                1107.510082280883,
+                1033.6122741461272,
+                1129.3448975408712
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "b ) Los siguientes desperdicios ferrosos y desechos de hierro o acero:",
+            "uuid": "ac18efc9-0a99-46e9-a3ca-ca23c8b30ff5",
+            "vertical": false,
+            "translation": "b) The following ferrous wastes and iron or steel wastes:"
+        },
+        {
+            "bbox": [
+                156.4333157009642,
+                157.61044948773247,
+                252.33141118415324,
+                179.31003134349945
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 166/14",
+            "uuid": "9ea4f71d-5263-4002-abfd-4ba570bf4fb6",
+            "vertical": false,
+            "translation": "L 166/14"
+        },
+        {
+            "bbox": [
+                375.6289625196821,
+                159.89461599886602,
+                397.32019840278434,
+                177.02586483236615
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "d9a946f7-aee0-4f63-8c37-468a3b7e4c67",
+            "vertical": false,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                585.69145738762,
+                157.61044948773247,
+                1068.606866785108,
+                182.73628111019963
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "ab62bd49-6d40-47dc-9603-bb5cbe4dc952",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1397.400337013185,
+                157.53555082231998,
+                1501.0130722119593,
+                187.09468970006637
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "1.7.1999",
+            "uuid": "b2d7e7f4-a2e4-4918-8880-949d6f2fc4f1",
+            "vertical": false,
+            "translation": "1.7.1999"
+        },
+        {
+            "bbox": [
+                292.2902885185229,
+                231.84600603959987,
+                1033.2172405255433,
+                255.8297544065001
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "4. En la sección GH (« Residuos de materias plásticas en forma sólida»):",
+            "uuid": "ab8ce27b-97f1-4671-8ef6-914fd0d45ac9",
+            "vertical": false,
+            "translation": "4. In section GH ('Plastic waste in solid form'):"
+        },
+        {
+            "bbox": [
+                326.5650217783907,
+                277.5296195541497,
+                1088.041565674666,
+                300.37128466548353
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "GH 010 3915 Desechos, recortes y desperdicios de plástico de:",
+            "uuid": "8db88839-bd3e-4566-b757-7c794ee57fb3",
+            "vertical": false,
+            "translation": "GH 010 3915 Waste, parings and scrap of plastics of:"
+        },
+        {
+            "bbox": [
+                326.5650217783907,
+                310.65003396558353,
+                836.8798870282183,
+                330.0654493102172
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "GH 011 ex 3915 10 — Polímeros de etileno",
+            "uuid": "2fcd4e22-61ef-4442-b361-4f2789e9aede",
+            "vertical": false,
+            "translation": "GH 011 ex 3915 10 —  Ethylene Polymers"
+        },
+        {
+            "bbox": [
+                328.8483097660857,
+                344.9125316325841,
+                847.1546829728458,
+                363.18586372165083
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "GH 012 ex 3915 20 — Polímeros de estireno",
+            "uuid": "0f9d0bd4-3fbf-4f4f-8a88-a37ad69f5ed0",
+            "vertical": false,
+            "translation": "GH 012 ex 3915 20 — Styrene Polymers"
+        },
+        {
+            "bbox": [
+                328.8483097660857,
+                379.17502929958437,
+                940.7694904683398,
+                396.30627813308473
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "GH 013 ex 3915 30 — Polímeros de cloruto de vinilo",
+            "uuid": "134d1e81-0b45-451c-ab1c-4e3fa9bea5c9",
+            "vertical": false,
+            "translation": "GH 013 ex 3915 30 — Vinyl chloride Polymers"
+        },
+        {
+            "bbox": [
+                290.01547167897564,
+                427.1413401603877,
+                1263.8377984308838,
+                449.9830052717213
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "5. Todos los tipos de la sección GI («Residuos de papel, de cartón y de productos de papel»)",
+            "uuid": "a4f6a38b-4c55-45a1-8b96-834b39e28533",
+            "vertical": false,
+            "translation": "5. All types of section GI (“Paper, cardboard and paper product wastes”)"
+        },
+        {
+            "bbox": [
+                292.58990284856003,
+                550.648220584178,
+                537.3066501024972,
+                580.0255291919403
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Todos los tipos excepto:",
+            "uuid": "bc17d6f0-abe9-48a0-8ed5-7904a5099db5",
+            "vertical": false,
+            "translation": "All types except:"
+        },
+        {
+            "bbox": [
+                291.3663191122904,
+                598.3863470717914,
+                1363.2256720845346,
+                647.3485280847285
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Todos los tipos de la sección GA [«Residuos de metales y sus aleaciones en forma no metálica, no dispersable (¹)»]",
+            "uuid": "a3e9fb83-c37e-4e79-942e-016a40a689ce",
+            "vertical": false,
+            "translation": "All types in section GA [\"Metal and metal alloy wastes in non-metallic, non-dispersible form(¹)\"]"
+        },
+        {
+            "bbox": [
+                291.3663191122904,
+                750.1691082118962,
+                537.3066501024972,
+                772.2020896677178
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Todos los tipos excepto:",
+            "uuid": "ffcfcfce-dc72-4d9d-86e0-0fd4b560cd38",
+            "vertical": false,
+            "translation": "All types except:"
+        },
+        {
+            "bbox": [
+                293.8134865848298,
+                794.2350711235393,
+                1300.1759536333109,
+                818.3263700195193
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "1. En la sección  GA(« Residuos de metales y sus aleaciones en forma metálica, no dispersable»):",
+            "uuid": "3575650c-60b4-4997-9966-2d5bec246916",
+            "vertical": false,
+            "translation": "1. In section GA (“Metals and metal alloy wastes in metallic, non-dispersible form”):"
+        },
+        {
+            "bbox": [
+                361.11059207966247,
+                882.366996946826,
+                737.9743828507256,
+                900.7278148266771
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "GA 010 ex 7112 10 — De oro",
+            "uuid": "1fc362a8-c9a0-4899-8a33-64a045c91b98",
+            "vertical": false,
+            "translation": "GA 010 ex 7112 10 — Of gold"
+        },
+        {
+            "bbox": [
+                363.55775955220184,
+                1019.4611037830496,
+                1359.5549208757257,
+                1067.199230270663
+            ],
+            "order": "21",
+            "label": "Caption",
+            "text": "Nota: Se excluye específicamente el mercurio como contaminante de estos metales o de sus aleaciones o amalgamas.",
+            "uuid": "10dd15f1-b993-4064-9cab-862813feee7b",
+            "vertical": false,
+            "translation": "Note: Mercury is specifically excluded as a contaminant of these metals or their alloys or amalgams."
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1184.7084647017116,
+                1117.2853410943283,
+                1210.4136097335033
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "GA 050 7204 21 — Desperdicios y desechos de acero inoxidable",
+            "uuid": "6443c16f-e057-4978-9e1f-24fbb8be8f23",
+            "vertical": false,
+            "translation": "GA 050 7204 21 — Waste and scrap of stainless steel"
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1220.206045936091,
+                1155.2164369186885,
+                1242.2390273919125
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "GA 060 7204 29 —Desperdicios y desechos de otros aceros aleados",
+            "uuid": "d7e7aa66-6ca7-41c0-ae97-52652479154d",
+            "vertical": false,
+            "translation": "GA 060 7204 29 -Waste and scrap of other alloy steels"
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1253.2555181198234,
+                1235.9729635124875,
+                1277.7366086262916
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "GA 070 7204 30 —Desperdicios y desechos de hierro o de acero estañados",
+            "uuid": "5a7578ac-03b1-4213-8a78-30f8bf3d4c7c",
+            "vertical": false,
+            "translation": "GA 070 7204 30 —Waste and scrap of tinned  iron or steel"
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1286.3049903035558,
+                1360.7785046119955,
+                1335.2671713164925
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "GA 080 7204 41—Torneaduras, virutas, limaduras (de limado, de aserrado o de rectificado) y recortes de estampado o de corte incluso en paquetes",
+            "uuid": "b4025def-2572-4878-8d08-a57a003bc2a7",
+            "vertical": false,
+            "translation": "GA 080 7204 41—Turning, shavings, chips (filing, sawing or grinding) and stamping or cutting offcuts, even in bundles"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1346.2836620444034,
+                1056.1061542808438,
+                1369.5406980255486
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "GA 0907204 49 — Otros desperdicios y desechos ferrosos",
+            "uuid": "ed27ba2a-e580-4583-8867-0c6e781ff222",
+            "vertical": false,
+            "translation": "GA 0907204 49 — Other ferrous waste and scrap"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1379.3331342281358,
+                870.1214263678514,
+                1403.8142247346043
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "GA 100 7204 50 Lingotes de chatarra",
+            "uuid": "86f10b5d-9a26-43db-bf58-d41b2737941f",
+            "vertical": false,
+            "translation": "GA 100 7204 50 Scrap ingots"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1413.6066609371915,
+                1040.1995657093382,
+                1439.3118059689837
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "GA 110 ex 7302 10 Carriles de hierro y de acero usados",
+            "uuid": "fca64cbe-e986-4544-a52f-82cd5af57eb3",
+            "vertical": false,
+            "translation": "GA 110 ex 7302 10 Used iron and steel rails"
+        },
+        {
+            "bbox": [
+                354.82384699544554,
+                1445.6042423864674,
+                973.2311231875076,
+                1469.9131691020693
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "GA 120 7404 00 Desperdicios y desechos de cobre",
+            "uuid": "0d1227fd-297e-49d0-bacf-d7a3421d084d",
+            "vertical": false,
+            "translation": "GA 120 7404 00 Copper waste and scrap"
+        },
+        {
+            "bbox": [
+                356.09107502042923,
+                1477.284943011061,
+                984.6361754123614,
+                1508.9656436356543
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "GA 130 7503 00 Desperdicios y desechos de níquel",
+            "uuid": "ae58ca99-b20f-4273-90af-da9cf2f9fbad",
+            "vertical": false,
+            "translation": "GA 130 7503 00 Nickel waste and scrap"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1515.2031865390359,
+                981.4675463683931,
+                1536.0121134695341
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "GA 150 7802 00 Desperdicios y desechos de plomo",
+            "uuid": "45f3603c-241d-4280-9442-b9494a750574",
+            "vertical": false,
+            "translation": "GA 150 7802 00 Lead waste and scrap"
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1547.028604197445,
+                961.8902065880781,
+                1567.837531127943
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "GA 160 7902 00 Desperdicios y desechos de cinc",
+            "uuid": "508c1c97-00d1-4734-8439-5cbd13c64159",
+            "vertical": false,
+            "translation": "GA 160 7902 00 Zinc waste and scrap"
+        },
+        {
+            "bbox": [
+                363.5577595522018,
+                1580.0780763811774,
+                980.2439626321232,
+                1605.7832214129694
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "GA 170 8002 00 Desperdicios y desechos de estaño",
+            "uuid": "fdfe262e-9252-4e22-8f0d-45ff4d00bb91",
+            "vertical": false,
+            "translation": "GA 170 8002 00 Tin waste and scrap"
+        },
+        {
+            "bbox": [
+                358.6255310703967,
+                1612.8783416843205,
+                1364.8045829074815,
+                1666.1019187336374
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "GA 210 8104 20 Desperdicios y desechos de magnesio (excuidos los enumerados en AA 190) (*)",
+            "uuid": "4a6159f1-25ad-47f0-9ca3-ff3d46f69023",
+            "vertical": false,
+            "translation": "GA 210 8104 20 Magnesium waste and scrap (excluding those listed in AA 190) (*)"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1675.5543293564042,
+                987.5854650497415,
+                1698.8113653375492
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "ex 8105 10 GA 220 Desperdicios y desechos de cobalto",
+            "uuid": "e38a99ed-8c09-4058-84e1-95b4e44381e3",
+            "vertical": false,
+            "translation": "ex 8105 10 GA 220 Cobalt waste and scrap"
+        },
+        {
+            "bbox": [
+                357.358303045413,
+                1706.653215533117,
+                1037.8597524616782,
+                1735.7994601077428
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "GA 280 ex 8111 00 Desperdicios y desechos de manganeso",
+            "uuid": "76a8142f-3f3b-4167-a084-21bb51d7a555",
+            "vertical": false,
+            "translation": "GA 280 ex 8111 00 Manganese waste and scrap"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                1742.877328249193,
+                981.4675463683931,
+                1763.6862551796912
+            ],
+            "order": "39",
+            "label": "List-item",
+            "text": "GA 300 ex 8112 20 Desperdicios y desechos de cromo",
+            "uuid": "c159d6da-48ea-49bf-aa77-470ec15ab7ee",
+            "vertical": false,
+            "translation": "GA 300 ex 8112 20 Chromium waste and scrap"
+        },
+        {
+            "bbox": [
+                360.911645322518,
+                1800.1181494082514,
+                796.3918124058868,
+                1826.9628172421578
+            ],
+            "order": "40",
+            "label": "Footnote",
+            "text": "(*) Véase el anexo III de la Decisión 98/368/CE",
+            "uuid": "0eff3311-a4a5-476f-9190-1ae2694caf17",
+            "vertical": false,
+            "translation": "(*) See Annex III of Decision 98/368/EC"
+        },
+        {
+            "bbox": [
+                291.36631911229034,
+                1887.315762237357,
+                1365.6728395570747,
+                1938.7260523009406
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "2. En la sección GB («Otros residuos que contengan metales y que procedan de la fundición, de la fusión y del refinado de metales»):",
+            "uuid": "e8d2b2c2-e8b8-4ab6-90c2-d224423a36c5",
+            "vertical": false,
+            "translation": "2. In Section GB ('Other metal-containing wastes resulting from the smelting, melting and refining of metals'):"
+        },
+        {
+            "bbox": [
+                324.4030799915719,
+                1958.3109247061157,
+                1368.2433968755179,
+                2009.8103115841113
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "GB 050 ex 2620 90 Escorias de estaño que contengan tantalio y con un contenido de estaño inferior al 0,5%",
+            "uuid": "85a26848-0b2f-4ae1-b120-e4da9e3d81a6",
+            "vertical": false,
+            "translation": "GB 050 ex 2620 90 Tin slags containing tantalum and with less than 0.5% tin"
+        },
+        {
+            "bbox": [
+                362.33417581593216,
+                915.4164691305582,
+                1359.5549208757257,
+                965.6027046688184
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "GA 020 ex 7112 20 —    De platino (el término «platino» incluye el platino, el iridio, el osmio, el paladio, el rodio y el rutenio)",
+            "uuid": "d06e43b3-8b7d-4a52-876f-178d53011e78",
+            "vertical": false,
+            "translation": "GA 020 ex 7112 20 —    Of platinum (the term “platinum” includes platinum, iridium, osmium, palladium, rhodium and ruthenium)"
+        },
+        {
+            "bbox": [
+                363.55775955220184,
+                976.6191953967297,
+                1179.6881116440823,
+                1001.100285903198
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "GA 030 ex 7112 90 — De otros metales preciosos, por ejemplo, la plata",
+            "uuid": "9c0a996f-16b4-472d-a1e4-07cb27fb8f56",
+            "vertical": false,
+            "translation": "GA 030 ex 7112 90 - Of other precious metals, e.g., silver"
+        },
+        {
+            "bbox": [
+                362.1955992887343,
+                1150.4380236671564,
+                1044.9553241272188,
+                1177.3672232242718
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "GA 040 7204 10 —Desperdicios y desechos de fundición",
+            "uuid": "3c83cb60-93f6-44f9-b1f8-215a76f0e1c1",
+            "vertical": false,
+            "translation": "GA 040 7204 10 —Waste and scrap of cast iron"
+        },
+        {
+            "bbox": [
+                319.011103105046,
+                832.0971260179284,
+                1154.3286955327294,
+                865.0348240153542
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "a) Los siguientes desperdicios y desechos de metales preciosos y sus aleaciones:",
+            "uuid": "c6de87a4-7ffb-407b-9fb3-e31b7f52d39a",
+            "vertical": false,
+            "translation": "a) The following waste and scrap of precious metals and their alloys:"
+        },
+        {
+            "bbox": [
+                290.20467718098377,
+                2096.0863217567085,
+                1366.241871367384,
+                2141.375656503169
+            ],
+            "order": "43",
+            "label": "Footnote",
+            "text": "(¹) Los residuos en forma «no dispesalde» no incluyen los residuos en forma de polvo, lodo o artículos sólidos que contengan residuos peligrosos en forma líquida.",
+            "uuid": "c4e6a349-f222-414e-803a-e9f3b0fdac55",
+            "vertical": false,
+            "translation": "(¹) Waste in \"non-dispersible\" form does not include waste in the form of powder, sludge or solid items containing hazardous waste liquids."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

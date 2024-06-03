@@ -1,0 +1,1295 @@
+{
+    "file": "86230203_0206.png",
+    "annotations": [
+        {
+            "bbox": [
+                60.487757310320525,
+                71.60789444287707,
+                112.21940854989093,
+                81.84120277361973
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "12/12/96",
+            "uuid": "772a3503-4397-4699-829d-8c59c8a28300",
+            "vertical": false,
+            "translation": "12/12/96"
+        },
+        {
+            "bbox": [
+                62.96508784739591,
+                143.00000000000003,
+                80.41608597738578,
+                151.0325234058979
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "f41b77f8-3e8c-4328-a494-11ec750cb137",
+            "vertical": false,
+            "translation": "AN:"
+        },
+        {
+            "bbox": [
+                63.90838504361157,
+                171.00000000000003,
+                97.63125980832174,
+                179.80308789047584
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "0b21aa07-bbdb-433c-affc-f340a83a6f64",
+            "vertical": false,
+            "translation": "VON:"
+        },
+        {
+            "bbox": [
+                65.0,
+                241.0,
+                116.6826804808525,
+                249.3201685639872
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "SUBJECT:",
+            "uuid": "2be8a38c-30f9-40d3-9139-52559a3ddfa4",
+            "vertical": false,
+            "translation": "BETREFF:"
+        },
+        {
+            "bbox": [
+                69.0,
+                293.9261308490527,
+                140.9118709632153,
+                303.9421155286122
+            ],
+            "order": "21",
+            "label": "Section-header",
+            "text": "GEOGRAPHY",
+            "uuid": "c0ca21ea-29f0-4f61-8cc7-034e8b34a658",
+            "vertical": false,
+            "translation": "STANDORT"
+        },
+        {
+            "bbox": [
+                68.12309804941756,
+                394.9311916182382,
+                120.4273430539891,
+                403.1935129931156
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "DIVISION:",
+            "uuid": "a2d351b6-8526-49e5-93f6-57caf02b5143",
+            "vertical": false,
+            "translation": "ABTEILUNG:"
+        },
+        {
+            "bbox": [
+                133.0,
+                72.91465891169658,
+                165.991208480047,
+                80.99105573915078
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "08:33",
+            "uuid": "e916aa23-babc-44d6-ab7a-ead953039ca3",
+            "vertical": false,
+            "translation": "08:33"
+        },
+        {
+            "bbox": [
+                76.72186260179166,
+                645.6033768190256,
+                98.55699242896699,
+                654.5463543270124
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "K&B",
+            "uuid": "a00f3db4-dd79-442d-93ea-f5d45df5d365",
+            "vertical": false,
+            "translation": "K&B"
+        },
+        {
+            "bbox": [
+                141.73040373140427,
+                140.89207854657948,
+                208.9403289617707,
+                149.61757761157435
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "K. A. Sparrow",
+            "uuid": "73a72e9b-bcbf-4f4d-8901-7a9c931fe787",
+            "vertical": false,
+            "translation": "K. A. Sparrow"
+        },
+        {
+            "bbox": [
+                141.96622803045818,
+                167.9735121948025,
+                204.6954915788002,
+                177.4448448999366
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "F. Strickland",
+            "uuid": "3fca0f89-0182-481a-9b15-90645ecffbcf",
+            "vertical": false,
+            "translation": "F. Strickland"
+        },
+        {
+            "bbox": [
+                76.94187738921366,
+                764.0,
+                100.34172669830444,
+                772.3472287556256
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Litco",
+            "uuid": "a14f8564-642f-486b-b7f3-0b4b939338c8",
+            "vertical": false,
+            "translation": "Litco"
+        },
+        {
+            "bbox": [
+                76.94187738921366,
+                783.0,
+                124.33648743050766,
+                791.7810019106331
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Huber Oil",
+            "uuid": "a5a71b91-1836-42ad-9614-6616e77c7d8f",
+            "vertical": false,
+            "translation": "Huber Oil"
+        },
+        {
+            "bbox": [
+                77.93339642773448,
+                804.0,
+                135.83810827734888,
+                812.6029017195697
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Morris Corp",
+            "uuid": "f67974b1-acee-473b-97fb-342c4805d019",
+            "vertical": false,
+            "translation": "Morris Corp"
+        },
+        {
+            "bbox": [
+                53.77404232944781,
+                940.0354268109825,
+                115.68312290924725,
+                950.841962969594
+            ],
+            "order": "74",
+            "label": "Page-footer",
+            "text": "11-Dec-96",
+            "uuid": "c2885d8e-8d68-48c3-859e-c7b37b683229",
+            "vertical": false,
+            "translation": "11. Dez. 96"
+        },
+        {
+            "bbox": [
+                208.75473543984344,
+                70.52464775992573,
+                282.699787578015,
+                80.64224281866228
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "504 7348616",
+            "uuid": "46d7ef93-a920-4652-8c65-c9d84037686b",
+            "vertical": false,
+            "translation": "504 7348616"
+        },
+        {
+            "bbox": [
+                108.35482856869275,
+                532.8761512457281,
+                190.23280229164325,
+                544.2384397696726
+            ],
+            "order": "51",
+            "label": "Section-header",
+            "text": "DISTRIBUTION",
+            "uuid": "69dbe5f8-911e-4942-ad2e-66e4648bbf2f",
+            "vertical": false,
+            "translation": "VERTRIEB"
+        },
+        {
+            "bbox": [
+                145.43375393816873,
+                236.08186257166585,
+                390.5417606824722,
+                248.04284203968797
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "MAVERICK SPECIALS PROGRESS REPORT",
+            "uuid": "edeccb0f-6718-4f39-b80d-2a4d5a58e74a",
+            "vertical": false,
+            "translation": "MAVERICK SPECIALS ZWISCHENBERICHT"
+        },
+        {
+            "bbox": [
+                64.6811421995743,
+                333.1625732005602,
+                115.37690072572941,
+                345.5132392995991
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "REGION:",
+            "uuid": "64b8544a-ca25-4a12-b260-9bba52dc970a",
+            "vertical": false,
+            "translation": "REGION:"
+        },
+        {
+            "bbox": [
+                461.0,
+                163.00000000000003,
+                501.12663548957414,
+                172.25671032075041
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "DEC 13",
+            "uuid": "126c7e6b-139a-4f3c-abb9-0f9a5a250570",
+            "vertical": false,
+            "translation": "13. DEZ."
+        },
+        {
+            "bbox": [
+                76.94187738921366,
+                666.8384923181326,
+                132.66524735408234,
+                676.3681858268126
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Delchamps",
+            "uuid": "197cf6e6-0a83-4cd0-a7e7-6a9343239a03",
+            "vertical": false,
+            "translation": "Delchamps"
+        },
+        {
+            "bbox": [
+                75.95035835069288,
+                686.0,
+                127.1127407383659,
+                694.2155285201869
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Winn Dixie",
+            "uuid": "db8d09c7-2d22-495e-8c32-bf428462c7c5",
+            "vertical": false,
+            "translation": "Winn Dixie"
+        },
+        {
+            "bbox": [
+                76.94187738921366,
+                703.9142142144619,
+                144.36517200862772,
+                715.632339752236
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Schwegmann",
+            "uuid": "c41ddcb0-4981-4172-ab03-642053a27abf",
+            "vertical": false,
+            "translation": "Schwegmann"
+        },
+        {
+            "bbox": [
+                77.55594303516769,
+                723.5059593592539,
+                134.45150586483186,
+                734.834344063382
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Autry Greer",
+            "uuid": "059adc86-7d6b-4b82-81b3-2ab6f893cdf4",
+            "vertical": false,
+            "translation": "Autry Greer"
+        },
+        {
+            "bbox": [
+                76.94187738921366,
+                742.9886597093179,
+                144.76177962403602,
+                752.7151517929138
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Double Quick",
+            "uuid": "9252d591-23a2-4646-a814-904f36f181fb",
+            "vertical": false,
+            "translation": "Double Quick"
+        },
+        {
+            "bbox": [
+                229.93261354593758,
+                330.678911369893,
+                257.2900777041707,
+                340.17551791371125
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "279d0ada-c1ac-4f8f-9838-62e77390ebbe",
+            "vertical": false,
+            "translation": "GESAMT"
+        },
+        {
+            "bbox": [
+                225.0,
+                391.9323335961402,
+                250.58083840969962,
+                400.43380394082897
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "904245b9-0a8c-43ac-9062-535dff10dbfc",
+            "vertical": false,
+            "translation": "GESAMT"
+        },
+        {
+            "bbox": [
+                178.7150789398603,
+                415.7463052462842,
+                262.03882957098483,
+                425.92809047935555
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "b0b3d502-6f2d-4c2a-96c0-3b2f901bde2f",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                176.96599363981983,
+                440.77103634005897,
+                261.13775395574345,
+                453.49944887563765
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "f8fa10e9-1f86-4b43-ab3c-b4c96e72ba70",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                176.14480573429861,
+                464.49730313676883,
+                262.7801297667858,
+                476.4927102302314
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "a50b1735-4f97-459f-b372-cc978efec272",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                362.9821708417771,
+                69.5905472033903,
+                450.88826879531507,
+                78.93079666381465
+            ],
+            "order": "5",
+            "label": "Page-header",
+            "text": "LORILLARD TOB",
+            "uuid": "540812f4-3c28-462e-bb4b-db8a5c12f66f",
+            "vertical": false,
+            "translation": "LORILLARD TOB"
+        },
+        {
+            "bbox": [
+                263.601317672307,
+                329.91066909469623,
+                315.3361557201429,
+                338.5331421026688
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "0e4b5e41-d440-40e4-a778-3c0c84c98a8b",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                140.39909585454456,
+                625.1677298083598,
+                253.23396243821102,
+                634.526082401235
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "581441e6-77f9-4ec1-95f3-1fe06b3f4d3e",
+            "vertical": false,
+            "translation": "KUNDENNAME"
+        },
+        {
+            "bbox": [
+                366.8749764202675,
+                327.8402525167067,
+                413.6640342990504,
+                339.7649239609507
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "e64b5cf3-d938-47b0-9a42-293ec4bf61c7",
+            "vertical": false,
+            "translation": "TEIL"
+        },
+        {
+            "bbox": [
+                370.43933564352614,
+                390.0,
+                410.4393356435262,
+                398.0
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "a609cedb-b0ff-4e17-93a4-e81da8a35c0b",
+            "vertical": false,
+            "translation": "TEIL"
+        },
+        {
+            "bbox": [
+                330.96905505824134,
+                604.9429962859944,
+                376.1823232147895,
+                632.1464367087851
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "7f2cf1d8-7b60-4fdf-8289-d8d3d53a4b96",
+            "vertical": false,
+            "translation": "ANZAHL DER FILIALEN"
+        },
+        {
+            "bbox": [
+                461.0,
+                192.00526632389648,
+                499.7116896952507,
+                202.44222059965188
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "JAN 25",
+            "uuid": "84dbe153-b205-483f-9d3f-12c91acdf2a3",
+            "vertical": false,
+            "translation": "25. JAN."
+        },
+        {
+            "bbox": [
+                378.3174700965368,
+                412.0479809649049,
+                464.70726978370925,
+                426.15693200951057
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "c94e9444-528e-4fd8-966a-967dc2eefcd6",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                378.32050377576,
+                437.3093798591223,
+                462.1492970667215,
+                450.3604356440788
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "5e906cac-ef82-4a0c-b9a5-d8c74534d006",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                380.58165253232147,
+                462.877180994296,
+                463.1820168370396,
+                474.6450374428087
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "88c946ab-f1bd-4485-89f9-ec97d6b7659e",
+            "vertical": false,
+            "translation": "ABTEILUNGSNAME:"
+        },
+        {
+            "bbox": [
+                349.99403003815894,
+                934.9370072364961,
+                401.8761578883668,
+                944.6123229707241
+            ],
+            "order": "75",
+            "label": "Page-footer",
+            "text": "MAVPROG",
+            "uuid": "e3a7a128-6d40-48b1-9a51-d9f475cb3530",
+            "vertical": false,
+            "translation": "MAVPROG"
+        },
+        {
+            "bbox": [
+                503.00958351112956,
+                69.24250702364898,
+                537.3940926221595,
+                78.15286659342935
+            ],
+            "order": "6",
+            "label": "Page-header",
+            "text": "NYO 1",
+            "uuid": "366a78e5-c605-4117-a3e3-1c9a9afb1c78",
+            "vertical": false,
+            "translation": "NYO 1"
+        },
+        {
+            "bbox": [
+                507.3100616462977,
+                130.93462319655848,
+                613.858152189111,
+                142.52843055421914
+            ],
+            "order": "11",
+            "label": "Section-header",
+            "text": "SUBMISSION DATE",
+            "uuid": "dc921003-065f-4d8f-b97a-45db3d32be28",
+            "vertical": false,
+            "translation": "EINREICHUNGSDATUM"
+        },
+        {
+            "bbox": [
+                361.90444906009003,
+                641.8070944510852,
+                379.75179175346443,
+                650.9852984406804
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "180",
+            "uuid": "64ec1de0-1e98-4ee7-9376-8124a70e604b",
+            "vertical": false,
+            "translation": "180"
+        },
+        {
+            "bbox": [
+                362.69766429090674,
+                662.1646226719397,
+                379.95009556116855,
+                671.5911782577102
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "130",
+            "uuid": "339ef50c-c56c-4a27-8e8c-df77f12226b4",
+            "vertical": false,
+            "translation": "130"
+        },
+        {
+            "bbox": [
+                368.05186709891905,
+                682.2959591383915,
+                379.75179175346443,
+                690.4477561738079
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "85",
+            "uuid": "da82b5ee-e682-4419-902d-d3a8f6d7b7ae",
+            "vertical": false,
+            "translation": "85"
+        },
+        {
+            "bbox": [
+                369.0,
+                700.7194621795611,
+                380.54500698428103,
+                710.2781369442237
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "4534cf7d-73e2-4e0a-8aeb-a590d3db2e65",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                369.3966076154083,
+                719.8651066804429,
+                380.54500698428103,
+                729.5136062915271
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "36",
+            "uuid": "d9ae34e8-24d4-4886-ae93-acaa323d7dc1",
+            "vertical": false,
+            "translation": "36"
+        },
+        {
+            "bbox": [
+                368.7149323747976,
+                739.6409003427547,
+                380.8288884758833,
+                749.130361712389
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "36",
+            "uuid": "efb4a703-42e6-49df-8d7f-e7b250ef2312",
+            "vertical": false,
+            "translation": "36"
+        },
+        {
+            "bbox": [
+                369.0,
+                761.0,
+                380.54500698428103,
+                768.5794564092465
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "23",
+            "uuid": "2683f337-ff85-42c8-895c-73bb4d6bf891",
+            "vertical": false,
+            "translation": "23"
+        },
+        {
+            "bbox": [
+                369.0,
+                781.0,
+                381.13991840739357,
+                788.0132295642542
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "23",
+            "uuid": "9ed99a9d-e5ee-4011-9dfe-8173c3340c32",
+            "vertical": false,
+            "translation": "23"
+        },
+        {
+            "bbox": [
+                369.0,
+                799.9114580265036,
+                381.13991840739357,
+                808.6368255654866
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "22",
+            "uuid": "7baf9f8c-c51c-4570-8b49-4d6b69e560ad",
+            "vertical": false,
+            "translation": "22"
+        },
+        {
+            "bbox": [
+                435.0098002596297,
+                618.9456886802054,
+                542.638696672219,
+                632.7005680889926
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "039e765c-9406-4b3e-a492-2ab94925c7ac",
+            "vertical": false,
+            "translation": "KUNDENNAME"
+        },
+        {
+            "bbox": [
+                578.9486541773668,
+                160.93714396616244,
+                618.0954878203171,
+                169.8984673302113
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "FEB 24",
+            "uuid": "3eea7538-4ea1-4718-a128-a1c273b2ac83",
+            "vertical": false,
+            "translation": "24. FEB."
+        },
+        {
+            "bbox": [
+                579.9214514969991,
+                190.59489179713773,
+                612.4357046430231,
+                200.79715757660588
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "APR 4",
+            "uuid": "0f756e0e-dcca-4756-b66f-ee1fc5642648",
+            "vertical": false,
+            "translation": "4. APR."
+        },
+        {
+            "bbox": [
+                576.0,
+                409.9764898830137,
+                615.4803351881436,
+                421.47312056031063
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "# REPS",
+            "uuid": "0617a22c-b0a0-4664-98fe-9484db90032a",
+            "vertical": false,
+            "translation": "# REPS"
+        },
+        {
+            "bbox": [
+                577.0000000000001,
+                435.00000000000006,
+                616.5068200700451,
+                446.3140547023271
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "# REPS",
+            "uuid": "8f390f43-ba57-4d6f-9b15-85620f17d59a",
+            "vertical": false,
+            "translation": "# REPS"
+        },
+        {
+            "bbox": [
+                577.0898006050272,
+                459.4530611906664,
+                618.5597898338482,
+                470.74439489158294
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "# REPS",
+            "uuid": "c09c87ff-8a9a-4fca-bb73-cf0860e79868",
+            "vertical": false,
+            "translation": "# REPS"
+        },
+        {
+            "bbox": [
+                639.925275898941,
+                68.97329176288292,
+                686.4454941079814,
+                77.53052253712112
+            ],
+            "order": "8",
+            "label": "Page-header",
+            "text": "001/004",
+            "uuid": "c1193dcb-6d3f-447d-aeff-00641169898b",
+            "vertical": false,
+            "translation": "001/004"
+        },
+        {
+            "bbox": [
+                609.0,
+                601.8208815414214,
+                655.1276571435194,
+                628.7002499499525
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "NO, OF STORES",
+            "uuid": "7f98fea8-153a-4c40-b2d2-c646868109ad",
+            "vertical": false,
+            "translation": "ANZAHL DER FILIALEN"
+        },
+        {
+            "bbox": [
+                647.0,
+                638.0,
+                659.7567682317368,
+                646.8209184788928
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "f08bb8e0-f99e-4dfe-9aa6-bff4af009690",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                648.0,
+                658.9174507488467,
+                659.955072039441,
+                667.047906864717
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "e23f360a-e6e9-4ef9-8962-5e187a03e268",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                648.0,
+                677.9546162884459,
+                659.7567682317368,
+                686.4816800197246
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "136650e1-2498-4925-bd08-4872ffcad29a",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                648.0,
+                696.9917818280451,
+                660.5499834625534,
+                705.518845559324
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "265a7a1f-9cf3-4e95-acc3-8a99288f4d5c",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                649.7932152308166,
+                716.6035161000673,
+                660.5499834625534,
+                725.1509225220356
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "17",
+            "uuid": "9c569b8f-0cee-45ef-af33-133135610ebf",
+            "vertical": false,
+            "translation": "17"
+        },
+        {
+            "bbox": [
+                649.0000000000001,
+                736.0,
+                661.144894885666,
+                743.7914804462266
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "16",
+            "uuid": "54cbcf1c-28fd-48cc-bf7d-09e30037cd1a",
+            "vertical": false,
+            "translation": "16"
+        },
+        {
+            "bbox": [
+                671.9772736361023,
+                739.0422244491102,
+                693.1003313535435,
+                842.0171308216368
+            ],
+            "order": "73",
+            "label": "Text",
+            "text": "86230203",
+            "uuid": "3f9b911a-b9bc-4cdc-8080-a0ce88e98a47",
+            "vertical": true,
+            "translation": "86230203"
+        },
+        {
+            "bbox": [
+                640.7680764255083,
+                929.9761562067343,
+                694.9531364298864,
+                941.2302433289077
+            ],
+            "order": "76",
+            "label": "Page-footer",
+            "text": "Page 1 of 4",
+            "uuid": "4444104c-bb11-45e9-b074-ab4cc4e0454b",
+            "vertical": false,
+            "translation": "Seite 1 von 4"
+        },
+        {
+            "bbox": [
+                194.6381036104,
+                70.82270659894374,
+                208.32967284918112,
+                81.88693093127874
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Telephone Icon",
+            "uuid": "f0823a45-2ccb-4165-93ed-d888e3b8c1b3",
+            "vertical": false,
+            "translation": "Telefon-Icon"
+        },
+        {
+            "bbox": [
+                627.9451528150075,
+                66.62319459899358,
+                639.1473458285557,
+                78.28850570996637
+            ],
+            "order": "7",
+            "label": "Page-header",
+            "text": "Papers Icon",
+            "uuid": "1cd7944f-1d35-4968-a902-b81756b327aa",
+            "vertical": false,
+            "translation": "Papier-Icon"
+        },
+        {
+            "bbox": [
+                519.8635956604717,
+                162.0042565982952,
+                530.0390358750965,
+                171.8490619369525
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "X",
+            "uuid": "c6f24c42-64ff-4700-a378-22f72295f4c5",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                63.250113662770886,
+                349.59012523466384,
+                397.0483951274968,
+                374.8370137139728
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)",
+            "uuid": "40c4bae9-f49f-45c1-b45b-54047ba73832",
+            "vertical": false,
+            "translation": "(NUR WENN DIE TEILREGION DEN GELTUNGSBEREICH DER ABTEILUNG(EN) ÜBERNIMMT)"
+        },
+        {
+            "bbox": [
+                256.94853868494084,
+                577.6247006610603,
+                540.7764457784127,
+                588.1534060794565
+            ],
+            "order": "53",
+            "label": "Text",
+            "text": "(15+ STORES) STOCKING NO MAVERICK SPECIALS",
+            "uuid": "632f2741-0822-4e78-9bd5-f52abc5ff6ea",
+            "vertical": false,
+            "translation": "(15+ FILIALEN) MAVERICK SPECIALS NICHT AUF LAGER"
+        },
+        {
+            "bbox": [
+                193.5672077036344,
+                559.7241246126381,
+                600.6161969830449,
+                574.0303481020927
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION",
+            "uuid": "9cc7c099-a061-4141-a709-fd2030798305",
+            "vertical": false,
+            "translation": "DIREKTKUNDEN UND KETTEN MIT HAUPTSITZ IN DER REGION"
+        },
+        {
+            "bbox": [
+                389.46867833096815,
+                642.6475691451226,
+                431.9056931796582,
+                652.163182743507
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Sayle Oil",
+            "uuid": "5d60de26-6348-416f-91d4-80bc93baf6be",
+            "vertical": false,
+            "translation": "Sayle Oil"
+        },
+        {
+            "bbox": [
+                389.46867833096815,
+                662.471764141757,
+                429.5260474872083,
+                670.9961679903098
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Dantzler",
+            "uuid": "11095dde-36ff-4ad3-a4c5-4d7568d8b8a1",
+            "vertical": false,
+            "translation": "Dantzler"
+        },
+        {
+            "bbox": [
+                390.0635897540807,
+                682.097717188425,
+                472.1613661436025,
+                689.4326693371798
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Southeast Foods",
+            "uuid": "4ef9571e-b2e9-4ea0-96ad-e44b7dd20e1a",
+            "vertical": false,
+            "translation": "Southeast Foods"
+        },
+        {
+            "bbox": [
+                389.6669821386724,
+                701.1289443851941,
+                464.4275176431403,
+                710.6445579835787
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Compac Foods",
+            "uuid": "3cb1d8c0-e820-4a0a-9c23-65717ec9d6a3",
+            "vertical": false,
+            "translation": "Compac Foods"
+        },
+        {
+            "bbox": [
+                390.8568049848973,
+                720.1601715819633,
+                454.5123272579323,
+                729.8740271303142
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Bayou Foods",
+            "uuid": "d517a02b-7687-4467-95c9-61d4aaa0c44e",
+            "vertical": false,
+            "translation": "Bayou Foods"
+        },
+        {
+            "bbox": [
+                390.65850117719316,
+                740.4103566194677,
+                414.8515657171006,
+                748.3400346181216
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Econ",
+            "uuid": "75daf517-8765-4412-8243-2569ab22cca9",
+            "vertical": false,
+            "translation": "Econ"
+        },
+        {
+            "bbox": [
+                69.80563068400988,
+                599.5755849711416,
+                666.0863817672646,
+                814.7588608332304
+            ],
+            "order": "54",
+            "label": "Table",
+            "text": "K & B Litco Huber Oil Morris Corp Delchamps Winn Dixie Schwegmann Autry Greer Double Quick NAME OF ACCOUNT NO. OF STORES 180 Sayle Oil 130 Dantzler 85 Southeast Foods 39 Compac Foods 36 Bayou Foods 36 Econ 23 23 22 NAME OF ACCOUNT STORES 20 19 18 18 17 16",
+            "uuid": "9d38fbd7-bb6f-4589-a33c-956e3c1e9f8a",
+            "vertical": false,
+            "translation": "K & B, Litco, Huber, Oil Morris Corp, Delchamps, Winn Dixie, Schwegmann, Autry Greer, Double Quick, KUNDENNAME, ANZAHL DER FILIALEN: 180, Sayle Oil: 130, Dantzler: 85, Southeast Foods: 39, Compac Foods: 36, Bayou Foods: 36, Econ: 23 23 22, KUNDENNAME, FILIALEN: 20 19 18 18 17 16"
+        },
+        {
+            "bbox": [
+                417.0616840596334,
+                328.19806847732593,
+                461.3881599447962,
+                336.40556761617756
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "1b2f0165-bc32-4981-9b73-7c5d807f4a3f",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                263.5607397906439,
+                391.39581184648443,
+                317.3271133180172,
+                399.19293602839366
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "2f82fc36-0d67-4ddf-bd16-4a64aa79bb85",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                418.7034053887136,
+                388.52318714788635,
+                465.0820329352264,
+                397.9618111575659
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "f93d4ee1-785a-4bc9-b4b3-acc1d51689f9",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                265.61289145199396,
+                415.1975593491546,
+                345.236375912379,
+                424.6361833588342
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "1cb650e1-78be-437f-8e9b-c9f71bf8740e",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                466.31332393203655,
+                413.5560595213842,
+                541.4220747374512,
+                420.5324337894083
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "533e4db1-df59-4243-8693-18553f5d28d4",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                265.61289145199396,
+                440.640806679595,
+                342.3633635864888,
+                449.25868077538945
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "958e2f63-d3d2-41ff-aca8-c6c112088a82",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                265.61289145199396,
+                466.49442896697815,
+                346.057236576919,
+                476.3434279336003
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "9a049ee7-440f-4a17-a26e-5575edbcab71",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                465.4924632674966,
+                438.99930685182477,
+                543.4742263988014,
+                446.7964310337339
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "d68af0e7-9ed8-4a82-8cf2-179f48b60722",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                467.1341845965766,
+                462.8010543544949,
+                543.4742263988014,
+                471.0085534933466
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "28347880-5e82-4334-9736-d5eea26f6635",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                623.0011747697458,
+                406.09382959045735,
+                664.0442079967484,
+                416.76357847096455
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "57201560-dd39-4aa5-880b-102b524a84a1",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                627.1054780924461,
+                430.71148449742424,
+                660.4403730154297,
+                441.5922242455802
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "378157c3-53ea-4c65-baf4-ab8a5c807bfb",
+            "vertical": false,
+            "translation": "null"
+        },
+        {
+            "bbox": [
+                627.1218868807978,
+                460.8388219316315,
+                661.18760445921,
+                468.6359461135406
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "d5780e63-74ce-4801-8be4-cf46369a9fb4",
+            "vertical": false,
+            "translation": "null"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

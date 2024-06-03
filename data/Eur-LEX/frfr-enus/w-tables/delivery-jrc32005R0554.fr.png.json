@@ -1,0 +1,329 @@
+{
+    "file": "jrc32005R0554.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                105.75383421816635,
+                123.73547269314737,
+                220.78432056073322,
+                145.99943779170854
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "12.4.2005",
+            "uuid": "f14e39c8-34a6-4ef9-a011-1be2f2fd6358",
+            "vertical": false,
+            "translation": "12.4.2005"
+        },
+        {
+            "bbox": [
+                330.24881562865977,
+                120.02481184338706,
+                358.0787720018614,
+                149.71009864146885
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "f8d2e014-8796-4b3e-9c62-6bd4e02280e4",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                615.9697010601969,
+                121.88014226826722,
+                1020.4317336840612,
+                157.13142034098925
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "d8ea1740-61da-4d98-aae2-fccf5ea1f84d",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1439.7364097069662,
+                118.16948141850689,
+                1534.358261375852,
+                149.71009864146885
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 93/33",
+            "uuid": "c69c4034-80c3-478b-bbaa-e68f80e5d032",
+            "vertical": false,
+            "translation": "L 93/33"
+        },
+        {
+            "bbox": [
+                775.5281175998865,
+                218.357324362033,
+                868.2946388438919,
+                242.47661988547435
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "940c7153-577f-4c52-82f4-8e1742d931dd",
+            "vertical": false,
+            "translation": "APPENDIX"
+        },
+        {
+            "bbox": [
+                1243.415042550339,
+                282.7134086059934,
+                1378.5540886822434,
+                303.7652198124709
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "(EUR/100 pièces)",
+            "uuid": "0169136d-7890-4a4c-a270-d2214a5bb049",
+            "vertical": true,
+            "translation": "(EUR/100 pieces)"
+        },
+        {
+            "bbox": [
+                230.56521600511124,
+                268.6932865977059,
+                1388.5252260196244,
+                644.7573859624414
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "758b4a82-9bcb-4402-b0c6-3b2ca8cfcae7",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                667.91895295684,
+                314.8345064557988,
+                946.2185166888567,
+                337.09847155436
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Période: du 13 au 26 avril 2005",
+            "uuid": "ea5679b7-9325-4bf3-b2de-4ffd0fa0b400",
+            "vertical": true,
+            "translation": "Timeframe: April 13-26, 2005"
+        },
+        {
+            "bbox": [
+                261.60158990809566,
+                370.4944192022021,
+                460.1219453702676,
+                418.733010249085
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Prix communautaires à la production",
+            "uuid": "d3e8f956-7369-4bea-9b34-28978edc3e07",
+            "vertical": false,
+            "translation": "Community producer prices"
+        },
+        {
+            "bbox": [
+                519.4925189664311,
+                366.7837583524418,
+                660.4976312573195,
+                415.0223493993247
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Œillets uniflores ( standard )",
+            "uuid": "941d72d8-df8f-4aaf-bbd3-b7ba95be69f3",
+            "vertical": false,
+            "translation": "Uniflorous carnations (standard)"
+        },
+        {
+            "bbox": [
+                740.2768395271643,
+                368.63908877732194,
+                892.4139343673335,
+                415.0223493993247
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "illets multiflores (spray)",
+            "uuid": "9b0c95c1-e899-47e3-9860-99fddb00512f",
+            "vertical": true,
+            "translation": "Multiflorous carnations (spray)"
+        },
+        {
+            "bbox": [
+                953.6398383883771,
+                379.7710713266027,
+                1124.3302374773473,
+                407.6010276998043
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Roses à grande fleur",
+            "uuid": "f164cfea-0b80-47cc-895a-f8def2996860",
+            "vertical": false,
+            "translation": "Large-flowered roses"
+        },
+        {
+            "bbox": [
+                1189.8812040263779,
+                381.25428195660004,
+                1354.5706440300287,
+                410.07493395723895
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Roses à petite fleur",
+            "uuid": "9eebceef-2bc4-4ed7-9a1e-9dbee0291a76",
+            "vertical": true,
+            "translation": "Small-flowered roses"
+        },
+        {
+            "bbox": [
+                562.0027140124587,
+                451.24729395815166,
+                621.7026360137821,
+                480.0679459587906
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "15,65",
+            "uuid": "7a644c92-2e0c-4594-a91b-8a03683883ac",
+            "vertical": false,
+            "translation": "15.65"
+        },
+        {
+            "bbox": [
+                784.3334580173874,
+                451.24729395815166,
+                846.0919980187565,
+                480.0679459587906
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "12,78",
+            "uuid": "cd3dc555-0cc0-4ff6-97be-8528c88ae82c",
+            "vertical": false,
+            "translation": "12.78"
+        },
+        {
+            "bbox": [
+                1010.7814380224073,
+                455.364529958243,
+                1070.4813600237308,
+                480.0679459587906
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "22,47",
+            "uuid": "d633d6ac-976a-429a-aa3d-4797332c37f3",
+            "vertical": false,
+            "translation": "22.47"
+        },
+        {
+            "bbox": [
+                1241.3466540275185,
+                449.188675958106,
+                1305.1638120289333,
+                480.0679459587906
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "11,72",
+            "uuid": "81e873d6-b119-4ddc-80d4-caf24e9f8992",
+            "vertical": false,
+            "translation": "11.72"
+        },
+        {
+            "bbox": [
+                253.21001400561323,
+                513.0058339595208,
+                459.07181401017687,
+                572.705755960844
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Prix communautaires à l'importation",
+            "uuid": "4f59b35c-3301-4183-a44b-804103555a53",
+            "vertical": false,
+            "translation": "Community import prices"
+        },
+        {
+            "bbox": [
+                518.7717360115003,
+                513.0058339595208,
+                666.9922320147862,
+                568.588519960753
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "illets uniflores (standard)",
+            "uuid": "beaafa7a-326c-41a1-8d40-26b4c83dd68c",
+            "vertical": false,
+            "translation": "Uniflorous carnations (standard)"
+        },
+        {
+            "bbox": [
+                734.9266260162922,
+                513.0058339595208,
+                897.5574480198974,
+                570.6471379607984
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Œillets multiflores (spray)",
+            "uuid": "2bca2e45-c89c-4507-9bf8-1403d585c7c9",
+            "vertical": false,
+            "translation": "Multifloral carnations (spray)"
+        },
+        {
+            "bbox": [
+                951.0815160210839,
+                523.298923959749,
+                1128.1226640250086,
+                558.2954299605246
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Roses à grande fleur",
+            "uuid": "e56da2dc-bead-4be3-990e-721f836f758e",
+            "vertical": false,
+            "translation": "Large-flowered roses"
+        },
+        {
+            "bbox": [
+                1185.7639680262864,
+                521.2403059597033,
+                1354.5706440300287,
+                558.2954299605246
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Roses à petite fleur",
+            "uuid": "7d3f6430-fcf8-4745-ae7a-a86c0aa1e82d",
+            "vertical": false,
+            "translation": "Small-flowered roses"
+        },
+        {
+            "bbox": [
+                247.03416000547634,
+                601.5264079614831,
+                335.5547340074387,
+                636.5229139622589
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Jordanie",
+            "uuid": "61cd4877-ea6e-4b8b-8879-4ea0c97e2bbc",
+            "vertical": false,
+            "translation": "Jordan"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

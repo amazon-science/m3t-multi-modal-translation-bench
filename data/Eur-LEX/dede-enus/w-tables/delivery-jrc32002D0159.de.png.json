@@ -1,0 +1,385 @@
+{
+    "file": "jrc32002D0159.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                119.37901374927367,
+                138.91565255325565,
+                229.55610867049177,
+                166.46590377351902
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "23.2.2002",
+            "uuid": "9c790751-9e93-42a4-b056-57dba6a0ca7c",
+            "vertical": false,
+            "translation": "23.2.2002"
+        },
+        {
+            "bbox": [
+                338.40620082084877,
+                141.53948600280447,
+                367.2621066335487,
+                166.46590377351902
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "b0d5779d-a72a-407b-bd02-4f03404ba385",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                591.5511927231712,
+                137.6037358284811,
+                1065.0503744679297,
+                169.08973722306786
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "f8815f8e-7938-4208-b587-d5e994c2c37e",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1445.423678362611,
+                137.6037358284811,
+                1538.5495562126885,
+                167.77782049829332
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 53/31",
+            "uuid": "59eefdf3-275f-495c-ae12-5109f0c1e564",
+            "vertical": false,
+            "translation": "L 53/31"
+        },
+        {
+            "bbox": [
+                780.439021495171,
+                242.55707381043672,
+                874.8765314276436,
+                267.48349158115127
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "a7e53b57-5ab9-4bf4-9ff2-3776cb978132",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                253.16292437219894,
+                301.5933264252869,
+                1398.2177323034293,
+                358.00574559058794
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "GEMEINSAMES MUSTER FÜR DIE EINREICHUNG DER ZUSAMMENFASSENDEN DARSTELLUNGEN DER NATIONALEN DATEN ZUR KRAFTSTOFFQUALITÄT",
+            "uuid": "b1c40b99-eb40-420c-abae-450994b2751e",
+            "vertical": false,
+            "translation": "COMMON TEMPLATE FOR SUBMISSION OF SUMMARIES OF NATIONAL DATA RELATING TO FUEL QUALITY"
+        },
+        {
+            "bbox": [
+                270.2141414433399,
+                468.20675047164127,
+                422.3634630012124,
+                497.0689184166792
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "1. EINLEITUNG",
+            "uuid": "9ecf87ff-1519-434c-b6a0-185abfa44771",
+            "vertical": false,
+            "translation": "1. INTRODUCTION"
+        },
+        {
+            "bbox": [
+                267.58034551052623,
+                869.6532682526214,
+                679.4328193826987,
+                899.8273529224336
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "2. ANGABEN ZUM BERICHTERSTATTER",
+            "uuid": "40cc188f-569b-4896-b507-8110f159a695",
+            "vertical": false,
+            "translation": "2. INFORMATION ON THE RAPPORTEUR"
+        },
+        {
+            "bbox": [
+                268.8990936523965,
+                1524.2997139150698,
+                784.3705020338094,
+                1555.7857153096563
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "3. BEGRIFFSBESTIMMUNGEN UND ERLÄUTERUNG",
+            "uuid": "f1f31ec6-d8d7-4d66-a3bb-21987a8a398a",
+            "vertical": false,
+            "translation": "3. DEFINITION OF TERMS AND EXPLANATION"
+        },
+        {
+            "bbox": [
+                267.587461570001,
+                2001.8374017329677,
+                1141.1344284453728,
+                2037.2591533018779
+            ],
+            "order": "24",
+            "label": "Section-header",
+            "text": "4. BESCHREIBUNG DES SYSTEMS ZUR ÜBERWACHUNG DER KRAFTSTOFFQUALITÄT",
+            "uuid": "f75694cd-e1e8-41a7-b654-2b9f24aa078b",
+            "vertical": false,
+            "translation": "4. DESCRIPTION OF THE FUEL QUALITY MONITORING SYSTEM"
+        },
+        {
+            "bbox": [
+                289.88520697072374,
+                1006.0926076291638,
+                1396.9026845124863,
+                1457.3919609515729
+            ],
+            "order": "11",
+            "label": "Table",
+            "text": "",
+            "uuid": "39ddf0d8-0da0-4cb1-8c45-795967596227",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                301.7004274803055,
+                1024.4594417760059,
+                413.18915448391897,
+                1050.697776271495
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Berichtsjahr",
+            "uuid": "c23f8ccd-8b07-45c2-b47d-9b4e9304899b",
+            "vertical": false,
+            "translation": "Reporting year"
+        },
+        {
+            "bbox": [
+                299.0771633155146,
+                1078.2480274917582,
+                348.9191824465418,
+                1100.5506118129238
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Land",
+            "uuid": "d608015c-6cc9-4b1a-b849-5a583278e617",
+            "vertical": false,
+            "translation": "State"
+        },
+        {
+            "bbox": [
+                299.0771633155146,
+                1132.0366132075105,
+                573.2082685361643,
+                1160.8987811525483
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Abschlussdatum des Berichts",
+            "uuid": "dd57994b-4c8a-4ba7-9725-93453b66d86a",
+            "vertical": false,
+            "translation": "Report completion date"
+        },
+        {
+            "bbox": [
+                299.0771633155146,
+                1189.760949097586,
+                679.450467210196,
+                1219.9350337673984
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Für den Bericht verantwortliches Institut",
+            "uuid": "d84e60f6-b249-4219-8a26-4f8e607df424",
+            "vertical": false,
+            "translation": "Institute responsible for the report"
+        },
+        {
+            "bbox": [
+                300.38879539791003,
+                1247.4852849876618,
+                507.62666441639163,
+                1273.7236194831507
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Anschrift des Instituts",
+            "uuid": "68aef4f2-08b1-4f28-a18a-a192465ffa3d",
+            "vertical": false,
+            "translation": "Address of the institute"
+        },
+        {
+            "bbox": [
+                300.38879539791003,
+                1305.2096208777373,
+                666.3341463862414,
+                1331.447955373226
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Für den Bericht verantwortliche Person",
+            "uuid": "bed15a41-1786-4e45-8f42-36248b2b99cc",
+            "vertical": false,
+            "translation": "Person responsible for the report"
+        },
+        {
+            "bbox": [
+                299.0771633155146,
+                1358.9982065934894,
+                459.09627736775985,
+                1385.2365410889784
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Telefonnummer:",
+            "uuid": "07cbeccc-e4ce-4872-9d59-ced5f676d50b",
+            "vertical": false,
+            "translation": "Phone number:"
+        },
+        {
+            "bbox": [
+                300.38879539791003,
+                1415.4106257587907,
+                367.28203160007814,
+                1446.8966271533773
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "E-Mail:",
+            "uuid": "43fa7b1c-ba1d-4167-8f46-3adab4dc095a",
+            "vertical": false,
+            "translation": "Email:"
+        },
+        {
+            "bbox": [
+                295.14226706832824,
+                540.3621703342358,
+                1399.5364804452997,
+                798.8097651148014
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "In der Richtlinie 98/70/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über die Qualität von Otto- und Dieselkraftstoffen und zur Änderung der Richtlinie 93/12/EWG (¹), zuletzt geändert durch die Richtlinie 2000/71/EG der Kommission (²), sind für alle Otto- und Dieselkraftstoffe, die in der Europäischen Union in Verkehr gebracht werden, umweltbezogene Spezifikationen festgelegt. Diese Spezifikationen sind in den Anhängen I bis IV der Richtlinie enthalten. Gemäß Artikel 8 Absatz 1 müssen die Mitgliedstaaten die Einhaltung dieser Spezifikationen für die Kraftstoffqualität anhand der in der Richtlinie genannten analytischen Verfahren überwachen. Die Mitgliedstaaten müssen jährlich bis zum 30. Juni eine zusammenfassende Darstellung der Daten zur Überwachung der Kraftstoffqualität vorlegen, die im Zeitraum von Januar bis Dezember des vorhergehenden Kalenderjahres erhoben wurden. Der erste Bericht ist bis zum 30. Juni 2002 vorzulegen. Das vorliegende Muster für die Berichterstattung wurde von der Europäischen Kommission gemäß Artikel 8 Absatz 3 der Richtlinie 98/70/EG und dieser Entscheidung erstellt.",
+            "uuid": "00fb888f-d119-4781-9806-68682bdde996",
+            "vertical": false,
+            "translation": "Directive 98/70/EC of the European Parliament and of the Council dated 13 October 1998 relating to the quality of petrol and diesel fuels and amending Directive 93/12/EEC (¹), as last amended by Commission Directive 2000/71/EC (²), lays down environmental specifications for all petrol and diesel fuels placed on the market in the European Union. These specifications are set out in Annexes I to IV to the Directive. Article 8 para. 1 requires Member States to monitor compliance with these fuel quality specifications using the analytical methods set out in the Directive. Member States must provide a summary of fuel quality monitoring data collected between January and December of the previous calendar year by 30 June of the current year. The first report should be submitted by 30 June 2002. This reporting template was prepared by the European Commission in accordance with Article 8 para. 3 of Directive 98/70/EC and this Decision."
+        },
+        {
+            "bbox": [
+                295.14226706832824,
+                936.5610212161181,
+                1399.5364804452997,
+                987.7257734823215
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Die für die Erstellung des Berichts über die Überwachung der Kraftstoffqualität zuständigen Behörden müssen die nachstehende Tabelle ausfüllen.",
+            "uuid": "b9e066a9-3703-4b15-8f0a-5ce33cbef2cc",
+            "vertical": false,
+            "translation": "The authorities responsible for preparing the fuel quality monitoring report must complete the table below."
+        },
+        {
+            "bbox": [
+                296.4538991507237,
+                1592.5193836033407,
+                1400.8481125276953,
+                1698.784638310071
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Kraftstoffgrundsorten: In der Richtlinie 98/70/EG sind für alle Otto- und Dieselkraftstoffe, die in der Europäischen Union in Verkehr gebracht werden, umweltbezogene Spezifikationen festgelegt. Diese Spezifikationen können als ,,Kraftstoffgrundsorten\" betrachtet werden. Dazu zählen i) unverbleites Normalbenzin (ROZ > 91), ii) unverbleites Benzin (ROZ > 95) und iii) Dieselkraftstoff.",
+            "uuid": "54845efb-e30c-4a90-9915-85bdb84a272c",
+            "vertical": false,
+            "translation": "Basic fuel grades: Directive 98/70/EC lays down environmental specifications for all petrol and diesel fuels placed on the market in the European Union. These specifications can be regarded as \"basic fuel grades\". These include i) unleaded regular petrol (RON > 91), ii) unleaded petrol (RON > 95) and iii) diesel fuel."
+        },
+        {
+            "bbox": [
+                295.1388513597803,
+                1732.8944731542065,
+                1399.5330647367516,
+                1865.3980623564253
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "Nationale Kraftstoffsorten: Die Mitgliedstaaten können natürlich „nationale“ Kraftstoffsorten festlegen, die jedoch den Spezifikationen der Kraftstoffgrundsorte entsprechen müssen. Nationale Kraftstoffsorten können beispielsweise unverbleites Superbenzin (ROZ > 98), Bleiersatzkraftstoff, schwefelfreien Ottokraftstoff, Ottokraftstoff mit einem Schwefelgehalt unter 50 ppm, schwefelfreien Dieselkraftstoff, Dieselkraftstoff mit einem Schwefelgehalt unter 50 ppm usw. umfassen.",
+            "uuid": "ffbf7726-4075-4657-bb80-e2d8f5372366",
+            "vertical": false,
+            "translation": "National fuel grades: Member States can of course define \"national\" fuel grades, but these must comply with the specifications of the base fuel grade. National fuel grades may include, for example, premium unleaded petrol (RON > 98), lead replacement fuel, sulfur-free petrol, petrol with a sulfur content below 50 ppm, sulfur-free diesel fuel, diesel fuel with a sulfur content below 50 ppm, etc."
+        },
+        {
+            "bbox": [
+                296.4504834421758,
+                1900.8198139253354,
+                1222.4627336133658,
+                1930.9938985951476
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "Schwefelfrei sind Otto- und Dieselkraftstoffe mit einem Schwefelgehalt unter 10 mg/kg (ppm).",
+            "uuid": "48b32595-fb16-479b-a00e-7c4001d59a98",
+            "vertical": false,
+            "translation": "Sulphur-free fuels are petrol and diesel fuels with a sulphur content below 10 mg/kg (ppm)."
+        },
+        {
+            "bbox": [
+                296.4504834421758,
+                2068.7451546964644,
+                1400.8446968191474,
+                2123.845657136991
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Die Mitgliedstaaten müssen eine Beschreibung ihres nationalen Systems zur Überwachung der Kraftstoffqualität vorlegen.",
+            "uuid": "467e2243-3b33-412a-9b42-241d9c65576a",
+            "vertical": false,
+            "translation": "Member States must provide a description of their national fuel quality monitoring system."
+        },
+        {
+            "bbox": [
+                256.19948607052027,
+                2157.7699879107327,
+                600.3890319908678,
+                2177.4214350047496
+            ],
+            "order": "26",
+            "label": "Footnote",
+            "text": "(¹) ABl. L 350 vom 28.12.1998, S. 58.",
+            "uuid": "0a9c8629-4d79-470d-9448-78e4de771d48",
+            "vertical": false,
+            "translation": "(¹) OJ L 350 dated 28.12.1998, p. 58."
+        },
+        {
+            "bbox": [
+                254.7441391533095,
+                2180.3327605001596,
+                599.6613585322624,
+                2199.256376220324
+            ],
+            "order": "27",
+            "label": "Footnote",
+            "text": "(²) ABl. L 287 vom 14.11.2000, S. 46.",
+            "uuid": "dc6a0e86-2c86-4b56-8d18-615ce1b24628",
+            "vertical": false,
+            "translation": "(²) OJ L 287 dated 14.11.2000, p. 46."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

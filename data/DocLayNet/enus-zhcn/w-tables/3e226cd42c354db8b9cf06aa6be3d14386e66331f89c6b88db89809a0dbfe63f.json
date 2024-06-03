@@ -1,0 +1,413 @@
+{
+    "file": "3e226cd42c354db8b9cf06aa6be3d14386e66331f89c6b88db89809a0dbfe63f.png",
+    "annotations": [
+        {
+            "bbox": [
+                40.08801695340368,
+                116.71618995711789,
+                184.5272841442933,
+                141.50343708097836
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "QuickLinks",
+            "uuid": "ec6dd13b-d733-4657-a483-e11f1299da7e",
+            "vertical": false,
+            "translation": "快速链接"
+        },
+        {
+            "bbox": [
+                39.99999999999999,
+                173.94106911961026,
+                113.83772753180283,
+                192.96694307919378
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "PART I",
+            "uuid": "5abc2741-5907-440a-a3ee-7078f73b7c6b",
+            "vertical": false,
+            "translation": "第 I 部分"
+        },
+        {
+            "bbox": [
+                102.99999999999999,
+                226.8817327298304,
+                337.2289670431364,
+                244.71548572337377
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "Item 1A. Risk Factors",
+            "uuid": "6787c1d7-20d4-4ab0-b2c3-a5106b624059",
+            "vertical": false,
+            "translation": "项目 1A. 危险因素"
+        },
+        {
+            "bbox": [
+                103.43320404771333,
+                254.00000000000014,
+                496.05095787379673,
+                272.27388121435706
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "Item 1B. Unresolved Staff Comments",
+            "uuid": "dfb67105-0abf-4082-a7b5-c7078597a0d8",
+            "vertical": false,
+            "translation": "项目 1B. 未解决的员工评论"
+        },
+        {
+            "bbox": [
+                103.99999999999997,
+                281.0000000000001,
+                294.79185878408913,
+                302.5881162544388
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "Item 2. Properties",
+            "uuid": "73f96779-66ed-4d66-8d7c-385a668774cb",
+            "vertical": false,
+            "translation": "项目2. 属性"
+        },
+        {
+            "bbox": [
+                102.99999999999999,
+                307.9758128264104,
+                379.76510716926697,
+                330.14651174542206
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Item 3. Legal Proceedings",
+            "uuid": "ba82f9a3-456b-40a7-bbc7-c63105a81194",
+            "vertical": false,
+            "translation": "项目3. 法律程序"
+        },
+        {
+            "bbox": [
+                102.99999999999999,
+                336.0,
+                438.8260787113045,
+                357.24429167754005
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "Item 4. Mine Safety Disclosures",
+            "uuid": "c54b4d06-65b8-4136-b65a-12b8f2e89435",
+            "vertical": false,
+            "translation": "第 4 项. 矿山安全披露"
+        },
+        {
+            "bbox": [
+                39.99999999999999,
+                389.0000000000001,
+                120.26405086021104,
+                406.20675513207897
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "PART II",
+            "uuid": "ca1d43c3-74c8-441f-b27d-b461ed84998a",
+            "vertical": false,
+            "translation": "第 II 部分"
+        },
+        {
+            "bbox": [
+                102.50700597462613,
+                439.99999999999994,
+                1414.2256163648647,
+                463.36378210848744
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Item 5. Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+            "uuid": "5a3d7075-6266-4d7d-aee4-da10b154f93a",
+            "vertical": false,
+            "translation": "项目 5. 登记人普通股市场、相关股东事项及发行人购买权益性证券"
+        },
+        {
+            "bbox": [
+                101.29109627157725,
+                495.8692663332032,
+                1119.0983053328036,
+                517.0302551520474
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+            "uuid": "cedc9822-c07b-4095-bf4e-98e9085edc6d",
+            "vertical": false,
+            "translation": "项目 7. 管理层对财务状况和经营成果的讨论与分析"
+        },
+        {
+            "bbox": [
+                101.90312706475899,
+                523.1046366297903,
+                833.279924916933,
+                543.3638330656536
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+            "uuid": "aa7196f9-bfa3-43a1-b8cd-beff9f6658d0",
+            "vertical": false,
+            "translation": "项目 7A. 市场风险的定量和定性披露"
+        },
+        {
+            "bbox": [
+                102.99999999999999,
+                550.0,
+                680.2722266214993,
+                570.9222285566372
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Item 8. Financial Statements and Supplementary Data",
+            "uuid": "49f89486-7d47-4a7b-8b62-9e4da6a5fbc3",
+            "vertical": false,
+            "translation": "项目 8. 财务报表及补充数据"
+        },
+        {
+            "bbox": [
+                101.59711166816811,
+                576.9633464297832,
+                1129.808844213484,
+                597.8682152589319
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+            "uuid": "fdb5339d-4cef-447d-87ee-a1186f6c4e95",
+            "vertical": false,
+            "translation": "项目 9. 会计与财务披露的变更与分歧"
+        },
+        {
+            "bbox": [
+                103.43320404771333,
+                602.9746551400068,
+                462.3892642488013,
+                623.2831799895054
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Item 9A. Controls and Procedures",
+            "uuid": "e126ad0e-34f4-4ca3-8b16-9e2a60763bf1",
+            "vertical": false,
+            "translation": "项目 9A. 控制和程序"
+        },
+        {
+            "bbox": [
+                102.20914246134984,
+                632.0000000000001,
+                392.00572303290164,
+                650.2013840220516
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Item 9B. Other Information",
+            "uuid": "c1cfa690-45e5-4d88-b27e-901f6027671d",
+            "vertical": false,
+            "translation": "项目 9B. 其他信息"
+        },
+        {
+            "bbox": [
+                39.99999999999999,
+                684.9867814263594,
+                130.0565435511188,
+                702.8685398492643
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "PART III",
+            "uuid": "0499ab45-9634-4b91-afa4-6436138bfed8",
+            "vertical": false,
+            "translation": "第 III 部分"
+        },
+        {
+            "bbox": [
+                103.0,
+                737.0,
+                796.0,
+                755.0
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Item 10. Directors, Executive Officers and Corporate Governance",
+            "uuid": "45eddaa4-55cb-42fb-9077-b2375a9d2493",
+            "vertical": false,
+            "translation": "项目 10. 董事、执行官和公司治理"
+        },
+        {
+            "bbox": [
+                104.6572656340768,
+                764.8567999365761,
+                459.0230948863017,
+                786.2778776979368
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "Item 11. Executive Compensation",
+            "uuid": "3e1c5253-7c7b-490d-9093-5010967f457e",
+            "vertical": false,
+            "translation": "项目 11行政人员薪酬"
+        },
+        {
+            "bbox": [
+                103.12718865112245,
+                791.9740186034439,
+                1267.2097572827836,
+                815.4264514574529
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+            "uuid": "4febd781-99f1-414c-8253-d2c394be8bc6",
+            "vertical": false,
+            "translation": "项目 12. 某些实际所有人和管理层的证券所有权及相关股东事宜"
+        },
+        {
+            "bbox": [
+                102.82117325453159,
+                818.3075965170501,
+                1004.0365162146372,
+                840.4426028945203
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+            "uuid": "c20d2094-d02c-4fa5-bc97-e6dd68cf69a9",
+            "vertical": false,
+            "translation": "项目13. 某些关系和关联交易，以及董事的独立性"
+        },
+        {
+            "bbox": [
+                103.73921944430418,
+                845.5597876136893,
+                616.0089933374169,
+                867.6779731911076
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "Item 14. Principal Accounting Fees and Services",
+            "uuid": "7027b797-a37d-407b-93da-6fdbd326dbdb",
+            "vertical": false,
+            "translation": "项目 14. 主要会计费用和服务"
+        },
+        {
+            "bbox": [
+                39.975183925375525,
+                899.0000000000002,
+                128.40513624514563,
+                916.3024756584394
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "PART IV",
+            "uuid": "253d1afd-47be-40c0-985a-80834684c845",
+            "vertical": false,
+            "translation": "第 IV 部分"
+        },
+        {
+            "bbox": [
+                102.76448796977849,
+                951.9822547104552,
+                625.0665122876901,
+                971.0091269095988
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Item 15. Exhibits, Financial Statement Schedules",
+            "uuid": "1b7821d9-d47f-4067-8d90-2c31762857ed",
+            "vertical": false,
+            "translation": "项目15. 展品、财务报表附表"
+        },
+        {
+            "bbox": [
+                103.99999999999997,
+                977.0,
+                419.38508952876794,
+                1000.2357482836564
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Item 16. Form 10-K Summary",
+            "uuid": "21cc9e04-b22a-4d3e-b344-3ec93983fa36",
+            "vertical": false,
+            "translation": "项目 16. 10-K表格摘要"
+        },
+        {
+            "bbox": [
+                39.975183925375525,
+                1031.9326225612062,
+                188.36791213320893,
+                1049.3927163158294
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "SIGNATURES",
+            "uuid": "b2a71857-8d8f-43dc-86dc-9818b77565c5",
+            "vertical": false,
+            "translation": "签名"
+        },
+        {
+            "bbox": [
+                40.78276339861543,
+                1058.9865349147433,
+                1272.0,
+                1075.9457038527814
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM ON FINANCIAL STATEMENT SCHEDULE",
+            "uuid": "8eeb1f0a-f12b-433b-8945-c51a4b781efa",
+            "vertical": false,
+            "translation": "独立注册会计师事务所关于财务报表附表的报告"
+        },
+        {
+            "bbox": [
+                103.97585717963835,
+                1112.0848852802674,
+                252.97426999240167,
+                1129.1031582335859
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "SCHEDULE II",
+            "uuid": "a404d600-3d6d-46c5-9404-7492201d652b",
+            "vertical": false,
+            "translation": "附表 II"
+        },
+        {
+            "bbox": [
+                39.99999999999999,
+                1164.9252618898988,
+                1544.5761674418516,
+                1210.701372346547
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES VALUATION AND QUALIFYING ACCOUNTS AND RESERVES For the Years Ended December 31: (Dollars in Millions)",
+            "uuid": "1189c46e-11c8-4092-9fed-ddb8b452106b",
+            "vertical": false,
+            "translation": "国际商业机器公司和子公司 估值和合格账户及储备金 截至12月31日：（百万美元）"
+        },
+        {
+            "bbox": [
+                103.4346711870662,
+                467.07673469445456,
+                436.4664824530461,
+                487.49797391727304
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Item 6. Selected Financial Data",
+            "uuid": "88883e3f-6980-4a54-9ed9-0585799c4c88",
+            "vertical": false,
+            "translation": "项目 6：财务数据选编"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

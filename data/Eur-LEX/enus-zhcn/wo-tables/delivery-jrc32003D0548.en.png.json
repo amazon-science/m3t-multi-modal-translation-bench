@@ -1,0 +1,455 @@
+{
+    "file": "jrc32003D0548.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                115.08408525091309,
+                137.995624247085,
+                215.7515896280617,
+                166.84659360447327
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 186/44",
+            "uuid": "15a4f56c-a872-4e41-871a-0eb40448984c",
+            "vertical": false,
+            "translation": "L 186/44"
+        },
+        {
+            "bbox": [
+                333.569854010206,
+                143.48532093860322,
+                360.41452184411224,
+                161.39281916043035
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "092d39b2-e4e0-4c56-ab25-41b534eda091",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.2593416062093,
+                137.6952273795862,
+                1032.6694089403395,
+                166.7228282463587
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "35b08510-a114-41b6-9d74-ba42e491f946",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                788.6171809892376,
+                247.66140679897782,
+                865.5422483075732,
+                264.8746834907382
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "606f71d3-54cb-48cc-b123-7ccae8ca8fb5",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                1428.7328769379017,
+                140.46021023781398,
+                1536.6086717519327,
+                160.8548609904506
+            ],
+            "order": "5",
+            "label": "Page-header",
+            "text": "25.7.2003",
+            "uuid": "35ab4664-d925-4955-91ed-3d1bb6daa32b",
+            "vertical": false,
+            "translation": "2003 年 7 月 25 日"
+        },
+        {
+            "bbox": [
+                257.05293313632893,
+                308.41639462341607,
+                1397.878331627084,
+                357.4090977184976
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "LIST OF STANDARDS AND/OR SPECIFICATIONS FOR ELECTRONIC COMMUNICATIONS NETWORKS, SERVICES AND ASSOCIATED FACILITIES AND SERVICES",
+            "uuid": "a366808d-5834-4ccc-b920-7ce6b2386de7",
+            "vertical": false,
+            "translation": "电子通信网络、服务及相关设施和服务的标准和/或规范清单"
+        },
+        {
+            "bbox": [
+                748.0564674695422,
+                394.330473599158,
+                906.2991817419454,
+                419.9208487652517
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "Mandatory part",
+            "uuid": "05325e6b-eb8f-4d7a-af62-9c92c26d523a",
+            "vertical": false,
+            "translation": "必填部分"
+        },
+        {
+            "bbox": [
+                578.6248744102015,
+                438.5804973238616,
+                1074.6651672977682,
+                458.3064115143923
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Identification of the minimum set of leased lines",
+            "uuid": "64c742ac-76ba-4fd6-8c11-2fec26ab69b1",
+            "vertical": false,
+            "translation": "确定最小租赁线路集"
+        },
+        {
+            "bbox": [
+                260.2660948005331,
+                484.11139278250545,
+                353.9068061573386,
+                507.9953355413578
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "1. Purpose",
+            "uuid": "65442ee8-1c07-403a-9d91-41219dea5c08",
+            "vertical": false,
+            "translation": "1. 目的"
+        },
+        {
+            "bbox": [
+                287.806640625,
+                542.685945669858,
+                1400.2021484375,
+                595.2545252519782
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "This publication identifies the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of Directive 2002/22/EC (Universal Service Directive).",
+            "uuid": "85246f91-6255-4a7d-ba47-c0cd627816b5",
+            "vertical": false,
+            "translation": "本出版物确定了第 2002/22/EC 号指令（《通用服务指令》）第 18 条所述的具有统一特性和相关标准的最小租赁线路集。"
+        },
+        {
+            "bbox": [
+                286.66455078125,
+                630.6811767094941,
+                1395.6337890624998,
+                683.2497562916146
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "This list forms part of the list of standards referred to in Article 17 of Directive 2002/21/EC (the Framework Directive).",
+            "uuid": "25e6006f-23d2-4cda-ac74-9e59404040ba",
+            "vertical": false,
+            "translation": "本清单是第 2002/21/EC 号指令（《框架指令》）第 17 条所述标准清单的一部分。"
+        },
+        {
+            "bbox": [
+                285.5224609375,
+                719.8192029574373,
+                1397.91796875,
+                797.529277122311
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "This publication is in addition to the list of standards and/or specifications for electronic communications networks, services and associated facilities and services published in the Official Journal of the European Communities in December 2002 (¹).",
+            "uuid": "64d3518c-e00e-4010-adfd-cb60e99d9a6c",
+            "vertical": false,
+            "translation": "本出版物是对 2002 年 12 月在《欧洲共同体官方公报》上公布的电子通信网络、服务及相关设施和服务的标准和/或规格清单的补充 (¹)。"
+        },
+        {
+            "bbox": [
+                259.4315323241465,
+                869.0274917439423,
+                458.51489530866854,
+                888.0620328942125
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "2. Technical Standards",
+            "uuid": "5c9f090c-b5fe-4429-baa2-690f775e430b",
+            "vertical": false,
+            "translation": "2. 技术标准"
+        },
+        {
+            "bbox": [
+                285.5224609375,
+                929.8431168681967,
+                1399.06005859375,
+                980.1261060337029
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "The standards mentioned in this publication are ETSI deliverables under the current ETSI nomenclature. According to the ETSI Directives' (²), these deliverables are defined as follows:",
+            "uuid": "5e339a8d-d48a-4de6-b7ea-381149350b76",
+            "vertical": false,
+            "translation": "本出版物所述标准是 ETSI 现行术语下的 ETSI 可交付成果，根据 ETSI 指令 (²)，这些交付成果定义如下："
+        },
+        {
+            "bbox": [
+                285.5224609375,
+                1018.9811431161397,
+                1397.91796875,
+                1097.8340124893202
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "European Standard (telecommunications series), EN: An ETSI deliverable containing normative provisions, approved for publication in a process involving the National Standards Organisations and/or ETSI National Delegations with implications concerning standstill and national transposition.",
+            "uuid": "35ce651e-afae-4038-9e0b-e688be296558",
+            "vertical": false,
+            "translation": "欧洲标准（电信系列），EN：包含规范性条款的 ETSI 可交付成果，在国家标准组织和/或 ETSI 国家代表团参与的流程后获准公布，对停顿期和国家换位有影响。"
+        },
+        {
+            "bbox": [
+                286.66455078125,
+                1132.117868738529,
+                1399.06005859375,
+                1237.2550279027698
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Harmonised Standard: An EN (telecommunications series) the drafting of which has been entrusted to ETSI by a mandate from the European Commission pursuant to Directive 98/48/EC (latest amendment to Council Directive 83/189/EEC) and has been drafted taking into account the applicable essential requirements of the New Approach' Directive and whose reference has subsequently been announced in the Official Journal of the European Communities.",
+            "uuid": "d7d411bc-3cc1-494c-acc1-49abc9c08adc",
+            "vertical": false,
+            "translation": "协调标准：EN（电信系列）的起草工作由欧盟委员会根据第 98/48/EC 号指令（理事会第 83/189/EEC 号指令的最后修正案）委托 ETSI 起草，起草时考虑了“新方法指令”的适用基本要求，其参考文献随后在《欧洲共同体官方公报》上公布。"
+        },
+        {
+            "bbox": [
+                290.0908203125,
+                1270.3960889436717,
+                1291.70361328125,
+                1297.823173943039
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "The version of the standards referred to in this list is the version valid at the time that the list is published.",
+            "uuid": "fc65c90c-decb-433e-97db-aacc10a83942",
+            "vertical": false,
+            "translation": "本清单所述标准版本为清单公布时的有效版本。"
+        },
+        {
+            "bbox": [
+                259.85900363493386,
+                1367.2697843596206,
+                750.9029139519812,
+                1394.616662261123
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "3. Addresses where documents referenced can be obtained",
+            "uuid": "248d2720-e7fa-4c60-8aeb-a2534ab3710e",
+            "vertical": false,
+            "translation": "3. 可获取所参考文件的地址"
+        },
+        {
+            "bbox": [
+                287.9060126692493,
+                1429.819124695474,
+                537.3851447974284,
+                1455.8472321699464
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "ETSI Publications Office (³)",
+            "uuid": "db552f72-8e50-43b8-be31-0b6a5c460091",
+            "vertical": false,
+            "translation": "ETSI 出版办公室 (³)"
+        },
+        {
+            "bbox": [
+                287.18900229309065,
+                1480.6644103390563,
+                822.5881563340319,
+                1505.321431397788
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "Postal address: F-06921 Sophia Antipolis Cedex France",
+            "uuid": "e6a59d5e-6f25-45e4-9620-7277c062bfdf",
+            "vertical": false,
+            "translation": "邮政地址： F-06921 Sophia Antipolis Cedex 法国"
+        },
+        {
+            "bbox": [
+                287.63703505797844,
+                1520.5188499549313,
+                642.9270176140174,
+                1544.7275615398678
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Telephone: (0033) 4 9294 4241",
+            "uuid": "ec3fa3f8-d6bf-474e-b08d-4ff1c1c5debb",
+            "vertical": false,
+            "translation": "电话：(0033) 4 9294 4241"
+        },
+        {
+            "bbox": [
+                446.2406338282657,
+                1546.8780716783397,
+                643.3750503789051,
+                1571.1778204937802
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "(0033) 4 9294 4258",
+            "uuid": "e8bbea2b-6688-4148-bc0f-d3eb86697e8e",
+            "vertical": false,
+            "translation": "(0033) 4 9294 4258"
+        },
+        {
+            "bbox": [
+                288.9811333526419,
+                1589.5585089193805,
+                643.823083143793,
+                1611.5256731353413
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "Fax: (0033) 4 9395 8133",
+            "uuid": "ae225f5e-1127-45c1-a705-2560a0c2d1a5",
+            "vertical": false,
+            "translation": "传真：(0033) 4 9395 8133"
+        },
+        {
+            "bbox": [
+                288.9811333526419,
+                1628.1131236657611,
+                627.6939036078315,
+                1654.5633826196733
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "E-mail: publications@etsi.fr",
+            "uuid": "ae79c192-c01b-4454-aecf-da50a2909029",
+            "vertical": false,
+            "translation": "电子邮件： publications@etsi.fr"
+        },
+        {
+            "bbox": [
+                288.0409773639024,
+                1668.5295327169285,
+                610.2100326145231,
+                1693.9514360955532
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Web site: http://www.etsi.fr",
+            "uuid": "f61da45a-b40f-4443-9ff4-2510192c83ca",
+            "vertical": false,
+            "translation": "网站：http://www.etsi.fr"
+        },
+        {
+            "bbox": [
+                258.6424651802805,
+                1775.6522866948942,
+                525.5614892463299,
+                1800.793072323646
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "4. References to EU legislation",
+            "uuid": "754754a3-db9b-4bb1-8a26-e6d875eab8e2",
+            "vertical": false,
+            "translation": "4. 欧盟立法参考资料"
+        },
+        {
+            "bbox": [
+                287.15339739660794,
+                1838.7740846339093,
+                1395.4310582517435,
+                1889.7056215177352
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "The list refers to the following legislative documents which may be found at http://europa.eu.int/information_society/ topics/telecoms/regulatory/index_en.htm",
+            "uuid": "13cf5685-8291-42c9-af32-a4010b506287",
+            "vertical": false,
+            "translation": "该清单参考了以下立法文件，这些文件可在 http://europa.eu.int/information_society/ topics/telecoms/regulatory/index_en.htm 上找到"
+        },
+        {
+            "bbox": [
+                286.14790200634343,
+                1924.365200407854,
+                1396.772313030964,
+                2000.581108959405
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "- Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).",
+            "uuid": "39ebb733-adb1-46f6-b970-73ef2e66c669",
+            "vertical": false,
+            "translation": "- 欧洲议会和理事会 2002 年 3 月 7 日关于电子通信网络和服务共同管理框架的第 2002/21/EC 号指令（《框架指令》）（OJ L 108，2002 年 4 月 24 日，第 33 页）。"
+        },
+        {
+            "bbox": [
+                284.08928400629776,
+                2027.3596714234632,
+                1397.801622030987,
+                2105.6354693953263
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "- Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on Universal service and users 'rights relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, 24.4.2002, p. 51).",
+            "uuid": "74951be7-09b3-42d9-a8a0-f569e1394e84",
+            "vertical": false,
+            "translation": "- 欧洲议会和理事会 2002 年 3 月 7 日关于与电子通信网络和服务有关的普遍服务和用户权利的第 2002/22/EC 号指令（通用服务指令）（OJ L 108，2002 年 4 月 24 日，第 51 页）。"
+        },
+        {
+            "bbox": [
+                259.4649381154195,
+                2143.5688183697234,
+                531.2853494744304,
+                2163.856989185129
+            ],
+            "order": "30",
+            "label": "Footnote",
+            "text": "(¹) OJ C 331, 31.12.2002, p. 32.",
+            "uuid": "1c9fb4c7-4206-4e04-8542-2f6135d7877f",
+            "vertical": false,
+            "translation": "(¹) OJ C 331，2002 年 12 月 31 日，第 32 页。"
+        },
+        {
+            "bbox": [
+                258.4958127934006,
+                2164.7152544586393,
+                644.4356192952034,
+                2187.1806746915718
+            ],
+            "order": "31",
+            "label": "Footnote",
+            "text": "(²) Available at http://portal.etsi.org/directives/.",
+            "uuid": "2002afc1-2d64-4fef-acde-9aa40a982b94",
+            "vertical": false,
+            "translation": "(²) 可在 http://portal.etsi.org/directives/ 查阅。"
+        },
+        {
+            "bbox": [
+                258.79026087466923,
+                2187.3616175571615,
+                1269.724855692073,
+                2209.0875846323047
+            ],
+            "order": "32",
+            "label": "Footnote",
+            "text": "(³) ETSI documents can be downloaded from the ETSI Publications Download Area (http://pda.etsi.org/pda/queryform.asp).",
+            "uuid": "a6fdd2fd-b3a2-4836-932e-b98149008546",
+            "vertical": false,
+            "translation": "(³) ETSI 文件可以从 ETSI 出版物下载区 (http://pda.etsi.org/pda/queryform.asp) 下载。"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

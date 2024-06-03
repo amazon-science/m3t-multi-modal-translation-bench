@@ -1,0 +1,833 @@
+{
+    "file": "jrc32004R2173.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                124.58656545955509,
+                120.57237663434577,
+                231.88673531412127,
+                150.85869531985784
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 371/30",
+            "uuid": "f7b4afc9-4d2b-4042-ab3f-84ee8f648b90",
+            "vertical": false,
+            "translation": "L 371/30"
+        },
+        {
+            "bbox": [
+                343.5135249208878,
+                122.29886512780908,
+                370.3385673845293,
+                141.3359797301312
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "dcb516bb-04e2-461e-896e-e0d6a5b90f1e",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                635.3080102577588,
+                120.61521758768984,
+                1046.4405782038561,
+                149.1781117818397
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "c47e066f-2816-454f-b227-fb2a477de36d",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1425.1684629709503,
+                124.89352215709528,
+                1550.1861667188637,
+                145.71594278860945
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "18.12.2004",
+            "uuid": "30af18d9-351b-4fc7-b9fe-4c8fa51a6888",
+            "vertical": false,
+            "translation": "2004 年 12 月 18 日"
+        },
+        {
+            "bbox": [
+                796.9668511211665,
+                217.48815871339917,
+                880.0379503634115,
+                243.44786044383832
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "e3a36954-7344-4438-8fbf-7f8d787d838a",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                364.3048759011414,
+                263.3502984371751,
+                1309.5654216893586,
+                289.3959560076664
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "to the Commission Regulation of 17 December 2004 fixing the export refunds on pigmeat",
+            "uuid": "d0222296-87ff-48ad-996d-540e19c33e3f",
+            "vertical": false,
+            "translation": "据 2004 年 12 月 17 日的委员会条例确定猪肉出口退税"
+        },
+        {
+            "bbox": [
+                266.5695486493307,
+                338.71156550902646,
+                1406.2011913788765,
+                836.272515342444
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "f351e738-ad2a-406c-be93-ccf0be0c9797",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                335.79546468453475,
+                349.0783753323531,
+                455.21016984526153,
+                372.4421068897482
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Product code",
+            "uuid": "00aedf6c-9f21-483c-bd84-3d3cc6f0cbdd",
+            "vertical": false,
+            "translation": "产品代码"
+        },
+        {
+            "bbox": [
+                605.7765372218303,
+                352.53266546303763,
+                698.3661999189158,
+                371.5697800653598
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Destination",
+            "uuid": "f59df9c5-3865-48f2-a5d4-de1f2c54b0b6",
+            "vertical": false,
+            "translation": "目的地"
+        },
+        {
+            "bbox": [
+                861.9124265520851,
+                349.93669528999385,
+                1044.4957800949358,
+                375.03107362941824
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Unit of measurement",
+            "uuid": "25653832-a2a2-4f82-a992-8f9b4753932e",
+            "vertical": false,
+            "translation": "计量单位"
+        },
+        {
+            "bbox": [
+                1201.1194151245847,
+                350.8020186810085,
+                1356.8777262037938,
+                369.8391332833306
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Amount of refund",
+            "uuid": "15f61967-3b49-4240-ad1b-9213c1449ea3",
+            "vertical": false,
+            "translation": "退款金额"
+        },
+        {
+            "bbox": [
+                311.56639407221337,
+                409.6440092700038,
+                482.9005362593433,
+                434.7383876094285
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "0210 11 31 9110",
+            "uuid": "36b76573-1825-4a32-9c03-9d593aa2c657",
+            "vertical": false,
+            "translation": "0210 11 31 9110"
+        },
+        {
+            "bbox": [
+                629.1402838837117,
+                411.3746560520329,
+                669.8105095543941,
+                431.2770940453697
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "653f1271-da12-4f04-b6d8-7aea98f4ac02",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.198764817487,
+                407.91336248797467,
+                1014.2094418295341,
+                430.41177065435556
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "3a066129-10c1-44a8-9296-943c81ffea59",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1250.4428802996676,
+                404.45206892391616,
+                1307.554261028711,
+                433.00774082739935
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "bc3a3d6e-41e9-4fec-ba30-7dc228041e2c",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                313.29704197309337,
+                448.5835618656628,
+                481.1698883584631,
+                470.2166466410287
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "0210 11 31 9910",
+            "uuid": "00df8c47-1db6-4613-9148-b0def280e8f8",
+            "vertical": false,
+            "translation": "0210 11 31 9910"
+        },
+        {
+            "bbox": [
+                630.8709317845918,
+                448.5835618656628,
+                667.2145377030739,
+                470.2166466410287
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "5daf0616-349f-49e4-900f-ba2d3e1d39e1",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                889.6027929661667,
+                446.8529150836334,
+                1011.6134699782139,
+                470.2166466410287
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "11d52254-d722-4378-887c-3647b163b396",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1253.0388521509879,
+                448.5835618656628,
+                1307.554261028711,
+                470.2166466410287
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "1e025e75-090a-4dd2-97ab-11e1c47a906e",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                313.29704197309337,
+                484.92714428827736,
+                481.1698883584631,
+                509.1561992366874
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "0210 19 81 9100",
+            "uuid": "ae0480bf-2ae2-4be6-9db0-166fd584e621",
+            "vertical": false,
+            "translation": "0210 19 81 9100"
+        },
+        {
+            "bbox": [
+                629.1402838837117,
+                484.92714428827736,
+                669.8105095543941,
+                509.1561992366874
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "59ce33e5-a648-49df-91fd-bfed88f11c87",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                889.6027929661667,
+                484.92714428827736,
+                1016.8054136808541,
+                509.1561992366874
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "991e0dfa-761f-4fd0-8e7f-c1f0e3661b60",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1251.3082042501078,
+                483.19649750624825,
+                1304.958289177391,
+                507.42555245465826
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "21b6ca35-6549-4fb8-8efc-177f1673ef26",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                312.43171802265334,
+                526.4626670569804,
+                480.30456440802305,
+                548.0957518323463
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "0210 19 81 9300",
+            "uuid": "2cc95ed5-93fa-4354-954c-e93c7f50b7fe",
+            "vertical": false,
+            "translation": "0210 19 18 9300"
+        },
+        {
+            "bbox": [
+                629.1402838837117,
+                525.5973436659655,
+                673.2718053561543,
+                546.3651050503172
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "80562741-fa90-4a69-a1c1-b4ee04242074",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.198764817487,
+                524.7320202749511,
+                1014.2094418295341,
+                545.4997816593022
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "105b32cb-4318-4555-b6bd-2e0e57fe1437",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1246.9562619452747,
+                521.4156102388147,
+                1310.1249103273985,
+                550.8366055333123
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "820b2e84-c4a3-4a34-aa48-eba49c8995e9",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                315.00236732134084,
+                561.2204862254878,
+                478.5485939545103,
+                585.4495411738978
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1601 00 91 9120",
+            "uuid": "0f22f566-31bd-4e6a-85b5-f19af01b8efd",
+            "vertical": false,
+            "translation": "1601 00 91 9120"
+        },
+        {
+            "bbox": [
+                632.5762571328393,
+                568.1430733536051,
+                669.7851870017613,
+                587.1801879559272
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "cb9be041-4fa7-412c-aa03-3f3234ad4af1",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                891.3081183144142,
+                562.951133007517,
+                1012.4534713760212,
+                586.3148645649126
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "c6d525bc-6ae3-4632-9b77-e20b2218f0d1",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1248.686909846155,
+                562.951133007517,
+                1304.9329666247581,
+                587.1801879559272
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "21,50",
+            "uuid": "ca8f96bf-e069-47c6-b309-07c5aea69526",
+            "vertical": false,
+            "translation": "21.50"
+        },
+        {
+            "bbox": [
+                314.1370433709008,
+                602.7560089941909,
+                480.2792418553904,
+                625.2544171605713
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1601 00 99 9110",
+            "uuid": "a86ec811-2e86-443b-aeb9-f6027a165df4",
+            "vertical": false,
+            "translation": "1601 00 99 9110"
+        },
+        {
+            "bbox": [
+                629.9802852815191,
+                601.0253622121614,
+                667.1892151504412,
+                624.3890937695568
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "f1a8f783-f5f4-41ae-b6f9-d0b13471c9fe",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.0387662152943,
+                602.7560089941909,
+                1010.7228234751411,
+                626.1197405515859
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "028e5cf3-0d62-4143-a3d7-965b63cac176",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1250.417557747035,
+                603.6213323852053,
+                1304.0676426743182,
+                624.3890937695568
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "16,50",
+            "uuid": "3ec04328-1ce5-44dc-92fa-fddb883ef922",
+            "vertical": false,
+            "translation": "16.50"
+        },
+        {
+            "bbox": [
+                315.00236732134084,
+                639.9649148078202,
+                479.4139179049504,
+                662.4633229742009
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "1602 41 10 9110",
+            "uuid": "7d0f879e-ffbc-416c-9a03-091bb2f2b4c6",
+            "vertical": false,
+            "translation": "1602 41 10 9110"
+        },
+        {
+            "bbox": [
+                629.1149613310789,
+                636.5036212437615,
+                668.0545391008812,
+                660.7326761921714
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "0caee410-4602-44c4-8ad6-3e69501230cf",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.1734422648543,
+                637.3689446347764,
+                1009.8574995247011,
+                663.3286463652153
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "1f7c81dd-c53b-4b73-9a5e-15bba6181ef4",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1251.282881697475,
+                639.9649148078202,
+                1304.9329666247581,
+                665.9246165382593
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "32,00",
+            "uuid": "64c7957e-f38e-4ffc-a5cb-5f20f9080a35",
+            "vertical": false,
+            "translation": "32.00"
+        },
+        {
+            "bbox": [
+                315.00236732134084,
+                678.0391440124645,
+                482.0098897562705,
+                698.8069053968154
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "1602 41 10 9130",
+            "uuid": "68f93095-3241-4950-a214-8dc59110d9dc",
+            "vertical": false,
+            "translation": "1602 41 10 9130"
+        },
+        {
+            "bbox": [
+                630.8456092319591,
+                677.1738206214495,
+                668.0545391008812,
+                701.4028755698595
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "6bf5f105-cc1e-4c65-b667-3b06e7213585",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.9040901657343,
+                676.3084972304351,
+                1009.8574995247011,
+                704.864169133918
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "4277383a-485a-4ebe-96e2-3cee127f22e6",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1250.417557747035,
+                678.9044674034789,
+                1309.2595863769584,
+                703.1335223518889
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "8d82b626-fb7f-4954-bca4-fb6cb02684bf",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                315.8676912717809,
+                716.9786966081232,
+                477.68327000407027,
+                737.7464579924745
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "1602 42 10 9110",
+            "uuid": "f5bbdc20-3ead-4007-94b5-74f5f6961e68",
+            "vertical": false,
+            "translation": "1602 42 10 9110"
+        },
+        {
+            "bbox": [
+                634.3069050337192,
+                719.574666781167,
+                668.0545391008812,
+                737.7464579924745
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "710b2c69-5a3f-4571-9048-bb07efd17fff",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                894.7694141161743,
+                717.8440199991376,
+                1008.9921755742611,
+                738.6117813834891
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "6c10e5d4-e6a0-4fde-a525-8aa0240fa478",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1253.0135295983553,
+                717.8440199991376,
+                1304.9329666247581,
+                738.6117813834891
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "25,00",
+            "uuid": "112a216b-d032-45a9-b83f-f328a84118fb",
+            "vertical": false,
+            "translation": "25.00"
+        },
+        {
+            "bbox": [
+                314.1370433709008,
+                756.7835725947965,
+                478.5485939545103,
+                781.877950934221
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "1602 42 10 9130",
+            "uuid": "bb067114-2b36-43b4-b4f6-2bc5e14d01a1",
+            "vertical": false,
+            "translation": "1602 42 10 9130"
+        },
+        {
+            "bbox": [
+                630.8456092319591,
+                757.6488959858112,
+                673.2464828035215,
+                779.2819807611772
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "475cc7e8-5777-4d47-b9ee-9d8f070d5dee",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                891.3081183144142,
+                755.9182492037819,
+                1015.0494432273414,
+                779.2819807611772
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "c6cc2916-8231-42c0-b50e-f5aa5420ac35",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1251.282881697475,
+                755.0529258127672,
+                1306.6636145256382,
+                779.2819807611772
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "f9072cde-152d-417b-9edd-5ac18809c543",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                314.1370433709008,
+                791.396508235382,
+                481.14456580583044,
+                818.221533356836
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "1602 49 19 9130",
+            "uuid": "0b3bd5b8-4487-4a27-b5c6-c5702a13b27d",
+            "vertical": false,
+            "translation": "1602 49 19 9130"
+        },
+        {
+            "bbox": [
+                629.9802852815191,
+                793.9924784084261,
+                668.0545391008812,
+                813.029593010748
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "36849d78-c4a9-4b39-b31f-c17a301b8d66",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.0387662152943,
+                792.2618316263968,
+                1014.1841192769014,
+                819.0868567478506
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "804ba234-d854-4e34-818a-f6dd4f30ffbe",
+            "vertical": false,
+            "translation": "欧元/100 千克"
+        },
+        {
+            "bbox": [
+                1253.0135295983553,
+                793.1271550174112,
+                1306.6636145256382,
+                815.6255631837921
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "db3a492c-2433-493f-a45b-5b5adc919984",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                266.53658567133476,
+                853.6520814985766,
+                1407.8988763017608,
+                901.2448680043817
+            ],
+            "order": "56",
+            "label": "Footnote",
+            "text": "NB: The product codes and the 'A' series destination codes are set out in Commission Regulation (EEC) No 3846/87 (OJ L 366, 27.3.2002, p. 1) as amended.",
+            "uuid": "84ba3733-5ba0-495d-9216-d776abd590f8",
+            "vertical": false,
+            "translation": "注意：经修正的委员会 (EEC) 第 3846/87 号条例（OJ L 366，2002年 3 月 27 日，第 1 页）规定了产品代码和“A”系列目的地代码。"
+        },
+        {
+            "bbox": [
+                308.9374592428972,
+                905.5714849594549,
+                1338.6729602665566,
+                928.9352165168502
+            ],
+            "order": "57",
+            "label": "Footnote",
+            "text": "The numeric destination codes are set out in Commission Regulation (EC) No 2081/2003 (OJ L 313, 28.11.2003, p. 11).",
+            "uuid": "056250ad-a8e7-4ae6-9377-d80b9e654bb0",
+            "vertical": false,
+            "translation": "委员会 (EC) 第 2081/2003 号条例（OJ L 313， 2003 年 11 月 28 日， 第 11 页）规定了数字目的地代码。"
+        },
+        {
+            "bbox": [
+                305.476163441137,
+                936.723127035982,
+                694.8719411391595,
+                957.4908884203335
+            ],
+            "order": "58",
+            "label": "Footnote",
+            "text": "The other destinations are defined as follows:",
+            "uuid": "d74a9e12-d015-46ae-8562-1ced912090f9",
+            "vertical": false,
+            "translation": "其他目的地定义如下："
+        },
+        {
+            "bbox": [
+                307.2068113420171,
+                959.2215352023626,
+                768.4244769265637,
+                983.4505901507725
+            ],
+            "order": "59",
+            "label": "Footnote",
+            "text": "P08 All destinations except for Bulgaria and Romania",
+            "uuid": "04830f88-1291-4556-9e72-1e17f6d358b1",
+            "vertical": false,
+            "translation": "P08 除保加利亚和罗马尼亚外的所有目的地"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

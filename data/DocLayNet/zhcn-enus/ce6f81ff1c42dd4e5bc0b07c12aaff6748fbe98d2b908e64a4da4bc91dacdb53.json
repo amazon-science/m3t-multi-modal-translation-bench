@@ -1,0 +1,119 @@
+{
+    "file": "ce6f81ff1c42dd4e5bc0b07c12aaff6748fbe98d2b908e64a4da4bc91dacdb53.png",
+    "annotations": [
+        {
+            "bbox": [
+                182.0,
+                229.0,
+                1442.0,
+                580.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "信息。在另一例子中，可以重复执行子步骤 IVd.iii 到 IVd.v，其中在子步骤 IVd.iii 的重复中呈现属性，其具有位置实体 40 的附加注释，例如错误信息，并且只有在子步骤 IVd.v 中释放最后一次重复之后，才进行对请求实体 50 的响应。该呈现可以作为具有属性的可编辑字段的正常网络表单执行。在另一 例子中，在用户 20 的编辑阶段或者适当重复具有必要属性缺失的特定注释的步骤之后，如果不是所有必要属性都可用并且已授权，则不释放任何属性。",
+            "uuid": "ccfde580-95f5-4635-a498-511c55db160e",
+            "vertical": false,
+            "translation": "Information. In another example, the sub-steps IVd.iii to IVd.v can be repeated, where the attribute is rendered in a repetition of the sub-step IVd.iii, which has additional notes, such as error information, for location entity 40, and a response to requesting entity 50 is made only after the last repetition is released in the sub-step IVd.v. This rendering can be performed as a normal web form with an editable field with attributes. In another example, no attributes are released after the editing phase of user 20 or after appropriately repeating the steps of a specific annotation with the required attributes missing if not all of the required attributes are available and authorized."
+        },
+        {
+            "bbox": [
+                185.0,
+                605.0,
+                1443.0,
+                1647.9999999999998
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "图 8 显示在子步骤 IVg 中提供浏览器 30 的验证的第一或第三实施方式的扩展的示意图。考虑到位置实体 40，此处获取步骤 IV 称为传送步骤 IV。图 8 已经以重定向步骤 III 的第二部分开始，其中在子步骤 IIIb 客戶端应用 30 连接到位置实体 40。进行联系步骤 IVa，其中位置实体 40 联系请求实体 50。然后，进行请求步骤 IVc，其中请求实体 50 从位置实体 40 请求身份相关信息 IRI。在子步骤 IVd，位置实体 40 生成随机值 k。在响应步骤 IVe，响应与随机值 k 一道被发送给请求实体 50。子步骤 IVf.ii 指示返回地址从请求实体 50 到位置实体 40 的传送。然后，如子步骤 IVg 所示，进行重定向。此处，在子步骤 IVg.i，从位置实体 40 向客户端应用 30 传送返回地址与随机值 k，客户端应用 30 还连接到返回地址，即连接到接收随机值k的请求实体 50，如回连步骤 IVg.ii 所示，在子步骤 IVh，请求实体 50 使用所接收的随机值 k 来查找发生同一随机值 k 的、在响应步骤 IV 收到的响应。然后，再次可以进行由请求实体 50 发起的、客户端应用 30 与请求实体 50 之间依赖于应用的交互，如步骤 V 所示。通过向客户端应用 30 发送随机值 k，使客戶端应用 30 能够针对身份相关信息 IRI 向请求实体 50 证明其身份真实性。在另一例子中，值 k 只是伪随机的，甚或只是部分伪随机的。然而，在所有正确的例子中，其都应该是实际不可猜测的。",
+            "uuid": "9b942fff-0103-43e5-a95f-6131b9af9b3e",
+            "vertical": false,
+            "translation": "FIG. 8 shows a schematic diagram of the extensions that provide the first or third implementation of browser 30 verification in the sub-step IVg. Taking location entity 40 into account, the obtaining step IV is referred to here as the transmission step IV. FIG. 8 has begun with the second part of redirecting step III, where client application 30 connects to location entity 40 in the sub-step IIIb. Go through the contacting step IVa, where location entity 40 contacts requesting entity 50. Next, proceed with the requesting step IVc, in which requesting entity 50 requests identity-related information IRI from location entity 40. In the sub-step IVd, location entity 40 generates a random value k. In the response step IVe, the response is sent to requesting entity 50 along with the random value k. The sub-step IVf.ii indicates transmission of the return address from requesting entity 50 to location entity 40. Then, redirection is performed, as shown in the sub-step IVg. Here, in the sub-step IVg.i, the return address and random value k are transmitted from location entity 40 to client application 30, and client application 30 also connects to the return address, that is, to request entity 50 that receives the random value k, as shown in the connect-back step IVg.ii. In the sub-step IVh, request entity 50 uses the received random value k to find the response received in the response step IV where the same random value k occurred. Then, the application-dependent interaction between client application 30 and requesting entity 50 initiated by requesting entity 50 can take place again, as shown in step V. Sending a random value k to client application 30, the client application 30 is allowed to prove the authenticity of its identity to requesting entity 50 against the identity-related information IRI. In another example, the value k is only pseudo-random, or even only partially pseudo-random. However, in all correct examples, it should actually be unguessable."
+        },
+        {
+            "bbox": [
+                188.0,
+                1673.0,
+                1442.0,
+                1966.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "图 9 显示参照图 1 所述的通信环境的扩展的示意图。向图 1 附加地安排了第二位置实体 42。该第二位置实体 42 可以是本地或远程的，并且可以通过通信线路 5 连接到客户端应用 30 与请求实体 50。一般地，一个客户端应用 30，即一个浏览器 30，在此处与几个位置实体 40、42 交互，并且在位置请求步骤 II 选择适当的一个位置实体。",
+            "uuid": "b65bc8ec-f02e-4f75-8343-bf209df27fdf",
+            "vertical": false,
+            "translation": "FIG. 9 shows a schematic diagram of the extension of the communication environment described with reference to FIG. 1. A second location entity 42 is additionally arranged to FIG. 1. The second location entity 42 may be local or remote and may be connected to client application 30 and requesting entity 50 via communication line 5. In general, a client application 30, i.e., a browser 30, interacts with several location entities 40 and 42 here, and selects an appropriate location entity in the location requesting step II."
+        },
+        {
+            "bbox": [
+                191.0,
+                1991.0,
+                1443.0,
+                2153.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "图 10 显示参照图 1 或图 9 所述的通信环境的另一种结构的示意图。此处身份相关信息 IRI 由另一个位置实体提供，即第二位置实体 42。请求实体 50 可以通过位置实体 40（此后也称为第一位置实体 40）获得身份相关信息 IRI。",
+            "uuid": "475a07e2-a842-49c1-9b74-643d181abd22",
+            "vertical": false,
+            "translation": "FIG. 10 shows a schematic diagram of another structure of the communication environment described with reference to FIG. 1 or FIG. 9. Here the identity-related information IRI is provided by another location entity, namely the second location entity 42. Requesting entity 50 may obtain the identity-related information IRI through location entity 40 (hereinafter also referred to as the first location entity 40)."
+        },
+        {
+            "bbox": [
+                170.29061395148977,
+                153.8549537198216,
+                330.032251817489,
+                187.00887855993471
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "73504a05-16a9-409c-a6ba-aac0a0125d13",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1175.4573352403718,
+                155.36195030346315,
+                1330.6779833554467,
+                187.00887855993471
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "f70be7c1-f93c-47af-9e59-8e7912cb95a7",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1351.7759355264277,
+                152.34795713618004,
+                1491.9266178050873,
+                185.5018819762932
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 15/17 页",
+            "uuid": "70c33f70-fa49-42ed-9523-56a09e481deb",
+            "vertical": false,
+            "translation": "Page 15/17"
+        },
+        {
+            "bbox": [
+                815.2851517500527,
+                2207.891297223189,
+                848.4390765901658,
+                2238.0312288960195
+            ],
+            "order": "8",
+            "label": "Page-footer",
+            "text": "19",
+            "uuid": "b9f78f1a-b181-4772-9053-278e985ac888",
+            "vertical": false,
+            "translation": "19"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

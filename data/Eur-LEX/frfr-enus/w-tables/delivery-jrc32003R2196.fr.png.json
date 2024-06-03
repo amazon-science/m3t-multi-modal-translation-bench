@@ -1,0 +1,1365 @@
+{
+    "file": "jrc32003R2196.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                113.1751559176868,
+                134.86745524242784,
+                241.19295523441443,
+                164.55274204050963
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "17.12.2003",
+            "uuid": "fb6cdc8d-ea2d-438e-869b-df2736e2770d",
+            "vertical": false,
+            "translation": "17.12.2003"
+        },
+        {
+            "bbox": [
+                330.24881562865977,
+                140.43344651706832,
+                361.78943285162165,
+                162.69741161562973
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "754f67f9-b1f7-4f73-ad58-3329d0a393f1",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                617.825031485077,
+                138.57811609218814,
+                1035.2743770831019,
+                164.55274204050963
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "9aa92116-8642-4a17-8733-14faf00a0cb7",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1434.1704184323257,
+                140.43344651706832,
+                1539.9242526504922,
+                168.26340289026996
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 328/17",
+            "uuid": "0e395991-9e9d-452d-a1cd-7c80d24f7dcc",
+            "vertical": false,
+            "translation": "L328/17"
+        },
+        {
+            "bbox": [
+                508.36053641715046,
+                242.47661988547435,
+                1144.7388721510285,
+                270.306576258676
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "RÈGLEMENT (CE) Nº 2196/2003 DE LA COMMISSION",
+            "uuid": "875551d0-41f1-4bbe-bb9d-62c158b841d2",
+            "vertical": true,
+            "translation": "COMMISSION REGULATION (EC) No. 2196/2003"
+        },
+        {
+            "bbox": [
+                699.459570179802,
+                285.149219657717,
+                953.6398383883771,
+                309.26851518115836
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "du 16 décembre 2003",
+            "uuid": "51766846-e749-4322-b6bd-25bdc449b44b",
+            "vertical": false,
+            "translation": "of December 16, 2003"
+        },
+        {
+            "bbox": [
+                250.46960735881495,
+                322.2558281553192,
+                1395.2084795098435,
+                381.62640175148283
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "modifiant le règlement (CE) nº 1260/2001 du Conseil portant organisation commune des marchés dans le secteur du sucre",
+            "uuid": "d61972ed-26be-446b-81ee-4641126865fa",
+            "vertical": true,
+            "translation": "amending Council Regulation (EC) No. 1260/2001 on the common organization of the markets in the sugar sector"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                440.9969753476462,
+                805.2134043979682,
+                461.40561002132745
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "LA COMMISSION DES COMMUNAUTÉS EUROPÉENNES,",
+            "uuid": "6f8c032c-e9ed-4b61-b0d7-3871bdfd65f6",
+            "vertical": true,
+            "translation": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,"
+        },
+        {
+            "bbox": [
+                259.74625948321557,
+                494.80155766916954,
+                795.9367522735678,
+                520.776183617491
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "vu le traité instituant la Communauté européenne,",
+            "uuid": "9cbea678-4da8-4495-a4fe-063b1c4a762a",
+            "vertical": true,
+            "translation": "having regard to the Treaty establishing the European Community,"
+        },
+        {
+            "bbox": [
+                252.3249377836951,
+                544.8954791409326,
+                1404.485131634244,
+                602.4107223122161
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "vu le règlement (CE) nº 1260/2001 du Conseil du 19 juin 2001 portant organisation commune des marchés dans le secteur du sucre (¹), et notamment son article 10, paragraphe 4, deuxième alinéa,",
+            "uuid": "b95cec87-77cd-48bb-bcc1-1c85f5c9e1c9",
+            "vertical": true,
+            "translation": "Having regard to Council Regulation (EC) No. 1260/2001 of June 19, 2001 on the common organization of the markets in the sugar sector (¹), and in particular the second subparagraph of Article 10 paragraph 4 thereof,"
+        },
+        {
+            "bbox": [
+                254.18026820857523,
+                633.9513395351778,
+                506.5052059922703,
+                665.4919567581397
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "considérant ce qui suit:",
+            "uuid": "dd5aadd6-7776-431a-8585-18bc0b34dd3a",
+            "vertical": true,
+            "translation": "considering the following:"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                689.6112522815811,
+                1398.919140359604,
+                921.527555391595
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(1) Les quantités de base de sucre, d'isoglucose et de sirop d'insuline fixées à l'article 11, paragraphe 2, du règlement (CE) nº 1260/2001 sont modifiées par l'acte d'adhésion de la République tchèque, de la République d'Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République de Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque à l'Union européenne, à partir de la date d'entrée en vigueur dudit acte. Afin de tenir compte de ces quantités de base, le tableau indiquant les coefficients figurant à l'article 10, paragraphe 4, premier alinéa, du règlement (CE) nº 1260/2001 doit être adapté, avec effet à compter de cette même date.",
+            "uuid": "57d50ce8-57f6-4bf3-af74-b4df1b140598",
+            "vertical": false,
+            "translation": "(1) The basic quantities of sugar, isoglucose and inulin syrup fixed in Article 11 paragraph 2 of Regulation (EC) No. 1260/2001 are amended by the Act of Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic to the European Union, from the date of entry into force of that Act. In order to take account of those basic quantities, the table showing the coefficients in the first subparagraph of Article 10 paragraph 4 of Regulation (EC) No. 1260/2001 should be adapted with effect from that date."
+        },
+        {
+            "bbox": [
+                256.0355986334553,
+                953.0681726145569,
+                1361.8125318620018,
+                980.8981289877586
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(2) Les mesures prévues au présent règlement sont conformes à l'avis du comité de gestion du sucre,",
+            "uuid": "b307a412-45ad-432a-b0b0-133646599998",
+            "vertical": true,
+            "translation": "(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,"
+        },
+        {
+            "bbox": [
+                259.74625948321557,
+                1056.9666764078431,
+                625.2463531845974,
+                1086.651963205925
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "A ARRÊTÉ LE PRÉSENT RÈGLEMENT:",
+            "uuid": "b33c9a56-0e5b-4aee-8b65-e1a57a875284",
+            "vertical": true,
+            "translation": "HAS ADOPTED THIS REGULATION:"
+        },
+        {
+            "bbox": [
+                756.9748133510853,
+                1144.1672063772085,
+                903.5459169166141,
+                1168.2865019006497
+            ],
+            "order": "15",
+            "label": "Section-header",
+            "text": "Article premier",
+            "uuid": "1b07b644-7c25-42eb-9325-5e8b3856dab7",
+            "vertical": false,
+            "translation": "First article"
+        },
+        {
+            "bbox": [
+                252.3249377836951,
+                1197.9717886987316,
+                1404.485131634244,
+                1251.776371020255
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Le tableau figurant à l'article 10, paragraphe 4, du règlement (CE) nº 1260/2001 est remplacé par le tableau suivant:",
+            "uuid": "f4453621-8cb3-46a5-b070-5304caa2a935",
+            "vertical": true,
+            "translation": "The table in Article 10 paragraph 4 of Regulation (EC) No. 1260/2001 is replaced by the following table:"
+        },
+        {
+            "bbox": [
+                250.46960735881495,
+                1272.1850056939359,
+                1413.7617837586447,
+                2142.334974962708
+            ],
+            "order": "17",
+            "label": "Table",
+            "text": "",
+            "uuid": "730e21b0-ed15-434f-bf22-c11f39171179",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                378.4874066755427,
+                1342.6875618393804,
+                458.26661494538746,
+                1377.9388399121024
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "«Régions",
+            "uuid": "e7e8a9a5-1afc-46c5-aeed-54d6a7998445",
+            "vertical": false,
+            "translation": "“Regions"
+        },
+        {
+            "bbox": [
+                260.12042212416776,
+                1457.718048181947,
+                333.61363997751107,
+                1482.9673381004661
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "UEBL (¹)",
+            "uuid": "d3f5baf3-525d-49da-b60e-afed6752f248",
+            "vertical": true,
+            "translation": "UEBL (¹)"
+        },
+        {
+            "bbox": [
+                256.87212768765625,
+                1497.3529519741999,
+                444.26050060054746,
+                1525.1829083474015
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "République tchèque",
+            "uuid": "cdcdd827-97d9-4b34-9934-3169279be2e9",
+            "vertical": false,
+            "translation": "Czech Republic"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1535.641926026912,
+                354.3681111521012,
+                1561.6165519752333
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Danemark",
+            "uuid": "1b51d6d9-9d7e-4fb1-bb0a-eb63693dc536",
+            "vertical": false,
+            "translation": "Denmark"
+        },
+        {
+            "bbox": [
+                261.60158990809566,
+                1574.6038649493942,
+                359.9341024267415,
+                1596.8678300479557
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Allemagne",
+            "uuid": "1e32a74f-1d79-4c88-89a4-a1c494bfeda7",
+            "vertical": false,
+            "translation": "Germany"
+        },
+        {
+            "bbox": [
+                259.74625948321557,
+                1607.999812597236,
+                326.5381547788995,
+                1632.1191081206778
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Estonie",
+            "uuid": "c44546cb-7f6b-44fb-b7c5-32a191fc0ef9",
+            "vertical": false,
+            "translation": "Estonia"
+        },
+        {
+            "bbox": [
+                256.0355986334553,
+                1646.9617515197187,
+                313.55084180473875,
+                1671.08104704316
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Grèce",
+            "uuid": "0caab19c-70b0-4b10-8db3-f1fd5196ba0b",
+            "vertical": false,
+            "translation": "Greece"
+        },
+        {
+            "bbox": [
+                257.7556910139481,
+                1689.8813102446904,
+                334.60945209608855,
+                1715.8933524571073
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Espagne",
+            "uuid": "ea732040-d436-4f2f-9acc-8e7c09ce538c",
+            "vertical": false,
+            "translation": "Spain"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1724.8856293646832,
+                460.1219453702676,
+                1750.8602553130047
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "France (métropole) (²)",
+            "uuid": "f7d9da17-f728-4c48-be7f-d183b5fb44bb",
+            "vertical": true,
+            "translation": "France (metropolis) (²)"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1761.9922378622853,
+                417.44934559802493,
+                1789.8221942354874
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "France (DOM) (²)",
+            "uuid": "d79e469f-6e41-47ed-892e-48399f6e2394",
+            "vertical": true,
+            "translation": "France (DOM) (²)"
+        },
+        {
+            "bbox": [
+                258.9380565690579,
+                1804.5707690903462,
+                322.82749392913934,
+                1821.362811458449
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Irlande",
+            "uuid": "96322f38-d69e-4942-9c1f-81e55c086103",
+            "vertical": false,
+            "translation": "Ireland"
+        },
+        {
+            "bbox": [
+                256.0355986334553,
+                1838.0607852823698,
+                309.8401809549785,
+                1862.1800808058115
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Italie",
+            "uuid": "1835274c-7bb8-4289-aa23-3aa7a245fb2f",
+            "vertical": false,
+            "translation": "Italy"
+        },
+        {
+            "bbox": [
+                259.74625948321557,
+                1875.1673937799721,
+                328.3934852037797,
+                1906.708011002934
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Chypre",
+            "uuid": "b53f010f-ec95-4341-b719-b69f46a32577",
+            "vertical": false,
+            "translation": "Cyprus"
+        },
+        {
+            "bbox": [
+                256.0355986334553,
+                1914.1293327024548,
+                338.1565487614181,
+                1936.9957112626498
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Lettonie",
+            "uuid": "a3ae3976-2b23-4e99-9aa7-bcfd94c7b67a",
+            "vertical": false,
+            "translation": "Latvia"
+        },
+        {
+            "bbox": [
+                259.58269529878487,
+                1955.9654034204964,
+                331.9405818691093,
+                1972.6633772444172
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Lituanie",
+            "uuid": "a901d174-7b8f-4993-8ff2-5ae7c31419ab",
+            "vertical": false,
+            "translation": "Lithuania"
+        },
+        {
+            "bbox": [
+                257.7556910139481,
+                1991.384526797703,
+                332.24472098586887,
+                2015.0318378999
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Hongrie",
+            "uuid": "c95d9ce4-2108-43d3-9e2b-5f33ce585bd0",
+            "vertical": false,
+            "translation": "Hungary"
+        },
+        {
+            "bbox": [
+                258.9380565690579,
+                2028.0378590061084,
+                308.5974098836718,
+                2048.138073442976
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "Malte",
+            "uuid": "2027b031-1789-40c6-8531-69ae760b86fa",
+            "vertical": false,
+            "translation": "Malta"
+        },
+        {
+            "bbox": [
+                260.1204221241678,
+                2065.873556769624,
+                335.7918176511984,
+                2087.1561367616014
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "Pays-Bas",
+            "uuid": "2c453685-a6e6-4d05-bb5e-8446f9465369",
+            "vertical": true,
+            "translation": "Netherlands"
+        },
+        {
+            "bbox": [
+                260.1204221241678,
+                2106.073985643359,
+                340.5212798716378,
+                2126.1742000802265
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Autriche",
+            "uuid": "f8baa161-5971-47d2-9170-f0cdde7bad77",
+            "vertical": false,
+            "translation": "Austria"
+        },
+        {
+            "bbox": [
+                616.0124542122337,
+                1298.5183115033287,
+                813.4675019155792,
+                1344.630568152613
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Coefficient applicable au sucre, valeur sucre blanc",
+            "uuid": "7852e15b-d3a2-46b0-a70d-21ad83e32871",
+            "vertical": true,
+            "translation": "Coefficient for sugar, white sugar value"
+        },
+        {
+            "bbox": [
+                613.647723102014,
+                1394.2899214672268,
+                677.4954630779462,
+                1414.3901359040944
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Sucre A",
+            "uuid": "d73c51b4-0eef-4190-9b06-2b602e25d824",
+            "vertical": false,
+            "translation": "Sugar A"
+        },
+        {
+            "bbox": [
+                748.4373963845374,
+                1393.107555912117,
+                814.6498674706891,
+                1413.2077703489847
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Sucre B",
+            "uuid": "d48e47da-d8b9-477d-9c97-2b5aba0d08be",
+            "vertical": false,
+            "translation": "Sugar B"
+        },
+        {
+            "bbox": [
+                599.4593364406957,
+                1456.9552958880492,
+                691.6838497392644,
+                1481.784972545356
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "0,042563",
+            "uuid": "8dd99560-57da-41a1-a29e-17aff8e4fa69",
+            "vertical": false,
+            "translation": "0.042563"
+        },
+        {
+            "bbox": [
+                598.2769708855859,
+                1498.3380903168943,
+                692.8662152943742,
+                1517.2559391986517
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "0,010082",
+            "uuid": "b3e9d326-732e-4410-ab36-cb8b9b73556e",
+            "vertical": false,
+            "translation": "0.010082"
+        },
+        {
+            "bbox": [
+                599.4593364406957,
+                1537.3561536355194,
+                691.6838497392644,
+                1555.091636962167
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "0,025064",
+            "uuid": "35f9d75d-33f2-4236-a0ae-d07dc92af2b7",
+            "vertical": false,
+            "translation": "0.025064"
+        },
+        {
+            "bbox": [
+                599.4593364406957,
+                1574.0094858439247,
+                692.8662152943742,
+                1595.292065835902
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "0,207111",
+            "uuid": "e2b3eaac-4903-47b4-9211-1b33ef39b7d9",
+            "vertical": false,
+            "translation": "0.207111"
+        },
+        {
+            "bbox": [
+                600.6417019958056,
+                1647.3161502607354,
+                695.2309464045939,
+                1670.9634613629328
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "0,011379",
+            "uuid": "4ce16382-5261-462e-b6b4-749fa5236530",
+            "vertical": false,
+            "translation": "0.011379"
+        },
+        {
+            "bbox": [
+                600.6417019958056,
+                1688.6989446895805,
+                691.6838497392644,
+                1708.7991591264479
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "0,024376",
+            "uuid": "7a0f010d-72ce-476e-aa1e-96686bf00108",
+            "vertical": false,
+            "translation": "0,024376"
+        },
+        {
+            "bbox": [
+                601.8240675509155,
+                1724.169911342876,
+                696.4133119597037,
+                1746.6348568899634
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "0,196442",
+            "uuid": "d98eeee8-c80a-48b6-b3cc-c953d48e45ae",
+            "vertical": false,
+            "translation": "0.196442"
+        },
+        {
+            "bbox": [
+                600.6417019958056,
+                1762.0056091063914,
+                690.5014841841545,
+                1784.4705546534788
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "0,017779",
+            "uuid": "704a2d5e-356e-405e-a01d-614198bc521d",
+            "vertical": false,
+            "translation": "0.017779"
+        },
+        {
+            "bbox": [
+                600.6417019958056,
+                1799.841306869907,
+                692.8662152943742,
+                1821.123886861884
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "0,007142",
+            "uuid": "fc2034ad-1c66-41b7-83fb-161da85a6439",
+            "vertical": false,
+            "translation": "0.007142"
+        },
+        {
+            "bbox": [
+                599.7330520544426,
+                1836.7963520417895,
+                689.9841424121499,
+                1860.0869560050687
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "0,075996",
+            "uuid": "7d41b4b2-09b6-475d-a51b-57917df50fa4",
+            "vertical": false,
+            "translation": "0.075996"
+        },
+        {
+            "bbox": [
+                596.8217265590326,
+                1913.9464776701523,
+                694.3511306552648,
+                1934.3257561380217
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "0,001000",
+            "uuid": "f929839d-809d-4ade-936f-4861508943c2",
+            "vertical": false,
+            "translation": "0.001000"
+        },
+        {
+            "bbox": [
+                598.2773893067375,
+                1951.7937091104811,
+                695.8067934029698,
+                1976.5399758214655
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "0,001506",
+            "uuid": "4420ac9d-1026-4bdc-b536-da8590cf256f",
+            "vertical": false,
+            "translation": "0.001506"
+        },
+        {
+            "bbox": [
+                601.1887148021476,
+                1992.5522660462202,
+                692.8954679075599,
+                2011.4758817663846
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "0,006192",
+            "uuid": "c68ab402-b18b-4a89-ab0a-19471e37721b",
+            "vertical": false,
+            "translation": "0.006192"
+        },
+        {
+            "bbox": [
+                599.7330520544426,
+                2065.335403431468,
+                691.4398051598549,
+                2088.6260073947474
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "0,049189",
+            "uuid": "d2caef0b-73c2-4ee5-95ef-1fd45b9fdae5",
+            "vertical": false,
+            "translation": "0.049189"
+        },
+        {
+            "bbox": [
+                601.1887148021476,
+                2109.005285862617,
+                695.8067934029698,
+                2123.5619133396663
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "0,020888",
+            "uuid": "83a2b974-a77c-4ebd-b414-f1d5aa9b27ee",
+            "vertical": false,
+            "translation": "0.020888"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1461.2353631339101,
+                834.0947544349408,
+                1477.247653358665
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "0,009139",
+            "uuid": "26101fa7-8406-4ace-8882-81c4d12c97c7",
+            "vertical": false,
+            "translation": "0.009139"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1496.1712690788295,
+                829.7277661918258,
+                1519.4618730421087
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "0,000312",
+            "uuid": "a670972a-8934-40f3-aad3-fc95e810fbbf",
+            "vertical": false,
+            "translation": "0.000312"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1532.5628377714534,
+                828.272103444121,
+                1560.2204299778475
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "0,007384",
+            "uuid": "36741618-72a5-40f8-94d6-0d6ed9fd0586",
+            "vertical": false,
+            "translation": "0.007384"
+        },
+        {
+            "bbox": [
+                735.1096875910038,
+                1571.8657319594872,
+                828.272103444121,
+                1595.1563359227664
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "0,063728",
+            "uuid": "a237940b-ff52-44e2-929e-8a029e921f6f",
+            "vertical": false,
+            "translation": "0.063728"
+        },
+        {
+            "bbox": [
+                738.0210130864136,
+                1647.5601948401452,
+                829.7277661918258,
+                1670.8507988034246
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "0,001138",
+            "uuid": "61e58ef8-9a42-47ac-8e91-bcb0565e850d",
+            "vertical": false,
+            "translation": "0.001138"
+        },
+        {
+            "bbox": [
+                733.6540248432988,
+                1688.318751775884,
+                829.7277661918258,
+                1708.6980302437535
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "0,001015",
+            "uuid": "5766fcc4-7560-4850-97e2-119489c95bfb",
+            "vertical": false,
+            "translation": "0.001015"
+        },
+        {
+            "bbox": [
+                732.1983620955937,
+                1723.254657720803,
+                829.7277661918258,
+                1748.000924431787
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "0,058260",
+            "uuid": "f20d5a7b-b643-4019-b636-0271c00231c9",
+            "vertical": false,
+            "translation": "0.058260"
+        },
+        {
+            "bbox": [
+                733.6540248432988,
+                1762.5575519088368,
+                826.816440696416,
+                1787.303818619821
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "0,001901",
+            "uuid": "816d2b9b-ab8b-409e-a890-f88007213362",
+            "vertical": false,
+            "translation": "0.001901"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1798.9491206014607,
+                829.7277661918258,
+                1819.32839906933
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "0,000714",
+            "uuid": "28489ec3-236a-4dc5-9faa-118e4f96085e",
+            "vertical": false,
+            "translation": "0.000714"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1838.2520147894945,
+                829.7277661918258,
+                1862.9982815004787
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "0,014293",
+            "uuid": "36e0038a-7a75-43b1-b78f-6577d2768863",
+            "vertical": false,
+            "translation": "0.014293"
+        },
+        {
+            "bbox": [
+                738.0210130864136,
+                1915.4021404178573,
+                829.7277661918258,
+                1932.8700933903167
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "0,000002",
+            "uuid": "3ef074c2-22c1-4d22-bffb-42eb402143d5",
+            "vertical": false,
+            "translation": "0.000002"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                1989.6409405508102,
+                834.0947544349408,
+                2011.4758817663846
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "0,000019",
+            "uuid": "e2e47943-9124-4779-bf7d-813727db323d",
+            "vertical": false,
+            "translation": "0.000019"
+        },
+        {
+            "bbox": [
+                733.6540248432988,
+                2068.246728926878,
+                828.272103444121,
+                2085.7146818993374
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "0,012974",
+            "uuid": "30cafa62-6dd6-4649-a60e-338f13c5eb4f",
+            "vertical": false,
+            "translation": "0.012974"
+        },
+        {
+            "bbox": [
+                736.5653503387086,
+                2107.549623114912,
+                829.7277661918258,
+                2126.4732388350762
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "0,004875",
+            "uuid": "5fec0fe0-123a-4d61-ac4f-c4feca75ead3",
+            "vertical": false,
+            "translation": "0.004875"
+        },
+        {
+            "bbox": [
+                864.6636721367448,
+                1293.8341471478402,
+                1112.1263392465878,
+                1346.2380060652188
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Coefficient applicable à l'isoglucose, en matière sèche",
+            "uuid": "14f39a06-1bed-4ef9-b41e-99d5b6e5770f",
+            "vertical": false,
+            "translation": "Coefficient applicable to isoglucose, dry matter"
+        },
+        {
+            "bbox": [
+                863.20800938904,
+                1392.8192139917774,
+                968.0157272237968,
+                1419.0211434504665
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Isoglucose A",
+            "uuid": "d87125fe-3453-411b-8da7-8c55e4ccc128",
+            "vertical": false,
+            "translation": "Isoglucose A"
+        },
+        {
+            "bbox": [
+                870.4863231275649,
+                1453.9570493953854,
+                968.0157272237968,
+                1483.0703043494848
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "0,159218",
+            "uuid": "32838b5d-7549-4b3c-b52d-4e61d4dbe33a",
+            "vertical": false,
+            "translation": "0.159218"
+        },
+        {
+            "bbox": [
+                866.1193348844497,
+                1566.0430809686675,
+                969.4713899715018,
+                1593.7006731750616
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "0,073589",
+            "uuid": "94530b44-5b39-4959-8fcd-8d2103df8de2",
+            "vertical": false,
+            "translation": "0.073589"
+        },
+        {
+            "bbox": [
+                869.0306603798598,
+                1649.0158575878502,
+                966.560064476092,
+                1672.3064615511294
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "0,026809",
+            "uuid": "9f3cfdd7-62e8-407b-a8a2-53dc6f8f0a2d",
+            "vertical": false,
+            "translation": "0.026809"
+        },
+        {
+            "bbox": [
+                873.3976486229747,
+                1688.318751775884,
+                968.0157272237968,
+                1704.3310420006385
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "0,117280",
+            "uuid": "b2ba4946-f9e2-42b2-8358-71351e8adba0",
+            "vertical": false,
+            "translation": "0.117280"
+        },
+        {
+            "bbox": [
+                871.9419858752698,
+                1727.621645963918,
+                965.1044017283871,
+                1750.912249927197
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "0,043118",
+            "uuid": "c8046059-daed-4d37-b2fd-41c00e97b2e1",
+            "vertical": false,
+            "translation": "0.043118"
+        },
+        {
+            "bbox": [
+                870.4863231275649,
+                1836.7963520417895,
+                965.1044017283871,
+                1861.5426187527737
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "0,042216",
+            "uuid": "cb68bea1-bf19-4b7a-9e0e-ce875dc6649f",
+            "vertical": false,
+            "translation": "0.042216"
+        },
+        {
+            "bbox": [
+                871.9419858752698,
+                1985.2739523076953,
+                965.1044017283871,
+                2011.4758817663846
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "0,169295",
+            "uuid": "b2017da9-adc8-4d39-bce5-4282eed5cb90",
+            "vertical": false,
+            "translation": "0.169295"
+        },
+        {
+            "bbox": [
+                869.0306603798598,
+                2065.335403431468,
+                963.648738980682,
+                2085.7146818993374
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "0,018921",
+            "uuid": "51bd5ce1-815e-4d1c-ac88-6dd960e6a5af",
+            "vertical": false,
+            "translation": "0.018921"
+        },
+        {
+            "bbox": [
+                1002.9516331687161,
+                1394.2748767394824,
+                1109.2150137511778,
+                1414.6541552073516
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Isoglucose B",
+            "uuid": "8faffae3-5987-4758-aacc-08472234b29a",
+            "vertical": false,
+            "translation": "Isoglucose B"
+        },
+        {
+            "bbox": [
+                1007.3186214118308,
+                1459.7797003862054,
+                1104.848025508063,
+                1483.0703043494848
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "0,043784",
+            "uuid": "8aa000c5-f31d-483b-8bae-4d1224bf2354",
+            "vertical": false,
+            "translation": "0.043784"
+        },
+        {
+            "bbox": [
+                1011.6856096549458,
+                1574.7770574548972,
+                1097.5697117695381,
+                1598.0676614181764
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "0,017331",
+            "uuid": "bf62c4d1-a248-4adb-986c-2877a14d0ed6",
+            "vertical": false,
+            "translation": "0.017331"
+        },
+        {
+            "bbox": [
+                1002.9516331687161,
+                1650.4715203355552,
+                1107.7593510034728,
+                1672.3064615511294
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "0,006314",
+            "uuid": "8e7820e8-bdaf-4ac2-8bcf-23d01674d712",
+            "vertical": false,
+            "translation": "0.006314"
+        },
+        {
+            "bbox": [
+                1007.3186214118308,
+                1681.040438037359,
+                1107.7593510034728,
+                1708.6980302437535
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "0,012510",
+            "uuid": "676d5d56-d6ea-40d0-8ea3-089722ff2145",
+            "vertical": false,
+            "translation": "0.012510"
+        },
+        {
+            "bbox": [
+                1010.2299469072408,
+                1726.165983216213,
+                1101.9367000126529,
+                1749.456587179492
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "0,011223",
+            "uuid": "de3c0056-893c-4c2e-92db-7aa10051143b",
+            "vertical": false,
+            "translation": "0.011223"
+        },
+        {
+            "bbox": [
+                1007.3186214118308,
+                1836.7963520417895,
+                1103.3923627603579,
+                1862.9982815004787
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "0,009941",
+            "uuid": "1e4dfda4-a544-410f-b60f-8f23493a24fc",
+            "vertical": false,
+            "translation": "0.009941"
+        },
+        {
+            "bbox": [
+                1001.495970421011,
+                1991.0966032985152,
+                1101.9367000126529,
+                2012.9315445140894
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "0,013265",
+            "uuid": "6073ce21-6d17-4732-bd1d-448d62b1e561",
+            "vertical": false,
+            "translation": "0.013265"
+        },
+        {
+            "bbox": [
+                1005.8629586641259,
+                2066.791066179173,
+                1100.481037264948,
+                2090.0816701424524
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "0,004456",
+            "uuid": "a36573c9-b03f-4aa2-ba43-1a9cf271a259",
+            "vertical": false,
+            "translation": "0.004456"
+        },
+        {
+            "bbox": [
+                1144.150919696097,
+                1286.5558334093155,
+                1377.05695932889,
+                1354.9719825514485
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Coefficient applicable au sirop d'inuline en équivalent sucre/isoglucose",
+            "uuid": "ed3827f8-12a2-4408-afe1-6f6eb80079cb",
+            "vertical": true,
+            "translation": "Coefficient applicable to inulin syrup in sugar/isoglucose equivalent"
+        },
+        {
+            "bbox": [
+                1139.783931452982,
+                1372.439935523908,
+                1246.0473120354438,
+                1426.2994571889913
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Sirop d'inuline A",
+            "uuid": "ee0c9246-b136-4578-9298-bdfc7d72fd1d",
+            "vertical": true,
+            "translation": "Inulin syrup A"
+        },
+        {
+            "bbox": [
+                1142.6952569483917,
+                1459.7797003862054,
+                1237.3133355492141,
+                1478.70331610637
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "0,556265",
+            "uuid": "c57eb617-6ca4-4ebf-8b49-6e0eacdc6866",
+            "vertical": false,
+            "translation": "0.556265"
+        },
+        {
+            "bbox": [
+                1144.150919696097,
+                1721.798994973098,
+                1237.3133355492141,
+                1749.456587179492
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "0,058922",
+            "uuid": "d0f75008-f4ac-4ce3-85bb-24b0265f25ce",
+            "vertical": false,
+            "translation": "0.058922"
+        },
+        {
+            "bbox": [
+                1143.2735216634821,
+                2064.8102046545823,
+                1238.7503253998327,
+                2091.739559554579
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "0,194365",
+            "uuid": "14cbcdae-4905-4a42-8851-738282d0ea32",
+            "vertical": false,
+            "translation": "0.194365"
+        },
+        {
+            "bbox": [
+                1279.1443577498276,
+                1460.1237809910278,
+                1372.1730383134513,
+                1479.7087663728432
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Sirop d'inuline B",
+            "uuid": "c677c184-d0cd-4cd3-a55c-4ee7790accd3",
+            "vertical": true,
+            "translation": "Inulin B syrup"
+        },
+        {
+            "bbox": [
+                1279.1443577498276,
+                1381.7838394637656,
+                1377.069284658905,
+                1422.17787181376
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Sirop d'inuline B",
+            "uuid": "3776c684-1e1e-43c4-851c-f3dc489c418c",
+            "vertical": true,
+            "translation": "Inulin B syrup"
+        },
+        {
+            "bbox": [
+                1281.5924809225544,
+                1729.4173299909914,
+                1375.8452230725416,
+                1746.5541922000798
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "0,013847",
+            "uuid": "7639032d-31ba-4568-aecf-c19f6f8f0897",
+            "vertical": false,
+            "translation": "0.013847"
+        },
+        {
+            "bbox": [
+                1282.8165425089178,
+                2069.7064510000364,
+                1373.397099899815,
+                2089.291436381852
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "0,045646",
+            "uuid": "f45898e0-cdc0-4525-90ec-7d5291c0ec74",
+            "vertical": false,
+            "translation": "0.045646"
+        },
+        {
+            "bbox": [
+                260.5434974666037,
+                2184.5460703641093,
+                1185.7069345785558,
+                2209.508321618395
+            ],
+            "order": "96",
+            "label": "Footnote",
+            "text": "(¹) JO L 178 du 30.6.2001, p. 1. Règlement modifié en dernier lieu par l'acte d'adhésion de 2003.",
+            "uuid": "f24735cb-a18e-47a8-924f-9bb5f8c3c7f6",
+            "vertical": false,
+            "translation": "(¹) OJ L 178, 30.6.2001, p. 1. Regulation as last amended by the 2003 Act of Accession."
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

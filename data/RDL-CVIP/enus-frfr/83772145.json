@@ -1,0 +1,609 @@
+{
+    "file": "83772145.png",
+    "annotations": [
+        {
+            "bbox": [
+                57.905733091599394,
+                76.28843245788065,
+                131.53894924511468,
+                92.86470439483774
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "JAN, 31. 1997",
+            "uuid": "0bbf9736-ef09-4c1b-9e6b-7e26a54ab539",
+            "vertical": false,
+            "translation": "31 JAN 1997"
+        },
+        {
+            "bbox": [
+                84.0,
+                116.0,
+                127.0,
+                132.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "FAX",
+            "uuid": "0368266f-93f1-412a-9dea-c76692e2fc2d",
+            "vertical": false,
+            "translation": "FAX"
+        },
+        {
+            "bbox": [
+                70.0,
+                142.0,
+                139.0,
+                158.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "COVER",
+            "uuid": "026e5f37-eb87-4b0f-93f2-445d0f2eae92",
+            "vertical": false,
+            "translation": "GARDE"
+        },
+        {
+            "bbox": [
+                339.0,
+                92.0,
+                408.0,
+                103.0
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "LAW OFFICES",
+            "uuid": "34321b8e-4cca-40ce-a504-d041c170611b",
+            "vertical": false,
+            "translation": "CABINETS D'AVOCATS"
+        },
+        {
+            "bbox": [
+                240.0,
+                108.0,
+                508.0,
+                128.0
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "SHOOK, HARDY & BACON L.L.P.",
+            "uuid": "d688eb1b-c453-42a9-aa8e-47bb95b47523",
+            "vertical": false,
+            "translation": "SHOOK, HARDY & BACON S.E.N.C.R.L."
+        },
+        {
+            "bbox": [
+                306.0,
+                133.0,
+                441.0,
+                147.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "One Kansas City Place",
+            "uuid": "8343cc6c-0212-40a8-9051-324b95aca3de",
+            "vertical": false,
+            "translation": "One Kansas City Place"
+        },
+        {
+            "bbox": [
+                111.87959541771983,
+                230.9999999999999,
+                135.8282628074554,
+                244.01584354700879
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "92bb1edc-ccca-4b2e-80e1-8762d95e4cab",
+            "vertical": false,
+            "translation": "À :"
+        },
+        {
+            "bbox": [
+                111.0,
+                265.0,
+                156.65943347067545,
+                277.6081075424545
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "dce80cbd-36d7-4237-8410-6b9752b5aa3b",
+            "vertical": false,
+            "translation": "DE :"
+        },
+        {
+            "bbox": [
+                323.0,
+                152.0,
+                424.0,
+                163.0
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "1200 Main Street",
+            "uuid": "8e795f96-aa88-4910-bdc0-7808589acd26",
+            "vertical": false,
+            "translation": "1200 Main Street"
+        },
+        {
+            "bbox": [
+                273.0,
+                169.0,
+                472.0,
+                181.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Kansas City, Missouri 64105-2118",
+            "uuid": "54583f6a-45be-4bca-a71e-11280596f8a6",
+            "vertical": false,
+            "translation": "Kansas City, Missouri 64105-2118"
+        },
+        {
+            "bbox": [
+                214.82312091389653,
+                185.99999999999994,
+                367.0937523769913,
+                197.2054434786059
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "Telephone (816) 474-6550",
+            "uuid": "042fe4a1-86a0-408b-ae76-01c040c1860d",
+            "vertical": false,
+            "translation": "Téléphone (816) 474-6550"
+        },
+        {
+            "bbox": [
+                111.0,
+                297.71976392645905,
+                153.34295985367987,
+                310.1354020568714
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "DATE:",
+            "uuid": "1ac29ae3-0e2d-4c9c-95b8-ca33644ad020",
+            "vertical": false,
+            "translation": "DATE :"
+        },
+        {
+            "bbox": [
+                112.0,
+                336.0,
+                246.00000000000003,
+                352.0
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "SHB Client Matter No.:",
+            "uuid": "8d550424-b192-4505-a15d-acc082a9e0d1",
+            "vertical": false,
+            "translation": "N° d'affaire client SHB :"
+        },
+        {
+            "bbox": [
+                111.0,
+                371.96133053102244,
+                336.35367184688295,
+                388.0579317727273
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "Pages transmitted including cover sheet:",
+            "uuid": "3cb51ea6-f118-49f5-9aed-4d01ff7fafcc",
+            "vertical": false,
+            "translation": "Pages transmises incluant la page de garde :"
+        },
+        {
+            "bbox": [
+                99.98950279886091,
+                578.0,
+                128.99589158249276,
+                591.3164897395615
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "Jack,",
+            "uuid": "8dee043d-6ef9-4b9b-af40-2dfbb87f82a1",
+            "vertical": false,
+            "translation": "Jack,"
+        },
+        {
+            "bbox": [
+                363.0,
+                230.99999999999997,
+                462.38649561583725,
+                243.4593534206172
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "TELECOPY NO:",
+            "uuid": "f2c6daf9-82f1-411f-af6b-9ef394cdf480",
+            "vertical": false,
+            "translation": "FAX N° :"
+        },
+        {
+            "bbox": [
+                100.93279999507659,
+                546.0,
+                252.80364858579927,
+                557.3577906757973
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "COMMENTS/MESSAGE:",
+            "uuid": "3303e6bf-f2c8-4d03-b533-763b012e5691",
+            "vertical": false,
+            "translation": "COMMENTAIRES/MESSAGE :"
+        },
+        {
+            "bbox": [
+                448.99999999999994,
+                265.9999999999999,
+                460.77743790472545,
+                277.12345847301725
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "#:",
+            "uuid": "e65881de-d56a-4a89-919d-953c3eb51633",
+            "vertical": false,
+            "translation": "# :"
+        },
+        {
+            "bbox": [
+                422.0,
+                300.00000000000006,
+                461.4586507484866,
+                311.5651732443182
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "TIME:",
+            "uuid": "79d1ba41-2bad-4fe2-955f-c9750d8aad2e",
+            "vertical": false,
+            "translation": "HEURE :"
+        },
+        {
+            "bbox": [
+                111.38915791963505,
+                441.7958838341457,
+                226.5541392765806,
+                456.56162353977425
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "Special Instructions:",
+            "uuid": "9d41d2c8-97c1-472d-b4e7-416af60db772",
+            "vertical": false,
+            "translation": "Instructions spéciales :"
+        },
+        {
+            "bbox": [
+                111.0,
+                470.0,
+                476.99999999999994,
+                488.0
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "If you experience any problems, please call extension 21000",
+            "uuid": "b26ebbe1-ab26-4274-b01a-cc0784d89518",
+            "vertical": false,
+            "translation": "Si vous rencontrez des problèmes, veuillez appeler le poste 21000"
+        },
+        {
+            "bbox": [
+                110.83742055534111,
+                507.5996851969784,
+                189.60273643934948,
+                520.8050243224401
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "OPERATOR:",
+            "uuid": "52ca2727-5fd2-4403-83d7-7d86506fd1e4",
+            "vertical": false,
+            "translation": "OPÉRATEUR :"
+        },
+        {
+            "bbox": [
+                529.0000000000001,
+                64.92964340972817,
+                576.9126741348236,
+                79.28611506201877
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "NO. 1796",
+            "uuid": "a82fb775-6cf1-4274-aeef-cd7e8bea0011",
+            "vertical": false,
+            "translation": "N° 1796"
+        },
+        {
+            "bbox": [
+                485.00000000000006,
+                232.0,
+                563.0,
+                243.0
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "212/545-3297",
+            "uuid": "ea29e77b-53d6-49bc-9f22-05ff310e381e",
+            "vertical": false,
+            "translation": "212/545-3297"
+        },
+        {
+            "bbox": [
+                485.00000000000006,
+                266.0,
+                505.0,
+                276.0
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "392",
+            "uuid": "186ee88c-ccfa-4479-a0ad-69a198223e6f",
+            "vertical": false,
+            "translation": "392"
+        },
+        {
+            "bbox": [
+                485.0000000000001,
+                340.00000000000006,
+                559.5084471234074,
+                352.31365208655484
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "LORI.45048",
+            "uuid": "16abca5d-fd0f-4e49-b404-60ba0c8a2d40",
+            "vertical": false,
+            "translation": "LORI.45048"
+        },
+        {
+            "bbox": [
+                483.97754695077526,
+                375.90487667942875,
+                494.34338805976523,
+                386.6281605852805
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "3",
+            "uuid": "17438d9a-cc46-4e6f-9e76-0f9789c67e15",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                156.0,
+                408.0,
+                589.0,
+                420.0
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "ORIGINAL DOCUMENT WILL FOLLOW VIA FEDERAL EXPRESS.",
+            "uuid": "f5df6d9e-5ea3-4ed1-8717-655f5db036c9",
+            "vertical": false,
+            "translation": "LE DOCUMENT ORIGINAL SUIVRA VIA FEDERAL EXPRESS."
+        },
+        {
+            "bbox": [
+                593.0,
+                118.0,
+                636.0,
+                133.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "FAX",
+            "uuid": "5c736797-ece6-4beb-b585-a75965f7b2e7",
+            "vertical": false,
+            "translation": "FAX"
+        },
+        {
+            "bbox": [
+                579.0,
+                144.0,
+                649.0,
+                159.0
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "COVER",
+            "uuid": "bd4786be-052c-4b6f-a266-58173bbebde3",
+            "vertical": false,
+            "translation": "GARDE"
+        },
+        {
+            "bbox": [
+                100.00000000000001,
+                612.0,
+                642.0,
+                645.0
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "Per your request, attached is a memo regarding the process of labeling reviewed diskettes for the purpose of later identification. Please call me if you have any questions.",
+            "uuid": "a3a9b70d-1f37-4972-b98c-0198b3d9f8c3",
+            "vertical": false,
+            "translation": "À votre demande, vous trouverez ci-joint une note concernant le processus d'étiquetage des disquettes révisées en vue de leur identification ultérieure. N'hésitez pas à m'appeler si vous avez des questions."
+        },
+        {
+            "bbox": [
+                99.38476477363515,
+                664.0,
+                644.0,
+                713.8519188732249
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "I regret I cannot join you and the electronic document collection team for lunch today. I hope you agree they have done an outstanding job! I look forward to seeing you on February 5 for the Legal Edge presentation.",
+            "uuid": "91862739-25f0-4684-9d21-fb93118a1661",
+            "vertical": false,
+            "translation": "Je regrette de ne pouvoir me joindre à vous et à l'équipe de collecte des documents électroniques pour déjeuner aujourd'hui. J'espère que vous conviendrez qu'ils ont fait un travail remarquable ! Je me réjouis de vous retrouver le 5 février pour la présentation de Legal Edge."
+        },
+        {
+            "bbox": [
+                99.20817788249066,
+                732.1969512246478,
+                178.7380112416971,
+                747.1512233524588
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "Best Regards,",
+            "uuid": "ff207dec-60cf-4446-aca9-ce1be9688827",
+            "vertical": false,
+            "translation": "Cordialement,"
+        },
+        {
+            "bbox": [
+                100.71878846187188,
+                764.9486969361285,
+                160.08284258840564,
+                779.5525855188831
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Jim Daley",
+            "uuid": "c792b1ab-33fa-4acb-bd7c-a04f97cab2e5",
+            "vertical": false,
+            "translation": "Jim Daley"
+        },
+        {
+            "bbox": [
+                108.00000000000001,
+                844.0,
+                631.0,
+                888.0
+            ],
+            "order": "43",
+            "label": "Page-footer",
+            "text": "CONFIDENTIALITY NOTICE: The documents accompanying this telecopy transmission contain confidential information belonging to the sender which is legally privileged. The information is intended only for the use of the individual(s) or entity(ies) named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution or the taking of any action in reliance on the contents of this telecopied information is solely prohibited. If you have received this telecopy in error, please immediately notify us by telephone to arrange for return of the original documents to us.",
+            "uuid": "d11092e1-9bf5-4e07-8c30-8bbe77781296",
+            "vertical": false,
+            "translation": "AVIS DE CONFIDENTIALITÉ : Les documents accompagnant ce fax contiennent des informations confidentielles appartenant à l'expéditeur qui sont légalement privilégiées. Les informations sont destinées uniquement à l'usage des ou de la personne(s) ou entité(s) nommées ci-dessus. Si vous n'êtes pas le destinataire prévu, vous êtes informé par la présente que toute divulgation, copie, distribution ou action fondée sur le contenu de ces informations faxées est strictement interdite. Si vous avez reçu ce fax par erreur, veuillez nous en informer immédiatement par téléphone afin de prendre les dispositions nécessaires pour que les documents originaux nous soient renvoyés."
+        },
+        {
+            "bbox": [
+                677.0,
+                784.0,
+                695.0,
+                883.0
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "83772145",
+            "uuid": "64a22613-c4be-4cf9-b8a6-55e7aae22c8e",
+            "vertical": true,
+            "translation": "83772145"
+        },
+        {
+            "bbox": [
+                139.40269077607263,
+                77.8567898690905,
+                185.87025436809685,
+                90.72071660544545
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "11:48 AM",
+            "uuid": "e56f1d23-2782-4803-97f9-34d7be595054",
+            "vertical": false,
+            "translation": "11:48"
+        },
+        {
+            "bbox": [
+                597.2869135559421,
+                65.35019443096756,
+                638.7502779919021,
+                78.57145246555464
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "P. 1/3",
+            "uuid": "2d44cd60-e175-4410-9fe4-7234b7c7ce45",
+            "vertical": false,
+            "translation": "P. 1/3"
+        },
+        {
+            "bbox": [
+                385.680777813801,
+                185.0561793387152,
+                532.9472101208314,
+                198.9920999697663
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Facsimile (816) 421-5547",
+            "uuid": "c28c9244-3866-4461-a6a0-8cb4010174a7",
+            "vertical": false,
+            "translation": "Fax (816) 421-5547"
+        },
+        {
+            "bbox": [
+                166.210900540702,
+                230.40714958418607,
+                261.29068450592075,
+                243.98573891700525
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "JACK REILLY",
+            "uuid": "4b7f4957-9362-42d8-bbe3-3f0d7c853da2",
+            "vertical": false,
+            "translation": "JACK REILLY"
+        },
+        {
+            "bbox": [
+                165.49601494697853,
+                264.71095421446597,
+                244.49087305341968,
+                276.5028870561247
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "JIM DALEY",
+            "uuid": "b40f958c-90d7-47e4-8940-109f875d6338",
+            "vertical": false,
+            "translation": "JIM DALEY"
+        },
+        {
+            "bbox": [
+                165.1385721501168,
+                299.7294214412101,
+                284.5244663019328,
+                311.87868558110085
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "JANUARY 31, 1997",
+            "uuid": "76139285-5fcd-4f35-a957-617f62bd8847",
+            "vertical": false,
+            "translation": "31 JANVIER 1997"
+        },
+        {
+            "bbox": [
+                191.2535065327269,
+                491.2945462477908,
+                271.43376821105875,
+                523.5923972704935
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "Gail",
+            "uuid": "03be03cf-bb30-4d44-9caf-bf3fc91e0a4b",
+            "vertical": false,
+            "translation": "Gail"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

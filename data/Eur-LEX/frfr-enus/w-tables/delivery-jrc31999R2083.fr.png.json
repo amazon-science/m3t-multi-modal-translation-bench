@@ -1,0 +1,651 @@
+{
+    "file": "jrc31999R2083.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.34122600260127,
+                140.3959759512606,
+                244.9755420054307,
+                165.09939195180817
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "1. 10. 1999",
+            "uuid": "1814c0c9-c443-435e-95b8-fe049d2ed32e",
+            "vertical": false,
+            "translation": "1. 10. 1999"
+        },
+        {
+            "bbox": [
+                333.95947647842,
+                141.36111172950825,
+                364.63191362691146,
+                163.63917363533037
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "ec64b80a-31fd-47ab-a8ef-68350caa94f1",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                578.148311815244,
+                139.73150488885548,
+                1075.624766167896,
+                168.54288255406703
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "211e17c8-7e7c-47d2-842c-9ada00b9251f",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1432.8858492165186,
+                139.73150488885548,
+                1538.527567322294,
+                164.7013655320388
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 256/49",
+            "uuid": "6786fe9e-2043-4390-98c4-f0723b615d49",
+            "vertical": false,
+            "translation": "L 256/49"
+        },
+        {
+            "bbox": [
+                378.3894266697777,
+                241.53170597260285,
+                493.6349373306237,
+                264.5808081047721
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Départements",
+            "uuid": "b6101e4d-45dd-4aca-8d40-983d98089b1d",
+            "vertical": false,
+            "translation": "Departments"
+        },
+        {
+            "bbox": [
+                702.9976150311605,
+                241.53170597260285,
+                858.5790544233026,
+                264.5808081047721
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Centres supprimés",
+            "uuid": "252eed1a-6496-43cf-b117-fa69221d3c6f",
+            "vertical": false,
+            "translation": "Eliminated centers"
+        },
+        {
+            "bbox": [
+                1139.0097970313614,
+                237.69018895057462,
+                1248.493032159165,
+                264.5808081047721
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Centres créés",
+            "uuid": "4525a2df-95f7-4222-b72b-8afe90779529",
+            "vertical": false,
+            "translation": "Created centers"
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                310.6790123691104,
+                485.9519032865673,
+                333.7281145012796
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Indre-et-Loire - 37",
+            "uuid": "878f2899-b577-4f45-a07f-f3956d7e915e",
+            "vertical": false,
+            "translation": "Indre-et-Loire - 37"
+        },
+        {
+            "bbox": [
+                295.79681069617135,
+                366.38100918851944,
+                420.6461139120879,
+                389.4301113206886
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Landes - 40",
+            "uuid": "59c9fad7-6b99-4032-8f7a-525c69b217b1",
+            "vertical": false,
+            "translation": "Landes - 40"
+        },
+        {
+            "bbox": [
+                587.7521043703146,
+                310.6790123691104,
+                841.2922278241758,
+                335.64887301229373
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "La Ville-aux-Dames (maïs)",
+            "uuid": "18aeadbd-ea76-43c5-9b3d-06b0f0b8211d",
+            "vertical": false,
+            "translation": "La Ville-aux-Dames (corn)"
+        },
+        {
+            "bbox": [
+                589.6728628813287,
+                362.5394921664912,
+                739.4920267404285,
+                391.3508698317027
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Solférino (orge)",
+            "uuid": "b6e32bca-cfe7-4346-b160-1d2939191418",
+            "vertical": false,
+            "translation": "Solferino (barley)"
+        },
+        {
+            "bbox": [
+                998.7944257273319,
+                310.6790123691104,
+                1171.6626917186009,
+                335.64887301229373
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Villeperdue (orge)",
+            "uuid": "e1481d0f-3556-4c97-8c75-0715c32167c6",
+            "vertical": false,
+            "translation": "Villeperdue (barley)"
+        },
+        {
+            "bbox": [
+                1002.6359427493602,
+                366.38100918851944,
+                1221.6024130049675,
+                389.4301113206886
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Aire-sur-l'Adour (maïs)",
+            "uuid": "2583f529-022b-4725-a197-f52c9c7df417",
+            "vertical": false,
+            "translation": "Aire-sur-l'Adour (corn)"
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                422.08300600792813,
+                422.56687242310204,
+                448.9736251621256
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Landes 40",
+            "uuid": "9670fa16-6bc1-4f28-b2d4-30a00d54a1d8",
+            "vertical": false,
+            "translation": "Landes 40"
+        },
+        {
+            "bbox": [
+                587.7521043703146,
+                422.08300600792813,
+                873.9451225114157,
+                448.9736251621256
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Haut-Mauco (blé, orge, maïs)",
+            "uuid": "32d84fd8-b485-443e-951a-bab1b55db2fa",
+            "vertical": false,
+            "translation": "Haut-Mauco (wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                295.79681069617135,
+                481.62651984936537,
+                414.8838383790456,
+                502.75486347052043
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "836c2a67-994a-458a-97f3-8e4005656ceb",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                297.7175692071855,
+                539.2492751797882,
+                412.9630798680315,
+                560.3776188009433
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "d5e8694f-51f5-459f-aa3d-54d27338f549",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                293.8760521851573,
+                589.1889964661549,
+                412.9630798680315,
+                614.1588571093381
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "502ed824-9b9e-4c35-a6dd-1c7ea7c150e8",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                591.5936213923427,
+                481.62651984936537,
+                785.5902310047669,
+                506.5963804925487
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Ormes (orges, maïs)",
+            "uuid": "c6b75ea7-aae6-4f93-ae21-442e018d4d24",
+            "vertical": false,
+            "translation": "Ormes (barley, corn)"
+        },
+        {
+            "bbox": [
+                589.6728628813287,
+                535.4077581577602,
+                900.835741665613,
+                562.2983773119574
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Beaugency (blé dur, orge, maïs)",
+            "uuid": "86d326e4-0a5f-4af4-ab1d-0759085d34f5",
+            "vertical": false,
+            "translation": "Beaugency (durum wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                1001.6755634938531,
+                481.1463302216119,
+                1188.4693286899744,
+                504.67562198153456
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Châteaurenard (blé)",
+            "uuid": "0c2b831e-830f-4f64-b602-b00c93a8fb4d",
+            "vertical": false,
+            "translation": "Châteaurenard (wheat)"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                538.6003321700648,
+                1265.354423407436,
+                562.8704257314979
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Meung-sur-Loire (blé, maïs)",
+            "uuid": "64942e0c-3ec0-4e16-885f-a3d28d0205d3",
+            "vertical": false,
+            "translation": "Meung-sur-Loire (wheat, corn)"
+        },
+        {
+            "bbox": [
+                1002.7961385155704,
+                591.5532635768277,
+                1140.6943973873485,
+                620.2361014221576
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Artenay (orge)",
+            "uuid": "7a987a06-2fe4-4783-bd15-eac344723015",
+            "vertical": false,
+            "translation": "Artenay (barley)"
+        },
+        {
+            "bbox": [
+                296.7570530920664,
+                650.0221253384617,
+                411.48840447338586,
+                672.0858467579461
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "3fbce14a-d524-4533-9f56-2b4255f85123",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                295.65386702109225,
+                706.2846149581472,
+                410.3852184024117,
+                725.0387781647089
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "d1a2ae81-44ac-49e9-b9de-a49b7b35ce0c",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                295.65386702109225,
+                760.3407324358842,
+                410.3852184024117,
+                783.5076399263429
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Loiret 45",
+            "uuid": "b4b56404-b8f4-44c2-ae8a-7ffaeb1c90c3",
+            "vertical": false,
+            "translation": "Loiret 45"
+        },
+        {
+            "bbox": [
+                295.9647804582892,
+                818.2092213174349,
+                491.60251669342955,
+                839.9467475657838
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Maine-et-Loire - 49",
+            "uuid": "927b5ab9-8cee-4a75-8f5e-011a89c575a2",
+            "vertical": false,
+            "translation": "Maine-et-Loire - 49"
+        },
+        {
+            "bbox": [
+                589.4213848109997,
+                761.3572295909837,
+                758.3052425866337,
+                785.6029319449115
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Châlette (blé dur)",
+            "uuid": "3c78c259-17c3-4b48-9cea-340ff1732d95",
+            "vertical": false,
+            "translation": "Châlette (durum wheat)"
+        },
+        {
+            "bbox": [
+                589.4213848109997,
+                816.5371039137157,
+                839.4029366670123,
+                844.1270410750816
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Montreuil-Bellay (blé dur)",
+            "uuid": "91387f5d-adad-471f-af57-35f412dc9e14",
+            "vertical": false,
+            "translation": "Montreuil-Bellay (durum wheat)"
+        },
+        {
+            "bbox": [
+                1003.2704422314888,
+                647.6532461380818,
+                1162.121595584808,
+                674.407124597588
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Courtenay (orge)",
+            "uuid": "b8309080-f354-4216-aa9b-3a6d39cebfbe",
+            "vertical": false,
+            "translation": "Courtenay (barley)"
+        },
+        {
+            "bbox": [
+                1002.6359427493602,
+                706.3552656380149,
+                1236.9684810930805,
+                731.3251262811982
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Châtillon-Coligny (maïs)",
+            "uuid": "b98b8548-07fc-4e7b-8a85-00467360f37a",
+            "vertical": false,
+            "translation": "Châtillon-Coligny (corn)"
+        },
+        {
+            "bbox": [
+                1004.1065009333485,
+                819.881338721154,
+                1134.531658423442,
+                840.7828062676432
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Gennes (orge)",
+            "uuid": "cc266342-ea24-479b-907b-9f8183908d3a",
+            "vertical": false,
+            "translation": "Gennes (barley)"
+        },
+        {
+            "bbox": [
+                296.8008391601488,
+                875.8972717457455,
+                418.0293509297871,
+                894.2905631866561
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Rhône 69",
+            "uuid": "5eae1ae6-0a1b-486c-820b-6495278007b1",
+            "vertical": true,
+            "translation": "Rhône 69"
+        },
+        {
+            "bbox": [
+                1002.3773677621335,
+                875.3516311437874,
+                1258.3574288088478,
+                896.8945075685108
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Saint-Roman-en-Gal (maïs)",
+            "uuid": "deb27486-1cd7-4603-806d-14cafed59df0",
+            "vertical": false,
+            "translation": "Saint-Roman-en-Gal (corn)"
+        },
+        {
+            "bbox": [
+                255.98006104671424,
+                939.9802604179578,
+                596.8643997673387,
+                964.0575928926487
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "2) Dans la partie «Österreich»:",
+            "uuid": "1a24a25c-7b18-487e-97df-6a683594b3f6",
+            "vertical": false,
+            "translation": "2) In the \"Österreich\" section:"
+        },
+        {
+            "bbox": [
+                290.19521772127507,
+                980.5315572174371,
+                757.8023589402729,
+                1007.1433457420957
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "le centre «Enns» est dénommé «Ennsdorf».",
+            "uuid": "4848b327-01dc-4c5f-9a6d-86ec0da672ac",
+            "vertical": false,
+            "translation": "the 'Enns' center is called \"Ennsdorf\"."
+        },
+        {
+            "bbox": [
+                785.5902310047669,
+                1042.4880050654824,
+                875.8658810224297,
+                1069.37862421968
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "adef3731-a977-4041-840c-aaecfaf4a8e8",
+            "vertical": false,
+            "translation": "Article 2"
+        },
+        {
+            "bbox": [
+                255.46088196487526,
+                1090.506967840835,
+                1404.0744715513072,
+                1146.208964660244
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel des Communautés européennes.",
+            "uuid": "7a3f7fe1-ccb4-472f-bbc5-b799d676e218",
+            "vertical": false,
+            "translation": "This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities."
+        },
+        {
+            "bbox": [
+                324.60818836138293,
+                1221.1185465897938,
+                1331.0856481327712,
+                1278.7413019202168
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+            "uuid": "3a8acad9-3d3d-43b7-9da6-de026a252a90",
+            "vertical": false,
+            "translation": "This Regulation shall be binding in its entirety and directly applicable in all Member States."
+        },
+        {
+            "bbox": [
+                324.3367048664221,
+                1334.4432987396258,
+                776.709489706206,
+                1362.7192794167343
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Fait à Bruxelles, le 30 septembre 1999.",
+            "uuid": "bef6ea0b-f2b7-4127-a396-fcbb3f17976e",
+            "vertical": true,
+            "translation": "Done at Brussels, September 30,1999."
+        },
+        {
+            "bbox": [
+                989.1906331722614,
+                1397.828329603091,
+                1192.791035339756,
+                1424.7189487572884
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "Par la Commission",
+            "uuid": "67a10c43-aa10-4abd-9b1a-913e4f8cfaf8",
+            "vertical": false,
+            "translation": "By the Commission"
+        },
+        {
+            "bbox": [
+                1010.3189767934165,
+                1440.0850168454012,
+                1169.741933207587,
+                1463.1341189775703
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Franz FISCHLER",
+            "uuid": "c8fd1649-136a-407e-9699-d86596741399",
+            "vertical": true,
+            "translation": "Franz FISCHLER"
+        },
+        {
+            "bbox": [
+                1001.6103315782011,
+                426.2674976403824,
+                1227.8307335701625,
+                448.8895378395785
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Tartas (blé, orge, maïs)",
+            "uuid": "7f89be2b-053b-4b33-9981-9536c8e6e752",
+            "vertical": false,
+            "translation": "Tartas (wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                1001.7437537496415,
+                425.4856822745619,
+                1227.3103421967462,
+                447.0285586992853
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Tartas ( blé , orge , maïs )",
+            "uuid": "acbb64ab-3194-4c75-8b4a-99e24e6e7e00",
+            "vertical": false,
+            "translation": "Tartas (wheat, barley, corn)"
+        },
+        {
+            "bbox": [
+                952.986637418542,
+                1478.2378758800266,
+                1232.0249084244676,
+                1511.3441114231027
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "Membre de la Commission",
+            "uuid": "e64e3262-6dde-460c-81d5-fdbf881e1f52",
+            "vertical": true,
+            "translation": "Member of the Commission"
+        },
+        {
+            "bbox": [
+                290.7111140016939,
+                227.12420115552723,
+                1410.7930262212362,
+                935.0020218965011
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "495792da-ee77-43c8-8f0e-712f0b562b46",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

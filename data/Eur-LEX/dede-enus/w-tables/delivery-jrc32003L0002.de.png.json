@@ -1,0 +1,497 @@
+{
+    "file": "jrc32003L0002.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                107.24002284222362,
+                131.7705436673136,
+                219.73486337282137,
+                170.7090088067902
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.1.2003",
+            "uuid": "e51032d7-77b1-41a1-b7eb-f8cb0fe66930",
+            "vertical": false,
+            "translation": "9.1.2003"
+        },
+        {
+            "bbox": [
+                333.96039375773574,
+                143.88473282181747,
+                366.8435009897567,
+                163.78661500421677
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "c65c4fb0-01c7-4a46-9d81-c74d80a2eb03",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                585.7757675608428,
+                139.55823669520902,
+                1065.1768572066205,
+                168.11311113082522
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "b216cef7-7055-458f-bd72-87ba801481e5",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1455.4474193550782,
+                135.23174056860032,
+                1536.789842507972,
+                174.17020570807716
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 4/11",
+            "uuid": "8f8d89a1-9b2d-495e-a35b-9b68f136aa55",
+            "vertical": true,
+            "translation": "L 4/11"
+        },
+        {
+            "bbox": [
+                770.1492896461984,
+                239.9827665446294,
+                882.6441301767962,
+                271.1335386562108
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "c42b48d2-00bf-4026-aa4d-c4d6d15acde1",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                237.31987500194606,
+                283.26002870652206,
+                1422.6057404962994,
+                2034.2001907650201
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "ff589dc3-8711-4fee-86cb-4a32406812d3",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                242.72996873864463,
+                294.0056359984813,
+                981.6507626691728,
+                336.2015403404434
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Anhang I der Richtlinie 76/769/EG, Ziffer 20, enthält folgende Fassung:",
+            "uuid": "167d5563-8951-46f0-a569-e994728f7b8e",
+            "vertical": false,
+            "translation": "Point 20 of Annex I to Directive 76/769/EC is replaced by the following:"
+        },
+        {
+            "bbox": [
+                249.08547876097978,
+                348.33740234375,
+                497.02736913970745,
+                382.60009765625
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "„20. Arsenverbindungen",
+            "uuid": "73e2428b-c452-400b-81f8-59001c3ecba6",
+            "vertical": true,
+            "translation": "\"20. Arsenic compounds"
+        },
+        {
+            "bbox": [
+                554.7979976548414,
+                342.66446282900046,
+                1402.0402367870633,
+                380.6987365390426
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1. Nicht zugelassen als Stoffe oder Bestandteile von Zubereitungen, die bestimmt sind:",
+            "uuid": "01a48230-62b9-486f-868c-eefb331c67d4",
+            "vertical": false,
+            "translation": "1. Not approved as substances or ingredients of the identified preparations:"
+        },
+        {
+            "bbox": [
+                590.0647286048404,
+                387.19239302612306,
+                1409.4676827710528,
+                442.85230577252634
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "a) zur Verhinderung des Bewuchses durch Mikroorganismen, Pflanzen oder Tiere an:",
+            "uuid": "9a08b308-069d-4fe4-ac84-3662e6109d87",
+            "vertical": false,
+            "translation": "a) to prevent the growth of micro-organisms, plants or animals on:"
+        },
+        {
+            "bbox": [
+                623.4718705640516,
+                446.56296662228664,
+                808.1391275052479,
+                479.03124905768857
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "- Bootskörpern,",
+            "uuid": "f598d571-832e-404a-ac2a-ad8e661a6dd4",
+            "vertical": false,
+            "translation": "- boat hulls,"
+        },
+        {
+            "bbox": [
+                621.6159182329844,
+                481.8142446950087,
+                1401.11589728125,
+                535.6188270165321
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "- an Kästen, Schwimmern, Netzen sowie anderen Geräten oder Einrichtungen für die Fisch- und Muschelzucht;",
+            "uuid": "b5bcd374-9b94-4ede-b100-384540fba929",
+            "vertical": false,
+            "translation": "- boxes, floats, nets and other apparatus or equipment for fish and shellfish farming,"
+        },
+        {
+            "bbox": [
+                621.6159182329844,
+                540.2571530787324,
+                1402.9718496123173,
+                571.7977703016941
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "- an völlig oder teilweise untergetauchten Geräten oder Einrichtungen jeder Art.",
+            "uuid": "11bd890c-1cf4-4cf8-b26e-61fc173991b5",
+            "vertical": false,
+            "translation": "- totally or partially submerged apparatus or equipment of any kind."
+        },
+        {
+            "bbox": [
+                590.992704770374,
+                577.3637615763346,
+                1404.8278019433844,
+                635.8066699600579
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "b) zum Schutz von Holz. Ferner darf damit behandeltes Holz nicht in den Verkehr gebracht werden.",
+            "uuid": "3d0ddf8a-56f6-4ceb-8680-fc8042aae7e5",
+            "vertical": false,
+            "translation": "b) for the protection of wood. Furthermore, wood treated with it must not be placed on the market."
+        },
+        {
+            "bbox": [
+                590.0647286048404,
+                640.4449960222582,
+                1224.8004258298567,
+                672.9132784576601
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "c) Abweichend hiervon bestehen jedoch folgende Ausnahmen:",
+            "uuid": "7dc34bcb-2918-4669-b6f0-cf65c38fda90",
+            "vertical": false,
+            "translation": "c) Notwithstanding the above, however, the following exceptions apply:"
+        },
+        {
+            "bbox": [
+                635.5355607159893,
+                675.6962740949803,
+                1405.7557781089183,
+                817.6290515983088
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "i) für Stoffe und Zubereitungen für den Holzschutz: Diese dürfen lediglich in Industrieanlagen im Vakuum oder unter Druck zur Imprägnierung von Holz in Form von Lösungen anorganischer Verbindungen von Kupfer-Chrom-Arsen (CCA), Typ C, zum Einsatz kommen. Holz, das so behandelt ist, darf nicht vermarktet werden, bevor das Schutzmittel vollständig fixiert ist.",
+            "uuid": "ffd02ef7-9e08-44ef-a440-407984001831",
+            "vertical": false,
+            "translation": "i) for substances and preparations for the protection of wood: these may only be used in industrial plants under vacuum or pressure for the impregnation of wood in the form of solutions composed of inorganic compounds of copper-chromium-arsenic (CCA), type C. Wood treated in this way must not be marketed before the preservative has fully set."
+        },
+        {
+            "bbox": [
+                633.6796083849218,
+                821.3397124480691,
+                1406.6837542744518,
+                986.4641202623989
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "ii) für mit CCA-Lösungen in Industrieanlagen behandeltes Holz gemäß Ziffer i): es kann für die gewerbliche und industrielle Verwendung in den Verkehr gebracht werden, vorausgesetzt, dass die Unversehrtheit der Holzstruktur zur Sicherheit von Mensch oder Vieh erforderlich ist und ein Hautkontakt der allgemeinen Bevölkerung während der Dauer der Verwendung unwahrscheinlich ist:",
+            "uuid": "20d9fa5c-12b2-40d4-81dd-af5ccf403005",
+            "vertical": false,
+            "translation": "ii) in the case of wood treated with CCA solutions in industrial plants as specified in point i): this may be placed on the market for commercial and industrial use, provided that the integrity of the wood structure is necessary for the safety of humans or livestock, and provided that skin contact within the general population is unlikely during the period of use:"
+        },
+        {
+            "bbox": [
+                661.4666012686774,
+                991.1498591625909,
+                1402.265210488026,
+                1048.4880017626247
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "- als Bauholz in öffentlichen und landwirtschaftlichen Gebäuden, Bürogebäuden und Industriebetrieben,",
+            "uuid": "c928b8df-bf0e-490a-b961-c259ee837e38",
+            "vertical": false,
+            "translation": "- as timber in public and agricultural buildings, office buildings and industrial plants,"
+        },
+        {
+            "bbox": [
+                661.4666012686774,
+                1051.7183196555843,
+                1109.8234476337138,
+                1079.983601218981
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "- in Brücken und bei Brückenbauarbeiten,",
+            "uuid": "0effd6ca-4093-426b-a7aa-26e8f492d51c",
+            "vertical": false,
+            "translation": "- in bridges and during bridge construction,"
+        },
+        {
+            "bbox": [
+                660.6587510950467,
+                1084.8290780584205,
+                1403.8809108352873,
+                1138.9369027654943
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "- als Bauholz in Binnengewässern und Brackwasser, z. B. für Molen und Brücken,",
+            "uuid": "b9643e2c-f8b6-4e10-8dab-e6d7928a2e3f",
+            "vertical": false,
+            "translation": "- as timber in inland waters and brackish waters, e. g. for piers and bridges,"
+        },
+        {
+            "bbox": [
+                660.6587510950467,
+                1141.359641185214,
+                861.8134443290902,
+                1172.0476611683305
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "- als Lärmschutz,",
+            "uuid": "b8c56c48-2d76-4b8a-98a9-084bf8979263",
+            "vertical": false,
+            "translation": "- as noise protection,"
+        },
+        {
+            "bbox": [
+                659.8509009214162,
+                1175.2779790612901,
+                889.2803502325338,
+                1204.3508400979272
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "- als Lawinenschutz,",
+            "uuid": "802e835e-8863-4d53-8d07-14135e043836",
+            "vertical": false,
+            "translation": "- as avalanche protection,"
+        },
+        {
+            "bbox": [
+                659.8509009214162,
+                1207.5811579908868,
+                1131.6354023217427,
+                1235.0388600810438
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "- als Leitplanken und Schranken an Straßen,",
+            "uuid": "94759d95-9a12-40e8-8f6b-b345d43c47cd",
+            "vertical": false,
+            "translation": "- as guardrails and barriers on roads,"
+        },
+        {
+            "bbox": [
+                659.0430507477854,
+                1238.2691779740035,
+                1176.8750120450616,
+                1268.14961848388
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "- als entrindete Rundnadelhölzer für Weidezäune,",
+            "uuid": "8df16b4a-81de-4f43-8020-dc4502efff3c",
+            "vertical": false,
+            "translation": "- as round, debarked coniferous posts for livestock fences,"
+        },
+        {
+            "bbox": [
+                659.8509009214162,
+                1271.3799363768396,
+                893.3196011006872,
+                1300.4527974134762
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "- in Erdstützwänden,",
+            "uuid": "ae15b068-1806-4a4f-b1a2-57a9652486c9",
+            "vertical": false,
+            "translation": "- in earth support walls,"
+        },
+        {
+            "bbox": [
+                659.0430507477854,
+                1304.4906947796758,
+                1137.2903535371574,
+                1331.9483968698325
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "- als Strom- und Telekommunikationsmasten,",
+            "uuid": "4b445a5a-128a-42f5-8268-aee8aa9fde7f",
+            "vertical": false,
+            "translation": "- as power and telecommunications masts,"
+        },
+        {
+            "bbox": [
+                658.2352005741548,
+                1336.7938737092725,
+                1112.246998154606,
+                1364.2515757994292
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "- als Bahnschwellen für Untergrundbahnen.",
+            "uuid": "f4974e1f-7dd3-4064-be1e-034b23551cc3",
+            "vertical": false,
+            "translation": "- as railway sleepers for underground railways."
+        },
+        {
+            "bbox": [
+                659.0454870513025,
+                1373.1349500050683,
+                1406.3068976596965,
+                1618.6391098700005
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Unbeschadet anderer Gemeinschaftsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe und Zubereitungen muss sämtliches behandeltes Holz, das in den Verkehr gebracht wird, einzeln die Aufschrift tragen: ,Verwendung nur in Industrieanlagen und zu gewerblichen Zwecken, enthält Arsen.' Darüber hinaus muss sämtliches in Paketen in den Verkehr gebrachtes Holz die Aufschrift tragen: ‚Bei der Handhabung des Holzes Handschuhe tragen. Wird dieses Holz geschnitten oder anderweitig bearbeitet, Staubmaske und Augenschutz tragen. Abfälle dieses Holzes sind von zugelassenen Unternehmen als gefährliche Abfälle zu behandeln.'",
+            "uuid": "c48f5606-6eb8-447f-af12-76f5c4ec8bc6",
+            "vertical": false,
+            "translation": "Without prejudice to other Community provisions on the classification, packaging and labeling of dangerous substances and preparations, all individual pieces of treated wood placed on the market shall bear the label: 'For industrial and professional use only; contains arsenic.' In addition, all wood placed on the market in packages shall bear the label: 'Wear gloves when handling this wood. If this wood is cut or otherwise processed, wear a dust mask and eye protection. Waste from this wood shall be treated as hazardous waste by licensed companies.'"
+        },
+        {
+            "bbox": [
+                627.5276901629015,
+                1628.3300635488797,
+                1402.2560066747392,
+                1685.668206148913
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "iii) Die Verwendung von behandeltem Holz nach den Ziffern i) und ii) ist jedoch verboten:",
+            "uuid": "1bbd6c88-696c-4bdd-9512-8d6c2a54c3d6",
+            "vertical": false,
+            "translation": "iii) However, the use of treated wood under i) and ii) is prohibited:"
+        },
+        {
+            "bbox": [
+                663.8809479762828,
+                1688.8985240418726,
+                1281.8863308037655,
+                1719.5865440249893
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "- in Wohnbauten, unabhängig von ihrer Zweckbestimmung,",
+            "uuid": "599e0215-d47d-4cdb-afe2-4debc98bf102",
+            "vertical": false,
+            "translation": "- in residential buildings, irrespective of its intended purpose,"
+        },
+        {
+            "bbox": [
+                662.2652476290215,
+                1723.6244413911888,
+                1375.5969509449264,
+                1753.5048819010653
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "- in Anwendungen mit dem Risiko eines wiederholten Hautkontakts,",
+            "uuid": "ebfed6af-31a1-4156-b681-a56c24462c05",
+            "vertical": false,
+            "translation": "- in applications which carry a risk of repeated skin contact,"
+        },
+        {
+            "bbox": [
+                661.4573974553907,
+                1757.5427792672651,
+                903.8124495445996,
+                1784.192901884182
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "- in Meeresgewässern,",
+            "uuid": "5fbe650c-9825-4d2a-a4a3-b62c81649fab",
+            "vertical": false,
+            "translation": "- in seawater,"
+        },
+        {
+            "bbox": [
+                661.4573974553907,
+                1787.4232197771416,
+                1405.487407369262,
+                1844.7613623771754
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "- für landwirtschaftliche Zwecke außer Weidezäunen und Bauholz, gemäß Ziffer ii),",
+            "uuid": "7e63aa38-eb99-4e3a-be6e-15688301035f",
+            "vertical": false,
+            "translation": "- for agricultural purposes other than livestock fences and timber, in accordance with point ii),"
+        },
+        {
+            "bbox": [
+                660.6495472817601,
+                1849.6068392166148,
+                1403.8717070220007,
+                1927.942048120886
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "- in Anwendungen, bei denen das behandelte Holz mit Zwischen- oder Endprodukten in Kontakt kommen kann, die für den menschlichen und/oder tierischen Verzehr bestimmt sind.",
+            "uuid": "a8fc1cc7-5f8c-43af-843e-23749a9074b4",
+            "vertical": false,
+            "translation": "- in applications whereby the treated wood may come into contact with intermediate or final products intended for human and/or animal consumption."
+        },
+        {
+            "bbox": [
+                557.2447250570308,
+                1936.0178428532852,
+                1403.0638568483698,
+                1999.816621239238
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "2. Nicht zugelassen als Stoffe oder Bestandteile von Zubereitungen, die zur Aufbereitung von Brauchwasser bestimmt sind, unabhängig von seiner Verwendung.\"",
+            "uuid": "ab41ea05-5e32-4972-a830-94689ecc7c83",
+            "vertical": false,
+            "translation": "2. Not approved as substances or constituents of preparations intended for the treatment of industrial water, irrespective of their use.\""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

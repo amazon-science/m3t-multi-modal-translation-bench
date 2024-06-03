@@ -1,0 +1,217 @@
+{
+    "file": "jrc31998R0497.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                153.62904899701402,
+                153.17681446595435,
+                243.954255633122,
+                181.98819213116562
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/22",
+            "uuid": "bbad3e2a-c181-4a8a-bc37-54c889980761",
+            "vertical": false,
+            "translation": "L 62/22"
+        },
+        {
+            "bbox": [
+                372.62715113673545,
+                159.41927962675015,
+                399.9979599186863,
+                177.66648548138392
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "0b6dfe71-2735-4811-93ce-6ec19496ce81",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                558.4536009794484,
+                156.76767239894966,
+                1091.6495212379477,
+                189.10745560437758
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "ad2b37a1-f760-42ed-88ed-a2905a37f5ac",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1417.9999707561594,
+                157.9787107434895,
+                1502.5133452407797,
+                179.58724399239804
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "3. 3. 98",
+            "uuid": "0bebcabc-f88a-4f71-845d-4fb5bbfa5248",
+            "vertical": false,
+            "translation": "3.3.98"
+        },
+        {
+            "bbox": [
+                773.6097065192158,
+                266.44171979127066,
+                881.9371098435022,
+                290.3450378126738
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "68626995-8482-44d1-8467-eb11d090afcc",
+            "vertical": false,
+            "translation": "APPENDIX"
+        },
+        {
+            "bbox": [
+                325.5484156143478,
+                343.05957540273613,
+                1330.1285831548253,
+                652.9237002968473
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "Description des marchandises (1) Mélange de bromométhane (67% en poids) et de chloropicrine (33% en poids) utilisé comme fumigant du sol avant plan tation. Classement Code NC (2) 3808 10 90 Motivation (3) Le classement est déterminé par les règles générales 1 et 6 pour l'interprétation de la NC, la note 1 a) 2) du chapitre 38 et par le libellé des codes NC 3808, 3808 10 et 3808 10 90.",
+            "uuid": "792dbe33-8be9-4845-b447-162defb752c2",
+            "vertical": false,
+            "translation": "Description of goods (1) Mixture of bromomethane (67% by weight) and chloropicrin (33% by weight) used as a soil fumigant before planting. Classification CN code (2) 3808 10 90 Reasons (3) Classification is determined by general rules 1 and 6 for the interpretation of the CN, note 1 a) 2) of Chapter 38 and by the wording of CN codes 3808, 3808 10 and 3808 10 90."
+        },
+        {
+            "bbox": [
+                414.30198065880836,
+                372.35337890454326,
+                669.7802451566806,
+                394.0842807951007
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Description des marchandises",
+            "uuid": "391268dc-a1c9-41ac-925c-66d8b7c3f3bf",
+            "vertical": false,
+            "translation": "Description of goods"
+        },
+        {
+            "bbox": [
+                528.3325522141802,
+                432.1133591035765,
+                554.2714553571108,
+                464.70971193941267
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "(1)",
+            "uuid": "0b6240a4-8675-44c2-9a47-397ea94ef117",
+            "vertical": false,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                327.3306565744263,
+                495.9478834070892,
+                741.8033729140594,
+                597.8114860190777
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Mélange de bromométhane (67 % en poids) et de chloropicrine (33 % en poids) utilisé comme fumigant du sol avant plan tation.",
+            "uuid": "b45de986-77f3-498a-9de4-9c191d211444",
+            "vertical": false,
+            "translation": "Mixture of bromomethane (67% by weight) and chloropicrin (33% by weight) used as a soil fumigant prior to planting."
+        },
+        {
+            "bbox": [
+                779.8533272009765,
+                361.48792795926454,
+                877.6960667959065,
+                404.94973174037943
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Classement Code NC",
+            "uuid": "ce2d82fc-7fb0-44f7-8ca6-eb917f2d6d1d",
+            "vertical": false,
+            "translation": "NC code ranking"
+        },
+        {
+            "bbox": [
+                816.5443545490755,
+                433.47154047173615,
+                836.9282586313524,
+                461.99334920309315
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "(2)",
+            "uuid": "19893a9a-6706-4c50-9fb2-1ecbf9449fde",
+            "vertical": false,
+            "translation": "(2)"
+        },
+        {
+            "bbox": [
+                771.1831255074726,
+                496.02932248651246,
+                879.7073980444577,
+                522.4426382084149
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "3808 10 90",
+            "uuid": "a8a91a84-2de6-45f9-a70d-2ee1c60d2d02",
+            "vertical": false,
+            "translation": "3808 10 90"
+        },
+        {
+            "bbox": [
+                1067.9458382304922,
+                373.353554093501,
+                1158.095528235533,
+                393.26102580457535
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Motivation",
+            "uuid": "efce9026-ee59-4cd9-9d8c-dbc7476e15e1",
+            "vertical": false,
+            "translation": "Motivation"
+        },
+        {
+            "bbox": [
+                1098.7687268413151,
+                436.00850521278045,
+                1123.163539315495,
+                458.6545076195978
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "(3)",
+            "uuid": "2492e409-117b-4698-b7bb-a92d84061bf1",
+            "vertical": false,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                914.0560607715763,
+                497.3060647752491,
+                1327.362207402316,
+                623.6169320141146
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Le classement est déterminé par les générales 1 et 6 pour l'interprétation de NC, la note 1 a) 2) du chapitre 38 et par libellé des codes NC 3808, 3808 10 3808 10 90.",
+            "uuid": "9855d549-ff9d-4abf-af6b-a9e14d776caa",
+            "vertical": false,
+            "translation": "Classification is determined by Generals 1 and 6 for the interpretation of CNs, Note 1 a) 2) of Chapter 38 and by wording of CN codes 3808, 3808 10 3808 10 90."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,777 @@
+{
+    "file": "jrc32005D0042.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                326.16785283833076,
+                118.5496172159791,
+                356.63408085070233,
+                147.22371416879955
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "5aa5ba91-9676-4522-866d-bf9b6be754c9",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                109.31999463262734,
+                122.13387933508166,
+                216.8478582057034,
+                147.22371416879955
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "22.1.2005",
+            "uuid": "af407cb0-bf4b-404a-b852-f5f094f07551",
+            "vertical": false,
+            "translation": "22.1.2005"
+        },
+        {
+            "bbox": [
+                621.8694776642899,
+                123.92601039463294,
+                1019.7225728846714,
+                152.6001073474534
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "22f08815-f6d0-49e7-95be-eed40030923b",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1440.8733718792193,
+                120.34174827553038,
+                1530.4799248567829,
+                149.01584522835083
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 20/27",
+            "uuid": "b1642ff0-fb60-45b7-aeb2-f4a0fcd99aac",
+            "vertical": false,
+            "translation": "L 20/27"
+        },
+        {
+            "bbox": [
+                279.57244528999775,
+                220.70108761040143,
+                510.7573519721114,
+                245.7909224441193
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "A. Mode «Marche»/«Actif»",
+            "uuid": "a8b70a4b-cd48-4669-8001-8ac65630a5c8",
+            "vertical": false,
+            "translation": "A. \"On\"/\"Active\" mode"
+        },
+        {
+            "bbox": [
+                313.6229354214719,
+                267.2964951587344,
+                489.2517792574961,
+                288.8020678733497
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "1. Catégorie 1",
+            "uuid": "1432ed8a-cd23-4b98-a769-d1bbf3e28d90",
+            "vertical": false,
+            "translation": "1. Category 1"
+        },
+        {
+            "bbox": [
+                336.92063919563833,
+                308.51550952841353,
+                1396.0700953904377,
+                494.89713972174536
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "Pour recevoir le logo Energy Star, les modèles d'écran d'ordinateur doivent avoir une consommation électrique ne dépassant pas le résultat de l'équation suivante: Y = 38X + 30. Y est exprimé en watts et arrondi au nombre entier le plus proche et X est le nombre de mégapixels exprimé sous forme décimale (par exemple: 1 920 000 pixels 1,92 mégapixel). Ainsi, la consommation électrique maximale en mode actif d'un écran d'ordinateur ayant une résolution de 1 800 × 1 440, soit 2 592 000 watts sera de: 38(2,592) + 30 = 128,49 pixels, c'est-à-dire 129 watts si l'on prend le chiffre arrondi. La consommation électrique maximale autorisée pour les écrans d'ordinateur ayant différentes résolutions standard est calculée selon cette formule dans le tableau 1.",
+            "uuid": "14d6a31c-0218-43f3-bcca-01fc162c71af",
+            "vertical": false,
+            "translation": "To receive the Energy Star logo, computer monitor models must have a power consumption that does not exceed the result of the following equation: Y = 38X + 30. Y is expressed in watts and rounded to the nearest whole number and X is the number of megapixels expressed in decimal form (for example: 1,920,000 pixels 1.92 megapixels). Thus, the maximum power consumption in active mode of a computer monitor with a resolution of 1,800 × 1,440, i.e. 2,592,000 watts, will be: 38 (2.592) + 30 = 128.49 pixels, that is, 129 watts if we take the rounded figure. The maximum power consumption allowed for computer monitors with different standard resolutions is calculated according to this formula in Table 1."
+        },
+        {
+            "bbox": [
+                340.50490131474083,
+                582.7115616397575,
+                1392.4858332713352,
+                765.5089297139868
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Pour recevoir le logo Energy Star , les modèles d'écran d'ordinateur doivent avoir une consommation électrique en mode actif qui n'excède pas le résultat de l'équation suivante: si X < 1 mégapixel, alors Y = 23; si X ≥ 1 mégapixel , alors Y = 28 X. Y est exprimé en watts et arrondi au nombre entier le plus proche et X est le nombre de mégapixels exprimé sous forme décimale (par exemple: 1 920 000 pixels = 1,92 mégapixel). Ainsi, la consommation électrique maximale d'un écran d'ordinateur ayant une résolution de 1 024 x 768 (soit 0,78 mégapixel) serait Y = 23 watts, et un celle d'un écran d'ordinateur ayant une résolution de 1 600 × 1 200 serait 28 × 1,92 = 53,76 watts, soit 54 watts si l'on arrondit au nombre entier supérieur.",
+            "uuid": "b0a6ecd5-e8f4-4255-b698-67e6c8aadc7d",
+            "vertical": false,
+            "translation": "To receive the Energy Star logo, computer screen models must have an active mode power consumption that does not exceed the result of the following equation: if X < 1 megapixel, then Y = 23; if X ≥ 1 megapixel, then Y = 28 X. Y is expressed in watts and rounded to the nearest whole number and X is the number of megapixels expressed in decimal form (e.g.: 1,920,000 pixels = 1.92 megapixel). Thus, the maximum power consumption of a computer screen with a resolution of 1,024 x 768 (or 0.78 megapixel) would be Y = 23 watts, and a computer screen with a resolution of 1,600 x 1,200 would be 28 x 1.92 = 53.76 watts, or 54 watts rounded up to the next integer."
+        },
+        {
+            "bbox": [
+                310.7678461674186,
+                536.546492228972,
+                500.0115495051899,
+                563.611072708838
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "2. Catégorie 2",
+            "uuid": "ffd4829a-3827-4cc5-b19c-4bb99a3d83e0",
+            "vertical": false,
+            "translation": "2. Category 2"
+        },
+        {
+            "bbox": [
+                362.01047402935615,
+                855.1154826915501,
+                1390.6937022117838,
+                876.6210554061655
+            ],
+            "order": "11",
+            "label": "Section-header",
+            "text": "Exemples de niveaux maximaux de consommation électrique en mode «Marche» pour la catégorie 1",
+            "uuid": "55268f41-b403-402f-a58b-baa296aa81a8",
+            "vertical": false,
+            "translation": "Examples of maximum \"on\"-mode power consumption levels for category 1"
+        },
+        {
+            "bbox": [
+                471.33046866198345,
+                919.6322008353959,
+                560.9370216395469,
+                935.7613803713574
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Résolution",
+            "uuid": "d26efe71-5153-49c9-95d0-b632ee567997",
+            "vertical": false,
+            "translation": "Resolution"
+        },
+        {
+            "bbox": [
+                767.0320934879427,
+                919.6322008353959,
+                964.1665100385821,
+                941.137773550011
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Nombre de pixels total",
+            "uuid": "48d587b8-58b9-41aa-9ed9-dc02fe9c3f00",
+            "vertical": false,
+            "translation": "Total pixel count"
+        },
+        {
+            "bbox": [
+                1057.357325135248,
+                908.8794144780883,
+                1376.3566537353738,
+                955.4748220264212
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Puissance maximale consommée pour la catégorie 1",
+            "uuid": "a84f8152-2bd6-4f8c-89c7-dcf66047f59a",
+            "vertical": false,
+            "translation": "Maximum power consumed for category 1"
+        },
+        {
+            "bbox": [
+                467.74620654288094,
+                973.396132621934,
+                573.4819390564056,
+                996.6938363961003
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "640 × 480",
+            "uuid": "1730b88e-6bb7-4b32-a507-3a46f734efa9",
+            "vertical": false,
+            "translation": "640 × 480"
+        },
+        {
+            "bbox": [
+                822.5881563340319,
+                973.396132621934,
+                903.2340540138391,
+                998.4859674556517
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "307 200",
+            "uuid": "0a738909-f9f4-4856-8073-32d5e6117fff",
+            "vertical": false,
+            "translation": "307,200"
+        },
+        {
+            "bbox": [
+                1168.4694508274267,
+                971.6040015623827,
+                1252.6996106263362,
+                996.6938363961003
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "42 watts",
+            "uuid": "5d0e1ce5-318a-4a13-9af9-581b8b41acb1",
+            "vertical": false,
+            "translation": "42 watts"
+        },
+        {
+            "bbox": [
+                465.9540754833296,
+                1018.1994091107157,
+                571.6898079968544,
+                1043.2892439444333
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "800 × 600",
+            "uuid": "fffa88dd-6092-44e4-98d9-4a2a6c2f5064",
+            "vertical": false,
+            "translation": "800 × 600"
+        },
+        {
+            "bbox": [
+                822.5881563340319,
+                1018.1994091107157,
+                903.2340540138391,
+                1041.497112884882
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "480 000",
+            "uuid": "a7ab8667-c5c3-400f-ba75-83d9a1f0878c",
+            "vertical": false,
+            "translation": "480,000"
+        },
+        {
+            "bbox": [
+                1170.2615818869779,
+                1016.4072780511644,
+                1254.4917416858875,
+                1043.2892439444333
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "49 watts",
+            "uuid": "6610b0fc-c625-486c-a9fc-55a71787d700",
+            "vertical": false,
+            "translation": "49 watts"
+        },
+        {
+            "bbox": [
+                446.2406338282657,
+                1066.5869477186,
+                573.4819390564057,
+                1086.3003893736636
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "1024 x 768",
+            "uuid": "9a963e3e-c81a-4414-9093-36863a3947f1",
+            "vertical": false,
+            "translation": "1,024 x 768"
+        },
+        {
+            "bbox": [
+                446.2406338282657,
+                1111.3902242073816,
+                573.4819390564057,
+                1131.1036658624455
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "1 280 × 768",
+            "uuid": "d99ed735-60d0-4808-b238-6a31a11715ee",
+            "vertical": false,
+            "translation": "1,280 ×768"
+        },
+        {
+            "bbox": [
+                822.5881563340319,
+                1064.7948166590486,
+                905.0261850733904,
+                1089.8846514927664
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "786 432",
+            "uuid": "4722168e-f5c0-4341-8e59-eb74ec331e16",
+            "vertical": false,
+            "translation": "786,432"
+        },
+        {
+            "bbox": [
+                822.5881563340319,
+                1113.182355266933,
+                906.8183161329415,
+                1132.8957969219966
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "983 040",
+            "uuid": "2292d5dd-cbe7-4c23-8237-d47233b739f0",
+            "vertical": false,
+            "translation": "983,040"
+        },
+        {
+            "bbox": [
+                1168.35791015625,
+                1063.28564453125,
+                1259.72509765625,
+                1090.7746215914162
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "60 watts",
+            "uuid": "06c80ff5-0c85-4e4b-b74b-73327c8a813e",
+            "vertical": false,
+            "translation": "60 watts"
+        },
+        {
+            "bbox": [
+                1170.2615818869779,
+                1111.3902242073816,
+                1258.07600380499,
+                1132.8957969219966
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "68 watts",
+            "uuid": "48dce7d5-7d7b-4165-8c05-48bad973a423",
+            "vertical": false,
+            "translation": "68 watts"
+        },
+        {
+            "bbox": [
+                426.52719217320174,
+                1157.487717986605,
+                568.1408265517258,
+                1177.6990734107783
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1 280 × 1 024",
+            "uuid": "06d00b32-df55-4b3e-8efc-2d28584d3f49",
+            "vertical": false,
+            "translation": "1,280 × 1,024"
+        },
+        {
+            "bbox": [
+                804.6668457385193,
+                1157.9856317557146,
+                905.0261850733904,
+                1177.6990734107783
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1 310 720",
+            "uuid": "a6306314-d4bc-42ab-b86e-e9bbbeb477c0",
+            "vertical": false,
+            "translation": "1,310,720"
+        },
+        {
+            "bbox": [
+                1170.2615818869779,
+                1156.1935006961633,
+                1252.6996106263362,
+                1179.4912044703296
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "80 watts",
+            "uuid": "20450c56-2456-4f46-8030-b1fa91f48cf9",
+            "vertical": false,
+            "translation": "80 watts"
+        },
+        {
+            "bbox": [
+                428.31932323275305,
+                1201.606542689386,
+                569.8976769373031,
+                1224.9042464635527
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "1 600 × 1 024",
+            "uuid": "fc9f01e4-8a99-4730-a846-002cc9b4ccd0",
+            "vertical": false,
+            "translation": "1,600 × 1,024"
+        },
+        {
+            "bbox": [
+                804.6668457385193,
+                1202.788908244496,
+                905.0261850733904,
+                1222.5023498995604
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1 638 400",
+            "uuid": "252f53d2-0271-4a12-aefe-caaea1d15159",
+            "vertical": false,
+            "translation": "1,638,400"
+        },
+        {
+            "bbox": [
+                1166.6773197678754,
+                1200.996777184945,
+                1254.4917416858875,
+                1227.8787430782138
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "93 watts",
+            "uuid": "8f994685-79dd-4a0c-9e99-684c816945e9",
+            "vertical": false,
+            "translation": "93 watts"
+        },
+        {
+            "bbox": [
+                430.38106205998673,
+                1250.0413237438247,
+                572.2649286731692,
+                1271.3239037358023
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "1 600 × 1 200",
+            "uuid": "613e0192-2a32-47df-a7ac-1522668b7eb7",
+            "vertical": false,
+            "translation": "1,600 × 1,200"
+        },
+        {
+            "bbox": [
+                429.1986965048769,
+                1293.7888492828895,
+                572.2649286731692,
+                1313.889063719757
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "1 920 × 1 200",
+            "uuid": "632f56f8-d1c1-4cc5-8912-e5e654efaf68",
+            "vertical": false,
+            "translation": "1,920 × 1,200"
+        },
+        {
+            "bbox": [
+                430.38106205998673,
+                1342.2658370423933,
+                573.4472942282791,
+                1361.183685924151
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "1 800 × 1 440",
+            "uuid": "cc0dc917-37d8-48ef-bfcd-87acf758c0fe",
+            "vertical": false,
+            "translation": "1,800 × 1,440"
+        },
+        {
+            "bbox": [
+                429.1986965048769,
+                1384.8309970263483,
+                572.2649286731692,
+                1404.9312114632157
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "2 048 × 1 440",
+            "uuid": "07b77443-473f-4aa6-869b-db9c648676ee",
+            "vertical": false,
+            "translation": "2,048 × 1,440"
+        },
+        {
+            "bbox": [
+                806.3733085849201,
+                1251.2236892989347,
+                903.3272841039282,
+                1270.1415381806921
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "1 920 000",
+            "uuid": "29acee0a-b286-4655-a4ed-336f3e2416e6",
+            "vertical": false,
+            "translation": "1,920,000"
+        },
+        {
+            "bbox": [
+                806.3733085849201,
+                1298.5183115033287,
+                902.1449185488183,
+                1313.889063719757
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "2 304 000",
+            "uuid": "a40f3a92-0a1e-46ab-9a00-4ab54b6d4915",
+            "vertical": false,
+            "translation": "2,304,000"
+        },
+        {
+            "bbox": [
+                804.0085774747005,
+                1342.2658370423933,
+                906.8743807692578,
+                1360.0013203690412
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "2 592 000",
+            "uuid": "c940e216-102b-46b6-a7b1-4f7bec8ec0eb",
+            "vertical": false,
+            "translation": "2,592,000"
+        },
+        {
+            "bbox": [
+                806.3733085849201,
+                1389.5604592467876,
+                908.0567463243675,
+                1404.9312114632157
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "2 949 120",
+            "uuid": "19848b98-3c8a-4d7f-bac6-3d990555bbf8",
+            "vertical": false,
+            "translation": "2,949,120"
+        },
+        {
+            "bbox": [
+                1158.7182440076565,
+                1248.858958188715,
+                1254.4898539715546,
+                1268.9591726255826
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "103 watts",
+            "uuid": "6ac10bad-7355-4f46-bbf9-a1010bf0fcd7",
+            "vertical": false,
+            "translation": "103 watts"
+        },
+        {
+            "bbox": [
+                1158.7182440076565,
+                1293.7888492828895,
+                1254.4898539715546,
+                1313.889063719757
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "118 watts",
+            "uuid": "43452b5c-3f8c-43d3-b174-cf8b9d256088",
+            "vertical": false,
+            "translation": "118 watts"
+        },
+        {
+            "bbox": [
+                1161.0829751178765,
+                1341.0834714872838,
+                1254.4898539715546,
+                1361.183685924151
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "129 watts",
+            "uuid": "9a3c7bfa-b8ef-4a3b-99a6-a71078e13c4a",
+            "vertical": false,
+            "translation": "129 watts"
+        },
+        {
+            "bbox": [
+                1161.0829751178765,
+                1389.5604592467876,
+                1254.4898539715546,
+                1406.1135770183255
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "143 watts",
+            "uuid": "779a387c-0212-4a0f-868a-bd05cf80d82b",
+            "vertical": false,
+            "translation": "143 watts"
+        },
+        {
+            "bbox": [
+                1161.0829751178765,
+                1430.9432536756324,
+                1255.6722195266645,
+                1451.0434681124998
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "150 watts",
+            "uuid": "56e6b43b-bf9b-489c-87c9-50d59a884e56",
+            "vertical": false,
+            "translation": "150 watts"
+        },
+        {
+            "bbox": [
+                431.9035853518555,
+                1435.7659459861611,
+                575.274070115957,
+                1451.8951255221223
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "2 048 x 1536",
+            "uuid": "937909a7-35bd-4629-8b5b-ce4ca2732481",
+            "vertical": false,
+            "translation": "2,048 x 1,536"
+        },
+        {
+            "bbox": [
+                804.6668457385193,
+                1435.7659459861611,
+                908.6104471924926,
+                1450.1029944625714
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "3 145 728",
+            "uuid": "17c0dbab-b977-490a-9421-9b1d1ba334ca",
+            "vertical": false,
+            "translation": "3,145,728"
+        },
+        {
+            "bbox": [
+                337.6133520074843,
+                1519.6700359818367,
+                1393.6843860308957,
+                1575.252721983069
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "Pour qu'un écran d'ordinateur puisse recevoir le logo Energy Star, il doit être soumis à des essais conformément au protocole décrit dans la partie 4, intitulée «Méthode d'essai».",
+            "uuid": "8711f720-d57e-42c0-8065-6032f61f8fde",
+            "vertical": false,
+            "translation": "In order for a computer monitor to be labeled with the Energy Star logo, it shall be tested in accordance with the protocol described in Part 4, \"Test method\"."
+        },
+        {
+            "bbox": [
+                280.2092620274531,
+                1615.3099374409082,
+                531.7356862095764,
+                1639.5800310023415
+            ],
+            "order": "50",
+            "label": "Section-header",
+            "text": "B. Modes «Veille» et «Arrêt»",
+            "uuid": "a81532ce-08e1-45db-b929-a83a6b9ce05d",
+            "vertical": false,
+            "translation": "B. “Sleep” and “Off” modes"
+        },
+        {
+            "bbox": [
+                308.892099872783,
+                1659.0514871010084,
+                570.4652777711876,
+                1685.9421062552062
+            ],
+            "order": "51",
+            "label": "List-item",
+            "text": "1. Catégories 1 et 2",
+            "uuid": "32c58899-82fd-46d4-b2bc-904c2af181d9",
+            "vertical": false,
+            "translation": "1. Categories 1 and 2"
+        },
+        {
+            "bbox": [
+                313.30484415667985,
+                1902.138315894207,
+                787.6748546755965,
+                1928.6147815975883
+            ],
+            "order": "52",
+            "label": "List-item",
+            "text": "2. Dérogation pour le mode « Veille » >",
+            "uuid": "62e299d5-d7ca-4b73-bf39-fa9af4a0b0ce",
+            "vertical": false,
+            "translation": "2. Derogation for \"Standby\" mode >"
+        },
+        {
+            "bbox": [
+                339.78130986006124,
+                1703.5648231188463,
+                1390.0144494275235,
+                1864.6299894810832
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "Les niveaux maximaux de consommation d'électricité pour les modes «Veille» et «Arrêt» sont indiqués dans le tableau 2 ci-dessous. Les écrans d'ordinateur possédant plusieurs modes «Veille» (à savoir, «Veille» et «Veille renforcée») doivent satisfaire aux exigences concernant le mode «Veille» énoncées ci-dessous pour l'ensemble de ces modes. Par exemple, dans la catégorie 1, un écran d'ordinateur testé à 7 watts en mode «Veille» et à 3 watts en mode «Veille renforcée» ne pourrait être certifié, car dans l'un des deux modes «Veille», la consommation excède 4 watts.",
+            "uuid": "0e2047ca-1408-41ab-ae1c-0be5704b26f4",
+            "vertical": false,
+            "translation": "The maximum levels of electricity consumption for “Standby” and “Off” modes are shown in Table 2 below. Computer monitors with multiple “Standby” modes (i.e., “Standby” and “Enhanced Standby”) must meet the “Standby” mode requirements set forth below for all of these modes. For example, in category 1, a computer screen tested at 7 watts in \"Standby\" mode and at 3 watts in \"Enhanced Standby\" mode could not be certified, because in one of the two \"Standby\" modes, the consumption exceeds 4 watts."
+        },
+        {
+            "bbox": [
+                334.0993078467233,
+                1947.774903764977,
+                1403.909526754884,
+                2195.45797927052
+            ],
+            "order": "53",
+            "label": "Text",
+            "text": "Les écrans d'ordinateur qui sont à même de passer automatiquement du mode «Marche»/«Actif» à un mode «Arrêt»/«Attente» consommant au maximum 2 watts dans la catégorie 1 et 1 watt dans la catégorie 2 satisfont aux exigences en matière de consommation électrique. Le mode «Arrêt»/« Attente» de l'écran d'ordinateur doit être activé après 30 minutes d'inactivité ou selon ce que prévoiront autrement des versions ultérieures de l'accord «Ordinateur» (qui suivront l'actuelle version 3.0). Lorsque l'utilisateur reprend son activité (par exemple, en bougeant la souris ou en pressant une touche du clavier), l'écran doit retourner dans son état pleinement opérationnel. Autrement dit, il n'est pas nécessaire que l'écran de l'ordinateur possède un mode «Veille» s'il peut passer du mode «Marche»/«Actif» au mode «Arrêt»/«Attente» et s'il satisfait aux exigences requises pour être certifié Energy Star en mode «Arrêt»/«Attente».",
+            "uuid": "f4fc677c-4d43-4faf-a885-865a1bc8f3ec",
+            "vertical": false,
+            "translation": "Computer monitors that are capable of automatically switching from \"On\"/\"Active\" mode to an \"Off\"/\"Standby\" mode consuming a maximum of 2 watts in category 1 and 1 watt in category 2 meet the requirements in terms of electricity consumption. The computer screen \"Off\"/\"Hold\" mode must be activated after 30 minutes of inactivity or as otherwise provided by subsequent versions of the \"Computer\" Agreement (which will follow the current version 3.0) . When the user resumes activity (for example, by moving the mouse or pressing a key on the keyboard), the display should return to its fully operational state. In other words, the computer screen does not need to have a \"Sleep\" mode if it can switch from \"On\"/\"Active\" mode to \"Off\"/\"Hold\" mode and if it meets the requirements to be Energy Star certified in \"Off\"/\"Standby\" mode."
+        },
+        {
+            "bbox": [
+                311.1628787842842,
+                1904.9085765108134,
+                787.510989515781,
+                1930.8388164095036
+            ],
+            "order": "52",
+            "label": "List-item",
+            "text": "2. Dérogation pour le mode « Veille » >",
+            "uuid": "0b2ebcc4-e15d-4a0e-8b7f-87f87943eac3",
+            "vertical": false,
+            "translation": "2. Override for \"standby\" > mode"
+        },
+        {
+            "bbox": [
+                814.9088208959075,
+                809.6877794520136,
+                934.428781293974,
+                831.4186813425711
+            ],
+            "order": "10",
+            "label": "Section-header",
+            "text": "TABLEAU 1",
+            "uuid": "70e83701-e15f-441d-86cb-9d0ad71dc1a9",
+            "vertical": false,
+            "translation": "TABLE 1"
+        },
+        {
+            "bbox": [
+                332.75136334011046,
+                894.3091118852216,
+                1404.5786191240845,
+                1477.8665875668644
+            ],
+            "order": "12",
+            "label": "Table",
+            "text": "",
+            "uuid": "539a8246-5bd7-429f-91f1-3771750f7469",
+            "vertical": true,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

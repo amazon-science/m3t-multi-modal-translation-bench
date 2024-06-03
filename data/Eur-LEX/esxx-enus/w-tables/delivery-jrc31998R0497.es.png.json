@@ -1,0 +1,231 @@
+{
+    "file": "jrc31998R0497.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                785.8381181398926,
+                263.5477414068279,
+                880.2961223236525,
+                291.0979926270913
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO",
+            "uuid": "536b3c1e-150c-4eff-a194-b26c17b0b00e",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                150.87042334906118,
+                154.6586532505489,
+                244.0165108080468,
+                180.89698774603775
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/22",
+            "uuid": "3ce7c2c2-dc59-422e-a8b0-195f4dedde76",
+            "vertical": false,
+            "translation": "L 62/22"
+        },
+        {
+            "bbox": [
+                373.89626656071687,
+                158.59440342487227,
+                402.7584345057547,
+                178.2731542964889
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "9aff40fc-928b-455e-bf0d-aaa96a5babe6",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                581.1791090750792,
+                157.28248670009773,
+                1074.4597975902705,
+                186.14465464513566
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "9db333bb-6208-40c2-8f31-83e58b0a7ed9",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1421.1355017679903,
+                156.49819151393075,
+                1500.0874740884342,
+                181.59145403438197
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "3.3.98",
+            "uuid": "c6db0132-8b9a-4dee-bb4f-6f42b49cd4a4",
+            "vertical": false,
+            "translation": "3.3.98"
+        },
+        {
+            "bbox": [
+                419.81335192782245,
+                368.5010793887835,
+                665.1417794606436,
+                397.3632473338212
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Descripción de la mercancía",
+            "uuid": "56bdaf9a-0234-4640-8053-32c54d09cb44",
+            "vertical": false,
+            "translation": "Description of the goods"
+        },
+        {
+            "bbox": [
+                774.8309841680773,
+                359.08038405708515,
+                880.1002805953358,
+                377.44130785253725
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Clasificación",
+            "uuid": "71babe7c-1e4d-4da3-b696-4555e424beae",
+            "vertical": false,
+            "translation": "Classification"
+        },
+        {
+            "bbox": [
+                772.9948917885322,
+                384.7856773707182,
+                881.3243421816993,
+                403.75863195935204
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "( Código NC )",
+            "uuid": "385f3408-1130-47ac-8f5a-c94890f0054d",
+            "vertical": false,
+            "translation": "(CN code)"
+        },
+        {
+            "bbox": [
+                1063.7095185498565,
+                372.54506150708346,
+                1162.2464762521158,
+                394.578170061626
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Motivación",
+            "uuid": "acec3abc-0064-4d12-9ee0-99deec7344a8",
+            "vertical": false,
+            "translation": "Grounds"
+        },
+        {
+            "bbox": [
+                529.4066361022012,
+                435.58423320480216,
+                552.6638062431073,
+                457.00531096616294
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "( 1 )",
+            "uuid": "2b98cc47-f187-4a09-85fe-f2e739f4e32b",
+            "vertical": false,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                815.8370473112535,
+                435.58423320480216,
+                837.8701558657962,
+                458.84140334570804
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "( 2 )",
+            "uuid": "e267e71f-5e32-4c74-8a2f-b1cd2db5468d",
+            "vertical": false,
+            "translation": "(2)"
+        },
+        {
+            "bbox": [
+                1101.0433969339424,
+                435.58423320480216,
+                1124.9125978680302,
+                458.84140334570804
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "( 3 )",
+            "uuid": "e0324dca-4a7d-46c3-93e3-346d176253c3",
+            "vertical": false,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                318.79576412019014,
+                493.1331682423558,
+                743.8567829471103,
+                598.0865062243114
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Mezcla de bromometano (67% en peso) y de cloropicrina ( 33 % en peso ) utilizada para fumigar el suelo antes de la plantación",
+            "uuid": "b2440e5c-b806-4228-a0d3-aa70e56b601d",
+            "vertical": false,
+            "translation": "Mixture of bromomethane (67% by weight) and chloropicrin (33% by weight) used to fumigate the soil before planting"
+        },
+        {
+            "bbox": [
+                772.3828609953504,
+                494.3391893502489,
+                883.7724653544262,
+                518.8204210775183
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "3808 10 90",
+            "uuid": "f8dbe124-58bd-4514-9532-4506305fccfc",
+            "vertical": false,
+            "translation": "3808 10 90"
+        },
+        {
+            "bbox": [
+                911.3138510476044,
+                488.2188814184315,
+                1332.3910367566384,
+                656.5273495434087
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "La clasificación está determinada por las normas generales 1 y 6 para la interpretación de la nomenclatura combinada, por la nota 1 a) 2) del capítulo 38, y por el texto de los códigos NC 3808 , 3808 10 y 3808 10 90",
+            "uuid": "ddcd4469-f595-4068-bd07-42d69c45f501",
+            "vertical": false,
+            "translation": "Classification is in accordance with general rules 1 and 6 for the interpretation of the Combined Nomenclature, note 1 a) 2) to Chapter 38, and by the text of CN codes 3808, 3808 10 and 3808 10 90"
+        },
+        {
+            "bbox": [
+                316.17193067064125,
+                338.3269947189713,
+                1343.402726169032,
+                680.7372598851014
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "Descripción de la mercancía ( 1 ) Mezcla de bromometano ( 67 % en peso ) y de cloropicrina ( 33 % en peso ) utilizada para fumigar el suelo antes de la planta ción Clasificación ( Código NC ) ( 2 ) 3808 10 90 Motivación ( 3 ) La clasificación está determinada por las normas generales 1 y 6 para la interpreta ción de la nomenclatura combinada , por la nota 1 a ) 2 ) del capítulo 38 , y por el texto de los códigos NC 3808 , 3808 10 y 3808 10 90",
+            "uuid": "760a813a-e30f-4a70-862a-1fd443d70a71",
+            "vertical": false,
+            "translation": "Description of the goods (1) Mixture of bromomethane (67% by weight) and chloropicrin (33% by weight) used to fumigate the soil before planting Classification (CN Code) (2) 3808 10 90 Grounds (3) The classification is in accordance with general rules 1 and 6 for the interpretation of the combined nomenclature, note 1 a) 2) of Chapter 38, and the text of CN codes 3808, 3808 10 and 3808 10 90"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

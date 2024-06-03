@@ -1,0 +1,2835 @@
+{
+    "file": "7797d109135840a2232d3bf2529bc11bb4c0f3da8e14cc4c79a6da024f30e70b.png",
+    "annotations": [
+        {
+            "bbox": [
+                127.99999999999999,
+                96.00000000000001,
+                428.0,
+                154.00000000000003
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "SELECTED STATISTICS (unaudited)",
+            "uuid": "297417a8-019b-4f96-b23c-8f46784d65ed",
+            "vertical": false,
+            "translation": "AUSGEWÄHLTE STATISTIKEN (ungeprüft)"
+        },
+        {
+            "bbox": [
+                148.0,
+                326.0,
+                417.0,
+                353.0
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Telephone Access Lines",
+            "uuid": "5882311a-c510-4987-9b88-82852be06514",
+            "vertical": false,
+            "translation": "Telefonzugangsleitungen"
+        },
+        {
+            "bbox": [
+                149.0,
+                364.0,
+                473.00000000000006,
+                383.0
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Cable Television Subscribers",
+            "uuid": "a85f4e85-99d3-4e06-a1a9-4a5bed1aff2a",
+            "vertical": false,
+            "translation": "Abonnenten von Kabelfernsehen"
+        },
+        {
+            "bbox": [
+                148.0,
+                395.8505887814423,
+                466.2842554296079,
+                424.86568108813475
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Dial-up Internet Subscribers",
+            "uuid": "86b9010b-6cfc-414d-a6b4-4af4c042fe7a",
+            "vertical": false,
+            "translation": "DFÜ-Internet-Abonnenten"
+        },
+        {
+            "bbox": [
+                148.0,
+                474.0,
+                407.0,
+                493.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Retail PCS Subscribers",
+            "uuid": "21b85c93-775f-4c98-b8b8-d773a4d822ff",
+            "vertical": false,
+            "translation": "PCS-Abonnenten im Einzelhandel"
+        },
+        {
+            "bbox": [
+                148.0,
+                506.1087581996998,
+                432.2052093209571,
+                535.8881107471924
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Wholesale PCS Users (1)",
+            "uuid": "7a10bad2-d20f-4620-ae0a-72709cb5dd4a",
+            "vertical": false,
+            "translation": "PCS-Nutzer Großkunden (1)"
+        },
+        {
+            "bbox": [
+                148.0,
+                578.0000000000001,
+                447.0,
+                603.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Long Distance Subscribers",
+            "uuid": "9dd7a8c1-10b9-4425-b19f-c958c3d523d2",
+            "vertical": false,
+            "translation": "Ferngesprächsteilnehmer"
+        },
+        {
+            "bbox": [
+                149.0,
+                616.0000000000001,
+                350.0,
+                634.0
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Fiber Route Miles",
+            "uuid": "34c6b837-91a2-4f8e-aa01-9c57a059d0df",
+            "vertical": false,
+            "translation": "Meilen an Glasfaserstrecken"
+        },
+        {
+            "bbox": [
+                150.0,
+                651.0,
+                343.0,
+                669.0
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Total Fiber Miles",
+            "uuid": "b0ce7665-0396-4304-a7a3-d5904471896d",
+            "vertical": false,
+            "translation": "Meilen an Glasfaserstrecken gesamt"
+        },
+        {
+            "bbox": [
+                149.0,
+                682.9999999999999,
+                486.0,
+                708.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Wholesale PCS Minutes (000)",
+            "uuid": "9e48ce10-08bd-490a-800d-3c62a78b7c6a",
+            "vertical": false,
+            "translation": "PCS-Minuten Großkunden (000)"
+        },
+        {
+            "bbox": [
+                148.0,
+                722.0,
+                480.0,
+                744.0
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Long Distance Calls (000) (2)",
+            "uuid": "9023dcfa-e3c2-4467-8461-0cb136d1a435",
+            "vertical": false,
+            "translation": "Ferngespräche (000) (2)"
+        },
+        {
+            "bbox": [
+                149.0,
+                757.0,
+                567.0,
+                780.0
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Total Switched Access Minutes (000)",
+            "uuid": "1023db29-85d6-4019-a370-74494fc8d707",
+            "vertical": false,
+            "translation": "Gesamtzahl der geschalteten Minuten (000)"
+        },
+        {
+            "bbox": [
+                149.0,
+                792.0,
+                650.0,
+                815.0000000000001
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "Originating Switched Access MOU (000) (2)",
+            "uuid": "dda0526a-24ff-436b-8c43-a19b18d6065b",
+            "vertical": false,
+            "translation": "Ursprünglicher geschalteter Zugang Absichtserklärung (000) (2)"
+        },
+        {
+            "bbox": [
+                148.0,
+                828.0,
+                525.0,
+                851.0
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Employees (full time equivalents)",
+            "uuid": "ee7623eb-85f1-4780-952b-0d086f7ad5b7",
+            "vertical": false,
+            "translation": "Mitarbeiter (Vollzeitäquivalente)"
+        },
+        {
+            "bbox": [
+                149.0,
+                863.0,
+                463.0,
+                885.0
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "CDMA Base Stations (sites)",
+            "uuid": "ef343b60-9222-4d3d-b34c-c0b837629f7c",
+            "vertical": false,
+            "translation": "CDMA-Basisstationen (Standorte)"
+        },
+        {
+            "bbox": [
+                149.0,
+                897.0,
+                453.0,
+                921.0
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "Towers (100 foot and over)",
+            "uuid": "e1136f7c-28d0-405c-9a02-73358039134d",
+            "vertical": false,
+            "translation": "Türme (100 Fuß und mehr)"
+        },
+        {
+            "bbox": [
+                149.0,
+                934.0,
+                419.0,
+                956.0
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "Towers (under 100 foot)",
+            "uuid": "94c4f48f-6529-42fa-81ae-fb4bba1a7587",
+            "vertical": false,
+            "translation": "Türme (unter 100 Fuß)"
+        },
+        {
+            "bbox": [
+                149.0,
+                1005.0000000000001,
+                565.0,
+                1027.0
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "(See note (3) for definitions of terms)",
+            "uuid": "ee98b7f4-1275-4fdd-849c-b8fc773dbeb5",
+            "vertical": false,
+            "translation": "(Begriffsdefinitionen siehe Anmerkung (3))"
+        },
+        {
+            "bbox": [
+                149.0,
+                1039.0,
+                423.0,
+                1062.0
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "PCS Market POPS (000)",
+            "uuid": "5bf64c95-b5f7-4ab4-a098-c7f6c660bf21",
+            "vertical": false,
+            "translation": "PCS Markt-POPS (000)"
+        },
+        {
+            "bbox": [
+                149.0,
+                1077.0,
+                438.0,
+                1102.0
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "PCS Covered POPS (000)",
+            "uuid": "98fc76cb-6934-4ac3-94f6-9b503fd74394",
+            "vertical": false,
+            "translation": "PCS Abgedeckte POPS (000)"
+        },
+        {
+            "bbox": [
+                149.0,
+                1116.0,
+                743.0,
+                1137.9999999999998
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "PCS Average Revenue Per User (ARPU) (ex. Travel)",
+            "uuid": "37c7fe61-b85b-44ea-bd58-5602ab46d237",
+            "vertical": false,
+            "translation": "PCS Durchschnittseinnahmen pro Nutzer (ARPU) (z. B. Reisen)"
+        },
+        {
+            "bbox": [
+                148.0,
+                1154.0,
+                587.0,
+                1178.0
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "PCS Travel Revenue per Subscriber (4)",
+            "uuid": "fec96b61-2dcd-4151-9a68-18266c9e4330",
+            "vertical": false,
+            "translation": "PCS Reiseeinnahmen pro Abonnent (4)"
+        },
+        {
+            "bbox": [
+                148.0,
+                1192.0,
+                683.203125,
+                1217.437489864266
+            ],
+            "order": "142",
+            "label": "Table cell",
+            "text": "PCS Average Management. Fee per Subscriber",
+            "uuid": "ebc1c0fc-ecff-466e-ae2b-364980ceb505",
+            "vertical": false,
+            "translation": "PCS Durchschnitt Verwaltung. Gebühr pro Abonnent"
+        },
+        {
+            "bbox": [
+                149.0,
+                1300.0,
+                564.0,
+                1327.0
+            ],
+            "order": "160",
+            "label": "Table cell",
+            "text": "PCS Cash Cost Per User (CCPU) (4)",
+            "uuid": "f01088bb-2293-4128-aec1-326231f85131",
+            "vertical": false,
+            "translation": "PCS Bar-Kosten pro Nutzer (CCPU) (4)"
+        },
+        {
+            "bbox": [
+                211.0,
+                1373.0,
+                690.0,
+                1393.0
+            ],
+            "order": "167",
+            "label": "Table cell",
+            "text": "PLANT FACILITIES AT DEC. 31, 2003",
+            "uuid": "a70b1981-1d70-46ec-af01-e8fbb06be94f",
+            "vertical": false,
+            "translation": "ANLAGEN AM 31. DEZEMBER 2003"
+        },
+        {
+            "bbox": [
+                231.00000000000003,
+                1404.0,
+                367.0,
+                1422.0
+            ],
+            "order": "170",
+            "label": "Table cell",
+            "text": "Route Miles",
+            "uuid": "43d8ff28-1f96-46c4-83a0-7f95203c4cb4",
+            "vertical": false,
+            "translation": "Streckenmeilen"
+        },
+        {
+            "bbox": [
+                231.00000000000003,
+                1436.0,
+                527.0,
+                1453.0
+            ],
+            "order": "173",
+            "label": "Table cell",
+            "text": "Customers Per Route Mile",
+            "uuid": "440468d5-bca7-412a-9363-50f16639124f",
+            "vertical": false,
+            "translation": "Kunden pro Streckenmeilen"
+        },
+        {
+            "bbox": [
+                231.00000000000003,
+                1468.0,
+                528.0,
+                1486.0
+            ],
+            "order": "176",
+            "label": "Table cell",
+            "text": "Miles of Distribution Wire",
+            "uuid": "02d591e1-152b-4b37-8512-85371a8e0767",
+            "vertical": false,
+            "translation": "Meilen Verteilerkabel"
+        },
+        {
+            "bbox": [
+                229.99999999999997,
+                1496.0,
+                414.0,
+                1524.0
+            ],
+            "order": "179",
+            "label": "Table cell",
+            "text": "Telephone Poles",
+            "uuid": "3715a5c3-30d5-4a57-83e0-b63e75ebed85",
+            "vertical": false,
+            "translation": "Telefonmasten"
+        },
+        {
+            "bbox": [
+                229.99999999999997,
+                1530.0,
+                560.0,
+                1556.0
+            ],
+            "order": "182",
+            "label": "Table cell",
+            "text": "Miles of Aerial Copper Cable",
+            "uuid": "2dd69edd-7396-4022-b1c1-ef9eb8d53ba2",
+            "vertical": false,
+            "translation": "Meilen von oberirdischem Kupferkabel"
+        },
+        {
+            "bbox": [
+                229.99999999999997,
+                1561.0,
+                566.0,
+                1588.0
+            ],
+            "order": "185",
+            "label": "Table cell",
+            "text": "Miles of Buried Copper Cable",
+            "uuid": "335873f3-0c8b-46fa-aa05-e87a9f490e71",
+            "vertical": false,
+            "translation": "Meilen von erdverlegtem Kupferkabel"
+        },
+        {
+            "bbox": [
+                229.99999999999997,
+                1595.0,
+                640.0,
+                1620.0
+            ],
+            "order": "188",
+            "label": "Table cell",
+            "text": "Miles of Underground Copper Cable",
+            "uuid": "4620dd98-59b7-4d86-9c6c-ead05efd255d",
+            "vertical": false,
+            "translation": "Meilen von unterirdischem Kupferkabel"
+        },
+        {
+            "bbox": [
+                231.00000000000003,
+                1628.0,
+                569.0,
+                1651.0
+            ],
+            "order": "191",
+            "label": "Table cell",
+            "text": "Fiber Optic Cable-Fiber Miles",
+            "uuid": "a2b8c36d-7ff6-4fdb-8403-9b79680fb5f0",
+            "vertical": false,
+            "translation": "Fasermeilen von Glasfaserkabel"
+        },
+        {
+            "bbox": [
+                229.99999999999997,
+                1658.0,
+                713.0,
+                1681.0
+            ],
+            "order": "193",
+            "label": "Table cell",
+            "text": "Inter-toll Circuits to Interexchange Carriers",
+            "uuid": "68761226-be35-46a5-8b79-785020dae203",
+            "vertical": false,
+            "translation": "Gebührenpflichtige Leitungen zu Austauschträgern"
+        },
+        {
+            "bbox": [
+                231.00000000000003,
+                1692.0,
+                785.0,
+                1715.0
+            ],
+            "order": "195",
+            "label": "Table cell",
+            "text": "Special Service Circuits to Interexchange Carriers",
+            "uuid": "e21eb9cd-251c-4d88-ba37-66969fbabdf8",
+            "vertical": false,
+            "translation": "Spezielle Serviceschaltungen zu Austauschträgern"
+        },
+        {
+            "bbox": [
+                107.0,
+                2106.0,
+                633.0,
+                2122.0
+            ],
+            "order": "201",
+            "label": "Page-footer",
+            "text": "SHENANDOAH TELECOMMUNICATIONS COMPANY",
+            "uuid": "40a17f45-8e39-449e-a54e-c131f5f4a6ff",
+            "vertical": false,
+            "translation": "SHENANDOAH TELECOMMUNICATIONS COMPANY"
+        },
+        {
+            "bbox": [
+                871.9849344733632,
+                265.9999999999999,
+                966.7005394247801,
+                319.28988871871627
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Dec. 31, 2003",
+            "uuid": "f6d59e36-b703-4c5a-a4c9-fe6a33fd7b69",
+            "vertical": false,
+            "translation": "31. Dezember 2003"
+        },
+        {
+            "bbox": [
+                863.9999999999999,
+                329.0,
+                939.0,
+                350.0
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "24,877",
+            "uuid": "565b1641-0716-4d3d-b6e5-f6acd75889d6",
+            "vertical": false,
+            "translation": "24.877"
+        },
+        {
+            "bbox": [
+                878.0,
+                365.00000000000006,
+                940.0000000000001,
+                385.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "8,696",
+            "uuid": "ff297760-8a38-417a-af73-f135cd8fcaba",
+            "vertical": false,
+            "translation": "8.696"
+        },
+        {
+            "bbox": [
+                866.0,
+                399.0,
+                939.0,
+                420.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "17,420",
+            "uuid": "e18aadf8-8f5e-4ad8-a2b5-22cdfe7a8e9b",
+            "vertical": false,
+            "translation": "17.420"
+        },
+        {
+            "bbox": [
+                699.0,
+                2106.0,
+                723.0,
+                2123.0
+            ],
+            "order": "202",
+            "label": "Page-footer",
+            "text": "10",
+            "uuid": "4c468311-bce0-4a67-8c52-4b86cd1f4768",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                879.0,
+                437.0,
+                941.0000000000001,
+                459.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1,298",
+            "uuid": "a1e51230-d53d-4160-8a4f-949221c3e3f1",
+            "vertical": false,
+            "translation": "1.298"
+        },
+        {
+            "bbox": [
+                863.9999999999999,
+                474.0,
+                940.0000000000001,
+                493.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "85,139",
+            "uuid": "f2da0c7a-4160-476d-8881-c0adad2f3589",
+            "vertical": false,
+            "translation": "85.139"
+        },
+        {
+            "bbox": [
+                866.0,
+                510.0,
+                940.0000000000001,
+                530.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "12,858",
+            "uuid": "abc0de8e-b3dd-44ae-bebc-e498107fdc3b",
+            "vertical": false,
+            "translation": "12.858"
+        },
+        {
+            "bbox": [
+                880.0000000000001,
+                544.0,
+                940.0000000000001,
+                565.0
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "1,989",
+            "uuid": "928645fc-df87-47b7-89df-09dba3d40d01",
+            "vertical": false,
+            "translation": "1.989"
+        },
+        {
+            "bbox": [
+                877.0,
+                579.0,
+                939.0,
+                601.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "9,526",
+            "uuid": "5e03cf9b-55a7-422a-bd4f-34bf53510a8f",
+            "vertical": false,
+            "translation": "9.526"
+        },
+        {
+            "bbox": [
+                897.9999999999999,
+                616.0000000000001,
+                941.9999999999999,
+                634.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "552",
+            "uuid": "6b998af6-fdb7-41a7-9e68-409a8a96ad78",
+            "vertical": false,
+            "translation": "552"
+        },
+        {
+            "bbox": [
+                863.0000000000001,
+                648.0,
+                940.0000000000001,
+                671.0
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "28,740",
+            "uuid": "ab07c6b5-ce30-4f09-a84f-08e8b75951a1",
+            "vertical": false,
+            "translation": "28.740"
+        },
+        {
+            "bbox": [
+                876.0,
+                684.0,
+                941.0000000000001,
+                706.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "4,974",
+            "uuid": "52c5ed2b-eb4f-455e-8cb3-3d6511fc7787",
+            "vertical": false,
+            "translation": "4.974"
+        },
+        {
+            "bbox": [
+                877.0,
+                720.0,
+                939.0,
+                743.0
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "5,851",
+            "uuid": "ed19443a-268c-4212-9e35-b36d95123022",
+            "vertical": false,
+            "translation": "5.851"
+        },
+        {
+            "bbox": [
+                863.0000000000001,
+                758.9999999999999,
+                940.0000000000001,
+                777.0000000000001
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "55,932",
+            "uuid": "d6c0ec6b-ac74-4982-b694-3a56d2726437",
+            "vertical": false,
+            "translation": "55.932"
+        },
+        {
+            "bbox": [
+                866.0,
+                792.0,
+                938.0,
+                814.0
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "17,829",
+            "uuid": "8e9a4167-1e84-45dd-91d1-8348405410c0",
+            "vertical": false,
+            "translation": "17.829"
+        },
+        {
+            "bbox": [
+                897.9999999999999,
+                829.0,
+                941.0000000000001,
+                847.0
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "268",
+            "uuid": "16390449-b004-42f0-9b24-a9f7bb2e0b21",
+            "vertical": false,
+            "translation": "268"
+        },
+        {
+            "bbox": [
+                896.9999999999999,
+                864.0,
+                941.0000000000001,
+                881.9999999999999
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "253",
+            "uuid": "258199ec-e381-4955-a011-48405c977e2d",
+            "vertical": false,
+            "translation": "253"
+        },
+        {
+            "bbox": [
+                913.0000000000001,
+                899.0,
+                939.0,
+                917.0
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "77",
+            "uuid": "14fcf5db-55ab-47c0-b571-bf7299d72cd1",
+            "vertical": false,
+            "translation": "77"
+        },
+        {
+            "bbox": [
+                916.0,
+                935.0,
+                939.0,
+                953.0
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "87eca329-6a26-4366-be29-9620da696f57",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                877.0,
+                1041.0,
+                941.9999999999999,
+                1060.0
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "2,048",
+            "uuid": "cb39317a-b483-4d34-b448-fbec86a34b14",
+            "vertical": false,
+            "translation": "2.048"
+        },
+        {
+            "bbox": [
+                880.0000000000001,
+                1079.0,
+                941.0000000000001,
+                1100.0
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "1,581",
+            "uuid": "18c165ce-79cd-4793-8355-4e406fbf2392",
+            "vertical": false,
+            "translation": "1.581"
+        },
+        {
+            "bbox": [
+                863.9999999999999,
+                1114.0,
+                938.0,
+                1135.0
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "$52.05",
+            "uuid": "9948c4f9-8580-47c4-b7cb-1175d0b85e4f",
+            "vertical": false,
+            "translation": "52,05 $"
+        },
+        {
+            "bbox": [
+                863.0000000000001,
+                1152.0,
+                939.0,
+                1173.0
+            ],
+            "order": "137",
+            "label": "Table cell",
+            "text": "$20.84",
+            "uuid": "a3c14b5d-1fac-4aa6-8b5c-eedc93f1f3c9",
+            "vertical": false,
+            "translation": "20,84 $"
+        },
+        {
+            "bbox": [
+                877.0,
+                1190.0,
+                940.0000000000001,
+                1210.0
+            ],
+            "order": "143",
+            "label": "Table cell",
+            "text": "$4.02",
+            "uuid": "cacc3808-33e2-457f-bf62-2aeb8267d031",
+            "vertical": false,
+            "translation": "4,02 $"
+        },
+        {
+            "bbox": [
+                880.0000000000001,
+                1227.0,
+                935.9999999999999,
+                1247.0
+            ],
+            "order": "149",
+            "label": "Table cell",
+            "text": "2.0%",
+            "uuid": "f888882d-8046-4f4a-a3ae-efa5286bd76c",
+            "vertical": false,
+            "translation": "2,0 %"
+        },
+        {
+            "bbox": [
+                849.0,
+                1265.0,
+                941.0000000000001,
+                1286.0
+            ],
+            "order": "155",
+            "label": "Table cell",
+            "text": "$387.47",
+            "uuid": "62e9ad3f-96d6-4538-81a1-1ce4a0ee8723",
+            "vertical": false,
+            "translation": "387,47 $"
+        },
+        {
+            "bbox": [
+                863.9999999999999,
+                1303.0,
+                939.0,
+                1323.0
+            ],
+            "order": "161",
+            "label": "Table cell",
+            "text": "$36.31",
+            "uuid": "f91cbb3f-234d-4f8a-ae2d-4c1e121fe031",
+            "vertical": false,
+            "translation": "36,31 $"
+        },
+        {
+            "bbox": [
+                1031.0,
+                231.0,
+                1333.0,
+                250.0
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Three Month Period Ended",
+            "uuid": "7cee493c-45fe-480d-bb8f-44f1d9e19d55",
+            "vertical": false,
+            "translation": "Dreimonatsfrist abgelaufen"
+        },
+        {
+            "bbox": [
+                1021.9243777224921,
+                262.2888491332755,
+                1118.9699219910053,
+                316.69361959456285
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Sept. 30, 2003",
+            "uuid": "07b7d21a-382b-42d2-924c-f3b0999fc93e",
+            "vertical": false,
+            "translation": "30. September 2003"
+        },
+        {
+            "bbox": [
+                1021.0,
+                330.0,
+                1098.0,
+                349.0
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "24,951",
+            "uuid": "97a9afe4-d240-4951-a3e5-81f872718519",
+            "vertical": false,
+            "translation": "24.951"
+        },
+        {
+            "bbox": [
+                1036.0,
+                364.0,
+                1097.0,
+                385.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "8,796",
+            "uuid": "9932dc8d-c551-47c8-9461-c910474d04c4",
+            "vertical": false,
+            "translation": "8.796"
+        },
+        {
+            "bbox": [
+                1023.9999999999999,
+                400.0,
+                1097.0,
+                420.0
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "17,616",
+            "uuid": "5cb4a2cb-3a35-49cb-8ace-e9be67f1f8c1",
+            "vertical": false,
+            "translation": "17.616"
+        },
+        {
+            "bbox": [
+                1037.0,
+                439.0,
+                1099.0,
+                459.0
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1,163",
+            "uuid": "566d17ad-6ce5-4cdb-994c-478149fc2e99",
+            "vertical": false,
+            "translation": "1.163"
+        },
+        {
+            "bbox": [
+                1023.0000000000001,
+                474.0,
+                1098.0,
+                493.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "81,015",
+            "uuid": "6ae0a327-aff7-4bda-a80e-3848ff9b9d61",
+            "vertical": false,
+            "translation": "81.015"
+        },
+        {
+            "bbox": [
+                1037.0,
+                508.0,
+                1098.0,
+                530.0
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "7,531",
+            "uuid": "5c976c21-f188-47fd-b233-17152f8f7f45",
+            "vertical": false,
+            "translation": "7.531"
+        },
+        {
+            "bbox": [
+                1036.0,
+                545.0,
+                1099.0,
+                564.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "2,107",
+            "uuid": "b1e9862e-8b9f-40c6-8b2a-4228a71c4159",
+            "vertical": false,
+            "translation": "2.107"
+        },
+        {
+            "bbox": [
+                1035.0,
+                581.0,
+                1099.0,
+                601.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "9,517",
+            "uuid": "ae1159e6-91cd-42d7-856f-322d44627d85",
+            "vertical": false,
+            "translation": "9.517"
+        },
+        {
+            "bbox": [
+                1057.0,
+                616.0000000000001,
+                1102.0,
+                634.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "552",
+            "uuid": "03bce496-42b5-4bb3-b87e-e2960eaf9636",
+            "vertical": false,
+            "translation": "552"
+        },
+        {
+            "bbox": [
+                1022.0,
+                651.0,
+                1099.0,
+                671.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "28,740",
+            "uuid": "f815b33a-101b-42a2-849f-104ae743628b",
+            "vertical": false,
+            "translation": "28.740"
+        },
+        {
+            "bbox": [
+                1036.0,
+                686.0,
+                1100.0,
+                708.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "3,207",
+            "uuid": "256e0960-b81b-4c59-b879-8e0daff738e2",
+            "vertical": false,
+            "translation": "3.207"
+        },
+        {
+            "bbox": [
+                1037.0,
+                722.0,
+                1099.0,
+                741.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "6,078",
+            "uuid": "6fbbaa85-145e-40b1-b2ce-5ba0eea2ff2d",
+            "vertical": false,
+            "translation": "6.078"
+        },
+        {
+            "bbox": [
+                1021.0,
+                756.0,
+                1098.0,
+                779.0
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "54,349",
+            "uuid": "4751863a-235f-4b20-abb1-20cceb2c1344",
+            "vertical": false,
+            "translation": "54.349"
+        },
+        {
+            "bbox": [
+                1023.9999999999999,
+                793.0,
+                1098.0,
+                813.0
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "18,285",
+            "uuid": "bc1647b9-4a7e-4abd-9869-162670d623b7",
+            "vertical": false,
+            "translation": "18.285"
+        },
+        {
+            "bbox": [
+                1060.0,
+                829.0,
+                1103.0,
+                847.0
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "264",
+            "uuid": "4c2da085-0109-4b37-8ddf-b79ad34e1ff6",
+            "vertical": false,
+            "translation": "264"
+        },
+        {
+            "bbox": [
+                1057.0,
+                862.0,
+                1100.0,
+                883.0
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "248",
+            "uuid": "8995776f-6d16-4861-87cc-ccb5c4ccbc91",
+            "vertical": false,
+            "translation": "248"
+        },
+        {
+            "bbox": [
+                1072.0,
+                899.0,
+                1098.0,
+                917.0
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "76",
+            "uuid": "6bb1b29f-5aca-4a79-87a8-1be11d9492c4",
+            "vertical": false,
+            "translation": "76"
+        },
+        {
+            "bbox": [
+                1074.0,
+                934.0,
+                1099.0,
+                953.0
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "86aa4c02-970b-4a70-babb-580de1029c59",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1035.0,
+                1041.0,
+                1100.0,
+                1060.0
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "2,048",
+            "uuid": "9d8fa667-123b-4383-8cae-134efc48d05a",
+            "vertical": false,
+            "translation": "2.048"
+        },
+        {
+            "bbox": [
+                1038.0,
+                1078.0,
+                1100.0,
+                1100.0
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "1,581",
+            "uuid": "56f5191d-7224-40a5-a153-c91426a52148",
+            "vertical": false,
+            "translation": "1.581"
+        },
+        {
+            "bbox": [
+                1023.0000000000001,
+                1114.0,
+                1097.0,
+                1135.0
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "$55.09",
+            "uuid": "0a73f64a-132a-4aea-9b89-cfa86091c6f7",
+            "vertical": false,
+            "translation": "55,09 $"
+        },
+        {
+            "bbox": [
+                1022.0,
+                1152.0,
+                1098.0,
+                1172.0
+            ],
+            "order": "138",
+            "label": "Table cell",
+            "text": "$16.50",
+            "uuid": "683c2e63-7598-441f-afba-b13c21b8b455",
+            "vertical": false,
+            "translation": "16,50 $"
+        },
+        {
+            "bbox": [
+                1037.0,
+                1190.0,
+                1100.0,
+                1210.0
+            ],
+            "order": "144",
+            "label": "Table cell",
+            "text": "$4.62",
+            "uuid": "1a18fe42-af21-4914-bcf7-2ba308315c48",
+            "vertical": false,
+            "translation": "4,62 $"
+        },
+        {
+            "bbox": [
+                1040.0,
+                1227.0,
+                1096.0,
+                1247.0
+            ],
+            "order": "150",
+            "label": "Table cell",
+            "text": "2.2%",
+            "uuid": "ce03ec0b-8091-4a94-828c-c47ad7e16bbe",
+            "vertical": false,
+            "translation": "2,2 %"
+        },
+        {
+            "bbox": [
+                1000.0,
+                1372.0,
+                1117.93089388185,
+                1400.042955373261
+            ],
+            "order": "168",
+            "label": "Table cell",
+            "text": "Telephone",
+            "uuid": "6921d411-01d6-4745-8b71-b99ef7e8bea5",
+            "vertical": false,
+            "translation": "Telefon"
+        },
+        {
+            "bbox": [
+                1076.0,
+                1437.0,
+                1102.0,
+                1455.0
+            ],
+            "order": "174",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "a88075e6-aaac-491b-b06f-97785bba0e19",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                1059.0,
+                1466.0,
+                1103.0,
+                1488.9999999999998
+            ],
+            "order": "177",
+            "label": "Table cell",
+            "text": "579",
+            "uuid": "792c92d6-eb48-4a48-88d7-4a665bc42e49",
+            "vertical": false,
+            "translation": "579"
+        },
+        {
+            "bbox": [
+                1039.0,
+                1501.0,
+                1102.0,
+                1522.0
+            ],
+            "order": "180",
+            "label": "Table cell",
+            "text": "7,675",
+            "uuid": "bc34932c-b9bc-4db9-b1bd-7329dbb7e84c",
+            "vertical": false,
+            "translation": "7.675"
+        },
+        {
+            "bbox": [
+                1059.0,
+                1532.0,
+                1103.0,
+                1552.0
+            ],
+            "order": "183",
+            "label": "Table cell",
+            "text": "337",
+            "uuid": "e70866c2-f370-49d4-8a81-b39b0ff72d60",
+            "vertical": false,
+            "translation": "337"
+        },
+        {
+            "bbox": [
+                1041.0,
+                1564.0,
+                1105.0,
+                1586.0
+            ],
+            "order": "186",
+            "label": "Table cell",
+            "text": "1,314",
+            "uuid": "f695b95e-4b2a-4396-bdff-15446c815e4b",
+            "vertical": false,
+            "translation": "1.314"
+        },
+        {
+            "bbox": [
+                1173.0,
+                265.0,
+                1261.0,
+                316.0
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Jun. 30, 2003",
+            "uuid": "8a922433-df43-435d-b064-ce41bd18bee7",
+            "vertical": false,
+            "translation": "30. Juni 2003"
+        },
+        {
+            "bbox": [
+                1174.0,
+                328.0,
+                1249.0,
+                350.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "24,972",
+            "uuid": "90e3d7b5-62b9-450c-b943-c45859609e84",
+            "vertical": false,
+            "translation": "24.972"
+        },
+        {
+            "bbox": [
+                1189.0,
+                364.0,
+                1250.0,
+                384.00000000000006
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "8,750",
+            "uuid": "2817d766-11ef-443f-a65a-815b9c34dec1",
+            "vertical": false,
+            "translation": "8.750"
+        },
+        {
+            "bbox": [
+                1176.0,
+                398.0,
+                1250.0,
+                420.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "17,798",
+            "uuid": "6805134c-f85d-4f29-ab49-90ce1391e096",
+            "vertical": false,
+            "translation": "17.798"
+        },
+        {
+            "bbox": [
+                1074.0,
+                1597.0,
+                1102.0,
+                1617.0
+            ],
+            "order": "189",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "d64795ba-ab4d-416e-8fde-4b0583832749",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                1191.0,
+                439.0,
+                1250.0,
+                459.0
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1,080",
+            "uuid": "46be69dd-a3dc-4c6a-9138-8482756a3be9",
+            "vertical": false,
+            "translation": "1.080"
+        },
+        {
+            "bbox": [
+                1175.0,
+                474.0,
+                1251.0,
+                493.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "77,398",
+            "uuid": "5e1b44ed-1939-4a38-ab69-5b7adb6113d0",
+            "vertical": false,
+            "translation": "77.398"
+        },
+        {
+            "bbox": [
+                1187.0,
+                509.0,
+                1251.0,
+                530.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "4,690",
+            "uuid": "4619123b-3503-4f2e-990d-25b1b56b198a",
+            "vertical": false,
+            "translation": "4.690"
+        },
+        {
+            "bbox": [
+                1188.0,
+                545.0,
+                1250.0,
+                564.0
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "2,315",
+            "uuid": "af055a50-b512-4cd5-b6f2-12997442f7c4",
+            "vertical": false,
+            "translation": "2.315"
+        },
+        {
+            "bbox": [
+                1188.0,
+                581.0,
+                1250.0,
+                601.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "9,520",
+            "uuid": "6d0e1fbb-2bc9-46fa-9fbb-e45fd2598db8",
+            "vertical": false,
+            "translation": "9.520"
+        },
+        {
+            "bbox": [
+                1209.0,
+                616.0000000000001,
+                1253.0,
+                634.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "552",
+            "uuid": "8df97325-e26c-437c-861b-c1064b833a7e",
+            "vertical": false,
+            "translation": "552"
+        },
+        {
+            "bbox": [
+                1174.0,
+                650.0,
+                1251.0,
+                672.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "28,739",
+            "uuid": "e00a360d-fbad-4ec4-bef7-c6862053fc15",
+            "vertical": false,
+            "translation": "28.739"
+        },
+        {
+            "bbox": [
+                1187.0,
+                686.0,
+                1250.0,
+                707.0
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "2,303",
+            "uuid": "562a9844-223b-4563-800d-1520dbc9f518",
+            "vertical": false,
+            "translation": "2.303"
+        },
+        {
+            "bbox": [
+                1189.0,
+                722.0,
+                1250.0,
+                741.0
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "5,001",
+            "uuid": "d6ce84d9-8920-4185-8e4a-7c9947e8283f",
+            "vertical": false,
+            "translation": "5.001"
+        },
+        {
+            "bbox": [
+                1174.0,
+                756.0,
+                1251.0,
+                778.0
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "51,124",
+            "uuid": "79132873-51d9-4e50-ac30-f4b0582c9430",
+            "vertical": false,
+            "translation": "51.124"
+        },
+        {
+            "bbox": [
+                1176.0,
+                792.0,
+                1250.0,
+                814.0
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "18,343",
+            "uuid": "44bbe025-d7d8-412d-b744-07a7e3fda262",
+            "vertical": false,
+            "translation": "18.343"
+        },
+        {
+            "bbox": [
+                1210.0,
+                829.0,
+                1253.0,
+                847.0
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "266",
+            "uuid": "b9e1ace2-5068-423d-b2bd-b793f45d5391",
+            "vertical": false,
+            "translation": "266"
+        },
+        {
+            "bbox": [
+                1209.0,
+                862.0,
+                1251.0,
+                883.0
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "246",
+            "uuid": "42989d01-f38c-445c-92d8-9c05cbb6767d",
+            "vertical": false,
+            "translation": "246"
+        },
+        {
+            "bbox": [
+                1225.6835937500002,
+                930.2734375,
+                1253.61328125,
+                958.3908804395749
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "98e0f818-80d6-4a43-ba74-b23d601f97b0",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1223.0,
+                899.0,
+                1250.0,
+                918.0
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "73",
+            "uuid": "98bf61b3-e6f8-4ffb-8489-d74e94a2b659",
+            "vertical": false,
+            "translation": "73"
+        },
+        {
+            "bbox": [
+                1322.0,
+                266.99999999999994,
+                1418.7295112035006,
+                320.2927892703303
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Mar. 31, 2003",
+            "uuid": "62076b79-5e10-4b5b-a3e5-677d0e5ff78a",
+            "vertical": false,
+            "translation": "31. März 2003"
+        },
+        {
+            "bbox": [
+                1325.0,
+                329.0,
+                1400.0,
+                350.0
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "24,903",
+            "uuid": "9fad203d-f506-4743-9f3c-36be35a93e43",
+            "vertical": false,
+            "translation": "24.903"
+        },
+        {
+            "bbox": [
+                1340.0,
+                365.00000000000006,
+                1403.0,
+                383.0
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "8,704",
+            "uuid": "dd8312aa-6aa8-48e2-9439-6444aee8400c",
+            "vertical": false,
+            "translation": "8.704"
+        },
+        {
+            "bbox": [
+                1327.0,
+                398.0,
+                1402.0,
+                419.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "18,174",
+            "uuid": "922783f0-b71b-4f96-82b1-86d321b88a0a",
+            "vertical": false,
+            "translation": "18.174"
+        },
+        {
+            "bbox": [
+                1242.0,
+                1373.0,
+                1314.0,
+                1391.0
+            ],
+            "order": "169",
+            "label": "Table cell",
+            "text": "CATV",
+            "uuid": "23c646c1-af5c-4b60-818d-0739844279ad",
+            "vertical": false,
+            "translation": "CATV"
+        },
+        {
+            "bbox": [
+                1272.0,
+                1403.0,
+                1312.0,
+                1423.0
+            ],
+            "order": "172",
+            "label": "Table cell",
+            "text": "551",
+            "uuid": "d112787a-baa2-49e2-871c-cccfa6fe9ffb",
+            "vertical": false,
+            "translation": "551"
+        },
+        {
+            "bbox": [
+                1287.0,
+                1435.0,
+                1312.0,
+                1454.0
+            ],
+            "order": "175",
+            "label": "Table cell",
+            "text": "16",
+            "uuid": "0d9f3370-9b2b-45ff-8bbd-4862dac3721d",
+            "vertical": false,
+            "translation": "16"
+        },
+        {
+            "bbox": [
+                1273.0,
+                1467.0,
+                1312.0,
+                1486.0
+            ],
+            "order": "178",
+            "label": "Table cell",
+            "text": "158",
+            "uuid": "f4d695d4-deb9-41e7-bb57-6accdd89f1bd",
+            "vertical": false,
+            "translation": "158"
+        },
+        {
+            "bbox": [
+                1286.0,
+                1500.0,
+                1313.0,
+                1519.0
+            ],
+            "order": "181",
+            "label": "Table cell",
+            "text": "36",
+            "uuid": "1389b106-c1c4-428b-9bc4-19356dde7c89",
+            "vertical": false,
+            "translation": "36"
+        },
+        {
+            "bbox": [
+                1274.0,
+                1533.0,
+                1313.0,
+                1551.0
+            ],
+            "order": "184",
+            "label": "Table cell",
+            "text": "162",
+            "uuid": "4689c838-b71b-435e-afc9-dbca26f199b3",
+            "vertical": false,
+            "translation": "162"
+        },
+        {
+            "bbox": [
+                1272.0,
+                1564.0,
+                1311.0,
+                1584.0
+            ],
+            "order": "187",
+            "label": "Table cell",
+            "text": "353",
+            "uuid": "34e830e1-f9e0-4607-92e7-f2ab84f7609e",
+            "vertical": false,
+            "translation": "353"
+        },
+        {
+            "bbox": [
+                1298.0,
+                1597.0,
+                1314.0,
+                1615.0
+            ],
+            "order": "190",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "116ec24d-2947-4271-a847-d5dcc638d9f2",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                1361.0,
+                439.0,
+                1404.0,
+                457.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "852",
+            "uuid": "8373aeaf-e04b-4222-a78d-96a21187a63c",
+            "vertical": false,
+            "translation": "852"
+        },
+        {
+            "bbox": [
+                1326.0,
+                473.0,
+                1402.0,
+                493.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "72,480",
+            "uuid": "35604e6f-4515-463b-b2f0-abe375e3d54b",
+            "vertical": false,
+            "translation": "72.480"
+        },
+        {
+            "bbox": [
+                1340.0,
+                508.0,
+                1402.0,
+                529.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "3,280",
+            "uuid": "a1574933-0576-4432-b40d-b57054111678",
+            "vertical": false,
+            "translation": "3.280"
+        },
+        {
+            "bbox": [
+                1339.0,
+                543.0,
+                1403.0,
+                565.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "2,805",
+            "uuid": "b8432729-04cf-46e0-8fbf-22d639a02612",
+            "vertical": false,
+            "translation": "2.805"
+        },
+        {
+            "bbox": [
+                1338.0,
+                580.0,
+                1401.0,
+                601.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "9,312",
+            "uuid": "5d86b523-34c4-40c8-bd8f-05a17726d623",
+            "vertical": false,
+            "translation": "9.312"
+        },
+        {
+            "bbox": [
+                1360.0,
+                616.0000000000001,
+                1404.0,
+                634.0
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "552",
+            "uuid": "d756ce03-c21b-491c-a9fd-41f790313d25",
+            "vertical": false,
+            "translation": "552"
+        },
+        {
+            "bbox": [
+                1325.0,
+                651.0,
+                1402.0,
+                671.0
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "28,729",
+            "uuid": "bf0fe648-de12-41dc-a286-a5b7e2755e6a",
+            "vertical": false,
+            "translation": "28.729"
+        },
+        {
+            "bbox": [
+                1342.0,
+                687.0,
+                1402.0,
+                707.0
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "1,562",
+            "uuid": "f5c5572e-e075-476e-8cd0-446b1f64326a",
+            "vertical": false,
+            "translation": "1.562"
+        },
+        {
+            "bbox": [
+                1340.0,
+                720.9999999999999,
+                1402.0,
+                742.0
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "5,074",
+            "uuid": "91364c52-78f8-434a-a583-3eb7d3daaf01",
+            "vertical": false,
+            "translation": "5.074"
+        },
+        {
+            "bbox": [
+                1325.0,
+                757.0,
+                1402.0,
+                779.0
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "48,380",
+            "uuid": "d08ebe22-b6e4-4b11-8198-c3f625d9c341",
+            "vertical": false,
+            "translation": "48.380"
+        },
+        {
+            "bbox": [
+                1328.0,
+                791.0,
+                1402.0,
+                814.0
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "18,685",
+            "uuid": "117fd7bd-18c7-48c2-ae88-82ac95ebdcba",
+            "vertical": false,
+            "translation": "18.685"
+        },
+        {
+            "bbox": [
+                1187.0,
+                1040.0,
+                1252.0,
+                1061.0
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "2,048",
+            "uuid": "c1bab4fc-d40b-4516-a394-6768f18a2c16",
+            "vertical": false,
+            "translation": "2.048"
+        },
+        {
+            "bbox": [
+                1190.0,
+                1076.0,
+                1253.0,
+                1099.0
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "1,574",
+            "uuid": "cf2eb50b-59ac-4811-9567-e2627a340a55",
+            "vertical": false,
+            "translation": "1.574"
+        },
+        {
+            "bbox": [
+                1175.0,
+                1116.0,
+                1252.0,
+                1135.0
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "$52.84",
+            "uuid": "c56a2505-ca01-4afc-baee-bae42e1c22a8",
+            "vertical": false,
+            "translation": "52,84 $"
+        },
+        {
+            "bbox": [
+                1175.0,
+                1154.0,
+                1251.0,
+                1174.0
+            ],
+            "order": "139",
+            "label": "Table cell",
+            "text": "$17.18",
+            "uuid": "e380844d-ba7c-4b3e-92cb-fc4afa8add3b",
+            "vertical": false,
+            "translation": "17,18 $"
+        },
+        {
+            "bbox": [
+                1188.0,
+                1190.0,
+                1252.0,
+                1210.0
+            ],
+            "order": "145",
+            "label": "Table cell",
+            "text": "$4.58",
+            "uuid": "43d9fb59-a082-4dd1-b2ea-a2e3263230ab",
+            "vertical": false,
+            "translation": "4,58 $"
+        },
+        {
+            "bbox": [
+                1195.0,
+                1230.0,
+                1248.0,
+                1247.0
+            ],
+            "order": "151",
+            "label": "Table cell",
+            "text": "1.9%",
+            "uuid": "d0da7ddf-6684-4a91-9b33-ce659b804328",
+            "vertical": false,
+            "translation": "1,9 %"
+        },
+        {
+            "bbox": [
+                1008.7963638476322,
+                1264.405792312556,
+                1100.505124197417,
+                1286.9215226376623
+            ],
+            "order": "156",
+            "label": "Table cell",
+            "text": "$418.22",
+            "uuid": "7679f2ea-fa84-4c41-a53a-6595c1f89c39",
+            "vertical": false,
+            "translation": "418,22 $"
+        },
+        {
+            "bbox": [
+                1023.0000000000001,
+                1302.0,
+                1097.0,
+                1323.0
+            ],
+            "order": "162",
+            "label": "Table cell",
+            "text": "$40.05",
+            "uuid": "51c3d1e0-e5ac-4e28-961c-4ff7e011d0c1",
+            "vertical": false,
+            "translation": "40,05 $"
+        },
+        {
+            "bbox": [
+                1168.0,
+                1303.0,
+                1250.0,
+                1324.0
+            ],
+            "order": "163",
+            "label": "Table cell",
+            "text": "$44.23",
+            "uuid": "b988db4b-06ff-41e1-862d-18450eb7e0f7",
+            "vertical": false,
+            "translation": "44,23 $"
+        },
+        {
+            "bbox": [
+                1327.0,
+                1303.0,
+                1402.0,
+                1323.0
+            ],
+            "order": "164",
+            "label": "Table cell",
+            "text": "$45.87",
+            "uuid": "818fd425-ca1f-4aff-9648-19ab4981dde2",
+            "vertical": false,
+            "translation": "45,87 $"
+        },
+        {
+            "bbox": [
+                1361.0,
+                829.0,
+                1404.0,
+                848.0
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "267",
+            "uuid": "58bf4930-9c20-4fd6-badf-c7c4f86c4af5",
+            "vertical": false,
+            "translation": "267"
+        },
+        {
+            "bbox": [
+                1361.0,
+                864.0,
+                1402.0,
+                881.0
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "240",
+            "uuid": "58fb0a5b-4245-42ae-b16b-4432753efa75",
+            "vertical": false,
+            "translation": "240"
+        },
+        {
+            "bbox": [
+                1377.1484375000002,
+                931.6433127866974,
+                1404.0,
+                970.9953725073855
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "c18c45b1-aa87-4069-b6c6-3e55953e043c",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1375.0,
+                903.0,
+                1403.0,
+                921.0
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "72",
+            "uuid": "664b3f06-e13e-4912-9557-8db4abb12d85",
+            "vertical": false,
+            "translation": "72"
+        },
+        {
+            "bbox": [
+                1339.0,
+                1038.0,
+                1404.0,
+                1061.0
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "2,048",
+            "uuid": "756a7ed2-4b98-4ddd-97cf-9861330ca8ae",
+            "vertical": false,
+            "translation": "2.048"
+        },
+        {
+            "bbox": [
+                1341.0,
+                1077.0,
+                1403.0,
+                1099.0
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "1,574",
+            "uuid": "0272b0dd-4057-417f-b47e-d66a5e1f1a71",
+            "vertical": false,
+            "translation": "1.574"
+        },
+        {
+            "bbox": [
+                1326.0,
+                1119.9999999999998,
+                1401.0,
+                1140.0
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "$52.22",
+            "uuid": "11828dff-6cbf-44c8-b3f6-e628c8dc629c",
+            "vertical": false,
+            "translation": "52,22 $"
+        },
+        {
+            "bbox": [
+                1327.0,
+                1152.0,
+                1400.0,
+                1172.0
+            ],
+            "order": "140",
+            "label": "Table cell",
+            "text": "$17.39",
+            "uuid": "36b6a5d5-b171-406e-af37-de7a90414e45",
+            "vertical": false,
+            "translation": "17,39 $"
+        },
+        {
+            "bbox": [
+                1340.0,
+                1190.0,
+                1403.0,
+                1210.0
+            ],
+            "order": "146",
+            "label": "Table cell",
+            "text": "$4.40",
+            "uuid": "0da8944c-aaeb-4c7c-9292-9ddf10fa420f",
+            "vertical": false,
+            "translation": "4,40 $"
+        },
+        {
+            "bbox": [
+                1343.0,
+                1229.0,
+                1400.0,
+                1247.0
+            ],
+            "order": "152",
+            "label": "Table cell",
+            "text": "2.3%",
+            "uuid": "42d26e77-c49f-4f01-8262-1abd996d2f84",
+            "vertical": false,
+            "translation": "2,3 %"
+        },
+        {
+            "bbox": [
+                167.3810161575306,
+                1751.9801543567892,
+                1367.112012208813,
+                1776.6691407501598
+            ],
+            "order": "197",
+            "label": "Footnote",
+            "text": "(1) - Wholesale Digital PCS Users are private label subscribers homed in the Company's wireless network service area.",
+            "uuid": "7ae007a6-970b-4994-9c5f-0a5744798bc4",
+            "vertical": false,
+            "translation": "(1) – Digitale PCS-Großkunden sind Privatkunden, die im Mobilfunknetzgebiet des Unternehmens ansässig sind."
+        },
+        {
+            "bbox": [
+                166.0,
+                1810.0,
+                1462.0,
+                2004.0
+            ],
+            "order": "199",
+            "label": "Footnote",
+            "text": "(3) - POPS refers to the estimated population of a given geographic area. Market POPS are those within a market area, and Covered POPS are those covered by the network's service area. ARPU is revenue before travel, roaming revenue, and management fee, net of adjustments divided by average subscribers. PCS Travel revenue includes roamer revenue and is divided by average subscribers. PCS Average management fee per subscriber is 8% of collected revenue excluding travel revenue, retained by Sprint. PCS Ave Monthly Churn is the average of three monthly calculations of deactivations (excluding returns less than 30 days) divided by beginning of period subscribers. CPGA includes selling costs, product costs, and advertising costs. CCPU includes network, customer care and other costs.",
+            "uuid": "4f446f7d-ad7b-4bbf-9e62-2919c35fe5bc",
+            "vertical": false,
+            "translation": "(3) – POPS bezieht sich auf die geschätzte Bevölkerung eines bestimmten geografischen Gebiets. Markt-POPS sind solche, die innerhalb eines Marktgebiets liegen, und abgedeckte POPS sind diejenigen, die vom Servicebereich des Netzwerks abgedeckt werden. ARPU sind die Einnahmen vor Reisen, Roaming-Einnahmen und Verwaltungsgebühren, abzüglich Anpassungen geteilt durch den Durchschnitt der Abonnenten. Die PCS Reiseeinnahmen beinhalten die Roaming-Einnahmen und werden durch den Durchschnitt der Abonnenten geteilt. PCS Durchschnitt ist die Verwaltungsgebühr pro Abonnent und beträgt 8 % der Gesamteinnahmen ohne Reiseeinnahmen, die von Sprint einbehalten werden. PCS Durchschnitt monatliche Abwanderung ist der Durchschnitt von drei monatlichen Berechnungen von Deaktivierungen (ohne Rückläufer von weniger als 30 Tagen) geteilt durch die Abonnenten zu Beginn des Berichtszeitraums. CPGA beinhaltet Verkaufskosten, Produktkosten und Werbekosten. CCPU beinhaltet Netzwerk-, Kundenbetreuungs- und andere Kosten."
+        },
+        {
+            "bbox": [
+                166.0,
+                2008.0,
+                1372.0,
+                2062.0
+            ],
+            "order": "200",
+            "label": "Footnote",
+            "text": "(4) - On a normalized basis, the 4th quarter PCS travel revenue per subscriber would be $19.25 and PCS CCPU would be approximately $38.66 if adjustments and true-ups recorded in December 2003 were excluded.",
+            "uuid": "777243fb-bddd-451d-8e83-5635fac9c810",
+            "vertical": false,
+            "translation": "(4) – Auf normalisierter Basis würde der PCS Travel-Umsatz pro Teilnehmer im 4. Quartal 19,25 $ und die PCS CCPU etwa 38,66 $ betragen, wenn die im Dezember 2003 vorgenommenen Anpassungen und Justierungen nicht berücksichtigt würden."
+        },
+        {
+            "bbox": [
+                1465.8367432957398,
+                265.00000000000006,
+                1561.1286890968108,
+                319.7913389945233
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Dec. 31, 2002",
+            "uuid": "db9d7f7a-287f-44e1-ae9b-3ff9add0ca85",
+            "vertical": false,
+            "translation": "31. Dezember 2002"
+        },
+        {
+            "bbox": [
+                1477.0,
+                330.0,
+                1554.0,
+                350.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "24,879",
+            "uuid": "b616330e-43d4-4967-aa00-ab999ac150fe",
+            "vertical": false,
+            "translation": "24.879"
+        },
+        {
+            "bbox": [
+                1492.0,
+                363.0,
+                1554.0,
+                384.00000000000006
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "8.677",
+            "uuid": "718734da-1e55-4ffc-9cd1-8a0df2b7cf77",
+            "vertical": false,
+            "translation": "8,677"
+        },
+        {
+            "bbox": [
+                1480.0,
+                400.0,
+                1553.0,
+                420.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "18,050",
+            "uuid": "f98f8718-f517-4dd0-b5cd-a7d102ec80db",
+            "vertical": false,
+            "translation": "18.050"
+        },
+        {
+            "bbox": [
+                1513.0,
+                437.0,
+                1554.0,
+                457.0
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "646",
+            "uuid": "b8a6b969-a47b-4ac3-a02c-4a6376fe16d3",
+            "vertical": false,
+            "translation": "646"
+        },
+        {
+            "bbox": [
+                1477.0,
+                473.0,
+                1554.0,
+                493.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "67,842",
+            "uuid": "43f55d9d-4896-4edf-bb96-e6360ec4f13e",
+            "vertical": false,
+            "translation": "67.842"
+        },
+        {
+            "bbox": [
+                1494.0,
+                509.0,
+                1554.0,
+                528.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "1,672",
+            "uuid": "504101ac-0ed3-4248-ad7a-b3a257645c72",
+            "vertical": false,
+            "translation": "1.672"
+        },
+        {
+            "bbox": [
+                1490.0,
+                545.0,
+                1555.0,
+                564.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "2,940",
+            "uuid": "dedc05ac-6079-4720-acb5-1b4e30f52b41",
+            "vertical": false,
+            "translation": "2.940"
+        },
+        {
+            "bbox": [
+                1491.0,
+                580.0,
+                1554.0,
+                600.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "9,310",
+            "uuid": "8d6d6e81-dd9c-48d2-b4e1-b12bd0fd32cc",
+            "vertical": false,
+            "translation": "9.310"
+        },
+        {
+            "bbox": [
+                1512.0,
+                615.0,
+                1554.0,
+                634.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "549",
+            "uuid": "efe0c735-f564-416c-aacf-ddc0899b12ad",
+            "vertical": false,
+            "translation": "549"
+        },
+        {
+            "bbox": [
+                1477.0,
+                651.0,
+                1553.0,
+                670.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "28,403",
+            "uuid": "e4877a0e-17bb-42fc-89db-62fe43b8710f",
+            "vertical": false,
+            "translation": "28.403"
+        },
+        {
+            "bbox": [
+                1512.0,
+                687.0,
+                1554.0,
+                705.0
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "530",
+            "uuid": "272625a0-91a2-45c2-83ea-dc9f2883f519",
+            "vertical": false,
+            "translation": "530"
+        },
+        {
+            "bbox": [
+                1491.0,
+                722.0,
+                1554.0,
+                741.0
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "5,969",
+            "uuid": "6a3885e0-3dd1-4e7e-9033-36145830ed18",
+            "vertical": false,
+            "translation": "5.969"
+        },
+        {
+            "bbox": [
+                1476.0,
+                758.0,
+                1554.0,
+                778.0
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "46,627",
+            "uuid": "39454a93-6255-4484-bb7c-d50776158fa1",
+            "vertical": false,
+            "translation": "46.627"
+        },
+        {
+            "bbox": [
+                1480.0,
+                793.0,
+                1551.0,
+                812.0
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "18,476",
+            "uuid": "3f029e05-9ebe-4b94-ad61-3d53c1e4f17a",
+            "vertical": false,
+            "translation": "18.476"
+        },
+        {
+            "bbox": [
+                1513.0,
+                828.0,
+                1555.0,
+                847.0
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "268",
+            "uuid": "5a5467ed-47d6-4303-9991-2da06d9699a8",
+            "vertical": false,
+            "translation": "268"
+        },
+        {
+            "bbox": [
+                1512.0,
+                864.0,
+                1555.0,
+                883.0
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "237",
+            "uuid": "5206f6a3-ff4b-44c4-ace4-e049d27fe26b",
+            "vertical": false,
+            "translation": "237"
+        },
+        {
+            "bbox": [
+                1527.0,
+                903.0,
+                1554.0,
+                921.0
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "72",
+            "uuid": "e30d2d2a-a993-41c6-a1ec-1ddbb0687cc6",
+            "vertical": false,
+            "translation": "72"
+        },
+        {
+            "bbox": [
+                1528.0,
+                938.0,
+                1554.0,
+                956.0
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "fc599c9f-edc5-4904-94ba-3a9a76f92518",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1490.0,
+                1039.0,
+                1555.0,
+                1060.0
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "2,048",
+            "uuid": "fbd70a69-fde8-4f91-9a52-3d8b26c66a90",
+            "vertical": false,
+            "translation": "2.048"
+        },
+        {
+            "bbox": [
+                1492.0,
+                1076.0,
+                1554.0,
+                1099.0
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "1,555",
+            "uuid": "e6356c65-0fe6-4150-a1bf-4cfef98fae71",
+            "vertical": false,
+            "translation": "1.555"
+        },
+        {
+            "bbox": [
+                1478.0,
+                1121.0,
+                1554.0,
+                1140.0
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "$51.38",
+            "uuid": "58ece42d-e706-4657-a5b9-ce8593617109",
+            "vertical": false,
+            "translation": "51,38 $"
+        },
+        {
+            "bbox": [
+                1478.0,
+                1152.0,
+                1554.0,
+                1173.0
+            ],
+            "order": "141",
+            "label": "Table cell",
+            "text": "$31.21",
+            "uuid": "cefb9659-193d-4c87-84f1-bf7dcc6889c0",
+            "vertical": false,
+            "translation": "31,21 $"
+        },
+        {
+            "bbox": [
+                1492.0,
+                1188.0,
+                1554.0,
+                1211.0
+            ],
+            "order": "147",
+            "label": "Table cell",
+            "text": "$4.64",
+            "uuid": "da676b41-6278-40c4-af4a-b105c24c0235",
+            "vertical": false,
+            "translation": "4,64 $"
+        },
+        {
+            "bbox": [
+                1495.0,
+                1228.0,
+                1552.0,
+                1248.0
+            ],
+            "order": "153",
+            "label": "Table cell",
+            "text": "2.8%",
+            "uuid": "6b68b407-3abf-4920-b0bf-fa2c55fc53ad",
+            "vertical": false,
+            "translation": "2,8 %"
+        },
+        {
+            "bbox": [
+                1464.0,
+                1265.0,
+                1552.0,
+                1284.0
+            ],
+            "order": "159",
+            "label": "Table cell",
+            "text": "$390.66",
+            "uuid": "ed751d63-dc2a-45be-a734-564e8a21695b",
+            "vertical": false,
+            "translation": "390,66 $"
+        },
+        {
+            "bbox": [
+                1478.0,
+                1303.0,
+                1555.0,
+                1323.0
+            ],
+            "order": "165",
+            "label": "Table cell",
+            "text": "$53.52",
+            "uuid": "4c417c58-da27-4a91-9aac-61948ce13af9",
+            "vertical": false,
+            "translation": "53,52 $"
+        },
+        {
+            "bbox": [
+                147.35310956651375,
+                436.803689045155,
+                338.66792032966697,
+                462.8711570885312
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "DSL Subscribers",
+            "uuid": "9bef50a7-94ee-4a29-8080-2a0d6d0388da",
+            "vertical": false,
+            "translation": "DSL-Abonnenten"
+        },
+        {
+            "bbox": [
+                148.98132072194485,
+                543.5173863477258,
+                363.9051932388489,
+                570.3994627674575
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Paging Subscribers",
+            "uuid": "9e173048-f5fc-47fb-be83-bcd436061d79",
+            "vertical": false,
+            "translation": "Paging-Teilnehmer"
+        },
+        {
+            "bbox": [
+                148.83121454518474,
+                1227.8693652751745,
+                508.8610097306792,
+                1254.8173609494515
+            ],
+            "order": "148",
+            "label": "Table cell",
+            "text": "PCS Average Monthly Churn %",
+            "uuid": "96011bae-57b1-44f9-b991-3ba215c12cff",
+            "vertical": false,
+            "translation": "PCS Durchschnitt monatliche Abwanderung in %"
+        },
+        {
+            "bbox": [
+                149.5399346144475,
+                1264.0364121011778,
+                533.6662121548766,
+                1290.9844077754547
+            ],
+            "order": "154",
+            "label": "Table cell",
+            "text": "PCS Cost Per Gross Add (CPGA)",
+            "uuid": "132fe3d4-c743-4a70-9140-c9ccf1037f45",
+            "vertical": false,
+            "translation": "PCS Kosten pro Bruttozusatz (CPGA)"
+        },
+        {
+            "bbox": [
+                1060.4138628423198,
+                1694.0319831685433,
+                1103.511968799049,
+                1716.5972455798594
+            ],
+            "order": "196",
+            "label": "Table cell",
+            "text": "313",
+            "uuid": "7ba23519-96c7-44db-a7dd-48bfae6ce308",
+            "vertical": false,
+            "translation": "313"
+        },
+        {
+            "bbox": [
+                1039.8670913978324,
+                1401.6864723730478,
+                1102.5096872651718,
+                1427.2604364392057
+            ],
+            "order": "171",
+            "label": "Table cell",
+            "text": "2,134",
+            "uuid": "87975278-376f-4bd1-a7db-92e0558e0ed2",
+            "vertical": false,
+            "translation": "2.134"
+        },
+        {
+            "bbox": [
+                1060.4138628423198,
+                1628.8957543123745,
+                1101.0062649643558,
+                1651.9624669994978
+            ],
+            "order": "192",
+            "label": "Table cell",
+            "text": "257",
+            "uuid": "619a2c3a-b91e-4c86-a890-22b5a3a17d71",
+            "vertical": false,
+            "translation": "257"
+        },
+        {
+            "bbox": [
+                1041.8716544655874,
+                1659.98567141241,
+                1102.008546498233,
+                1683.55383437534
+            ],
+            "order": "194",
+            "label": "Table cell",
+            "text": "1,622",
+            "uuid": "99c3fe78-463a-4595-b24c-a27a338bd1eb",
+            "vertical": false,
+            "translation": "1.622"
+        },
+        {
+            "bbox": [
+                1160.6420162300628,
+                1265.8457546280883,
+                1252.3507765798474,
+                1286.9066662119835
+            ],
+            "order": "157",
+            "label": "Table cell",
+            "text": "$376.98",
+            "uuid": "d4a15e23-d394-4da1-8950-01c4931947a7",
+            "vertical": false,
+            "translation": "376,98 $"
+        },
+        {
+            "bbox": [
+                1312.487668612493,
+                1264.8428540764744,
+                1403.1941474284006,
+                1286.4052159361763
+            ],
+            "order": "158",
+            "label": "Table cell",
+            "text": "$276.97",
+            "uuid": "ecea64f2-6a9c-4f13-b2ae-8193b9deae77",
+            "vertical": false,
+            "translation": "276,97 $"
+        },
+        {
+            "bbox": [
+                167.10921977260205,
+                1780.9141920397285,
+                873.5254669931471,
+                1805.9960562203519
+            ],
+            "order": "198",
+            "label": "Footnote",
+            "text": "(2) - Originated by customers of the Company's Telephone subsidiary",
+            "uuid": "0afe74d6-e25a-4c3c-a349-b3c5fc15dac1",
+            "vertical": false,
+            "translation": "(2) – verursacht von Kunden der Telefontochter des Unternehmens"
+        },
+        {
+            "bbox": [
+                133.06062052250493,
+                223.46943692642913,
+                1556.6203241411836,
+                1329.7739814376773
+            ],
+            "order": "2",
+            "label": "Table",
+            "text": "Telephone Access Lines Cable Television Subscribers Dial-up Internet Subscribers DSL Subscribers Retail PCS Subscribers Wholesale PCS Users (1) Paging Subscribers Long Distance Subscribers Fiber Route Miles Total Fiber Miles Wholesale PCS Minutes (000) Long Distance Calls (000) (2) Total Switched Access Minutes (000) Originating Switched Access MOU (000) (2) Employees (full time equivalents) CDMA Base Stations (sites) Towers (100 foot and over) Towers (under 100 foot) (See note (3) for definitions of terms) PCS Market POPS (000) PCS Covered POPS (000) PCS Average Revenue Per User (ARPU) (ex . Travel) PCS Travel Revenue per Subscriber (4) PCS Average Management. Fee per PCS Average Monthly Churn % PCS Cost Per Gross Add (CPGA) PCS Cash Cost Per User (CCPU) (4) Subscriber Dec. 31 , 2003 24,877 8,696 17,420 1,298 85,139 12,858 1,989 9,526 552 28,740 4,974 5,851 55,932 17,829 268 253 77 11 2,048 1,581 $52.05 $20.84 $4.02 2.0% $387.47 $36.31 Three Month Period Ended Sept 30, 2003 24,951 8,796 17,616 1,163 81,015 7,531 2,107 9,517 552 28,740 3,207 6,078 54,349 18,285 264 248 76 10 2,048 1,581 $55.09 $16.50 $4.62 2.2% Jun. 30, 2003 24,972 8,750 17,798 1,080 77,398 4,690 2,315 9,520 552 28,739 2,303 5,001 51,124 18,343 266 246 110 73 Mar. 31, 2003 24,903 8,704 18,174 852 72,480 3,280 2,805 9,312 552 28,729 1,562 5,074 48,380 18,685 2,048 1,574 $52.84 $17.18 $4.58 1.9% $418.22 $376.98 $276.97 $40.05 $44.23 $45.87 267 240 119 72 2,048 1,574 $52.22 $17.39 $4.40 2.3% Dec. 31, 2002 24,879 8.677 18,050 646 67,842 1,672 2,940 9,310 549 28,403 530 5,969 46,627 18,476 268 237 72 10 2,048 1,555 $51.38 $31.21 $4.64 2.8% $390.66 $53.52",
+            "uuid": "f14189e4-a22c-4078-9e8c-88982bd1a337",
+            "vertical": false,
+            "translation": "Telefonzugangsleitungen, Abonnenten von Kabelfernsehen, DFÜ-Internet-Abonnenten, DSL-Abonnenten, PCS-Abonnenten im Einzelhandel, Großhandels-PCS-Nutzer (1), Paging-Abonnenten, Ferngesprächsteilnehmer, Meilen an Glasfaserstrecken, Meilen an Glasfaserstrecken gesamt, PCS-Minuten Großkunden (000), Ferngespräche (000) (2), Gesamtzahl der geschalteten Minuten (000), Ursprünglicher geschalteter Zugang Absichtserklärung (000) (2), Mitarbeiter (Vollzeitäquivalente), CDMA-Basisstationen (Standorte), Türme (100 Fuß und mehr) Türme (unter 100 Fuß) (Begriffsdefinitionen siehe Anmerkung (3)) PCS Markt-POPS (000) PCS abgedeckte POPS (000) PCS Durchschnittseinnahmen pro Nutzer (ARPU) (z. B. Reisen) PCS Reiseeinnahmen pro Abonnent (4) PCS Durchschnitt Verwaltung. Gebühr pro Abonnent PCS Durchschnitt monatliche Abwanderung in % PCS Kosten pro Bruttozusatz (CPGA) PCS Bar-Kosten pro Nutzer (CCPU) (4) Abonnent 31. Dezember 2003 24.877 8.696 17.420 1.298 85.139 12.858 1.989 9.526 552 28.740 4.974 5.851 55.932 17.829 268 253 77 11 2.048 1.581 52,05 $ 20,84 $ 4,02 $ 2,0 % 387,47 $ 36,31 $ Dreimonatszeitraum bis zum 30. September 2003 24.951 8.796 17.616 1.163 81.015 7.531 2.107 9.517 552 28.740 3.207 6.078 54.349 18.285 264 248 76 10 2.048 1.581 55,09 $ 16,50 $ 4,62 $ 2,2 % 30. Juni 2003 24.972 8, 750 17.798 1.080 77.398 4.690 2.315 9.520 552 28.739 2.303 5.001 51.124 18.343 266 246 110 73 31. März 2003 24.903 8.704 18.174 852 72.480 3.280 2.805 9.312 552 28.729 1.562 5.074 48.380 18.685 2.048 1.574 52,84 $ 17,18 $ 4,58 $ 1,9 % 418,22 $ 376,98 $ 276,97 $ 40,05 44,23 $ 45,87 $ 267 240 119 72 2.048 1.574 52,22 $ 17,39 $ 4,40 $ 2,3 % 31. Dez. 2002 24.879 8,677 18.050 646 67.842 1.672 2.940 9.310 549 28.403 530 5.969 46.627 18.476 268 237 72 10 2.048 1.555 51,38 $ 31,21 $ 4,64 $ 2,8 % 390,66 $ 53,52 $"
+        },
+        {
+            "bbox": [
+                209.772062875435,
+                1364.3886758224644,
+                1325.2658560483367,
+                1727.3950067329552
+            ],
+            "order": "166",
+            "label": "Table",
+            "text": "PLANT FACILITIES AT DEC. 31, 2003 Route Miles Customers Per Route Mile Miles of Distribution Wire Telephone Poles Miles of Aerial Copper Cable Miles of Buried Copper Cable Miles of Underground Copper Cable Fiber Optic Cable-Fiber Miles Inter-toll Circuits to Interexchange Carriers Special Service Circuits to Interexchange Carriers Telephone 2,134 12 579 7,675 337 1,314 39 257 1,622 313 CATV 551 16 158 36 162 353 2",
+            "uuid": "7457b3d4-ff67-4140-9366-a7cc75d1ae54",
+            "vertical": false,
+            "translation": "WERKSEINRICHTUNGEN AM 31. DEZ. 2003 Streckenmeilen Kunden pro Streckenmeile Meilen Verteilerkabel Telefonmasten Meilen von Kupfer-Antennenkabel Meilen erdverlegter Kupferkabel Meilen unterirdischer Kupferkabel Glasfaserkabel-Fasermeilen Gebührenpflichtige Leitungen zu Austauschträgern Spezielle Serviceschaltungen zu Austauschträgern Telefon 2.134 12 579 7.675 337 1.314 39 257 1.622 313 CATV 551 16 158 36 162 353 2"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

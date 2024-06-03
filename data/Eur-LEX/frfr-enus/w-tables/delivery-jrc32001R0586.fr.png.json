@@ -1,0 +1,1379 @@
+{
+    "file": "jrc32001R0586.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                100.187842943526,
+                131.15679439266776,
+                248.6142769339349,
+                179.39538543955067
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "27.3.2001",
+            "uuid": "cc0f2739-7016-4962-a3ab-500e335893af",
+            "vertical": false,
+            "translation": "27.3.2001"
+        },
+        {
+            "bbox": [
+                332.07848357498904,
+                136.7429906628725,
+                370.8541148906314,
+                166.5703993672128
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "147026f0-1b76-44ca-961e-83bbcb224c0c",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                568.5445192601736,
+                133.96922935581313,
+                1098.6738683000651,
+                176.22591659812352
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "92276ea2-c68b-4a05-902d-d9bf45838337",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1440.568883260575,
+                126.2861953117569,
+                1540.448325833308,
+                172.3843995760953
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 86/13",
+            "uuid": "c2baeb99-7adb-4fac-9b39-cd9665dbd32b",
+            "vertical": false,
+            "translation": "L 86/13"
+        },
+        {
+            "bbox": [
+                127.63431600282944,
+                228.916549953223,
+                214.09627200474617,
+                270.0889099541357
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "NACE",
+            "uuid": "c8a3e364-1d3e-4e76-80df-ee5e16255d80",
+            "vertical": false,
+            "translation": "NACE"
+        },
+        {
+            "bbox": [
+                574.3544220127325,
+                237.15102195340546,
+                813.1541100180264,
+                268.03029195409005
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Descriptions NACE rév. 1",
+            "uuid": "5fc2c963-5170-473c-8eb9-d97e762adadc",
+            "vertical": false,
+            "translation": "NACE Descriptions Rev. 1"
+        },
+        {
+            "bbox": [
+                1204.2915300266973,
+                235.0924039533598,
+                1461.6187800324017,
+                263.9130559539987
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Nomenclature de synthèse",
+            "uuid": "fd1d35e4-21f2-4710-b831-172841d3bdeb",
+            "vertical": false,
+            "translation": "Synthesis nomenclature"
+        },
+        {
+            "bbox": [
+                102.93090000228182,
+                303.02679795486574,
+                170.8652940037878,
+                340.08192195568733
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "37",
+            "uuid": "e66622d0-65cb-497b-a2e9-6594e4b19732",
+            "vertical": false,
+            "translation": "37"
+        },
+        {
+            "bbox": [
+                242.91692400538508,
+                313.3198879550941,
+                389.07880200862525,
+                338.02330395564167
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Récupération",
+            "uuid": "148ff366-fc99-4b9b-a6f1-aecb4d186a00",
+            "vertical": false,
+            "translation": "Recovery"
+        },
+        {
+            "bbox": [
+                1152.8260800255562,
+                300.9681799548203,
+                1360.7464980301654,
+                335.964685955596
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Biens intermédiaires",
+            "uuid": "e7fea308-112e-4e3a-aa85-365eb5fe6de6",
+            "vertical": false,
+            "translation": "Intermediate goods"
+        },
+        {
+            "bbox": [
+                110.16554277271241,
+                363.3645996093574,
+                188.50548429997457,
+                402.53457037298847
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "28.1",
+            "uuid": "31f548fc-65ea-41e4-a4af-4e1da66dbb14",
+            "vertical": false,
+            "translation": "28.1"
+        },
+        {
+            "bbox": [
+                247.1193188114123,
+                362.04544950870167,
+                788.1975658821517,
+                400.8092642242174
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Fabrication d'éléments en métal pour la construction",
+            "uuid": "5cbdedaa-309a-43bd-9bce-e7db76af6d7d",
+            "vertical": false,
+            "translation": "Manufacture of metal components for the construction industry"
+        },
+        {
+            "bbox": [
+                1152.4551066084598,
+                364.4602506775053,
+                1394.4706789962368,
+                406.71693791981545
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "84eba9e1-cee3-4fb9-b148-f1fa36493a0a",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                116.58497829850353,
+                422.95122622459445,
+                174.87746744775527,
+                463.50252302407375
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "28.2",
+            "uuid": "926545ef-d6dd-4fad-9e3f-8a8e1d7f80a7",
+            "vertical": false,
+            "translation": "28.2"
+        },
+        {
+            "bbox": [
+                247.1136798982264,
+                426.07535293069395,
+                1050.233139567462,
+                461.3773072018692
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Fabrication de réservoirs métalliques et de chaudières pour le chauffage central",
+            "uuid": "b50cc0dc-9a35-41d3-bf65-360978eec0f1",
+            "vertical": false,
+            "translation": "Manufacture of metal tanks and boilers for central heating"
+        },
+        {
+            "bbox": [
+                1149.993169893631,
+                428.26696631437426,
+                1376.1154224008058,
+                460.57014524397067
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "b521b94e-1c30-492c-8b89-dcbe6a7a4e54",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                109.36716524924788,
+                491.6891542445223,
+                180.95294613966465,
+                525.4935507761081
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "28.3",
+            "uuid": "3d420163-7e00-4b2c-8342-ea9a66ac89e2",
+            "vertical": false,
+            "translation": "28.3"
+        },
+        {
+            "bbox": [
+                253.54012345386118,
+                491.2303124044357,
+                403.35928731296093,
+                533.4869996467461
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Chaudronnerie",
+            "uuid": "3235a2be-80a1-45d0-af4a-0573aae79934",
+            "vertical": false,
+            "translation": "Boilermaking"
+        },
+        {
+            "bbox": [
+                1156.296623630488,
+                483.5472783603795,
+                1382.946127930152,
+                533.4869996467461
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "f49a7bc3-25c7-4c8d-b2cc-a7ebdaa94bf7",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                103.7209595947614,
+                556.5361017789153,
+                172.868265991269,
+                594.9512719991972
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "29.1",
+            "uuid": "66f840c7-7e32-4c17-86e5-453e36e7ca94",
+            "vertical": false,
+            "translation": "29.1"
+        },
+        {
+            "bbox": [
+                247.03416000547634,
+                552.1195759603879,
+                634.054344014056,
+                595.3505539613462
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Fabrication d'équipements mécaniques",
+            "uuid": "d49023f9-24dc-41cd-a14f-12b9cc4424a1",
+            "vertical": false,
+            "translation": "Manufacture of mechanical equipment"
+        },
+        {
+            "bbox": [
+                1154.3758651194742,
+                548.8530677348588,
+                1381.0253694191379,
+                593.030513488183
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "97daa1d0-bed2-4e52-8d07-0dd05765b9f5",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                115.29835751500394,
+                615.148947397624,
+                174.3536138031767,
+                660.143428379089
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "29.2",
+            "uuid": "fa9d91db-dc9e-4193-b94d-54a2bfb86226",
+            "vertical": false,
+            "translation": "29.2"
+        },
+        {
+            "bbox": [
+                250.2818004593988,
+                615.148947397624,
+                669.2929045992912,
+                660.143428379089
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Fabrication de machines d'usage général",
+            "uuid": "56496a1b-dc3e-4d16-a62e-6a6a78306007",
+            "vertical": false,
+            "translation": "Manufacture of general purpose machinery"
+        },
+        {
+            "bbox": [
+                1158.6078852727226,
+                615.148947397624,
+                1377.955980057364,
+                660.143428379089
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "6c623767-e96c-45c2-af97-fe8a9b7112d3",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                118.1105125763455,
+                679.8285138084799,
+                171.54145874183516,
+                719.1986846672618
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "29.3",
+            "uuid": "a11860da-56d5-47f6-b2bb-6a6b00314b0c",
+            "vertical": false,
+            "translation": "29.3"
+        },
+        {
+            "bbox": [
+                244.65749033671568,
+                677.0163587471383,
+                596.1768730044106,
+                719.1986846672618
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Fabrication de machines agricoles",
+            "uuid": "2dabfbca-0623-4a20-a518-8cd87f526199",
+            "vertical": false,
+            "translation": "Manufacture of agricultural machinery"
+        },
+        {
+            "bbox": [
+                1150.171420088698,
+                682.6406688698213,
+                1380.768135118706,
+                716.38652960592
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "e554c695-255f-412e-ae5c-4118af1cbe68",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                112.48620245366239,
+                741.6959251579941,
+                171.54145874183516,
+                783.8782510781176
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "29.4",
+            "uuid": "dbf3ec82-c867-4ad5-9da8-d06cd9e49f7f",
+            "vertical": false,
+            "translation": "29.4"
+        },
+        {
+            "bbox": [
+                244.65749033671568,
+                741.6959251579941,
+                565.2431673296535,
+                783.8782510781176
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Fabrication de machines-outils",
+            "uuid": "21010c84-c997-463b-b51e-38a1bce024c2",
+            "vertical": false,
+            "translation": "Machine tool manufacturing"
+        },
+        {
+            "bbox": [
+                1152.8260800255562,
+                747.6882859647233,
+                1373.0982060304395,
+                782.684791965499
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "26d0efdf-14a4-455e-bd8c-fa895d4eb562",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                111.40399363881778,
+                813.9177422548047,
+                172.868265991269,
+                840.808361409002
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "29.5",
+            "uuid": "ff96cb5e-528c-46d0-9c2b-94bd0b581c9d",
+            "vertical": false,
+            "translation": "29.5"
+        },
+        {
+            "bbox": [
+                248.29676657306928,
+                809.0189716878496,
+                735.431375278329,
+                849.2194005615845
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Fabrication d'autres machines d'usage spécifique",
+            "uuid": "52fde643-5434-4840-bb17-fdcae7c5204f",
+            "vertical": false,
+            "translation": "Manufacture of other special-purpose machinery"
+        },
+        {
+            "bbox": [
+                1153.9887817872172,
+                813.7484339082888,
+                1378.6382372580895,
+                849.2194005615845
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "cea8b656-d07b-47d3-b971-3ffa4733d56f",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                115.87182440076565,
+                875.2314427740013,
+                170.26063993581892,
+                908.3376783170772
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "29.6",
+            "uuid": "91f8d559-3792-4a42-9f1f-2e3c6b4d2889",
+            "vertical": false,
+            "translation": "29.6"
+        },
+        {
+            "bbox": [
+                248.29676657306928,
+                872.8667116637815,
+                633.7479375388815,
+                913.0671405375165
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Fabrication d'armes et de munitions",
+            "uuid": "052147d3-0fb8-4e70-9db0-63062cc9e9a7",
+            "vertical": false,
+            "translation": "Manufacture of weapons and ammunition"
+        },
+        {
+            "bbox": [
+                1153.9887817872172,
+                872.8667116637815,
+                1381.002968368309,
+                910.7024094272967
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "af71e913-37e3-4cbe-9917-3e36ad5d742a",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                111.14236218032624,
+                934.349720529494,
+                153.70752216428096,
+                974.5501494032289
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "0954cce6-09a6-43fa-9de7-46c6c6d51dd9",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                245.93203546284954,
+                936.7144516397137,
+                903.3272841039282,
+                974.5501494032289
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Fabrication de machines de bureau et de matériel informatique",
+            "uuid": "797ef55a-616f-4e38-84f8-3cb8601c1e3d",
+            "vertical": false,
+            "translation": "Manufacture of office machines and computer equipment"
+        },
+        {
+            "bbox": [
+                1151.6240506769973,
+                934.349720529494,
+                1378.6382372580895,
+                974.5501494032289
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "31971c62-6cf3-468e-8a9f-f4b337359fe5",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                113.50709329054594,
+                998.197460505426,
+                165.5311777153795,
+                1033.6684271587217
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "31.1",
+            "uuid": "7d8f0daa-a890-432a-b8ca-54e8dd61b90f",
+            "vertical": false,
+            "translation": "31.1"
+        },
+        {
+            "bbox": [
+                249.092778005522,
+                1000.8982999703366,
+                909.9091560201713,
+                1035.8948059711122
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Fabrication de moteurs, génératrices et transformateurs électriques",
+            "uuid": "b534e0b8-07f5-458b-afd5-4554f3958ce3",
+            "vertical": false,
+            "translation": "Manufacture of electric motors, generators and transformers"
+        },
+        {
+            "bbox": [
+                1150.7674620255107,
+                998.8396819702908,
+                1381.332678030622,
+                1040.0120419712036
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "4bf1eec4-353a-4105-88b7-bb99a13f22df",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                109.10675400241871,
+                1064.7154579717512,
+                172.92391200383346,
+                1099.711963972527
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "32.2",
+            "uuid": "e2d1dcfe-4be0-4962-a0f6-45f8377cc2f8",
+            "vertical": false,
+            "translation": "32.2"
+        },
+        {
+            "bbox": [
+                247.03416000547634,
+                1060.59822197166,
+                794.6265480176155,
+                1101.7705819725727
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Fabrication d'appareils d'émission et de transmission",
+            "uuid": "42cbd77e-305c-4b29-a4cc-4146fb4fe5d1",
+            "vertical": false,
+            "translation": "Manufacture of emission and transmission apparatus"
+        },
+        {
+            "bbox": [
+                1150.7674620255107,
+                1062.6568399717057,
+                1375.1568240304848,
+                1103.8291999726184
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "d921699c-4cea-4365-b3a7-9ff38860ad68",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                111.16537200246435,
+                1126.4739979731203,
+                174.98253000387908,
+                1163.5291219739418
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "33.1",
+            "uuid": "39f83ca1-f853-4af9-a3b6-93dc3a5fab6a",
+            "vertical": false,
+            "translation": "33.1"
+        },
+        {
+            "bbox": [
+                249.092778005522,
+                1118.2395259729378,
+                823.4472000182545,
+                1167.646357974033
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Fabrication de matériel médico-chirurgical et d'orthopédie",
+            "uuid": "b545d587-d48b-48d7-be6e-f11276f53fa1",
+            "vertical": false,
+            "translation": "Manufacture of medical, surgical and orthopaedic equipment"
+        },
+        {
+            "bbox": [
+                1154.884698025602,
+                1126.4739979731203,
+                1373.0982060304395,
+                1167.646357974033
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "102f6e37-add1-4288-bd42-dd05bc213fe9",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                113.22399000250998,
+                1192.3497739745806,
+                172.92391200383346,
+                1229.4048979754023
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "33.2",
+            "uuid": "16ea5e08-c51e-4a01-8307-20288b8ee562",
+            "vertical": false,
+            "translation": "33.2"
+        },
+        {
+            "bbox": [
+                244.9755420054307,
+                1188.2325379744893,
+                767.8645140170222,
+                1225.2876619753108
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Fabrication d'instruments de mesure et de contrôle",
+            "uuid": "5aa39803-3de0-4b3b-af04-b5bde0a9c4ed",
+            "vertical": false,
+            "translation": "Manufacture of measuring and control instruments"
+        },
+        {
+            "bbox": [
+                1153.3264699011595,
+                1189.650517926086,
+                1376.0377882269004,
+                1227.4319022849172
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "d607b5ff-2e39-4987-93c1-6cf310d8d911",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                107.37867133562519,
+                1251.2938292483893,
+                184.92993396691006,
+                1289.0752136072203
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "33.3",
+            "uuid": "03d093ac-472d-49ad-8445-99813ef63e4c",
+            "vertical": false,
+            "translation": "33.3"
+        },
+        {
+            "bbox": [
+                246.57324528921336,
+                1251.2938292483893,
+                886.8682854757191,
+                1295.0406953480885
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Fabrication d'équipements de contrôle des processus industriels",
+            "uuid": "b4e66189-9d6d-4542-8603-6e245ab645e7",
+            "vertical": false,
+            "translation": "Manufacture of industrial process control equipment"
+        },
+        {
+            "bbox": [
+                1155.314963814782,
+                1253.282323162012,
+                1380.0147760541458,
+                1293.0522014344656
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "97b4297e-a7a4-48b5-acc3-d8fe4842f360",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                111.35565916287055,
+                1316.9141283979382,
+                157.09101917619242,
+                1352.7070188431464
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "34",
+            "uuid": "362f18d9-de6d-4e04-b101-ab8159eeb82f",
+            "vertical": false,
+            "translation": "34"
+        },
+        {
+            "bbox": [
+                242.596257461968,
+                1314.9256344843154,
+                461.33058796046373,
+                1352.7070188431464
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Industrie automobile",
+            "uuid": "6b430649-e295-4ef4-9ba5-aaaa45b12459",
+            "vertical": false,
+            "translation": "Automotive industry"
+        },
+        {
+            "bbox": [
+                1151.3379759875365,
+                1314.9256344843154,
+                1370.0723064860324,
+                1360.6609944976371
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "523bdb1d-7145-4592-9a49-eb0cda5686d9",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                111.35565916287055,
+                1378.5574397202413,
+                171.0104765715512,
+                1418.3273179926953
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "35.1",
+            "uuid": "7eb705aa-f0a0-4452-8428-4628e6fcd8cd",
+            "vertical": false,
+            "translation": "35.1"
+        },
+        {
+            "bbox": [
+                246.57324528921336,
+                1380.5459336338643,
+                455.3651062195957,
+                1414.35033016545
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Construction navale",
+            "uuid": "d9aff7d5-1146-47ca-899b-a4fddefaf198",
+            "vertical": false,
+            "translation": "Shipbuilding"
+        },
+        {
+            "bbox": [
+                1153.3264699011595,
+                1380.5459336338643,
+                1372.0608003996551,
+                1418.3273179926953
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "3025fa05-49b5-44e5-a6d0-7cdc1b82f5ff",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                107.5771714315045,
+                1444.2727937038285,
+                178.42067456932452,
+                1483.630295447062
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "35.2",
+            "uuid": "c02d7baf-e678-47db-9c4f-dd6d228a0ea1",
+            "vertical": false,
+            "translation": "35.2"
+        },
+        {
+            "bbox": [
+                246.64034425759564,
+                1439.0251268047305,
+                703.1873644791025,
+                1486.2541288966106
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Construction de matériel ferroviaire roulant",
+            "uuid": "160ccdd0-cf0c-47bd-91d2-fe08f042acc9",
+            "vertical": false,
+            "translation": "Construction of railway rolling stock"
+        },
+        {
+            "bbox": [
+                1149.239050902414,
+                1441.6489602542797,
+                1374.8887275636184,
+                1478.382628547964
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "11f26651-c203-4535-8f65-f25dcf301c1e",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                99.70567108285782,
+                1507.2447964930018,
+                181.04450801887344,
+                1541.3546313371373
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "35.3",
+            "uuid": "5f05ce0c-e94a-4caa-827a-aa1ce3c646c5",
+            "vertical": false,
+            "translation": "35.3"
+        },
+        {
+            "bbox": [
+                249.26417770714454,
+                1507.2447964930018,
+                624.4723609926359,
+                1543.9784647866863
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Construction aéronautique et spatiale",
+            "uuid": "0af403e7-d18d-48d6-9f88-2424a2a03007",
+            "vertical": false,
+            "translation": "Aeronautical and space engineering"
+        },
+        {
+            "bbox": [
+                1154.4867178015118,
+                1504.6209630434528,
+                1374.8887275636184,
+                1546.602298236235
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Biens d'investissement",
+            "uuid": "1d8d9009-dc09-4049-a270-830cedb05f2b",
+            "vertical": false,
+            "translation": "Capital goods"
+        },
+        {
+            "bbox": [
+                99.70567108285782,
+                1570.2167992821753,
+                178.42067456932452,
+                1609.5743010254084
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "29.7",
+            "uuid": "a45b6e5c-d608-4b4a-aecb-5e772d7d1082",
+            "vertical": false,
+            "translation": "29.7"
+        },
+        {
+            "bbox": [
+                246.64034425759564,
+                1570.2167992821753,
+                611.3531937448914,
+                1604.3266341263109
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Fabrication d'appareils domestiques",
+            "uuid": "6c94b83e-cef8-4082-9ce2-6e2a4e086709",
+            "vertical": false,
+            "translation": "Manufacture of household appliances"
+        },
+        {
+            "bbox": [
+                1151.8628843519627,
+                1572.840632731724,
+                1477.218232096025,
+                1609.5743010254084
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "89edef1f-f5a8-49fb-ac6f-77a0218c0b94",
+            "vertical": false,
+            "translation": "Durable consumer goods"
+        },
+        {
+            "bbox": [
+                101.6834377394474,
+                1631.9453980443075,
+                177.35483326647804,
+                1669.7810958078228
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "32.3",
+            "uuid": "f0c58893-142d-4297-a17e-1455435e8288",
+            "vertical": false,
+            "translation": "32.3"
+        },
+        {
+            "bbox": [
+                250.55023311645877,
+                1633.0846606639457,
+                1129.4645429376872,
+                1678.8200206772674
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Fabrication d'appareils de réception , enregistrement ou reproduction du son et de l'image",
+            "uuid": "694f4511-015f-48f3-94a4-700b55531da4",
+            "vertical": false,
+            "translation": "Manufacture of sound and image reception, recording or reproduction equipment"
+        },
+        {
+            "bbox": [
+                1151.3379759875365,
+                1635.0731545775682,
+                1483.4164595625257,
+                1670.8660450227767
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "87b981f6-a623-4b14-b0c7-6e554fac43a9",
+            "vertical": false,
+            "translation": "Durable consumer goods"
+        },
+        {
+            "bbox": [
+                101.41318959475711,
+                1702.6819476407397,
+                190.89541570777808,
+                1736.4863441723253
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "33.4",
+            "uuid": "a133f39c-4747-4c9e-945a-ea28a1b2a35a",
+            "vertical": false,
+            "translation": "33.4"
+        },
+        {
+            "bbox": [
+                242.596257461968,
+                1694.7279719862488,
+                765.5701567447351,
+                1740.4633319995708
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Fabrication de matériels optique et photographique",
+            "uuid": "bbc18102-6bb2-4c13-8ab4-c8953a460d47",
+            "vertical": false,
+            "translation": "Manufacture of optical and photographic equipment"
+        },
+        {
+            "bbox": [
+                1149.3494820739138,
+                1696.7164658998713,
+                1483.4164595625257,
+                1736.4863441723253
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "734a5b77-db7a-43d7-9bf2-1a84c28e1ae0",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                105.39017742200248,
+                1756.3712833085522,
+                176.9759583124193,
+                1798.1296554946289
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "33.5",
+            "uuid": "7daac397-c599-465c-b619-f87bb59a2f3a",
+            "vertical": false,
+            "translation": "33.5"
+        },
+        {
+            "bbox": [
+                244.58475137559068,
+                1760.3482711357979,
+                375.82534967468814,
+                1800.1181494082514
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Horlogerie",
+            "uuid": "509213ad-6f84-4fd4-9152-d66b1d63b76c",
+            "vertical": false,
+            "translation": "Watchmaking"
+        },
+        {
+            "bbox": [
+                1149.3494820739138,
+                1760.3482711357979,
+                1473.4739899944122,
+                1798.1296554946289
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "f9d5b7fe-2f0d-41a6-98fb-7173256e12c4",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                109.36716524924788,
+                1825.9685702853465,
+                176.9759583124193,
+                1859.7729668169322
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "35.4",
+            "uuid": "9eca821b-d770-4659-9d1d-c8b335ad2cdc",
+            "vertical": false,
+            "translation": "35.4"
+        },
+        {
+            "bbox": [
+                246.57324528921336,
+                1821.991582458101,
+                684.0419062862048,
+                1865.7384485578
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "Fabrication de motocycles et de bicyclettes",
+            "uuid": "5567f325-cda7-4394-93ca-0b7042c1aa62",
+            "vertical": false,
+            "translation": "Manufacture of motorcycles and bicycles"
+        },
+        {
+            "bbox": [
+                1147.3609881602913,
+                1820.0030885444783,
+                1475.4624839080348,
+                1863.7499546441775
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "6fad3cc2-c6c0-4462-9d9d-817aac262571",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                107.37867133562519,
+                1885.623387694027,
+                178.96445222604197,
+                1921.4162781392354
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "35.5",
+            "uuid": "09b81022-6948-41f9-a477-ec9adb36565f",
+            "vertical": false,
+            "translation": "35.5"
+        },
+        {
+            "bbox": [
+                246.57324528921336,
+                1889.6003755212726,
+                843.1214193760198,
+                1925.3932659664806
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Fabrication de matériels de transport non compris ailleurs",
+            "uuid": "dbacd181-c106-4181-b31a-d6150a962f80",
+            "vertical": false,
+            "translation": "Manufacture of transport equipment not elsewhere classified"
+        },
+        {
+            "bbox": [
+                1151.3379759875365,
+                1885.623387694027,
+                1479.4394717352804,
+                1929.370253793726
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "45ee08fd-280f-4eaa-af9b-cf8d2134b082",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                107.37867133562519,
+                1953.2321807571984,
+                182.94144005328735,
+                1985.0480833751615
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "36.1",
+            "uuid": "84a7fa70-728c-42e2-b6a5-4bfabef5d0ca",
+            "vertical": false,
+            "translation": "36.1"
+        },
+        {
+            "bbox": [
+                244.58475137559068,
+                1949.2551929299532,
+                507.06594797378557,
+                1994.990552943275
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Fabrication de meubles",
+            "uuid": "de4d2f9c-99dc-4b75-b99a-df1e6b2f5509",
+            "vertical": false,
+            "translation": "Furniture manufacturing"
+        },
+        {
+            "bbox": [
+                1155.314963814782,
+                1951.2436868435757,
+                1473.4739899944122,
+                1993.0020590296522
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "76ffb47a-eafb-4b86-a1e1-73ccf5a0500e",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                109.36716524924788,
+                2014.8754920795018,
+                182.94144005328735,
+                2054.6453703519555
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "36.2",
+            "uuid": "377e72e9-46d5-485e-be8a-037b18ec7361",
+            "vertical": false,
+            "translation": "36.2"
+        },
+        {
+            "bbox": [
+                249.092778005522,
+                2015.796973992835,
+                366.4340040081232,
+                2054.910715993702
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "Bijouterie",
+            "uuid": "36192ada-6127-480a-81ef-39f3f2164649",
+            "vertical": false,
+            "translation": "Jewelry"
+        },
+        {
+            "bbox": [
+                1149.9735706869167,
+                2015.8428700094994,
+                1490.598653649877,
+                2050.7787759544185
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "58353ae3-db07-41fe-9088-86128588de23",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                116.45301981639663,
+                2076.9807054131074,
+                180.50218071541477,
+                2120.6505878442563
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "36.3",
+            "uuid": "2e17c5dc-1344-46fa-abac-6104bd09ae57",
+            "vertical": false,
+            "translation": "36.3"
+        },
+        {
+            "bbox": [
+                247.4626671098428,
+                2076.9807054131074,
+                646.3142599810013,
+                2123.5619133396663
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "Fabrication d'instruments de musique",
+            "uuid": "312cea96-aadb-4f23-9ed5-9d65a2c64abf",
+            "vertical": false,
+            "translation": "Manufacture of musical instruments"
+        },
+        {
+            "bbox": [
+                1155.7962216777366,
+                2074.0693799176975,
+                1478.9533516682372,
+                2123.5619133396663
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "Biens de consommation durables",
+            "uuid": "5d2d9927-ead2-4e55-a776-79df8b99e735",
+            "vertical": false,
+            "translation": "Consumer durables"
+        },
+        {
+            "bbox": [
+                110.63036882557681,
+                2138.1185408167157,
+                174.67952972459491,
+                2184.6997487432745
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "15.1",
+            "uuid": "40ce7d5e-122a-461d-a078-eb10c92cb3e4",
+            "vertical": false,
+            "translation": "15.1"
+        },
+        {
+            "bbox": [
+                247.4626671098428,
+                2143.9411918075357,
+                471.6347302564063,
+                2184.6997487432745
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Industrie des viandes",
+            "uuid": "309f8c85-8f9e-41ab-9dfb-685d0e8ab5b6",
+            "vertical": false,
+            "translation": "Meat industry"
+        },
+        {
+            "bbox": [
+                1155.7962216777366,
+                2141.0298663121257,
+                1519.7119086039759,
+                2184.6997487432745
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Biens de consommation non durables",
+            "uuid": "097076aa-d6a6-469b-a995-91a739570764",
+            "vertical": false,
+            "translation": "Consumer non-durables"
+        },
+        {
+            "bbox": [
+                84.36465184024678,
+                198.94999831907316,
+                1543.8731286765162,
+                2212.4530222396297
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "85a8d284-00ad-4054-903d-d32964f6ecdb",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

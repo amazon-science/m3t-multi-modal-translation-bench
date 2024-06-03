@@ -1,0 +1,455 @@
+{
+    "file": "jrc32004L0010.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.69368649962841,
+                140.51397965258596,
+                227.08872501610662,
+                160.56295924492431
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "20.2.2004",
+            "uuid": "ead41199-2e83-48e4-a01b-4758ab00190e",
+            "vertical": false,
+            "translation": "2004 年 2 月 20 日"
+        },
+        {
+            "bbox": [
+                333.6164214189504,
+                143.32787152519475,
+                361.0393927701774,
+                161.61816869715284
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "47879310-19f3-41d8-bd4d-c163d0049fc2",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                622.3421660585906,
+                137.53091156260086,
+                1032.6677817585403,
+                166.85321644041676
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "5f8c76e7-41f9-4767-95eb-9b48e5d9ecbf",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1451.1125299010007,
+                138.38057583217991,
+                1536.935518522102,
+                166.92389883680167
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 50/45",
+            "uuid": "ff312f86-878c-429d-b12e-4f3bae61575b",
+            "vertical": false,
+            "translation": "L 50/45"
+        },
+        {
+            "bbox": [
+                410.2701623731748,
+                362.3878046397949,
+                496.7890130641766,
+                384.43346061897415
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "834fd77a-d2c7-46c0-a4b5-11e1e26892b0",
+            "vertical": false,
+            "translation": "第 2 条"
+        },
+        {
+            "bbox": [
+                410.5225661938815,
+                533.0777306909889,
+                496.0677808400283,
+                556.5023668583249
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Article 3",
+            "uuid": "8e3a15dc-35e2-4b8b-a13c-8bfd73159fec",
+            "vertical": false,
+            "translation": "第 3 条"
+        },
+        {
+            "bbox": [
+                1156.0889426732133,
+                700.5648906497132,
+                1242.7591038047024,
+                722.1351502065072
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "Article 6",
+            "uuid": "d5f0573f-10b0-47df-8a52-9324bd9d49be",
+            "vertical": false,
+            "translation": "第 6 条"
+        },
+        {
+            "bbox": [
+                409.25350760014925,
+                927.5726769833749,
+                497.09205955479115,
+                949.5928090588366
+            ],
+            "order": "11",
+            "label": "Section-header",
+            "text": "Article 4",
+            "uuid": "697c8334-26f0-4bff-a9ad-c412e6780889",
+            "vertical": false,
+            "translation": "第 4 条"
+        },
+        {
+            "bbox": [
+                409.5120550189966,
+                1096.4420149193159,
+                496.0256090312082,
+                1119.8212487089238
+            ],
+            "order": "13",
+            "label": "Section-header",
+            "text": "Article 5",
+            "uuid": "a51b0824-1818-4063-9abf-6b7934a1060c",
+            "vertical": false,
+            "translation": "第 5 条"
+        },
+        {
+            "bbox": [
+                1155.8146111754756,
+                985.4480485824689,
+                1243.727328035807,
+                1007.1080436845006
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "Article 7",
+            "uuid": "c17bfa57-509e-42b5-a733-cdfaba9a4168",
+            "vertical": false,
+            "translation": "第 7 条"
+        },
+        {
+            "bbox": [
+                1156.6350659003037,
+                1163.7276231549483,
+                1242.5795876070456,
+                1185.223527384995
+            ],
+            "order": "24",
+            "label": "Section-header",
+            "text": "Article 8",
+            "uuid": "d2d2721f-bedc-49a1-b33c-eff37df2891c",
+            "vertical": false,
+            "translation": "第 8 条"
+        },
+        {
+            "bbox": [
+                113.78069313012776,
+                211.09476334303747,
+                792.7930745476286,
+                326.45120315124893
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "2. Paragraph 1 shall apply also where other Community provisions provide for the application of the principles of GLP in respect of tests on chemical products to evaluate their safety for man and/or the environment.",
+            "uuid": "74ac68d0-f014-4830-8a2b-34e641c48cc4",
+            "vertical": false,
+            "translation": "2. 如果共同体的其他规定要求在化学产品测试中应用 GLP 原则以评估其对人类和/或环境的安全性情况，则第 1 段也适用。"
+        },
+        {
+            "bbox": [
+                115.48386467330707,
+                408.07747948337624,
+                793.648727326521,
+                498.52638048624607
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "When submitting results, the laboratories referred to in Article 1 shall certify that the tests have been carried out in conformity with the principles of GLP referred to in that Article.",
+            "uuid": "93d18c49-26a9-4c6e-92df-fa2e1de256fd",
+            "vertical": false,
+            "translation": "在提交结果时，第 1 条所述的实验室应证明测试已按照该条所述的 GLP 原则进行。"
+        },
+        {
+            "bbox": [
+                114.78097764874319,
+                578.4733856923015,
+                793.8083056371229,
+                721.560626063298
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "1. Member States shall adopt the measures necessary for verification of compliance with the principles of GLP. These measures shall include, in particular, inspections and study checks in accordance with the recommendations of the OECD in this area.",
+            "uuid": "6dc25630-a289-4b39-9f43-ec14b84921ab",
+            "vertical": false,
+            "translation": "1. 成员国应采取必要措施，核查 GLP 原则的遵守情况。这些措施尤其应包括根据经合组织在此领域的建议进行视察和研究检查。"
+        },
+        {
+            "bbox": [
+                114.14102260774789,
+                743.8676667655482,
+                792.512285544931,
+                885.6421801606641
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "2. Member States shall notify to the Commission the name or names of the authority or authorities responsible for verifying compliance with the principles of GLP, as referred to in paragraph 1. The Commission shall inform the other Member States thereof.",
+            "uuid": "03b607b3-ed4f-4e52-81cd-84975275ac43",
+            "vertical": false,
+            "translation": "2. 成员国应向委员会通报负责核实第 1 段所述 GLP 原则遵守情况的一个或多个机构的名称。委员会应将此事通知其他成员国。"
+        },
+        {
+            "bbox": [
+                112.49798011581954,
+                1144.6882402754322,
+                792.4470390039372,
+                1349.398874007731
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "1. Where Community provisions require application of the principles of GLP following the entry into force of this Directive for tests on chemical products, Member States may not, on grounds relating to the principles of GLP, prohibit, restrict or impede the placing on the market of chemical products if the principles applied by the laboratories concerned are in conformity with those mentioned in Article 1.",
+            "uuid": "2cb1db19-62f6-416e-89f6-1c1e8baa6622",
+            "vertical": false,
+            "translation": "1. 如果共同体的规定要求在本指令生效后适用 GLP 原则进行化学产品测试，而有关实验室应用的原则符合第 1 条所述原则，则成员国不得以与 GLP 原则有关的理由，禁止、限制或阻止化学产品投放市场。"
+        },
+        {
+            "bbox": [
+                113.90428633895937,
+                973.7443090144409,
+                793.853345227077,
+                1061.6784300334696
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Any adaptation to the principles of GLP mentioned in Article 1 shall be adopted in accordance with the procedure referred to in Article 29 of Directive 67/548/EEC.",
+            "uuid": "56f1361a-437c-48e0-ad5a-f0534527e341",
+            "vertical": false,
+            "translation": "对第 1 条所述 GLP 原则的任何调整均应按照第 67/548/EEC 号指令第 29 条所述程序进行。"
+        },
+        {
+            "bbox": [
+                115.31002083092658,
+                1367.0186976256164,
+                793.8527734959044,
+                1509.1202371923664
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "2. Should a Member State establish on the basis of detailed evidence that the application of the principles of GLP and the verification of their application for tests on chemical substances show that, although a chemical substance has been examined in accordance with the requirements of this Directive, it",
+            "uuid": "b8da2ed3-cf66-4d12-b83e-dce0db4de088",
+            "vertical": false,
+            "translation": "2. 如果某成员国根据详细的证据确定， 对化学物质进行试验时应用了 GLP 原则，并对其应用情况进行核查，结果表明，尽管化学物质已按照本指令的要求进行了检查， 它"
+        },
+        {
+            "bbox": [
+                860.552494832298,
+                375.5034768069754,
+                1538.3920943857058,
+                464.1410707941561
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "The Commission shall, within six weeks, consult the Member States concerned and then give its opinion and take suitable measures without delay.",
+            "uuid": "601e6cd5-4c27-49b5-9e0a-dc957f6d3363",
+            "vertical": false,
+            "translation": "委员会应在六周内征求有关成员国的意见，然后立即发表意见并采取适当措施。"
+        },
+        {
+            "bbox": [
+                859.146188609158,
+                208.78038335489705,
+                1539.7984006088457,
+                356.50970666686504
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "presents a danger to man and the environment, the Member State may provisionally prohibit or make subject to special conditions the marketing of that substance on its territory. It shall immediately inform the Commission and the other Member States thereof and give the grounds for its decision.",
+            "uuid": "18d452ab-8b82-4e04-a5da-e41c39961223",
+            "vertical": false,
+            "translation": "对人类和环境构成了危险，该成员国可以暂时禁止该物质在其领土上销售或对其销售规定特殊条件。该成员国应立即通知委员会和其他成员国，并提供其决定的理由。"
+        },
+        {
+            "bbox": [
+                860.5351142046485,
+                749.1383712845277,
+                1539.0778668696266,
+                837.7759652717086
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "Directive 87/18/EEC is hereby repealed, without prejudice to the obligations of the Member States concerning the time limits for transposition of the Directives set out in Annex II, part B.",
+            "uuid": "a1eab492-fa24-45b2-980e-a873bf1cb02b",
+            "vertical": false,
+            "translation": "特此废除第 87/18/EEC 号指令，但不影响成员国在附件二 B 部分中规定的指令转换时限方面的义务。"
+        },
+        {
+            "bbox": [
+                861.2382673162184,
+                483.22558932298574,
+                1539.7810199811966,
+                660.5007772973471
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Should the Commission consider that technical adaptations to this Directive are necessary, those adaptations shall be adopted either by the Commission or by the Council in accordance with the procedure referred to in Article 4. In that case, the Member State which adopted the safeguard measures may maintain them until the entry into force of those adaptations.",
+            "uuid": "30313303-18ea-46e0-84ea-0aa91b99a8af",
+            "vertical": false,
+            "translation": "如果委员会认为有必要对本指令进行技术性调整，则应由委员会或理事会根据第 4 条所述程序进行调整。在这种情况下，采取保障措施的成员国可以在这些调整生效前保留这些措施。"
+        },
+        {
+            "bbox": [
+                861.2376955850458,
+                1212.5577181982796,
+                1380.1646919236507,
+                1237.1792720836072
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "This Directive is addressed to the Member States.",
+            "uuid": "79018bb6-5aea-4966-92a1-bf2a4fc9cb4d",
+            "vertical": false,
+            "translation": "本指令的对象是成员国。"
+        },
+        {
+            "bbox": [
+                861.2376955850458,
+                855.8969233450996,
+                1538.3741420268839,
+                939.6102065552146
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "References made to the repealed Directive shall be construed as being made to this Directive and shall be read in accordance with the correlation table in Annex III.",
+            "uuid": "a4578d1f-058e-4585-a2ba-ab6711163f06",
+            "vertical": false,
+            "translation": "对已废除指令的引用应解释为对本指令的引用，并应根据附件 III 中的关联表进行解读。"
+        },
+        {
+            "bbox": [
+                861.2368951614042,
+                1035.7558756991455,
+                1538.3733416032421,
+                1118.0622129729563
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.",
+            "uuid": "cecaebcb-055e-455b-ac7e-811afa93c67e",
+            "vertical": false,
+            "translation": "本指令将在《欧盟官方公报》上公布后的第 20 日起生效。"
+        },
+        {
+            "bbox": [
+                861.9450795072936,
+                1322.5553110940184,
+                1280.321180891399,
+                1350.6942298201077
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "Done at Strasbourg, 11 February 2004.",
+            "uuid": "c0ca9d4e-45f9-49f8-9cf6-df53c7029380",
+            "vertical": false,
+            "translation": "2004 年 2 月 11 日订于斯特拉斯堡。"
+        },
+        {
+            "bbox": [
+                891.9134804444542,
+                1404.4622194148312,
+                1170.5698426143763,
+                1432.5945183185756
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "For the European Parliament",
+            "uuid": "1a71d76d-7dfd-4933-92a4-66d0c23f3545",
+            "vertical": false,
+            "translation": "供欧洲议会参考"
+        },
+        {
+            "bbox": [
+                965.7977812444811,
+                1446.7343246468795,
+                1096.4876082709739,
+                1468.474836645322
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "The President",
+            "uuid": "37444009-d59f-4e9b-b2c6-a8e8e860b00b",
+            "vertical": false,
+            "translation": "主席"
+        },
+        {
+            "bbox": [
+                995.4861026064714,
+                1487.7657134890103,
+                1066.7992869089837,
+                1506.7503859383544
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "P. COX",
+            "uuid": "8f591e58-a2a0-41cd-ab81-9030e2eac516",
+            "vertical": false,
+            "translation": "P·考克斯"
+        },
+        {
+            "bbox": [
+                1295.27263258109,
+                1404.2914187680917,
+                1443.5475338506722,
+                1427.2873103638465
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "For the Council",
+            "uuid": "ab7c8f93-2d25-4aaa-af63-09fcaf5f1657",
+            "vertical": false,
+            "translation": "供理事会参考"
+        },
+        {
+            "bbox": [
+                1304.3160827220556,
+                1446.1514099233468,
+                1432.9968420195455,
+                1468.3933378602242
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "The President",
+            "uuid": "41e8effc-3637-419c-a371-e85b4a8fbfe6",
+            "vertical": false,
+            "translation": "主席"
+        },
+        {
+            "bbox": [
+                1294.3024569785462,
+                1487.6720509661595,
+                1444.425646298725,
+                1506.6658211062693
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "M. MCDOWELL",
+            "uuid": "44b4291b-3d20-4500-a1ed-8a92d6c9b8db",
+            "vertical": false,
+            "translation": "M·麦克道尔"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

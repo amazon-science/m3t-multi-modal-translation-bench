@@ -1,0 +1,1911 @@
+{
+    "file": "jrc32004H0074.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                115.06178911816627,
+                137.88114772878308,
+                201.66414635338188,
+                167.58297398017632
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 16/62",
+            "uuid": "40924503-2292-4e26-8b4c-6d5891285ade",
+            "vertical": false,
+            "translation": "L 16/62"
+        },
+        {
+            "bbox": [
+                334.16881307722764,
+                143.69903122132422,
+                360.79215258063317,
+                161.1526816989469
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "a95bc0c1-f049-405a-8705-20182d8664ea",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.5356923348372,
+                138.18160323704274,
+                1032.9552140520018,
+                166.956985778287
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "59c4a1eb-a8f8-41bd-8b65-b07b80b1ec6a",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                782.0217740869667,
+                247.24958544982377,
+                872.4691322998722,
+                266.2784674529049
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX I",
+            "uuid": "253b4cc9-ad66-4f51-af0b-df92a9309cfb",
+            "vertical": false,
+            "translation": "附件一"
+        },
+        {
+            "bbox": [
+                580.2545903812547,
+                307.11435715694745,
+                1074.2363160055843,
+                333.1050252587166
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Pesticide/product combinations to be monitored",
+            "uuid": "b804b5b4-62b6-4f3d-ae67-0a19482f287e",
+            "vertical": false,
+            "translation": "待监测的农药/产品组合"
+        },
+        {
+            "bbox": [
+                1428.5800594036396,
+                140.25400954798005,
+                1537.9380294521604,
+                160.24649014649103
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "23.1.2004",
+            "uuid": "a98af73e-b234-4616-b0d4-ec4c56f91652",
+            "vertical": false,
+            "translation": "2004 年 1 月 23 日"
+        },
+        {
+            "bbox": [
+                341.8191979919994,
+                442.04892307714886,
+                630.0857015805968,
+                464.09563946993586
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Pesticide residue to be analysed for",
+            "uuid": "760c5dd1-d74e-494f-9126-68f5a5f4b144",
+            "vertical": false,
+            "translation": "待分析的农药残留"
+        },
+        {
+            "bbox": [
+                1035.518779561874,
+                419.7997263548754,
+                1073.4750148041499,
+                435.3552324999262
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Year",
+            "uuid": "6be659ef-ca9a-4470-94ac-a4b618e7c06e",
+            "vertical": false,
+            "translation": "年"
+        },
+        {
+            "bbox": [
+                1020.3766644386259,
+                467.48656733691445,
+                1087.0019709809183,
+                487.0824646884722
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "2005 (*)",
+            "uuid": "029f14e5-3b6f-44e1-9373-167515eac0f8",
+            "vertical": false,
+            "translation": "2005 (*)"
+        },
+        {
+            "bbox": [
+                805.8656745353865,
+                467.15617678264704,
+                848.4899746761009,
+                482.88359485347553
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "2004",
+            "uuid": "847a0d5b-d76d-4f74-9040-6ec839b0cfde",
+            "vertical": false,
+            "translation": "2004"
+        },
+        {
+            "bbox": [
+                1248.8919941229392,
+                466.743740464975,
+                1315.3592621548664,
+                487.002787471466
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "2006 (*)",
+            "uuid": "786cee4f-1d1b-46a1-b423-7f2ab9feb82e",
+            "vertical": false,
+            "translation": "2006 (*)"
+        },
+        {
+            "bbox": [
+                257.6649639295107,
+                684.1959307246195,
+                383.7433073249482,
+                709.9170998495374
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Azoxystrobin",
+            "uuid": "347800f9-52f8-4736-a9de-e506f0f4cf76",
+            "vertical": false,
+            "translation": "嘧菌酯"
+        },
+        {
+            "bbox": [
+                257.35894853291984,
+                519.1517621730635,
+                346.1034135442715,
+                544.8729312979815
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Acephate",
+            "uuid": "abcb7114-41c7-4f75-81a9-154a682dd3ee",
+            "vertical": false,
+            "translation": "乙酰甲胺磷"
+        },
+        {
+            "bbox": [
+                257.35894853291984,
+                574.2774360494398,
+                336.00490545677286,
+                594.4869260761607
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Aldicarb",
+            "uuid": "59a49c2e-02b1-4225-a939-f08392287257",
+            "vertical": false,
+            "translation": "涕灭威"
+        },
+        {
+            "bbox": [
+                257.35894853291984,
+                629.7004314257507,
+                420.15913951926143,
+                654.5029873676357
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Azinphos-methyl",
+            "uuid": "a01547f1-1a50-4144-bc41-da571de06832",
+            "vertical": false,
+            "translation": "谷硫磷"
+        },
+        {
+            "bbox": [
+                814.9787099322086,
+                519.3311978052418,
+                836.4908383162059,
+                544.720148194415
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "795bb99e-ff4e-44c5-8d65-e6e29a61d274",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                815.5303029676958,
+                574.8005350685443,
+                837.042431351693,
+                599.0856180494931
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "80414caa-6a33-4e08-895f-ca9d0c4f2aea",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                815.5303029676958,
+                629.9625639662585,
+                836.7666348339496,
+                655.351514355432
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "12713f65-7bda-4a58-b879-efec83900b88",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.235040552899,
+                629.9625639662585,
+                1063.7471689368963,
+                653.9716800951508
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "9ba2a45f-b129-4fd4-a29b-64d91bc30268",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1042.5108370706425,
+                519.2998562917089,
+                1064.574558490127,
+                543.3089724206014
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "3c122b99-0ac4-44cd-a220-f618132c41b7",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1042.786633588386,
+                575.0707105539697,
+                1064.2987619723833,
+                599.0798266828618
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "3878a487-9de2-4fe1-bccd-e3fa42c3600c",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.5945572445637,
+                519.0511429296811,
+                1294.3130577705092,
+                543.6121927626858
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "824a64fb-fab9-4aa6-8eeb-367cf02bc0e4",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.4913711735892,
+                574.2429803321136,
+                1293.7614647350224,
+                599.3559638692308
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "a7774c38-09a1-42a0-8bba-921a6ea990e5",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.3187607268198,
+                629.9819820779036,
+                1293.7614647350224,
+                654.5430319109083
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "6d0da5d7-4521-4fb1-a016-c14953c867e9",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.5060801727488,
+                957.226551976118,
+                392.1115311721402,
+                981.90551621481
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Chlorpyriphos",
+            "uuid": "cf942805-b1e2-4025-b0a1-d21f99c2a819",
+            "vertical": false,
+            "translation": "毒死蜱"
+        },
+        {
+            "bbox": [
+                257.92410952367857,
+                738.0438865341752,
+                401.7262062435253,
+                765.2325759496831
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Benomyl group",
+            "uuid": "c25ffe82-28a6-4911-8b41-625f444d1689",
+            "vertical": false,
+            "translation": "苯菌灵组"
+        },
+        {
+            "bbox": [
+                258.3421388746084,
+                794.0448452034714,
+                410.50482261305086,
+                819.1420969716328
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Bromopropylate",
+            "uuid": "62850e8c-985b-4fc4-864f-2111845986b2",
+            "vertical": false,
+            "translation": "溴丙酯"
+        },
+        {
+            "bbox": [
+                258.76016822553817,
+                850.5136616818347,
+                324.8088056724445,
+                874.7743383910571
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Captan",
+            "uuid": "66501c7c-8b9b-4f5e-9257-b127c2439393",
+            "vertical": false,
+            "translation": "克菌丹"
+        },
+        {
+            "bbox": [
+                259.17819757646794,
+                903.636177924443,
+                393.78364857585933,
+                923.7139793389721
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Chlorothalonil",
+            "uuid": "f655927f-23bd-4e4f-9453-def4c4eff54f",
+            "vertical": false,
+            "translation": "百菌清"
+        },
+        {
+            "bbox": [
+                258.3421388746084,
+                1232.3007083865796,
+                344.4561851661445,
+                1251.1236472127007
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Diazinon",
+            "uuid": "bfe94c57-8a62-4eb3-a3c4-a3b30d9993a8",
+            "vertical": false,
+            "translation": "二嗪农"
+        },
+        {
+            "bbox": [
+                259.17819757646794,
+                1013.1180429446368,
+                465.26666758485294,
+                1038.2152947127981
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Chlorpyriphos-methyl",
+            "uuid": "662c3f8c-52a8-4cd9-80d5-e99a3739dd73",
+            "vertical": false,
+            "translation": "甲基毒死蜱"
+        },
+        {
+            "bbox": [
+                257.5060801727488,
+                1067.0167204679246,
+                388.3492670137721,
+                1092.9505472950248
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Cypermethrin",
+            "uuid": "33b01d45-8f0c-499b-a747-1a49d8ac5160",
+            "vertical": false,
+            "translation": "氯氰菊酯"
+        },
+        {
+            "bbox": [
+                259.5962269273977,
+                1123.0672494168184,
+                356.99706569403816,
+                1148.1645011849798
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Cyprodinil",
+            "uuid": "fba29f0c-3b05-48a5-b25c-6da6ea56a60d",
+            "vertical": false,
+            "translation": "嘧菌环胺"
+        },
+        {
+            "bbox": [
+                257.5060801727488,
+                1176.608053188896,
+                381.6607973988955,
+                1196.685854603425
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Deltamethrin",
+            "uuid": "1ef55d9f-a70c-4ca6-89ca-22459fd0d839",
+            "vertical": false,
+            "translation": "溴氰菊酯"
+        },
+        {
+            "bbox": [
+                814.9787099322086,
+                793.5102396568125,
+                836.4908383162059,
+                819.1751568980421
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "ef9db780-48b4-478d-b38b-f44a57a536e2",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.786633588386,
+                793.7862065088688,
+                1064.574558490127,
+                818.0712894898174
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "9929fcef-da9f-4bf7-bced-56edc75792e4",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.5303029676958,
+                739.1447698017347,
+                835.9392452807189,
+                762.8779190785709
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "0a19b277-2ec1-4268-9724-6e8ab75699ca",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.5108370706425,
+                738.8688029496784,
+                1064.2987619723833,
+                763.1538859306269
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "b4e596a6-7c7e-4dc7-ae67-24a474ceb57e",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                816.0818960031828,
+                684.2273662425443,
+                835.9392452807189,
+                707.6845486673242
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "68f813ad-dbf6-4746-a9dd-40c897ef21b1",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.0624301061296,
+                684.2517240492571,
+                1064.2987619723833,
+                706.8810059178683
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "8715d198-c394-4f8e-9a7c-01b267275fb2",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.7473803543153,
+                793.1486817115016,
+                1294.3946914565122,
+                818.5852412888271
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "eb5900e1-8e43-4932-8a57-42d941f14f60",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.1561975767602,
+                683.7123207392882,
+                1293.803508678957,
+                708.2615584708932
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "6ca36608-a1a3-4eba-97b2-a4d51eb0b1b0",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.269423410428,
+                739.0309945525502,
+                1293.2123259014024,
+                763.5802322841549
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "e64c962c-ce5f-4bf5-8e33-9d379701eda7",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                815.1572343130847,
+                1067.9495961221226,
+                836.058701859574,
+                1093.046847890284
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "6953f91f-86cb-410f-8959-b01c7eac3a73",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.5652012188887,
+                1069.2044587105308,
+                1063.466668765378,
+                1092.2102728313453
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "9defebdf-2e84-40f1-a40e-5b657e193532",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.5752636640144,
+                849.6035057391186,
+                836.058701859574,
+                874.2824699778106
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "0e91b667-4828-4cc3-8b2b-c37e27aaa0ca",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9832305698185,
+                849.6081529528309,
+                1064.3027274672377,
+                872.1956795441761
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "a82daa2f-2fc6-4860-b52f-95c32df0c259",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.1572343130847,
+                903.9855317838471,
+                836.058701859574,
+                927.4096334341311
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "abadb7eb-9374-47e0-8421-dfbef878e419",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9832305698185,
+                903.9855317838471,
+                1063.8846981163078,
+                929.9193586109475
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "423f0d81-4dd8-4e6a-ad0f-569b2afbf6ec",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1042.9832305698185,
+                958.3629106148636,
+                1064.3027274672377,
+                981.3687247356781
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "37f12517-4c7d-4e6e-bb56-f69ab43832ea",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1041.7291425170292,
+                1013.5768645048187,
+                1063.8846981163078,
+                1037.0009661551026
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "fddf4285-c415-4dd2-a19b-b105bc105de7",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                816.411322365874,
+                958.3629106148636,
+                836.8947605614335,
+                982.6235873240863
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "52471645-c1d6-4a20-ba4a-6c13c265f4bc",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                815.9932930149442,
+                1013.1585769753492,
+                836.8947605614335,
+                1037.8375412140415
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "4adaf4af-08f8-44db-a79f-dd61b42fd232",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1269.9545325617687,
+                1012.998196883605,
+                1293.7466782885097,
+                1037.9758650399785
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "a01736aa-1c4e-4128-b873-9ae3dd3093e3",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.1744622100725,
+                847.5211453476315,
+                1294.136713464358,
+                873.6696416988348
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "17459628-8081-4a19-818e-fc0b518a70e4",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.734602913465,
+                902.9682897046193,
+                1293.7466782885097,
+                928.7265099908794
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "80f83587-dadf-45af-9699-70fc15001e78",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.734602913465,
+                956.8263866667995,
+                1294.526748640206,
+                982.5846069530596
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "70f86f4d-0684-435f-9bae-5fc08d4d3328",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.870353762307,
+                1067.8874055795463,
+                1292.6582786640479,
+                1091.6205548563828
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "e5a31fb2-dc1f-497e-b9a6-f2ac2994f020",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                816.3436230503017,
+                1342.9966214535098,
+                837.405522546105,
+                1365.6326332202234
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "33b9c8a1-d334-4b63-9c95-e198d11d1408",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.3440953939594,
+                1342.6063453885665,
+                1063.235889362218,
+                1366.0229092851666
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "2be54026-f042-4fb3-b96c-9b164ce290cd",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.5635526986053,
+                1232.9387711394897,
+                836.6254521944085,
+                1256.745611101033
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "425c6133-14cf-4337-9785-77cdbd8df65a",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                815.9535878744535,
+                1287.9676962965,
+                836.6254521944085,
+                1310.21343199827
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "e545e5ee-2f7e-4f54-aff0-679690065cd0",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.3440953939594,
+                1287.9676962965,
+                1064.4059948897625,
+                1310.21343199827
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "0f6be25c-710e-4d05-89f5-7036d75e4c75",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1043.7341305698076,
+                1177.129293852593,
+                1064.7960300656107,
+                1201.716685944023
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "11780d8c-2e77-4807-bcee-8d3c1f5e1fa1",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1043.3440953939594,
+                1232.548013296356,
+                1063.625924538066,
+                1256.3548532578993
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "1c19dde6-cac3-4593-8dd2-ddde6651475e",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.7834823469088,
+                1176.3482599445158,
+                836.2354170185603,
+                1199.7648238411161
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "583b4bbf-ede2-4944-bf5d-ab3aaeba70d0",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9540602181112,
+                1123.6614729553562,
+                1064.4059948897625,
+                1145.9072086571261
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "393388f9-45b5-4d7a-9475-f2fe4b0fe894",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.9535878744535,
+                1123.6939929831979,
+                836.6254521944085,
+                1146.3300047499115
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "59477033-0310-46c8-a3f1-577814b5684c",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1270.3445677376171,
+                1341.430458522739,
+                1293.3566431126612,
+                1366.017850614169
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "1d7025e6-21b4-4433-8d1c-18c1574b6038",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1271.1246380893135,
+                1232.9337124684919,
+                1293.3566431126612,
+                1256.7405524300352
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "5ccf4b34-7770-4184-82cc-54cf75c59293",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.9545325617687,
+                1286.7918094306722,
+                1294.136713464358,
+                1311.3792015221024
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "096bc1e8-3354-4d87-9d45-03e37305b390",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.3445677376171,
+                1176.3436830517085,
+                1292.9666079368133,
+                1200.9310751431387
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "4f00da58-56c3-4f23-9fa6-09ac12fdf575",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.734602913465,
+                1122.4906447605263,
+                1293.3566431126612,
+                1147.4683129168995
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "095584d5-4670-4b0a-bd1c-46ecd95e6644",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                258.20328641151445,
+                1504.836889631909,
+                362.73271353883445,
+                1526.6923492687358
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Endosulfan",
+            "uuid": "af912df5-e3ea-41da-9eea-2ee0f93b254e",
+            "vertical": false,
+            "translation": "硫丹"
+        },
+        {
+            "bbox": [
+                258.20328641151445,
+                1285.501741133755,
+                385.35475373803064,
+                1306.576648640695
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Dichlofluanid",
+            "uuid": "2311bf86-72a2-4ab9-aab5-1341d9d182bc",
+            "vertical": false,
+            "translation": "苯氟磺胺"
+        },
+        {
+            "bbox": [
+                257.423216059818,
+                1340.587516117215,
+                327.62954771249565,
+                1360.8818714942684
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Dicofol",
+            "uuid": "c2727467-9907-4be6-8b18-fe102f95bcff",
+            "vertical": false,
+            "translation": "三氯杀螨醇"
+        },
+        {
+            "bbox": [
+                258.73355063445064,
+                1395.573267141967,
+                367.04851474519836,
+                1415.945987664365
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "Dimethoate",
+            "uuid": "9f9709cf-e656-4531-9635-9f38e84a8d12",
+            "vertical": false,
+            "translation": "乐果"
+        },
+        {
+            "bbox": [
+                257.2883906568513,
+                1450.444430983452,
+                437.06273999841363,
+                1476.6625429802014
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Diphenylamine (**)",
+            "uuid": "a2476434-aa47-4add-8f00-00c29c07ce36",
+            "vertical": false,
+            "translation": "二苯胺 (**)"
+        },
+        {
+            "bbox": [
+                258.39400529241067,
+                1724.5154113142864,
+                349.7317023011603,
+                1749.9970399275926
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "Iprodione",
+            "uuid": "d2873d03-2521-4272-bc76-6ab61779b3c0",
+            "vertical": false,
+            "translation": "异菌脲"
+        },
+        {
+            "bbox": [
+                258.0544599503707,
+                1560.0739679964179,
+                371.1230588496779,
+                1580.1195158388855
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Fenhexamid",
+            "uuid": "5cbc5065-7c62-4105-b636-76630dc19196",
+            "vertical": false,
+            "translation": "环酰菌胺"
+        },
+        {
+            "bbox": [
+                257.03582392425085,
+                1616.1805251204808,
+                316.7958041232841,
+                1640.9826436374321
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Folpet",
+            "uuid": "f5295d77-3abb-4ca8-9d71-13434124cde6",
+            "vertical": false,
+            "translation": "灭菌丹"
+        },
+        {
+            "bbox": [
+                258.0544599503707,
+                1669.1823126361573,
+                332.0753445150823,
+                1689.9073705749797
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Imazalil",
+            "uuid": "84786b90-6e12-4095-b7c8-85143c5ea94a",
+            "vertical": false,
+            "translation": "抑霉唑"
+        },
+        {
+            "bbox": [
+                814.4016086699784,
+                1615.5223857479552,
+                836.4903315466406,
+                1640.9881541898678
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "e923c914-8044-4312-92d1-cf61016e779b",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.4916818529027,
+                1615.5223857479552,
+                1064.5804047295649,
+                1639.5466955988163
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "799a01a0-b21d-4171-bb2f-ec6fbc81b846",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.4016086699784,
+                1560.2664730909744,
+                836.010141918887,
+                1585.25175533587
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "4892d767-4abc-47e7-8fb0-45b7a7408c43",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9718714806563,
+                1561.7079316820261,
+                1063.6200254740577,
+                1585.7322415328872
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "c2928280-aedc-4091-99f5-b94bc2278197",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.8421775532389,
+                1396.9011661051181,
+                836.970521174394,
+                1419.4840173649275
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "0b64395a-2dbd-4b6d-934c-f4811ecb2761",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1044.4124403639169,
+                1395.960656990279,
+                1063.6200254740577,
+                1419.5044806441229
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "693d78cf-4c20-407d-8f62-75543dd1f236",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.8421775532389,
+                1451.217162785787,
+                836.970521174394,
+                1475.2414726366485
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "c)",
+            "uuid": "bedc7867-bb1e-47a0-b473-daff33b1389c",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1044.4124403639169,
+                1451.6976489828044,
+                1064.5804047295649,
+                1475.7219588336654
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "d3292dc6-f267-4e82-924e-3a97a1097f3c",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.8817982977318,
+                1506.473075442768,
+                837.9309004299009,
+                1529.5364128995946
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "fe84ab1f-0645-4248-9bf9-e4ceaf4d93fb",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.9322507361633,
+                1506.473075442768,
+                1064.1002151018113,
+                1529.5364128995946
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "5a7e8734-a0be-44ef-92d8-960052faa1e1",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.1015654080736,
+                1615.5090401310888,
+                1294.1110467957499,
+                1639.0528637849327
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "ec35c73a-9c6f-4636-8165-1b99511b5b97",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.62137578032,
+                1450.7022745541808,
+                1292.6704779124893,
+                1476.1680429960938
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "7aaf279d-7b10-4530-a0e8-1b672a707ee2",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1268.6609965248128,
+                1505.4782941526719,
+                1294.5912364235035,
+                1528.5416316094984
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "097988f5-2a46-47f1-9ea8-cfd61ff456ec",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.5817550358272,
+                1559.2927482186008,
+                1294.1110467957499,
+                1585.719489054548
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "b5c15246-dc24-45f3-a341-45c15b08ce6a",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.62137578032,
+                1395.4469550357273,
+                1294.1110467957499,
+                1419.4712648865886
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "335a1678-6f78-4289-9e6b-0e20d2e4dae8",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                256.49943123967535,
+                1998.7310653321206,
+                355.7596089707613,
+                2019.6164236281852
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "Mecarbam",
+            "uuid": "cb67d564-aadf-4c6d-ba4d-39d5b8b8a9de",
+            "vertical": false,
+            "translation": "甲胺磷"
+        },
+        {
+            "bbox": [
+                257.8770158513237,
+                1779.0232569013613,
+                419.5829545101599,
+                1805.19341178859
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "Kresoxim-methyl",
+            "uuid": "0619807c-a48f-4365-aac4-b18c111791f4",
+            "vertical": false,
+            "translation": "醚菌肟"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1833.971086066041,
+                446.6707997898867,
+                1859.4976350945644
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "Lambda-cyhalothrin",
+            "uuid": "763eb120-c6cd-40ce-bc76-fa8e5a2e7c42",
+            "vertical": false,
+            "translation": "高效氯氟氰菊酯"
+        },
+        {
+            "bbox": [
+                257.4270964521154,
+                1889.2012557823004,
+                353.4404459396612,
+                1910.550733151611
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "Malathion",
+            "uuid": "fad9b45d-961b-419b-b63d-c2bac5f0ed37",
+            "vertical": false,
+            "translation": "马拉硫磷"
+        },
+        {
+            "bbox": [
+                257.8909290583355,
+                1943.5031873520682,
+                383.589565343963,
+                1969.493855453837
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "Maneb group",
+            "uuid": "6b28ea24-33a1-4c24-849d-60cd25499341",
+            "vertical": false,
+            "translation": "代森锰组"
+        },
+        {
+            "bbox": [
+                814.9080267815801,
+                1890.3350179871538,
+                836.9793541134234,
+                1913.719091983508
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "df6142b8-f88c-4b1e-a821-e7ce7ef2f9c1",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9784092106258,
+                1890.7680563944937,
+                1063.7514231700075,
+                1913.2860535761681
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "935cd8f9-bcdf-4226-9929-18f2f0050184",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.7735690298878,
+                1835.3391402549876,
+                836.9793541134234,
+                1857.857137436662
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "29c6f805-0298-4f6e-9bfe-20f0b5954373",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.5456380864719,
+                1835.3391402549876,
+                1064.1841942941612,
+                1858.7232142513417
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "727d6ae5-a42e-46d5-a6f8-62fb1595ea28",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.7735690298878,
+                1779.0441473008016,
+                837.4121252375772,
+                1803.7273365191754
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "faf97c68-3ef8-456c-ad20-7f0afe2d4de2",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9784092106258,
+                1780.7763009301611,
+                1064.6169654183152,
+                1804.1603749265155
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "3abdf170-e8bc-4d86-8d66-fa2130809c50",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.9080267815801,
+                1724.9143463833152,
+                836.9793541134234,
+                1749.1644971943492
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "cb76d4d2-1afe-46e8-a78a-2e7d980debfa",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9784092106258,
+                1725.8122298971416,
+                1064.6169654183152,
+                1750.0623807081752
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "fffbed43-b876-4c8e-b27b-19ec88d43d91",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.9080267815801,
+                1670.3833137576355,
+                836.1138118651157,
+                1695.0665029760091
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "bbb375c9-ed02-41ec-aaf3-19c1ffa98d74",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.9784092106258,
+                1670.4169914390848,
+                1063.7514231700075,
+                1694.6671422501183
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "8bbf5c13-0fad-46b5-97ec-b43ebf739787",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.75047826721,
+                1890.4005023677494,
+                1293.552890095668,
+                1914.2176147714436
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "2e23ce60-fa27-46cc-9e22-53e94e6e345d",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.75047826721,
+                1723.2476771345514,
+                1293.9856612198218,
+                1750.096058389625
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "3f7be516-522a-4529-a4cb-7ec1e08fe8b0",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.1832493913637,
+                1834.9389776795385,
+                1294.4184323439756,
+                1860.488243712592
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "a47a55b5-44c1-4cb2-ae88-972ce3918e39",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.1832493913637,
+                1668.6522292610205,
+                1295.7167457164371,
+                1693.7684568867342
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "50ea433a-3fe5-4603-b39c-c9edf7ad6f11",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.1832493913637,
+                1780.4098160361614,
+                1293.7565670562299,
+                1804.0745000310865
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "2a53955d-d553-466f-94b0-1f29868eb040",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.13567805579123,
+                2162.0202746441214,
+                383.73564199652515,
+                2183.352088002183
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "Methidathion",
+            "uuid": "b79abbb2-df85-4da7-a2c1-f47480d082fd",
+            "vertical": false,
+            "translation": "甲硫磷"
+        },
+        {
+            "bbox": [
+                258.119615599372,
+                2053.3921173899935,
+                409.31801812962686,
+                2079.6466569076074
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "Methamidophos",
+            "uuid": "a79c63bc-144c-4773-a55f-860d7c221df1",
+            "vertical": false,
+            "translation": "甲胺磷"
+        },
+        {
+            "bbox": [
+                258.119615599372,
+                2108.1731482859423,
+                347.3299528840343,
+                2134.7558695475263
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "Metalaxyl",
+            "uuid": "d9544a25-0bcc-4b56-87eb-7491cbe7c614",
+            "vertical": false,
+            "translation": "甲霜灵"
+        },
+        {
+            "bbox": [
+                814.0262239161486,
+                2162.43017221874,
+                837.2178542271502,
+                2187.4926021740175
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "8f9c9297-7d10-42e1-8e4e-c0a2a4623cb0",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1041.3042009639626,
+                2162.43017221874,
+                1064.9596638811836,
+                2187.4926021740175
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "b7c37449-0eb7-4dbc-acbc-e1d4f3f26272",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.9538891285888,
+                1999.5243775094375,
+                835.82635640849,
+                2022.2662120984853
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "05787065-3a3e-48a2-8a25-5f160e17d5b5",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.1595313888424,
+                1999.0622637053725,
+                1064.4958312749638,
+                2022.2682173676662
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "34230059-595f-4483-82f5-4c2c6c7e6ddf",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                816.3453869472488,
+                2054.2927198886578,
+                836.2901890147101,
+                2077.4986735509515
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "e989604a-dd3c-4eb1-a612-75028d1571c9",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1041.7680335701823,
+                2054.7568389619037,
+                1064.4958312749638,
+                2078.4269116974433
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "1a1e0669-987f-4cf7-bdc6-11bc420ad031",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                815.4177217348088,
+                2108.5946514584252,
+                837.2178542271502,
+                2132.2647241939653
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "5ade1b89-13a8-4bc4-aa3d-f860120a6165",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1043.1595313888424,
+                2109.522889604917,
+                1063.5681660625237,
+                2133.6570814137026
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "152a60d5-b585-45d1-8a98-b75ed7b53108",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1043.1595313888424,
+                1943.832380456139,
+                1063.5681660625237,
+                1968.4306913381704
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "091b6bab-c5c4-4364-bd96-da6516658f85",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                814.9538891285888,
+                1943.866470032215,
+                836.7540216209301,
+                1968.4647809142466
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "13d9a051-442c-4f4f-b665-4bf207dfad59",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1270.4375084366561,
+                2162.930672604269,
+                1293.1653061414374,
+                2187.9931025595465
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "23c840b0-430e-4795-9224-5dd30c2cb008",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.4375084366561,
+                1998.6325206752283,
+                1293.1653061414374,
+                2023.6949506305057
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "d3d8decd-962e-46d5-a254-294fe1600c4d",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.4375084366561,
+                2053.364768209192,
+                1294.5568039600973,
+                2077.9630790912233
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "c6aec5c1-d5db-489c-85e5-124a90760e26",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1269.509843224216,
+                2107.2025807057134,
+                1294.0929713538774,
+                2133.1932488074826
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "7c542853-2c8d-4101-aa1f-cbeceb06c490",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                1270.4375084366561,
+                1943.368547849919,
+                1293.6291387476576,
+                1967.9668587319504
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "1291dfd8-131a-4b6b-a635-4de6859028be",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                248.6142769339349,
+                413.3182735640932,
+                1387.7871578103232,
+                2206.674372586162
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "95f0b356-3270-46ee-afc3-a7bc1548bed0",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

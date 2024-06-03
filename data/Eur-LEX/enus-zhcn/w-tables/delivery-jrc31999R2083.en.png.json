@@ -1,0 +1,637 @@
+{
+    "file": "jrc31999R2083.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.93772352326785,
+                137.04060233544712,
+                244.90730775627796,
+                170.13618446467396
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "1.10.1999",
+            "uuid": "415a8256-6112-4a0d-b362-3f1a036ec311",
+            "vertical": false,
+            "translation": "1999 年 10 月 1 日"
+        },
+        {
+            "bbox": [
+                333.1621934342159,
+                141.453346619344,
+                366.25777556344264,
+                167.92981232272527
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "14e0b4fb-7207-4cd9-a1ee-6f2e1ede6ebb",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                580.2758733324423,
+                139.24697447739555,
+                1074.503233128895,
+                170.13618446467396
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "a4e586f0-da53-4a92-842f-99671890b836",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1431.9355201245442,
+                137.04060233544712,
+                1540.047755080018,
+                167.92981232272527
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 256/49",
+            "uuid": "7a0fc8fa-90c8-4def-925c-69a4e5bceb4e",
+            "vertical": false,
+            "translation": "L 256/49"
+        },
+        {
+            "bbox": [
+                291.2411227371953,
+                214.26362730364275,
+                1403.252682279214,
+                924.7154570110438
+            ],
+            "order": "5",
+            "label": "Table",
+            "text": "",
+            "uuid": "dbc01b84-b9bc-4914-848d-328293da93c9",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                383.9087526990303,
+                238.53372086507585,
+                492.0209876545043,
+                269.422930852354
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Departments",
+            "uuid": "992df4d5-e90c-45d7-92c2-bbc56edb333a",
+            "vertical": false,
+            "translation": "部门"
+        },
+        {
+            "bbox": [
+                714.8645739912978,
+                234.12097658117895,
+                842.8341582243078,
+                262.80381442650867
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Centres deleted",
+            "uuid": "ff66e8fb-607b-4732-aded-cb90e8ea3c1e",
+            "vertical": false,
+            "translation": "删除的中心"
+        },
+        {
+            "bbox": [
+                1129.6625366776063,
+                238.53372086507585,
+                1253.2193766267194,
+                265.01018656845713
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Centres added",
+            "uuid": "3aeb16bc-badb-4e84-8aba-bc165fbd0035",
+            "vertical": false,
+            "translation": "添加的中心"
+        },
+        {
+            "bbox": [
+                293.44749487914385,
+                304.72488512352925,
+                489.8146155125559,
+                335.6140951108077
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Indre-et-Loire — 37",
+            "uuid": "1781cfb8-8a37-4d2f-a1d6-3dc51c465c91",
+            "vertical": false,
+            "translation": "Indre-et-Loire — 37"
+        },
+        {
+            "bbox": [
+                586.8949897582877,
+                306.9312572654777,
+                820.7704368048234,
+                337.8204672527561
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Ville-aux-Dames (maize)",
+            "uuid": "89d0e93f-6ef6-4f4e-8b4b-b39ce709339a",
+            "vertical": false,
+            "translation": "Ville-aux-Dames（玉米）"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                309.1376294074262,
+                1193.6473287941112,
+                337.8204672527561
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Ville-Perdue (barley)",
+            "uuid": "eb71396d-536c-44f3-a76c-6eeb241d081c",
+            "vertical": false,
+            "translation": "Ville-Perdue（大麦）"
+        },
+        {
+            "bbox": [
+                293.44749487914385,
+                366.50330509808583,
+                423.6234512541024,
+                390.77339865951893
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Landes — 40",
+            "uuid": "09238846-d88a-4950-b88c-54da7aa0c0ab",
+            "vertical": false,
+            "translation": "Landes — 40"
+        },
+        {
+            "bbox": [
+                586.8949897582877,
+                364.29693295613737,
+                756.7856446883183,
+                395.1861429434158
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Solférino (barley)",
+            "uuid": "9ef011ec-1c15-4725-a1fa-08f84d450aa3",
+            "vertical": false,
+            "translation": "Solférino（大麦）"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                366.50330509808583,
+                1224.5365387813897,
+                395.1861429434158
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Aire-sur-Adour (maize)",
+            "uuid": "d4cb8d53-fdab-4aac-9e10-03d29a3e73d3",
+            "vertical": false,
+            "translation": "Aire-sur-Adour（玉米）"
+        },
+        {
+            "bbox": [
+                293.44749487914385,
+                426.07535293069395,
+                425.82982339605087,
+                445.9327022082301
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Landes — 40",
+            "uuid": "e8d61b11-f94b-4695-a839-5a35abf0601d",
+            "vertical": false,
+            "translation": "Landes — 40"
+        },
+        {
+            "bbox": [
+                584.6886176163392,
+                421.6626086467971,
+                933.2954160441942,
+                452.55181863407546
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Haut-Mauco (wheat, barley, maize)",
+            "uuid": "ad8817f7-e5c3-4a40-8c70-e7ab754f19d5",
+            "vertical": false,
+            "translation": "Haut-Mauco（小麦、大麦、玉米）"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                421.6626086467971,
+                1286.3149587559462,
+                450.34544649212705
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Tartas (wheat, barley, maize)",
+            "uuid": "e5d0dd9e-f9b5-4e26-a484-cb830f19be89",
+            "vertical": false,
+            "translation": "Tartas（小麦、大麦、玉米）"
+        },
+        {
+            "bbox": [
+                295.65386702109225,
+                476.8219121955083,
+                414.7979626863086,
+                505.50475004083825
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "8a3eb677-3076-4889-90c1-5163f5c0c445",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                586.8949897582877,
+                474.61554005355987,
+                816.3576925209264,
+                505.50475004083825
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Ormes (barleys, maize)",
+            "uuid": "a92372f3-2a73-4cfb-85a9-0fb8976a0886",
+            "vertical": false,
+            "translation": "Ormes（大麦、玉米）"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                476.8219121955083,
+                1220.1237944974928,
+                507.7111221827867
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Châteaurenard (wheat)",
+            "uuid": "5ae31dae-a236-4cfe-8faa-ee2b7905afba",
+            "vertical": false,
+            "translation": "Châteaurenard（小麦）"
+        },
+        {
+            "bbox": [
+                293.44749487914385,
+                538.6003321700648,
+                417.004334828257,
+                560.6640535895496
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "5563f287-0509-4b14-92ad-29815a7ea59e",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                586.8949897582877,
+                531.9812157442195,
+                966.390998173421,
+                562.8704257314979
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Beaugency (durum wheat, barley, maize)",
+            "uuid": "099f93cc-bea0-4cfe-825c-cbdaaf3e6545",
+            "vertical": false,
+            "translation": "Beaugency （硬质小麦、大麦、玉米）"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                534.187587886168,
+                1308.3786801754306,
+                562.8704257314979
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Meung-sur-Loire (wheat, maize)",
+            "uuid": "7930bacf-08cb-499c-8fef-e04a3f09cae1",
+            "vertical": false,
+            "translation": "Meung-sur-Loire（小麦、玉米）"
+        },
+        {
+            "bbox": [
+                291.2411227371953,
+                591.5532635768277,
+                417.004334828257,
+                615.8233571382607
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "faea1a64-0f6c-427f-91f3-63bd790bff51",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                1001.6929524445961,
+                591.5532635768277,
+                1156.1390023809877,
+                620.2361014221576
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Artenay (barley)",
+            "uuid": "e2e6024d-35b4-403f-9351-2c4bfe9b9588",
+            "vertical": false,
+            "translation": "Artenay（大麦）"
+        },
+        {
+            "bbox": [
+                291.2411227371953,
+                646.7125671255388,
+                417.004334828257,
+                673.1890328289204
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "a3c2c6cc-045b-4987-99ae-d1893f1580dd",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                999.4865803026478,
+                646.7125671255388,
+                1178.202723800472,
+                675.3954049708689
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Courtenay (barley)",
+            "uuid": "04e9151c-ccd1-4484-9453-38acef6a0607",
+            "vertical": false,
+            "translation": "Courtenay（大麦）"
+        },
+        {
+            "bbox": [
+                293.44749487914385,
+                701.8718706742501,
+                417.004334828257,
+                728.3483363776317
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "c3a73b77-8b76-4db8-86e7-b26cf0aca0cf",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                999.4865803026478,
+                699.6654985323017,
+                1244.3938880589258,
+                730.5547085195801
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Chatillon-Coligny (maize)",
+            "uuid": "1bd51038-d62f-41c4-96aa-58a4b03e5a2a",
+            "vertical": false,
+            "translation": "Chatillon-Coligny（玉米）"
+        },
+        {
+            "bbox": [
+                294.38237400652594,
+                762.0986119650428,
+                413.78221800917294,
+                786.8020279655904
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Loiret — 45",
+            "uuid": "fcdad139-8450-4af6-8cb5-44b722500eb7",
+            "vertical": false,
+            "translation": "Loiret — 45"
+        },
+        {
+            "bbox": [
+                588.7647480130519,
+                757.9813759649514,
+                821.3885820182088,
+                788.860645965636
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Chalette (durum wheat)",
+            "uuid": "983b3d61-0554-418a-97a5-6a974ffd7fbc",
+            "vertical": false,
+            "translation": "Chalette（硬质小麦）"
+        },
+        {
+            "bbox": [
+                294.38237400652594,
+                815.6226799662293,
+                496.1269380109983,
+                842.3847139668225
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Maine-et-Loire — 49",
+            "uuid": "b4a11600-f039-4d7e-b31b-dc1a09d83260",
+            "vertical": false,
+            "translation": "Maine-et-Loire — 49"
+        },
+        {
+            "bbox": [
+                588.7647480130519,
+                817.6812979662749,
+                899.6160660199429,
+                840.3260959667768
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Montreuil-Bellay (durum wheat)",
+            "uuid": "a783bda8-81b9-4fb3-b9aa-e33bc3938719",
+            "vertical": false,
+            "translation": "Montreuil-Bellay（硬质小麦）"
+        },
+        {
+            "bbox": [
+                1002.546966022225,
+                817.6812979662749,
+                1148.708844025465,
+                844.4433319668682
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Gennes (barley)",
+            "uuid": "32c6785d-2e5a-4a9c-a315-d0f7f6fdff07",
+            "vertical": false,
+            "translation": "Gennes（大麦）"
+        },
+        {
+            "bbox": [
+                294.38237400652594,
+                871.2053659674614,
+                419.9580720093098,
+                895.908781968009
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Rhone — 69",
+            "uuid": "faaefc28-8957-4b2f-bc68-f214aec8096f",
+            "vertical": false,
+            "translation": "Rhone — 69"
+        },
+        {
+            "bbox": [
+                1002.546966022225,
+                869.1467479674158,
+                1272.2259240282033,
+                900.0260179681003
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Saint-Roman-en-Gal (maize)",
+            "uuid": "2b60c0e7-edee-460f-8529-78e9a7725ab2",
+            "vertical": false,
+            "translation": "Saint-Roman-en-Gal（玉米）"
+        },
+        {
+            "bbox": [
+                253.21001400561323,
+                939.1397599689674,
+                586.7061300130064,
+                970.0190299696519
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "2. In the 'Österreich' section:",
+            "uuid": "abc66038-e214-4902-9131-058793c78c4e",
+            "vertical": false,
+            "translation": "2. 在“Österreich”一节中："
+        },
+        {
+            "bbox": [
+                288.20652000638904,
+                982.3707379699257,
+                701.9887380155619,
+                1005.0155359704279
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "the 'Enns' centre becomes 'Ennsdorf'.",
+            "uuid": "2536de4f-6c16-4810-a033-9f4d595ae01a",
+            "vertical": false,
+            "translation": "”Enns“中心改为”Ennsdorf“。"
+        },
+        {
+            "bbox": [
+                780.2162220172961,
+                1046.1878959713406,
+                874.9126500193954,
+                1070.8913119718882
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "4d183fb5-2e40-41ca-96da-b07332453f0f",
+            "vertical": false,
+            "translation": "第 2 条"
+        },
+        {
+            "bbox": [
+                255.26863200565887,
+                1091.4774919723445,
+                1403.9774760311238,
+                1147.0601779735769
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.",
+            "uuid": "fe70857e-b8e7-41e4-b159-93004474b1ec",
+            "vertical": false,
+            "translation": "本条例将于《欧洲共同体官方公报》上公布后第三天起生效。"
+        },
+        {
+            "bbox": [
+                327.32026200725613,
+                1217.0531899751281,
+                1329.867228029481,
+                1254.1083139759498
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+            "uuid": "304ddb6e-18ca-492e-bf40-914f6e063721",
+            "vertical": false,
+            "translation": "本条例应具有完整约束力，并直接适用于所有成员国。"
+        },
+        {
+            "bbox": [
+                325.2616440072105,
+                1301.4565279769995,
+                761.6886600168854,
+                1328.2185619775926
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "Done at Brussels, 30 September 1999.",
+            "uuid": "ec2b191b-6dd9-4b22-aaed-d85fcda1eadf",
+            "vertical": false,
+            "translation": "1999 年 9 月 30 日订于布鲁塞尔。"
+        },
+        {
+            "bbox": [
+                988.1366400219054,
+                1369.3909219785055,
+                1191.9398220264231,
+                1394.094337979053
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "For the Commission",
+            "uuid": "239d42d6-bf24-496e-946a-dab2f28a493f",
+            "vertical": false,
+            "translation": "供委员会参考"
+        },
+        {
+            "bbox": [
+                1008.7228200223617,
+                1408.5046639793725,
+                1171.353642025967,
+                1433.20807997992
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "Franz FISCHLER",
+            "uuid": "10ba3b6b-f10a-4688-a146-8638c94ed12f",
+            "vertical": false,
+            "translation": "弗朗茨·菲施勒"
+        },
+        {
+            "bbox": [
+                944.905662020947,
+                1449.6770239802852,
+                1235.1708000273816,
+                1474.380439980833
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "Member of the Commission",
+            "uuid": "6989ac13-57d7-45a6-9338-0bb2418b2955",
+            "vertical": false,
+            "translation": "委员会委员"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

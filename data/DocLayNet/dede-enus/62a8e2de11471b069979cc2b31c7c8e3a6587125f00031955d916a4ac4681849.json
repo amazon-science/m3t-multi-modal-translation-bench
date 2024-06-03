@@ -1,0 +1,1169 @@
+{
+    "file": "62a8e2de11471b069979cc2b31c7c8e3a6587125f00031955d916a4ac4681849.png",
+    "annotations": [
+        {
+            "bbox": [
+                148.4776002659057,
+                1381.9017433839902,
+                168.85687873377512,
+                1400.4614434172286
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "1.",
+            "uuid": "2e6e2ca1-1589-4655-a83b-46a36349816f",
+            "vertical": false,
+            "translation": "1."
+        },
+        {
+            "bbox": [
+                183.0,
+                278.32338195431817,
+                1566.6082980347294,
+                445.07143995801465
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:",
+            "uuid": "e0ea5b1f-b8e4-4480-ad57-36f3d64e96cb",
+            "vertical": false,
+            "translation": "On the basis of the above-mentioned distribution curves, a minimum useful field strength contour is calculated for a transmitter in accordance with the applicable international agreements. This results in a distance r from the transmitter location to the point at which the minimum useful field strength is reached for each 10° step. From this, a surface element A can be calculated for each of the 36 10° steps:"
+        },
+        {
+            "bbox": [
+                184.0,
+                178.99999999999997,
+                1430.0,
+                238.0
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": ",,Medianwert für die minimale äquivalente Feldstärke\"). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.",
+            "uuid": "936bf434-407c-48ad-9d1e-094c1bda5715",
+            "vertical": false,
+            "translation": "\"Median value for the minimum equivalent field strength\"). In single-frequency networks, theoretical coverage areas of different transmitters are not estimated more than once."
+        },
+        {
+            "bbox": [
+                149.5693473266844,
+                1527.0,
+                182.00000000000003,
+                1544.9359711269456
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1.2",
+            "uuid": "07951e0a-b0e8-4b98-a520-8690f9c4f859",
+            "vertical": false,
+            "translation": "1.2"
+        },
+        {
+            "bbox": [
+                149.0,
+                1571.0,
+                182.0,
+                1589.0
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1.3",
+            "uuid": "404655a1-fd21-4c9d-baf1-7bb91585fab5",
+            "vertical": false,
+            "translation": "1.3"
+        },
+        {
+            "bbox": [
+                150.0,
+                1616.0,
+                181.0,
+                1633.0
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "1.4",
+            "uuid": "243e1446-8116-4bcb-95a3-fb4404458f0e",
+            "vertical": false,
+            "translation": "1.4"
+        },
+        {
+            "bbox": [
+                149.0,
+                1660.0,
+                180.0,
+                1677.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "1.5",
+            "uuid": "db2921a2-facb-43b6-84ef-9a94aec02858",
+            "vertical": false,
+            "translation": "1.5"
+        },
+        {
+            "bbox": [
+                167.0,
+                1240.0,
+                196.0,
+                1256.0
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Nr.",
+            "uuid": "48cdbe31-ca6c-40f4-a403-076372b38088",
+            "vertical": false,
+            "translation": "No."
+        },
+        {
+            "bbox": [
+                184.0,
+                554.0,
+                1546.0,
+                623.9999999999999
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.",
+            "uuid": "102c9246-7f07-4662-8e19-504e798df140",
+            "vertical": false,
+            "translation": "By adding the 36 surface elements, the theoretical coverage area of a transmission system is calculated in square kilometers."
+        },
+        {
+            "bbox": [
+                176.0,
+                1336.0,
+                187.0,
+                1352.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "27f3afbd-2b37-404c-85c1-ae5617d9d3d0",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                184.0,
+                665.0,
+                1550.0,
+                854.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.",
+            "uuid": "f2e0ad3e-186d-4d2d-9b6c-d78049ee5f89",
+            "vertical": false,
+            "translation": "The determination of the distances is based on the distribution curves for land distribution of the ITU-R P.370 recommendation for 50% time and 50% location probability. The roughness of the terrain is 50 m. The parameters required are the frequency range which is used, the value of the minimum useful field strength and the sectoral effective antenna heights and powers. For distances r, which are less than 10 km, the distance curves are used, which are currently also found in Annexes 1a and 2a to Directive 176 TR 22 and Directive 5 R 22 respectively."
+        },
+        {
+            "bbox": [
+                184.0,
+                897.0,
+                1439.0,
+                1021.0
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.",
+            "uuid": "9d98fd2f-8d27-4625-bf9d-f9e389baf4c8",
+            "vertical": false,
+            "translation": "For transmitters which are operated as part of a single frequency network, the total field strength of the network is calculated by power addition methods. The theoretical coverage area is created by the addition of sufficiently small surface elements in which the minimum useful field strength is achieved."
+        },
+        {
+            "bbox": [
+                339.0,
+                1224.0,
+                514.0,
+                1274.9999999999998
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Funkdienst/Funkanwendung",
+            "uuid": "c96ed5d4-1a22-40f2-82f8-53dbf4f715f4",
+            "vertical": false,
+            "translation": "Radio service/radio application"
+        },
+        {
+            "bbox": [
+                234.0,
+                1377.0,
+                360.0,
+                1428.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Öffentlicher Mobilfunk",
+            "uuid": "ac247d02-7562-4e37-a49f-5de459ad04bc",
+            "vertical": false,
+            "translation": "Public mobile telephony"
+        },
+        {
+            "bbox": [
+                776.0,
+                41.00000000000001,
+                1510.0,
+                88.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz sowie des Bundesamts für Justiz - www.gesetze-im-internet.de",
+            "uuid": "efac0531-41f3-4424-86ad-183f136142bc",
+            "vertical": false,
+            "translation": "A service of the Federal Ministry of Justice and Consumer Protection and the Federal Office of Justice - www.gesetze-im-internet.de"
+        },
+        {
+            "bbox": [
+                147.0,
+                1735.0,
+                168.0,
+                1751.0
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "2.",
+            "uuid": "1207b3e6-78e8-47dc-8b9c-ee35c50ca525",
+            "vertical": false,
+            "translation": "2."
+        },
+        {
+            "bbox": [
+                234.0,
+                1733.9999999999998,
+                401.0,
+                1752.0
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Rundfunkdienst",
+            "uuid": "426100c2-86ba-43b7-be06-27150f618a0a",
+            "vertical": false,
+            "translation": "Broadcast service"
+        },
+        {
+            "bbox": [
+                146.93467317473787,
+                1777.4996417965374,
+                186.2921749179712,
+                1799.8022261177032
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "2.1",
+            "uuid": "d796e21f-50c8-416a-97e2-7210ed7e189d",
+            "vertical": false,
+            "translation": "2.1"
+        },
+        {
+            "bbox": [
+                148.11368457897944,
+                1822.9675559385923,
+                201.0,
+                1840.0715932241258
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "2.1.1",
+            "uuid": "cfd8b9d4-2f32-4a09-bf5e-7b6b522b6f1d",
+            "vertical": false,
+            "translation": "2.1.1"
+        },
+        {
+            "bbox": [
+                148.84151595283194,
+                1868.0,
+                202.0,
+                1884.8332227160531
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "2.1.2",
+            "uuid": "155c48e9-910e-468d-870f-c43fa3cbe122",
+            "vertical": false,
+            "translation": "2.1.2"
+        },
+        {
+            "bbox": [
+                147.0,
+                1912.0,
+                202.0,
+                1927.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "2.1.3",
+            "uuid": "3c8f1e40-c02a-4609-9ffa-db23dc095eab",
+            "vertical": false,
+            "translation": "2.1.3"
+        },
+        {
+            "bbox": [
+                148.0,
+                1955.0000000000002,
+                202.0,
+                1971.9999999999998
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "2.1.4",
+            "uuid": "6ecc8324-baae-47e5-8d6f-bb8f77b2ec49",
+            "vertical": false,
+            "translation": "2.1.4"
+        },
+        {
+            "bbox": [
+                147.0,
+                1998.9999999999998,
+                201.2453748702104,
+                2017.6624484441306
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "2.1.5",
+            "uuid": "3630008d-8f1e-4ae7-9cf9-fb0d5dbde67d",
+            "vertical": false,
+            "translation": "2.1.5"
+        },
+        {
+            "bbox": [
+                149.93326301361063,
+                2041.5822456898243,
+                203.42886899176787,
+                2064.3466513764233
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "2.1.6",
+            "uuid": "d68a2f91-29f2-4271-9c8b-9a1fe17ab900",
+            "vertical": false,
+            "translation": "2.1.6"
+        },
+        {
+            "bbox": [
+                147.38585320512698,
+                2087.164032434105,
+                202.0,
+                2106.457876054133
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "2.1.7",
+            "uuid": "52a0f509-a7c0-470f-9b3e-8f5efed73310",
+            "vertical": false,
+            "translation": "2.1.7"
+        },
+        {
+            "bbox": [
+                419.00000000000006,
+                1336.0,
+                433.0,
+                1352.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "a03a421b-4da5-460c-9934-1e3947803584",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                830.1741899289194,
+                454.54893882775195,
+                938.8238374933372,
+                513.4066912874114
+            ],
+            "order": "4",
+            "label": "Formula",
+            "text": "A = πr²/36",
+            "uuid": "bd724689-124f-4dd6-a478-a9640f71c4b9",
+            "vertical": false,
+            "translation": "A = πr²/36"
+        },
+        {
+            "bbox": [
+                459.99999999999994,
+                1079.0,
+                1247.0,
+                1106.0
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2016",
+            "uuid": "374c3bdd-f6e2-449b-9048-56cc1d88116d",
+            "vertical": false,
+            "translation": "Frequency usage contributions and EMC contributions for 2016"
+        },
+        {
+            "bbox": [
+                638.0,
+                1452.0,
+                685.0,
+                1471.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "GSM",
+            "uuid": "191b763d-4317-4528-bf59-d627e2131e3c",
+            "vertical": false,
+            "translation": "GSM"
+        },
+        {
+            "bbox": [
+                639.0,
+                1524.0,
+                728.0,
+                1547.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(entfällt)",
+            "uuid": "f7ee04d4-b0f3-492f-9728-12a904108e0c",
+            "vertical": false,
+            "translation": "(omitted)"
+        },
+        {
+            "bbox": [
+                637.0,
+                1570.0,
+                721.0,
+                1590.0
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Funkruf",
+            "uuid": "f96aa2c5-964b-4ae2-88e6-9b54105337a9",
+            "vertical": false,
+            "translation": "Paging"
+        },
+        {
+            "bbox": [
+                639.0,
+                1614.0,
+                728.0,
+                1638.0
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "(entfällt)",
+            "uuid": "d7031248-3ddd-4604-850b-dd75a85f3f6d",
+            "vertical": false,
+            "translation": "(omitted)"
+        },
+        {
+            "bbox": [
+                638.0,
+                1657.0,
+                697.0,
+                1678.0
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "UMTS",
+            "uuid": "07bc66bb-8187-480e-b150-904dfe93da72",
+            "vertical": false,
+            "translation": "UMTS"
+        },
+        {
+            "bbox": [
+                637.919507421574,
+                1820.956883304691,
+                672.0293422657095,
+                1841.4555821292918
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "LW",
+            "uuid": "a0d3d7cf-e97d-471e-8407-2495874d9977",
+            "vertical": false,
+            "translation": "LW"
+        },
+        {
+            "bbox": [
+                638.0,
+                1866.0,
+                674.0,
+                1884.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "MW",
+            "uuid": "4c3696b8-bc17-4809-a1b4-75c6dc879ad5",
+            "vertical": false,
+            "translation": "MW"
+        },
+        {
+            "bbox": [
+                638.0,
+                1911.0,
+                672.0,
+                1927.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "KW",
+            "uuid": "846e1f75-ecd5-43a2-9b06-e485bbd8b31b",
+            "vertical": false,
+            "translation": "SW"
+        },
+        {
+            "bbox": [
+                760.0,
+                1238.0,
+                917.0000000000001,
+                1261.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Nutzergruppen",
+            "uuid": "951876aa-437f-4fad-95eb-89f770b352f3",
+            "vertical": false,
+            "translation": "User groups"
+        },
+        {
+            "bbox": [
+                832.0,
+                1336.0,
+                846.5003188448067,
+                1354.2293069880586
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "6c48c40e-282c-45a0-8bc1-a7364b38a2a0",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                637.0,
+                1950.0000000000002,
+                761.0,
+                1975.0
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "digitale MW",
+            "uuid": "15722549-f821-478c-8c8c-bfbce9a1e6f0",
+            "vertical": false,
+            "translation": "digital MW"
+        },
+        {
+            "bbox": [
+                637.0,
+                1995.0,
+                755.0,
+                2020.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "digitale LW",
+            "uuid": "cc501985-ed79-4cb0-b270-b815f1b8d430",
+            "vertical": false,
+            "translation": "digital LW"
+        },
+        {
+            "bbox": [
+                637.0,
+                2041.0,
+                755.0,
+                2064.0
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "digitale KW",
+            "uuid": "eb3959bc-be28-4c51-bca0-90908ede8945",
+            "vertical": false,
+            "translation": "digital SW"
+        },
+        {
+            "bbox": [
+                638.0,
+                2083.0,
+                980.9999999999999,
+                2136.0
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "Nichtöffentliche Funkanlagen im UKW-Rundfunkbereich",
+            "uuid": "abbdbf16-20d9-458f-8a47-5ea837f1583c",
+            "vertical": false,
+            "translation": "Non-public radio systems in the VHF broadcasting range"
+        },
+        {
+            "bbox": [
+                760.2198699889143,
+                2273.1286986414825,
+                946.1807860082226,
+                2292.418792073441
+            ],
+            "order": "83",
+            "label": "Page-footer",
+            "text": "- Seite 54 von 78 -",
+            "uuid": "31feb2f3-23f9-44a6-bf8b-dcbe6facafcf",
+            "vertical": false,
+            "translation": "- Page 54 of 78 -"
+        },
+        {
+            "bbox": [
+                1115.0,
+                1239.0,
+                1265.0,
+                1260.0
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Bezugseinheit",
+            "uuid": "1e024eef-c90d-4286-ac9d-ce38880cb697",
+            "vertical": false,
+            "translation": "reference unit"
+        },
+        {
+            "bbox": [
+                1057.0,
+                1453.0,
+                1273.8711397559864,
+                1504.6209630434528
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "je angefangene 100 kHz Bandbreite",
+            "uuid": "7155dd53-73f4-4116-a14b-4ca785f10d54",
+            "vertical": false,
+            "translation": "for every 100 kHz bandwidth"
+        },
+        {
+            "bbox": [
+                1060.0,
+                1571.9999999999998,
+                1157.0,
+                1592.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "b646cdbc-87a3-4b4d-9c6f-4e8971f6701d",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1183.0,
+                1337.0,
+                1196.0,
+                1353.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "311e85ea-573c-43c0-812c-206e9c56102a",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                1057.1750705207257,
+                1658.8428284479708,
+                1269.0,
+                1705.7867047483435
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "je angefangene 100 kHz Bandbreite",
+            "uuid": "7158f8d9-008f-4bb1-8709-45a54c5cc2a8",
+            "vertical": false,
+            "translation": "for every 100 kHz bandwidth"
+        },
+        {
+            "bbox": [
+                1059.0,
+                1820.0000000000002,
+                1157.0,
+                1844.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "4782de34-54f8-4276-9181-ddf7aa09dcdf",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1060.0,
+                1866.0,
+                1156.0,
+                1889.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "32a3c1df-9dc3-431b-8713-fe6e06f523a0",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1059.0,
+                1911.0,
+                1157.0,
+                1933.0
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "dd180c90-48e9-4c3e-bbdc-80c3e28e969a",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1060.0,
+                1955.0000000000002,
+                1157.0,
+                1975.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "ba75bdec-5c4f-4e2d-9ce1-94cb7454001c",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1060.0,
+                1998.0,
+                1156.0,
+                2020.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "92bf46d5-739e-416c-b808-bbd510e644ea",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1059.0,
+                2044.0,
+                1157.0,
+                2066.0
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "e8ea3473-0f2f-4039-91c8-39af1b169bef",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1059.0,
+                2088.0,
+                1156.0,
+                2109.0
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "Frequenz",
+            "uuid": "0f706e0c-5d88-42b6-a004-668aa232ca9e",
+            "vertical": false,
+            "translation": "Frequency"
+        },
+        {
+            "bbox": [
+                1368.0,
+                1187.0,
+                1540.0,
+                1267.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Jahresbeitrag je Bezugseinheit (in Euro)",
+            "uuid": "eaf62492-ec59-4a21-8478-bdd784785a2d",
+            "vertical": false,
+            "translation": "Annual contribution per reference unit (in euros)"
+        },
+        {
+            "bbox": [
+                1375.9652122681114,
+                1289.8310745916517,
+                1418.9072633254075,
+                1308.39077462489
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "TKG",
+            "uuid": "56ea5e74-82da-4a1c-b391-0c09f4335cd2",
+            "vertical": false,
+            "translation": "TKG"
+        },
+        {
+            "bbox": [
+                1390.0,
+                1336.0,
+                1405.0,
+                1353.0
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "9ae4b718-6829-4e5d-936f-888c77b58462",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1361.0,
+                1454.0,
+                1454.0,
+                1472.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1 117,93",
+            "uuid": "d8683a95-0e4c-480c-a32d-8b5502211d39",
+            "vertical": false,
+            "translation": "1,117.93"
+        },
+        {
+            "bbox": [
+                1408.0,
+                1570.0,
+                1454.0,
+                1589.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "931e9831-dd7a-4019-838d-6434d09f0be6",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1382.0,
+                1658.0000000000002,
+                1454.0,
+                1679.0
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "885,14",
+            "uuid": "3dbbe794-bf61-48d2-a3bc-8539d62be1ea",
+            "vertical": false,
+            "translation": "885.14"
+        },
+        {
+            "bbox": [
+                1492.0,
+                1289.0,
+                1552.0,
+                1308.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "EMVG",
+            "uuid": "828c91cb-e557-40fd-b921-5faffec0a762",
+            "vertical": false,
+            "translation": "EMCD"
+        },
+        {
+            "bbox": [
+                1515.022794468153,
+                1334.8465656951803,
+                1529.2478347533413,
+                1354.1119745853564
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "7390134f-aa1e-4b57-979c-97159835bdde",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1496.769531399045,
+                1452.9999999999998,
+                1570.0961723470848,
+                1474.9653574028057
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "144,40",
+            "uuid": "b8772be2-7996-49b7-b6dc-9807fd85f3c0",
+            "vertical": false,
+            "translation": "144.40"
+        },
+        {
+            "bbox": [
+                1523.0,
+                1569.0,
+                1569.0,
+                1589.0
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "4fc17fdc-9aed-424c-bc34-edf8a6933046",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1497.0,
+                1660.0,
+                1568.0,
+                1679.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "182,07",
+            "uuid": "8517f7c0-39a2-4726-8338-06596fa5c338",
+            "vertical": false,
+            "translation": "182.07"
+        },
+        {
+            "bbox": [
+                1407.0,
+                1820.0000000000002,
+                1453.0,
+                1842.0000000000002
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "0d9b0ef3-d1c5-4959-9444-3a690cc88983",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1523.0,
+                1822.0,
+                1568.0,
+                1840.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "1c689ed7-6665-4826-bd07-213cfd782920",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1408.0,
+                1867.0,
+                1453.0,
+                1885.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "f8b4f5ca-37a7-47f4-b67c-4a253b3b5f0c",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1523.0,
+                1866.0,
+                1568.0,
+                1886.0
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "ededbfb5-0e5a-4038-b27e-935e846464b9",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1394.5674784352352,
+                1910.0,
+                1457.6937371196902,
+                1930.9938985951476
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "65,69",
+            "uuid": "1c0c9625-cf7f-4e22-9944-e34f23a2f1a5",
+            "vertical": false,
+            "translation": "65.69"
+        },
+        {
+            "bbox": [
+                1408.0,
+                1954.0,
+                1454.0,
+                1974.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "bb6bc062-a339-46b3-87c2-fd98e2f1eb75",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1523.0,
+                1955.0000000000002,
+                1568.0,
+                1971.9999999999998
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "316dfb8f-7f95-4588-baa1-8fa732e5fffc",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1408.0,
+                1997.0,
+                1455.0,
+                2017.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "954bfae5-929e-4f95-be00-1b7b5b44fd5b",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1524.0,
+                1998.0,
+                1569.0,
+                2017.0
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "8fd8ed82-11fc-4a6b-b51c-43622a4e8405",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1408.0,
+                2045.0,
+                1454.0,
+                2061.0
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "159d4bf0-c3cb-41cc-8c16-3b2316f21682",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1524.0,
+                2043.0,
+                1568.0,
+                2062.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "ae5bd69b-e2af-490b-8977-fe62a56c3fca",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                1380.0,
+                2087.273992390697,
+                1458.1023993055987,
+                2109.8093625006627
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "293,00",
+            "uuid": "b72375ae-a3d2-4307-b704-dad8d96066cd",
+            "vertical": false,
+            "translation": "293.00"
+        },
+        {
+            "bbox": [
+                1521.9922509389532,
+                2086.0,
+                1573.6734091261847,
+                2109.106323735328
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "0,00",
+            "uuid": "70e83cc5-1782-47d5-ad53-74aab3aa1b3e",
+            "vertical": false,
+            "translation": "0.00"
+        },
+        {
+            "bbox": [
+                145.5997004172651,
+                1449.5204606029263,
+                184.94866288912866,
+                1474.4468783736406
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "1.1",
+            "uuid": "bb92c7e9-59c7-4e7d-9bb4-d6b61627ec18",
+            "vertical": false,
+            "translation": "1.1"
+        },
+        {
+            "bbox": [
+                230.85464720345348,
+                1774.8758083469886,
+                385.62723292611696,
+                1803.7379762920264
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Ton - Rundfunk",
+            "uuid": "5a36f20e-4ad7-4659-99c6-bb3c31ca1748",
+            "vertical": false,
+            "translation": "Sound - radio"
+        },
+        {
+            "bbox": [
+                1493.9728518082566,
+                1906.067480824433,
+                1572.6707767519836,
+                1934.929648769471
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "129,72",
+            "uuid": "dc61a9e7-40db-4c7b-b5c1-5069a34a170d",
+            "vertical": false,
+            "translation": "129.72"
+        },
+        {
+            "bbox": [
+                136.81438426346563,
+                1172.1476008639859,
+                1580.1027331460864,
+                2145.208147738986
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "1 . 1.1 1.2 1.3 1.4 1.5 Nr . 1 Funkdienst / Funkanwendung Öffentlicher Mobilfunk 2 . Rundfunkdienst 2.1 Ton - Rundfunk 2.1.1 2.1.2 2.1.3 2.1.4 2.1.5 2.1.6 2.1.7 2 GSM ( entfällt ) Funkruf ( entfällt ) UMTS LW MW KW Nutzergruppen 3 digitale MW digitale LW digitale KW Nichtöffentliche Funkanlagen im UKW - Rundfunkbereich Bezugseinheit je angefangene 100 kHz Bandbreite Frequenz 4 je angefangene 100 kHz Bandbreite Frequenz Frequenz Frequenz Frequenz Frequenz Frequenz Frequenz Jahresbeitrag je Bezugseinheit ( in Euro ) TKG 5 1 117,93 0,00 885,14 EMVG 6 144,40 0,00 182,07 0,00 0,00 0,00 0,00 65,69 129,72 0,00 0,00 0,00 0,00 0,00 0,00 293,00 0,00",
+            "uuid": "0e7b14b9-2f08-4537-97eb-93698e420eac",
+            "vertical": false,
+            "translation": "1. 1.1 1.2 1.3 1.4 1.5 No. 1 broadcast service/radio application Public mobile telephony 2. Broadcast service 2.1 sound - Radio 2.1.1 2.1.2 2.1.3 2.1.4 2.1.5 2.1.6 2.1.7 2 GSM (omitted) Paging (omitted) UMTS LW MW SW User groups 3 digital MW digital LW digital SW Non-public radio installations UKW - Radio area Reference unit for every 100 kHz bandwidth Frequency 4 for every 100 kHz bandwidth Frequency Frequency Frequency Frequency Frequency Frequency Frequency Annual contribution (in euros) TKG 5 1 117.93 0.00 885.14 EMCD 6 144.40 0.00 182.07 0.00 0.00 0.00 0.00 65.69 129.72 0.00 0.00 0.00 0.00 0.00 0.00 293.00 0.00"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

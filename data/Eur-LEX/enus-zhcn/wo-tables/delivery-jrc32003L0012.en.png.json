@@ -1,0 +1,469 @@
+{
+    "file": "jrc32003L0012.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                116.68402163520636,
+                139.5959846651644,
+                212.58869695181437,
+                160.92129730357593
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "4.2.2003",
+            "uuid": "7774cbf3-2aa7-4bc9-9a98-9b23415c7c6e",
+            "vertical": false,
+            "translation": "2003 年 2 月 4 日"
+        },
+        {
+            "bbox": [
+                333.00234484933327,
+                143.0812563530881,
+                361.5073455684361,
+                160.9412056877577
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "936b3b61-3d8b-42e8-8e5d-2b44737fda8c",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.2593416062093,
+                138.45337934197156,
+                1033.7996563780705,
+                165.9730528909892
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "7ad39396-7210-4c7d-89b1-27264b0733f6",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1452.127824734714,
+                138.44758618909987,
+                1536.4184743014719,
+                166.50712529854974
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 28/43",
+            "uuid": "746b06c6-4d92-4012-b6a9-017487523158",
+            "vertical": false,
+            "translation": "L 28/43"
+        },
+        {
+            "bbox": [
+                602.4218843106906,
+                245.06059004055564,
+                1052.6371136735895,
+                273.7112090778889
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "COMMISSION DIRECTIVE 2003/12/EC",
+            "uuid": "cd5ec605-8594-433c-a918-95a8929307dc",
+            "vertical": false,
+            "translation": "委员会第 2003/12/EC 号指令"
+        },
+        {
+            "bbox": [
+                716.5768755215342,
+                285.7844003281094,
+                936.5983767331936,
+                315.1889830243201
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "of 3 February 2003",
+            "uuid": "bdf62397-d955-49d1-822e-25ea4265e528",
+            "vertical": false,
+            "translation": "2003 年 2 月 3 日"
+        },
+        {
+            "bbox": [
+                256.2005054990417,
+                326.6142726848923,
+                1396.9851887684233,
+                380.4510915845576
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "on the reclassification of breast implants in the framework of Directive 93/42/EEC concerning medical devices",
+            "uuid": "b79f0c1e-ffdf-4ef3-9c68-df0cd73cdeed",
+            "vertical": false,
+            "translation": "根据关于医疗器械的第 93/42/EEC 号指令对乳房植入物重新分类"
+        },
+        {
+            "bbox": [
+                692.990128897507,
+                402.7603912031692,
+                960.6911220189613,
+                428.1293470174245
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "(Text with EEA relevance)",
+            "uuid": "7ac9575a-03ab-4b53-8d02-e1495b182a03",
+            "vertical": false,
+            "translation": "（与 EEA 有关的文本）"
+        },
+        {
+            "bbox": [
+                115.35107421875,
+                484.3568359854432,
+                662.4121093749999,
+                505.49854733912207
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,",
+            "uuid": "deb7fa1a-fe86-4f6b-a991-dcad005ede36",
+            "vertical": false,
+            "translation": "欧洲共同体委员会，"
+        },
+        {
+            "bbox": [
+                115.11711902490724,
+                574.3801316125807,
+                791.9711572014295,
+                631.5412013814464
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community,",
+            "uuid": "a3e0387c-0617-4ac4-851f-6ae71a75b287",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，"
+        },
+        {
+            "bbox": [
+                113.63793945312499,
+                695.0699433813691,
+                793.181396484375,
+                809.9208618162187
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Having regard to Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (¹), as last amended by Directive 2001/104/EC of the European Parliament and of the Council (²), and in particular Article 13(1)(b) thereof,",
+            "uuid": "7c92cb40-faf1-413b-9089-ff8410cdbe53",
+            "vertical": false,
+            "translation": "考虑到 1993 年 6 月 14 日欧洲理事会关于医疗器械的第 93/42/EEC 号指令 (¹)，该指令经欧洲议会和理事会第 2001/104/EC 号指令 (²) 最后修正，特别是其中的第 13(1)(b) 条，"
+        },
+        {
+            "bbox": [
+                115.922119140625,
+                874.9328703871838,
+                793.181396484375,
+                932.072630802532
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Having regard to the request submitted by France and the United Kingdom,",
+            "uuid": "8b64c69e-92b7-4b91-8e16-d7206a2a63bc",
+            "vertical": false,
+            "translation": "考虑到法国和英国提出的要求，"
+        },
+        {
+            "bbox": [
+                115.44867178015117,
+                996.9429172580406,
+                211.8745510510729,
+                1018.6029123600722
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Whereas:",
+            "uuid": "2e0996b0-1022-40ab-81cc-badf60aa24f3",
+            "vertical": false,
+            "translation": "鉴于："
+        },
+        {
+            "bbox": [
+                117.064208984375,
+                1087.3326613778484,
+                791.46826171875,
+                1175.899290021638
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(1) On the basis of the classification criteria set out to Annex IX to Directive 93/42/EEC, breast implants are in principal Class IIb medical devices.",
+            "uuid": "6594c784-89ac-4bef-b64c-40a6cce8cd47",
+            "vertical": false,
+            "translation": "(1) 根据第 93/42/EEC 号指令附件九规定的分类标准，乳房植入物主要属于第二 b 类医疗器械。"
+        },
+        {
+            "bbox": [
+                117.064208984375,
+                1241.0280364267803,
+                792.6103515625,
+                1357.0217500699373
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(2) France and the United Kingdom requested the classification of breast implants as Class III medical devices by way of derogation from the provisions of Annex IX to Directive 93/42/EEC.",
+            "uuid": "cf006002-26b2-4257-a911-b694b92c8f31",
+            "vertical": false,
+            "translation": "(2) 法国和英国要求通过克减第 93/42/EEC 号指令附件九的规定，将乳房植入物归类为第三类医疗器械。"
+        },
+        {
+            "bbox": [
+                116.29144414654698,
+                1420.8434873977799,
+                792.2354632483513,
+                1626.0953606883218
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(3) In order to ensure the highest possible level of safety for breast implants, notified bodies should, under the full quality assurance system, carry out an examination of the design dossier of the product in accordance with point 4 of Annex II to Directive 93/42/EEC. Consequently, it is necessary to proceed to the reclassification of breast implants as Class III medical devices.",
+            "uuid": "f0a19ca5-1ce0-40fc-a791-d1f03ba8bbfd",
+            "vertical": false,
+            "translation": "(3) 为确保乳房植入物尽可能高的安全性，指定机构应在全面质量保证体系下，根据第 93/42/EEC 号指令附件二第 4 点审查产品的设计档案。因此，有必要将乳房植入物重新分类为第三类医疗器械。"
+        },
+        {
+            "bbox": [
+                117.09902361978688,
+                1691.4125370168354,
+                794.658201668071,
+                1806.9677255229283
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(4) It is necessary to determine the regime applicable to breast implants placed on the market before 1 September 2003 under Article 11(3)(a) or 11(3)(b)(iii) of Directive 93/42/EEC.",
+            "uuid": "717cff60-3310-423f-af6e-f6c1a499d028",
+            "vertical": false,
+            "translation": "(4) 有必要根据第 93/42/EEC 号指令第 11(3)(a) 条或第 11(3)(b)(iii) 条，确定适用于 2003 年 9 月 1 日之前投放市场的乳房植入物的制度。"
+        },
+        {
+            "bbox": [
+                114.67628520006716,
+                1870.6383205170916,
+                793.850622194831,
+                2073.4659590837296
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "(5) The measures provided for in this Directive are in accordance with the opinion of the Committee on Medical Devices set up by Article 6(2) of Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices (³), as last amended by Directive 93/68/EEC (⁴),",
+            "uuid": "76e6e753-293a-42e4-b8d3-6fc351f62a5a",
+            "vertical": false,
+            "translation": "(5) 本指令规定的措施符合 1990 年 6 月 20 日第 90/385/EEC 号理事会指令第 6(2) 条所设的医疗器械委员会的意见，该意见涉及成员国关于主动植入式医疗器械的法律的近似化 (³)，经第 93/68/EEC号指令(⁴) 最后修正，"
+        },
+        {
+            "bbox": [
+                117.4074738110101,
+                2112.6853453760796,
+                400.02905747583685,
+                2136.2516898091794
+            ],
+            "order": "30",
+            "label": "Footnote",
+            "text": "(¹) OJ L 169, 12.7.1993, p. 1.",
+            "uuid": "c86817ae-8511-4663-af30-556993c00650",
+            "vertical": false,
+            "translation": "(¹) OJ L 169，1993 年 7 月 12 日，第 1 页。"
+        },
+        {
+            "bbox": [
+                117.60555298879152,
+                2137.220463363297,
+                386.6809994314083,
+                2160.914682410717
+            ],
+            "order": "31",
+            "label": "Footnote",
+            "text": "(²) OJ L 6, 10.1.2002, p. 50.",
+            "uuid": "20c25868-aaf4-4ce2-ae02-47fb837e5a1e",
+            "vertical": false,
+            "translation": "(²) OJ L 6，2002 年 1 月 10 日，第 50 页。"
+        },
+        {
+            "bbox": [
+                117.06458908359929,
+                2161.8884174400628,
+                411.277677721203,
+                2185.258058144367
+            ],
+            "order": "32",
+            "label": "Footnote",
+            "text": "(³) OJ L 189, 20.7.1990, p. 17.",
+            "uuid": "e4712be1-90cb-480b-8c42-8bf2666fabd1",
+            "vertical": false,
+            "translation": "(³) OJ L 189，1990 年 7 月 20 日，第 17 页。"
+        },
+        {
+            "bbox": [
+                117.4074738110101,
+                2185.8465340639113,
+                398.97449932783377,
+                2209.764614981087
+            ],
+            "order": "33",
+            "label": "Footnote",
+            "text": "(⁴) OJ L 229, 30.8.1993, p. 1.",
+            "uuid": "e36a2fcc-ef46-422e-92b0-e2078234c9cf",
+            "vertical": false,
+            "translation": "(⁴) OJ L 229，1993 年 8 月 30 日，第 1 页。"
+        },
+        {
+            "bbox": [
+                861.6252966970288,
+                485.4009499432705,
+                1186.3830604717725,
+                504.25004141520066
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "HAS ADOPTED THIS DIRECTIVE:",
+            "uuid": "fbe6f4be-0a16-4f11-a18e-4482206ce21d",
+            "vertical": false,
+            "translation": "已通过以下指令："
+        },
+        {
+            "bbox": [
+                1155.7986345262862,
+                649.4348966704382,
+                1241.5651904084154,
+                671.7512552604103
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "99c2a0b4-7b5a-4f1d-b89b-6b4189541f0f",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                1156.5808293009948,
+                977.5240942750409,
+                1242.918668569675,
+                998.8512358365306
+            ],
+            "order": "22",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "cbc38593-9d63-4309-a010-df1bd0711246",
+            "vertical": false,
+            "translation": "第 2 条"
+        },
+        {
+            "bbox": [
+                859.7415509674771,
+                746.91348806247,
+                1538.6435118979737,
+                836.6351634688564
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "By way of derogation from the rules set out in Annex IX to Directive 93/42/EEC, breast implants shall be reclassified as medical devices falling within Class III.",
+            "uuid": "b0491ee7-d489-410f-8968-5d33e0445283",
+            "vertical": false,
+            "translation": "通过克减第 93/42/EEC 号指令附件九中规定的规则，乳房植入物应重新归类为属于第三类医疗器械。"
+        },
+        {
+            "bbox": [
+                863.5090424265808,
+                1076.9620277269344,
+                1538.6435118979737,
+                1190.056576558514
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "1 . Breast implants placed on the market before 1 September 2003 pursuant to Article 11(3)(a) or 11(3)(b)(iii) of Directive 93/42/EEC shall be subject to a conformity reassessment procedure as Class III medical devices before 1 March 2004 .",
+            "uuid": "2fdb099f-f06e-4714-9972-7e35c15e3b57",
+            "vertical": false,
+            "translation": "1. 根据第 93/42/EEC 号指令第 11(3)(a) 或 11(3)(b)(iii) 条在 2003 年 9 月 1 日之前投放市场的乳房植入物应在 2004 年 3 月 1 日之前作为第三类医疗器械接受合格性重新评估程序。"
+        },
+        {
+            "bbox": [
+                863.5090424265808,
+                1264.7115436978806,
+                1540.1505084816151,
+                1380.0679835060919
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "2. By way of derogation from Article 11(11) of Directive 93/42/EEC, the decisions on breast implants taken by the notified bodies before 1 September 2003 under Article 11(3)(a) of Directive 93/42/EEC may not be extended.",
+            "uuid": "9c9ca117-cafd-4453-a718-87bd6a395738",
+            "vertical": false,
+            "translation": "2. 通过克减第 93/42/EEC 号指令第 11(11) 条，指定机构在 2003 年 9 月 1 日之前根据 93/42/EEC 指令第 11(3)(a) 条做出的关于乳房植入物的决定不得延期。"
+        },
+        {
+            "bbox": [
+                1156.4538056795507,
+                1521.6434639968843,
+                1241.4515452380508,
+                1543.663596072346
+            ],
+            "order": "25",
+            "label": "Section-header",
+            "text": "Article 3",
+            "uuid": "3b85d815-879f-4f2b-b35c-eccfc99efee8",
+            "vertical": false,
+            "translation": "第 3 条"
+        },
+        {
+            "bbox": [
+                864.0346425971941,
+                1619.8069743633023,
+                1538.9518573191685,
+                1736.5834870765723
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "1 . Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive, not later that 1 August 2003. They shall immediately inform the Commission thereof.",
+            "uuid": "09330851-9e21-4767-964f-e8e3b8f41f91",
+            "vertical": false,
+            "translation": "1. 成员国最迟应于 2003 年 8 月 1 日前通过并公布遵守本指令所需的法律、条例和行政规定，并立即向委员会通报有关情况。"
+        },
+        {
+            "bbox": [
+                859.8164100051818,
+                1806.9937433002367,
+                1538.9518573191685,
+                1925.177201949811
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference at the time of their official publication. The procedure for such reference shall be adopted by the Member States.",
+            "uuid": "05289bc7-d372-4958-9a6f-8bb3dada990b",
+            "vertical": false,
+            "translation": "当成员国通过这些规定时，应提及本指令，或在正式公布时附带提及本指令。成员国应采用提及本指令的程序。"
+        },
+        {
+            "bbox": [
+                862.6285650665234,
+                1996.112473783907,
+                1537.5457797884976,
+                2053.0937842042376
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "Member States shall apply these measures with effect from 1 September 2003.",
+            "uuid": "e0205953-724b-450a-89f4-fa07d25a3b87",
+            "vertical": false,
+            "translation": "成员国应自 2003 年 9 月 1 日起适用这些措施。"
+        },
+        {
+            "bbox": [
+                861.9255263011878,
+                2123.4410810194604,
+                1538.9518573191685,
+                2211.375202038489
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.",
+            "uuid": "07619962-2852-45da-b982-ef27faa44e5d",
+            "vertical": false,
+            "translation": "2. 成员国应向委员会通报其在本指令所涉领域内通过的国内法条款文本。"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

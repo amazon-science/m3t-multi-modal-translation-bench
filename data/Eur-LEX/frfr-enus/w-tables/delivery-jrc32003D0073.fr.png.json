@@ -1,0 +1,553 @@
+{
+    "file": "jrc32003D0073.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                115.04678201510987,
+                138.57811609218814,
+                204.15152942698404,
+                170.1187333151501
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 27/32",
+            "uuid": "a81b7d0d-c6a0-4181-bc3e-7e21143a4b5e",
+            "vertical": false,
+            "translation": "L 27/32"
+        },
+        {
+            "bbox": [
+                339.74138541425447,
+                142.28877694194847,
+                363.87392117163705,
+                162.69741161562973
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "0a529337-4e00-464d-b3c9-ac676aa45485",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                625.6191166940174,
+                142.28877694194847,
+                1024.7341311430373,
+                171.9740637400303
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "5a45555e-743e-436f-a1af-c0ef748f6d63",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1438.6999368273698,
+                142.28877694194847,
+                1538.942777665728,
+                166.40807246538978
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "1.2.2003",
+            "uuid": "c7c23db9-a6eb-4b32-8975-cad70cccd683",
+            "vertical": false,
+            "translation": "1.2.2003"
+        },
+        {
+            "bbox": [
+                783.1887819898816,
+                244.3319503103545,
+                874.1498783061697,
+                264.74058498403576
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "05cf37d2-3c3e-4d5f-b8c9-ccf0d61f06a0",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                250.41664642305045,
+                299.9918630567578,
+                1056.0720709387465,
+                333.38781070459993
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Le texte suivant est inséré dans l'annexe dans l'ordre alphabétique du code ISO:",
+            "uuid": "4f4e1a4d-f904-4d51-8578-9ab3f1ccc4a7",
+            "vertical": true,
+            "translation": "The following text is inserted in the Annex in alphabetical order of the ISO code:"
+        },
+        {
+            "bbox": [
+                257.9357421578286,
+                350.08578452852083,
+                1403.3030161812949,
+                403.89036685004396
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "«País: Estonia/Land: Estland/Land: Estland/Xópa: Eodovia/Country: Estonia/Pays: Estonie/Paese: Estonia/Land: Estland/País: Estónia/Maa: Viro/Land: Estland",
+            "uuid": "ed641165-008f-4c9b-9358-366a58f7dae3",
+            "vertical": true,
+            "translation": "\"País: Estonia/Land: Estland/Land: Estland/Xópa: Eodovia/Country: Estonia/Pays: Estonie/Paese: Estonia/Land: Estland/País: Estónia/Maa: Viro/Land: Estland"
+        },
+        {
+            "bbox": [
+                258.05445995037076,
+                418.53154542197797,
+                1397.5686278364815,
+                552.3124101857227
+            ],
+            "order": "8",
+            "label": "Table",
+            "text": "",
+            "uuid": "66b09c1e-4240-4b23-9670-407a4d51bb39",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                306.20081367259377,
+                431.7203232232456,
+                326.6206516211482,
+                448.4182970471668
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "9428ec70-c16b-4486-ad1b-7be5b5bd58c3",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                493.7317737202359,
+                431.7203232232456,
+                519.7206583820325,
+                455.8396187466872
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "ac5ccab2-4e61-4c9c-9cf8-4a80a7727ae9",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                304.38418547000316,
+                481.8142446950087,
+                334.0857679406279,
+                507.78887064333014
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "34",
+            "uuid": "c168c5b0-f48e-47b8-b7b1-bea3d92e12b0",
+            "vertical": false,
+            "translation": "34"
+        },
+        {
+            "bbox": [
+                458.4611445363689,
+                481.8142446950087,
+                556.8476364703134,
+                539.3294878662921
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "AS Villem Lihakaup",
+            "uuid": "9db653f4-d2e0-42a3-ba93-f7bae49d3bef",
+            "vertical": false,
+            "translation": "AS Villem Lihakaup"
+        },
+        {
+            "bbox": [
+                757.3333181470304,
+                428.0096623734856,
+                775.8968071911709,
+                457.6949491715674
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "9474a331-d2cc-4b01-9d76-ba654970624d",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                727.6317356764056,
+                483.66957511988886,
+                809.3110874706236,
+                507.78887064333014
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Aruküla",
+            "uuid": "e11b964f-f477-4726-95e4-ef102af83be4",
+            "vertical": false,
+            "translation": "Aruküla"
+        },
+        {
+            "bbox": [
+                1020.9348625738248,
+                429.86499279836573,
+                1037.6420027135512,
+                452.12895789692686
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "68fe700d-8089-464b-b90e-c29e16538715",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                1002.3713735296845,
+                481.8142446950087,
+                1059.9181895665197,
+                511.4995314930905
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Harju",
+            "uuid": "9fcaac55-34fb-43d9-ba3f-3f97d315e9d7",
+            "vertical": false,
+            "translation": "Harju"
+        },
+        {
+            "bbox": [
+                1210.2824508240576,
+                428.0096623734856,
+                1232.5586376770261,
+                453.984288321807
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "2d87b888-ff90-4dc3-84db-956722a5f229",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1201.000706301987,
+                481.8142446950087,
+                1238.1276843902683,
+                511.4995314930905
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "PH",
+            "uuid": "86067895-d6ad-4a46-967b-d1f186f3326c",
+            "vertical": false,
+            "translation": "PH"
+        },
+        {
+            "bbox": [
+                1332.8014785153844,
+                431.7203232232456,
+                1345.7959208462828,
+                452.12895789692686
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "3336f88d-0bf2-44d7-8d86-823685d3e651",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1320.5314299084193,
+                485.988738150989,
+                1361.8125318620016,
+                508.71653585577036
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "(²) (e)",
+            "uuid": "3bdb3c7a-1b04-40e9-8863-fd94a1a53363",
+            "vertical": true,
+            "translation": "(²) (e)"
+        },
+        {
+            "bbox": [
+                256.0355986334554,
+                563.4487833897338,
+                452.8696912733802,
+                587.568078913175
+            ],
+            "order": "21",
+            "label": "Footnote",
+            "text": "⁽ᵃ⁾ Gros gibier sauvage.",
+            "uuid": "d6893cb3-c8b1-457d-b70e-328382099413",
+            "vertical": false,
+            "translation": "⁽ᵃ⁾ Large wild game."
+        },
+        {
+            "bbox": [
+                254.24035850107737,
+                593.1340701878155,
+                677.4879087074798,
+                609.8320440117365
+            ],
+            "order": "22",
+            "label": "Footnote",
+            "text": "⁽ᵉ⁾ À l'exclusion des viandes de porcins sauvages.",
+            "uuid": "a4cb4da0-f1cb-4cd0-8f1e-40cbd01029d5",
+            "vertical": false,
+            "translation": "⁽ᵉ⁾Excluding wild pig meat."
+        },
+        {
+            "bbox": [
+                254.23526610340767,
+                663.6366263332595,
+                1399.602540126874,
+                713.7305478050226
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "País: Namibia/Land: Namibia/Land: Namibia/Xopa: Nauiuma/Country: Namibia/Pays: Namibie/Paese: Namibia/Land: Namibië/País: Namíbia/Maa: Namibia/Land: Namibia",
+            "uuid": "3509b1c2-3d2a-457f-81ad-1dae767b8381",
+            "vertical": true,
+            "translation": "País: Namibia/Land: Namibia/Land: Namibia/Xopa: Nauiuma/Country: Namibia/Pays: Namibie/Paese: Namibia/Land: Namibië/País: Namíbia/Maa: Namibia/Land: Namibia"
+        },
+        {
+            "bbox": [
+                254.18026820857523,
+                735.9945129035841,
+                1399.602540126874,
+                897.4082598681537
+            ],
+            "order": "24",
+            "label": "Table",
+            "text": "",
+            "uuid": "a0c757e5-67ef-4eba-916d-1fe8cd90ccda",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                306.98851359722016,
+                747.645012848598,
+                324.04343101928794,
+                771.259513894538
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "46c15ce0-8643-4c0a-ac37-3c70802b8b7b",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                300.4289299733479,
+                802.7455152891248,
+                325.3553477440623,
+                828.9838497846137
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "31",
+            "uuid": "b0de459a-3b6f-4f1d-a9a9-e739d1218f06",
+            "vertical": true,
+            "translation": "31"
+        },
+        {
+            "bbox": [
+                490.02111287047563,
+                748.9818258777447,
+                514.1536486278583,
+                771.2457909763061
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "86387660-393a-470b-98bd-dcc5776ce394",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                426.3729355516947,
+                802.7455152891248,
+                581.1791090750792,
+                876.2128518764937
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "State Veterinary Marintal Abattoir",
+            "uuid": "e6e5c99c-79fe-46ef-b02a-131d885bc673",
+            "vertical": true,
+            "translation": "State Veterinary Mariental Abattoir"
+        },
+        {
+            "bbox": [
+                759.1917040105124,
+                748.9818258777447,
+                775.8988441502387,
+                771.2457909763061
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "568a31b6-6f2a-4ebe-a6a1-a6a289573bf9",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                723.9210748266455,
+                800.9310777743879,
+                813.0258222385196,
+                826.9057037227094
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Marintal",
+            "uuid": "ae29fea4-f9b6-42b2-87e5-21e92032993f",
+            "vertical": true,
+            "translation": "Mariental"
+        },
+        {
+            "bbox": [
+                1019.0805506284788,
+                748.9818258777447,
+                1035.787690768205,
+                771.2457909763061
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "4",
+            "uuid": "0b388217-5b25-4721-bae0-65431824c032",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                957.821036782815,
+                804.6417386241479,
+                1100.7599024226968,
+                834.3270254222298
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Hardap Region",
+            "uuid": "b0798a83-bf18-4b5d-abcb-616b14294622",
+            "vertical": false,
+            "translation": "Hardap Region"
+        },
+        {
+            "bbox": [
+                1213.9971855919534,
+                747.1264954528646,
+                1226.9916279228519,
+                769.3904605514259
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "909f4423-1564-4101-af2b-c4dd7d5041a3",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                1204.7154410698831,
+                804.6417386241479,
+                1236.2733724449222,
+                825.0503732978292
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "PH",
+            "uuid": "06bd297f-39ec-4f3a-a9f0-44960f6208b0",
+            "vertical": false,
+            "translation": "PH"
+        },
+        {
+            "bbox": [
+                1330.9471665700382,
+                748.9818258777447,
+                1351.3670045185927,
+                773.1011214011862
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "d5040f7d-806c-4b6c-a845-c86383ed124f",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                1304.9032840134091,
+                799.0757473495078,
+                1377.300891285557,
+                834.3270254222298
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(¹) (²) (e)",
+            "uuid": "8f3227ca-2707-43fd-a053-05a0131d3a0a",
+            "vertical": true,
+            "translation": "(¹) (²) (e)"
+        },
+        {
+            "bbox": [
+                254.20980411505934,
+                910.3226867206292,
+                934.084708039405,
+                934.5148683657557
+            ],
+            "order": "37",
+            "label": "Footnote",
+            "text": "(¹) Viandes de gibier sauvage désossées uniquement - à l'exclusion des abats.",
+            "uuid": "9eb68eb4-83c1-4058-b07b-d509588e5a19",
+            "vertical": false,
+            "translation": "(¹) Boneless wild game meat only - excluding offal."
+        },
+        {
+            "bbox": [
+                256.0355986334554,
+                932.6595379408757,
+                752.3364872888851,
+                956.7788334643174
+            ],
+            "order": "38",
+            "label": "Footnote",
+            "text": "⁽ᵃ⁾ Gros gibier sauvage [Springbok (Antidorcas marsupialis)].",
+            "uuid": "a6186461-adcd-4eee-8eb4-7e58cdbddfd0",
+            "vertical": false,
+            "translation": "⁽ᵃ⁾Large wild game [Springbok (Antidorcas marsupialis)]."
+        },
+        {
+            "bbox": [
+                257.9225019238874,
+                956.7788334643174,
+                688.595447747946,
+                979.0427985628785
+            ],
+            "order": "39",
+            "label": "Footnote",
+            "text": "⁽ᵉ⁾ À l'exclusion des viandes de porcins sauvages.»",
+            "uuid": "53158b5f-cdb7-42e1-a64b-637752865ae4",
+            "vertical": false,
+            "translation": "⁽ᵉ⁾Excluding wild pig meat.”"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,371 @@
+{
+    "file": "876f3a29c5313f0090e8bf5efc193d927818247a8d24b567fbe81b522d3b4ac3.png",
+    "annotations": [
+        {
+            "bbox": [
+                248.2168659692006,
+                716.2132895969152,
+                724.7932486300657,
+                748.2056856551676
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "Form of notification of negative result",
+            "uuid": "e3094af1-810b-4a9c-9b04-a7a4389fe643",
+            "vertical": false,
+            "translation": "Form der Meldung eines negativen Ergebnisses"
+        },
+        {
+            "bbox": [
+                249.32005204017483,
+                769.166221003678,
+                1404.3558683501885,
+                836.4605713331057
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "2. Notification of a negative test result must include, in English, French or Spanish, the following information",
+            "uuid": "d717162b-cec6-4623-9562-6772af68a4f3",
+            "vertical": false,
+            "translation": "2. Die Benachrichtigung über ein negatives Testergebnis muss in englischer, französischer oder spanischer Sprache folgende Angaben enthalten"
+        },
+        {
+            "bbox": [
+                246.01049382725216,
+                1242.4330454516203,
+                862.6915075018438,
+                1272.2190693679245
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "Persons not required to comply with regulation 4",
+            "uuid": "1faddfcf-05e6-4fde-bca4-1add7b539822",
+            "vertical": false,
+            "translation": "Personen, die Verordnung 4 nicht einhalten müssen"
+        },
+        {
+            "bbox": [
+                247.1136798982264,
+                1296.4891629293575,
+                1408.7686126340852,
+                1362.6803271878111
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "3. (1) The persons referred to in regulation 4(6)(c) (and not required to comply with that regulation) are",
+            "uuid": "380c7e41-2544-4f55-9aeb-dca794353bd1",
+            "vertical": false,
+            "translation": "3. (1) Die in Verordnung 4(6)(c) genannten Personen (und nicht verpflichtet, diese Verordnung zu befolgen) sind:"
+        },
+        {
+            "bbox": [
+                809.738576095081,
+                2208.8240436250417,
+                841.7309721533336,
+                2233.094137186474
+            ],
+            "order": "26",
+            "label": "Page-footer",
+            "text": "57",
+            "uuid": "b455519a-6bc5-4d85-86d5-a0ce5e47613d",
+            "vertical": false,
+            "translation": "57"
+        },
+        {
+            "bbox": [
+                360.06557529595045,
+                202.84173117690918,
+                737.4419955580524,
+                234.0012521159819
+            ],
+            "order": "1",
+            "label": "List-item",
+            "text": "(i) a sensitivity of at least 80%,",
+            "uuid": "29992a21-8590-4989-8cb5-9d09edeeed51",
+            "vertical": false,
+            "translation": "(i) eine Sensitivität von mindestens 80 %,"
+        },
+        {
+            "bbox": [
+                349.6790683162596,
+                244.38775909567266,
+                791.105614953122,
+                279.0094490279757
+            ],
+            "order": "2",
+            "label": "List-item",
+            "text": "(ii) a specificity of at least 97%, and",
+            "uuid": "ed84121d-1a20-424b-9f5f-0763629957a6",
+            "vertical": false,
+            "translation": "(ii) eine Spezifität von mindestens 97 % und"
+        },
+        {
+            "bbox": [
+                347.9479838196445,
+                287.6648715110514,
+                1405.6406112514992,
+                353.4460823824269
+            ],
+            "order": "3",
+            "label": "List-item",
+            "text": "(iii) a limit of detection of less than or equal to 100,000 SARS-CoV-2 copies per millilitre;",
+            "uuid": "475d5004-9e2b-4b45-8bfc-c9ab0ff2fe21",
+            "vertical": false,
+            "translation": "(iii) eine Nachweisgrenze von weniger als oder gleich 100.000 SARS-CoV-2-Kopien pro Milliliter;"
+        },
+        {
+            "bbox": [
+                292.5532799279598,
+                369.02584285196315,
+                1409.1027802447293,
+                472.8909126488721
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "(b) it is not a test provided or administered under the National Health Service Act 2006, the National Health Services (Wales) Act 2006, the National Health Service (Scotland) Act 1978, or the Health and Personal Social Services (Northern Ireland) Order 1972; and",
+            "uuid": "d98e8626-4eca-43cc-b9cb-d3a79fb11506",
+            "vertical": false,
+            "translation": "(b) es handelt sich nicht um einen Test, der gemäß dem Gesetz für nationales Gesundheitswesen 2006, dem Gesetz für nationales Gesundheitswesen (Wales) 2006, dem Gesetz für nationales Gesundheitswesen (Schottland) 1978 oder der Verordnung für Gesundheits- und Sozialdienste (Nordirland) 1972 bereitgestellt oder verwaltet wird; und"
+        },
+        {
+            "bbox": [
+                294.2843644245749,
+                476.3530816421023,
+                1215.2213166238328,
+                517.8991095608658
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "(c) the test sample is taken from the person no more than three days before",
+            "uuid": "18e4f40f-dc02-4a24-9baa-0a5e2f36656f",
+            "vertical": false,
+            "translation": "(c) die Entnahme darf bei der Person nicht länger als drei Tage zurückliegen"
+        },
+        {
+            "bbox": [
+                360.06557529595045,
+                521.3612785540961,
+                1403.909526754884,
+                592.335742915317
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "(i) in the case of that person travelling to England on a commercial transport service, the service's scheduled time of departure, or",
+            "uuid": "bd26f2c5-4c05-41d0-8f5c-3fa1bdd538bc",
+            "vertical": false,
+            "translation": "(i) im Fall, dass diese Person mit einem gewerblichen Transportdienst nach England reist, die geplante Abfahrtszeit des Dienstes oder"
+        },
+        {
+            "bbox": [
+                353.1412373094899,
+                599.2600809017778,
+                1405.6406112514992,
+                673.696714256229
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "(ii) in any other case, the actual time of departure of the vessel or aircraft on which that person is travelling to England.",
+            "uuid": "1f8bcadc-d0b9-4314-9580-0aa9786b8050",
+            "vertical": false,
+            "translation": "(ii) in jedem anderen Fall, in dem diese Person mit einer konkreten Abfahrtszeit mit einem Schiff oder Flugzeug, nach England reist."
+        },
+        {
+            "bbox": [
+                296.01544892119006,
+                848.5362484143587,
+                1026.533106492782,
+                883.1579383466617
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "(a) the name of the person from whom the sample was taken;",
+            "uuid": "4ad5b28f-6576-42dd-9dc0-dead7b5ff23d",
+            "vertical": false,
+            "translation": "(a) der Name der Person, von der die Probe entnommen wurde;"
+        },
+        {
+            "bbox": [
+                294.2843644245749,
+                890.0822763331224,
+                740.9041645512827,
+                929.8972197552707
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "(b) that person's date of birth or age;",
+            "uuid": "41b21419-e843-483a-8244-56e3f1b728f9",
+            "vertical": false,
+            "translation": "(b) das Geburtsdatum oder Alter dieser Person;"
+        },
+        {
+            "bbox": [
+                296.01544892119006,
+                935.0904732451162,
+                694.1648831426738,
+                974.9054166672644
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(c) the negative result of the test;",
+            "uuid": "5373e85a-78c8-4522-9188-db4f06a5decc",
+            "vertical": false,
+            "translation": "(c) das negative Ergebnis des Tests;"
+        },
+        {
+            "bbox": [
+                292.5532799279598,
+                980.09867015711,
+                1171.944204208454,
+                1016.4514445860282
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(d) the date the test sample was collected or received by the test provider;",
+            "uuid": "da8e62ed-e926-4684-871f-c189ce3e6220",
+            "vertical": false,
+            "translation": "(d) das Datum, an dem die Probe vom Testanbieter entnommen oder empfangen wurde;"
+        },
+        {
+            "bbox": [
+                289.09111093472944,
+                1025.1068670691036,
+                1286.1957809850537,
+                1063.190725994637
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(e) the name of the test provider and information sufficient to contact that provider;",
+            "uuid": "44ea9562-d7f4-407c-a7c3-053ff0fab64a",
+            "vertical": false,
+            "translation": "(e) den Namen des Testanbieters und hinreichende Informationen, um diesen Anbieter zu kontaktieren;"
+        },
+        {
+            "bbox": [
+                292.5532799279598,
+                1070.1150639810976,
+                517.5942644879289,
+                1099.543500423555
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(f) a statement",
+            "uuid": "886b023a-fa53-4e45-99ba-0a69c34ea5a9",
+            "vertical": false,
+            "translation": "(f) eine Erklärung"
+        },
+        {
+            "bbox": [
+                358.3344907993353,
+                1116.8543453897066,
+                1017.8776840097062,
+                1153.2071198186247
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(i) that the test was a polymerase chain reaction test, or",
+            "uuid": "b663bf28-1200-4013-a65a-a4f2b9db5b90",
+            "vertical": false,
+            "translation": "(i) dass der Test ein Polymerase-Kettenreaktionstest war oder"
+        },
+        {
+            "bbox": [
+                353.1412373094899,
+                1160.1314578050851,
+                1010.9533460232456,
+                1196.4842322340035
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(ii) of the name of the device that was used for the test.",
+            "uuid": "282a9885-17d4-450d-9981-aaabaa2358e3",
+            "vertical": false,
+            "translation": "(ii) den Namen des Geräts, das für den Test verwendet wurde."
+        },
+        {
+            "bbox": [
+                289.09111093472944,
+                1373.0548508887482,
+                699.3581366325192,
+                1402.4832873312055
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "(a) a person (\"P\") described in",
+            "uuid": "ebcbeac2-ab89-4b9e-8f47-c7c4a5ae7c64",
+            "vertical": false,
+            "translation": "(a) eine Person (\"P\"), beschrieben in"
+        },
+        {
+            "bbox": [
+                360.06557529595045,
+                1416.3319633041272,
+                1407.3716957481142,
+                1513.272695114575
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "(i) paragraph 16 (1) (b) of Schedule 4 where, prior to P's departure to the United Kingdom, the relevant Department has certified that they meet this description and are not required to comply with regulation 4, or",
+            "uuid": "d8e09108-94a3-42eb-99ad-e4c86e04979d",
+            "vertical": false,
+            "translation": "(i) Absatz 16 (1) (b) aus Verzeichnis 4, wenn das zuständige Ministerium vor P's Abreise in das Vereinigte Königreich bescheinigt hat, dass sie dieser Beschreibung entsprechen und Verordung 4 nicht einhalten müssen oder"
+        },
+        {
+            "bbox": [
+                349.6790683162596,
+                1527.1213710874963,
+                1407.3716957481142,
+                1630.986440884405
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "(ii) paragraph 17 of Schedule 4 where, prior to P's departure to the United Kingdom, the relevant Department has also certified that they are not required to comply with regulation 4;",
+            "uuid": "6bcf4c2e-cf85-4d59-9f9c-a2b39a3ed34c",
+            "vertical": false,
+            "translation": "(ii) in Absatz 17, Verzeichnis 4 , wenn das zuständige Ministerium vor P's Abreise in das Vereinigte Königreich auch bescheinigt hat, dass sie nicht verpflichtet sind, Verordnung 4 einzuhalten;"
+        },
+        {
+            "bbox": [
+                290.82219543134465,
+                1644.8351168573263,
+                1409.1027802447293,
+                1807.5570595391498
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "(b) a Crown servant or government contractor (\"C\") who is required to undertake essential policing or essential government work in the United Kingdom or is returning from conducting such work outside the United Kingdom where, prior to C's departure to the United Kingdom, the relevant Department has certified that they meet this description and are not required to comply with regulation 4;",
+            "uuid": "5970533e-f596-4de1-86ba-272b6a664530",
+            "vertical": false,
+            "translation": "(b) ein Staatsdiener oder Regierungsunternehmer (\"C\") ist verpflichtet wesentliche polizeiliche oder wesentliche staatliche Arbeiten im Vereinigten Königreich durchzuführen oder von der Durchführung solcher Arbeiten außerhalb des Vereinigten Königreichs zurückzukehren, wenn das zuständige Ministerium vor C's Abreise in das Vereinigte Königreich bescheinigt hat, dass sie dieser Beschreibung entsprechen und nicht verpflichtet sind, die Verordnung 4 einzuhalten;"
+        },
+        {
+            "bbox": [
+                290.82219543134465,
+                1819.6746510154562,
+                1407.3716957481142,
+                1921.8086363157497
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "(c) a representative (“R”) of a foreign country or territory, or of the government of a British overseas territory, travelling to the United Kingdom to conduct official business with the United Kingdom where, prior to R's departure to the United Kingdom",
+            "uuid": "c70ca39c-2c28-420f-a3ea-b2adf4a6d62c",
+            "vertical": false,
+            "translation": "(c) ein Vertreter (“R”) eines fremden Landes oder Territoriums oder der Regierung eines britischen Überseegebiets, der in das Vereinigte Königreich reist, um offizielle Geschäfte mit dem Vereinigten Königreich zu tätigen, wo vor R's Abreise in das Vereinigte Königreich"
+        },
+        {
+            "bbox": [
+                354.87232180610505,
+                1933.9262277920557,
+                1409.1027802447293,
+                2143.387451882488
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "(i) the relevant head of the mission, consular post, or office representing a foreign territory in the United Kingdom, or a Governor of a British overseas territory (as the case may be), or a person acting on their authority, confirms in writing to the Foreign Commonwealth and Development Office that R is required to undertake work which is essential to the foreign country represented by the mission or consular post, the foreign territory represented by the office or the British overseas territory, and",
+            "uuid": "4575910d-caf4-4ff8-95a5-a6a7dca3e5f8",
+            "vertical": false,
+            "translation": "(i) der zuständige Leiter der Mission, der konsularischen Vertretung oder des Büros, das ein ausländisches Hoheitsgebiet im Vereinigten Königreich vertritt, oder ein Gouverneur eines britischen Überseegebiets (je nach Sachlage) oder eine Person, die in ihrem Auftrag handelt, dem Außenministerium für Entwicklungshilfe und Gemeinwesen schriftlich bestätigt, dass R verpflichtet ist, Arbeiten auszuführen, die für das durch die Mission oder die konsularische Vertretung repräsentierte ausländische Territorium unerlässlich sind,  das durch das Amt vertretene ausländische Hoheitsgebiet oder das britische Überseegebiet und"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

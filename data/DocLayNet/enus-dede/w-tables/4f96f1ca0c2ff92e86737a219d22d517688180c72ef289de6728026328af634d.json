@@ -1,0 +1,1057 @@
+{
+    "file": "4f96f1ca0c2ff92e86737a219d22d517688180c72ef289de6728026328af634d.png",
+    "annotations": [
+        {
+            "bbox": [
+                42.0,
+                296.0,
+                114.0,
+                313.0
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Item 1.",
+            "uuid": "90331054-1b01-420c-81a8-baa1871d2e84",
+            "vertical": false,
+            "translation": "Punkt 1."
+        },
+        {
+            "bbox": [
+                43.0,
+                324.0,
+                128.0,
+                340.0
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Item 1A.",
+            "uuid": "57096b30-a90a-43fc-998e-5b617285150a",
+            "vertical": false,
+            "translation": "Punkt 1A."
+        },
+        {
+            "bbox": [
+                42.0,
+                352.0,
+                126.99999999999999,
+                367.0
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Item 1B.",
+            "uuid": "2369bb8b-0020-4fc0-b10e-0e02b996edde",
+            "vertical": false,
+            "translation": "Punkt 1B."
+        },
+        {
+            "bbox": [
+                42.0,
+                378.0,
+                114.0,
+                395.0
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Item 2.",
+            "uuid": "d2f383b6-e19c-4886-8815-f835f9731f5a",
+            "vertical": false,
+            "translation": "Punkt 2."
+        },
+        {
+            "bbox": [
+                42.0,
+                404.0,
+                113.0,
+                421.0
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Item 3.",
+            "uuid": "afbad94e-ddfd-4f48-bea5-30e11e7a6c5a",
+            "vertical": false,
+            "translation": "Punkt 3."
+        },
+        {
+            "bbox": [
+                42.0,
+                433.0,
+                114.0,
+                449.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Item 4.",
+            "uuid": "21ffc476-818b-43a4-ac23-ac02b776fc5d",
+            "vertical": false,
+            "translation": "Punkt 4."
+        },
+        {
+            "bbox": [
+                42.0,
+                515.0,
+                115.0,
+                531.0
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Item 5.",
+            "uuid": "13298a63-78dc-459d-a88c-fb5212240110",
+            "vertical": false,
+            "translation": "Punkt 5."
+        },
+        {
+            "bbox": [
+                41.45710528756398,
+                538.9999999999999,
+                116.08140788434326,
+                561.8673832771641
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Item 6.",
+            "uuid": "4f6cdaa9-8743-42d6-9bf8-b6b4aede0a33",
+            "vertical": false,
+            "translation": "Punkt 6."
+        },
+        {
+            "bbox": [
+                41.484423024580096,
+                623.0,
+                117.0471216512027,
+                643.4459862877104
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Item 8.",
+            "uuid": "1fec7442-2cd5-416f-9017-270d50919eea",
+            "vertical": false,
+            "translation": "Punkt 8."
+        },
+        {
+            "bbox": [
+                42.0,
+                706.0,
+                126.99999999999999,
+                720.0
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Item 9B.",
+            "uuid": "5ce6816f-fcd2-4708-983c-1e54b2d03b60",
+            "vertical": false,
+            "translation": "Punkt 9B."
+        },
+        {
+            "bbox": [
+                42.0,
+                785.9999999999999,
+                125.99999999999999,
+                802.0000000000001
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Item 10.",
+            "uuid": "a8d54543-8e9e-4653-acb9-3c87a4ff92d6",
+            "vertical": false,
+            "translation": "Punkt 10."
+        },
+        {
+            "bbox": [
+                43.0,
+                814.0,
+                125.0,
+                830.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Item 11.",
+            "uuid": "188ed7d1-3b52-4989-91f5-161797245e23",
+            "vertical": false,
+            "translation": "Punkt 11."
+        },
+        {
+            "bbox": [
+                41.99999999999999,
+                839.8930166968703,
+                128.48163192294768,
+                860.4385826089073
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Item 12.",
+            "uuid": "b8bac696-19b8-4487-bc71-0f52089ec43f",
+            "vertical": false,
+            "translation": "Punkt 12."
+        },
+        {
+            "bbox": [
+                42.0,
+                978.0,
+                128.0,
+                993.0
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Item 15.",
+            "uuid": "3dabf009-fb13-42c2-8716-dd1ac9ca5c3d",
+            "vertical": false,
+            "translation": "Punkt 15."
+        },
+        {
+            "bbox": [
+                42.0,
+                1005.0,
+                126.99999999999999,
+                1021.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "Item 16.",
+            "uuid": "c317cc7a-daba-423b-9816-6ee31797809d",
+            "vertical": false,
+            "translation": "Punkt 16."
+        },
+        {
+            "bbox": [
+                42.0,
+                1032.0,
+                153.0,
+                1050.0
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Signatures",
+            "uuid": "64414bd5-97ee-4b76-a847-83b25938d053",
+            "vertical": false,
+            "translation": "Unterschriften"
+        },
+        {
+            "bbox": [
+                237.0,
+                296.0,
+                326.0,
+                313.0
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Business",
+            "uuid": "3d7ec2b0-839c-4d37-a5fa-df9bf8a5f30f",
+            "vertical": false,
+            "translation": "Unternehmen"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                323.0,
+                362.0,
+                341.0
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Risk Factors",
+            "uuid": "1b9ad8fb-c510-4332-9e93-b99e44a23baf",
+            "vertical": false,
+            "translation": "Risikofaktoren"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                352.0,
+                527.0,
+                368.0
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Unresolved Staff Comments",
+            "uuid": "1c8500da-02ef-4c4a-8fe7-34b3a202a010",
+            "vertical": false,
+            "translation": "Ungeklärte Mitarbeiterkommentare"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                378.0,
+                339.0,
+                396.0
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Properties",
+            "uuid": "c53c1482-6263-4fd4-8d3f-f34a83614cf4",
+            "vertical": false,
+            "translation": "Liegenschaften"
+        },
+        {
+            "bbox": [
+                237.0,
+                404.0,
+                424.0,
+                426.0
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Legal Proceedings",
+            "uuid": "846a620c-60bc-4fdc-a117-3871aed32abe",
+            "vertical": false,
+            "translation": "Gerichtsverfahren"
+        },
+        {
+            "bbox": [
+                237.0,
+                433.0,
+                483.00000000000006,
+                449.0
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Mine Safety Disclosures",
+            "uuid": "54d54a36-ee55-4df2-b0c7-bdf8142e6be6",
+            "vertical": false,
+            "translation": "Offenlegung der Bergwerkssicherheit"
+        },
+        {
+            "bbox": [
+                665.0,
+                126.0,
+                982.0,
+                142.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "FLOWSERVE CORPORATION",
+            "uuid": "43e56257-3d24-491a-91ce-265e2b9f8ed9",
+            "vertical": false,
+            "translation": "FLOWSERVE CORPORATION"
+        },
+        {
+            "bbox": [
+                760.0,
+                151.0,
+                888.9999999999999,
+                166.0
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "FORM 10-K",
+            "uuid": "e2176b62-4a19-45a1-a3d0-53101ef575eb",
+            "vertical": false,
+            "translation": "FORMULAR 10-K"
+        },
+        {
+            "bbox": [
+                702.0,
+                207.0,
+                945.0,
+                223.0
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "TABLE OF CONTENTS",
+            "uuid": "85f4c1d0-5166-44be-8ac4-426d42be3f87",
+            "vertical": false,
+            "translation": "INHALTSVERZEICHNIS"
+        },
+        {
+            "bbox": [
+                786.0,
+                270.0,
+                861.0000000000001,
+                285.0
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "PART I",
+            "uuid": "60ecedb4-449c-498e-b894-408ddd575ded",
+            "vertical": false,
+            "translation": "TEIL I"
+        },
+        {
+            "bbox": [
+                783.0,
+                488.0,
+                863.9999999999999,
+                503.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "PART II",
+            "uuid": "3b395656-f42f-4ece-a483-59c63ee01d86",
+            "vertical": false,
+            "translation": "TEIL II"
+        },
+        {
+            "bbox": [
+                234.12841796875,
+                511.6498926584617,
+                1432.1806640625,
+                534.9120958699375
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+            "uuid": "b0da5c69-0dce-49d4-a738-eb434f574651",
+            "vertical": false,
+            "translation": "Markt für das Stammkapital des Registranten, damit verbundene Aktionärsangelegenheiten und Emittentenkäufe von Beteiligungspapieren"
+        },
+        {
+            "bbox": [
+                237.0,
+                569.0,
+                1151.0,
+                586.0000000000001
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+            "uuid": "a4aee716-30f6-44d9-8eaf-9ee7eee0bcda",
+            "vertical": false,
+            "translation": "Darstellung und Analyse der Finanz- und Ertragslage durch die Geschäftsleitung"
+        },
+        {
+            "bbox": [
+                235.0,
+                596.0,
+                852.0,
+                613.0000000000001
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Quantitative and Qualitative Disclosures About Market Risk",
+            "uuid": "194a4281-da93-41b3-b765-c3b97c568ae2",
+            "vertical": false,
+            "translation": "Quantitative und qualitative Angaben zum Marktrisiko"
+        },
+        {
+            "bbox": [
+                237.0,
+                622.0,
+                720.0,
+                643.0
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Financial Statements and Supplementary Data",
+            "uuid": "86f0102d-afb3-48d0-a99f-5be9b2ec9d42",
+            "vertical": false,
+            "translation": "Finanzberichte und ergänzende Daten"
+        },
+        {
+            "bbox": [
+                234.12841796875,
+                648.7015305917107,
+                1162.0,
+                672.0475208667732
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+            "uuid": "3da21c1a-d8f2-4e06-bc77-a294f83aebb3",
+            "vertical": false,
+            "translation": "Änderungen und Meinungsverschiedenheiten mit Wirtschaftsprüfern in Bezug auf Rechnungslegung und finanzielle Offenlegung"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                702.0,
+                419.0,
+                721.0000000000001
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Other Information",
+            "uuid": "a005db6c-7d23-41ff-81f2-374e5052ee02",
+            "vertical": false,
+            "translation": "Weitere Informationen"
+        },
+        {
+            "bbox": [
+                237.0,
+                976.0,
+                691.0,
+                993.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Exhibits and Financial Statement Schedules",
+            "uuid": "345e0f15-c5e9-429e-bca7-342d5d215f11",
+            "vertical": false,
+            "translation": "Anlagen und Jahresabschlusspläne"
+        },
+        {
+            "bbox": [
+                237.0,
+                1002.0000000000001,
+                449.99999999999994,
+                1024.0
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Form 10-K Summary",
+            "uuid": "0a8029c5-54d7-4b7d-867f-5682b1fc68ba",
+            "vertical": false,
+            "translation": "Formular 10-K Zusammenfassung"
+        },
+        {
+            "bbox": [
+                778.0,
+                758.9999999999999,
+                866.9999999999999,
+                776.0
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "PART III",
+            "uuid": "e7a79285-1456-4e85-88a7-c4631e94823a",
+            "vertical": false,
+            "translation": "TEIL III"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                787.0,
+                821.0,
+                805.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Directors, Executive Officers and Corporate Governance",
+            "uuid": "1ee0ad15-26ad-4e7a-8498-8a19843b5857",
+            "vertical": false,
+            "translation": "Direktoren, leitende Angestellte und Unternehmensführung"
+        },
+        {
+            "bbox": [
+                237.0,
+                811.0,
+                492.0,
+                831.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Executive Compensation",
+            "uuid": "4d9355b5-2a63-4d82-bb87-80548b119f26",
+            "vertical": false,
+            "translation": "Vergütung von Führungskräften"
+        },
+        {
+            "bbox": [
+                237.48229438465424,
+                840.8206819093102,
+                1276.0034997112964,
+                862.7591779751366
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matterse",
+            "uuid": "be31235e-41be-42be-9f57-98ec1f42d2a6",
+            "vertical": false,
+            "translation": "Wertpapierbesitz bestimmter wirtschaftlicher Eigentümer und des Managements sowie damit verbundene Angelegenheiten für Aktionäre"
+        },
+        {
+            "bbox": [
+                235.99999999999997,
+                896.0,
+                643.0,
+                913.0
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Principal Accountant Fees and Services",
+            "uuid": "a9b36acb-6a29-4c86-b51d-663877677c67",
+            "vertical": false,
+            "translation": "Gebühren und Dienstleistungen des Hauptbuchhalters"
+        },
+        {
+            "bbox": [
+                778.0,
+                951.0,
+                869.0000000000001,
+                965.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "PART IV",
+            "uuid": "b5445259-e073-4821-9795-7f366d4de79a",
+            "vertical": false,
+            "translation": "TEIL IV"
+        },
+        {
+            "bbox": [
+                820.9668225197332,
+                1166.9999999999998,
+                827.45838938204,
+                1185.4525778158734
+            ],
+            "order": "75",
+            "label": "Text",
+            "text": "i",
+            "uuid": "1e409c15-8199-4ba0-aca6-66ba7c546777",
+            "vertical": false,
+            "translation": "i"
+        },
+        {
+            "bbox": [
+                1529.0,
+                246.0,
+                1577.0,
+                263.0
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Page",
+            "uuid": "bf33baf3-c44e-4ed8-8755-7afdd53a4136",
+            "vertical": false,
+            "translation": "Seite"
+        },
+        {
+            "bbox": [
+                1593.0,
+                298.00000000000017,
+                1603.9999999999998,
+                314.0
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "cff4172f-befc-436c-9759-68d1ed9f5aa5",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1579.0,
+                324.0,
+                1603.0,
+                340.0
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "13",
+            "uuid": "66989c1e-0c52-4a90-9553-2fe6ab4dbb46",
+            "vertical": false,
+            "translation": "13"
+        },
+        {
+            "bbox": [
+                1578.0,
+                350.0,
+                1605.0,
+                368.0
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "25",
+            "uuid": "6ea37620-af4b-4296-b813-a86408b964fc",
+            "vertical": false,
+            "translation": "25"
+        },
+        {
+            "bbox": [
+                1578.0,
+                380.0,
+                1605.0,
+                395.0
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "25",
+            "uuid": "fa76fbe2-f769-42a5-90ae-b94704b79ec3",
+            "vertical": false,
+            "translation": "25"
+        },
+        {
+            "bbox": [
+                1579.0,
+                406.0,
+                1605.0,
+                421.0
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "26",
+            "uuid": "d404906b-b7a6-4427-856f-e3f5995ffe1e",
+            "vertical": false,
+            "translation": "26"
+        },
+        {
+            "bbox": [
+                1579.0,
+                434.0,
+                1605.0,
+                449.0
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "26",
+            "uuid": "980b7ddc-87f1-4779-81f0-026c071d50c5",
+            "vertical": false,
+            "translation": "26"
+        },
+        {
+            "bbox": [
+                1578.0,
+                515.0,
+                1605.0,
+                530.0
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "26",
+            "uuid": "5e80342c-53cd-4e42-86fb-5a8e1cefeef7",
+            "vertical": false,
+            "translation": "26"
+        },
+        {
+            "bbox": [
+                1578.0,
+                542.0,
+                1604.0,
+                557.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "29",
+            "uuid": "f6fb921c-ef56-4518-b05e-6bf752bbf1c4",
+            "vertical": false,
+            "translation": "29"
+        },
+        {
+            "bbox": [
+                1579.0,
+                569.0,
+                1606.0,
+                585.0
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "30",
+            "uuid": "668356ca-9e79-45c7-bcfe-9cd4fa305dad",
+            "vertical": false,
+            "translation": "30"
+        },
+        {
+            "bbox": [
+                1577.8331638444397,
+                595.1791893042672,
+                1604.1668361555603,
+                611.8208106957334
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "55",
+            "uuid": "032f2c7c-d6bd-4d57-b8c7-65468cfee0e4",
+            "vertical": false,
+            "translation": "55"
+        },
+        {
+            "bbox": [
+                1578.6536865234375,
+                623.8665771484375,
+                1604.065185546875,
+                641.3042555200553
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "56",
+            "uuid": "a520fd56-4305-40f0-ab71-b28c518e6179",
+            "vertical": false,
+            "translation": "56"
+        },
+        {
+            "bbox": [
+                1565.9999999999998,
+                678.972412109375,
+                1604.63623046875,
+                696.1584255187897
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "116",
+            "uuid": "e842ca39-3290-4dc1-830e-2c159c831738",
+            "vertical": false,
+            "translation": "116"
+        },
+        {
+            "bbox": [
+                1567.0,
+                785.9999999999999,
+                1606.0,
+                804.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "117",
+            "uuid": "9d578c88-f469-431d-89c8-e204e010d97b",
+            "vertical": false,
+            "translation": "117"
+        },
+        {
+            "bbox": [
+                1566.0,
+                814.0,
+                1606.0,
+                829.0000000000001
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "118",
+            "uuid": "f7400745-8f62-49da-95d8-645fef50d549",
+            "vertical": false,
+            "translation": "118"
+        },
+        {
+            "bbox": [
+                1567.0,
+                841.0,
+                1606.0,
+                856.0000000000001
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "118",
+            "uuid": "7c75589d-8fd4-47f8-86d6-94574e20566e",
+            "vertical": false,
+            "translation": "118"
+        },
+        {
+            "bbox": [
+                1566.0,
+                869.0,
+                1606.0,
+                884.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "118",
+            "uuid": "31e45717-7a25-4c16-a3b3-2bd46c0c47e6",
+            "vertical": false,
+            "translation": "118"
+        },
+        {
+            "bbox": [
+                1567.0,
+                896.0,
+                1606.0,
+                911.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "118",
+            "uuid": "031aa422-79b6-4751-a134-b4c71a41dc36",
+            "vertical": false,
+            "translation": "118"
+        },
+        {
+            "bbox": [
+                1566.0,
+                978.0,
+                1606.0,
+                993.0
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "118",
+            "uuid": "182eb43a-f81e-448a-8288-80d0d30f6c95",
+            "vertical": false,
+            "translation": "118"
+        },
+        {
+            "bbox": [
+                1565.591397392627,
+                1004.0,
+                1606.8917053416956,
+                1022.422687718143
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "122",
+            "uuid": "83b0bed7-7b68-4a42-9de4-4cc81acd64e1",
+            "vertical": false,
+            "translation": "122"
+        },
+        {
+            "bbox": [
+                233.6480348506659,
+                541.4727325245273,
+                481.71265057509635,
+                562.8622442894876
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Selected Financial Data",
+            "uuid": "bcef16e9-eb10-4362-8b75-1cda881e2d6a",
+            "vertical": false,
+            "translation": "Ausgewählte Finanzdaten"
+        },
+        {
+            "bbox": [
+                235.63652876428856,
+                677.7686912128793,
+                491.1579966648041,
+                697.6659114593542
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Controls and Procedures",
+            "uuid": "5391e06f-3d7d-4b88-bf29-30d06046c11e",
+            "vertical": false,
+            "translation": "Kontrollen und Verfahren"
+        },
+        {
+            "bbox": [
+                41.26124870767078,
+                567.8365493511063,
+                116.82401742533295,
+                587.7337695975813
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Item 7.",
+            "uuid": "36dd86e2-f570-4fa7-967c-48b4594061da",
+            "vertical": false,
+            "translation": "Punkt 7."
+        },
+        {
+            "bbox": [
+                41.75837218607646,
+                595.6926576961711,
+                129.25210438547475,
+                614.5950169303219
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Item 7A.",
+            "uuid": "33fb6fb6-2d45-4d45-b262-485374039b51",
+            "vertical": false,
+            "translation": "Punkt 7A."
+        },
+        {
+            "bbox": [
+                42.25549566448213,
+                651.4048743863002,
+                116.82401742533295,
+                668.8149421019657
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Item 9.",
+            "uuid": "02afae1a-f500-4560-a226-306ab7a23377",
+            "vertical": false,
+            "translation": "Punkt 9."
+        },
+        {
+            "bbox": [
+                42.25549566448213,
+                677.2712607067174,
+                129.25210438547475,
+                697.1684809531923
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Item 9A.",
+            "uuid": "0faddd36-e15f-42d1-a4de-4b352c28d2f6",
+            "vertical": false,
+            "translation": "Punkt 9A."
+        },
+        {
+            "bbox": [
+                42.672599772242556,
+                867.4003687075955,
+                129.40929713538776,
+                886.8933697839224
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Item 13.",
+            "uuid": "184dfef8-1072-40eb-a458-6e1bced1ab8c",
+            "vertical": false,
+            "translation": "Punkt 13."
+        },
+        {
+            "bbox": [
+                41.7449345598025,
+                896.1757512488397,
+                128.48163192294768,
+                915.2046332519209
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Item 14.",
+            "uuid": "c20f6adf-636f-4617-b20d-07af8375aa6e",
+            "vertical": false,
+            "translation": "Punkt 14."
+        },
+        {
+            "bbox": [
+                235.51798638735562,
+                869.7688204264825,
+                1027.1396361550046,
+                890.1695365028972
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Certain Relationships and Related Transactions, and Director Independence",
+            "uuid": "aac49ec2-9316-409f-8af3-5ca69e26941e",
+            "vertical": false,
+            "translation": "Bestimmte Beziehungen und verwandte Transaktionen sowie die Unabhängigkeit des Direktors"
+        },
+        {
+            "bbox": [
+                1566.6617431640625,
+                650.446617186511,
+                1604.9217529296875,
+                668.1599429152691
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "116",
+            "uuid": "378151fa-12d2-4597-993e-11173c3ef1e8",
+            "vertical": false,
+            "translation": "116"
+        },
+        {
+            "bbox": [
+                1567.8038330078125,
+                704.4436907790151,
+                1603.7796630859375,
+                722.44271530985
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "117",
+            "uuid": "280fb7b7-70d9-4a4a-b6ca-e6a2fc55fe8a",
+            "vertical": false,
+            "translation": "117"
+        },
+        {
+            "bbox": [
+                1566.5461288585825,
+                1032.2713092722743,
+                1604.3344624953597,
+                1048.9787922658895
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "123",
+            "uuid": "b23e8eb2-7291-4d6a-a718-58ea3c30e54f",
+            "vertical": false,
+            "translation": "123"
+        },
+        {
+            "bbox": [
+                32.303178929596385,
+                231.91933800179487,
+                1621.6195822657385,
+                1062.6237700595802
+            ],
+            "order": "4",
+            "label": "Table",
+            "text": "Item 1. Item 1A. Item 1B. Item 2. Item 3. Item 4. Item 5. Item 6. Item 7. Item 7A. Item 8. Item 9. Item 9A. Item 9B. Item 10. Item 11. Item 12. Item 13. Item 14. Item 15. Item 16. Signatures Business Risk Factors Unresolved Staff Comments Properties Legal Proceedings Mine Safety Disclosures PART I PART II Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Selected Financial Data Management's Discussion and Analysis of Financial Condition and Results of Operations Quantitative and Qualitative Disclosures About Market Risk Financial Statements and Supplementary Data Changes in and Disagreements with Accountants on Accounting and Financial Disclosure Controls and Procedures Other Information Exhibits and Financial Statement Schedules Form 10-K Summary PART III Directors, Executive Officers and Corporate Governance Executive Compensation Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters Certain Relationships and Related Transactions, and Director Independence Principal Accountant Fees and Services PART IV Page 1 13 25 25 26 26 26 29 30 55 56 116 116 117 117 118 118 118 118 118 122 123",
+            "uuid": "76535927-8ab7-4607-9147-571e77e3c7d3",
+            "vertical": false,
+            "translation": "Punkt 1. Punkt 1A. Punkt 1B. Punkt 2. Punkt 3. Punkt 4. Punkt 5. Punkt 6. Punkt 7. Punkt 7A. Punkt 8. Punkt 9. Punkt 9A. Punkt 9B. Punkt 10. Punkt 11. Punkt 12. Punkt 13. Punkt 14. Punkt 15. Punkt 16. Unterschriften Geschäftsrisikofaktoren Ungeklärte Mitarbeiterkommentare Immobilien Rechtliche Verfahren Offenlegungen zur Berkwerkssicherheit TEIL I TEIL II Markt für das Stammkapital des Registranten, damit verbundene Aktionärsangelegenheiten und Emittentenkäufe von Beteiligungspapieren Ausgewählte Finanzdaten Diskussion und Analyse der Finanzlage und der Geschäftsergebnisse Quantitative und qualitative Angaben zum Marktrisiko Jahresabschlüsse und ergänzende Daten Änderungen und Meinungsverschiedenheiten mit Wirtschaftsprüfern über Rechnungslegung und Finanzberichterstattung, Kontrollen und Verfahren Weitere Informationen Anlagen und Jahresabschlusspläne Formular 10-K Zusammenfassung TEIL III Direktoren, leitende Angestellte und Unternehmensführung Vergütung von Führungskräften Wertpapierbesitz bestimmter wirtschaftlicher Eigentümer und des Managements und damit verbundene Angelegenheiten für Aktionäre Bestimmte Beziehungen und verwandte Transaktionen sowie die Unabhängigkeit des Direktors Gebühren und Dienstleistungen des Hauptbuchhalters TEIL IV Seite 1 13 25 25 26 26 26 29 30 55 56 116 116 117 117 118 118 118 118 118 122 123"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

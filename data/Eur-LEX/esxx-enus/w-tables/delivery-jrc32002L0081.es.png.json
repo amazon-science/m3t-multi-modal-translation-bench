@@ -1,0 +1,385 @@
+{
+    "file": "jrc32002L0081.es.png",
+    "annotations": [
+        {
+            "bbox": [
+                2162.2247381104744,
+                102.03527725670135,
+                2213.8356301005488,
+                224.35000008633227
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 276/30",
+            "uuid": "bbc59bed-193d-4248-a2b0-477147e8b47e",
+            "vertical": true,
+            "translation": "L 276/30"
+        },
+        {
+            "bbox": [
+                2175.9592260482377,
+                336.04237601222894,
+                2196.5454060486936,
+                364.366528358493
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ES",
+            "uuid": "b2b84d70-cfc9-457b-80ea-472a86e1cfa4",
+            "vertical": true,
+            "translation": "ES"
+        },
+        {
+            "bbox": [
+                2167.276062516362,
+                585.3830545148122,
+                2203.929394724767,
+                1071.6469767697463
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Diario Oficial de las Comunidades Europeas",
+            "uuid": "008495ee-5900-497b-bbf0-4d0812bcd557",
+            "vertical": true,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                2167.276062516362,
+                1400.2581499517323,
+                2205.111760279877,
+                1543.4161416618224
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "12.10.2002",
+            "uuid": "0883f6cc-4619-421a-83f6-fe092d046301",
+            "vertical": true,
+            "translation": "12.10.2002"
+        },
+        {
+            "bbox": [
+                1093.564782032323,
+                113.1407400860127,
+                1183.859121833157,
+                143.25815762231935
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANEXO",
+            "uuid": "3c84a8f9-0705-4e45-8b28-c84cc8b370cc",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                140.10463101372656,
+                169.42204942542946,
+                756.7856446883183,
+                212.47390100756976
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "En el anexo I se añadirá la siguiente fila al final del cuadro:",
+            "uuid": "b8090789-2886-4759-ab49-4f1fef101c1e",
+            "vertical": false,
+            "translation": "In Annex I, the following row shall be added at the end of the table:"
+        },
+        {
+            "bbox": [
+                130.28181591959373,
+                221.35568763217407,
+                2141.61536222251,
+                779.0841199701879
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "9b70b16a-d43f-4d11-9479-cc785d18d783",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                171.8946030038106,
+                250.65231037555492,
+                197.62732800438107,
+                280.5214164861604
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Nº",
+            "uuid": "96a9be27-b579-43f4-b08b-8ff28fc960d9",
+            "vertical": false,
+            "translation": "No."
+        },
+        {
+            "bbox": [
+                255.26863200565887,
+                239.3226494370494,
+                474.51144901051913,
+                289.2761544840965
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Denominación común y números de identificación",
+            "uuid": "a0fc8f7a-6d9d-481a-b1f1-610f8b673f72",
+            "vertical": false,
+            "translation": "Common name and identification numbers"
+        },
+        {
+            "bbox": [
+                678.3146310150371,
+                249.08524070834707,
+                870.2807595192927,
+                282.04425434763584
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Denominación UIQPA",
+            "uuid": "33237add-117f-49d2-87ba-0cc33ae164ee",
+            "vertical": false,
+            "translation": "IUPAC Nomenclature"
+        },
+        {
+            "bbox": [
+                1087.9796130241189,
+                250.12709305626404,
+                1169.8096785259327,
+                281.0261683430973
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Pureza (¹)",
+            "uuid": "7d8b18b4-5024-4999-b2bf-bd086a82fbd0",
+            "vertical": false,
+            "translation": "Purity (¹)"
+        },
+        {
+            "bbox": [
+                1248.5518170276785,
+                253.21700058494739,
+                1390.0818045308158,
+                278.4512454025279
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Entrada en vigor",
+            "uuid": "f3f576e3-4c82-47f3-977e-43e47c479167",
+            "vertical": false,
+            "translation": "Entry into force"
+        },
+        {
+            "bbox": [
+                1482.6864061077565,
+                235.50522655058268,
+                1609.199520504511,
+                294.6614214721072
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Caducidad de la inclusión",
+            "uuid": "23d45e4f-d85c-4782-8ae9-6a57ccdecd7d",
+            "vertical": false,
+            "translation": "Expiration of inclusion"
+        },
+        {
+            "bbox": [
+                1788.9190848812086,
+                249.7125717949167,
+                2002.927250356092,
+                281.65691705254
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Disposiciones específicas",
+            "uuid": "0f2c0f11-5149-4134-ac26-566c25db1cc9",
+            "vertical": false,
+            "translation": "Specific provisions"
+        },
+        {
+            "bbox": [
+                167.89590882559924,
+                320.70000570074643,
+                206.91397214422437,
+                349.0949792630783
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "«39",
+            "uuid": "91a8d87e-3ec0-43aa-a2ed-96cefe9a37ff",
+            "vertical": false,
+            "translation": "\"39"
+        },
+        {
+            "bbox": [
+                510.7819198074568,
+                319.53963210193547,
+                1009.7401840638149,
+                382.2451987187517
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "N-(7-fluoro-3,4-dihidro-3-oxo-4-prop-2-inil-2H-1,4-benzoxazin-6-il)ciclohex-1-eno-1,2-dicarboximida",
+            "uuid": "34b59881-e959-472d-ab54-ccce1c6813b3",
+            "vertical": false,
+            "translation": "N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazin-6-yl)cyclohex-1-ene-1,2-dicarboximide"
+        },
+        {
+            "bbox": [
+                1060.5819029335387,
+                315.99026040664387,
+                1163.447706228096,
+                353.85022515641975
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "960 g/kg",
+            "uuid": "f4f239c1-7911-4b3a-8ff1-44d6eac7310e",
+            "vertical": false,
+            "translation": "960 g/kg"
+        },
+        {
+            "bbox": [
+                1220.201252873369,
+                318.35650820350475,
+                1414.109203911385,
+                351.48397735955854
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "1 de enero de 2003",
+            "uuid": "63d6d06d-1cbe-49f6-a31f-8eac1129f7c7",
+            "vertical": false,
+            "translation": "1 January 2003"
+        },
+        {
+            "bbox": [
+                1440.1212461238017,
+                314.731302176149,
+                1655.311777153795,
+                385.7187360819787
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "31 de diciembre de 2012",
+            "uuid": "9503f357-d480-43e5-a756-0853de75acf0",
+            "vertical": false,
+            "translation": "31 December, 2012"
+        },
+        {
+            "bbox": [
+                143.41418922664923,
+                784.0275894354309,
+                1153.9326302390393,
+                814.936611084147
+            ],
+            "order": "27",
+            "label": "Footnote",
+            "text": "(¹) En el informe de revisión se incluyen más datos sobre la identidad y las especificaciones de la sustancia activa.>>",
+            "uuid": "79befd53-0964-4a44-826c-62844ae9945f",
+            "vertical": false,
+            "translation": "(¹) Further details on the identity and specifications of the active substance are included in the review report.>>"
+        },
+        {
+            "bbox": [
+                239.53081808276798,
+                319.9371098968832,
+                367.4477994672828,
+                348.79963503584383
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Flumioxazina",
+            "uuid": "7c0f9fe3-08db-4662-a4ba-e5f4a1f1590d",
+            "vertical": false,
+            "translation": "Flumioxazine"
+        },
+        {
+            "bbox": [
+                237.8587006790488,
+                360.12155055659235,
+                326.48092307616366,
+                388.56577822977044
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Nº CAS:",
+            "uuid": "65f8094d-d62b-4a2a-a8f6-565662b54a77",
+            "vertical": false,
+            "translation": "CAS NO:"
+        },
+        {
+            "bbox": [
+                238.27673002997858,
+                396.5134300796292,
+                374.1362690821594,
+                424.1210628212435
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "103361-09-7",
+            "uuid": "4d2b9f08-9670-4de4-9b1f-ca1478f0205f",
+            "vertical": false,
+            "translation": "103361-09-7"
+        },
+        {
+            "bbox": [
+                239.53081808276798,
+                435.8333918631406,
+                394.20167792678916,
+                464.2776195363187
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "CICAP Nº: 578",
+            "uuid": "0bd6ae1c-bb88-41b1-adf8-1cebfc0e94db",
+            "vertical": false,
+            "translation": "CICAP No.: 578"
+        },
+        {
+            "bbox": [
+                1672.9534624210075,
+                318.6556741291648,
+                2132.7857484437736,
+                379.72710413334164
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Sólo se podrán autorizar los usos como herbicida.",
+            "uuid": "f5b8c31e-a2c4-405c-94b6-a6e03e4bdaa7",
+            "vertical": false,
+            "translation": "Only uses as herbicide may be authorised."
+        },
+        {
+            "bbox": [
+                1676.297697228446,
+                391.5552587914094,
+                2134.4578658474925,
+                608.2333460665028
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Para la aplicación de los principios uniformes del anexo VI, se tendrán en cuenta las conclusiones del informe de revisión de la flumioxazina y, sobre todo, sus apéndices I y II, tal como fue aprobado en el Comité permanente de la cadena alimentaria y de sanidad animal el 28 de junio de 2002. En esta evaluación general, los Estados miembros:",
+            "uuid": "7f0da790-22bf-44b0-8561-18754861fa13",
+            "vertical": false,
+            "translation": "For the implementation of the uniform principles set out in Annex VI, the conclusions of the review report on flumioxazine, and in particular Annex I and II thereof, as agreed within the Standing Committee on the Food Chain and Animal Health on 28 June 2002, shall be taken into account. In this overall assessment, Member States shall:"
+        },
+        {
+            "bbox": [
+                1676.297697228446,
+                617.4358903137077,
+                2131.949689741914,
+                759.6570286795994
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "deberán considerar atentamente el riesgo para las plantas acuáticas y las algas; las condiciones de autorización deberán incluir medidas de reducción del riesgo, cuando sea pertinente.",
+            "uuid": "657c33ff-4c63-49a8-a0d0-90cfa58f0f6b",
+            "vertical": false,
+            "translation": "should carefully consider the risk to aquatic plants and algae; conditions of authorization should include risk mitigation measures, where appropriate."
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

@@ -1,0 +1,161 @@
+{
+    "file": "d2a640b256e8276a642868b96bc9f076e4b775508d9f0ea88660f54961e18ea5.png",
+    "annotations": [
+        {
+            "bbox": [
+                194.0,
+                229.0,
+                654.0,
+                267.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "述的以下需求中的至少一种：",
+            "uuid": "8c45c6b8-74b6-4a57-82c5-eefcfd83c112",
+            "vertical": false,
+            "translation": "At least one of the requirements listed below:"
+        },
+        {
+            "bbox": [
+                200.0,
+                1044.0,
+                1461.0,
+                2159.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "讨论满足这些需求（此后简写为 Req.）的身份管理系统的益处可能是有帮助的：Req.1 由雇主与银行这样的公司提出，它们希望至少在与其业务有关的关系中担当其雇员或者顾客的位置实体。另外，现在人们是否会自愿地采纳身份管理还没有如人们可能被引导地认为的那样清楚。当前，对于大多数人来说，对于“将所有鸡蛋都放在一个篮子里”的恐惧以及隐私与信任的担忧超过了单一注册以及简化表单填写两者所觉察的益处。再一次地，Req.1 中的自由选择可能有助于（尤其是）允许关于用户的真正个人信息的“本地”位置实体。这后几种担心还促进了 Req.4。Req.2 出于实际考虑，既因为不能让许多用户安装附加软件，也因为某些用户从各种因特网公用设施等使用信 息社会基础结构。因特网公用设施被认为是例如在网吧中的公用计算机。Req.3 针对一般应用性与用户友好性，例如，只使用一个系统就允许对于特定信息的访问限制以及只对特定用户的特定操作，以及还有向商务伙伴传送地址、送货信息等等。Req.3 与 Reg.5 最后部分的益处可以从以下看出：传送少量数据针对的是标准电子商务应用，其中经常需要像送货与收费信息这样的 数据，并且这些信息不大依赖于通信伙伴。对诸如预定与旅行偏好这类的更具体的数据的扩展中，人们必须更好地区分伙伴。长期的综合解决方案将包括需要第三方确认的数据，并且这些方案将与诸如使用这些收据的税务申报之类的其他个人应用集成。另外，长期的解决方案将集成诸如日历共享等个",
+            "uuid": "e107f93f-4e17-478b-aa99-858f5a183b24",
+            "vertical": false,
+            "translation": "It may be helpful to discuss the benefits of an identity management system that meets these requirements (hereafter abbreviated as Req.): Req.1 is proposed by employers and companies such as banks that want to at least act as location entities for their employees or customers in relationships relating to their business. Also, it is not as clear now as one might be led to think whether people will voluntarily adopt identity management. Currently, for most people, fears about “putting all of your eggs in one basket” and concerns about privacy and trust outweigh the benefits perceived by a single-on and simplified form-filling. Once again, the freedom of choice in Req.1 may help (in particular) “local” location entities that allow truly personal information about users. These latter concerns also contributed to Req.4. Req.2 is due to practical considerations, not only because many users cannot install additional software, but also because some users use the information society infrastructure from various Internet utilities, etc. Internet utilities are thought of as public computers such as those found in Internet cafes. Req.3 is aimed at general applicability and user-friendliness. For example, using only one system allows access restrictions to specific information and specific actions for only specific users, as well as transmission of addresses, delivery information, and so on to business partners. The benefits of the last part of Req.3 and Reg.5 can be seen from the following: the transmission of small amounts of data is aimed at standard e-commerce applications, which often require data such as delivery and billing information, and this information is not heavily dependent on communication partners. In the expansion of more specific data, such as bookings and travel preferences, people must better differentiate partners. Long-term comprehensive solutions will include data requiring third-party confirmation, and these solutions will integrate with other personal applications, such as tax returns using these data. Additionally, long-term solutions will integrate things such as calendar sharing"
+        },
+        {
+            "bbox": [
+                174.43716621982048,
+                153.68994541280463,
+                327.8772661354033,
+                184.3779653959212
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "0e78b488-1cb4-4b9c-aaf8-a2e15b07172e",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1180.681189876748,
+                148.84446857336513,
+                1345.4274024176896,
+                192.45376012832034
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "0a23434a-bb67-446e-929c-f019d7831928",
+            "vertical": true,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1363.1941508289674,
+                148.84446857336513,
+                1487.5613897079133,
+                190.83860118184052
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 2/17 页",
+            "uuid": "55da6d9a-b672-4202-9126-089eca505059",
+            "vertical": false,
+            "translation": "Page 2/17"
+        },
+        {
+            "bbox": [
+                190.58875568461866,
+                286.13297902414985,
+                1455.2582107783169,
+                462.1853041904502
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "1、适合于自由选择持有关于个人的身份相关信息的位置实体，包括在各个用户自己的物理控制之下的位置实体，即所谓的本地钱包，并且还包括多个位置实体持有一个人的信息。",
+            "uuid": "e3015ce5-2c0f-4947-bc41-f345562de3f4",
+            "vertical": false,
+            "translation": "1. It is suitable for freely selecting location entities that hold identity-related information about individuals, including location entities within each user's physical control, known as local wallets, and also includes multiple location entities holding an individual's information."
+        },
+        {
+            "bbox": [
+                190.58875568461866,
+                479.9520526017281,
+                1458.4885286712768,
+                717.3804177342616
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "2、适合于只有浏览器的客戶端以及甚至通过各种不同浏览器访问系统的用户，同时不需要他们以代理角色浏览通过位置实体，这就使位置实体能够看到该用户的所有消息内容。显然，只有浏览器的用户与具有本地钱包的用户是不同的——需求是服务器的方法与两者都要互操作。",
+            "uuid": "65ef21df-6721-4661-a7c7-1a4d8bf4f62b",
+            "vertical": false,
+            "translation": "2. It is suitable for browser-only clients and even users who access the system through various browsers, and it does not require them to browse through the location entity in a proxy role, which enables the location entity to see all of the user's message content. Obviously, a browser-only user is different than a user with a local wallet—the need is that the server's methods interoperate with both."
+        },
+        {
+            "bbox": [
+                193.81907357757828,
+                727.0713714131406,
+                1456.8733697247967,
+                836.9021797737681
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "3、适合于传送验证信息以及其他身份相关信息两者，其中后者可以是由用户自由选择诸如偏好或者第三方确认所需的这样的两者。",
+            "uuid": "1542676c-dc24-452b-8c8e-75eadd31cd0a",
+            "vertical": false,
+            "translation": "3. It is suitable for transmitting both authentication information and other identity-related information, where the latter can be necessary when the user freely selected either preferences or third-party confirmation."
+        },
+        {
+            "bbox": [
+                190.58875568461866,
+                854.6689281850463,
+                1448.7975749923976,
+                967.7300544386335
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "4、适合于希望保持匿名的用户，同时仍然允许传送某些身份相关信息，例如偏好或者人口统计信息。",
+            "uuid": "ff453ea6-92db-4909-939e-a01594ad92d8",
+            "vertical": false,
+            "translation": "4. It is suitable for users who wish to remain anonymous while still allowing certain identity-related information to be transmitted, such as preferences or demographic information."
+        },
+        {
+            "bbox": [
+                269.7315440621298,
+                985.4968028499117,
+                1027.241089961165,
+                1025.875776511907
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "5、对于身份相关信息释放的灵活的隐私策略。",
+            "uuid": "34cf2794-4876-44e6-b11d-99853da74c26",
+            "vertical": false,
+            "translation": "5. Flexible privacy policies for the release of identity-related information."
+        },
+        {
+            "bbox": [
+                815.6552679723087,
+                2209.7872842816146,
+                846.3432879554252,
+                2240.475304264731
+            ],
+            "order": "11",
+            "label": "Page-footer",
+            "text": "6",
+            "uuid": "6527ebed-5c65-4c15-a5fd-eb794230907d",
+            "vertical": false,
+            "translation": "6"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

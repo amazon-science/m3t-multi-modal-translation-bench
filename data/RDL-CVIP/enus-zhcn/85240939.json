@@ -1,0 +1,441 @@
+{
+    "file": "85240939.png",
+    "annotations": [
+        {
+            "bbox": [
+                93.25609141929552,
+                88.99999999999997,
+                239.97709912276957,
+                121.1675429546103
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "SHERATON-CARLTON HOTEL WASHINGTON",
+            "uuid": "3d4555c5-1b48-442a-bfcb-a726f1fad628",
+            "vertical": false,
+            "translation": "华盛顿喜来登卡尔顿酒店"
+        },
+        {
+            "bbox": [
+                87.92909274558959,
+                211.99999999999997,
+                134.23010263277618,
+                229.56235901985667
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "NAME:",
+            "uuid": "8d4877a5-e057-4b3c-8ebb-137eb2774cbe",
+            "vertical": false,
+            "translation": "姓名："
+        },
+        {
+            "bbox": [
+                87.92742547197443,
+                246.03341747177754,
+                142.2821183477939,
+                260.5033862209998
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "TITLE:",
+            "uuid": "4b204802-543c-4f4a-9a04-a7f08d144823",
+            "vertical": false,
+            "translation": "标题："
+        },
+        {
+            "bbox": [
+                85.84284277644477,
+                276.1717327994171,
+                161.21791294586518,
+                296.541174474105
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "COMPANY:",
+            "uuid": "bc4bfb47-e8f1-4e89-b9d1-69895343e4f7",
+            "vertical": false,
+            "translation": "公司："
+        },
+        {
+            "bbox": [
+                86.67185109457354,
+                308.00000000000006,
+                160.8272228330904,
+                326.1157245905804
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "ADDRESS:",
+            "uuid": "b382570f-994f-4463-81f7-3e1555f55646",
+            "vertical": false,
+            "translation": "地址："
+        },
+        {
+            "bbox": [
+                86.0,
+                404.610224989185,
+                174.99999999999997,
+                419.61022498918487
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "CHECK ONE:",
+            "uuid": "c260e6f7-b6fa-4c44-9111-ca3fb3e72522",
+            "vertical": false,
+            "translation": "选择一项："
+        },
+        {
+            "bbox": [
+                297.0,
+                65.0,
+                489.0,
+                85.0
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "THE TOBACCO INSTITUTE",
+            "uuid": "71b58336-e541-4e06-b1a6-b99a6e4fe45c",
+            "vertical": false,
+            "translation": "烟草协会"
+        },
+        {
+            "bbox": [
+                333.0,
+                96.0,
+                443.0,
+                115.0
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "FIFTH ANNUAL",
+            "uuid": "1ce5d1f1-14b8-4665-b1f7-8ae41502a377",
+            "vertical": false,
+            "translation": "第五届年会"
+        },
+        {
+            "bbox": [
+                266.40024973422777,
+                124.98544293279524,
+                528.5789565328079,
+                150.02591548993195
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "COLLEGE OF TOBACCO KNOWLEDGE",
+            "uuid": "22c8ac54-dc14-4975-baa7-5ea128cbf0cd",
+            "vertical": false,
+            "translation": "烟草知识学院"
+        },
+        {
+            "bbox": [
+                309.05985494502164,
+                157.02229876514684,
+                474.34499077254486,
+                179.95337131552347
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "REGISTRATION FORM",
+            "uuid": "882b8f86-dcde-4dc6-9421-f922b1bacb5d",
+            "vertical": false,
+            "translation": "注册表格"
+        },
+        {
+            "bbox": [
+                232.36360609407438,
+                407.0,
+                718.3390109016557,
+                440.3734845134508
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "Please reserve a room for me at the Sheraton-Carlton.",
+            "uuid": "6dec1c67-5074-49ca-821a-065d8705f0b5",
+            "vertical": false,
+            "translation": "请在喜来登卡尔顿酒店为我订一个房间。"
+        },
+        {
+            "bbox": [
+                83.49609374999999,
+                497.07053883959617,
+                284.1799151635705,
+                519.1526036252599
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "ARRIVAL DATE AND TIME:",
+            "uuid": "1082eb89-ea80-47fb-8ea3-8b46ba37882f",
+            "vertical": false,
+            "translation": "到达日期和时间："
+        },
+        {
+            "bbox": [
+                546.0,
+                104.0,
+                726.0,
+                124.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "FEBRUARY 19-21. 1980",
+            "uuid": "c60d12bf-3d26-4617-b808-6b00d943b91b",
+            "vertical": false,
+            "translation": "1980 年 2 月 19 日至 21 日"
+        },
+        {
+            "bbox": [
+                74.6989344184378,
+                591.0,
+                689.475800757895,
+                786.7339260180217
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "Please attach a brief (50 words or so) autobiographical sketch. Note your first name or nickname, your current professional responsibilities, employment background and whatever personal information you feel would be helpful in giving your fellow students an idea of your activities and interests. The sketches will be assembled and provided at the opening class session.",
+            "uuid": "35ea8662-9d61-47f2-834d-a29311a07429",
+            "vertical": false,
+            "translation": "请附上（50 字左右）的个人简历。注明您的姓名或昵称、您当前的职业职责、工作背景以及您认为有助于同学们了解您的活动和兴趣的个人信息。简历将在开课时汇编并提供。"
+        },
+        {
+            "bbox": [
+                75.0,
+                797.0,
+                700.0,
+                834.0
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "Any questions? Call Connie Drath or Carol Musgrave at 800/424-9876.",
+            "uuid": "30048fb6-eeca-411e-81e5-57bc3a54088c",
+            "vertical": false,
+            "translation": "有疑问吗？请致电 800/424-9876 联系康妮·德拉斯或卡罗尔·马斯格雷夫。"
+        },
+        {
+            "bbox": [
+                74.0,
+                876.0,
+                734.0,
+                915.0
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "**PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY FRIDAY, JANUARY 18, 1980**",
+            "uuid": "c4cd3b38-0eb6-47cf-bcd1-7280d06d9697",
+            "vertical": false,
+            "translation": "**请于 1980 年 1 月 18 日星期五之前用回邮信封寄回***。"
+        },
+        {
+            "bbox": [
+                102.05048344933819,
+                121.62298335824585,
+                237.81407303818992,
+                138.92971869639425
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "WASHINGTON , D.C",
+            "uuid": "0121a4bf-681b-4d1c-9d61-a9f1cca4faa2",
+            "vertical": false,
+            "translation": "华盛顿特区"
+        },
+        {
+            "bbox": [
+                165.31480159660725,
+                219.98817509072688,
+                319.20785326472173,
+                233.8101910468272
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "GEORGE R. TELFORD",
+            "uuid": "4c3f88d0-5597-4cd4-ab45-eec0f58e0c36",
+            "vertical": false,
+            "translation": "乔治·R·特尔福德"
+        },
+        {
+            "bbox": [
+                165.014229230068,
+                251.5384289035648,
+                282.2374521803895,
+                266.5623592906304
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Brand Manager",
+            "uuid": "166633c0-748e-4b8a-b6f6-be30fa487e00",
+            "vertical": false,
+            "translation": "品牌经理"
+        },
+        {
+            "bbox": [
+                165.014229230068,
+                283.08868271640273,
+                246.16876819567517,
+                296.0092628492793
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "Lorillard",
+            "uuid": "13f4cb4a-ce16-4c36-bbeb-f166e52e1a1a",
+            "vertical": false,
+            "translation": "罗瑞拉德"
+        },
+        {
+            "bbox": [
+                164.90203140624158,
+                317.5704072318879,
+                498.9610812515857,
+                339.54397293135776
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "666 Fifth Avenue. New York, NY 10019",
+            "uuid": "0e80d771-c9a6-4ab2-9dc4-609998815319",
+            "vertical": false,
+            "translation": "666 费弗斯大街，纽约市，纽约州 10019"
+        },
+        {
+            "bbox": [
+                86.33499025564826,
+                341.1541979205427,
+                140.1332864224142,
+                355.0021328275332
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "PHONE :",
+            "uuid": "3af3a78c-8e50-4990-8fe4-27c91d42fa7a",
+            "vertical": false,
+            "translation": "电话:"
+        },
+        {
+            "bbox": [
+                166.22707079072575,
+                340.5101079248687,
+                289.2866464536274,
+                355.96826782104426
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "(212) 841-8787",
+            "uuid": "b79f95d8-1a81-49cd-88d0-c12a9c4c9fdc",
+            "vertical": false,
+            "translation": "(212) 841-8787"
+        },
+        {
+            "bbox": [
+                196.50874647740835,
+                438.08974226947737,
+                205.52882008620745,
+                449.0392721959352
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "X",
+            "uuid": "668104a4-65e9-44ac-803a-a4c63c73afe8",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                232.33794947094654,
+                439.97179247826,
+                599.2159160261205,
+                469.1730918780677
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "I will make my own housing arrangements.",
+            "uuid": "816c439a-e547-4ab2-abb5-d0981bc22b27",
+            "vertical": false,
+            "translation": "我的住宿自理。"
+        },
+        {
+            "bbox": [
+                303.7109375,
+                505.2946333184345,
+                366.21093749999994,
+                518.9622435931677
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "2/18/80",
+            "uuid": "3845c4ce-f090-4eef-9b8b-48d80e1a27c6",
+            "vertical": false,
+            "translation": "1980 年 2 月 18 日"
+        },
+        {
+            "bbox": [
+                394.04296874999994,
+                506.75902013358456,
+                474.12109374999994,
+                522.8672751002346
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "7:00 P.M.",
+            "uuid": "77061ed4-c4a5-4993-89f6-93078d9f574e",
+            "vertical": false,
+            "translation": "下午 7:00"
+        },
+        {
+            "bbox": [
+                392.08984375,
+                541.4161747588013,
+                472.16796875,
+                556.0600429103013
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "4:00 P.M.",
+            "uuid": "a534fe10-6a30-470d-b185-20878aa1c8d4",
+            "vertical": false,
+            "translation": "下午 4:00"
+        },
+        {
+            "bbox": [
+                311.03515624999994,
+                539.9517879436513,
+                375.48828124999994,
+                553.1312692800013
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "2/21/80",
+            "uuid": "3a79a38f-098e-44ba-98f2-73497cb7abed",
+            "vertical": false,
+            "translation": "1980 年 2 月 21 日"
+        },
+        {
+            "bbox": [
+                82.66643059489994,
+                532.2108397023271,
+                301.1085475451186,
+                551.6668824648514
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "DEPARTURE DATE AND TIME :",
+            "uuid": "1d3c95bd-8b97-4b88-93cd-11d628320249",
+            "vertical": false,
+            "translation": "出发日期和时间 ："
+        },
+        {
+            "bbox": [
+                596.5042483102276,
+                936.0428616043786,
+                688.0691928674862,
+                950.3614236243957
+            ],
+            "order": "31",
+            "label": "Page-footer",
+            "text": "85240938",
+            "uuid": "0f9bf8ee-e33e-42cb-bd8e-17c7fefb2679",
+            "vertical": false,
+            "translation": "85240938"
+        }
+    ],
+    "page_width": 769,
+    "page_height": 1000
+}

@@ -1,0 +1,301 @@
+{
+    "file": "jrc32004R1950.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                110.52898406224699,
+                123.50610023212326,
+                230.2413851979151,
+                144.50973184621446
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "12.11.2004",
+            "uuid": "5fb3dc09-a34b-4f5b-a0aa-beafc0afb9d9",
+            "vertical": false,
+            "translation": "2004 年 11 月 12 日"
+        },
+        {
+            "bbox": [
+                327.9791811936112,
+                121.5682044358928,
+                356.84134913864904,
+                139.94638209822278
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "65cf05fe-89c8-4468-b2a7-23d7d4fd8a36",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.9014714854958,
+                120.92960390279953,
+                1023.5772420372789,
+                151.77029528483564
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "79e31f92-5cd4-46ca-bdb1-1fcc7d5dad96",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                781.9752315321222,
+                220.4157051351733,
+                859.0293706850015,
+                241.8052169001337
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "31d45e6c-088e-4eb8-bb81-47702a485f93",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                1425.0595773348352,
+                121.99829901625182,
+                1531.569950283147,
+                151.89590016272163
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 336/33",
+            "uuid": "7aaa9ef7-8c59-4e8d-9f45-ce4bd6760ef5",
+            "vertical": false,
+            "translation": "L 336/33"
+        },
+        {
+            "bbox": [
+                1277.9202961634642,
+                293.4717386120373,
+                1389.7689236174263,
+                316.8963747793732
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "(EUR/100 kg)",
+            "uuid": "e85a026a-b5cd-42c6-a907-0f7d35f2b02a",
+            "vertical": false,
+            "translation": "（欧元/100 千克）"
+        },
+        {
+            "bbox": [
+                354.21751568910014,
+                401.9752121481882,
+                421.1252686525969,
+                420.3533898105179
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Product",
+            "uuid": "8c8baed1-f3c2-4111-a25d-5d326a605dfb",
+            "vertical": false,
+            "translation": "产品"
+        },
+        {
+            "bbox": [
+                595.7929826896258,
+                401.1073712127239,
+                761.8450557163957,
+                424.3507088218911
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Export refund Code",
+            "uuid": "fa2bc19d-7123-4eee-abb2-24fdb9ff611b",
+            "vertical": false,
+            "translation": "出口退税代码"
+        },
+        {
+            "bbox": [
+                251.00725200919624,
+                514.4516411428714,
+                308.56581152164983,
+                532.6392542511468
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Butter",
+            "uuid": "e2669c21-d5ee-4cb9-9608-a50403842b41",
+            "vertical": false,
+            "translation": "黄油"
+        },
+        {
+            "bbox": [
+                251.44002313335005,
+                560.1466816703369,
+                308.78219708372677,
+                578.1177755749421
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Butter",
+            "uuid": "c3e78ee1-cb9f-4d54-9136-a37d4c06fd81",
+            "vertical": false,
+            "translation": "黄油"
+        },
+        {
+            "bbox": [
+                251.830810546875,
+                604.7778360922073,
+                331.777099609375,
+                624.0625052323875
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Butteroil",
+            "uuid": "c33ec758-49bb-4f0e-9179-db5da7cf4ebb",
+            "vertical": false,
+            "translation": "乳脂肪"
+        },
+        {
+            "bbox": [
+                580.9952341764586,
+                606.0404670695958,
+                777.0405534181239,
+                624.8776377888811
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "ex 0405 90 10 9000",
+            "uuid": "92d73a1d-00dc-4647-849f-79af2c508a48",
+            "vertical": false,
+            "translation": "ex 0405 90 10 9000"
+        },
+        {
+            "bbox": [
+                580.9952341764586,
+                559.7053574842275,
+                776.8241678560471,
+                578.5425282035126
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "ex 0405 10 19 9700",
+            "uuid": "0bb8801c-28bd-4651-9a19-6e2d6cccf1c5",
+            "vertical": false,
+            "translation": "ex 0405 10 19 9700"
+        },
+        {
+            "bbox": [
+                580.7788486143817,
+                514.2363247135387,
+                776.1750111698163,
+                533.290014636494
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "ex 0405 10 19 9500",
+            "uuid": "f7a61a58-9690-44e2-b7e2-fe2db0e22aff",
+            "vertical": false,
+            "translation": "ex 0405 10 19 9500"
+        },
+        {
+            "bbox": [
+                954.7473964546024,
+                338.42374991643396,
+                1256.1898706246795,
+                361.3388174696164
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Maximum amount of export refund",
+            "uuid": "d7669a75-7585-4ba8-ba8d-8216b162231a",
+            "vertical": false,
+            "translation": "出口退税最高限额"
+        },
+        {
+            "bbox": [
+                839.2987246744514,
+                394.7432625770271,
+                1085.2831105696598,
+                487.29051437661644
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "For export to the destination referred to in the first indent of Article 1(1) of Regulation (EC) No 581/2004",
+            "uuid": "3bf113a9-aa16-437b-be49-64e32e249040",
+            "vertical": false,
+            "translation": "用于出口到 (EC) 第 581/2004 号条例第 1(1) 条第一段所述目的地"
+        },
+        {
+            "bbox": [
+                1122.344758044538,
+                394.76858292409764,
+                1383.0882070934588,
+                487.6440164676571
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "For export to the destinations referred to in the second indent of Article 1(1) of Regulation (EC) No 581/2004",
+            "uuid": "e7383373-0901-4bdc-a7dd-c3416e5c1038",
+            "vertical": false,
+            "translation": "用于出口到 (EC) 第 581/2004 号条例第 1(1) 条第二段所述目的地"
+        },
+        {
+            "bbox": [
+                1220.4105332214276,
+                560.1286308881049,
+                1287.6462653661179,
+                580.1477172702853
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "139,00",
+            "uuid": "f06500de-07c1-4eb7-b2a4-4b552750baf0",
+            "vertical": false,
+            "translation": "139.00"
+        },
+        {
+            "bbox": [
+                1220.082554040234,
+                605.4177115559892,
+                1287.318286184924,
+                626.4213431700801
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "170,00",
+            "uuid": "84265a8d-f2b9-4ff4-a0b3-4c4946d4507b",
+            "vertical": false,
+            "translation": "170.00"
+        },
+        {
+            "bbox": [
+                931.460874589856,
+                605.7458932999592,
+                996.7287316473846,
+                626.4213431700801
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "160,00",
+            "uuid": "a8aee759-6128-4af7-8806-753b3c65875b",
+            "vertical": false,
+            "translation": "160.00"
+        },
+        {
+            "bbox": [
+                248.63715330820912,
+                323.15463771587264,
+                1387.3007275269588,
+                641.9945008335153
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "39c6dd96-cc27-49a1-9c9c-22bc09b31d5e",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

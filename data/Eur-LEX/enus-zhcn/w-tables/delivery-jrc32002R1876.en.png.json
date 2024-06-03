@@ -1,0 +1,497 @@
+{
+    "file": "jrc32002R1876.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                2172.389784886355,
+                116.1572589768376,
+                2197.699180438429,
+                201.92798834775522
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 284/8",
+            "uuid": "4db6e9ad-a3ee-4b37-ae82-395f796725ef",
+            "vertical": true,
+            "translation": "L 284/8"
+        },
+        {
+            "bbox": [
+                2173.7958624170255,
+                329.88104363879637,
+                2193.4809478464167,
+                366.43905943623645
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "c2b2bfa6-1d26-4cf0-8bfb-dd8040886d1f",
+            "vertical": true,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                2169.5776298250134,
+                580.162844098195,
+                2196.293102907758,
+                1072.2899798329681
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "b9b052ad-9e76-4a79-adbe-fa0d879e176e",
+            "vertical": true,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                2172.389784886355,
+                1406.9364321326136,
+                2200.51133549977,
+                1534.8894874236546
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "22.10.2002",
+            "uuid": "d7c6dbe3-bd56-40cf-ae34-136640351c67",
+            "vertical": true,
+            "translation": "2002 年 10 月 22 日"
+        },
+        {
+            "bbox": [
+                1098.3556115290257,
+                114.93107777438789,
+                1174.4241589491103,
+                140.9057037227093
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "e29af997-87c5-4ee8-9a08-84f0d7abfc6f",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                148.4264339904089,
+                205.84226859351327,
+                2137.340649461888,
+                860.7739085761925
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "824a7878-3873-407a-b711-39447edac757",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                161.41374696456967,
+                257.7915204901565,
+                248.6142769339349,
+                304.17478111215917
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "No (or EC No)",
+            "uuid": "110244bd-889d-4df6-909e-4eae166d0011",
+            "vertical": false,
+            "translation": "编号（或 EC 编号）"
+        },
+        {
+            "bbox": [
+                408.39607416684714,
+                271.0841328007422,
+                482.2389067652807,
+                296.7030747226479
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Additive",
+            "uuid": "85b3760b-fdd0-4b47-9982-be5d6804f5e1",
+            "vertical": false,
+            "translation": "添加剂"
+        },
+        {
+            "bbox": [
+                682.6694523896006,
+                268.0701396334594,
+                926.802898939524,
+                298.2100713062895
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Chemical formula, description",
+            "uuid": "a43f5b8a-07b8-4357-bef1-2a486137a242",
+            "vertical": false,
+            "translation": "化学式，说明"
+        },
+        {
+            "bbox": [
+                997.6317383706746,
+                260.5351567152517,
+                1125.7264479802022,
+                310.2660439754216
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Species or category of animal",
+            "uuid": "46eb91be-9ab1-4591-bc83-5726457c564d",
+            "vertical": false,
+            "translation": "动物种类或分类"
+        },
+        {
+            "bbox": [
+                1159.3809638274386,
+                273.03828294436295,
+                1275.5321817108859,
+                296.4816480217561
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Maximum age",
+            "uuid": "44d3d976-8087-45fe-b488-fe5d44e88ba3",
+            "vertical": false,
+            "translation": "最大年龄"
+        },
+        {
+            "bbox": [
+                1334.1405944043686,
+                222.9547302790231,
+                1417.2579796787622,
+                266.6446379232558
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Minimum content",
+            "uuid": "7b95e500-6032-4163-aa4f-75c021e07202",
+            "vertical": false,
+            "translation": "最低含量"
+        },
+        {
+            "bbox": [
+                1491.850504925013,
+                224.02033778254113,
+                1576.0334977029245,
+                266.6446379232558
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Maximum content",
+            "uuid": "7b40f49d-fde1-431e-94ea-c5fc0d527fc1",
+            "vertical": false,
+            "translation": "最高含量"
+        },
+        {
+            "bbox": [
+                1326.6813418797437,
+                297.54725552527395,
+                1585.6239652345853,
+                346.56520068709574
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Units of activity/kg of complete feedingstuff",
+            "uuid": "0489d6f9-1f3a-409c-92b9-3bc2e90b27d8",
+            "vertical": false,
+            "translation": "活性单位/全价饲料千克"
+        },
+        {
+            "bbox": [
+                1722.021725684872,
+                274.103890447881,
+                1861.6163086457125,
+                294.35043301472035
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Other provisions",
+            "uuid": "8cb3c378-87e6-46bf-9d96-bdf227f6e391",
+            "vertical": false,
+            "translation": "其他规定"
+        },
+        {
+            "bbox": [
+                1985.2267790537849,
+                259.1853853986307,
+                2119.493324497036,
+                302.8752930428632
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "End of period of authorisation",
+            "uuid": "2f3b37cc-de69-4171-b072-9a8d59964060",
+            "vertical": false,
+            "translation": "授权期结束"
+        },
+        {
+            "bbox": [
+                149.1850504925013,
+                376.402210785596,
+                241.8929032985557,
+                403.0423983735429
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "'Enzymes",
+            "uuid": "21b36901-36b5-4c12-83d4-fe9c138a77d6",
+            "vertical": false,
+            "translation": "”酶"
+        },
+        {
+            "bbox": [
+                191.80935063321596,
+                432.87940847204294,
+                218.4495382211626,
+                452.0603435353645
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "24",
+            "uuid": "cba144c9-f168-4726-b4ad-fa2da95b3d1a",
+            "vertical": false,
+            "translation": "24"
+        },
+        {
+            "bbox": [
+                278.12355841816316,
+                433.945015975561,
+                497.6387041428436,
+                480.8317461303469
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Endo-1,4-beta-xylanase EC 3.2.1.8",
+            "uuid": "cbe61aa3-780b-46f6-b304-229d80e6a529",
+            "vertical": false,
+            "translation": "Endo-1,4-beta-木聚糖酶 EC 3.2.1.8"
+        },
+        {
+            "bbox": [
+                277.0579509146453,
+                500.01268119366847,
+                532.8037517589331,
+                546.8994113484547
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Endo-1,3(4)-beta-glucanase EC 3.2.1.6",
+            "uuid": "d5e9ef78-5c1e-4578-aa6d-cab315d5e4c5",
+            "vertical": false,
+            "translation": "Endo-1,3(4)-beta-葡聚糖酶 EC 3.2.1.6"
+        },
+        {
+            "bbox": [
+                635.1020720966484,
+                432.87940847204294,
+                970.7684357047763,
+                558.6210938871511
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Preparation of endo-1,4-beta-xylanase and endo-1,3(4)-beta-glucanase produced by Aspergillus niger (CNCM I-1517); having a minimum activity of:",
+            "uuid": "a558ffce-4b26-47e3-87f4-4467cb4a8118",
+            "vertical": false,
+            "translation": "制备黑曲霉 (CNCM I-1517) 产生的 endo-1,4-beta-木聚糖酶和 endo-1,3(4)-beta-葡聚糖酶；其最低活性为："
+        },
+        {
+            "bbox": [
+                639.3645021107199,
+                577.8020289504728,
+                808.7960951700605,
+                605.5078240419374
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "28 000 QXU/g (⁴)",
+            "uuid": "ac12fa14-9286-4f99-9e30-6733cd92415d",
+            "vertical": false,
+            "translation": "28000 QXU/克  (⁴)"
+        },
+        {
+            "bbox": [
+                638.298894607202,
+                616.163899077116,
+                823.7146002193107,
+                644.9353016720985
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "140 000 QGU/g (⁵)",
+            "uuid": "64a3c967-afe8-4411-b329-c86f1a2e8cf0",
+            "vertical": false,
+            "translation": "140000 QGU/克 (⁵)"
+        },
+        {
+            "bbox": [
+                995.2774082856872,
+                431.81380096852513,
+                1111.4286261691345,
+                460.5852035635075
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Laying hens",
+            "uuid": "f2c1efed-192c-483a-93a7-12e9a5e56603",
+            "vertical": false,
+            "translation": "蛋鸡"
+        },
+        {
+            "bbox": [
+                1203.0708714716711,
+                439.27305349315026,
+                1235.0390965772071,
+                449.9291285283288
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "54dbe2a4-9a8f-48e8-a5ab-a8c3793369b5",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                1314.4185426084648,
+                432.18989959510543,
+                1408.026984812035,
+                458.7122915527836
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "560 QXU",
+            "uuid": "4b8b4136-1992-4c76-9888-3d303320cb64",
+            "vertical": false,
+            "translation": "560 QXU"
+        },
+        {
+            "bbox": [
+                1515.6766933461406,
+                440.77067346376595,
+                1549.9997888207831,
+                448.57137698073
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "976e5dc4-8a2b-48a9-a93f-3ffce85637dd",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                1311.2982612016792,
+                468.853206124837,
+                1430.649025011231,
+                495.37559808251535
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "2 800 QGU",
+            "uuid": "30a82a00-5fb3-488e-aa3b-0fdeecbbffb3",
+            "vertical": false,
+            "translation": "2800 QGU"
+        },
+        {
+            "bbox": [
+                1519.5770451046228,
+                478.21405034519415,
+                1549.2197184690867,
+                485.23468351046176
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "-",
+            "uuid": "221d6469-fdcd-474a-b8b2-9d38f36733d5",
+            "vertical": false,
+            "translation": "-"
+        },
+        {
+            "bbox": [
+                1631.1271053972107,
+                430.6297588917126,
+                1954.8563013512241,
+                563.2417186801038
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1. In the directions for use of the additive and premixture, indicate the storage temperature, storage life, and stability to pelleting",
+            "uuid": "43fecbb1-c333-445a-8785-17b670757a3e",
+            "vertical": true,
+            "translation": "1. 在添加剂和预混料的使用说明中，标明储存温度、储存寿命和造粒稳定性"
+        },
+        {
+            "bbox": [
+                1628.7868943421213,
+                577.2829850106392,
+                1959.5367234614027,
+                695.0736081167985
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "2. Recommended dose per kilogram of complete feedingstuff: 560 QXU 2 800 QGU",
+            "uuid": "080a76ae-bba8-4307-a5f5-aeeae3da36fe",
+            "vertical": false,
+            "translation": "2. 每千克全价饲料的推荐剂量：560 QXU 2800 QGU"
+        },
+        {
+            "bbox": [
+                1628.006823990425,
+                709.8949447990303,
+                1957.1965124063136,
+                841.726834235725
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "3. For use in compound feed rich in non-starch polysaccharides (mainly arabinoxylans and betaglucans), e.g. containing more than 20% wheat and/or barley",
+            "uuid": "47875ec9-d09e-4805-8ab2-5ded20b6dafc",
+            "vertical": false,
+            "translation": "3. 用于富含非淀粉多糖（主要是阿拉伯木聚糖和贝塔葡聚糖）的配合饲料，例如含有超过 20% 的小麦和/或大麦"
+        },
+        {
+            "bbox": [
+                2003.2206631564022,
+                434.5301106501946,
+                2099.949386766758,
+                454.03186944260494
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "1.10.2006",
+            "uuid": "baa38de0-c534-4b49-8958-3f9890f5e2f2",
+            "vertical": false,
+            "translation": "2006 年 10 月 1 日"
+        },
+        {
+            "bbox": [
+                144.4392671908896,
+                870.8246463137417,
+                1504.371689640706,
+                891.6336932819208
+            ],
+            "order": "34",
+            "label": "Footnote",
+            "text": "(4) 1 QXU is the amount of enzyme which liberates 1 micromole of reducing sugars (xylose equivalents) from oat xylan per minute at pH 5,1 and 50 °C).",
+            "uuid": "7c3acb8e-e4e4-44b7-824d-e959fb34c1eb",
+            "vertical": false,
+            "translation": "(4) 1 QXU 指在 pH 5.1 和 50°C 下，每分钟从燕麦木聚糖中释放 1 微摩尔还原糖（木糖当量）的酶量）。"
+        },
+        {
+            "bbox": [
+                145.66332877725307,
+                894.0818164546477,
+                1590.0560006861492,
+                919.7871097682806
+            ],
+            "order": "35",
+            "label": "Footnote",
+            "text": "(⁵) 1 QGU is the amount of enzyme which liberates 1 micromole of reducing sugars (glucose equivalents) from barley beta-glucan per minute at pH 4,8 and 50 °C).'",
+            "uuid": "554ffd0d-2d76-403b-85d7-421a1314c09e",
+            "vertical": false,
+            "translation": "(⁵) 1 QGU 指在 pH 4.8 和 50°C 下每分钟从大麦贝塔-葡聚糖中释放 1 微摩尔还原糖（葡萄糖当量）的酶量）。“"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

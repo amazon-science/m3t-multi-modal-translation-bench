@@ -1,0 +1,1687 @@
+{
+    "file": "82253362_3364.png",
+    "annotations": [
+        {
+            "bbox": [
+                59.399043086242614,
+                90.32157174457723,
+                75.62073502758513,
+                99.83086098415106
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "8b6718c0-59f6-4d1f-8541-bafc08c5255a",
+            "vertical": false,
+            "translation": "收件人："
+        },
+        {
+            "bbox": [
+                60.0,
+                115.0000000000001,
+                90.53555127870052,
+                123.55829766471848
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "89e5eca7-530c-472a-9442-61376f1d5f6e",
+            "vertical": false,
+            "translation": "发件人："
+        },
+        {
+            "bbox": [
+                60.00000000000001,
+                163.9966317758399,
+                104.88603143771752,
+                173.11105964141694
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "SUBJECT:",
+            "uuid": "72eeb5db-f9c7-478b-a62c-ebf9ab122f81",
+            "vertical": false,
+            "translation": "主题："
+        },
+        {
+            "bbox": [
+                60.00000000000001,
+                263.974894362862,
+                103.34358979892752,
+                272.2479904254628
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "DIVISION:",
+            "uuid": "c33b85a2-11c3-4e7a-a075-f22c6aa54d3c",
+            "vertical": false,
+            "translation": "分部："
+        },
+        {
+            "bbox": [
+                72.0,
+                288.99999999999994,
+                145.3751428941769,
+                297.56601277009565
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "4e0a9ce9-183e-45d8-86e0-bde4907eb240",
+            "vertical": false,
+            "translation": "分部名称："
+        },
+        {
+            "bbox": [
+                72.90010820570568,
+                312.99999999999994,
+                145.3751428941769,
+                321.79520325245846
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "aceb1dbb-3d35-404d-9af5-cda6b1211105",
+            "vertical": false,
+            "translation": "分部名称："
+        },
+        {
+            "bbox": [
+                72.70940722410025,
+                338.1137465534098,
+                145.9908868448375,
+                346.43589898021463
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "eecd0d6c-2193-43be-b625-9e1ece5fcef7",
+            "vertical": false,
+            "translation": "分部名称:"
+        },
+        {
+            "bbox": [
+                59.0,
+                213.99999999999997,
+                99.83804061985946,
+                223.03007995134672
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "REGION:",
+            "uuid": "3a714e63-0a3c-48e2-b58a-3d610c2b368a",
+            "vertical": false,
+            "translation": "地区："
+        },
+        {
+            "bbox": [
+                59.0,
+                240.0,
+                352.0,
+                248.0
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)",
+            "uuid": "b3dd9728-b1db-4218-9f37-651ba7cbf4eb",
+            "vertical": false,
+            "translation": "（仅当局部区域继续执行分部范围时）"
+        },
+        {
+            "bbox": [
+                70.98727737815071,
+                421.00000000000006,
+                163.4407673766404,
+                430.18895014723944
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "e5963fa9-34ae-45f5-8a47-5defb39c2c49",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                59.0,
+                437.99999999999994,
+                108.81882041201544,
+                446.9793540779996
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Don & Bens",
+            "uuid": "cc64798f-31dd-4a4f-9302-010aa598e5d1",
+            "vertical": false,
+            "translation": "Don & Bens"
+        },
+        {
+            "bbox": [
+                59.0,
+                456.0,
+                134.0,
+                466.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Western Beverage",
+            "uuid": "1352cddd-b304-46e6-b943-548c5f409c65",
+            "vertical": false,
+            "translation": "西部饮品"
+        },
+        {
+            "bbox": [
+                59.0,
+                473.0,
+                110.0,
+                482.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Speedy Stop",
+            "uuid": "8e2ccee5-35d3-471c-800e-1da44054d70f",
+            "vertical": false,
+            "translation": "Speedy Stop"
+        },
+        {
+            "bbox": [
+                59.93536593005538,
+                490.9744631117637,
+                99.89227655009232,
+                499.9010069736868
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "Get-N-Go",
+            "uuid": "a96ab8d8-cbfc-4115-9662-7bb6218d4a35",
+            "vertical": false,
+            "translation": "Get-N-Go"
+        },
+        {
+            "bbox": [
+                59.93536593005538,
+                508.0,
+                128.0713129191296,
+                516.9039476630643
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "Valley Shamrock",
+            "uuid": "5d3cb8e6-f0b0-4336-b911-1f10af14d325",
+            "vertical": false,
+            "translation": "萨姆洛克山谷"
+        },
+        {
+            "bbox": [
+                59.0,
+                526.0,
+                147.07543696311464,
+                534.5444986282932
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "Albertson's - Houston",
+            "uuid": "ef2a9501-84f1-4305-8864-fe59acdfdbd7",
+            "vertical": false,
+            "translation": "艾伯森 – 休斯敦"
+        },
+        {
+            "bbox": [
+                59.0,
+                543.0,
+                97.76690896392012,
+                551.9725128349052
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Mini Mart",
+            "uuid": "316570c5-c6ee-4de9-a51f-292398c2be57",
+            "vertical": false,
+            "translation": "Mini Mart"
+        },
+        {
+            "bbox": [
+                59.93536593005538,
+                560.8990566968283,
+                126.24683461862729,
+                570.6757475932203
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "Neal's One Stop",
+            "uuid": "42f30614-edda-4941-91d0-b30cfa549f5f",
+            "vertical": false,
+            "translation": "Neal's One Stop"
+        },
+        {
+            "bbox": [
+                59.750170494674215,
+                577.622964253301,
+                115.18703814343593,
+                587.885807588109
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Shopper Mart",
+            "uuid": "49b87704-20f8-4b31-b1ec-673b838dbd71",
+            "vertical": false,
+            "translation": "Shopper Mart"
+        },
+        {
+            "bbox": [
+                178.32699201613795,
+                90.3284476268239,
+                235.04924438295174,
+                101.70038096797951
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "K.A. Sparrow",
+            "uuid": "f93ea6cf-d0a3-418b-988b-82ebcfea0553",
+            "vertical": false,
+            "translation": "K·A·斯帕罗"
+        },
+        {
+            "bbox": [
+                177.0,
+                115.9700578176598,
+                237.0670793598343,
+                124.73578315822765
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "J. L. McGinnis",
+            "uuid": "72d32b0b-1b52-4323-b4ef-b855a2b728d4",
+            "vertical": false,
+            "translation": "J·L·麦金尼斯"
+        },
+        {
+            "bbox": [
+                162.39804937090628,
+                189.71416293671606,
+                222.44328243207008,
+                198.40726288037914
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "GEOGRAPHY",
+            "uuid": "a91bbbeb-e3e9-4c58-86bc-6003d646c480",
+            "vertical": false,
+            "translation": "地域"
+        },
+        {
+            "bbox": [
+                71.68871528727381,
+                649.839313796001,
+                162.89771517435946,
+                660.729041303393
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "779c196f-ccd7-454b-a8f0-9b16339cf0d1",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                59.98690183050808,
+                668.3331392216564,
+                94.78922008258799,
+                677.4588567691854
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "Chevron",
+            "uuid": "1e9ad916-974b-440e-912b-d08f6047f1ee",
+            "vertical": false,
+            "translation": "雪佛龙"
+        },
+        {
+            "bbox": [
+                58.99538279198729,
+                685.0,
+                128.62325506910602,
+                694.5129842317431
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "Brookshire Bro.'s",
+            "uuid": "c2b169a9-aa28-4ba2-9fce-0a4d3e6988b3",
+            "vertical": false,
+            "translation": "布鲁克希尔兄弟"
+        },
+        {
+            "bbox": [
+                58.99538279198729,
+                703.0,
+                160.91362740057608,
+                713.0576996410551
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "Eckerd Drugs-S. Texas",
+            "uuid": "1114802e-e401-48ee-bae4-5adeef39b91d",
+            "vertical": false,
+            "translation": "艾克德药品 – 南得克萨斯"
+        },
+        {
+            "bbox": [
+                60.08605373436016,
+                721.1848463679524,
+                84.27911827426756,
+                729.216150579971
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "Exxon",
+            "uuid": "e5a4a00e-304f-4142-8547-aee9fda36ad1",
+            "vertical": false,
+            "translation": "埃克森"
+        },
+        {
+            "bbox": [
+                60.10901598003901,
+                738.2581504913779,
+                104.57485436905183,
+                749.175923471769
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "Phillip's 66",
+            "uuid": "c3c2c0eb-ee76-4007-8ff8-00692ac1681e",
+            "vertical": false,
+            "translation": "菲利普斯 66"
+        },
+        {
+            "bbox": [
+                59.39199040739561,
+                755.6797188838191,
+                120.17210746872033,
+                765.6026601600581
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "Star Enterprise",
+            "uuid": "f4ad7140-5896-48d5-947e-807e8111fdfd",
+            "vertical": false,
+            "translation": "明星企业"
+        },
+        {
+            "bbox": [
+                158.97749544567884,
+                363.0,
+                225.9265744101024,
+                371.7413415275046
+            ],
+            "order": "46",
+            "label": "Section-header",
+            "text": "DISTRIBUTION",
+            "uuid": "f87b7a2c-9228-4784-af5d-aee6a9bf5253",
+            "vertical": false,
+            "translation": "分销"
+        },
+        {
+            "bbox": [
+                59.48828125000001,
+                383.7890625,
+                398.92578125000006,
+                392.08984375
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION",
+            "uuid": "0ced00e3-89e2-4666-bf97-e22b80ac5a0b",
+            "vertical": false,
+            "translation": "总部位于该地区的直接客户和连锁店"
+        },
+        {
+            "bbox": [
+                253.90625,
+                407.99999999999994,
+                294.921875,
+                429.19921875
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "1148f830-84e1-4448-bb05-1dc3b01b4261",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                76.7534173033252,
+                928.7031852445259,
+                136.31719231652013,
+                939.0267980150505
+            ],
+            "order": "123",
+            "label": "Page-footer",
+            "text": "MAVPROG9XLS",
+            "uuid": "357e03b9-07b3-4f1f-87b1-367a6100289b",
+            "vertical": false,
+            "translation": "MAVPROG9XLS"
+        },
+        {
+            "bbox": [
+                177.94167632949666,
+                164.978185545979,
+                431.18254902537603,
+                173.3915035757424
+            ],
+            "order": "15",
+            "label": "Section-header",
+            "text": "MAVERICK SPECIALS MENTHOL - PROGRESS REPORT",
+            "uuid": "64ba9d8b-b8e3-4cc1-bd4f-27788fde0c87",
+            "vertical": false,
+            "translation": "特价薄荷醇 – 进度报告"
+        },
+        {
+            "bbox": [
+                246.96771351320695,
+                213.16883146206212,
+                270.74891331743527,
+                222.96561049545215
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "81ce019b-706d-4165-bece-ff028367fb27",
+            "vertical": false,
+            "translation": "全价"
+        },
+        {
+            "bbox": [
+                189.96173565282876,
+                407.87243791760665,
+                231.14014986871092,
+                430.41536540805305
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "4b5687ca-60ff-4475-94a0-86059cbb5c1f",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                201.9099206863568,
+                438.9029572505454,
+                220.61315544467195,
+                447.61696435385124
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "26/2",
+            "uuid": "0de8d88a-4838-43d6-bfc5-ce67af24c14a",
+            "vertical": false,
+            "translation": "26/2"
+        },
+        {
+            "bbox": [
+                201.9099206863568,
+                455.90589793992274,
+                220.61315544467195,
+                464.6199050432287
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "42/2",
+            "uuid": "af118963-b5a4-43f2-bcd2-7a3e3249b380",
+            "vertical": false,
+            "translation": "42/2"
+        },
+        {
+            "bbox": [
+                198.93440606571576,
+                473.9715224223863,
+                222.95105978946134,
+                481.83538249122336
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "106/4",
+            "uuid": "cb9e6582-b3d9-4e10-8897-9715e733ca61",
+            "vertical": false,
+            "translation": "106/4"
+        },
+        {
+            "bbox": [
+                201.9099206863568,
+                490.9744631117637,
+                220.61315544467195,
+                498.83832318060075
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "62/2",
+            "uuid": "1f6ebdd3-2cb0-4786-b5c0-79a762597c12",
+            "vertical": false,
+            "translation": "62/2"
+        },
+        {
+            "bbox": [
+                201.9099206863568,
+                507.97740380114107,
+                221.03822896190638,
+                516.2663373872126
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "78/4",
+            "uuid": "d2501b37-d377-4568-8cf7-11c8ad31280b",
+            "vertical": false,
+            "translation": "78/4"
+        },
+        {
+            "bbox": [
+                195.9588914450747,
+                525.5803640941658,
+                225.5015008928679,
+                534.331961869676
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "319/16",
+            "uuid": "5a40ff38-1fc6-4f15-b1ca-af4acedc9f2b",
+            "vertical": false,
+            "translation": "319/16"
+        },
+        {
+            "bbox": [
+                201.9099206863568,
+                543.8961160074509,
+                220.1880819274375,
+                552.3975863521396
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "65/3",
+            "uuid": "cc05cbbd-f533-462d-8afb-9946e8dbf01f",
+            "vertical": false,
+            "translation": "65/3"
+        },
+        {
+            "bbox": [
+                201.0,
+                560.8990566968283,
+                220.82569220328918,
+                569.400527041517
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "69/3",
+            "uuid": "b145f05c-b9db-4af0-a3b3-f7d36fa8c10c",
+            "vertical": false,
+            "translation": "69/3"
+        },
+        {
+            "bbox": [
+                201.0,
+                578.9646811792918,
+                220.82569220328918,
+                587.4661515239806
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "80/4",
+            "uuid": "d14bbab3-ca8a-4cd7-a680-18416c71fc60",
+            "vertical": false,
+            "translation": "80/4"
+        },
+        {
+            "bbox": [
+                246.96771351320695,
+                263.98520490857527,
+                270.7718304783353,
+                272.9117487704984
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "FULL",
+            "uuid": "819b4e65-1dbb-472c-a5c0-33a094de69fb",
+            "vertical": false,
+            "translation": "全价"
+        },
+        {
+            "bbox": [
+                206.99999999999997,
+                686.9774395389852,
+                214.66387183975203,
+                695.0087437510035
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "4d6605e4-bbf6-4360-bc11-8128bfb9620a",
+            "vertical": false,
+            "translation": "？"
+        },
+        {
+            "bbox": [
+                206.99999999999997,
+                704.0,
+                214.5647199359,
+                712.0628712135613
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "8f4bb693-d2e3-4727-a926-68f4de8ce27a",
+            "vertical": false,
+            "translation": "?"
+        },
+        {
+            "bbox": [
+                208.00000000000003,
+                721.9780615987692,
+                214.16811232049164,
+                729.7119100992313
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "8c37852b-6e22-4b19-bae8-e011fa2f055d",
+            "vertical": false,
+            "translation": "？"
+        },
+        {
+            "bbox": [
+                207.92154237781065,
+                738.6099104847256,
+                214.06896041663958,
+                746.865189465641
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "9b12ab2a-1b2b-478e-9797-c5012bf21546",
+            "vertical": false,
+            "translation": "？"
+        },
+        {
+            "bbox": [
+                207.89236713466877,
+                756.5820760431449,
+                213.96980851278755,
+                764.0184688320509
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "b23aa627-d9ee-494f-b7c7-5f909c3a2ad3",
+            "vertical": false,
+            "translation": "？"
+        },
+        {
+            "bbox": [
+                208.02069428166274,
+                773.4277859578658,
+                213.96980851278755,
+                781.8658115254251
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "16e9a842-4e4a-4281-b2a8-10bab06056b4",
+            "vertical": false,
+            "translation": "?"
+        },
+        {
+            "bbox": [
+                246.96771351320695,
+                288.99999999999994,
+                320.0803584775298,
+                298.20362304594727
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "f62f2acc-d9ff-45e5-abe0-9a3b623fdae9",
+            "vertical": false,
+            "translation": "分部名称："
+        },
+        {
+            "bbox": [
+                247.81786054767582,
+                313.2906312660706,
+                319.8678217189126,
+                322.2202767696929
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "ee48eeca-9f03-4c28-95df-29e470bbcd42",
+            "vertical": false,
+            "translation": "分部名称："
+        },
+        {
+            "bbox": [
+                246.96771351320695,
+                337.947996907367,
+                320.50543199476425,
+                346.87454076929015
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "DIVISION NAME:",
+            "uuid": "f06f61cd-808f-4453-a756-bea1223d378b",
+            "vertical": false,
+            "translation": "分部名称："
+        },
+        {
+            "bbox": [
+                279.91091109887566,
+                438.9029572505454,
+                291.81296958143986,
+                446.76681731938237
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "1614f9fa-dcda-48e1-a866-17cc6df10f73",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                281.6112051678134,
+                456.11843469853994,
+                291.6004328228227,
+                464.1948315259943
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "6f513748-bc9f-4cb0-b9e2-0f51d3af8a18",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                279.91091109887566,
+                490.9744631117637,
+                292.23804309867427,
+                498.4132496633663
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "44",
+            "uuid": "5db68490-87fd-4016-93b7-f15b721ef55c",
+            "vertical": false,
+            "translation": "44"
+        },
+        {
+            "bbox": [
+                281.186131650579,
+                508.82755083560994,
+                291.3878960642054,
+                516.691410904447
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "17",
+            "uuid": "1dceac62-b1d4-42e3-9cd0-dfd45624e288",
+            "vertical": false,
+            "translation": "17"
+        },
+        {
+            "bbox": [
+                280.54852137472733,
+                526.4249409222708,
+                291.3878960642054,
+                534.1194251110588
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "34",
+            "uuid": "3418412b-d334-422c-8a5d-f7ddf1e23384",
+            "vertical": false,
+            "translation": "34"
+        },
+        {
+            "bbox": [
+                281.186131650579,
+                543.8961160074509,
+                291.6004328228227,
+                550.9098290418191
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "d35e5774-78ae-498c-863d-1938694f71c2",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                279.91091109887566,
+                561.9617404899144,
+                291.6004328228227,
+                569.400527041517
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "20",
+            "uuid": "0bb8e1fc-63b0-4ce4-aad4-dc636ac28b15",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                279.91091109887566,
+                578.9646811792918,
+                291.6004328228227,
+                587.891225041215
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "22",
+            "uuid": "068e15a0-2017-482a-93a0-735f8d708cd7",
+            "vertical": false,
+            "translation": "22"
+        },
+        {
+            "bbox": [
+                59.0,
+                613.9915130046093,
+                407.0697729584666,
+                623.3137215456428
+            ],
+            "order": "92",
+            "label": "Text",
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION",
+            "uuid": "0f7d8c69-2f66-4fc3-9cb3-11e718bfc694",
+            "vertical": false,
+            "translation": "总部位于该地区以外的直接客户和连锁店"
+        },
+        {
+            "bbox": [
+                189.97504778058428,
+                639.2853737861349,
+                231.4205435907535,
+                659.9089697873675
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "2233df00-cba9-4a54-9737-07031229f7ed",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                208.00000000000003,
+                669.0,
+                213.87065660893543,
+                677.4588567691854
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "?",
+            "uuid": "ec48f000-64d9-44f6-a304-6b31656f0c66",
+            "vertical": false,
+            "translation": "?"
+        },
+        {
+            "bbox": [
+                270.5040802927941,
+                638.5460993595474,
+                308.6857425534309,
+                660.2292879399816
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "d79faf46-e3ca-4567-8ec8-46c512ad0447",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                278.0,
+                669.0,
+                293.68793920985945,
+                677.0622491537772
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "115",
+            "uuid": "03a9426d-5797-4a2b-8882-8ed73f0d913c",
+            "vertical": false,
+            "translation": "115"
+        },
+        {
+            "bbox": [
+                280.00000000000006,
+                685.9859205004643,
+                291.20914161355745,
+                694.8104399432993
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "38",
+            "uuid": "ddd985f4-19bc-4ca8-b56a-b5bf9cd75a9a",
+            "vertical": false,
+            "translation": "38"
+        },
+        {
+            "bbox": [
+                278.0,
+                704.0,
+                293.4896354021553,
+                712.1620231174132
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "217",
+            "uuid": "1199ed4c-e407-45ea-8490-8e3870eb4038",
+            "vertical": false,
+            "translation": "217"
+        },
+        {
+            "bbox": [
+                280.00000000000006,
+                721.9780615987692,
+                291.40744542126157,
+                729.0178467722668
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "38",
+            "uuid": "18e65f77-6c03-42b7-b632-28bea9ad3222",
+            "vertical": false,
+            "translation": "38"
+        },
+        {
+            "bbox": [
+                280.00000000000006,
+                739.0,
+                291.6057492289658,
+                746.7660375617891
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "27",
+            "uuid": "aa68e225-a7a4-43ac-97c6-5222d82ee4f1",
+            "vertical": false,
+            "translation": "27"
+        },
+        {
+            "bbox": [
+                280.00000000000006,
+                755.9871646200324,
+                291.80405303666987,
+                763.8201650243467
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "70",
+            "uuid": "bc603278-568b-47c2-b154-97d01b9e8ba4",
+            "vertical": false,
+            "translation": "70"
+        },
+        {
+            "bbox": [
+                278.0,
+                774.0,
+                293.98539492141566,
+                781.7666596215731
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "177",
+            "uuid": "b34298ea-1f11-4475-92a6-73dc62391e0f",
+            "vertical": false,
+            "translation": "177"
+        },
+        {
+            "bbox": [
+                326.904296875,
+                437.98828125,
+                371.337890625,
+                446.77734375
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "Sac N Pac",
+            "uuid": "4efe908b-8faa-4f0a-bd81-da2200fdb79e",
+            "vertical": false,
+            "translation": "Sac N Pac"
+        },
+        {
+            "bbox": [
+                413.0,
+                115.9700578176598,
+                446.790328925957,
+                124.73578315822765
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "MAY 19",
+            "uuid": "a6da9ff8-4971-46c0-b80e-12172efa41f3",
+            "vertical": false,
+            "translation": "5 月 19 日"
+        },
+        {
+            "bbox": [
+                341.0,
+                421.0,
+                431.0,
+                428.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "929262fb-edd0-443c-84ef-1d136396cfb8",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                327.094071511898,
+                455.8847490432152,
+                380.6533346834368,
+                464.8324418018459
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "ACO/Texaco",
+            "uuid": "788bfb3e-792e-4ecb-aec2-9648380ac427",
+            "vertical": false,
+            "translation": "ACO/Texaco"
+        },
+        {
+            "bbox": [
+                415.87496868249735,
+                140.1681859002122,
+                446.397833761454,
+                149.33214680041795
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "JUN 30",
+            "uuid": "b19e9571-1de5-4b72-b6f7-b2b94fabfeaa",
+            "vertical": false,
+            "translation": "6 月 30 日"
+        },
+        {
+            "bbox": [
+                341.0,
+                652.0,
+                432.00000000000006,
+                659.0
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "1baedefa-5bdc-412d-836a-326d82eb2191",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                449.9403179926498,
+                214.99999999999997,
+                490.3223021299212,
+                223.17814725406947
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "98a7b3c6-33d8-4913-904c-703def4e3c50",
+            "vertical": false,
+            "translation": "局部"
+        },
+        {
+            "bbox": [
+                449.9403179926498,
+                263.98520490857527,
+                489.25961833683505,
+                272.6992120118812
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "PARTIAL",
+            "uuid": "c70b313f-0292-4693-b5f1-33e4b35b5687",
+            "vertical": false,
+            "translation": "局部"
+        },
+        {
+            "bbox": [
+                448.99999999999994,
+                288.99999999999994,
+                482.67097881970136,
+                297.77854952871286
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "#REPS",
+            "uuid": "204ba8a8-c867-4d36-afa5-5340f72ba57b",
+            "vertical": false,
+            "translation": "销售代表的数量"
+        },
+        {
+            "bbox": [
+                486.95566742676783,
+                89.99999999999997,
+                573.9302851644208,
+                100.40108295903927
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "SUBMISSION DATE",
+            "uuid": "a03718ee-6718-49ae-88ed-f6cc03d3f40a",
+            "vertical": false,
+            "translation": "提交日期"
+        },
+        {
+            "bbox": [
+                448.99999999999994,
+                312.99999999999994,
+                483.308589095553,
+                322.00774001107567
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "# REPS",
+            "uuid": "0356f151-c64a-466b-9869-a87ed033ee32",
+            "vertical": false,
+            "translation": "销售代表的数量"
+        },
+        {
+            "bbox": [
+                448.99999999999994,
+                337.947996907367,
+                483.308589095553,
+                346.66200401067294
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "# REPS",
+            "uuid": "be9d895e-85ad-489b-8e39-7e3ce17fbbd1",
+            "vertical": false,
+            "translation": "销售代表的数量"
+        },
+        {
+            "bbox": [
+                536.5408898756515,
+                115.32165442326692,
+                570.2751009961107,
+                125.23746016247772
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "AUG 11",
+            "uuid": "3df7cdbb-c256-4525-a682-8098c8432c29",
+            "vertical": false,
+            "translation": "8 月 11 日"
+        },
+        {
+            "bbox": [
+                472.0,
+                438.9029572505454,
+                491.8100594402417,
+                447.61696435385124
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "75/2",
+            "uuid": "726aaca0-b091-4abe-aea4-03d01ce7be62",
+            "vertical": false,
+            "translation": "75/2"
+        },
+        {
+            "bbox": [
+                472.0,
+                455.90589793992274,
+                490.9599124057728,
+                464.8324418018459
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "95/3",
+            "uuid": "f2928ed9-6967-4825-beec-f2dc9d0623da",
+            "vertical": false,
+            "translation": "95/3"
+        },
+        {
+            "bbox": [
+                472.0,
+                473.9715224223863,
+                491.59752268162447,
+                482.472992767075
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "76/3",
+            "uuid": "b6a3e4ad-0280-4b85-9f16-0ec9da622111",
+            "vertical": false,
+            "translation": "76/3"
+        },
+        {
+            "bbox": [
+                539.0,
+                140.95891662435312,
+                570.4263057444136,
+                148.54715647141182
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "SEP 22",
+            "uuid": "ed83e3ab-2beb-4c90-80f6-14715fb9b3ca",
+            "vertical": false,
+            "translation": "9 月 22 日"
+        },
+        {
+            "bbox": [
+                461.9999999999999,
+                408.72273752690046,
+                502.861970888337,
+                429.7671915040971
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "5f32fd6c-a0e3-482a-a4e0-589e1c059be0",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                537.4250735172344,
+                438.2124704611353,
+                549.6200577841249,
+                446.76681731938237
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "27",
+            "uuid": "29b19f99-fdfd-4ae7-9cfb-916f5d89cc0c",
+            "vertical": false,
+            "translation": "27"
+        },
+        {
+            "bbox": [
+                538.7806830946467,
+                455.90589793992274,
+                549.1949842668905,
+                464.8324418018459
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "7e80e5f5-66d9-4cc6-aa0f-07151bb969ff",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                537.0,
+                472.90883862930025,
+                549.1949842668905,
+                481.62284573260615
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "37",
+            "uuid": "9ad64ca1-3865-4813-a225-35f7f5f87dbc",
+            "vertical": false,
+            "translation": "37"
+        },
+        {
+            "bbox": [
+                461.0,
+                639.0,
+                502.3029506389418,
+                660.1354435124719
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "INDILOR VOLUME",
+            "uuid": "e6aa1c1b-726d-40a5-912c-8125a2fbce02",
+            "vertical": false,
+            "translation": "INDILOR 销量"
+        },
+        {
+            "bbox": [
+                523.2365189355578,
+                639.1786478041257,
+                562.1888240021578,
+                659.9076522547724
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "f0efeff3-b5c1-4f0f-9983-0c360a31c76c",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                579.0,
+                926.0,
+                672.5946155981853,
+                939.6353167096548
+            ],
+            "order": "124",
+            "label": "Page-footer",
+            "text": "Page1 of 3 Pages",
+            "uuid": "929fafc7-edbd-48f8-9ba8-1c2cecf4a2c1",
+            "vertical": false,
+            "translation": "第 1 页，共 3 页"
+        },
+        {
+            "bbox": [
+                692.9349404473859,
+                796.0,
+                711.6193786370412,
+                899.490608359096
+            ],
+            "order": "122",
+            "label": "Text",
+            "text": "82253362",
+            "uuid": "36e81587-e0d6-4502-a98b-e7546a5af7e2",
+            "vertical": true,
+            "translation": "82253362"
+        },
+        {
+            "bbox": [
+                272.9478208534639,
+                212.8170068310541,
+                318.6209073422278,
+                221.51386556589702
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "X",
+            "uuid": "de5480ea-89da-4fa3-9c4a-4bc27c154371",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                59.08203125,
+                394.9602820311176,
+                338.8671875,
+                404.72286079878427
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+            "uuid": "5fc36bbe-b4e4-4c2c-b1e8-6c4c991466bf",
+            "vertical": false,
+            "translation": "（15 间以上商店）无特价薄荷醇库存"
+        },
+        {
+            "bbox": [
+                328.1567553049841,
+                473.51979731745143,
+                367.2635188905522,
+                481.806145301731
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "Lone Star",
+            "uuid": "c5d4952f-29c2-4b30-9fe8-9b2fd0ed2107",
+            "vertical": false,
+            "translation": "龙星"
+        },
+        {
+            "bbox": [
+                280.76105813334453,
+                473.307326856316,
+                291.6004328228227,
+                482.01861576286643
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "29",
+            "uuid": "a629cf85-71ba-450f-82d1-4c745993480e",
+            "vertical": false,
+            "translation": "29"
+        },
+        {
+            "bbox": [
+                523.6905732328242,
+                408.5201453905595,
+                561.7346530253063,
+                429.3422505818264
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "NO . OF STORES",
+            "uuid": "9a13c55b-056a-4f83-ab40-1fc6db009530",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                59.73118805921521,
+                625.7054961922113,
+                338.7069103242203,
+                635.7151153825145
+            ],
+            "order": "93",
+            "label": "Text",
+            "text": "(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+            "uuid": "1b7633d0-d10d-4202-9ffa-0a9afb40f98c",
+            "vertical": false,
+            "translation": "（15 间以上商店）无特价薄荷醇库存"
+        },
+        {
+            "bbox": [
+                58.598775176578975,
+                773.7197363307565,
+                106.38999283328127,
+                783.0371079791747
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "Walgreen's",
+            "uuid": "06632ddd-c9c7-416e-a1c2-c707bd7aaf9a",
+            "vertical": false,
+            "translation": "沃尔格林"
+        },
+        {
+            "bbox": [
+                57.21056260239137,
+                404.8888734360171,
+                570.422962417961,
+                587.1867036330443
+            ],
+            "order": "49",
+            "label": "Table",
+            "text": "NAME OF ACCOUNT Don & Bens Western Beverage Speedy Stop Get-N-Go Valley Shamrock Albertson's-Houston Mini Mart Neal's One Stop Shopper Mart NO. OF NO. OF MEAN STORES INDILOR VOLUME 26/2 42/2 106/4 62/2 78/4 319/16 65/3 69/3 80/4 20 15 29 44 17 34 15 20 22 Sac N Pac NAME OF ACCOUNT ACO/Texaco Lone Star 75/2 95/3 76/3 IND/LOR NO. OF 27 15 37",
+            "uuid": "c6f68d5b-90a6-416e-a04e-9355b9af9df1",
+            "vertical": false,
+            "translation": "客户名称 Don & Bens 西部饮品 Stop Get-N-Go 萨姆洛克山谷 艾伯森 – 休斯顿 Mini Mart Neal's One Stop Shopper Mart 数量 平均商店数量  INDILOR 销量 26/2 42/2 106/4 62/2 78/4 319/16 65/3 69/3 80/4 20 15 29 44 17 34 15 20 22 Sac N 客户名称 ACO/Texaco 龙星 75/2 95/3 76/3 IND/LOR 数量 27 15 37"
+        },
+        {
+            "bbox": [
+                58.33233833969315,
+                637.585255363493,
+                572.6665138925646,
+                818.6955248242989
+            ],
+            "order": "94",
+            "label": "Table",
+            "text": "",
+            "uuid": "c264b597-7773-4cf0-9e14-c231ffff0581",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                492.5462797313194,
+                215.68963152965225,
+                547.9589749621802,
+                223.0763807546189
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "15eac881-bce8-4cbe-86fa-619b382c060c",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                271.71642762611145,
+                263.70350149193524,
+                323.0244787657973,
+                270.6798757599591
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "f9c7b374-a0f9-4b13-b6ee-60acf677d992",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                491.7253509130844,
+                264.93462636276297,
+                547.9589749621802,
+                271.50062567384435
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "8b932d11-ee80-4be6-aae3-2d360289fc0d",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                175.25729148350206,
+                289.1467488223757,
+                244.21531221523983,
+                297.76462291816995
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "d2779e07-8cc5-4ec6-ba74-23ff954c171b",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                324.6663364022673,
+                289.9674987362607,
+                444.52194386457336,
+                296.9438730042848
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "6cc3f8ce-6650-47e0-854c-f417d2c69cdc",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                511.4276425507238,
+                290.788248650146,
+                572.3679701482803,
+                299.9373105431722
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "348ba139-0265-4295-bcad-6632476daf98",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                174.02589825614956,
+                312.1277464111606,
+                245.03624103347485,
+                321.56637042084026
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "9f44b92d-7e43-4113-b879-61fad909183b",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                325.89772962961973,
+                313.35887128198834,
+                437.9545133186936,
+                321.56637042084026
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "07d692fe-5236-4b44-a693-480403417d10",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                511.4276425507238,
+                314.61649464679584,
+                571.9573761955197,
+                322.51997794500534
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "9870e861-54b3-46c1-b8fb-acec65a0f306",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                175.25729148350206,
+                338.3917436554863,
+                247.08856307906225,
+                347.0096177512806
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "57193b81-ee27-4fa3-a347-3b57cac97ce7",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                323.84540758403233,
+                337.57099374160106,
+                445.34287268280843,
+                345.7784928804528
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "4510e7b4-1153-49ac-9619-c7fc2dd8f070",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                512.4212530452323,
+                336.8907662916264,
+                571.1361882899986,
+                346.33442720512033
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "69cb225e-6382-4218-81e5-1234e6c95f02",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

@@ -1,0 +1,441 @@
+{
+    "file": "jrc32005L0023.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                126.36109123180732,
+                123.1571850854498,
+                220.68140182977282,
+                149.11688681588893
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/14",
+            "uuid": "411123b7-2591-49a4-9fcd-cb8e8f6b2403",
+            "vertical": false,
+            "translation": "L 62/14"
+        },
+        {
+            "bbox": [
+                344.4174875938794,
+                121.42653830342067,
+                372.97317795840104,
+                141.3289762967575
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "16cabc2d-e665-4aa8-92f7-3e74d0b771dc",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                634.3010109912963,
+                122.29186169443537,
+                1038.4072958467998,
+                150.8475335979183
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "d8b0aab6-28d0-4959-85bf-767db8893159",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1450.4241796578112,
+                121.43091544927915,
+                1546.475138156657,
+                148.25594057073323
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "9.3.2005",
+            "uuid": "66db3f9f-b4a4-4eb7-b1fd-ec158d9037b2",
+            "vertical": false,
+            "translation": "2005 年 3 月 9 日"
+        },
+        {
+            "bbox": [
+                608.4377801355398,
+                220.11039176159542,
+                1064.4635020174464,
+                251.26203383812216
+            ],
+            "order": "5",
+            "label": "Title",
+            "text": "COMMISSION DIRECTIVE 2005/23/EC",
+            "uuid": "e02ce043-b285-43c2-82c6-388188b90114",
+            "vertical": false,
+            "translation": "委员会第 2005/23/EC 号指令"
+        },
+        {
+            "bbox": [
+                736.5057248006674,
+                265.10720809435645,
+                936.3955573523189,
+                292.7975566068252
+            ],
+            "order": "6",
+            "label": "Title",
+            "text": "of 8 March 2005",
+            "uuid": "be4239f4-a7e5-41e7-a61c-373b5239b88f",
+            "vertical": false,
+            "translation": "2005 年 3 月 8 日"
+        },
+        {
+            "bbox": [
+                265.76949576128004,
+                318.7572583372641,
+                1411.4584061439064,
+                368.0806916250988
+            ],
+            "order": "7",
+            "label": "Title",
+            "text": "amending Directive 2001/25/EC of the European Parliament and of the Council on the minimum level of training of seafarers",
+            "uuid": "c5ee14f4-1500-46e4-b38f-7b175f489df6",
+            "vertical": false,
+            "translation": "修正欧洲议会和理事会关于海员最低培训水平的第 2001/25/EC 号指令"
+        },
+        {
+            "bbox": [
+                699.2321787629584,
+                395.78723557724413,
+                976.1358429037741,
+                421.74693730768354
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "(Text with EEA relevance)",
+            "uuid": "e9c2a37e-aeba-4fd4-8fdb-b9fb2e230776",
+            "vertical": false,
+            "translation": "（与 EEA 有关的文本）"
+        },
+        {
+            "bbox": [
+                124.57477737470882,
+                460.71537906600963,
+                680.978077507661,
+                484.9444340144194
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,",
+            "uuid": "278bd5be-309b-42d2-9ae7-d2681136b25c",
+            "vertical": false,
+            "translation": "欧洲共同体委员会，"
+        },
+        {
+            "bbox": [
+                123.70945342426876,
+                549.8436883405175,
+                802.9887545197081,
+                608.6856789295127
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community,",
+            "uuid": "54394d54-759d-46f2-a1b2-992a5ecc1d60",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，"
+        },
+        {
+            "bbox": [
+                121.97880552338867,
+                671.8542864735815,
+                803.8540784701481,
+                792.999561215631
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Having regard to Directive 2001/25/EC of the European Parliament and of the Council of 4 April 2001 on the minimum level of training of seafarers (¹), and in particular Article 22(1) thereof,",
+            "uuid": "a7f61f85-18c7-43ef-bd30-f9e95443917f",
+            "vertical": false,
+            "translation": "考虑到欧洲议会和理事会 2001 年 4 月 4 日关于海员最低培训水平的第 2001/25/EC 号指令 (¹)，特别是其中的第 22(1) 条，"
+        },
+        {
+            "bbox": [
+                123.71927682830731,
+                851.9627987449118,
+                224.9621790297932,
+                882.2491174304241
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "Whereas:",
+            "uuid": "ba5219c5-9a2a-4acb-9e11-26aa0f6d0913",
+            "vertical": false,
+            "translation": "鉴于："
+        },
+        {
+            "bbox": [
+                125.44992472918743,
+                945.4111592557048,
+                806.4598737255068,
+                1175.587181265599
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "(1) Directive 2001/25/EC defines minimum training, certification and watchkeeping requirements for seafarers serving on board Community ships. Those requirements are based on the standards laid down in the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW Convention) and the Seafarers' Training, Certification and Watchkeeping Code (STCW Code).",
+            "uuid": "7dd1d10e-6f68-452d-8fdd-3d5004207483",
+            "vertical": false,
+            "translation": "(1) 第 2001/25/EC 号指令规定了在共同体船上工作的海员的最低培训、发证和值班要求，这些要求以《海员培训、发证和值班标准国际公约》（STCW 公约）和《海员培训、发证和值班守则》（STCW 守则）规定的标准为依据。"
+        },
+        {
+            "bbox": [
+                124.59071311903804,
+                1244.0171069176154,
+                802.1393663135972,
+                1513.1326815231682
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "(2) The STCW Convention and the STCW Code have been amended by Resolutions MSC.66(68) and MSC.67(68) of the Maritime Safety Committee of the International Maritime Organisation, which entered into force on 1 January 1999, Resolution MSC.78(70), which entered into force on 1 January 2003, and circulars STCW.6/Circ. 3 and STCW.6/Circ.5, which became effective on 20 May 1998 and 26 May 2000, respectively.",
+            "uuid": "1a85a659-fbe5-4c30-b9e4-3ff063f57ab5",
+            "vertical": false,
+            "translation": "(2) 1999 年 1 月 1 日生效的国际海事组织海事安全委员会 MSC.66 (68) 和 MSC.67 (68) 号决议，2003 年 1 月 1 日生效的MSC.78 (70) 号决议，以及分别于 1998 年 5 月 20 日和 2000 年 5 月 26 日生效的 STCW.6/Circ.3 和 STCW.6/Circ.5 号通知对 STCW 公约和 STCW 守则进行了修正。"
+        },
+        {
+            "bbox": [
+                124.60250120388426,
+                1570.3635214120761,
+                805.6124502002037,
+                1720.9297914486237
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(3) The new Regulation V/3 of the SCTW Convention, which was added by Resolution MSC.66(68), prescribes mandatory minimum requirements of training and qualifications for masters, officers, ratings and other personnel on passenger ships other than ro-ro passenger ships.",
+            "uuid": "a9c51dfb-5bfb-4e4a-8ffe-952c8ed2a76a",
+            "vertical": false,
+            "translation": "(3) MSC.66(68) 号决议增加的 SCTW 公约 V/3 号条例规定了对滚装客船以外的客船船长、高级船员、评级员和其他人员的培训和资格的强制性最低要求。"
+        },
+        {
+            "bbox": [
+                123.73717725344423,
+                1784.0824224103083,
+                804.7471262497636,
+                1844.6550597813327
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "(4) Directive 2001/25/EC should therefore be amended accordingly.",
+            "uuid": "b0301309-76ee-4dbf-ad8e-a282ec3896b9",
+            "vertical": false,
+            "translation": "(4) 因此，第 2001/25/EC 号指令应作相应修正。"
+        },
+        {
+            "bbox": [
+                122.8718533030042,
+                1908.6889907164161,
+                806.4777741506438,
+                2023.7770017213631
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "(5) The measures provided for in this Directive are in accordance with the opinion of the Committee on Safe Seas, set up by Regulation (EC) No 2099/2002 of the European Parliament and of the Council (²),",
+            "uuid": "5bb1e612-ecdb-4d88-80ba-7e19ed9d7ed5",
+            "vertical": false,
+            "translation": "(5) 本指令中规定的措施符合欧洲议会和理事会 (EC) 第 2099/2002 号条例设立的安全海洋委员会的意见 (²)，"
+        },
+        {
+            "bbox": [
+                869.7719438065932,
+                459.8599042531766,
+                1206.3829605277729,
+                484.0889592015866
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "HAS ADOPTED THIS DIRECTIVE:",
+            "uuid": "c3f9d28e-025d-416d-b2a3-38d0e50bdd8a",
+            "vertical": false,
+            "translation": "已通过以下指令："
+        },
+        {
+            "bbox": [
+                1164.8474109066503,
+                561.968064392904,
+                1254.8411017524154,
+                588.7930895143581
+            ],
+            "order": "19",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "d3f32124-293d-404b-87c8-0b2edcc57401",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                871.5025917074734,
+                610.426174289724,
+                1548.1859209515926,
+                675.3254286158221
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "In Annex I to Directive 2001/25/EC, Chapter V is amended as follows:",
+            "uuid": "3219ce7b-2476-4c48-8be9-97047605d3bf",
+            "vertical": false,
+            "translation": "第 2001/25/EC 号指令附件一第五章修正如下："
+        },
+        {
+            "bbox": [
+                874.0985635587934,
+                747.1472700700373,
+                1548.1859209515926,
+                804.2586138770034
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "1. In paragraph 3 of Regulation V/2, the following text is added:",
+            "uuid": "87849038-6eb8-4a8d-af9a-b4531d31460a",
+            "vertical": false,
+            "translation": "1. 在 V/2 号条例第 3 段中，增加以下文字："
+        },
+        {
+            "bbox": [
+                901.788929972875,
+                881.3691306007829,
+                1552.5125407037926,
+                968.7667930932614
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": ".... or be required to provide evidence of having achieved the required standard of competence within the previous five years.'",
+            "uuid": "cc52d3cb-29a4-4feb-818c-4bfae9ba9c2a",
+            "vertical": false,
+            "translation": "……或被要求提供在过去五年内达到所需能力标准的证据。"
+        },
+        {
+            "bbox": [
+                871.5087040477639,
+                1045.7873594696455,
+                1498.8685681168004,
+                1076.9390015461724
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "2. The following text is added at the end of the Chapter:",
+            "uuid": "eadb8f9b-08e8-40e8-b4ec-f9dd2d5d35df",
+            "vertical": false,
+            "translation": "2. 在该章节末尾增加以下文字："
+        },
+        {
+            "bbox": [
+                900.0643944122857,
+                1147.1052642698344,
+                1061.0146491941348,
+                1179.1222297373763
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "Regulation V/3",
+            "uuid": "728c37f4-13f4-469c-b311-7949f61c71a0",
+            "vertical": false,
+            "translation": "V/3 号条例"
+        },
+        {
+            "bbox": [
+                900.9297183627259,
+                1199.8899911217275,
+                1553.3839769945234,
+                1321.9005892547916
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on passenger ships other than passenger ships ro-ro passenger ships",
+            "uuid": "cf115381-539f-4ff9-b98c-3c8a003d74c6",
+            "vertical": false,
+            "translation": "对客船滚装客船以外的客船船长、高级船员、评级员和其他人员的培训和资格的强制性最低要求"
+        },
+        {
+            "bbox": [
+                906.9869860158061,
+                1347.860290985231,
+                1549.0573572423234,
+                1521.7902925791736
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "1. This Regulation applies to masters, officers, ratings and other personnel serving on board passenger ships, other than ro-ro passenger ships, engaged on international voyages . Administrations shall determine the applicability of these requirements to personnel serving on passenger ships engaged on domestic voyages.",
+            "uuid": "6037e703-70df-45dc-9064-bb0be1dc4b0c",
+            "vertical": false,
+            "translation": "1. 本条例适用于从事国际航行的除滚装客船外的客船船长、高级船员、评级员及其他人员。管理部门应确定这些要求是否适用于从事国内航行的客船上的工作人员。"
+        },
+        {
+            "bbox": [
+                901.8138159297728,
+                1598.0702842215148,
+                1552.5374266606902,
+                1715.754265399506
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "2. Prior to being assigned shipboard duties on board passenger ships, seafarers shall have completed the training required by paragraphs 4 to 8 below in accordance with their capacity, duties and responsibilities.",
+            "uuid": "ba973f57-d360-434b-aeb0-637e0b4e9143",
+            "vertical": false,
+            "translation": "2. 海员在被分配客船上的职责之前，应根据其能力、职责和责任完成下文第 4 至 8 段所要求的培训。"
+        },
+        {
+            "bbox": [
+                905.2751117315329,
+                1785.8200726257116,
+                1549.0761308589301,
+                1971.864601693859
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "3. Seafarers who are required to be trained in accordance with paragraphs 4, 7 and 8 below shall, at intervals not exceeding five years, undertake appropriate refresher training or be required to provide evidence of having achieved the required standard of competence within the previous five years.",
+            "uuid": "56b23336-861c-4dfc-95a6-3babd80ad291",
+            "vertical": false,
+            "translation": "3. 根据下文第 4、7 和 8 段的要求接受培训的海员，应每隔不超过五年的时间接受适当的进修培训，或应要求提供在过去五年内达到所要求的能力标准的证据。"
+        },
+        {
+            "bbox": [
+                902.6841607311659,
+                2040.3067833542798,
+                1553.4077714620835,
+                2190.007729999812
+            ],
+            "order": "29",
+            "label": "List-item",
+            "text": "4. Personnel designated on muster lists to assist passengers in emergency situations on board passenger ships shall have completed training in crowd management as specified in section A-V/3, paragraph 1, of the STCW Code.",
+            "uuid": "5593ab9e-db30-446b-9185-56e6d9cc0185",
+            "vertical": false,
+            "translation": "4. 在集合名单上指定的在客船紧急情况下协助乘客的人员应完成 STCW 守则第 A-V/3 节第 1 段规定的人群管理培训。"
+        },
+        {
+            "bbox": [
+                122.86792394138877,
+                2060.263497956264,
+                808.2044926899084,
+                2110.452254635113
+            ],
+            "order": "30",
+            "label": "Footnote",
+            "text": "(¹) OJ L 136, 18.5.2001, p. 17. Directive as last amended by Directive 2003/103/EC (OJ L 326, 13.12.2003, p. 28).",
+            "uuid": "f7935ec8-1260-4851-82ed-6f7c0a0ce546",
+            "vertical": false,
+            "translation": "(¹) OJ L 136，2001 年 5 月 18 日，第 17 页。经第 2003/103/EC 号指令（OJ L 326，2003 年 12 月 13 日，第 28 页）最后修正的指令。"
+        },
+        {
+            "bbox": [
+                122.86792394138877,
+                2111.298537441642,
+                805.6085208385883,
+                2197.830876543106
+            ],
+            "order": "31",
+            "label": "Footnote",
+            "text": "(²) OJ L 324, 29.11.2002, p  1. Regulation as last amended by Commission Regulation (EC) No 415/2004 (OJ L 68, 6.3.2004, p. 10).",
+            "uuid": "1edba510-3bba-4420-a4f3-1178aae48107",
+            "vertical": false,
+            "translation": "(²) OJ L 324，2002 年 11 月 29 日，第 1 页。经委员会 (EC) 第 415/2004 号条例（OJ L 68，2004 年 3 月 6 日，第 10 页）最后修正的条例。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

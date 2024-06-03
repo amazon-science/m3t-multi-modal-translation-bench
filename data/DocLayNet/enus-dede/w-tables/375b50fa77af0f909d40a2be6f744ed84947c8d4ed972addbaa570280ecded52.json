@@ -1,0 +1,973 @@
+{
+    "file": "375b50fa77af0f909d40a2be6f744ed84947c8d4ed972addbaa570280ecded52.png",
+    "annotations": [
+        {
+            "bbox": [
+                85.18844953625518,
+                134.27874004209104,
+                342.138671875,
+                169.7902533911633
+            ],
+            "order": "2",
+            "label": "Table cell",
+            "text": "Target Markets",
+            "uuid": "9b0d78c5-0194-4e29-8307-4d65cbddd693",
+            "vertical": false,
+            "translation": "Zielmärkte"
+        },
+        {
+            "bbox": [
+                91.61635915932143,
+                286.0906303240803,
+                206.79121067389696,
+                308.7765859254362
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "■ Banks",
+            "uuid": "e6c87d6c-a061-4da3-914f-93f2a73994c5",
+            "vertical": false,
+            "translation": "■ Banken"
+        },
+        {
+            "bbox": [
+                91.30859375,
+                326.0052164911962,
+                288.427734375,
+                349.2955802539158
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "■ Credit unions",
+            "uuid": "77f338ac-5f95-4b85-bd30-861a1185016f",
+            "vertical": false,
+            "translation": "■ Kreditgenossenschaften"
+        },
+        {
+            "bbox": [
+                91.22899330079629,
+                364.5465668475813,
+                424.04014939286895,
+                397.66166168522
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "■ Independent ATM owners",
+            "uuid": "8a4f1f91-e4b8-431b-8ac5-006be064a3b8",
+            "vertical": false,
+            "translation": "■ Unabhängige Geldautomatenbesitzer"
+        },
+        {
+            "bbox": [
+                92.29431923196847,
+                485.9635278654129,
+                407.27914903265133,
+                510.2842878392537
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "■ Retailers and merchants",
+            "uuid": "a586bb2d-ec82-4a9a-83e1-a0c1bf0429d5",
+            "vertical": false,
+            "translation": "■ Einzelhändler und Händler"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                620.9657868599821,
+                205.00000000000003,
+                643.4390865723766
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "■ Banks",
+            "uuid": "5025ef13-2597-4cd0-816b-c06bbbf346b3",
+            "vertical": false,
+            "translation": "■ Banken"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                659.5349783584807,
+                286.6784681530182,
+                684.3361591645728
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "■ Credit unions",
+            "uuid": "7edd0f71-db32-4b36-b481-d0491815b5fc",
+            "vertical": false,
+            "translation": "■ Kreditgenossenschaften"
+        },
+        {
+            "bbox": [
+                90.95421278750376,
+                700.6814598007181,
+                293.58638304827167,
+                725.5212393102349
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "■ EFT networks",
+            "uuid": "904bf65c-a106-48b0-8af5-9f40ece8bc10",
+            "vertical": false,
+            "translation": "■ Netzwerke für den bargeldlosen Zahlungsverkehr"
+        },
+        {
+            "bbox": [
+                91.09915388718794,
+                737.8220936793302,
+                423.9732766961805,
+                771.8904554182883
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "■ Independent ATM owners",
+            "uuid": "adbc6c16-97e7-4b82-a74a-b47ec19d8260",
+            "vertical": false,
+            "translation": "■ Unabhängige Geldautomatenbesitzer"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                821.8709783969367,
+                408.7182979691625,
+                847.1999996795327
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "■ Retailers and merchants",
+            "uuid": "56c1c86a-8c2b-496e-b52d-eb0321a2f0d1",
+            "vertical": false,
+            "translation": "■ Einzelhändler und Händler"
+        },
+        {
+            "bbox": [
+                92.48889591321974,
+                1054.5002378044885,
+                398.9426395070603,
+                1085.9179506583218
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Mobile phone operators",
+            "uuid": "242ca235-2955-4dc7-a686-a78b14df4f64",
+            "vertical": false,
+            "translation": "Mobilfunkbetreiber"
+        },
+        {
+            "bbox": [
+                93.11058113042589,
+                1092.3715437919216,
+                505.63504888406453,
+                1165.1707035013583
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "■ Third-party prepaid suppliers for mobile phone operators",
+            "uuid": "bcaf1102-a76d-4bc4-b2d1-c0982d1a93c7",
+            "vertical": false,
+            "translation": "■ Prepaid-Drittanbieter für Mobilfunkbetreiber"
+        },
+        {
+            "bbox": [
+                93.18080677542575,
+                1444.4798169370765,
+                206.47419990017767,
+                1470.578404202517
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "■ Banks",
+            "uuid": "7e6414b5-5c75-484e-8cfb-7b5d3a45ee8d",
+            "vertical": false,
+            "translation": "■ Banken"
+        },
+        {
+            "bbox": [
+                92.48889591321974,
+                1484.6462501570436,
+                261.1066236040661,
+                1515.7600685796383
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "■ Brokerages",
+            "uuid": "b2d42038-5f05-450b-9329-42d200799d36",
+            "vertical": false,
+            "translation": "■ Makler"
+        },
+        {
+            "bbox": [
+                90.96195659389772,
+                1526.6197601789875,
+                347.2696280515232,
+                1552.1414602305128
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "■ Credit card issuers",
+            "uuid": "ae3c4815-0669-4875-a831-61d17aca035e",
+            "vertical": false,
+            "translation": "■ Kreditkartenherausgeber"
+        },
+        {
+            "bbox": [
+                94.23396942101634,
+                1566.455344169702,
+                286.41018946711677,
+                1590.8445736314723
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "■ Credit unions",
+            "uuid": "46dccc38-70ec-4409-b303-01476b501cff",
+            "vertical": false,
+            "translation": "■ Kreditgenossenschaften"
+        },
+        {
+            "bbox": [
+                92.87907763553413,
+                1606.0270301280395,
+                390.96567220538935,
+                1638.6738388561605
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "■ Investment community",
+            "uuid": "294fdcdc-6f08-44a7-9db3-4753721323b0",
+            "vertical": false,
+            "translation": "■ Investmentgemeinschaft"
+        },
+        {
+            "bbox": [
+                91.62103334412382,
+                1821.5114999189038,
+                205.14473795906514,
+                1847.4254675058867
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "■ Banks",
+            "uuid": "3f78c80b-8b9b-4fdc-9443-36ba78317d19",
+            "vertical": false,
+            "translation": "■ Banken"
+        },
+        {
+            "bbox": [
+                92.8549866551558,
+                1863.0,
+                286.5856564871752,
+                1886.319002960582
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "■ Credit unions",
+            "uuid": "97727469-9437-4798-9cf2-8673e83ec992",
+            "vertical": false,
+            "translation": "■ Kreditgenossenschaften"
+        },
+        {
+            "bbox": [
+                91.31254501636583,
+                1899.3481059134492,
+                425.09691565051384,
+                1933.2381885884688
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "■ Independent ATM owners",
+            "uuid": "9aa13a23-e275-4cfc-92cc-4a587dfc184b",
+            "vertical": false,
+            "translation": "■ Unabhängige Geldautomatenbesitzer"
+        },
+        {
+            "bbox": [
+                645.0,
+                135.888671875,
+                760.009765625,
+                163.87840130885692
+            ],
+            "order": "3",
+            "label": "Table cell",
+            "text": "Clients",
+            "uuid": "1aa79cf6-cedf-44bf-add3-517a6940a302",
+            "vertical": false,
+            "translation": "Kunden"
+        },
+        {
+            "bbox": [
+                644.8046611308433,
+                283.00000000000006,
+                1061.5058961361963,
+                314.9347290660991
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "■ Bank Austria/Creditanstalt (CZE)",
+            "uuid": "69bb51ff-b9e2-4663-82aa-3ab8a379d9c9",
+            "vertical": false,
+            "translation": "■ Bank Austria/Creditanstalt (CZE)"
+        },
+        {
+            "bbox": [
+                644.3683927538941,
+                364.02903931136564,
+                1068.9493518926918,
+                395.2576879587591
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "■ Citibank (GRC, HUN, POL, CZE)",
+            "uuid": "39824531-1f83-45ad-aa0f-3f7bb06358c2",
+            "vertical": false,
+            "translation": "■ Citibank (GRC, HUN, POL, CZE)"
+        },
+        {
+            "bbox": [
+                643.932124376945,
+                445.62077873118835,
+                823.0,
+                476.01664578524816
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "■ DiBa (DEU)",
+            "uuid": "11cb8a7d-8316-4d01-aa69-16d6a54c5cc3",
+            "vertical": false,
+            "translation": "■ DiBa (DEU)"
+        },
+        {
+            "bbox": [
+                644.4021493688329,
+                483.3598801946963,
+                905.9619276853311,
+                517.4877386917843
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "■ Dillards Inc. (USA)",
+            "uuid": "31269c58-4b29-4df7-a43c-f9394aeb1d5b",
+            "vertical": false,
+            "translation": "■ Dillards Inc. (USA)"
+        },
+        {
+            "bbox": [
+                644.9453095727708,
+                618.0877115384448,
+                965.9567661862742,
+                649.1782612343545
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "■ ABN Amro (HUN, CUR)",
+            "uuid": "e51eb7c7-bfb5-4d95-b8cd-c7410f84bc29",
+            "vertical": false,
+            "translation": "■ ABN Amro (HUN, CUR)"
+        },
+        {
+            "bbox": [
+                644.7387235569887,
+                656.4371443870066,
+                1078.498213021445,
+                690.3633413800171
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "■ Banco Comercial Português (MOZ)",
+            "uuid": "cf8e2266-6acc-46e5-8fb2-b70bb0be67c4",
+            "vertical": false,
+            "translation": "■ Banco Comercial Português (MOZ)"
+        },
+        {
+            "bbox": [
+                643.5874044077798,
+                700.3694867254434,
+                1029.5928027512468,
+                730.3963913118147
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "■ Banco de Oro, Unibank (PHL)",
+            "uuid": "f9136038-df76-4fd8-852b-3f9cb0bd295a",
+            "vertical": false,
+            "translation": "■ Banco de Oro, Unibank (PHL)"
+        },
+        {
+            "bbox": [
+                644.7387235569887,
+                739.5520305641398,
+                895.8302720637445,
+                771.0054563505444
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "■ Bank Slaski (POL)",
+            "uuid": "0cc00d31-a227-4500-b541-d6d90461eee6",
+            "vertical": false,
+            "translation": "■ Bank Slaski (POL)"
+        },
+        {
+            "bbox": [
+                643.875234195082,
+                780.1368631334391,
+                923.933617240149,
+                811.9025289427407
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "■ Century Bank (ZWE)",
+            "uuid": "39e4f7d6-adba-4c44-ae3e-f1948d0741bb",
+            "vertical": false,
+            "translation": "■ Century Bank (ZWE)"
+        },
+        {
+            "bbox": [
+                643.875234195082,
+                822.9999999999999,
+                1028.991489605462,
+                852.7996015349366
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "■ Cayman National Bank (CYM)",
+            "uuid": "7548269e-c9e9-484c-b933-976be115ab05",
+            "vertical": false,
+            "translation": "■ Kaiman-Nationalbank (CYM)"
+        },
+        {
+            "bbox": [
+                644.4508937696866,
+                859.5288072860898,
+                1108.0,
+                887.2083401145421
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "■ Commercial Bank of Romania (ROM)",
+            "uuid": "8d3a33f2-b905-4eea-a68b-fcf34f386c81",
+            "vertical": false,
+            "translation": "■ Geschäftsbank von Rumänien (ROM)"
+        },
+        {
+            "bbox": [
+                642.6263377516239,
+                1053.025717644221,
+                864.6593540937221,
+                1085.9179506583218
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "■ ALLTEL (USA)",
+            "uuid": "80ccecbd-8c26-4367-a479-c399a8d8271f",
+            "vertical": false,
+            "translation": "■ ALLTEL (USA)"
+        },
+        {
+            "bbox": [
+                644.8046611308433,
+                1094.0,
+                865.5178283496776,
+                1126.0794301046517
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "■ Centertel (POL)",
+            "uuid": "56e677b7-84dd-4ee5-9181-7b86bcf50402",
+            "vertical": false,
+            "translation": "■ Centertel (POL)"
+        },
+        {
+            "bbox": [
+                645.2018979546928,
+                1134.2272028043005,
+                847.0684419250645,
+                1167.1139851911191
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "■ Eurotel (CZE)",
+            "uuid": "86704af8-5b63-4404-9674-1b19fbe0e698",
+            "vertical": false,
+            "translation": "■ Eurotel (CZE)"
+        },
+        {
+            "bbox": [
+                644.8046611308433,
+                1175.0,
+                884.9726942312442,
+                1207.0531740637355
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "■ ERA GSM (POL)",
+            "uuid": "fcff140a-57f0-4aa8-8696-07632a3e8496",
+            "vertical": false,
+            "translation": "■ ÄRA GSM (POL)"
+        },
+        {
+            "bbox": [
+                643.6193029295307,
+                1442.9197021606074,
+                1012.0948170473459,
+                1476.453659702852
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "■ Bank of Cyprus (GRC, GBR)",
+            "uuid": "aa06f837-e673-4a43-a338-58d58aecf913",
+            "vertical": false,
+            "translation": "■ Bank of Cyprus (GRC, GBR)"
+        },
+        {
+            "bbox": [
+                644.0,
+                1819.0,
+                891.7561122196905,
+                1851.1296137396673
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "■ Fortis Bank (POL)",
+            "uuid": "65295d5d-86bc-4eaf-a795-af44bc34383b",
+            "vertical": false,
+            "translation": "■ Fortis Bank (POL)"
+        },
+        {
+            "bbox": [
+                645.0,
+                1860.0,
+                952.1777928855008,
+                1892.1839011640682
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "■ ING/Bank Slaski (POL)",
+            "uuid": "9bd177db-5e7d-4e90-9124-795468463bd3",
+            "vertical": false,
+            "translation": "■ ING/Bank Slaski (POL)"
+        },
+        {
+            "bbox": [
+                645.0,
+                1902.0,
+                890.0,
+                1930.0
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "■ Oyak Bank (TUR)",
+            "uuid": "dc1b44f3-16d9-4ecf-8482-7de5a2c93f39",
+            "vertical": false,
+            "translation": "■ Oyak Bank (TUR)"
+        },
+        {
+            "bbox": [
+                1170.0000000000002,
+                283.00000000000006,
+                1599.8610595802095,
+                315.8269351677323
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "■ Metropolitan National Bank (USA)",
+            "uuid": "91f73ced-5ad2-4199-a0c2-5f155b3da203",
+            "vertical": false,
+            "translation": "■ Metropolitan National Bank (USA)"
+        },
+        {
+            "bbox": [
+                1168.326713469823,
+                365.49044927366447,
+                1462.8078679104992,
+                396.14989406039206
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "■ Raiffeisenbank (HRV)",
+            "uuid": "3890c298-9a54-4c6d-b5a4-b5e1ebe1eb11",
+            "vertical": false,
+            "translation": "■ Raiffeisenbank (HRV)"
+        },
+        {
+            "bbox": [
+                1169.437980108345,
+                616.0696513850004,
+                1640.9291486242325,
+                649.7542763412871
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "■ Maduro and Curiel's Bank N.V. (CUR)",
+            "uuid": "fc425037-4919-4601-b589-972536aa8fda",
+            "vertical": false,
+            "translation": "■ Maduro und Curiel's Bank N.V. (CUR)"
+        },
+        {
+            "bbox": [
+                1169.740255596251,
+                698.104169856979,
+                1589.108255695596,
+                731.5654870774176
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "■ Old National Service Corp. (USA)",
+            "uuid": "927d4474-2953-4bba-b1b6-c40b289dca22",
+            "vertical": false,
+            "translation": "■ Old National Service Corp. (USA)"
+        },
+        {
+            "bbox": [
+                1171.7550641073667,
+                780.7113188127182,
+                1503.9106386541366,
+                811.6315869410129
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "■ VIFI Card Services (USA)",
+            "uuid": "a4482a5b-5494-4e1c-ae39-9618d46ae496",
+            "vertical": false,
+            "translation": "■ VIFI Card Services (USA)"
+        },
+        {
+            "bbox": [
+                1168.0132768724377,
+                821.2953188223322,
+                1604.075404635312,
+                852.6687656382749
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "■ WestPac Banking Corp. (FJI, PNG)",
+            "uuid": "eed76190-3363-4d7a-ac18-9aa364c06704",
+            "vertical": false,
+            "translation": "■ WestPac Banking Corp. (FJI, PNG)"
+        },
+        {
+            "bbox": [
+                1168.746534850901,
+                1053.0637490268825,
+                1592.5098909653461,
+                1086.8612429360967
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "■ Old National Service Corp. (USA)",
+            "uuid": "b00fafc0-de1c-4f9c-af21-51f47dc02e20",
+            "vertical": false,
+            "translation": "■ Old National Service Corp. (USA)"
+        },
+        {
+            "bbox": [
+                1170.0000000000002,
+                1443.0,
+                1642.4817508662932,
+                1476.929393471303
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "■ Maduro and Curiel's Bank N.V. (CUR)",
+            "uuid": "d303b70f-f841-4bad-a477-116a7eda7f6b",
+            "vertical": false,
+            "translation": "■ Maduro und Curiel's Bank N.V. (CUR)"
+        },
+        {
+            "bbox": [
+                1170.0000000000002,
+                1822.0,
+                1463.7771152116752,
+                1851.7469714452973
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "■ Splitska Banka (HRV)",
+            "uuid": "937d5944-302d-452e-afcf-ca07ac9f02e6",
+            "vertical": false,
+            "translation": "■ Splitska Banka (HRV)"
+        },
+        {
+            "bbox": [
+                1168.460416378475,
+                1859.0,
+                1476.0851407567957,
+                1892.492580016883
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "■ Union Bank Ltd. (PAK)",
+            "uuid": "13c4b4a1-b044-403e-9814-d9ccbfef1833",
+            "vertical": false,
+            "translation": "■ Union Bank Ltd. (PAK)"
+        },
+        {
+            "bbox": [
+                1611.8652343750002,
+                2116.748046875,
+                1639.2578125000002,
+                2156.082754415369
+            ],
+            "order": "69",
+            "label": "Page-footer",
+            "text": "7",
+            "uuid": "54e594e4-243e-442a-8f16-1adee4bc0ae6",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                406.3135610379664,
+                322.9450213530988,
+                437.13036925884666
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "■ Mobile operators",
+            "uuid": "bbfcfce8-021a-4599-b652-d05bf05b1960",
+            "vertical": false,
+            "translation": "■ Mobilfunkbetreiber"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                447.4986411836287,
+                373.0274043436863,
+                477.1634191906443
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "■ Payment associations",
+            "uuid": "539d9ee4-eaee-4b1d-87bf-a9a5afba073f",
+            "vertical": false,
+            "translation": "■ Zahlungsvereine"
+        },
+        {
+            "bbox": [
+                644.3683927538941,
+                325.8481745678194,
+                941.0308890793159,
+                355.53274633249794
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "■ Budapest Bank (HUN)",
+            "uuid": "8ed38015-acc7-4eb7-8df2-f1487c6674f5",
+            "vertical": false,
+            "translation": "■ Budapest Bank (HUN)"
+        },
+        {
+            "bbox": [
+                643.932124376945,
+                407.04420910061657,
+                1005.162340490841,
+                435.8557052251577
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "■ Deutsche Bank (HUN , POL)",
+            "uuid": "83e20780-312b-49f8-891a-627bd8084b27",
+            "vertical": false,
+            "translation": "■ Deutsche Bank (HUN, POL)"
+        },
+        {
+            "bbox": [
+                1170.0717869776195,
+                324.5576915691084,
+                1483.312481627109,
+                355.55187679399324
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "■ Millennium Bank (POL)",
+            "uuid": "69669cc8-c8bc-49c7-90f6-139c80132903",
+            "vertical": false,
+            "translation": "■ Millenniumsbank (POL)"
+        },
+        {
+            "bbox": [
+                1169.6355186006704,
+                407.0633395621121,
+                1392.1323908447368,
+                436.31137350672174
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "■ Saks Inc. (USA)",
+            "uuid": "5bfb7622-0cfb-413b-97c0-1e4166229e9b",
+            "vertical": false,
+            "translation": "■ Saks Inc. (USA)"
+        },
+        {
+            "bbox": [
+                92.10553193671268,
+                779.9546669153411,
+                239.76221282275517,
+                805.0113240668977
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "■ Resellers",
+            "uuid": "713da7e8-2ea9-452e-9223-9a32846e4e53",
+            "vertical": false,
+            "translation": "■ Wiederverkäufer"
+        },
+        {
+            "bbox": [
+                1169.740255596251,
+                660.4581971514718,
+                1416.4103833142594,
+                689.8349676050213
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "■ Nova Bank (GRC)",
+            "uuid": "15f1500a-9a0c-49bb-a375-8d16dd1dbce4",
+            "vertical": false,
+            "translation": "■ Nova Bank (GRC)"
+        },
+        {
+            "bbox": [
+                1168.0132768724377,
+                739.6602743546686,
+                1431.6653620412778,
+                772.2051278963456
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "■ Seylan Bank (LKA)",
+            "uuid": "995c1cee-9958-4e58-bbf5-ec5755270984",
+            "vertical": false,
+            "translation": "■ Seylan Bank (LKA)"
+        },
+        {
+            "bbox": [
+                1170.5080553545688,
+                1096.3307308774956,
+                1400.4214900067707,
+                1126.8883782823118
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "■ Plus GSM (POL)",
+            "uuid": "862151a2-2203-4c1c-a25d-cc51ebb13cdf",
+            "vertical": false,
+            "translation": "■ Plus GSM (POL)"
+        },
+        {
+            "bbox": [
+                1170.0717869776195,
+                1137.365285963963,
+                1375.1179241437198,
+                1166.176782088504
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "VIPnet (HRV)",
+            "uuid": "5f20f650-bffa-4982-a6d1-c47cd382bd99",
+            "vertical": false,
+            "translation": "VIPnet (HRV)"
+        },
+        {
+            "bbox": [
+                91.58440008452045,
+                1648.2680191400664,
+                408.98881915000646,
+                1672.4188867512778
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "■ Retailers and merchants",
+            "uuid": "58fb773f-64c5-4f3f-bb7a-606f4153edab",
+            "vertical": false,
+            "translation": "■ Einzelhändler und Händler"
+        },
+        {
+            "bbox": [
+                643.9658855162481,
+                1484.9525978842153,
+                1079.457211985991,
+                1517.0454155358648
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "■ Commercial Bank of Ceylon (LKA)",
+            "uuid": "a40a755d-bae3-4449-bb74-edc6cb31e851",
+            "vertical": false,
+            "translation": "■ Commercial Bank of Ceylon (LKA)"
+        },
+        {
+            "bbox": [
+                643.9658855162481,
+                1526.0715205003914,
+                1023.8305868557935,
+                1592.7644071827256
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "■ First Federal Savings Bank of LaCrosse (USA)",
+            "uuid": "91ac6989-b3b9-4dd7-b830-f14dcaa1e5c9",
+            "vertical": false,
+            "translation": "■ First Federal Savings Bank of LaCrosse (USA)"
+        },
+        {
+            "bbox": [
+                1169.1614092680206,
+                1485.9554984358292,
+                1670.302176206735,
+                1515.5410647084439
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "■ National Bank of Kuwait-Lebanon (LBN)",
+            "uuid": "cee91dab-37cf-4a05-bb55-5acb586b3770",
+            "vertical": false,
+            "translation": "■ National Bank of Kuwait-Lebanon (LBN)"
+        },
+        {
+            "bbox": [
+                92.8549866551558,
+                1943.1159118785502,
+                237.22752404589633,
+                1966.5755046924935
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "■ Retailers",
+            "uuid": "4852aaa2-ae6d-4ef1-b70b-e11f3b5b9e21",
+            "vertical": false,
+            "translation": "■ Einzelhändler"
+        },
+        {
+            "bbox": [
+                1169.47925053055,
+                1901.4442667485193,
+                1433.8537474191498,
+                1931.6947943243936
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "■ Union Banka (CZE)",
+            "uuid": "8663751d-928f-4877-8fc4-f3be09326205",
+            "vertical": false,
+            "translation": "■ Union Banka (CZE)"
+        },
+        {
+            "bbox": [
+                82.29423293658668,
+                124.0749366682002,
+                1675.809834345038,
+                1999.2964976484893
+            ],
+            "order": "1",
+            "label": "Table",
+            "text": "Target Markets Banks ■ Credit unions ■ Independent ATM owners ■ Mobile operators ■ Payment associations ■ Retailers and merchants ■ Banks ■ Credit unions ■ EFT networks ■ Independent ATM owners ■ Resellers ■ Retailers and merchants ■ Mobile phone operators ■ Third-party prepaid suppliers for mobile phone operators ■ Banks Brokerages ■ Credit card issuers ■ Credit unions ■ Investment community ■ Retailers and merchants ■ Banks ■ Credit unions ■ Independent ATM owners ■ Retailers Clients ■ Bank Austria/Creditanstalt ( CZE ) ■ Budapest Bank (HUN) ■ Citibank (GRC, HUN, POL, CZE) ■ Deutsche Bank (HUN, POL)■ DiBa (DEU) ■ Dillards Inc. (USA) ■ ABN Amro (HUN, CUR) ■ Banco Comercial Português (MOZ) ■ Banco de Oro, Unibank (PHL)■ Bank Slaski (POL) ■ Century Bank (ZWE) ■ Cayman National Bank (CYM) ■ Commercial Bank of Romania (ROM) ■ ALLTEL (USA) ■ Centertel (POL) ■ Eurotel (CZE) ■ ERA GSM (POL) ■ Bank of Cyprus (GRC, GBR) ■ Commercial Bank of Ceylon (LKA) ■ First Federal Savings Bank of LaCrosse (USA) ■ Fortis Bank (POL) ■ ING/Bank Slaski (POL) ■ Oyak Bank (TUR) ■ Metropolitan National Bank (USA) ■ Millennium Bank (POL) ■ Raiffeisenbank (HRV) ■ Saks Inc. (USA) ■ Maduro and Curiel's Bank N.V. (CUR) ■ Nova Bank (GRC) ■ Old National Service Corp. (USA) ■ Seylan Bank (LKA) ■ VIFI Card Services (USA) ■ WestPac Banking Corp. (FJI, PNG) ■ Old National Service Corp. (USA) ■ Plus GSM (POL) ■ VIPnet (HRV) ■ Maduro and Curiel's Bank N.V. (CUR) ■ National Bank of Kuwait-Lebanon (LBN) ■ Splitska Banka (HRV) ■ Union Bank Ltd. (PAK) ■ Union Banka (CZE)",
+            "uuid": "85d727bc-efa5-4658-8c61-7e4a736002c0",
+            "vertical": false,
+            "translation": "Zielmärkte Banken ■ Kreditgenossenschaften ■ Unabhängige Geldautomatenbesitzer ■ Mobilfunkbetreiber ■ Zahlungsverbände ■ Einzelhändler und Händler ■ Banken ■ Kreditgenossenschaften ■ Netzwerke für den bargeldlosen Zahlungsverkehr ■ Unabhängige Geldautomatenbesitzer ■ Wiederverkäufer ■ Einzelhändler und Händler ■ Mobilfunkbetreiber ■ Prepaid-Drittanbieter für Mobilfunkbetreiber ■ Banken Makler ■ Kreditkartenaussteller ■ Kreditgenossenschaften ■ Investmentgemeinschaft ■ Einzelhändler und Händler ■ Banken ■ ■ Kreditgenossenschaften ■ Unabhängige Geldautomatenbesitzer ■ Einzelhändler Kunden ■ Bank Austria/Creditanstalt (CZE) ■ Budapest Bank (HUN) ■ Citibank (GRC, HUN, POL, CZE) ■ Deutsche Bank (HUN, POL)■ DiBa (DEU) ■ Dillards Inc. (USA) ■ ABN Amro (HUN, CUR) ■ Banco Comercial Português (MOZ) ■ Banco de Oro, Unibank (PHL)■ Bank Slaski (POL) ■ Century Bank (ZWE) ■ Cayman National Bank (CYM) ■ Commercial Bank of Romania (ROM) ■ ALLTEL (USA) ■ Centertel (POL) ■ Eurotel (CZE) ■ ERA GSM (POL) ■ Bank of Cyprus (GRC, GBR) ■ Commercial Bank of Ceylon (LKA) ■ First Federal Savings Bank of LaCrosse (USA) ■ Fortis Bank (POL) ■ ING/Bank Slaski (POL) ■ Oyak Bank (TUR) ■ Metropolitan National Bank (USA) ■ Millennium Bank (POL) ■ Raiffeisenbank (HRV) ■ Saks Inc. (USA) ■ Maduro and Curiel's Bank N.V. (CUR) ■ Nova Bank (GRC) ■ Old National Service Corp. (USA) ■ Seylan Bank (LKA) ■ VIFI Card Services (USA) ■ WestPac Banking Corp. (FJI, PNG) ■ Old National Service Corp. (USA) ■ Plus GSM (POL) ■ VIPnet (HRV) ■ Maduro and Curiel's Bank N.V. (CUR) ■ National Bank of Kuwait-Lebanon (LBN) ■ Splitska Banka (HRV) ■ Union Bank Ltd. (PAK) ■ Union Banka (CZE)■"
+        }
+    ],
+    "page_width": 1700,
+    "page_height": 2200
+}

@@ -1,0 +1,105 @@
+{
+    "file": "1a8f46903dbe89dc5b6df43389b4895a376e00ab3b90c7c37f1a1b561d3d51a1.png",
+    "annotations": [
+        {
+            "bbox": [
+                194.40255928975378,
+                235.00000000000006,
+                1457.2656963813329,
+                399.4953968533866
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "用于访问控制、授权、个性化、验证、登录、商务、医疗或政府事务，或者依靠身份相关信息 IRI 运行的任何其他应用。显示图 1 中的场景是为了有利于对于以下向请求实体 50 提供身份相关信息 IRI 的流程的描述。",
+            "uuid": "621cd6ca-6480-4d8c-8321-27d8e0cb5601",
+            "vertical": false,
+            "translation": "Any other application used for access control, authorization, personalization, authentication, login, commercial, medical, or government affairs, or that relies on identity-related information IRI to function. The scenario in FIG. 1 is shown to facilitate the following description of the process of providing identity-related information IRI to requesting entity 50."
+        },
+        {
+            "bbox": [
+                188.1737612528831,
+                423.2118973396948,
+                1451.6261582365269,
+                1905.3042835885933
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "图 2 显示第一实施方式的消息流的示意图。此处，客户端应用 30、位置实体 40 以及请求实体 50 之间的流利用标注箭头显示，向这些标注箭头分配了罗马数字。进一步的步骤或者子步骤由圆圈内的罗马数字指示。该流程理解为自顶向下依次进行，如递增的罗马数字所示。在步骤 I，在客戶端应用 30 与请求实体 50 之间进行依赖于应用的交互。在位置请求步骤 II，该步骤由请求实体 50 启动 （子步骤 IIa），请求实体 50 从客户端应用请求相应于具有身份相关信息 IRI 的位置实体 40 的位置信息 LI。在子步骤 IIc，位置信息 LI 发送到请求实体 50，可选地，子步骤 IIb 允许客户端应用 30 以不同的方式导出位置信息 LI，例如通过询问用户或者内部地导出。其后，重定向步骤 III 具有重定向指令（子步骤 IIIa），其中客户端应用 30 最终连接到位置实体 40（子步骤 IIIb）。通过这样做，位置实体 40 被指令传送身份相关信息 IRI 给请求实体 50。在获取步骤 IV，请求实体 50 如下获得身份相关信息 IRI。进行联系步骤 IVa，其中位置实体 40 联系请求实体 50。然后，进行请求步 骤 IVc，其中请求实体 50 从位置实体 40 请求身份相关信息 IRI。最后，响应步骤 IVe，请求实体 50 从位置实体 40 接收身份相关信息 IRI。可以以不同的已知方式检索请求，如子步骤 IVb 所示，例如通过请求实体 50 在重定向步骤 III 中包含的以及位置实体 40 在联系步骤 IVa 中包含的会话标识符。另外，位置实体 40 可以（例如）根据用户验证、策略等等决定是否响应，以及响应 什么，如子步骤 IVd 所示。可以使用內部的或者可能的外部的信息来准备响应。子步骤 IVf 指示请求与响应步骤 IVc 与 IVe 的可能重复，以获得更多的身份相关信息 IRI，或者解决错误，以及可能的对于该交换的结束消息。如子步骤 IVg 所示，可能在回连步骤 IVgii 中进行从位置实体 40（重定向返回 步骤 IVgi）通过客户端应用 30 到请求实体 50 的重定向。然后，客户端应用 30 与请求实体 50 之间依赖于应用的交互再次成为可能，如步骤 V 所示。",
+            "uuid": "19e6db8b-2d2f-4d1c-ab76-cb01b802412a",
+            "vertical": false,
+            "translation": "FIG. 2 shows a schematic diagram of the information flow for the first implementation. Here, the flow between client application 30, location entity 40, and requesting entity 50 is shown using Roman numeral-designated label arrows. Further steps or sub-steps are indicated by Roman numerals within the circles. This process is perceived to proceed from top to bottom, as shown by increasing Roman numerals. In step I, there is an application-dependent interaction between client application 30 and requesting entity 50. In the location requesting step II initiated by requesting entity 50 (sub-step IIa), requesting entity 50 requests location information LI corresponding to location entity 40 with identity-related information IRI from the client application. In the sub-step IIc, the location information LI is sent to requesting entity 50. Optionally, the sub-step IIb allows client application 30 to export the location information LI in different ways, such as by asking the user or exporting it internally. Then, the redirection step III has redirection instructions (sub-step IIIa), where client application 30 finally connects to location entity 40 (sub-step IIIb). By doing so, location entity 40 is instructed to transmit identity-related information IRI to requesting entity 50. In the obtaining step IV, requesting entity 50 obtains identity-related information IRI as follows. Proceed with the contacting step IVa, where location entity 40 contacts requesting entity 50. Next, proceed with the requesting step IVc, in which requesting entity 50 requests identity-related information IRI from location entity 40. Finally, in the response step IVe, requesting entity 50 receives identity-related information IRI from location entity 40. Requests can be retrieved in different known ways, as shown in the sub-step IVb, such as through the session identifiers comprised by requesting entity 50 in the redirection step III and by location entity 40 in the contacting step IVa. Additionally, location entity 40 can (for example) decide whether to respond and what to respond based on user authentication, policies, etc., as shown in the sub-step IVd. The response may be prepared using internal or possibly external information. The sub-step IVf indicates a possible repetition of the request and response steps IVc and IVe to obtain more identity-related information IRI, or resolve errors and possible end messages for the exchange. As shown in the sub-step IVg, redirection from location entity 40 (redirection return step IVgi) through client application 30 to request entity 50 is possible in the connect-back step IVgii. Then, application-dependent interaction between client application 30 and requesting entity 50 becomes possible again, as shown in step V."
+        },
+        {
+            "bbox": [
+                198.0,
+                1930.0,
+                1450.0,
+                2159.0
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "图 3 显示第二实施方式的示意图，与第一实施方式相比，第二实施方式具有相似的消息流，不同之处在于进行获取步骤 IV 而不用联系、请求以及响 应步骤 IVa、IVc、IVe。相反，现在进行重定向步骤 IVg，使得位置实体 40 传送身份相关信息 IRI，其中位置实体 40 通过客户端应用 30 连接到请求实",
+            "uuid": "b03b445d-c26d-4d4a-83fc-97b6a05523e0",
+            "vertical": false,
+            "translation": "FIG. 3 shows a schematic diagram of a second embodiment with a similar information flow compared to the first embodiment, with the difference being that the obtaining step IV is performed without the contacting, requesting, and responding steps IVa, IVc, and IVe. Instead, the redirection step IVg is now performed such that location entity 40 transmits the identity-related information IRI, wherein via client application 30, location entity 40 is connected to requesting entity"
+        },
+        {
+            "bbox": [
+                168.41448965182087,
+                146.89527179000882,
+                331.3962538310024,
+                193.07343830744352
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "11798477-9b7d-4729-a6fb-1b8d35642cc7",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1181.0143682442854,
+                145.43158310924827,
+                1324.384853008387,
+                188.4427285384787
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "6bf6e53b-b3d4-4d2d-a102-6b55705eba17",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1351.7759355264277,
+                149.33396396889722,
+                1494.9406109723702,
+                188.51587514357627
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 11/17 页",
+            "uuid": "8dca8162-c87a-4150-a5dc-79fb049e563e",
+            "vertical": false,
+            "translation": "Page 11/17"
+        },
+        {
+            "bbox": [
+                815.2851517500527,
+                2207.891297223189,
+                849.9460731738073,
+                2239.538225479661
+            ],
+            "order": "7",
+            "label": "Page-footer",
+            "text": "15",
+            "uuid": "9afc84bd-58fe-4971-85f5-37241a81c039",
+            "vertical": false,
+            "translation": "15"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

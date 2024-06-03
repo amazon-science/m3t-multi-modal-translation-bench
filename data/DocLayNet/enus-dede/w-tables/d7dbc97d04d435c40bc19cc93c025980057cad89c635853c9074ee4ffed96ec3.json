@@ -1,0 +1,1659 @@
+{
+    "file": "d7dbc97d04d435c40bc19cc93c025980057cad89c635853c9074ee4ffed96ec3.png",
+    "annotations": [
+        {
+            "bbox": [
+                126.99999999999999,
+                435.0,
+                507.99999999999994,
+                457.0
+            ],
+            "order": "3",
+            "label": "Section-header",
+            "text": "Movement in deferred tax balances",
+            "uuid": "84f3a125-4748-45f1-9c4c-c9cffea782ce",
+            "vertical": false,
+            "translation": "Veränderung der latenten Steuersalden"
+        },
+        {
+            "bbox": [
+                124.97292348387602,
+                569.0000000000003,
+                194.4220512975985,
+                597.0944690428602
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "2013",
+            "uuid": "f6a19115-ff60-4aa3-b51c-cdbb68c7bb51",
+            "vertical": false,
+            "translation": "2013"
+        },
+        {
+            "bbox": [
+                125.98239782542589,
+                631.9788884391411,
+                398.9442597805154,
+                650.4276329687491
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Deferred tax assets/liabilities:",
+            "uuid": "ef0f08af-ba8f-4641-b0a0-497ed50e2061",
+            "vertical": false,
+            "translation": "Aktive/passive latente Steuern:"
+        },
+        {
+            "bbox": [
+                150.0,
+                666.0,
+                236.0,
+                683.0000000000001
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Derivatives",
+            "uuid": "3580d7f7-5403-47d3-8aaa-58ccd2a046a7",
+            "vertical": false,
+            "translation": "Derivate"
+        },
+        {
+            "bbox": [
+                149.94810869324635,
+                697.7956571214121,
+                294.564612864257,
+                719.6584949207212
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Employee benefits",
+            "uuid": "79b37bdc-3c4c-4a35-9ca2-c06f96cc57f7",
+            "vertical": false,
+            "translation": "Versorgungsleistungen"
+        },
+        {
+            "bbox": [
+                148.99841281276332,
+                732.9263225941299,
+                480.00000000000006,
+                751.9816245727753
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Provision for restoration and rehabilitation",
+            "uuid": "c3d57518-1cad-43e7-aabe-d329a4587ea9",
+            "vertical": false,
+            "translation": "Rückstellung für Sanierung und Rehabilitation"
+        },
+        {
+            "bbox": [
+                149.60409741769325,
+                767.0000000000001,
+                361.00000000000006,
+                784.7087933454798
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Provision for obsolescence",
+            "uuid": "5b1c3a01-744b-4db1-a50a-a73feaba8227",
+            "vertical": false,
+            "translation": "Rückstellung für Obsoleszenz"
+        },
+        {
+            "bbox": [
+                149.0,
+                799.0,
+                370.0,
+                819.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Unrealised exchange losses",
+            "uuid": "61636b0c-ff98-4997-a5c3-bfeca651ce1b",
+            "vertical": false,
+            "translation": "Nicht realisierte Wechselkursverluste"
+        },
+        {
+            "bbox": [
+                151.0173614958631,
+                833.0794533820914,
+                242.0719471036629,
+                851.4386102920867
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Other items",
+            "uuid": "776cf33b-51c5-4e58-9b1d-92c94baad325",
+            "vertical": false,
+            "translation": "Sonstige Posten"
+        },
+        {
+            "bbox": [
+                149.2003076810733,
+                864.9708903098357,
+                232.0,
+                884.3474738266128
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Tax losses",
+            "uuid": "9748c4a4-3264-4ed4-a99f-2e0118875ec4",
+            "vertical": false,
+            "translation": "Steuerliche Verluste"
+        },
+        {
+            "bbox": [
+                150.0078871543132,
+                900.0954972631881,
+                401.00000000000006,
+                921.7126134297557
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Mine properties and exploration",
+            "uuid": "bf757865-e2e3-4eb2-9c1f-bbf40c55465f",
+            "vertical": false,
+            "translation": "Bergbauliegenschaften und Exploration"
+        },
+        {
+            "bbox": [
+                148.3927282078334,
+                933.0,
+                417.0000000000001,
+                951.4094887975803
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Available-for-sale financial assets",
+            "uuid": "b3c4a076-a220-4746-8060-b724af15a3bd",
+            "vertical": false,
+            "translation": "Zur Veräußerung verfügbare finanzielle Vermögenswerte"
+        },
+        {
+            "bbox": [
+                125.37671322049596,
+                981.0525845208903,
+                330.0981096868131,
+                1000.0962028359866
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Net deferred tax assets",
+            "uuid": "2571bad3-ca19-42a8-84df-5ae403dcf783",
+            "vertical": false,
+            "translation": "Latente Steueransprüche, netto"
+        },
+        {
+            "bbox": [
+                125.0,
+                1204.0000000000002,
+                193.64906099793308,
+                1231.0047282809924
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "2012",
+            "uuid": "aed5a405-03bd-461f-9c3a-04c81b6a7c69",
+            "vertical": false,
+            "translation": "2012"
+        },
+        {
+            "bbox": [
+                125.0,
+                1267.0,
+                400.0,
+                1283.0
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "Deferred tax assets/liabilities:",
+            "uuid": "c4bee538-17ef-4657-99dc-3c3c65cba33b",
+            "vertical": false,
+            "translation": "Latente Steueransprüche/-verbindlichkeiten:"
+        },
+        {
+            "bbox": [
+                149.00000000000003,
+                1300.0,
+                235.86950577002332,
+                1317.49064425641
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Derivatives",
+            "uuid": "6abc45b2-e233-475e-8799-184f6d0d7ecc",
+            "vertical": false,
+            "translation": "Derivate"
+        },
+        {
+            "bbox": [
+                149.91268056132935,
+                1332.5944014935296,
+                295.10052174952995,
+                1354.9505798105163
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Employee benefits",
+            "uuid": "1cdf4563-fae9-452a-989f-359e2b6f4aa7",
+            "vertical": false,
+            "translation": "Versorgungsleistungen"
+        },
+        {
+            "bbox": [
+                148.99385026617676,
+                1367.8921265105998,
+                481.64356845510105,
+                1384.5420755899581
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "Provision for restoration and rehabilitation",
+            "uuid": "8c6fb9fa-6ef4-45a9-abc0-08ac59a77c3d",
+            "vertical": false,
+            "translation": "Rückstellung für Sanierung und Rehabilitation"
+        },
+        {
+            "bbox": [
+                149.00000000000003,
+                1399.9956042426907,
+                362.25300562834366,
+                1418.3775293163872
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Provision for obsolescence",
+            "uuid": "111a6601-c3ce-429c-a6f8-f273e3d99b34",
+            "vertical": false,
+            "translation": "Rückstellung für Obsoleszenz"
+        },
+        {
+            "bbox": [
+                149.00000000000003,
+                1434.9253870398104,
+                369.9605163863936,
+                1456.1184298729572
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "Unrealised exchange losses",
+            "uuid": "0b8e0fbd-b9cf-4571-ac29-b1b1e5ee54c4",
+            "vertical": false,
+            "translation": "Nicht realisierte Wechselkursverluste"
+        },
+        {
+            "bbox": [
+                149.00000000000003,
+                1468.0,
+                242.86858367386918,
+                1485.926149715417
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Other items",
+            "uuid": "a53544f6-9fd2-4666-91b4-315811b4e4c9",
+            "vertical": false,
+            "translation": "Sonstige Posten"
+        },
+        {
+            "bbox": [
+                147.9186107183187,
+                1500.0000000000002,
+                233.84915619104487,
+                1517.904119881794
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Tax losses",
+            "uuid": "064148d8-21b6-484d-b342-35e1fb767e28",
+            "vertical": false,
+            "translation": "Steuerliche Verluste"
+        },
+        {
+            "bbox": [
+                150.5625558509905,
+                1534.8464920388922,
+                401.7493608737841,
+                1555.0916888887496
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "Mine properties and exploration",
+            "uuid": "d852ba7a-39d5-4066-a300-e4e0bb510e41",
+            "vertical": false,
+            "translation": "Bergbauliegenschaften und Exploration"
+        },
+        {
+            "bbox": [
+                147.9186107183187,
+                1567.4289762420296,
+                416.86153929707996,
+                1585.4678312076783
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "Available-for-sale financial assets",
+            "uuid": "f4335a9a-8ce3-4da4-bc8a-d404294438e6",
+            "vertical": false,
+            "translation": "Zur Veräußerung verfügbare finanzielle Vermögenswerte"
+        },
+        {
+            "bbox": [
+                126.00000000000001,
+                1616.0,
+                330.0,
+                1633.0
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "Net deferred tax assets",
+            "uuid": "5e11212d-7e5c-427e-abd5-69e6d60b2eca",
+            "vertical": false,
+            "translation": "Latente Steueransprüche, netto"
+        },
+        {
+            "bbox": [
+                770.8224392205883,
+                550.4095412933009,
+                862.8986671568434,
+                600.9328406890414
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Balance at 1 July",
+            "uuid": "bafa600a-d6b4-4ea0-b20d-9431df63cd29",
+            "vertical": false,
+            "translation": "Saldo zum 1. Juli"
+        },
+        {
+            "bbox": [
+                831.0,
+                667.0000000000001,
+                864.2076853529898,
+                683.4731014739183
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "808",
+            "uuid": "b37c7fbf-10ca-4146-b37b-b0d570b9cde7",
+            "vertical": false,
+            "translation": "808"
+        },
+        {
+            "bbox": [
+                818.0,
+                699.0,
+                862.0,
+                715.9999999999999
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1,571",
+            "uuid": "c52841c6-38ae-4eac-a870-766ad7bf6f58",
+            "vertical": false,
+            "translation": "1.571"
+        },
+        {
+            "bbox": [
+                815.0,
+                734.0,
+                864.0000000000001,
+                750.0
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "3,390",
+            "uuid": "5fe49b78-f404-4421-b44a-2f0ca2f36e15",
+            "vertical": false,
+            "translation": "3.390"
+        },
+        {
+            "bbox": [
+                831.0,
+                767.0,
+                865.0,
+                782.0
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "278",
+            "uuid": "71734059-39c7-4fa0-bb9d-e34c8b3f73e0",
+            "vertical": false,
+            "translation": "278"
+        },
+        {
+            "bbox": [
+                815.0,
+                800.0,
+                864.0000000000001,
+                816.0
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "2,790",
+            "uuid": "ddd82cf7-52c9-4df8-b644-feff62a99536",
+            "vertical": false,
+            "translation": "2.790"
+        },
+        {
+            "bbox": [
+                816.8797607421875,
+                834.0,
+                863.4199218750001,
+                851.4561930979037
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "1,096",
+            "uuid": "a62779d7-8965-469c-acaa-e30656ceec67",
+            "vertical": false,
+            "translation": "1.096"
+        },
+        {
+            "bbox": [
+                803.0,
+                866.9999999999999,
+                866.0,
+                883.0000000000001
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "36,334",
+            "uuid": "b48de141-27be-497c-9bb4-601fd16fd744",
+            "vertical": false,
+            "translation": "36.334"
+        },
+        {
+            "bbox": [
+                797.0,
+                901.0,
+                867.9999999999999,
+                919.0
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "(65,205)",
+            "uuid": "cda70dae-463d-4b3e-9a88-1ca1faad267b",
+            "vertical": false,
+            "translation": "(65.205)"
+        },
+        {
+            "bbox": [
+                842.0000000000001,
+                933.0,
+                862.848876953125,
+                951.7364726268397
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "e572edc0-a939-416b-b5a7-49b754eeaf36",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                797.0,
+                982.0,
+                869.0000000000001,
+                1002.0000000000001
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "(18,899)",
+            "uuid": "e1bc4fd0-420a-4e34-9c8b-3b40048fd3d1",
+            "vertical": false,
+            "translation": "(18.899)"
+        },
+        {
+            "bbox": [
+                772.5197190503123,
+                1185.5825624667107,
+                863.697416999536,
+                1235.677274740223
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Balance at 1 July",
+            "uuid": "6a93c008-ba2a-44c8-9877-ff349bad383e",
+            "vertical": false,
+            "translation": "Saldo zum 1. Juli"
+        },
+        {
+            "bbox": [
+                830.9352555540142,
+                1299.9619539786395,
+                865.2090799887466,
+                1319.0038886702544
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "680",
+            "uuid": "7e5a5f2a-4b84-42de-b766-dc7fd6994193",
+            "vertical": false,
+            "translation": "680"
+        },
+        {
+            "bbox": [
+                819.0,
+                1334.0000000000002,
+                862.0,
+                1350.0
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "1,611",
+            "uuid": "2af38e6b-7ddd-44a0-8aa9-d0d7d28bb7fe",
+            "vertical": false,
+            "translation": "1.611"
+        },
+        {
+            "bbox": [
+                814.0,
+                1368.0,
+                864.8811008075529,
+                1385.2966009522297
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "2,683",
+            "uuid": "c302a366-d1be-428b-aa89-be13497d3098",
+            "vertical": false,
+            "translation": "2.683"
+        },
+        {
+            "bbox": [
+                830.9352555540142,
+                1399.9956042426907,
+                864.2251424451658,
+                1417.8986258436853
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "449",
+            "uuid": "700da46a-f9c5-46ec-9fc3-a4f4e40a0337",
+            "vertical": false,
+            "translation": "449"
+        },
+        {
+            "bbox": [
+                816.0,
+                1435.0,
+                865.0,
+                1453.0
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "3,510",
+            "uuid": "cd5b7aac-9121-4286-b626-10bd518c48cd",
+            "vertical": false,
+            "translation": "3.510"
+        },
+        {
+            "bbox": [
+                816.0,
+                1468.0,
+                865.0,
+                1484.0
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "1,328",
+            "uuid": "f1256349-2144-4850-872e-fcfe8b48feb3",
+            "vertical": false,
+            "translation": "1.328"
+        },
+        {
+            "bbox": [
+                808.0,
+                1501.0,
+                864.0000000000001,
+                1517.9999999999998
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "31,413",
+            "uuid": "dca956e0-fa70-4593-aabf-4f02391d6191",
+            "vertical": false,
+            "translation": "31.413"
+        },
+        {
+            "bbox": [
+                797.9733478440562,
+                1534.959037303862,
+                868.8168509818763,
+                1555.7857153096563
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "(59,776)",
+            "uuid": "016a0495-4c72-41b3-83a6-dd3663b0ae0c",
+            "vertical": false,
+            "translation": "(59.776)"
+        },
+        {
+            "bbox": [
+                825.0,
+                1567.9209450138198,
+                869.14483016307,
+                1589.075602200808
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "(339)",
+            "uuid": "07ac2912-b66a-4262-86f3-f0a0dc6d2a88",
+            "vertical": false,
+            "translation": "(339)"
+        },
+        {
+            "bbox": [
+                799.7436511946576,
+                1616.576738275613,
+                870.192098979666,
+                1638.0487156761483
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "(18,441)",
+            "uuid": "1fb9835a-25e0-46b2-be67-175b09af3f7b",
+            "vertical": false,
+            "translation": "(18.441)"
+        },
+        {
+            "bbox": [
+                914.3732754631517,
+                551.0000000000003,
+                1033.0960411421543,
+                600.3267820080655
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Recognised in profit or loss",
+            "uuid": "aba6b202-b7be-4467-afeb-4fe1b77bb1a5",
+            "vertical": false,
+            "translation": "Erfolgswirksam erfasst"
+        },
+        {
+            "bbox": [
+                983.95532856081,
+                667.0000000000001,
+                1025.913624011826,
+                687.4715975936202
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "(424)",
+            "uuid": "ffa8536c-d2d4-45d2-8a2e-576e18e97edf",
+            "vertical": false,
+            "translation": "(424)"
+        },
+        {
+            "bbox": [
+                991.0000000000001,
+                699.9624586515816,
+                1021.2515911839353,
+                716.6606192674462
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "124",
+            "uuid": "0bb682e2-db48-44be-9b0c-80b2ff461d4c",
+            "vertical": false,
+            "translation": "124"
+        },
+        {
+            "bbox": [
+                974.8100058857932,
+                733.3941463532966,
+                1022.450399625393,
+                751.8926871560909
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "1,428",
+            "uuid": "9e1733e3-619d-437b-ab73-b8ca14b25a88",
+            "vertical": false,
+            "translation": "1.428"
+        },
+        {
+            "bbox": [
+                1005.2664018758796,
+                766.8293294973279,
+                1026.0468249497658,
+                788.4078814435647
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(5)",
+            "uuid": "9dbc4c29-79ce-406c-b0f4-0bc2cd201178",
+            "vertical": false,
+            "translation": "(5)"
+        },
+        {
+            "bbox": [
+                965.9732019389459,
+                799.9963630443214,
+                1026.5796287015246,
+                820.5093074870405
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(2,979)",
+            "uuid": "47b55e7f-d249-409e-a8b6-800aa2c88286",
+            "vertical": false,
+            "translation": "(2.979)"
+        },
+        {
+            "bbox": [
+                983.7501023429627,
+                833.8317695138172,
+                1027.5120352671026,
+                855.8880783119245
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "(428)",
+            "uuid": "a1b6fd2d-4a09-4784-9a87-d1c8e54532d0",
+            "vertical": false,
+            "translation": "(428)"
+        },
+        {
+            "bbox": [
+                955.983131593466,
+                866.0,
+                1026.1800258877054,
+                888.0745958463185
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "(36,334)",
+            "uuid": "4b17c581-611c-4a94-9e7a-1d2cbc7df4d8",
+            "vertical": false,
+            "translation": "(36.334)"
+        },
+        {
+            "bbox": [
+                965.0683794062936,
+                900.321921182893,
+                1019.3948449801393,
+                918.4777780410471
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "57,921",
+            "uuid": "42992ab2-eae5-4a7c-8d9b-c37e940be8de",
+            "vertical": false,
+            "translation": "57.921"
+        },
+        {
+            "bbox": [
+                989.2230459936305,
+                933.6348945362719,
+                1022.6564814165035,
+                950.9337316426298
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "256",
+            "uuid": "d88ee0bb-c66a-4a8c-a43d-acd445d9c1cd",
+            "vertical": false,
+            "translation": "256"
+        },
+        {
+            "bbox": [
+                963.0,
+                983.0000000000001,
+                1022.5836005633325,
+                1000.8633774574391
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "19,559",
+            "uuid": "78e94589-14d2-4989-a193-dfb30de650ce",
+            "vertical": false,
+            "translation": "19.559"
+        },
+        {
+            "bbox": [
+                914.9353008433471,
+                1185.949269340456,
+                1034.5531546698912,
+                1234.602692532927
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Recognised in profit or loss",
+            "uuid": "d58c7535-9584-4b25-90bf-2ec0c3db8771",
+            "vertical": false,
+            "translation": "Erfolgswirksam erfasst"
+        },
+        {
+            "bbox": [
+                989.9999999999999,
+                1298.9917436318121,
+                1022.1471181898895,
+                1318.8363542310676
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "128",
+            "uuid": "707e6cef-6a53-4403-8c1e-fc6c08790ed2",
+            "vertical": false,
+            "translation": "128"
+        },
+        {
+            "bbox": [
+                993.9409086072391,
+                1334.0000000000002,
+                1026.0828683642128,
+                1355.3904356003598
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "(55)",
+            "uuid": "6cad7c30-ad3e-4b25-ad59-d08fa8997ff3",
+            "vertical": false,
+            "translation": "(55)"
+        },
+        {
+            "bbox": [
+                988.0,
+                1367.0,
+                1022.1471181898895,
+                1384.9085619077848
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "664",
+            "uuid": "39fcdab6-3768-4231-b1e4-e5498398dd83",
+            "vertical": false,
+            "translation": "664"
+        },
+        {
+            "bbox": [
+                986.0000000000001,
+                1399.9956042426907,
+                1026.2468579548097,
+                1421.6570172841584
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "(181)",
+            "uuid": "77139f4e-a74c-4964-835f-75fbebd364cb",
+            "vertical": false,
+            "translation": "(181)"
+        },
+        {
+            "bbox": [
+                983.560125782258,
+                1434.1779795638797,
+                1027.7678533989356,
+                1455.4474743878818
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "(617)",
+            "uuid": "b0985cb2-6faf-4fc3-89f6-4ed4a7a7d1e2",
+            "vertical": false,
+            "translation": "(617)"
+        },
+        {
+            "bbox": [
+                984.5935019432211,
+                1467.3807414580654,
+                1026.5748371360032,
+                1488.549983164966
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "(230)",
+            "uuid": "6d6138db-6aec-4c0b-933c-beccab8ecea2",
+            "vertical": false,
+            "translation": "(230)"
+        },
+        {
+            "bbox": [
+                971.9999999999999,
+                1500.0,
+                1019.9999999999999,
+                1517.9999999999998
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "4,921",
+            "uuid": "a2c88db4-e4c8-4816-9e2a-c9da59258c33",
+            "vertical": false,
+            "translation": "4.921"
+        },
+        {
+            "bbox": [
+                966.736570145671,
+                1533.1542611096072,
+                1026.0828683642128,
+                1557.0594684646644
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "(5,389)",
+            "uuid": "dca846d0-80f8-4e53-abe8-62d8f769455f",
+            "vertical": false,
+            "translation": "(5.389)"
+        },
+        {
+            "bbox": [
+                999.9426679684847,
+                1566.8713326808067,
+                1021.3848773800564,
+                1585.6974704221047
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "78",
+            "uuid": "0bc12103-8e07-4592-8bae-084884cf0d5c",
+            "vertical": false,
+            "translation": "78"
+        },
+        {
+            "bbox": [
+                982.7345554040213,
+                1615.4779262868938,
+                1027.2307954983905,
+                1637.7070665785864
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "(681)",
+            "uuid": "b52a57aa-a43d-4435-8f55-f9fc40e3f937",
+            "vertical": false,
+            "translation": "(681)"
+        },
+        {
+            "bbox": [
+                1065.0,
+                495.06905651396295,
+                1198.649833156336,
+                597.3786124701901
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Recognised in other comprehensive income",
+            "uuid": "8771d66a-8f96-4ffa-86ee-26b236285d1a",
+            "vertical": false,
+            "translation": "Im sonstigen Gesamtergebnis erfasst"
+        },
+        {
+            "bbox": [
+                1139.0000000000002,
+                798.9999999999999,
+                1184.5559410980482,
+                821.5749149905582
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(566)",
+            "uuid": "25946f07-4db3-4a68-8e5c-94df014ed03f",
+            "vertical": false,
+            "translation": "(566)"
+        },
+        {
+            "bbox": [
+                1158.0000000000002,
+                933.0,
+                1179.0947026425192,
+                952.1655539023681
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "5c8fb903-c312-4f86-a82e-8c14048e52c3",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                1140.732832515876,
+                981.2828395802986,
+                1185.2746190809003,
+                1003.8794370505158
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "(527)",
+            "uuid": "49d9d39c-f183-490c-b677-b8a4fc58a263",
+            "vertical": false,
+            "translation": "(527)"
+        },
+        {
+            "bbox": [
+                1066.9535812181837,
+                1127.9398704710977,
+                1197.873909422039,
+                1231.2056677644716
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Recognised in other comprehensive income",
+            "uuid": "99172038-1bdc-4577-b890-0b11cd1bdfcf",
+            "vertical": false,
+            "translation": "Im sonstigen Gesamtergebnis erfasst"
+        },
+        {
+            "bbox": [
+                1142.4504797321995,
+                1434.8982427469575,
+                1184.861436992575,
+                1455.0553929487742
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "(103)",
+            "uuid": "381ad488-7bb9-46b0-9832-fa28e3671b41",
+            "vertical": false,
+            "translation": "(103)"
+        },
+        {
+            "bbox": [
+                1145.9592590904779,
+                1567.9209450138198,
+                1179.9051043440165,
+                1585.0338966713734
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "300",
+            "uuid": "711dd206-030d-49a0-876f-ef1b0b239fe4",
+            "vertical": false,
+            "translation": "300"
+        },
+        {
+            "bbox": [
+                1147.9271341776396,
+                1615.969895058684,
+                1179.2491459816295,
+                1633.3527916619453
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "197",
+            "uuid": "3986bb14-eafb-4c56-96ee-b572a6634b84",
+            "vertical": false,
+            "translation": "197"
+        },
+        {
+            "bbox": [
+                1492.0,
+                93.0,
+                1556.0,
+                136.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "83",
+            "uuid": "f2a34141-1c92-4dee-9508-37b42503798c",
+            "vertical": false,
+            "translation": "83"
+        },
+        {
+            "bbox": [
+                1269.0,
+                159.0,
+                1558.0,
+                174.0
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "Notes to the Financial Statements",
+            "uuid": "538e79b0-c60c-4a1d-92d5-5aea14e86e6d",
+            "vertical": false,
+            "translation": "Anhang zum Jahresabschluss"
+        },
+        {
+            "bbox": [
+                1248.92165536552,
+                550.0,
+                1330.689077031061,
+                601.3187994674653
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Foreign exchange",
+            "uuid": "40eb6fb5-eda9-40ab-a90e-b26bca88a36d",
+            "vertical": false,
+            "translation": "Devisen"
+        },
+        {
+            "bbox": [
+                1314.9596593410472,
+                699.9624586515816,
+                1337.0710150390428,
+                716.7687290600323
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "94",
+            "uuid": "e98cb497-63eb-4a98-a91e-b13f3816513d",
+            "vertical": false,
+            "translation": "94"
+        },
+        {
+            "bbox": [
+                1302.9715749264712,
+                734.0,
+                1337.2042159769826,
+                751.155795689471
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "349",
+            "uuid": "be78c4fe-cfa1-49cd-8a1c-9dcb6134819f",
+            "vertical": false,
+            "translation": "349"
+        },
+        {
+            "bbox": [
+                1314.9596593410472,
+                766.9625304352677,
+                1337.2042159769826,
+                783.6481043454302
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "36",
+            "uuid": "530cb6f8-7199-434b-b513-701ef0a2eb2c",
+            "vertical": false,
+            "translation": "36"
+        },
+        {
+            "bbox": [
+                1317.8900799757212,
+                833.1340351441388,
+                1336.8046131631634,
+                850.6127194614202
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "d49d6705-2818-453f-a156-ea5098a388d7",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                1296.9775327191833,
+                900.9626740026392,
+                1340.9338422392952,
+                921.6088193832979
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(457)",
+            "uuid": "8c9b580a-35dc-43d6-8907-5efd4e1c241c",
+            "vertical": false,
+            "translation": "(457)"
+        },
+        {
+            "bbox": [
+                1314.0000000000002,
+                983.0000000000001,
+                1337.3374169149224,
+                999.5668948093463
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "34",
+            "uuid": "f781c5b7-9dda-4af3-bc72-de7217f221e6",
+            "vertical": false,
+            "translation": "34"
+        },
+        {
+            "bbox": [
+                1248.9234186928952,
+                1185.9592389412956,
+                1331.054732501357,
+                1235.163976973577
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "Foreign exchange",
+            "uuid": "5f6b9096-b926-4b28-a850-3259b2172947",
+            "vertical": false,
+            "translation": "Devisen"
+        },
+        {
+            "bbox": [
+                1315.893103846219,
+                1334.0000000000002,
+                1337.2294037323402,
+                1351.0869669478905
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "15",
+            "uuid": "8a2ec990-362a-4cee-8208-811804477c4a",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                1314.4634611775768,
+                1367.617378399716,
+                1336.7532970018092,
+                1384.4588739531835
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "43",
+            "uuid": "24ab6f8f-127a-4816-9a25-3ed359c71619",
+            "vertical": false,
+            "translation": "43"
+        },
+        {
+            "bbox": [
+                1316.0,
+                1400.0,
+                1337.0262337670038,
+                1417.686689504619
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "10",
+            "uuid": "ba0bda7c-e55d-476c-bee6-f1d54feb0cd3",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                1318.9039471307192,
+                1467.661417155101,
+                1341.5259873299153,
+                1488.52829906298
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "(2)",
+            "uuid": "6c3070f6-4694-432e-944f-0a054a429ddb",
+            "vertical": false,
+            "translation": "(2)"
+        },
+        {
+            "bbox": [
+                1309.9331380862104,
+                1534.942484988917,
+                1340.9409345661431,
+                1555.880670068953
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "(40)",
+            "uuid": "e6ca9269-52e2-418f-a9d2-bdcea5173373",
+            "vertical": false,
+            "translation": "(40)"
+        },
+        {
+            "bbox": [
+                1313.9772703416288,
+                1617.0,
+                1337.136722842142,
+                1634.0082081805524
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "26",
+            "uuid": "11ba8173-5b07-4174-b0c7-7644c77ade69",
+            "vertical": false,
+            "translation": "26"
+        },
+        {
+            "bbox": [
+                1401.9579655444832,
+                552.0,
+                1493.4163408889026,
+                597.2616995309
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Balance at 30 June",
+            "uuid": "b10fc9cb-dbce-46ed-9d36-2a7c5df23f79",
+            "vertical": false,
+            "translation": "Saldo zum 30. Juni"
+        },
+        {
+            "bbox": [
+                1461.361452782396,
+                666.887529462932,
+                1495.0713225331433,
+                683.4033570856259
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "384",
+            "uuid": "041beb8e-0d18-4431-b96f-bbced65f9a56",
+            "vertical": false,
+            "translation": "384"
+        },
+        {
+            "bbox": [
+                1448.0,
+                731.9999999999999,
+                1493.0,
+                751.0
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "5,167",
+            "uuid": "f33d4fa2-2c9e-473c-84e0-175d3376e8b2",
+            "vertical": false,
+            "translation": "5.167"
+        },
+        {
+            "bbox": [
+                1460.947887322995,
+                766.9625304352677,
+                1493.9817199320487,
+                784.6782551812521
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "309",
+            "uuid": "a6f2fb73-d45a-41b8-8951-8cd47fd3751d",
+            "vertical": false,
+            "translation": "309"
+        },
+        {
+            "bbox": [
+                1454.0,
+                799.9963630443214,
+                1499.309757449638,
+                820.782784243249
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "(755)",
+            "uuid": "577a8178-7c1b-4a15-9350-271a6c715e4c",
+            "vertical": false,
+            "translation": "(755)"
+        },
+        {
+            "bbox": [
+                1460.947887322995,
+                833.9626022189535,
+                1494.5145236838077,
+                851.3046379569753
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "680",
+            "uuid": "3c121112-f668-475c-9702-e967019f8c37",
+            "vertical": false,
+            "translation": "680"
+        },
+        {
+            "bbox": [
+                1444.5328037517593,
+                900.2665664079801,
+                1499.1765565116984,
+                922.008586729218
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(7,741)",
+            "uuid": "20fee6f1-839c-4c58-89dd-40de0b159d1a",
+            "vertical": false,
+            "translation": "(7.741)"
+        },
+        {
+            "bbox": [
+                1460.0,
+                933.9965066116932,
+                1495.3137293114462,
+                951.3183749649405
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "334",
+            "uuid": "63febf4a-f678-43e1-bbba-d808c011becc",
+            "vertical": false,
+            "translation": "334"
+        },
+        {
+            "bbox": [
+                1462.945901392091,
+                981.9488442699972,
+                1494.2481218079283,
+                999.8334612173265
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "167",
+            "uuid": "4350bced-1449-40dd-8fa5-aea3fc130a2b",
+            "vertical": false,
+            "translation": "167"
+        },
+        {
+            "bbox": [
+                1402.0,
+                1187.0,
+                1492.680116096908,
+                1230.828685935033
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "Balance at 30 June",
+            "uuid": "40330d16-5fee-45e5-925b-1d36477159e2",
+            "vertical": false,
+            "translation": "Saldo zum 30. Juni"
+        },
+        {
+            "bbox": [
+                1461.2925421346504,
+                1300.9010359920821,
+                1494.4810061980143,
+                1318.2397992879478
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "808",
+            "uuid": "884911a3-a17a-4f1e-bb22-0042bd78df72",
+            "vertical": false,
+            "translation": "808"
+        },
+        {
+            "bbox": [
+                1448.0,
+                1334.0000000000002,
+                1492.0,
+                1350.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "1,571",
+            "uuid": "28272676-6490-4cf9-821d-d9e2640f8a1f",
+            "vertical": false,
+            "translation": "1.571"
+        },
+        {
+            "bbox": [
+                1444.0,
+                1368.0,
+                1494.0,
+                1385.0
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "3,390",
+            "uuid": "ae8c425b-fa80-44ed-92d3-46ad20c3b271",
+            "vertical": false,
+            "translation": "3.390"
+        },
+        {
+            "bbox": [
+                1461.0000000000002,
+                1401.0,
+                1494.6927051277971,
+                1417.9475455556371
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "278",
+            "uuid": "7bf71438-7e08-422a-a9ab-0b7fbc260bf8",
+            "vertical": false,
+            "translation": "278"
+        },
+        {
+            "bbox": [
+                1445.0,
+                1435.0,
+                1493.0,
+                1451.0
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "2,790",
+            "uuid": "1e371dd9-eac9-4d83-9a67-0d31b747af44",
+            "vertical": false,
+            "translation": "2.790"
+        },
+        {
+            "bbox": [
+                1446.0,
+                1466.0,
+                1493.0,
+                1484.0
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "1,096",
+            "uuid": "f69ae041-7927-4a50-b0c9-278ce7ac744f",
+            "vertical": false,
+            "translation": "1.096"
+        },
+        {
+            "bbox": [
+                1433.0,
+                1501.0,
+                1494.0,
+                1517.0
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "36,334",
+            "uuid": "52d20e49-88f0-4e88-81bc-7b0bc946a2ff",
+            "vertical": false,
+            "translation": "36.334"
+        },
+        {
+            "bbox": [
+                1428.4062921270822,
+                1535.1295581620195,
+                1499.4712817851462,
+                1556.9664831481027
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "(65,205)",
+            "uuid": "7adc0a53-c972-40fd-91f8-9e065b932a7d",
+            "vertical": false,
+            "translation": "(65.205)"
+        },
+        {
+            "bbox": [
+                1428.0000000000002,
+                1617.0,
+                1501.0130722119593,
+                1638.194714681836
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "(18,899)",
+            "uuid": "15911bef-f4cc-447c-b72b-42a378eee171",
+            "vertical": false,
+            "translation": "(18.899)"
+        },
+        {
+            "bbox": [
+                1505.0,
+                2242.1660519379257,
+                1581.969663677667,
+                2260.6815509386456
+            ],
+            "order": "118",
+            "label": "Page-footer",
+            "text": "continued",
+            "uuid": "4b2e4a21-8222-4d85-a901-e531d43f872d",
+            "vertical": false,
+            "translation": "fortgesetzt"
+        },
+        {
+            "bbox": [
+                1602.0000000000002,
+                464.9999999999999,
+                1622.0226239514375,
+                754.7222755711272
+            ],
+            "order": "60",
+            "label": "Page-header",
+            "text": "Notes to the Financial Statements",
+            "uuid": "18e37752-246b-458a-9830-76637e4b8989",
+            "vertical": true,
+            "translation": "Anhang zum Jahresabschluss"
+        },
+        {
+            "bbox": [
+                1472.9318902781001,
+                1567.5047409727574,
+                1494.3622659644664,
+                1584.6596299900234
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "39",
+            "uuid": "fbc44ea7-477e-4b7c-94f9-08410f6fea1f",
+            "vertical": false,
+            "translation": "39"
+        },
+        {
+            "bbox": [
+                1448.0273963428408,
+                699.3617854082938,
+                1494.914126497627,
+                717.4883011509431
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "1,789",
+            "uuid": "da3dd424-1b72-4777-996d-c796da1ed8ac",
+            "vertical": false,
+            "translation": "1.789"
+        },
+        {
+            "bbox": [
+                121.13692098598645,
+                476.8823380245511,
+                1521.4797275839896,
+                1018.2947596964538
+            ],
+            "order": "4",
+            "label": "Table",
+            "text": "2013 Deferred tax assets/liabilities: Derivatives Employee benefits Provision for restoration and rehabilitation Provision for obsolescence Unrealised exchange losses Other items Tax losses Mine properties and exploration Available-for-sale financial assets Net deferred tax assets Balance at 1 July 808 1,571 3,390 278 2,790 1,096 36,334 (65,205) 39 (18,899) Recognised in profit or loss (424) 124 1,428 (5) (2,979) (428) (36,334) 57,921 256 19,559 Recognised in other comprehensive income (566) 39 (527) Foreign exchange 94 349 36 12 (457) 34 Balance at 30 June 384 1,789 5,167 309 (755) 680 (7,741) 334 167",
+            "uuid": "671e6ee9-a063-4aee-8799-18d8fa3e7fa2",
+            "vertical": false,
+            "translation": "2013 Aktive/passive latente Steuern: Derivate Versorgungsleistungen Rückstellung für Sanierung und Rehabilitation Rückstellung für Obsoleszenz Nicht realisierte Wechselkursverluste Sonstige Posten Steuerliche Verluste Bergbauliegenschaften und Exploration Zur Veräußerung verfügbare finanzielle Vermögenswerte Latente Steueransprüche, netto Saldo zum 1. Juli 808 1.571 3.390 278 2.790 1.096 36.334 (65.205) 39 (18.899) Erfolgswirksam erfasst (424) 124 1.428 (5) (2.979) (428) (36.334) 57.921 256 19.559 Im sonstigen Gesamtergebnis erfasst (566) 39 (527) Devisen 94 349 36 12 (457) 34 Saldo zum 30. Juni 384 1.789 5.167.309 (755) 680 (7.741) 334 167"
+        },
+        {
+            "bbox": [
+                116.29144414654698,
+                1113.6689404285935,
+                1523.0948865304695,
+                1643.7682667222773
+            ],
+            "order": "61",
+            "label": "Table",
+            "text": "2012 Deferred tax assets/liabilities: Derivatives Employee benefits Provision for restoration and rehabilitation Provision for obsolescence Unrealised exchange losses Other items Tax losses Mine properties and exploration Available-for-sale financial assets Net deferred tax assets Balance at 1 July 680 1,611 2,683 449 3,510 1,328 31,413 (59,776) (339) (18,441) Recognised in profit or loss 128 (55) 664 (181) (617) (230) 4,921 (5,389) 78 (681) Recognised in other comprehensive income (103) 300 197 Foreign exchange 15 43 10 (2) (40) 26 Balance at 30 June 808 1,571 3,390 278 2,790 1,096 36,334 (65,205) 39 (18,899)",
+            "uuid": "4cd1cddd-672f-4de1-8628-835bcae7b6f4",
+            "vertical": false,
+            "translation": "2012 Aktive/passive latente Steuern: Derivate Versorgungsleistungen Rückstellung für Sanierung und Rehabilitation Rückstellung für Obsoleszenz Nicht realisierte Wechselkursverluste Sonstige Posten Steuerliche Verluste Bergbauliegenschaften und Exploration Zur Veräußerung verfügbare finanzielle Vermögenswerte Latente Steueransprüche, netto Saldo zum 1. Juli 680 1.611 2.683 449 3.510 1.328 31.413 (59.776) (339) (18.441) Erfolgswirksam erfasst 128 (55) 664 (181) (617) (230) 4.921 (5.389) 78 (681) Im sonstigen Gesamtergebnis erfasst (103) 300 197 Devisen 15 43 10 (2) (40) 26 Saldo zum 30. Juni 808 1.571 3.390 278 2.790 1.096 36.334 (65.205) 39 (18.899)"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

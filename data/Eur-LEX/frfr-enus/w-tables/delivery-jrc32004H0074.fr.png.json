@@ -1,0 +1,1911 @@
+{
+    "file": "jrc32004H0074.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                114.9831167305551,
+                136.722785667308,
+                200.2913840351666,
+                166.40807246538978
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 16/62",
+            "uuid": "07dbacf7-5d33-499d-8804-1be83a839f43",
+            "vertical": false,
+            "translation": "L 16/62"
+        },
+        {
+            "bbox": [
+                337.4999278748496,
+                140.43344651706832,
+                361.6087860261529,
+                160.84208119074958
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "dce9c27f-05cf-4c4b-a3b0-5b7ac3e43d78",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                624.9516981403882,
+                142.28877694194847,
+                1025.5296489620423,
+                173.82939416491018
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "98c600b1-bf22-4f4b-a52e-ddc82fc6e4b7",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1430.0848150603706,
+                136.722785667308,
+                1532.0838303158844,
+                158.9867507658694
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "23.1.2004",
+            "uuid": "c2863bef-ef86-4021-a34b-57646ff56bfc",
+            "vertical": false,
+            "translation": "23.1.2004"
+        },
+        {
+            "bbox": [
+                769.7854938736767,
+                244.3319503103545,
+                879.4266213931727,
+                266.5959154089159
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE I",
+            "uuid": "e286c550-e65a-44c5-b894-786852150603",
+            "vertical": false,
+            "translation": "ANNEX I"
+        },
+        {
+            "bbox": [
+                554.6487055810495,
+                304.222472032634,
+                1104.5021773962685,
+                336.7235008899292
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Combinaisons de pesticides et de produits à contrôler",
+            "uuid": "e7226373-08ff-43ce-a989-a51779a82144",
+            "vertical": false,
+            "translation": "Combinations of pesticides and products to be controlled"
+        },
+        {
+            "bbox": [
+                226.9788214596831,
+                402.96854555240617,
+                1399.7352783452648,
+                2205.079027211144
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "0e14a664-b08f-4569-a02a-47b5f2b0dedf",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                347.13931865953174,
+                440.6924185743665,
+                615.6754034734184,
+                463.50252302407375
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Résidus de pesticides à analyser",
+            "uuid": "b7dc1874-32d1-4536-bc0f-b1a063ff4700",
+            "vertical": false,
+            "translation": "Pesticide residues to be analyzed"
+        },
+        {
+            "bbox": [
+                1023.4530247376567,
+                415.347858074692,
+                1079.1869291329917,
+                443.22687462433396
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Année",
+            "uuid": "0494894e-af27-4a67-a5ac-e16fcdfdfddb",
+            "vertical": false,
+            "translation": "Year"
+        },
+        {
+            "bbox": [
+                803.1483780220815,
+                460.9680669741063,
+                848.7488452546283,
+                491.38153957371594
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "2004",
+            "uuid": "5ee75124-56fd-4390-a030-6a2ce83c7aed",
+            "vertical": false,
+            "translation": "2004"
+        },
+        {
+            "bbox": [
+                1021.042502485247,
+                460.9680669741063,
+                1086.9098440433702,
+                491.38153957371594
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "2005 (*)",
+            "uuid": "2b813e62-272f-485d-861f-6e1a242c23f7",
+            "vertical": true,
+            "translation": "2005 (*)"
+        },
+        {
+            "bbox": [
+                1241.4447607758898,
+                458.4336109241388,
+                1317.4455394968013,
+                488.8470835237485
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "2006 (*)",
+            "uuid": "6731e240-199f-4956-af63-9988a556aeb3",
+            "vertical": true,
+            "translation": "2006 (*)"
+        },
+        {
+            "bbox": [
+                256.0414795658579,
+                519.2605561233581,
+                347.24241403095147,
+                544.6051166230327
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Acéphate",
+            "uuid": "9f5af008-3104-4aee-9e24-a82972714e33",
+            "vertical": false,
+            "translation": "Acephate"
+        },
+        {
+            "bbox": [
+                253.34031610678613,
+                572.4841331726749,
+                347.0746098625768,
+                602.8976057722846
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Aldicarbe",
+            "uuid": "4eb75758-1eaa-4711-aa70-182c5d3d390c",
+            "vertical": false,
+            "translation": "Aldicarb"
+        },
+        {
+            "bbox": [
+                813.2116225915627,
+                514.1916440234232,
+                841.0785747892301,
+                549.6740287229676
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "2dc3ba09-8b3c-48ae-93f8-446cf52f839b",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1041.2139587542968,
+                516.7261000733907,
+                1061.480833079873,
+                542.0706605730652
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "aa9735a0-f0a3-4a34-b357-3dc958c8870d",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1266.7531282196408,
+                519.2605561233581,
+                1297.1534397080052,
+                547.1395726730001
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "5d65fb79-3241-4757-9bb8-78d7790e8553",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                810.6958114491923,
+                575.0185892226424,
+                841.0961229375569,
+                600.3631497223171
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "87071f6c-7ade-4747-a980-839fc66df34b",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1036.1647883212295,
+                569.9496771227074,
+                1064.0317405188969,
+                610.500973922187
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "2169c020-24af-467f-ae01-ed5d60553f94",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1264.2186721696733,
+                569.9496771227074,
+                1292.0856243673406,
+                607.9665178722195
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "f3c635d2-9e25-4a09-9ec8-0f5d8f766f85",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.43982364273734,
+                631.4456837084653,
+                420.6336460906205,
+                654.4947858406344
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Azinphos-méthyl",
+            "uuid": "ea1648b0-c89a-498c-bd25-714e0f1796d9",
+            "vertical": true,
+            "translation": "Azinphos-methyl"
+        },
+        {
+            "bbox": [
+                817.9405732243976,
+                633.3664422194792,
+                840.9797010993929,
+                656.4155443516482
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "b90d8e22-abdd-46f2-a4bb-f1e466c37e49",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1035.95439489499,
+                632.9632596897895,
+                1067.9651170432317,
+                656.2538636530688
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "91db50ab-94d3-4192-94ed-f643122d6977",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1268.839017153097,
+                627.1406086989697,
+                1297.9396736514987,
+                653.342538157659
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "5edb6f2b-0e83-43d6-801d-3f768b5b280e",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                253.29287717408118,
+                682.455793111758,
+                401.70622531592903,
+                711.5690480658571
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Azoxystrobine",
+            "uuid": "153f49ed-2a41-44b6-ae3b-9189bc6cfccb",
+            "vertical": false,
+            "translation": "Azoxystrobin"
+        },
+        {
+            "bbox": [
+                813.2628393989636,
+                686.0529539564247,
+                841.8442752382157,
+                712.0649961688415
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "3d75216b-4d2a-4c07-ab8b-336dbe12dd4f",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1038.8896574562252,
+                676.6331421209383,
+                1070.900379604467,
+                708.6577225704473
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "96e7fd63-5281-4887-8dd8-853b316f1d10",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1260.076064218763,
+                679.5444676163481,
+                1297.9069176666846,
+                708.6577225704473
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "36672dcc-3407-42fd-bd5e-e172e7a15cdc",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.4277991567192,
+                738.0770383812583,
+                418.5236371936466,
+                761.7243494834553
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Groupe bénomyl",
+            "uuid": "fc5d9a09-f448-4dba-8751-31d8e01c509b",
+            "vertical": false,
+            "translation": "Benomyl group"
+        },
+        {
+            "bbox": [
+                815.5078429369631,
+                733.3475761608188,
+                839.1449209133293,
+                759.3596183732355
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "7c38b9c0-d7f1-4270-8b5b-34da8a1b1514",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.0600837124427,
+                738.0770383812583,
+                1068.4245772840823,
+                766.4538117038948
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "4bd8d2b0-6c30-4f15-91e3-ab9c801a7b60",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0476641663745,
+                738.0770383812583,
+                1295.412157738014,
+                764.089080593675
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "5ef1d10f-13c2-4a39-9062-a1812489fb97",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.8426725835098,
+                790.1011228060918,
+                418.57480282280056,
+                818.4778961287283
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Bromopropylate",
+            "uuid": "bcaa3f31-5279-4826-acd4-30f6ad09670a",
+            "vertical": false,
+            "translation": "Bromopropylate"
+        },
+        {
+            "bbox": [
+                815.5078429369631,
+                794.8305850265313,
+                836.7812131156928,
+                823.2073583491677
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "06282853-139d-4559-a82d-a702e949676a",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.0600837124427,
+                792.4658539163115,
+                1070.7882850817189,
+                818.4778961287283
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "53f883d4-f2c0-4052-97b4-011a22104194",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0476641663745,
+                785.3716605856523,
+                1290.684742142741,
+                820.842627238948
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "4ad5e12b-7dcd-4215-a194-1e0d831963a3",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                258.3184931437157,
+                849.8234513456068,
+                335.8125733063376,
+                875.6659944892839
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Captane",
+            "uuid": "eb810f1b-25a1-4612-b14c-b72fa29f3899",
+            "vertical": false,
+            "translation": "Captan"
+        },
+        {
+            "bbox": [
+                815.3302594345917,
+                846.5931334526472,
+                836.3182394786353,
+                874.0508355428041
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "06607db3-62ba-4cfe-9f1a-6a390eb7c040",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1039.989023646221,
+                854.6689281850463,
+                1065.8203837004285,
+                872.4356765963242
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "4abe4cac-3d76-45bf-bcd1-ebbf4a6d53f7",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.8568041306987,
+                846.5931334526472,
+                1295.073704181518,
+                875.6659944892839
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "c1944cf4-7b5a-4b23-a60c-d1adad967afc",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.41350424329917,
+                902.2726337614532,
+                395.5681988161871,
+                929.1632529156506
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Chlorothalonil",
+            "uuid": "450e0f59-f6eb-4817-a5a1-cfc89777bc1c",
+            "vertical": false,
+            "translation": "Chlorothalonil"
+        },
+        {
+            "bbox": [
+                810.2542144279498,
+                900.3518752504391,
+                840.9730515946102,
+                925.3217358936223
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "df3a5709-9cd5-41b7-a036-0ccbeccaf56b",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.588693767558,
+                904.1933922724672,
+                1061.7879669967206,
+                929.1632529156506
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "b782e680-75b4-4762-87dc-cbe0833db460",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.2847446007002,
+                904.1933922724672,
+                1292.3238724756952,
+                925.3217358936223
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "d9d65a09-592f-4d1e-93f5-c5393b1c5bf4",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.61548295107116,
+                956.053872069848,
+                395.77017752395903,
+                982.9444912240455
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Chlorpyriphos",
+            "uuid": "a6510cf6-98d6-482c-8e77-9a65704ec8ec",
+            "vertical": false,
+            "translation": "Chlorpyriphos"
+        },
+        {
+            "bbox": [
+                812.174972938964,
+                959.8953890918763,
+                839.0539554597917,
+                982.9444912240455
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "3e555eb3-79bf-4299-8108-b4086d7c4999",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.6687664446417,
+                957.9746305808621,
+                1067.5477489654695,
+                982.9444912240455
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "9535c2fa-6329-40ed-acef-02cd4dd041d7",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.285575788798,
+                954.1331135588339,
+                1296.1645583096258,
+                979.1029742020172
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "97082e9c-a45f-4f1f-8a5b-811674f1813e",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.53624146208523,
+                1007.9143518672288,
+                468.72824698287525,
+                1040.5672465544683
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Chlorpyriphos-méthyl",
+            "uuid": "5a7c37d2-8311-4267-a1d8-76bb80ea8dab",
+            "vertical": true,
+            "translation": "Chlorpyrifos-methyl"
+        },
+        {
+            "bbox": [
+                814.1106928357389,
+                1013.6766274002712,
+                837.1498207107342,
+                1036.7257295324403
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "cb92c24f-111c-4255-906e-429bdfdabfaf",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1036.828911798809,
+                1009.8351103782429,
+                1067.5477489654695,
+                1038.6464880434542
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "ee7fe1ad-3a32-416a-9a5e-15c10016b15b",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.140117871678,
+                1011.755868889257,
+                1294.0991730695896,
+                1038.6464880434542
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "445e08ea-5aed-41e2-8b20-bddf2790996b",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.53541027398745,
+                1065.5371071976517,
+                399.6100321697916,
+                1096.2692433738773
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Cyperméthrine",
+            "uuid": "73fbbf11-62dc-4014-8ddc-f621388a3d04",
+            "vertical": false,
+            "translation": "Cypermethrin"
+        },
+        {
+            "bbox": [
+                810.1810698753411,
+                1069.37862421968,
+                838.979979719085,
+                1092.427726351849
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "ea371699-9dd1-4bc2-96ff-52ff9d80b664",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.6745847613263,
+                1065.5371071976517,
+                1066.0209736128256,
+                1094.3484848628632
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "c39a83bd-e293-4bcf-a85f-37cb16d3585f",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.2357045029282,
+                1065.5371071976517,
+                1294.19475970084,
+                1090.506967840835
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "ac772507-0a6c-4e15-9c2a-5ea9c081a426",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.61548295107116,
+                1117.3975869950323,
+                361.21148571146614,
+                1151.9712401932863
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Cyprodinil",
+            "uuid": "df92d408-6a8d-48aa-af02-cee1464e818f",
+            "vertical": false,
+            "translation": "Cyprodinil"
+        },
+        {
+            "bbox": [
+                816.007346891916,
+                1123.1598625280747,
+                835.2066201210787,
+                1146.208964660244
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "281de5d7-ccf0-43da-9d71-c48966be77cf",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1038.7488391217253,
+                1123.1598625280747,
+                1065.627821642553,
+                1146.208964660244
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "a0686e88-0130-4552-9894-98c5d6124174",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.3038619269503,
+                1125.0806210390888,
+                1292.3429898019454,
+                1146.208964660244
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "38fc906f-8a0f-4d1b-9ebf-5b4e3fc1fb34",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.61548295107116,
+                1176.9411008364696,
+                390.01039555521027,
+                1199.9902029686384
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "Deltaméthrine",
+            "uuid": "f700ef4d-34e5-42c8-8909-97f24a4f0302",
+            "vertical": false,
+            "translation": "Deltamethrin"
+        },
+        {
+            "bbox": [
+                814.0932378856846,
+                1175.0203423254554,
+                839.052293083596,
+                1198.0694444576247
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "15c407b9-a76d-418e-ac71-3fb14221b93c",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.6687664446417,
+                1176.9411008364696,
+                1067.5477489654695,
+                1203.8317199906667
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "1eff7a70-1550-4c1e-94ff-25c4e7ecfbf3",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1265.4324221334002,
+                1175.0203423254554,
+                1294.2313319771442,
+                1201.910961479653
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "93f051a4-02df-46a7-9dd2-b59358386a3e",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                253.69472444005706,
+                1228.80158063385,
+                347.77116326295436,
+                1257.6129582990616
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Diazinon",
+            "uuid": "2484e90e-ba0f-475b-ba4b-02801dcec991",
+            "vertical": false,
+            "translation": "Diazinon"
+        },
+        {
+            "bbox": [
+                810.2442401707759,
+                1234.5638561668927,
+                840.9630773374363,
+                1255.6921997880477
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "93391d76-682e-41c7-99f3-505162e459ee",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.588693767558,
+                1234.5638561668927,
+                1065.6278216425533,
+                1255.6921997880477
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "28a6f561-f5ab-4fca-8191-2b42f2d228b9",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1271.1938664783447,
+                1230.7223391448645,
+                1294.2329943533398,
+                1253.7714412770333
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "aa8347e0-1890-451a-9da9-7005c923d037",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                260.7402602721888,
+                1285.0512583079596,
+                399.2148104729707,
+                1314.9312484074762
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Dichlofluanide",
+            "uuid": "27c0f2fc-41a0-4df7-9127-2ebd7c314448",
+            "vertical": false,
+            "translation": "Dichlofluanid"
+        },
+        {
+            "bbox": [
+                809.1328559988657,
+                1285.0512583079596,
+                847.1454776226097,
+                1320.3639738801155
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "0ef88229-9727-472e-9d3a-86740dd93a42",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1039.9237730001691,
+                1285.0512583079596,
+                1067.0756455885576,
+                1314.9312484074762
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "63b50b9e-224f-42aa-aded-2ce5f11aa17e",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.7546562358204,
+                1287.7676210442794,
+                1295.19134156537,
+                1312.2148856711567
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "b7125191-99d7-403a-8794-03c99f4de9d4",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.2146720785638,
+                1336.6621502980338,
+                333.95510258489077,
+                1369.2585031338701
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "Dicofol",
+            "uuid": "0c5e93ae-b0ba-4502-ae5f-978c48e7d65f",
+            "vertical": false,
+            "translation": "Dicofol"
+        },
+        {
+            "bbox": [
+                817.2631365681316,
+                1342.094875770673,
+                841.6998218976814,
+                1371.97486587019
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "595d7a5d-c42f-438a-82dc-ab9a68d10555",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1045.338866310596,
+                1339.3785130343533,
+                1067.0603643813067,
+                1374.6912286065094
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "2d59cc58-5255-4657-9bdc-caa2539f60a7",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1268.0406444544624,
+                1339.3785130343533,
+                1292.4773297840122,
+                1366.5421403975502
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "7d3e9f20-adc9-41dd-939b-59d3fc58f7b1",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                252.5782418109406,
+                1393.7057677607472,
+                369.3312939410116,
+                1420.8693951239443
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "Diméthoate",
+            "uuid": "c1adab5f-82a0-4b31-8a54-de21b74ec6ca",
+            "vertical": false,
+            "translation": "Dimethoate"
+        },
+        {
+            "bbox": [
+                814.5550021741775,
+                1399.1384932333867,
+                838.9916875037273,
+                1423.5857578602638
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "2badc3a3-26d0-4fac-b235-2eb24d47ed26",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.2003573989643,
+                1396.4221304970672,
+                1072.4977917638696,
+                1423.5857578602638
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "0ce7e8ca-0599-41d8-83a8-60e03d1bd3e2",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.7546562358204,
+                1396.4221304970672,
+                1292.4761543065313,
+                1420.8693951239443
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "2d6d06f1-a815-41be-a1b6-5594257ccd16",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.37336153847593,
+                1442.6002970145018,
+                445.43646965719626,
+                1483.345738059297
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "Diphenylamine (**)",
+            "uuid": "9c891bac-df27-4635-8619-86f10757d34f",
+            "vertical": true,
+            "translation": "Diphenylamine (**)"
+        },
+        {
+            "bbox": [
+                809.1422598187124,
+                1445.3166597508214,
+                841.7245069247787,
+                1477.9130125866577
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "26be4111-4398-4c71-bb38-0a40725eff13",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.2179895611769,
+                1450.7493852234606,
+                1069.800236667243,
+                1477.9130125866577
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "be758d23-3fb1-42a4-aaee-1ca65a307d29",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.7546562358204,
+                1445.3166597508214,
+                1300.6217160830479,
+                1477.9130125866577
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "23bd933f-e975-484f-8536-7fab2aa2493e",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.37453701595672,
+                1502.360277213535,
+                361.2668401106724,
+                1529.5239045767319
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "Endosulfan",
+            "uuid": "71caee58-da47-445b-bb5e-9ef740b63f5a",
+            "vertical": false,
+            "translation": "Endosulfan"
+        },
+        {
+            "bbox": [
+                814.5550021741775,
+                1507.793002686174,
+                838.9916875037273,
+                1529.5239045767319
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "0182f3df-6f3a-436e-8385-fff76198fc20",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1039.915544657803,
+                1505.0766399498546,
+                1067.0674172461916,
+                1534.9566300493711
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "f429e86f-f973-4872-a5ef-cf05558520c1",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1265.3242817181429,
+                1499.6439144772153,
+                1300.6217160830479,
+                1532.2402673130514
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "aecd8e8c-2b0c-48e4-84a4-9713a5325374",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.37336153847593,
+                1556.6875319399287,
+                372.126413668547,
+                1589.283884775765
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "Fenhexamid",
+            "uuid": "bcba38f8-2b62-47d9-a310-5aba12cf20be",
+            "vertical": false,
+            "translation": "Fenhexamid"
+        },
+        {
+            "bbox": [
+                814.5573531291393,
+                1559.4038946762485,
+                838.994038458689,
+                1586.5675220394455
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "b3ddfea2-2580-4199-aadf-c3135715afae",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.2027083539258,
+                1556.6875319399287,
+                1067.0697682011535,
+                1592.0002475120846
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "5fb2aea6-d022-4c3e-abee-e556134595e2",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1265.323106240662,
+                1562.1202574125682,
+                1297.9053533467284,
+                1586.5675220394455
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "61e44ee0-61c8-4b3c-bf45-c96e757df84a",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                252.65817427963708,
+                1611.0147866663226,
+                320.53785575060857,
+                1643.611139502159
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "Folpet",
+            "uuid": "a48d2519-fd4a-4bf1-8970-e5d092794d88",
+            "vertical": false,
+            "translation": "Folpet"
+        },
+        {
+            "bbox": [
+                814.5303171470802,
+                1611.0147866663226,
+                841.6821897354689,
+                1646.3275022384785
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "ee992ef6-48e8-4242-bfa1-8a292abe9c79",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.1756723718668,
+                1616.4475121389619,
+                1069.7579194779332,
+                1646.3275022384785
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "b0467d75-8d76-49b8-bdf1-ce3a67f0f1d1",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1262.609094459304,
+                1613.7311494026421,
+                1303.3369033418867,
+                1643.611139502159
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "eaaf59f4-ca8b-460d-8e87-c7cb448eaf98",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.23347971825714,
+                1668.0584041290363,
+                331.2587229657453,
+                1695.222031492233
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Imazalil",
+            "uuid": "fe7258fa-8ac4-4323-b1bb-acdd69968a1b",
+            "vertical": false,
+            "translation": "Imazalil"
+        },
+        {
+            "bbox": [
+                814.5479493092926,
+                1665.3420413927165,
+                838.9846346388422,
+                1697.9383942285526
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "d081d75e-31d5-4dcd-9d1a-f022fd252c8f",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1042.623679051757,
+                1662.6256786563968,
+                1067.0603643813067,
+                1695.222031492233
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "47531a2f-cd5a-4d53-bf1c-8a57b250e7d9",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1262.609094459304,
+                1659.909315920077,
+                1295.19134156537,
+                1700.6547569648724
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "c8fe4809-a316-427f-98fc-b78a7af492d8",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.37218606099506,
+                1727.8183843280694,
+                358.54930189687184,
+                1749.549286218627
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "Iprodione",
+            "uuid": "44c101a5-cfce-4542-a767-179cb120cc3a",
+            "vertical": false,
+            "translation": "Iprodione"
+        },
+        {
+            "bbox": [
+                811.8386394378579,
+                1725.1020215917497,
+                838.9905120262466,
+                1749.549286218627
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "9fd89011-7c3e-419c-876b-94d4c080cf36",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1039.9143691803222,
+                1722.38565885543,
+                1067.066241768711,
+                1754.9820116912663
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "2e31aa43-2c93-488c-a0ce-c35cb0f761ef",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1270.7546562358204,
+                1722.38565885543,
+                1295.19134156537,
+                1757.6983744275858
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "0d5b6b7b-56b0-43d1-8dab-3308403828e7",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                258.0885487973148,
+                1776.7129135818238,
+                418.2845970688076,
+                1803.8765409450207
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "Kresoxim-méthyl",
+            "uuid": "628e7ad0-7e3d-499d-908b-16717b21f805",
+            "vertical": true,
+            "translation": "Kresoxim-methyl"
+        },
+        {
+            "bbox": [
+                811.8515696901471,
+                1773.9965508455043,
+                839.0034422785357,
+                1803.8765409450207
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "ee26b0ad-ef5e-44bf-a7f8-a077ef0de4e3",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1041.334639296278,
+                1781.4112640526444,
+                1063.9395880509005,
+                1807.0302059745497
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "276bff7d-17ac-410f-aef5-f2fe739ade09",
+            "vertical": false,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1262.6102699367846,
+                1773.9965508455043,
+                1295.192517042851,
+                1803.8765409450207
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "96a1b4d5-5b03-4b59-af54-7cc87e19625c",
+            "vertical": false,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                258.08737331983394,
+                1831.0401683082177,
+                459.0112304739098,
+                1860.9201584077343
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "Lambda-cyhalothrine",
+            "uuid": "4035fbc2-abc9-4057-a70a-ff807d7249fb",
+            "vertical": true,
+            "translation": "Lambda-cyhalothrin"
+        },
+        {
+            "bbox": [
+                811.7704617439697,
+                1831.0401683082177,
+                836.2071470735196,
+                1858.2037956714146
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "c2f409fd-e83b-4400-b80c-a3eff81b75e6",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1041.224428149376,
+                1836.472893780857,
+                1064.3005089781961,
+                1859.7750864020024
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "a209eea6-f70d-478e-aee5-4a284fdf224d",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1265.321930763181,
+                1836.472893780857,
+                1292.4738033515696,
+                1860.9201584077343
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "33e64ac9-3cf0-4880-942e-7ece6cce1896",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                254.58068926904292,
+                1885.3940283239078,
+                355.50576719644124,
+                1915.5339599967378
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "Malathion",
+            "uuid": "cc46dce5-93dc-40db-9bfc-f946173a5fb1",
+            "vertical": false,
+            "translation": "Malathion"
+        },
+        {
+            "bbox": [
+                815.4014184283228,
+                1889.7010890582555,
+                841.4022042023257,
+                1918.0778623808922
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "195e98a4-259e-444e-9c63-29952f6be105",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1040.0334775852828,
+                1880.2421646173768,
+                1063.670555561649,
+                1918.0778623808922
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "85e1f4d5-596f-47bb-9067-6e5bde3fb954",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1264.6829330561548,
+                1882.6068957275966,
+                1297.7748422230675,
+                1918.0778623808922
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "6de507e5-5a38-4523-9441-de098745bc03",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                257.8426725835097,
+                1941.725173483089,
+                413.8473872275272,
+                1979.5608712466046
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "Groupe manèbe",
+            "uuid": "68e6ecf7-f988-4586-8869-daf407dd497b",
+            "vertical": false,
+            "translation": "Maneb group"
+        },
+        {
+            "bbox": [
+                815.4413276190629,
+                1944.0899045933088,
+                839.0784055954292,
+                1965.3724845852862
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "698dc7d1-5195-41d8-bf1d-3f2cf576fb15",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.669769787646,
+                1941.725173483089,
+                1070.7616789545589,
+                1970.1019468057254
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "cb6a9cb7-1a74-4839-9bb9-4f89407e298e",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0476641663745,
+                1941.725173483089,
+                1295.412157738014,
+                1967.7372156955057
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "03cda5a8-e95c-45de-aa40-a090b97e90e8",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                253.11525698823655,
+                2000.8434512385818,
+                366.5732312747947,
+                2024.4907623407787
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "Mécarbame",
+            "uuid": "69d164bf-8ba0-430a-ab5c-7183969b38cd",
+            "vertical": false,
+            "translation": "Mecarbam"
+        },
+        {
+            "bbox": [
+                815.495563185966,
+                1998.478720128362,
+                839.1326411623324,
+                2026.8554934509984
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "ae2872a5-8edd-46a3-92df-27101b882fed",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.684096163809,
+                1996.1139890181423,
+                1066.0485897354486,
+                2026.8554934509984
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "06c46d47-c6de-4b53-b214-438ca4d0f6b5",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0466408537916,
+                1996.1139890181423,
+                1297.7748422230675,
+                2024.4907623407787
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "f5896dcd-f114-4894-a1c0-0cbc8675f2c8",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                250.75154919059986,
+                2052.8675356634153,
+                411.4836794298906,
+                2078.879577875832
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "Methamidophos",
+            "uuid": "38664ce9-6797-4056-8c32-05faa8cb1491",
+            "vertical": false,
+            "translation": "Methamidophos"
+        },
+        {
+            "bbox": [
+                810.7773574039406,
+                2052.8675356634153,
+                841.5055587732166,
+                2081.2443089860517
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "1b140cef-bde3-4952-9ec5-a6fe9acba8c6",
+            "vertical": true,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.6933059770568,
+                2050.502804553196,
+                1070.7852151439697,
+                2083.6090400962717
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "34469bf0-f6a2-4464-b841-f7bc76814a24",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0476641663745,
+                2052.8675356634153,
+                1297.7758655356508,
+                2076.5148467656127
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "8056083e-06d6-445c-a8b9-a6d03444627e",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                255.47896478587307,
+                2104.891620088249,
+                352.39098448897477,
+                2142.7273178517644
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "Métalaxyl",
+            "uuid": "fcc19b59-2da2-4a6f-9f6a-f1972f3278c5",
+            "vertical": true,
+            "translation": "Metalaxyl"
+        },
+        {
+            "bbox": [
+                810.7661009655267,
+                2107.256351198469,
+                843.8580101324395,
+                2137.997855631325
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "22a8267d-f69f-4f0b-b708-eb84ec49cf19",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.682049538643,
+                2107.256351198469,
+                1066.0465431102825,
+                2135.6331245211054
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "45aa51ab-4cf1-420c-8d66-432a7a9748db",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1269.410348651428,
+                2107.256351198469,
+                1297.7748422230675,
+                2135.6331245211054
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "805fb0c9-05b0-4b55-aed0-7f81a8e7abe8",
+            "vertical": true,
+            "translation": "(b)"
+        },
+        {
+            "bbox": [
+                253.1162803008195,
+                2159.2804356233023,
+                387.8476247661074,
+                2187.6572089459387
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "Méthidathion",
+            "uuid": "7e9cf32d-f226-4d5b-9de9-3704f8b0f902",
+            "vertical": false,
+            "translation": "Methidathion"
+        },
+        {
+            "bbox": [
+                813.1369719512448,
+                2159.2804356233023,
+                841.5014655228844,
+                2192.386671166378
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "(c)",
+            "uuid": "769bbd81-88d3-4fad-bae7-01eb58ef171c",
+            "vertical": false,
+            "translation": "(c)"
+        },
+        {
+            "bbox": [
+                1037.6892127267247,
+                2156.9157045130823,
+                1068.4174140960008,
+                2187.6572089459387
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "(a)",
+            "uuid": "7cc2a0ad-99da-436c-84b1-52ab6e6c7abd",
+            "vertical": true,
+            "translation": "(a)"
+        },
+        {
+            "bbox": [
+                1267.0466408537916,
+                2161.645166733522,
+                1295.411134425431,
+                2185.292477835719
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "(b)",
+            "uuid": "921cc576-b9a5-4d95-ab56-982cf18a6190",
+            "vertical": true,
+            "translation": "(b)"
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

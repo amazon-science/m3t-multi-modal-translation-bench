@@ -1,0 +1,1169 @@
+{
+    "file": "jrc31999L0027.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                151.47687898558604,
+                155.1783088415573,
+                257.91172488971216,
+                185.46462752706935
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "6. 5. 1999",
+            "uuid": "26eecd89-b75a-4e2c-a101-63213c515756",
+            "vertical": false,
+            "translation": "1999 年 5 月 6 日"
+        },
+        {
+            "bbox": [
+                360.8852749920782,
+                156.04363223257172,
+                405.0167964645208,
+                182.86865735402554
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "0faeea85-8444-4a4f-bcfd-c906344d93a9",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                568.5630230976901,
+                150.8516918864841,
+                1088.6227173121604,
+                183.73398074504024
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "464af425-422c-4d31-b220-35e1fd5c7971",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                1401.8699873714586,
+                148.25572171344004,
+                1509.1701572260245,
+                185.46462752706935
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 118/47",
+            "uuid": "686c38da-80dc-4e53-b1bd-211c28571911",
+            "vertical": false,
+            "translation": "L 118/47"
+        },
+        {
+            "bbox": [
+                362.6248731055268,
+                240.91492117115956,
+                1362.9393598142246,
+                658.0007956402159
+            ],
+            "order": "56",
+            "label": "Table",
+            "text": "",
+            "uuid": "25e47a0c-796c-4251-9754-5c2dd1bf1765",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                681.0629953781275,
+                252.1374246646117,
+                771.0566862238928,
+                303.1915047344758
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Sample 1 A 100",
+            "uuid": "5ed11cd4-f97b-4f0b-8328-6883ee44e82e",
+            "vertical": false,
+            "translation": "样品 1 A 100"
+        },
+        {
+            "bbox": [
+                824.7067711511759,
+                253.86807144664135,
+                912.1044901456208,
+                297.9995643883877
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Sample 2 O 100",
+            "uuid": "d3896c34-3b95-40d7-96ed-ef27306c5e6f",
+            "vertical": false,
+            "translation": "样品 2 O 100"
+        },
+        {
+            "bbox": [
+                964.023927172024,
+                251.27210127359726,
+                1050.556322216029,
+                303.1915047344758
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Sample 3 L 1",
+            "uuid": "f2bd4bcb-d973-452c-9b02-ab2de3e93b3d",
+            "vertical": false,
+            "translation": "样品 3 L 1"
+        },
+        {
+            "bbox": [
+                1113.7249705981528,
+                249.5414544915679,
+                1182.9508866333565,
+                298.86488777940235
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Sample Z 1",
+            "uuid": "7a51f43e-3ac2-4b25-a662-9b89fb32372f",
+            "vertical": false,
+            "translation": "样品 Z 1"
+        },
+        {
+            "bbox": [
+                1247.0196101374215,
+                253.9132528174572,
+                1332.2760898193396,
+                294.03392320063216
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Sample 5 K 1",
+            "uuid": "248c6ec9-a87f-440d-9fd9-4601b1beb916",
+            "vertical": false,
+            "translation": "样品 5 K 1"
+        },
+        {
+            "bbox": [
+                364.3642910775618,
+                332.3670505733762,
+                384.4246392380131,
+                352.42738576496413
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "L",
+            "uuid": "1bb842b1-c542-48cf-b032-1feb15a83cb3",
+            "vertical": false,
+            "translation": "L"
+        },
+        {
+            "bbox": [
+                698.9450747546039,
+                329.0236613747783,
+                734.059540232706,
+                354.1966417853711
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "77bc653a-9f22-4274-8367-685afb97d0d5",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                840.7975598882814,
+                325.68027217618067,
+                872.8452847413953,
+                354.1966417853711
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "882ebaf6-254d-4719-9b00-33d2648b0054",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                987.3646582718883,
+                329.0168502054419,
+                1011.3105192521181,
+                355.7788842060352
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "9159c1b0-842c-4e84-8365-235659ad0a92",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1128.3292168547512,
+                327.35154397105913,
+                1156.7480434153904,
+                357.44204675844054
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "11",
+            "uuid": "fa99bc98-eb85-48e4-85ca-e99a800c7f1d",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                1280.8419312488672,
+                322.33646017316227,
+                1299.235222689778,
+                355.03270048723084
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "6",
+            "uuid": "8f5255d0-1771-474f-b3b5-1523437dccac",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                362.69259539752414,
+                365.8005197549354,
+                382.75294355797547,
+                384.189160347224
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "n",
+            "uuid": "31e0056a-0f48-4d36-a382-da9a74580849",
+            "vertical": false,
+            "translation": "n"
+        },
+        {
+            "bbox": [
+                703.1253682639018,
+                360.8851114002478,
+                730.7153054252677,
+                390.9832246671926
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "dd507627-79a7-4106-9819-b02f24b016cd",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                842.7471714744506,
+                360.8851114002478,
+                874.5174021451144,
+                389.3111072634734
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "a2ddf365-09ae-4d0f-870c-c5b223b0000b",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                985.8206947718539,
+                364.0133562062179,
+                1014.6539106121933,
+                385.88617245670275
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "3fdb43d2-8d37-4a29-8855-61d2d22975b5",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                1123.3141298146384,
+                361.7211701021073,
+                1159.6134194792292,
+                389.3111072634734
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "19",
+            "uuid": "f5633af5-ca01-4885-a9d9-9d7bfe158ecc",
+            "vertical": false,
+            "translation": "19"
+        },
+        {
+            "bbox": [
+                1272.0950453379855,
+                365.8005197549354,
+                1299.235222689778,
+                383.4586963504562
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "12",
+            "uuid": "cdca9df9-497c-4f0d-bd09-882d9acaddbb",
+            "vertical": false,
+            "translation": "12"
+        },
+        {
+            "bbox": [
+                364.31906526253044,
+                395.8032121596285,
+                426.6223896942141,
+                419.16694371702357
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Mean",
+            "uuid": "74c36fdc-db45-430c-87f8-00fd50e9edec",
+            "vertical": false,
+            "translation": "平均值"
+        },
+        {
+            "bbox": [
+                687.9502227271091,
+                395.8032121596285,
+                749.3882232083528,
+                422.62823728108236
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "100,8",
+            "uuid": "919c4735-03d8-49eb-a579-579c14918453",
+            "vertical": false,
+            "translation": "100.8"
+        },
+        {
+            "bbox": [
+                835.7989080185283,
+                396.43658970693656,
+                889.3229760197148,
+                420.1106967074614
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "103,5",
+            "uuid": "5f562979-0339-4cd9-a869-a42ff8600657",
+            "vertical": false,
+            "translation": "103.5"
+        },
+        {
+            "bbox": [
+                998.4297300221335,
+                396.66853555064296,
+                1042.7330424075296,
+                419.8533694574557
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "0,89",
+            "uuid": "951db153-6644-4264-afca-25710c1ab53c",
+            "vertical": false,
+            "translation": "0.89"
+        },
+        {
+            "bbox": [
+                1139.6493248568156,
+                397.5338589416576,
+                1182.915522378818,
+                420.0322671080383
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "1,15",
+            "uuid": "4b8d7350-c52f-4d96-92f5-38b0572b93aa",
+            "vertical": false,
+            "translation": "1.15"
+        },
+        {
+            "bbox": [
+                1279.8318048281033,
+                394.93788876861385,
+                1324.8286502509861,
+                420.89759049905274
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "0,89",
+            "uuid": "e740fb25-ce50-4baa-9aea-8b0a328b2750",
+            "vertical": false,
+            "translation": "0.89"
+        },
+        {
+            "bbox": [
+                359.1271215598902,
+                426.95485423615526,
+                472.48455906753674,
+                458.971819703697
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Sr (mg/kg)",
+            "uuid": "84a89290-4bbd-4e6e-8c51-449ca1ab438a",
+            "vertical": false,
+            "translation": "Sr（毫克/千克）"
+        },
+        {
+            "bbox": [
+                715.6405891411907,
+                433.01211797325783,
+                760.6374345640735,
+                453.7798793576091
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "5,88",
+            "uuid": "ef326f43-755c-4f4a-b046-04978ec0da46",
+            "vertical": false,
+            "translation": "5.88"
+        },
+        {
+            "bbox": [
+                856.899742518996,
+                430.4037867076895,
+                901.6852384858017,
+                451.24729395815166
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "7,64",
+            "uuid": "221af407-ba14-4ced-9469-d208329c8bf4",
+            "vertical": false,
+            "translation": "7.64"
+        },
+        {
+            "bbox": [
+                999.4668448855273,
+                431.2814711912285,
+                1047.05966215973,
+                452.04923257558
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "0,15",
+            "uuid": "e1a05360-5748-4ef0-b66f-93861b2ce531",
+            "vertical": false,
+            "translation": "0.15"
+        },
+        {
+            "bbox": [
+                1135.3227051046151,
+                430.41614780021405,
+                1188.9727900318983,
+                450.3185857935509
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "0,02",
+            "uuid": "2c5d617e-f809-47e0-b5cd-aa0d135312a3",
+            "vertical": false,
+            "translation": "0.02"
+        },
+        {
+            "bbox": [
+                1282.4277766794237,
+                430.41614780021405,
+                1323.0980023501058,
+                455.5105261396387
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "0,03",
+            "uuid": "1fe6f76e-3f58-40ac-aa74-4d9aab4fdef9",
+            "vertical": false,
+            "translation": "0.03"
+        },
+        {
+            "bbox": [
+                366.91503711385064,
+                466.7597302228287,
+                449.98613635609536,
+                497.91137229935595
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "CV1, (%)",
+            "uuid": "b1510f59-97f8-4db3-8b09-263d90ed32ae",
+            "vertical": false,
+            "translation": "CV1, (%)"
+        },
+        {
+            "bbox": [
+                714.7752651907508,
+                467.62505361384336,
+                760.6374345640735,
+                489.2581383892093
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "5,83",
+            "uuid": "a24ee0b5-115b-40c8-a896-a0959c851a94",
+            "vertical": false,
+            "translation": "5.83"
+        },
+        {
+            "bbox": [
+                857.1570697690017,
+                467.7162379585168,
+                902.4466657700059,
+                492.41965395906436
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "7,38",
+            "uuid": "9de982e0-031b-41bd-9148-d8d29f63b2cb",
+            "vertical": false,
+            "translation": "7.38"
+        },
+        {
+            "bbox": [
+                986.4869856289264,
+                468.49037700485803,
+                1044.46369030841,
+                491.8541085622534
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "17,32",
+            "uuid": "744791f0-a8d9-43db-ae21-de5d12897b69",
+            "vertical": false,
+            "translation": "17.32"
+        },
+        {
+            "bbox": [
+                1142.2452967081354,
+                467.62505361384336,
+                1189.8381139823382,
+                489.2581383892093
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "1,92",
+            "uuid": "421ada77-e317-421d-8957-24cd0174fb92",
+            "vertical": false,
+            "translation": "1.92"
+        },
+        {
+            "bbox": [
+                1283.2931006298636,
+                471.0863471779021,
+                1322.2326783996657,
+                491.8541085622534
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "3,34",
+            "uuid": "70e5571d-e61a-4786-b57a-41e45cb9572f",
+            "vertical": false,
+            "translation": "3.34"
+        },
+        {
+            "bbox": [
+                365.1843892129706,
+                504.8339594274727,
+                475.0805309188569,
+                534.2549547219709
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "SR (mg/kg)",
+            "uuid": "6e64fff1-68c3-4f4c-96a7-008cc4ebde11",
+            "vertical": false,
+            "translation": "SR（毫克/千克）"
+        },
+        {
+            "bbox": [
+                714.3404460158358,
+                509.1459252094352,
+                758.9067866631932,
+                531.790723209937
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "7,59",
+            "uuid": "e983fa0e-f6bb-4533-a45b-e2e6d7703570",
+            "vertical": false,
+            "translation": "7.59"
+        },
+        {
+            "bbox": [
+                857.1570697690017,
+                509.1459252094352,
+                899.1014115199315,
+                532.3053777099487
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "7,64",
+            "uuid": "e520dfb2-6024-4a22-89d5-36631e6db70e",
+            "vertical": false,
+            "translation": "7.64"
+        },
+        {
+            "bbox": [
+                997.736196984647,
+                504.8339594274727,
+                1046.4405782038561,
+                535.2099545270173
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "0,17",
+            "uuid": "82f02d60-da82-4cbf-a69f-e317e6cda4c6",
+            "vertical": false,
+            "translation": "0.17"
+        },
+        {
+            "bbox": [
+                1132.726733253295,
+                509.16057638254614,
+                1184.6461702796978,
+                533.3896313309561
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "0,11",
+            "uuid": "8cba8c96-ab8d-4a12-a943-7778cefaeb8e",
+            "vertical": false,
+            "translation": "0.11"
+        },
+        {
+            "bbox": [
+                1277.235832976783,
+                503.0150907163755,
+                1333.5136294660203,
+                533.9492626851797
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "0,12",
+            "uuid": "578c801b-4081-4dcd-a393-72af40bbe6b3",
+            "vertical": false,
+            "translation": "0.12"
+        },
+        {
+            "bbox": [
+                363.45374131209036,
+                547.2348055871904,
+                451.71678425697553,
+                580.1170944457466
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "CVR (%)",
+            "uuid": "d43f06b1-a2dd-425d-bf55-1462d76dbcc2",
+            "vertical": false,
+            "translation": "CVR (%)"
+        },
+        {
+            "bbox": [
+                714.5977732658415,
+                550.5756124603536,
+                759.8873692668454,
+                571.9337742108271
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "7,53",
+            "uuid": "6208672b-de12-4cd6-a159-c44e426e3ee5",
+            "vertical": false,
+            "translation": "7.53"
+        },
+        {
+            "bbox": [
+                856.899742518996,
+                548.0023399602966,
+                899.1014115199315,
+                571.9337742108271
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "7,38",
+            "uuid": "ca49a2a7-7abb-4010-ba93-012be233a0d2",
+            "vertical": false,
+            "translation": "7.38"
+        },
+        {
+            "bbox": [
+                983.8910137776064,
+                549.8307757602342,
+                1041.8677184570897,
+                570.5985371445855
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "18,61",
+            "uuid": "6fc3c7cc-5299-44b6-b0fc-bb2057990d70",
+            "vertical": false,
+            "translation": "18.61"
+        },
+        {
+            "bbox": [
+                1137.918676955935,
+                548.9654523692195,
+                1182.0501984283778,
+                575.7904774906733
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "9,67",
+            "uuid": "d297db74-c6c0-460d-b577-55acce7dbd4d",
+            "vertical": false,
+            "translation": "9.67"
+        },
+        {
+            "bbox": [
+                1270.3132413732626,
+                547.2348055871904,
+                1326.5592981518662,
+                574.0598307086442
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "13,65",
+            "uuid": "797f6165-4f22-4544-b629-28328943ede3",
+            "vertical": false,
+            "translation": "13.65"
+        },
+        {
+            "bbox": [
+                367.7803610642907,
+                607.807442958215,
+                623.9162503945455,
+                638.0937616437274
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Nominal content (mg/kg)",
+            "uuid": "e4cec642-e87b-42bc-9cf0-093e80a1c4d6",
+            "vertical": false,
+            "translation": "标称含量（毫克/千克）"
+        },
+        {
+            "bbox": [
+                692.2768424793094,
+                610.4034131312592,
+                732.0817441995517,
+                636.3631148616983
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "97d49e7e-6ce6-44ea-9db4-a756332e8335",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                828.9980266488374,
+                606.9421195672004,
+                873.12954812128,
+                632.9018212976395
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "100",
+            "uuid": "43358004-1daa-448d-b33d-ce749e3af66e",
+            "vertical": false,
+            "translation": "100"
+        },
+        {
+            "bbox": [
+                992.544253282007,
+                610.4034131312592,
+                1021.0999436465285,
+                628.5752043425663
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "e511bf2f-a723-472b-bac2-738f712e677a",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1132.726733253295,
+                610.4034131312592,
+                1158.6864517664965,
+                639.8244084257568
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "10e40f3a-1708-4dde-9c8e-cd87af4ec0cc",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1278.9664808776631,
+                612.9993833043029,
+                1297.1382838369045,
+                632.0364979066251
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "3d3aa60b-e22f-4829-adf2-b6287f3cdc3b",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                361.7230934112103,
+                670.9760505022838,
+                646.5600594857572,
+                697.0663549605334
+            ],
+            "order": "59",
+            "label": "Caption",
+            "text": "L = number of laboratories.",
+            "uuid": "c92ef374-6727-4bc3-84fe-4ebcf5b2d7c2",
+            "vertical": false,
+            "translation": "L = 实验室数量。"
+        },
+        {
+            "bbox": [
+                362.58841736165033,
+                707.3196329248987,
+                669.7784197678682,
+                728.0873943092499
+            ],
+            "order": "60",
+            "label": "Caption",
+            "text": "n = number of single values.",
+            "uuid": "39ca1b6f-fc6b-4899-9fdc-10fb0c2d3b13",
+            "vertical": false,
+            "translation": "n = 单个值的数量。"
+        },
+        {
+            "bbox": [
+                359.9924455103302,
+                728.9527177002643,
+                750.2535471587929,
+                759.2390363857769
+            ],
+            "order": "61",
+            "label": "Caption",
+            "text": "s₁ = Standard deviation of repeatability.",
+            "uuid": "b6e7dcdf-99a9-4cf9-b44e-742d85c24619",
+            "vertical": false,
+            "translation": "s₁ = 重复性标准偏差。"
+        },
+        {
+            "bbox": [
+                364.3190652625305,
+                762.7003299498355,
+                784.001181225955,
+                789.5253550712893
+            ],
+            "order": "62",
+            "label": "Caption",
+            "text": "CVr = coefficient of variation of repeatability.",
+            "uuid": "e6ef6736-b7f0-4bbc-8655-5c5edc230e7b",
+            "vertical": false,
+            "translation": "CVr = 重复性变异系数。"
+        },
+        {
+            "bbox": [
+                359.1271215598902,
+                797.313265590421,
+                778.8092375233144,
+                821.542320538831
+            ],
+            "order": "63",
+            "label": "Caption",
+            "text": "SR = standard deviation of reproducibility.",
+            "uuid": "696c1d7a-eb4b-4ee4-96e8-6e0eb167139d",
+            "vertical": false,
+            "translation": "SR = 重现性标准偏差。"
+        },
+        {
+            "bbox": [
+                363.4537413120905,
+                825.8689374939041,
+                816.8834913426767,
+                855.2899327884021
+            ],
+            "order": "64",
+            "label": "Caption",
+            "text": "CVR = coefficient of variation of reproductibility.",
+            "uuid": "a3f22207-901a-4670-82ac-6c9d25e2b42a",
+            "vertical": false,
+            "translation": "CVR = 可复制性变异系数。"
+        },
+        {
+            "bbox": [
+                289.067971360772,
+                940.2640846546684,
+                526.1667337813458,
+                978.3383138593124
+            ],
+            "order": "65",
+            "label": "List-item",
+            "text": "9. Observations",
+            "uuid": "cff022cb-f5df-47e7-81c7-7bf364ff7062",
+            "vertical": false,
+            "translation": "9. 观察"
+        },
+        {
+            "bbox": [
+                360.88985924729616,
+                992.165760674819,
+                1367.5567523259658,
+                1050.2075922700233
+            ],
+            "order": "66",
+            "label": "Text",
+            "text": "The diclazuril response must have been previously demonstrated to be linear over the range of concentrations being measured.",
+            "uuid": "780a4b98-e886-478a-8791-3a83827e2e2e",
+            "vertical": false,
+            "translation": "必须事先证明地克珠利响应在测量浓度范围内呈线性。"
+        },
+        {
+            "bbox": [
+                785.7639189133608,
+                1093.408597423532,
+                872.2963139573658,
+                1125.4255628910735
+            ],
+            "order": "67",
+            "label": "Section-header",
+            "text": "Part C",
+            "uuid": "8a997425-5ce6-4381-85ac-41320193af98",
+            "vertical": false,
+            "translation": "C 部分"
+        },
+        {
+            "bbox": [
+                629.1402838837117,
+                1144.4626774933956,
+                1028.0546250365749,
+                1177.344966351952
+            ],
+            "order": "68",
+            "label": "Section-header",
+            "text": "DETERMINATION OF CARBADOX",
+            "uuid": "04aa5d72-8cc6-4cb3-bacf-758bb949514a",
+            "vertical": false,
+            "translation": "卡巴氧的测定"
+        },
+        {
+            "bbox": [
+                524.4360858804656,
+                1195.5167575632595,
+                1140.5467385937811,
+                1226.6683996397867
+            ],
+            "order": "69",
+            "label": "Formula",
+            "text": "Methyl 3-(2-quinoxalinylmethylene)carbazate N^1,N^4 -dioxide",
+            "uuid": "80af29fd-cf14-4ef1-a197-0293bb1a90aa",
+            "vertical": false,
+            "translation": "甲基 3-(2-喹喔啉亚甲基)氨基甲酸酯 N^1, N^4 -二氧化物"
+        },
+        {
+            "bbox": [
+                289.9311123325368,
+                1270.0639138506424,
+                585.871903383034,
+                1302.9462027091984
+            ],
+            "order": "70",
+            "label": "List-item",
+            "text": "1 . Purpose and scope",
+            "uuid": "b65a0b98-ae59-45ca-af55-fd38ae78675a",
+            "vertical": false,
+            "translation": "1. 目的和范围"
+        },
+        {
+            "bbox": [
+                360.88767626862096,
+                1322.802680671019,
+                1364.6634587790788,
+                1388.567258388132
+            ],
+            "order": "71",
+            "label": "Text",
+            "text": "This method is for the determination of carbadox in feedingstuffs, premixtures and preparations. The detection limit is 1 mg/kg. The limit of determination is 10 mg/kg.",
+            "uuid": "630a989c-fda2-4c9b-8bd2-699b551a4566",
+            "vertical": false,
+            "translation": "本方法用于测定饲料、预混料和制剂中的卡巴氧。检测限值为 1 毫克/千克。测定限值为 10 毫克/千克。"
+        },
+        {
+            "bbox": [
+                285.60449258033657,
+                1424.045517419732,
+                475.97576167714766,
+                1457.7931296693027
+            ],
+            "order": "72",
+            "label": "List-item",
+            "text": "2 . Principle",
+            "uuid": "9cedb4f8-047b-412b-ba0c-6153b9d770c0",
+            "vertical": false,
+            "translation": "2. 原理"
+        },
+        {
+            "bbox": [
+                354.83040861554065,
+                1474.234274098581,
+                1379.3739659365601,
+                1608.3593997058504
+            ],
+            "order": "73",
+            "label": "Text",
+            "text": "The sample is equilibrated with water and extracted with methanol-acetonitrile. For feedingstuffs, an aliquot portion of the filtered extract is subjected to clean-up on an aluminium oxide column. For premixtures and preparations an aliquot portion of the filtered extract is diluted to an appropriate concentration with water, methanol and acetonitrile. The content of carbadox is determined by reversed-phase highperformance liquid chromatography (HPLC) using a UV detector.",
+            "uuid": "de5fa378-d9a0-4283-9266-fa4394174190",
+            "vertical": false,
+            "translation": "将样品用水平衡并用甲醇-乙腈萃取。对于饲料，过滤提取物的等分部分在氧化铝柱上进行净化。对于预混料和制剂，用水、甲醇和乙腈将过滤提取物的等分部分稀释至适当的浓度。使用紫外检测器通过反相高效液相色谱 (HPLC) 测定卡巴氧的含量。"
+        },
+        {
+            "bbox": [
+                288.2004644316567,
+                1655.0868628206406,
+                468.1878461231872,
+                1687.1038282881827
+            ],
+            "order": "74",
+            "label": "List-item",
+            "text": "3 . Reagents",
+            "uuid": "2ff357b5-5fae-4bb5-8aed-11253cc6fc83",
+            "vertical": false,
+            "translation": "3. 试剂"
+        },
+        {
+            "bbox": [
+                289.0736471053276,
+                1707.993274327405,
+                473.38764854905827,
+                1734.8182994488589
+            ],
+            "order": "75",
+            "label": "List-item",
+            "text": "3.1. Methanol.",
+            "uuid": "ffe823c3-7acf-42a2-afc5-cf3585fba1aa",
+            "vertical": false,
+            "translation": "3.1. 甲醇。"
+        },
+        {
+            "bbox": [
+                287.34278090657995,
+                1750.3831776224756,
+                632.6070371321599,
+                1790.188053609149
+            ],
+            "order": "76",
+            "label": "List-item",
+            "text": "3.2. Acetonitrile, HPLC grade.",
+            "uuid": "4398e10e-1343-4ae1-b89f-0788bf742eee",
+            "vertical": false,
+            "translation": "3.2. 乙腈，HPLC 级。"
+        },
+        {
+            "bbox": [
+                279.78536184092826,
+                1805.2347223131806,
+                633.5916082465682,
+                1835.1848699419104
+            ],
+            "order": "77",
+            "label": "List-item",
+            "text": "3.3. Acetic acid, w = 100%.",
+            "uuid": "59680b4d-0650-4413-8703-d574f71c97d1",
+            "vertical": false,
+            "translation": "3.3. 乙酸，w = 100%。"
+        },
+        {
+            "bbox": [
+                280.4201893030596,
+                1858.5486014993057,
+                811.7290948732503,
+                1885.3736266207595
+            ],
+            "order": "78",
+            "label": "List-item",
+            "text": "3.4. Aluminium oxide: neutral, activity grade I.",
+            "uuid": "3c98c271-5342-430f-bd18-c9d2cb715753",
+            "vertical": false,
+            "translation": "3.4. 氧化铝：中性，活性等级 I。"
+        },
+        {
+            "bbox": [
+                283.8814851048198,
+                1902.6800944410522,
+                723.4660519283652,
+                1940.7543236456963
+            ],
+            "order": "79",
+            "label": "List-item",
+            "text": "3.5. Methanol-acetonitrile 1+1 (v+v).",
+            "uuid": "aa6b6580-9997-4854-a097-78b4b4aa67df",
+            "vertical": false,
+            "translation": "3.5. 甲醇-乙腈 1+1 (v+v)。"
+        },
+        {
+            "bbox": [
+                361.7606406444243,
+                1957.1954680749748,
+                1024.5987866815026,
+                1985.7511399784576
+            ],
+            "order": "80",
+            "label": "Text",
+            "text": "Mix 500 ml of methanol (3.1) with 500 ml of acetonitrile (3.2).",
+            "uuid": "6074dd31-6aad-4e0a-8560-ed1e00abfdf5",
+            "vertical": false,
+            "translation": "将 500 毫升甲醇 (3.1) 与 500 毫升乙腈 (3.2) 混合。"
+        },
+        {
+            "bbox": [
+                289.0734288074601,
+                2003.0576077987505,
+                622.2231497268793,
+                2047.1891007404968
+            ],
+            "order": "81",
+            "label": "List-item",
+            "text": "3.6. Acetic acid, o = 10 %.",
+            "uuid": "89dd212c-2e6e-40cc-872b-17c456fab7c0",
+            "vertical": false,
+            "translation": "3.6. 乙酸，o = 10%。"
+        },
+        {
+            "bbox": [
+                361.7606406444243,
+                2061.899598387746,
+                917.2986168269364,
+                2092.185917073258
+            ],
+            "order": "82",
+            "label": "Text",
+            "text": "Dilute 10 ml acetic acid (3.3) to 100 ml with water.",
+            "uuid": "6b5ce5c8-0e9c-4904-bede-bd10888c1508",
+            "vertical": false,
+            "translation": "用水稀释 10 毫升乙酸 (3.3) 至 100 毫升。"
+        },
+        {
+            "bbox": [
+                289.29263141804716,
+                2108.7882580969062,
+                668.9523894335823,
+                2141.5866069854983
+            ],
+            "order": "83",
+            "label": "List-item",
+            "text": "3.7. Sodium acetate, CH3COONa.",
+            "uuid": "4af7d972-6920-48ae-bf30-8f38e46a9014",
+            "vertical": false,
+            "translation": "3.7. 乙酸钠，CH3COONa。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

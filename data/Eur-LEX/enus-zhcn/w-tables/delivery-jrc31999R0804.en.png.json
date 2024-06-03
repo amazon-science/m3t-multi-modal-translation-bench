@@ -1,0 +1,917 @@
+{
+    "file": "jrc31999R0804.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                196.27268214823567,
+                141.9368205696069,
+                919.8804018754661,
+                175.04305611268296
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "B. Annex II to Regulation (EEC) No 2377/90 is amended as follows:",
+            "uuid": "db2c4d77-f767-42c1-83bf-1459b7fba49a",
+            "vertical": false,
+            "translation": "B. 条例 (EEC) 第 2377/90 号附件二修订如下："
+        },
+        {
+            "bbox": [
+                222.2847243606525,
+                201.05509832509964,
+                510.7819198074568,
+                234.16133386817572
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "2. Organic compounds",
+            "uuid": "74532dc0-8e45-469f-8f17-ec1a0529def1",
+            "vertical": false,
+            "translation": "2. 有机化合物"
+        },
+        {
+            "bbox": [
+                290.861926557024,
+                276.72649385213043,
+                2114.069612536418,
+                621.9772359442077
+            ],
+            "order": "10",
+            "label": "Table",
+            "text": "1-Methyl-2-pyrrolidone Cefacetrile Enilconazole Etamsylate Strychnine Pharmacologically active substance (s) Equidae Bovine Bovine, equidae All food producing species Bovine Animal species For intramammary use only and for all tissues except milk For topical use only For oral use only at dose to 0,1 mg/kg bw' Other provisions",
+            "uuid": "07294a89-af5d-4eb3-82bb-bb9ab747c3f2",
+            "vertical": false,
+            "translation": "1-甲基-2-吡咯烷酮 头孢腈 恩康唑 酚磺乙胺 士的宁 药理活性物质 马科 牛科 牛科，马科 所有食物生产物种 牛科 动物种类 仅限乳房内使用，用于除牛奶以外的所有组织 仅限局部使用 仅限口服使用，剂量0.1毫克/千克体重 bw” 其他规定"
+        },
+        {
+            "bbox": [
+                439.83998650086556,
+                295.64434273388787,
+                756.7139552703062,
+                321.65638494630474
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Pharmacologically active substance(s)",
+            "uuid": "54a2085f-75c8-4d8e-97ab-daff39c0e7e6",
+            "vertical": false,
+            "translation": "药理活性物质"
+        },
+        {
+            "bbox": [
+                293.2266576672437,
+                345.303696048502,
+                534.4292309096538,
+                380.7746627017975
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "'1-Methyl-2-pyrrolidone",
+            "uuid": "de34e1ad-2ded-4ba7-b581-9782e4ef0516",
+            "vertical": false,
+            "translation": "“1-甲基-2-吡咯烷酮"
+        },
+        {
+            "bbox": [
+                295.5913887774634,
+                406.78670491421417,
+                406.7337509577896,
+                432.7987471266309
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Cefacetrile",
+            "uuid": "510e7ab7-a10f-4ba7-9404-769fb97768ca",
+            "vertical": false,
+            "translation": "头孢菌素"
+        },
+        {
+            "bbox": [
+                293.2266576672437,
+                463.5402515594871,
+                425.6515998395473,
+                489.552293771904
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Enilconazole",
+            "uuid": "fa40e7ef-80ca-4c07-8fbc-f9518ea46e84",
+            "vertical": false,
+            "translation": "恩康唑"
+        },
+        {
+            "bbox": [
+                293.2266576672437,
+                513.199604874101,
+                404.3690198475699,
+                546.3058404171771
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Etamsylate",
+            "uuid": "00c148ec-26fc-4587-90f6-19d760dc40ad",
+            "vertical": false,
+            "translation": "酚磺乙胺"
+        },
+        {
+            "bbox": [
+                293.2266576672437,
+                569.953151519374,
+                404.3690198475699,
+                600.6946559522303
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Strychnine",
+            "uuid": "1c816b43-4f89-45eb-8d9a-db3c2ea17544",
+            "vertical": false,
+            "translation": "士的宁"
+        },
+        {
+            "bbox": [
+                1106.694159582823,
+                298.0090738441077,
+                1239.1191017551266,
+                324.02111605652436
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Animal species",
+            "uuid": "9f2298ff-d511-40e1-95f4-2215761a6016",
+            "vertical": false,
+            "translation": "动物种类"
+        },
+        {
+            "bbox": [
+                910.4214774345872,
+                347.6684271587218,
+                993.1870662922771,
+                378.40993159157773
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Equidae",
+            "uuid": "76c6787c-a39b-47b0-830e-35938d22804c",
+            "vertical": false,
+            "translation": "马科"
+        },
+        {
+            "bbox": [
+                910.4214774345872,
+                402.0572426937749,
+                986.092872961618,
+                432.7987471266309
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Bovine",
+            "uuid": "cc1b76e6-8bdb-4970-8600-dd6085b372a0",
+            "vertical": false,
+            "translation": "牛科"
+        },
+        {
+            "bbox": [
+                910.4214774345872,
+                461.17552044926754,
+                1080.682117370406,
+                491.9170248821236
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Bovine, equidae",
+            "uuid": "79fdc503-b485-4127-a9c8-00a3092283ee",
+            "vertical": false,
+            "translation": "牛科、马科"
+        },
+        {
+            "bbox": [
+                910.4214774345872,
+                515.5643359843208,
+                1196.5539417711718,
+                546.3058404171771
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "All food producing species",
+            "uuid": "6901287e-ab14-4e34-b2fe-c38dd7ae123c",
+            "vertical": false,
+            "translation": "所有食物生产物种"
+        },
+        {
+            "bbox": [
+                912.786208544807,
+                572.3178826295938,
+                986.092872961618,
+                598.3299248420104
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Bovine",
+            "uuid": "db0ca12b-7302-432a-9fe8-e7bfc847adf4",
+            "vertical": false,
+            "translation": "牛科"
+        },
+        {
+            "bbox": [
+                1702.6063993581893,
+                293.2796116236683,
+                1853.9491904122503,
+                321.65638494630474
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Other provisions",
+            "uuid": "dbe9d635-c636-4dc6-8171-f8dd47d7850e",
+            "vertical": false,
+            "translation": "其他规定"
+        },
+        {
+            "bbox": [
+                1451.9449016749002,
+                404.4219738039948,
+                2073.869183662683,
+                432.7987471266309
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "For intramammary use only and for all tissues except milk",
+            "uuid": "ba17572d-e520-4b99-91e8-f1575c5c401f",
+            "vertical": false,
+            "translation": "仅限乳房内使用，用于除牛奶以外的所有组织"
+        },
+        {
+            "bbox": [
+                1454.30963278512,
+                458.8107893390479,
+                1669.5001638151132,
+                487.18756266168435
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "For topical use only",
+            "uuid": "2bf651af-f6df-4743-bb46-d5e4cf492381",
+            "vertical": false,
+            "translation": "仅限局部使用"
+        },
+        {
+            "bbox": [
+                1456.6743638953399,
+                569.953151519374,
+                1913.067468167743,
+                603.05938706245
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "For oral use only at dose to 0,1 mg/kg bw'",
+            "uuid": "23141054-ade1-4c97-ab47-da63a64c5b32",
+            "vertical": false,
+            "translation": "仅限口服使用 剂量0.1 毫克/千克体重 bw\""
+        },
+        {
+            "bbox": [
+                2156.6347725203727,
+                153.76047612070553,
+                2185.0115458430096,
+                276.72649385213043
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "17.4.1999",
+            "uuid": "59e68ace-50fd-4305-8d56-408b186527d8",
+            "vertical": true,
+            "translation": "1999 年 4 月 17 日"
+        },
+        {
+            "bbox": [
+                2159.0637217068984,
+                366.9211341455449,
+                2179.253208537896,
+                408.5200317372993
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "c69e1fa1-c6c9-4c16-aa6c-8f133d411ec9",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                2156.6347725203727,
+                567.5884204091544,
+                2185.0115458430096,
+                1090.1939957677098
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "70db542a-4f0c-4f9f-a692-e76abf3f261a",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                2156.6347725203727,
+                1397.6090400962717,
+                2182.64681473279,
+                1501.6572089459387
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 102/61",
+            "uuid": "5a6b368b-57ca-41dc-abeb-b94bcf2ad38e",
+            "vertical": false,
+            "translation": "L 102/61"
+        },
+        {
+            "bbox": [
+                230.56521600511124,
+                658.6875059779577,
+                617.5854000136908,
+                685.4495399785509
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "6. Substances of vegetable origin",
+            "uuid": "7e8cadcc-785f-4dbd-8e62-d33cc4202272",
+            "vertical": false,
+            "translation": "6. 植物来源的物质"
+        },
+        {
+            "bbox": [
+                292.3237560064803,
+                728.6805179795094,
+                2112.1420680468227,
+                901.6044299833429
+            ],
+            "order": "26",
+            "label": "Table",
+            "text": "Centellae asiaticae extractum Pharmacologically active substance (s) Melissae aetheroleum All food producing species All food producing species Animal species For topical use only Other provisions",
+            "uuid": "3c7b2eee-3630-428a-a0fc-9093999b7680",
+            "vertical": false,
+            "translation": "积雪草提取物 药理活性物质 香蜂草油 所有食物生产物种 所有食物生产物种 动物种类 仅限局部使用 其他规定"
+        },
+        {
+            "bbox": [
+                440.5442520097661,
+                745.1494619798744,
+                755.5128060167485,
+                778.0873499806046
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Pharmacologically active substance(s)",
+            "uuid": "b5d0b9a6-5950-4003-9fab-974ccec8b4b4",
+            "vertical": false,
+            "translation": "药理学活性物质"
+        },
+        {
+            "bbox": [
+                292.3237560064803,
+                800.7321479811066,
+                605.233692013417,
+                829.5527999817455
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Centellae asiaticae extractum",
+            "uuid": "f3a9fab9-51e6-455d-b37c-a7015b0f225c",
+            "vertical": false,
+            "translation": "积雪草提取物"
+        },
+        {
+            "bbox": [
+                298.4996100066172,
+                856.3959301089604,
+                518.1461919529812,
+                883.0768679829322
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Melissae aetheroleum",
+            "uuid": "28077020-4d72-444f-9838-418d940306ea",
+            "vertical": false,
+            "translation": "香蜂草油"
+        },
+        {
+            "bbox": [
+                1105.4778660245065,
+                745.1494619798744,
+                1239.288036027473,
+                773.9701139805134
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "Animal species",
+            "uuid": "f64a5c48-839b-4e75-a0c5-63a1a91087e4",
+            "vertical": false,
+            "translation": "动物物种"
+        },
+        {
+            "bbox": [
+                909.9091560201712,
+                798.6735299810609,
+                1193.9984400264689,
+                827.4941819816999
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "All food producing species",
+            "uuid": "06b95d4e-99cf-428d-a4f8-5382edf692c0",
+            "vertical": false,
+            "translation": "所有食物生产物种"
+        },
+        {
+            "bbox": [
+                911.9677740202169,
+                854.256215982293,
+                1191.9398220264231,
+                887.1941039830234
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "All food producing species",
+            "uuid": "64779f09-f232-477f-a275-30b569afe685",
+            "vertical": false,
+            "translation": "所有食物生产物种"
+        },
+        {
+            "bbox": [
+                1702.477086037741,
+                745.1494619798744,
+                1848.6389640409814,
+                773.9701139805134
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Other provisions",
+            "uuid": "17961f00-f749-4b42-a5be-3ad6cecb1a70",
+            "vertical": false,
+            "translation": "其他规定"
+        },
+        {
+            "bbox": [
+                1457.5015440323104,
+                802.7907659811523,
+                1665.4219620369197,
+                827.4941819816999
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "'For topical use only'",
+            "uuid": "07b40911-7467-4017-a79e-0afa1c688abf",
+            "vertical": false,
+            "translation": "“仅限局部使用”"
+        },
+        {
+            "bbox": [
+                195.56871000433543,
+                940.71817198421,
+                924.3194820204907,
+                965.4215879847577
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "C. Annex III to Regulation (EEC) No 2377/90 is amended as follows:",
+            "uuid": "74549d35-79f3-459c-91e8-60965e0cb6ad",
+            "vertical": false,
+            "translation": "C. 条例 (EEC) 第 2377/90 号附件三修订如下："
+        },
+        {
+            "bbox": [
+                228.5065980050656,
+                971.5974419848944,
+                520.830354011546,
+                1002.4767119855788
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "1. Anti-infectious agents",
+            "uuid": "b83d38da-5e24-4657-a823-aaf83db43f63",
+            "vertical": false,
+            "translation": "1. 抗感染剂"
+        },
+        {
+            "bbox": [
+                228.5065980050656,
+                1004.5353299856246,
+                411.7236000091272,
+                1031.297363986218
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "1.2. Antibiotics",
+            "uuid": "a4ffb7a4-1607-45cf-bc7d-b4dccac9ed50",
+            "vertical": false,
+            "translation": "1.2. 抗生素"
+        },
+        {
+            "bbox": [
+                230.56521600511124,
+                1043.6490719864917,
+                454.9545780100856,
+                1066.2938699869935
+            ],
+            "order": "38",
+            "label": "List-item",
+            "text": "1.2.4. Cephalosporins",
+            "uuid": "208d5286-ad46-4d1c-b2f0-4ee0c0475b00",
+            "vertical": false,
+            "translation": "1.2.4. 头孢类药物"
+        },
+        {
+            "bbox": [
+                294.38237400652594,
+                1117.7593199881346,
+                2110.0834500467768,
+                1500.6622679966229
+            ],
+            "order": "39",
+            "label": "Table",
+            "text": "Cefacetrile Pharmacologically active substance (s) Cephapirin Marker residue Cefacetrile Sum of cephapirin and desacetylcephapirin Bovine Bovine Animal species MRLS 125 µg/kg 50 µg/kg 50 µg/kg 50 µg/kg 100 µg/kg 10 µg/kg Target tissues Milk Muscle Fat Liver Kidney Milk Other provisions Provisional MRLs expire on 1.1.2001 For intramammary use only Provisional MRLs expire on 1.1.2001",
+            "uuid": "a1a176af-a27c-444a-97f9-a55af4b4e29e",
+            "vertical": false,
+            "translation": "头孢菌素 药理活性物质 头孢匹林 标志物残留 头孢菌素 头孢匹林和去乙酰头孢匹林的总和 牛科 牛科 动物物种 MRLS 125 微克/千克 50 微克/千克 50 微克/千克 50 微克/千克 100 微克/千克 10 µ微克/千克 目标组织 牛奶 肌肉 脂肪 肝脏 肾脏 牛奶 其他规定 临时最大残留限量 于 2001 年 1 月 1 日到期 仅限乳房内使用 临时最大残留限量 于 2001 年 1 月 1 日到期"
+        },
+        {
+            "bbox": [
+                331.4374980073474,
+                1136.2868819885452,
+                541.4165340120023,
+                1185.6937139896406
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Pharmacologically active substance(s)",
+            "uuid": "88d932ce-e562-461a-933f-4332475a46c2",
+            "vertical": false,
+            "translation": "药理活性物质"
+        },
+        {
+            "bbox": [
+                292.3237560064803,
+                1216.5729839903252,
+                405.5477460089903,
+                1245.3936359909642
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "'Cefacetrile",
+            "uuid": "fe13a238-cf39-4f2b-9d39-2744f1b052a2",
+            "vertical": false,
+            "translation": "“头孢菌素"
+        },
+        {
+            "bbox": [
+                294.38237400652594,
+                1313.32802999247,
+                409.6649820090816,
+                1342.148681993109
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Cephapirin",
+            "uuid": "280bfe6a-1444-4cfc-bfb1-1a9dff904a1e",
+            "vertical": false,
+            "translation": "头孢匹林"
+        },
+        {
+            "bbox": [
+                646.4060520143297,
+                1146.5799719887737,
+                776.0989860172049,
+                1169.2247699892755
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Marker residue",
+            "uuid": "512070a5-4c6a-4562-9ecb-a8844bed317f",
+            "vertical": false,
+            "translation": "标志物残留"
+        },
+        {
+            "bbox": [
+                1006.6642020223161,
+                1146.5799719887737,
+                1140.4743720252825,
+                1171.2833879893212
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Animal species",
+            "uuid": "efaf0a24-19f7-4bd9-a9be-f4cef6c491d5",
+            "vertical": false,
+            "translation": "动物种类"
+        },
+        {
+            "bbox": [
+                586.7061300130064,
+                1220.6902199904164,
+                693.7542660153795,
+                1245.3936359909642
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "Cefacetrile",
+            "uuid": "528ade69-f9fa-4836-8e13-1a09e512f9ac",
+            "vertical": false,
+            "translation": "头孢菌素"
+        },
+        {
+            "bbox": [
+                860.5023240190759,
+                1220.6902199904164,
+                934.6125720207187,
+                1245.3936359909642
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "Bovine",
+            "uuid": "86fb6dda-ee8c-4b45-950d-346cc35d1497",
+            "vertical": false,
+            "translation": "牛科"
+        },
+        {
+            "bbox": [
+                586.7061300130064,
+                1315.3866479925157,
+                833.7402900184827,
+                1364.793479993611
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "Sum of cephapirin and desacetylcephapirin",
+            "uuid": "fb6fb621-fe16-46e5-a3eb-7df64e117ec3",
+            "vertical": false,
+            "translation": "头孢匹林和去乙酰头孢匹林的总和"
+        },
+        {
+            "bbox": [
+                862.5609420191216,
+                1313.32802999247,
+                934.6125720207187,
+                1338.0314459930175
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "Bovine",
+            "uuid": "3124ede2-4ea4-4adb-8032-f2c2cb84f2cf",
+            "vertical": false,
+            "translation": "牛科"
+        },
+        {
+            "bbox": [
+                1350.4534080299372,
+                1146.5799719887737,
+                1401.9188580310783,
+                1169.2247699892755
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "MRLs",
+            "uuid": "a9b9d5f4-e010-42ea-a2c7-6601b879419d",
+            "vertical": false,
+            "translation": "最大残留限量"
+        },
+        {
+            "bbox": [
+                1490.4394320330405,
+                1148.6385899888191,
+                1605.7220400355961,
+                1169.2247699892755
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Target tissues",
+            "uuid": "7bf842d1-cd87-4e10-ba62-0a91e527764f",
+            "vertical": false,
+            "translation": "目标组织"
+        },
+        {
+            "bbox": [
+                1340.160318029709,
+                1220.6902199904164,
+                1443.091218031991,
+                1247.4522539910097
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "125 µg/kg",
+            "uuid": "228d3166-87f3-49f6-bf2d-6620f3179e0e",
+            "vertical": false,
+            "translation": "125 微克/千克"
+        },
+        {
+            "bbox": [
+                1469.8532520325844,
+                1220.6902199904164,
+                1511.025612033497,
+                1243.3350179909185
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "Milk",
+            "uuid": "cf93f178-5f7b-454e-9b73-1fc2e44133e5",
+            "vertical": false,
+            "translation": "牛奶"
+        },
+        {
+            "bbox": [
+                1352.512026029983,
+                1313.32802999247,
+                1443.091218031991,
+                1342.148681993109
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "50 µg/kg",
+            "uuid": "42a7b7d0-d0e3-4a41-9603-c717c4bbd256",
+            "vertical": false,
+            "translation": "50 微克/千克"
+        },
+        {
+            "bbox": [
+                1469.8532520325844,
+                1315.3866479925157,
+                1539.8462640341359,
+                1338.0314459930175
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Muscle",
+            "uuid": "a5aa59f7-b718-428a-9145-4a459bba5e31",
+            "vertical": false,
+            "translation": "肌肉"
+        },
+        {
+            "bbox": [
+                1354.5706440300287,
+                1350.3831539932914,
+                1443.091218031991,
+                1373.0279519937935
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "50 µg / kg",
+            "uuid": "d0808ab4-d68d-4492-bf35-0087b5f2f698",
+            "vertical": false,
+            "translation": "50 微克/千克"
+        },
+        {
+            "bbox": [
+                1469.8532520325844,
+                1348.324535993246,
+                1506.9083760334056,
+                1375.086569993839
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "Fat",
+            "uuid": "d68361a1-3689-45a9-9f8d-95639ac54cd5",
+            "vertical": false,
+            "translation": "脂肪"
+        },
+        {
+            "bbox": [
+                1350.4534080299372,
+                1381.262423993976,
+                1447.208454032082,
+                1412.1416939946607
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "50 µg/kg",
+            "uuid": "e556bd84-8e1a-4835-93b1-679fa24a8085",
+            "vertical": false,
+            "translation": "50 微克/千克"
+        },
+        {
+            "bbox": [
+                1469.8532520325844,
+                1381.262423993976,
+                1523.3773200337707,
+                1408.0244579945693
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "Liver",
+            "uuid": "510f8f1c-8e48-472b-8e98-cc7313ff0a27",
+            "vertical": false,
+            "translation": "肝脏"
+        },
+        {
+            "bbox": [
+                1340.160318029709,
+                1414.2003119947062,
+                1443.091218031991,
+                1445.0795819953908
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "100 µg/kg",
+            "uuid": "5461e8ce-8d24-468b-8d4d-9580b7588495",
+            "vertical": false,
+            "translation": "100 微克/千克"
+        },
+        {
+            "bbox": [
+                1467.7946340325386,
+                1416.258929994752,
+                1546.0221180342726,
+                1443.020963995345
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "Kidney",
+            "uuid": "893c766e-2641-4165-8e8f-020c7ee1b7fc",
+            "vertical": false,
+            "translation": "肾脏"
+        },
+        {
+            "bbox": [
+                1354.5706440300287,
+                1449.196817995482,
+                1447.208454032082,
+                1478.017469996121
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "10 µg/kg",
+            "uuid": "71852cc0-06a9-455f-b6c3-616b52b4245b",
+            "vertical": false,
+            "translation": "10 微克/千克"
+        },
+        {
+            "bbox": [
+                1469.8532520325844,
+                1449.196817995482,
+                1521.318702033725,
+                1473.9002339960298
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Milk",
+            "uuid": "ddeb50d5-24a6-4c0a-a1ab-5e88a14ce82e",
+            "vertical": false,
+            "translation": "牛奶"
+        },
+        {
+            "bbox": [
+                1799.232132039886,
+                1146.5799719887737,
+                1947.452628043172,
+                1171.2833879893212
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Other provisions",
+            "uuid": "1916f9cb-0a79-477c-8e4f-179945849e87",
+            "vertical": false,
+            "translation": "其他规定"
+        },
+        {
+            "bbox": [
+                1648.9530180365546,
+                1218.6316019903709,
+                2007.1525500444955,
+                1245.3936359909642
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "Provisional MRLs expire on 1.1.2001",
+            "uuid": "93905961-b685-4984-a304-b29cbb487862",
+            "vertical": false,
+            "translation": "临时最大残留限量 于 2001 年 1 月 1 日到期"
+        },
+        {
+            "bbox": [
+                1651.0116360366003,
+                1247.4522539910097,
+                1926.8664480427153,
+                1274.214287991603
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "For intramammary use only",
+            "uuid": "5d0f8763-f284-40c8-9287-0134063b95ac",
+            "vertical": false,
+            "translation": "仅限乳房内使用"
+        },
+        {
+            "bbox": [
+                1648.9530180365546,
+                1311.2694119924245,
+                2035.9732020451343,
+                1342.148681993109
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "Provisional MRLs expire on 1.1.2001'",
+            "uuid": "a404758c-f00d-4cd8-a903-daf22c81ef10",
+            "vertical": false,
+            "translation": "临时最高残留限量 于 2001 年 1 月 1 日到期”"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

@@ -1,0 +1,301 @@
+{
+    "file": "1560aceff96aedff6ac27fe6b1e6695a309349bcd1ce1b01f4c5a42e88936a38.png",
+    "annotations": [
+        {
+            "bbox": [
+                171.13085238814057,
+                156.40254136712764,
+                330.0380724628426,
+                184.92435009848435
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "cd566dbd-cf13-49fa-8c46-dd84e970f9ad",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                628.7084270755412,
+                132.1268602144988,
+                1034.704885915848,
+                189.66966540446347
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "权利要求书",
+            "uuid": "383bd96d-7adc-4dff-91b0-515203d89ed9",
+            "vertical": false,
+            "translation": "Claims"
+        },
+        {
+            "bbox": [
+                1379.961717055637,
+                145.97975776023108,
+                1492.9161124285308,
+                189.66966540446347
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 1/3 页",
+            "uuid": "2c14c673-780e-4d23-8c87-2fe0f60b18d1",
+            "vertical": false,
+            "translation": "Page 1/3"
+        },
+        {
+            "bbox": [
+                265.33626837594875,
+                239.7532180698032,
+                1278.7290042214397,
+                284.50873321755364
+            ],
+            "order": "4",
+            "label": "List-item",
+            "text": "1. 一种向请求实体提供身份相关信息的方法，所述方法包含：",
+            "uuid": "8aeda341-0388-4ae8-b20b-48394618b60d",
+            "vertical": false,
+            "translation": "1. A method of providing identity-related information to the requesting entity, which comprises:"
+        },
+        {
+            "bbox": [
+                192.87495813673382,
+                302.6240607773572,
+                1468.4071398476199,
+                407.05359612210833
+            ],
+            "order": "5",
+            "label": "List-item",
+            "text": "位置请求步骤（II），由请求实体发起，用来从客户端应用请求相应于具有身份相关信息的位置实体的位置信息；",
+            "uuid": "df065d58-3296-4334-b2ba-c75d3b0dd240",
+            "vertical": false,
+            "translation": "The location requesting step (II) is initiated by the requesting entity and used to request location information from the client application corresponding to the location entity with identity-related information;"
+        },
+        {
+            "bbox": [
+                188.61252812266238,
+                426.2345311854297,
+                1456.6854573089233,
+                531.7296740336986
+            ],
+            "order": "6",
+            "label": "List-item",
+            "text": "重定向步骤（III），用来将客户端应用连接到位置实体，以指令位置实体将身份相关信息传送给请求实体；以及",
+            "uuid": "2d33972a-0481-4dd8-9050-331099051003",
+            "vertical": false,
+            "translation": "The redirection step (III) is used to connect the client application to the location entity and instruct it to transmit identity-related information to the requesting entity; and"
+        },
+        {
+            "bbox": [
+                268.53309088650235,
+                551.976216600538,
+                1301.106761795315,
+                599.9285542588419
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "获取步骤（IV），用来获得身份相关信息，所述获取步骤包含：",
+            "uuid": "dca3e959-d90f-4abe-b789-ad1121a922e1",
+            "vertical": false,
+            "translation": "The obtaining step (IV), which is used to obtain identity-related information, comprises:"
+        },
+        {
+            "bbox": [
+                269.59869839002016,
+                614.8470593080923,
+                1054.9514284826878,
+                665.9962194769498
+            ],
+            "order": "8",
+            "label": "List-item",
+            "text": "联系步骤（IVa），其中位置实体联系请求实体；",
+            "uuid": "ff16e463-d2ec-49b1-b0a0-a1b7e7d83296",
+            "vertical": false,
+            "translation": "In the contacting step (IVa), the location entity contacts the requesting entity;"
+        },
+        {
+            "bbox": [
+                270.6643058935381,
+                674.5210795050928,
+                1233.9734890736893,
+                730.9982771915396
+            ],
+            "order": "9",
+            "label": "List-item",
+            "text": "请求步骤（IVc），其中请求实体请求身份相关信息；以及",
+            "uuid": "e9533f7e-0a31-497b-a597-551238a10ac8",
+            "vertical": false,
+            "translation": "In the requesting step (IVc), the requesting entity requests identity-related information; and"
+        },
+        {
+            "bbox": [
+                269.59869839002016,
+                738.4575297161648,
+                1321.3533043621544,
+                789.6066898850223
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "响应步骤（IVe），其中请求实体从位置实体接收身份相关信息。",
+            "uuid": "2922657c-f55b-40a9-a388-c3bb9451a03b",
+            "vertical": false,
+            "translation": "In the response step (IVe), the requesting entity receives identity-related information from the location entity."
+        },
+        {
+            "bbox": [
+                192.87495813673382,
+                803.4595874307546,
+                1459.882279819477,
+                979.2848255112026
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "2. 根据权利要求 1 的方法，其中所述获取步骤（IV）只包含重定向子步骤 （IVg），该子步骤借助客戶端应用将位置实体重定向到请求实体，并且由此向请求实体传送身份相关信息。",
+            "uuid": "d41283ca-cd0a-42c8-9518-7fc1ea534928",
+            "vertical": false,
+            "translation": "2. According to the method of Claim 1, wherein the obtaining step (IV) only comprises the redirection sub-step (IVg) that redirects the location entity to the requesting entity with the aid of the client application and thereby transmits identity-related information to the requesting entity."
+        },
+        {
+            "bbox": [
+                193.94056564025166,
+                995.2689380639704,
+                1457.751064812441,
+                1107.1577259333465
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "3. 根据权利要求 1 的方法，还包括确定步骤：用来根据在 URL 中承载的信息的长度确定是否执行联系步骤（IVa）。",
+            "uuid": "ce5c6dc4-e5b7-4b0b-b5b9-d88a595f2122",
+            "vertical": false,
+            "translation": "3. According to the method of Claim 1, which also comprises a determining step for determining whether to perform the contacting step (IVa) based on the length of the information carried in the URL."
+        },
+        {
+            "bbox": [
+                190.7437431296981,
+                1117.8138009685251,
+                1462.0134948265127,
+                1230.7681963414188
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "4. 根据权利要求 1 的方法，其中在请求实体与客户端 应用之间以及在位置实体与客户端应用之间使用的传输协议为安全超文本传送协议。",
+            "uuid": "99bdde70-ff2a-4c77-94b1-d72fefeea03e",
+            "vertical": false,
+            "translation": "4. According to the method of Claim 1, wherein the transport protocol used between the requesting entity and the client application, as well as between the location entity and the client application, is the secure hypertext transfer protocol."
+        },
+        {
+            "bbox": [
+                273.8611284040917,
+                1248.8835239012226,
+                1444.9637747702268,
+                1291.5078240419375
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "5. 根据权利要求 1 的方法，其中位置信息为相对于客户端应用的位置。",
+            "uuid": "ed4c1dca-4799-4000-a67a-e65c9dec67cd",
+            "vertical": false,
+            "translation": "5. According to the method of Claim 1, the location information pertains to the location of the client application."
+        },
+        {
+            "bbox": [
+                193.9405656402517,
+                1305.3607215876698,
+                1460.947887322995,
+                1480.1203521645998
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "6. 根据权利要求 1 的方法,还包括：由请求实体与验证一起，从位置实体假名之下的位置实体接受身份相关信息，其中身份相关信息对应于个人的个人假名。",
+            "uuid": "1db61750-1262-42e4-89db-8cce4631bbe8",
+            "vertical": false,
+            "translation": "6. According to the method of Claim 1, which also comprises the following: the requesting entity, together with the verification, receives identity-related information from the location entity under the pseudonym of the location entity, wherein the identity-related information corresponds to the personal pseudonym of the individual."
+        },
+        {
+            "bbox": [
+                193.9405656402517,
+                1496.1044647173676,
+                1465.2103173370663,
+                1606.9276450832258
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "7. 根据权利要求 1 的方法，还包括：由请求实体发送使用身份相关信息的服务器策略。",
+            "uuid": "ae50aa81-3f3b-4084-b112-d9735536283f",
+            "vertical": false,
+            "translation": "7. According to the method of Claim 1, which also comprises: the requesting entity sending a server policy that uses the identity-related information."
+        },
+        {
+            "bbox": [
+                200.33421066135887,
+                1620.780542628958,
+                1467.3415323441022,
+                1800.8682107234774
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "8. 一种向请求实体传送位于位置实体的身份相关信息的方法，所述方法包含在所述请求实体向客户端应用请求传送相应于所述位置实体的位置信息时执行以下步骤：",
+            "uuid": "851a875b-907f-4c38-b3b5-c57c14523db2",
+            "vertical": false,
+            "translation": "8. A method of transmitting identity-related information located at the location entity to the requesting entity, which comprises performing the following steps when the requesting entity requests the client application to transmit location information corresponding to the location entity:"
+        },
+        {
+            "bbox": [
+                203.53103317191247,
+                1809.3930707516204,
+                1464.1447098335486,
+                1922.347466124514
+            ],
+            "order": "18",
+            "label": "List-item",
+            "text": "重定向步骤（III），用来从客户端应用接收指令信息，以将身份相关信息传送给请求实体；以及",
+            "uuid": "c924cc70-7771-4db2-acd2-6a45b5ad1ce3",
+            "vertical": false,
+            "translation": "The redirection step (III) is used to receive instruction information from the client application to transmit identity-related information to the requesting entity; and"
+        },
+        {
+            "bbox": [
+                273.8611284040917,
+                1934.0691486632109,
+                1270.2041441932968,
+                1988.4151313426219
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "传送步骤（IV），用来向请求实体传送身份相关信息，包含：",
+            "uuid": "c7c7d873-4c50-4775-b6f9-d6d80052fc65",
+            "vertical": false,
+            "translation": "The transmission step (IV), which is used for transmitting identity-related information to the requesting entity, comprises:"
+        },
+        {
+            "bbox": [
+                275.99234341112737,
+                1995.8743838672472,
+                1061.345073503795,
+                2053.4171890572115
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "联系步骤 （IVa），其中位置实体联系请求实体；",
+            "uuid": "7caa3f5d-dde6-45f0-9244-67475e323894",
+            "vertical": false,
+            "translation": "In the contacting step (IVa), the location entity contacts the requesting entity;"
+        },
+        {
+            "bbox": [
+                814.0401090258289,
+                2204.941807442175,
+                846.3432879554252,
+                2242.090463211211
+            ],
+            "order": "21",
+            "label": "Page-footer",
+            "text": "2",
+            "uuid": "68585da6-5e01-48e9-aa43-a12c378914e4",
+            "vertical": false,
+            "translation": "2"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

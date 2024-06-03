@@ -1,0 +1,497 @@
+{
+    "file": "jrc32003L0002.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                119.22844470436823,
+                142.66476133986535,
+                213.78893533197058,
+                163.2340856885102
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.1.2003",
+            "uuid": "5af0d169-5e24-425d-bf38-f7275e541f1f",
+            "vertical": false,
+            "translation": "2003 年 1 月 9 日"
+        },
+        {
+            "bbox": [
+                336.4795490295691,
+                144.00984926989497,
+                363.52774428918076,
+                162.63050078551032
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "c83616b0-c48b-45d4-825c-ba15cf0d3388",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                583.6229636482591,
+                140.28119028538975,
+                1068.3183550937895,
+                169.13215964277805
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "f0d26dcb-e365-4a5d-bd63-39c21f85caaa",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                787.4909338430667,
+                246.57050031449228,
+                865.0185632740981,
+                263.9441825024713
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX",
+            "uuid": "09f80e98-29e0-4797-a3ca-365c889c7fe0",
+            "vertical": false,
+            "translation": "附件"
+        },
+        {
+            "bbox": [
+                1463.4787051438498,
+                140.77887462588143,
+                1532.343590058692,
+                168.5017810558165
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 4/11",
+            "uuid": "52527de5-0e35-4321-ac9a-cf76c9cd9d65",
+            "vertical": false,
+            "translation": "L 4/11"
+        },
+        {
+            "bbox": [
+                254.71283302173052,
+                305.98034294847946,
+                998.5756836871823,
+                332.60856714369874
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Annex I to Directive 1976/769/EEC, point 20 is replaced by the following:",
+            "uuid": "196e3891-9156-409e-84b1-6ea45b6f110b",
+            "vertical": false,
+            "translation": "1976/769/EEC 指令的附件一第 20 点改为："
+        },
+        {
+            "bbox": [
+                256.2979410056817,
+                352.4709779262909,
+                494.32564726095836,
+                377.18965097003706
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "'20. Arsenic compounds",
+            "uuid": "5e7282dc-83a9-4a3b-ba59-08314396df58",
+            "vertical": false,
+            "translation": "“20.  砷化合物"
+        },
+        {
+            "bbox": [
+                562.9006927145983,
+                351.8549184784575,
+                1397.8622264499888,
+                376.7548442450151
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "1. May not be used as substances and constituents of preparations intended for use:",
+            "uuid": "25fca125-3c47-4748-b3fe-a87267c741d1",
+            "vertical": false,
+            "translation": "1. 不得用作配制品的物质和成分："
+        },
+        {
+            "bbox": [
+                597.6757083603478,
+                391.99736635404946,
+                1286.7501007578103,
+                417.9993158341665
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "(a) To prevent the fouling by micro-organisms, plants or animals of:",
+            "uuid": "76a9b576-9eb3-4281-bb95-7bef0715a2e7",
+            "vertical": false,
+            "translation": "(a) 防止微生物、植物或动物污染："
+        },
+        {
+            "bbox": [
+                631.9957260140103,
+                425.5549365510441,
+                850.9812157688648,
+                448.21372017447817
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "- the hulls of boats,",
+            "uuid": "ccdecce9-b3be-4dfc-b73c-ef09590fac20",
+            "vertical": false,
+            "translation": "- 船体，"
+        },
+        {
+            "bbox": [
+                631.5740256327438,
+                456.4129698824853,
+                1397.8622264499888,
+                510.2603069143654
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "- cages, floats, nets and any other appliances or equipment used for fish or shellfish farming,",
+            "uuid": "575286d9-e680-4a83-b101-b342e964a2c7",
+            "vertical": false,
+            "translation": "- 用于鱼类或贝类养殖的网箱、浮子、网以及任何其他器具或设备，"
+        },
+        {
+            "bbox": [
+                630.7466360795131,
+                515.7649859197339,
+                1239.4570255068186,
+                543.6422949433239
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "- any totally or partly submerged appliances or equipment;",
+            "uuid": "bec5a760-ee45-4539-a882-4b532ab639d9",
+            "vertical": false,
+            "translation": "- 任何完全或部分浸入水中的器具或设备；"
+        },
+        {
+            "bbox": [
+                594.9875117710209,
+                555.0912542938778,
+                1397.862226449989,
+                603.5086774637512
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "(b) in the preservation of wood. Furthermore, wood so treated may not be placed on the market;",
+            "uuid": "b862659c-b446-40de-ae0f-3cc471f3f8a3",
+            "vertical": false,
+            "translation": "(b) 保护木材。此外，经如此处理的木材不得投放市场；"
+        },
+        {
+            "bbox": [
+                597.6757083603478,
+                617.8545806251951,
+                948.9333960323964,
+                644.7531490529026
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "(c) however, by way of derogation:",
+            "uuid": "77099cf1-5bdb-41a4-9ff9-1b83ffcb2e6a",
+            "vertical": false,
+            "translation": "(c) 但是，可克减："
+        },
+        {
+            "bbox": [
+                646.0632469682321,
+                656.4091953715757,
+                1396.9661609202133,
+                790.0054185625226
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "(i) Relating to the substances and preparations in the preservation of wood: these may only be used in industrial installations using vacuum or pressure to impregnate wood if they are solutions of inorganic compounds of the copper, chromium, arsenic (CCA) type C. Wood so treated may not be placed on the market before fixation of the preservative is completed.",
+            "uuid": "5f42eeda-d6cc-4e22-b767-0e977e57553c",
+            "vertical": false,
+            "translation": "(i) 关于用于木材防腐的物质和制剂：如果是铜、铬、砷 (CCA) C 型无机化合物的溶液，则只能用于使用真空或压力对木材进行浸渍的工业装置中，经过此种处理的木材在防腐剂固定完成之前不得投放市场。"
+        },
+        {
+            "bbox": [
+                638.3452430351275,
+                802.6325806670162,
+                1400.284990572801,
+                933.7780292634984
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "(ii) Relating to wood treated with CCA solutions in industrial installations according to point (i): this may be placed on the market for professional and industrial use provided that the structural integrity of the wood is required for human or livestock safety and skin contact by the general public during its service life is unlikely:",
+            "uuid": "9d8341d3-a73a-4f7f-bd88-c607119cf2db",
+            "vertical": false,
+            "translation": "(ii) 关于根据第 (i) 点在工业装置中使用 CCA 溶液处理过的木材：该木材可投放市场供专业和工业使用，但前提是，为了人或牲畜的安全，木材的结构完整性是必需的，而且一般公众在其使用寿命期间不太可能接触皮肤："
+        },
+        {
+            "bbox": [
+                666.8670517664842,
+                943.631376178422,
+                1396.8895371524015,
+                993.2356132123246
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "- as structural timber in public and agricultural buildings, office buildings, and industrial premises,",
+            "uuid": "17ce0999-9d83-4c81-930e-8985158c1e09",
+            "vertical": false,
+            "translation": "- 用作公共和农业建筑、办公楼和工业场所的结构木材，"
+        },
+        {
+            "bbox": [
+                668.6277214146222,
+                1000.3514905320483,
+                968.9485724125251,
+                1025.4922761608
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "- in bridges and bridgework,",
+            "uuid": "945cf2f2-0246-4601-8065-aa6994368d5f",
+            "vertical": false,
+            "translation": "- 用于桥梁和桥梁工程中，"
+        },
+        {
+            "bbox": [
+                668.8469614876592,
+                1093.1210933680939,
+                870.3371086358165,
+                1115.0811886652348
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "- as noise barriers,",
+            "uuid": "d8f67f34-2c99-4af7-bc47-1eac733e5a3b",
+            "vertical": false,
+            "translation": "- 用作隔音屏障，"
+        },
+        {
+            "bbox": [
+                669.3843410884139,
+                1032.6387794497887,
+                1397.8320063905112,
+                1085.7050715632997
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "- as constructional timber in freshwater areas and brackish waters e.g. jetties and bridges,",
+            "uuid": "09c1ccad-d157-46bb-94f5-eb851aafe11a",
+            "vertical": false,
+            "translation": "- 用作淡水区和咸水中用作建筑木材，如防波堤和桥梁，"
+        },
+        {
+            "bbox": [
+                668.1492011965756,
+                1124.3121443751947,
+                909.4253016286724,
+                1147.2529923723498
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "- in avalanche control,",
+            "uuid": "74189e92-86c3-4bf9-ac43-104e3a24becd",
+            "vertical": false,
+            "translation": "- 用于雪崩控制，"
+        },
+        {
+            "bbox": [
+                667.7852855096494,
+                1156.3565034823323,
+                1089.5635666571611,
+                1182.5746154790813
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "- in highway safety fencing and barriers,",
+            "uuid": "933cf90b-8198-49aa-83ee-55e2ab3cf41d",
+            "vertical": false,
+            "translation": "- 用于公路安全栅栏和路障，"
+        },
+        {
+            "bbox": [
+                668.8770325704281,
+                1221.9017834742049,
+                981.4806076400677,
+                1247.0274741377561
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "- in earth retaining structures,",
+            "uuid": "259a42e2-6c33-45d8-8ae6-6b97ffcec67f",
+            "vertical": false,
+            "translation": "- 用于挡土结构中，"
+        },
+        {
+            "bbox": [
+                668.18386701903,
+                1188.465651902554,
+                1181.0263894597947,
+                1213.928036628725
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "- as debarked round conifer livestock fence posts,",
+            "uuid": "3229caab-65b2-4e45-be29-3666328da735",
+            "vertical": false,
+            "translation": "- 用作去皮圆针叶树牲畜围栏柱，"
+        },
+        {
+            "bbox": [
+                669.6830201895189,
+                1253.1017444811764,
+                1310.1039858139527,
+                1279.8721463672155
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "- as electric power transmission and telecommunications poles,",
+            "uuid": "12bb127f-284c-4dd8-b5d5-d8d7f8277673",
+            "vertical": false,
+            "translation": "- 用作电力传输和电信电极，"
+        },
+        {
+            "bbox": [
+                668.1492011965756,
+                1285.9057681211395,
+                1022.2391645758066,
+                1311.39559922909
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "- as underground railway sleepers.",
+            "uuid": "ac980fe1-2e16-4f3a-ae5a-9144184a908d",
+            "vertical": false,
+            "translation": "- 用作地下铁路的枕木。"
+        },
+        {
+            "bbox": [
+                668.0109027857997,
+                1324.1249092158298,
+                1397.0540908073483,
+                1537.4515492452015
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and preparations, all treated wood placed on the market shall be individually labelled \"For professional and industrial installation and use only, contains arsenic\". In addition, all wood placed on the market in packs shall also bear a label stating \"Wear gloves when handling this wood. Wear a dust mask and eye protection when cutting or otherwise crafting this wood. Waste from this wood shall be treated as hazardous by an authorised undertaking\".",
+            "uuid": "dbbba37d-53b5-474f-a1f2-8196cd38becb",
+            "vertical": false,
+            "translation": "在不妨碍适用其他关于危险物质和制剂的分类、包装和标签的共同体规定的情况下，所有投放市场的经过处理的木材均应单独贴上“仅供专业和工业安装和使用，含有砷”的标签。此外，所有以包装形式投放市场的木材还应贴有标签，注明“处理此木材时请戴手套。切割或以其他方式加工此木材时，请戴防尘口罩和护目镜。此木材产生的废物应由经授权的企业按危险品处理”。"
+        },
+        {
+            "bbox": [
+                634.2476265043589,
+                1553.9882404676148,
+                1351.498688645152,
+                1578.7144486488899
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "(iii) Treated wood referred to under points (i) and (ii) may not be used:",
+            "uuid": "7737460f-73af-444c-91eb-eb2fc7284da8",
+            "vertical": false,
+            "translation": "(iii) 不得使用第 (i) 和 (ii) 点所述的处理过的木材："
+        },
+        {
+            "bbox": [
+                667.1955551539359,
+                1586.357340673236,
+                1326.1541281454777,
+                1612.9855648684552
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "- in residential or domestic constructions, whatever the purpose,",
+            "uuid": "5622afac-5979-4be1-bb6e-526f92965cf6",
+            "vertical": false,
+            "translation": "- 在住宅或住宅建筑中，无论用途如何，"
+        },
+        {
+            "bbox": [
+                667.1207869179594,
+                1619.2112895327862,
+                1357.7632939925293,
+                1645.9538424434884
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "- in any application where there is a risk of repeated skin contact,",
+            "uuid": "fa4eca93-5557-41b7-b3c2-f473045f5b0f",
+            "vertical": false,
+            "translation": "- 在任何有可能反复接触皮肤的应用中，"
+        },
+        {
+            "bbox": [
+                667.1955551539359,
+                1653.5619064992657,
+                875.0209512512682,
+                1673.216071976689
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "- in marine waters,",
+            "uuid": "97c2657e-dbcc-46dd-8e82-a239ded90606",
+            "vertical": false,
+            "translation": "- 在海洋水域中，"
+        },
+        {
+            "bbox": [
+                667.5928734348698,
+                1683.320963066629,
+                1398.38612556955,
+                1735.3656172573876
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "- for agricultural purposes other than for livestock fence posts and structural uses in accordance with point (ii),",
+            "uuid": "7ddb6530-0771-464a-a8e2-6bcc7845546a",
+            "vertical": false,
+            "translation": "- 用于除第 (ii) 点所述的牲畜围栏柱和结构用途以外的农业用途，"
+        },
+        {
+            "bbox": [
+                668.0109027857997,
+                1742.4721162231938,
+                1396.4852835320744,
+                1821.5733210643389
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "- in any application where the treated wood may come into contact with intermediate or finished products intended for human and or animal consumption.",
+            "uuid": "a673a15c-4d80-4fb0-97b4-ccf6cb63a812",
+            "vertical": false,
+            "translation": "- 在处理过的木材可能与供人类和/或动物食用的中间产品或成品接触的任何应用中。"
+        },
+        {
+            "bbox": [
+                563.9164711177616,
+                1836.5440880939495,
+                1398.3861255695501,
+                1889.9566753547156
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "2. May not be used as substances and constituents of preparations intended for use in the treatment of industrial waters, irrespective of their use.'",
+            "uuid": "99c929c2-9b4c-4e5f-81ff-738e50f5833f",
+            "vertical": false,
+            "translation": "2. 不得用作工业用水处理制剂的物质和成分，无论其用途如何。”"
+        },
+        {
+            "bbox": [
+                248.6142769339349,
+                350.32183335782065,
+                1410.0511229088845,
+                1906.048966878
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "9e9bee75-697a-48e1-9201-ff791ce01bb1",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

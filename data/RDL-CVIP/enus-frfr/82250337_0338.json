@@ -1,0 +1,539 @@
+{
+    "file": "82250337_0338.png",
+    "annotations": [
+        {
+            "bbox": [
+                92.9388331413616,
+                202.95838930974463,
+                112.52888130351133,
+                213.89236967931657
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "e137aef0-afb2-4341-bea4-dd6e0b182832",
+            "vertical": false,
+            "translation": "À :"
+        },
+        {
+            "bbox": [
+                94.0,
+                220.64225097314605,
+                129.38543437326808,
+                230.97671400677277
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "eacee2b1-7491-4e1d-afa4-f198212ea50d",
+            "vertical": false,
+            "translation": "DE :"
+        },
+        {
+            "bbox": [
+                94.0,
+                271.97914039266755,
+                212.07366091815598,
+                282.0019557314419
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "REPORTING PERIODS:",
+            "uuid": "2987e928-5b24-4185-b6ec-d8d654bc85de",
+            "vertical": false,
+            "translation": "PÉRIODES DE RAPPORT :"
+        },
+        {
+            "bbox": [
+                222.0,
+                136.21725411781404,
+                506.83593749999994,
+                166.9921875
+            ],
+            "order": "1",
+            "label": "Section-header",
+            "text": "COMPETITIVE PRODUCT INTRODUCTION PROGRESS REPORT",
+            "uuid": "b87714fd-4d60-44b6-80a3-2cbc83e0a663",
+            "vertical": false,
+            "translation": "RAPPORT SUR LE PROGRÈS DE L'INTRO DE PRODUITS COMPÉTITIFS"
+        },
+        {
+            "bbox": [
+                94.0,
+                322.99999999999994,
+                246.2423495730683,
+                332.79940619841153
+            ],
+            "order": "20",
+            "label": "Text",
+            "text": "TEST MARKET GEOGRAPHY:",
+            "uuid": "cd94778c-ff70-4d2f-8ea9-8b0d43ceb79c",
+            "vertical": false,
+            "translation": "GÉOGRAPHIE DU MARCHÉ TEST :"
+        },
+        {
+            "bbox": [
+                94.07778942985865,
+                357.8066343722959,
+                166.74320063597224,
+                368.107051141821
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "PRICE POINT:",
+            "uuid": "0ca7e677-1e92-4ac4-ba28-d2b996b57856",
+            "vertical": false,
+            "translation": "NIVEAU PRIX :"
+        },
+        {
+            "bbox": [
+                279.0,
+                271.97914039266755,
+                300.2288776478298,
+                281.0907907006442
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "Oct.",
+            "uuid": "29046ee9-2ec6-4742-b950-6c24aaa81f57",
+            "vertical": false,
+            "translation": "Oct."
+        },
+        {
+            "bbox": [
+                256.00000000000006,
+                356.94527951454967,
+                284.28348960887075,
+                367.6514686264222
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "P/V $",
+            "uuid": "960fb04c-bbe3-40da-abbc-ed1bcb8a1743",
+            "vertical": false,
+            "translation": "P/V $"
+        },
+        {
+            "bbox": [
+                313.89635310979475,
+                200.90826799044993,
+                408.42972505505224,
+                211.84224836002187
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "MANUFACTURER:",
+            "uuid": "7cedde0a-ef87-4c99-badb-6858fa41b797",
+            "vertical": false,
+            "translation": "FABRICANT :"
+        },
+        {
+            "bbox": [
+                451.02669024484305,
+                199.9717360098957,
+                477.4504761379752,
+                210.0199182984266
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "B&W",
+            "uuid": "f8bc14cc-8996-4b53-80e6-ee2ca2779d57",
+            "vertical": false,
+            "translation": "N&B"
+        },
+        {
+            "bbox": [
+                405.9240212203587,
+                217.99261231790612,
+                473.3502334993857,
+                228.01542765668037
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Kool Waterfall",
+            "uuid": "09452736-c083-41f5-85d5-5b877fb463da",
+            "vertical": false,
+            "translation": "Kool Waterfall"
+        },
+        {
+            "bbox": [
+                313.66856185209537,
+                218.87251276076847,
+                356.4690549814846,
+                228.47101017207916
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "BRAND:",
+            "uuid": "c5bc4a36-24da-4894-9acc-779e7c83922e",
+            "vertical": false,
+            "translation": "MARQUE :"
+        },
+        {
+            "bbox": [
+                313.89635310979475,
+                235.0,
+                422.32499177471664,
+                246.01093701493426
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "TYPE OF PACKINGS:",
+            "uuid": "6399c6f8-bb29-42dc-ab8a-a30adc72968b",
+            "vertical": false,
+            "translation": "TYPE D'EMBALLAGE :"
+        },
+        {
+            "bbox": [
+                369.0,
+                271.0,
+                393.16771078919135,
+                280.63520818524535
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Nov.",
+            "uuid": "3c1149bd-d5e1-4dc3-a9d5-0919a5b99fcd",
+            "vertical": false,
+            "translation": "Nov."
+        },
+        {
+            "bbox": [
+                313.89635310979475,
+                320.02604291441884,
+                420.04707919772244,
+                331.6604499099145
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "Divisions 621 and 627",
+            "uuid": "7ed0ad74-44b0-468e-9848-554b17483e09",
+            "vertical": false,
+            "translation": "Divisions 621 et 627"
+        },
+        {
+            "bbox": [
+                451.0,
+                234.0,
+                510.0,
+                246.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "All Packings",
+            "uuid": "512738b8-ab12-44e9-8963-4f350d14e885",
+            "vertical": false,
+            "translation": "Tous emballages"
+        },
+        {
+            "bbox": [
+                460.84218960140714,
+                269.1447756321343,
+                484.6065199800149,
+                278.62917342990266
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "Dec.",
+            "uuid": "624c7327-78c6-4557-b4e1-9e38577f9599",
+            "vertical": false,
+            "translation": "Déc."
+        },
+        {
+            "bbox": [
+                441.0,
+                307.93326213825344,
+                555.8106687865742,
+                335.0773187754057
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "(Wisconsin)",
+            "uuid": "3bc122b3-0fa3-4279-8ded-d2df84e9fb51",
+            "vertical": false,
+            "translation": "(Wisconsin)"
+        },
+        {
+            "bbox": [
+                319.3633432945807,
+                356.2125929595716,
+                516.858363719974,
+                368.107051141821
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "(Indicate Distributor's Cost Per Carton)",
+            "uuid": "63ed18d3-9609-4330-8d75-d7bb33482785",
+            "vertical": false,
+            "translation": "(Indiquer le coût du distributeur par cartouche)"
+        },
+        {
+            "bbox": [
+                92.9388331413616,
+                395.2019181405223,
+                254.4428348502473,
+                406.3759824353228
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "SALES FORCE INVOLVEMENT:",
+            "uuid": "e096c33d-5ce0-4398-b9d6-3787e21c0210",
+            "vertical": false,
+            "translation": "IMPLICATION FORCE DE VENTE :"
+        },
+        {
+            "bbox": [
+                94.19883948072886,
+                413.8120183704783,
+                644.7387235569887,
+                448.41346215173206
+            ],
+            "order": "28",
+            "label": "Text",
+            "text": "\"They have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy promoting old style packs to clean up inventory. All POS is being converted to \"\"B\"\" Kool.\"",
+            "uuid": "a9adedac-05db-4cc0-8114-2ad925650950",
+            "vertical": false,
+            "translation": "« La distribution a fait l'objet d'un travail d'équipe, et il paraît possible qu'il en soit de nouveau ainsi. La force de vente a été occupée à promouvoir les anciens packs pour nettoyer les stocks. Tous les points de vente sont en train d'être convertis au \"B\" Kool. »"
+        },
+        {
+            "bbox": [
+                330.93872592504584,
+                949.05138359358,
+                397.0443523195029,
+                963.0465442515458
+            ],
+            "order": "38",
+            "label": "Page-footer",
+            "text": "PAGE 1 OF 2",
+            "uuid": "5e26ceba-40ee-4d9d-9a5d-9c89ba96f10e",
+            "vertical": false,
+            "translation": "PAGE 1 SUR 2"
+        },
+        {
+            "bbox": [
+                554.8995037557764,
+                269.92901907337284,
+                577.4508382680186,
+                278.8128781236501
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "Jan.",
+            "uuid": "fa4d167d-7228-4535-9444-8336f2e21d58",
+            "vertical": false,
+            "translation": "Janv."
+        },
+        {
+            "bbox": [
+                94.0,
+                500.1923262395201,
+                495.59056104583465,
+                513.3059960162342
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:",
+            "uuid": "a9e53a4e-78df-4ece-b432-f64e9b788564",
+            "vertical": false,
+            "translation": "DISTRIBUTEURS - ACCEPTATION/CONDITIONS D'INTRO/OPÉRATIONS D'INTRO/IMPLICATION :"
+        },
+        {
+            "bbox": [
+                93.0,
+                521.1352760690748,
+                608.1058415367053,
+                557.2654544405743
+            ],
+            "order": "30",
+            "label": "Text",
+            "text": "All accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear to have 100% distribution of new packings.",
+            "uuid": "525755a1-b444-435b-bdb7-62ca586dfd23",
+            "vertical": false,
+            "translation": "Tous les comptes disposent des nouveaux emballages. Il n'a pas été difficile d'obtenir une nouvelle distribution. Tous les comptes semblent avoir une distribution de 100 % des nouveaux emballages."
+        },
+        {
+            "bbox": [
+                94.0,
+                608.0,
+                317.0,
+                622.0
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "CHAINS - ACCEPTANCE/MERCHANDISING:",
+            "uuid": "a08cd38b-00d2-47fb-8d51-9884d9925bd9",
+            "vertical": false,
+            "translation": "CHAÎNES - ACCEPTATION/MARCHANDISAGE :"
+        },
+        {
+            "bbox": [
+                93.86041428962075,
+                629.6495178801928,
+                517.1118287868376,
+                644.1348698247036
+            ],
+            "order": "32",
+            "label": "Text",
+            "text": "\"This has not been a problem. New packaging is just following up on the old \"\"packaging\"\".\"",
+            "uuid": "0d864c6c-c365-432e-ba8b-4a5fd8af4d09",
+            "vertical": false,
+            "translation": "« Cela n’a pas été un problème. Le nouvel emballage ne fait que succéder à l’ancien \"emballage\". »"
+        },
+        {
+            "bbox": [
+                94.0,
+                715.8409184567003,
+                360.50149052380925,
+                729.007991178002
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "INDEPENDENTS - ACCEPTANCE/MERCHANDISING:",
+            "uuid": "1123fcae-4135-4d05-abf1-a60c70fa4ca6",
+            "vertical": false,
+            "translation": "INDÉPENDANTS - ACCEPTATION/MARCHANDISAGE :"
+        },
+        {
+            "bbox": [
+                93.87584209954231,
+                735.9714355477724,
+                587.9705403531832,
+                774.1733259816684
+            ],
+            "order": "34",
+            "label": "Text",
+            "text": "Very well received. The old packs are being consolidated and promoted in select retail locations at 40¢ off/$4.00 off cartons.",
+            "uuid": "9e6dd56c-fb6d-4591-9208-defa77b7204c",
+            "vertical": false,
+            "translation": "Très bien accueilli. Les anciens packs sont regroupés et promus dans certains points de vente au détail avec un rabais de 40 ¢ ou 4,00 $ sur les cartouches."
+        },
+        {
+            "bbox": [
+                94.0,
+                823.8376182250823,
+                321.9056589643126,
+                836.9942007540408
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "ADVERTISING - EFFECTIVENESS OF P.O.S.:",
+            "uuid": "0698cd5c-dbf0-45f3-949d-d7dd53cdc2d6",
+            "vertical": false,
+            "translation": "PUBLICITÉ - EFFICACITÉ DES P.D.V. :"
+        },
+        {
+            "bbox": [
+                93.80460400193854,
+                844.6368854063254,
+                612.2149754985502,
+                902.5592337288957
+            ],
+            "order": "36",
+            "label": "Text",
+            "text": "\"The theme \"\"B\"\" Kool has replaced all previous POS. They have effectively replaced all old POS. New door signage, hour signs, poster mats, and clocks have the new design. \"\"B\"\" Kool also appears on billboards in Illinois.\"",
+            "uuid": "43bbf992-b0b3-433f-8e96-e0c106fc1dc3",
+            "vertical": false,
+            "translation": "« Le thème \"B\" Kool a remplacé tous les PDV précédents. Ils ont en effet remplacé tous les anciens PDV. La nouvelle signalisation de porte, les panneaux d'heures, les tapis d'affiches et les horloges ont le nouveau design. \"B\" Kool apparaît également sur les panneaux d'affichage dans l'Illinois. »"
+        },
+        {
+            "bbox": [
+                680.0185750786648,
+                813.9036954909784,
+                699.4039535134788,
+                917.624037251383
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "82250337",
+            "uuid": "d7a363a9-1192-4c73-b41a-9470403afa35",
+            "vertical": true,
+            "translation": "82250337"
+        },
+        {
+            "bbox": [
+                140.54720600053946,
+                203.15981883534405,
+                193.6225690445033,
+                212.49634710987164
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "Sam Zolot",
+            "uuid": "12a42231-994b-451d-8ebe-bfb9023401c8",
+            "vertical": false,
+            "translation": "Sam Zolot"
+        },
+        {
+            "bbox": [
+                140.54720600053946,
+                220.4665541734927,
+                200.00072426008697,
+                230.48624305347354
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "D. J. Landro",
+            "uuid": "6e4969fa-2bb3-4182-8089-8ae1b4af5024",
+            "vertical": false,
+            "translation": "D.J. Landro"
+        },
+        {
+            "bbox": [
+                94.53337194525749,
+                238.00100971345904,
+                126.87973053857452,
+                247.79297839162206
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "DATE:",
+            "uuid": "e82ab094-cfb9-4354-9706-ca2ce4b00b56",
+            "vertical": false,
+            "translation": "DATE :"
+        },
+        {
+            "bbox": [
+                140.09162348514064,
+                237.77328951164134,
+                185.64987502502376,
+                246.8820975843511
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "2-Dec-97",
+            "uuid": "8f5cbece-add3-4747-85ec-efbc0ded28ec",
+            "vertical": false,
+            "translation": "2-déc-97"
+        },
+        {
+            "bbox": [
+                405.9240212203587,
+                270.1343566724642,
+                413.8967152398382,
+                280.38176575426263
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "X",
+            "uuid": "09010d0b-0f31-4d7b-97dd-b73dc7b820f5",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                182.46079741723193,
+                358.0343545741136,
+                219.13518990683787,
+                367.8263232522766
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "FULL $",
+            "uuid": "a22fff6a-a53a-483a-9b88-2fb4d6cd6c9c",
+            "vertical": false,
+            "translation": "PLEIN $"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

@@ -1,0 +1,833 @@
+{
+    "file": "jrc32004R2173.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                124.28546084791118,
+                121.88014226826722,
+                229.99353120362545,
+                144.14410736682862
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 371/30",
+            "uuid": "8c21bbd3-72ea-4057-99a5-526e1eeba982",
+            "vertical": false,
+            "translation": "L 371/30"
+        },
+        {
+            "bbox": [
+                346.78059437314954,
+                121.88014226826722,
+                370.88945252445274,
+                144.14410736682862
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "8a78dda6-d308-42da-85fc-b0cba55b28f8",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                636.0666195828627,
+                120.88221861391463,
+                1035.5332373834528,
+                156.3531852672101
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "3750e42e-4530-4b3d-b9b0-fb40b08f41b9",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1427.9087317911333,
+                125.61168083435413,
+                1548.4578294706014,
+                149.25899193655113
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "18.12.2004",
+            "uuid": "9eb29fe8-40db-4d91-b36b-76473b088907",
+            "vertical": false,
+            "translation": "18.12.2004"
+        },
+        {
+            "bbox": [
+                789.765955246479,
+                222.5656563533621,
+                879.5868515566709,
+                241.4835052351196
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE",
+            "uuid": "b664f7ca-c811-47e1-9861-b78bb31d532d",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                263.4436927562194,
+                263.6988694517555,
+                1406.5375287273803,
+                315.30976144182955
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "du règlement de la Commission, du 17 décembre 2004, fixant les restitutions à l'exportation dans le secteur de la viande de porc",
+            "uuid": "fbd8eff7-282a-4664-8511-72a223feeb62",
+            "vertical": true,
+            "translation": "of the Commission Regulation of December 17, 2004, establishing the export refunds in the pork sector"
+        },
+        {
+            "bbox": [
+                266.1894424295598,
+                364.20429069558406,
+                1406.5680911418817,
+                929.2077398500799
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "f79bb23d-7032-4c72-ac9b-8413dbc49ab6",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                336.7843111593702,
+                377.7861043771826,
+                453.53736328944126,
+                404.94973174037943
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Code produit",
+            "uuid": "477ccdbc-60e0-4794-87a0-a2982143f5b2",
+            "vertical": false,
+            "translation": "Product Code"
+        },
+        {
+            "bbox": [
+                602.8068357866522,
+                380.5024671135022,
+                697.8383898460123,
+                407.66609447669924
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Destination",
+            "uuid": "65232427-5bd0-4a29-963c-5b8de7a326b7",
+            "vertical": false,
+            "translation": "Destination"
+        },
+        {
+            "bbox": [
+                885.1863107058939,
+                380.5024671135022,
+                1023.6608609066758,
+                404.94973174037943
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Unité de mesure",
+            "uuid": "94416060-8963-4615-a07d-9c974b91124d",
+            "vertical": false,
+            "translation": "Unit of measure"
+        },
+        {
+            "bbox": [
+                1172.996160142813,
+                383.218829849822,
+                1384.7807663322444,
+                404.94973174037943
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Montant des restitutions",
+            "uuid": "7cab7fa8-e1c3-4eba-a212-4f4e3eb2da50",
+            "vertical": false,
+            "translation": "Amount of refunds"
+        },
+        {
+            "bbox": [
+                313.1301838287766,
+                441.2905911180691,
+                474.4040789537436,
+                462.4189347392244
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "0210 11 31 9110",
+            "uuid": "6e7f146d-0105-45eb-8375-866d7c52139c",
+            "vertical": false,
+            "translation": "0210 11 31 9110"
+        },
+        {
+            "bbox": [
+                627.0961944421847,
+                443.2175152630937,
+                671.0454047221286,
+                464.27100029731787
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "8ddc04bb-ae6d-4ca3-8972-547c9680fe45",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.8410120848714,
+                439.36983260705523,
+                1011.8765061056802,
+                470.10196878328065
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "68592799-95be-4b35-8987-2551522919ee",
+            "vertical": false,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1248.233701472643,
+                437.4490740960411,
+                1309.6713758059634,
+                466.2604517612524
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "2cd26d56-ef24-4796-a453-2402aac54ea0",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                307.01716689801333,
+                483.7242510936506,
+                478.0739642048616,
+                510.8878784568474
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "0210 11 31 9910",
+            "uuid": "fcd9925a-4eba-488d-be6e-50151d68d16f",
+            "vertical": false,
+            "translation": "0210 11 31 9910"
+        },
+        {
+            "bbox": [
+                629.0640695293464,
+                478.6582173439757,
+                673.6692381716776,
+                512.1559607515852
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "3f5ea276-87fb-41eb-ac95-3a1d1ad6f994",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                890.6166852235715,
+                486.4406138299701,
+                1012.8001118713204,
+                513.6042411931672
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "73455a41-eed0-4fb3-9ca4-76cd465e7cb7",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1254.451777907979,
+                486.4406138299701,
+                1308.755523084756,
+                508.17151572052785
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "db18e2f8-f7a9-4fea-9a61-30cf24a52c6a",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                311.50300908987265,
+                531.0668673504423,
+                477.3767511307613,
+                560.1801223045414
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "0210 19 81 9100",
+            "uuid": "a00ee9d3-8ce6-4457-84e6-ed2ca351717a",
+            "vertical": false,
+            "translation": "0210 19 81 9100"
+        },
+        {
+            "bbox": [
+                631.5094429267085,
+                531.0668673504423,
+                673.6692381716776,
+                554.7932543067548
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "3f42926b-e1c5-4a50-96d0-5df4c134ce17",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.4153514123224,
+                528.1555418550324,
+                1015.6381087056086,
+                566.0027732953613
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "b062c697-fc40-4b7b-9ef6-95283cd01da9",
+            "vertical": false,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1254.2634919925013,
+                528.1555418550324,
+                1309.554739339464,
+                557.2687968091316
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "0000fb42-0107-4895-b5ab-108a9f3b975a",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                311.4929303253145,
+                577.6480752770009,
+                477.36667236620326,
+                606.7613302311004
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "0210 19 81 9300",
+            "uuid": "0fc28d82-1718-41ec-9e3d-f09446dcdb33",
+            "vertical": false,
+            "translation": "0210 19 81 9300"
+        },
+        {
+            "bbox": [
+                628.5993772768684,
+                574.736749781591,
+                678.0704933241509,
+                598.0273537448703
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "437b188f-30ff-4cda-9933-194752cca508",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                890.505285762482,
+                574.736749781591,
+                1012.7280430557684,
+                600.9386792402802
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "c900fd62-8e28-49d6-8671-af6f85e35819",
+            "vertical": true,
+            "translation": "EUR/100kg"
+        },
+        {
+            "bbox": [
+                1251.353426342661,
+                571.8254242861811,
+                1318.2849362889847,
+                600.9386792402802
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "59,50",
+            "uuid": "376fcaa9-b002-41e9-aae7-7e57f6d61324",
+            "vertical": false,
+            "translation": "59.50"
+        },
+        {
+            "bbox": [
+                317.31432147056455,
+                621.3179577081498,
+                480.2779978616132,
+                647.5198871668391
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1601 00 91 9120",
+            "uuid": "db8bb226-2483-4b83-a325-d10e50a5617c",
+            "vertical": false,
+            "translation": "1601 00 91 9120"
+        },
+        {
+            "bbox": [
+                628.6018969680077,
+                615.4953067173301,
+                669.34281606577,
+                644.6085616714291
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "94787542-e335-4c17-9841-e13760ea472b",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                887.5977398037815,
+                621.3179577081498,
+                1018.5506940465882,
+                650.431212662249
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "6275575e-a5e8-4f2d-9e59-8855cabee4c3",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1251.3559460338006,
+                624.2292832035598,
+                1309.5572590306035,
+                647.5198871668391
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "21,50",
+            "uuid": "fec1aa03-4b92-4e9b-89ec-801a70869516",
+            "vertical": false,
+            "translation": "21.50"
+        },
+        {
+            "bbox": [
+                314.4029959751546,
+                659.1651891484787,
+                480.27673801604345,
+                694.1010950933977
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1601 00 99 9110",
+            "uuid": "adb74663-6d89-47b1-a09e-b87729543763",
+            "vertical": false,
+            "translation": "1601 00 99 9110"
+        },
+        {
+            "bbox": [
+                631.5107027722784,
+                664.3383008254208,
+                674.981154896452,
+                691.232593683297
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "8ff843e5-a7e1-48bb-9b20-cf632dac8072",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.3408964589706,
+                662.0356266820445,
+                1015.6393685511783,
+                690.8600121378406
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "83a62803-2fea-4e31-b622-074919654fba",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1248.4446205383906,
+                667.8991656347085,
+                1306.6459335351935,
+                694.1010950933977
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "16,50",
+            "uuid": "e382184c-30a2-4a33-93c0-7c1522b8bfc5",
+            "vertical": true,
+            "translation": "16.50"
+        },
+        {
+            "bbox": [
+                314.40173612958495,
+                711.5690480658571,
+                486.095609470154,
+                737.7709775245464
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "1602 41 10 9110",
+            "uuid": "dc0fee2f-51ac-4f1e-a17a-4c96649c6766",
+            "vertical": false,
+            "translation": "1602 41 10 9110"
+        },
+        {
+            "bbox": [
+                628.4081111669592,
+                708.943469467752,
+                670.3894463597416,
+                737.9003899726501
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "d64f20d3-9ca5-439f-bac0-c656abdce682",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.4178711034616,
+                705.7463970750374,
+                1021.4607596964285,
+                740.6823030199563
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "c9962e45-4bc6-450a-b002-853bbe5f6512",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1251.3559460338006,
+                711.5690480658571,
+                1315.377390330284,
+                737.7709775245464
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "32,00",
+            "uuid": "d13ff838-5376-4055-8aa3-1a621e605938",
+            "vertical": false,
+            "translation": "32.00"
+        },
+        {
+            "bbox": [
+                317.31432147056455,
+                758.1502559924157,
+                489.0081948111337,
+                778.5295344602852
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "1602 41 10 9130",
+            "uuid": "8782b20c-88b3-4a90-b9df-96961f1310bb",
+            "vertical": false,
+            "translation": "1602 41 10 9130"
+        },
+        {
+            "bbox": [
+                637.3333537630981,
+                752.327605001596,
+                672.2541415611798,
+                775.6182089648753
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "28e48796-d0a8-47a8-9092-e57da99d08a8",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                890.5090652991914,
+                749.416279506186,
+                1018.5519538921582,
+                784.352185451105
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "769f23b9-8e3a-4f95-b60e-6638204dd1fa",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1251.3572058793704,
+                752.327605001596,
+                1315.3786501758536,
+                784.352185451105
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "4ca6d82e-75e4-442e-ac69-e0686a5870ef",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                311.4941901708843,
+                795.9974874327446,
+                483.1880635114534,
+                825.1107423868438
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "1602 42 10 9110",
+            "uuid": "ba938083-9664-4dda-8940-4b1023f8c484",
+            "vertical": false,
+            "translation": "1602 42 10 9110"
+        },
+        {
+            "bbox": [
+                625.690571472598,
+                795.9974874327446,
+                678.0717531697205,
+                822.1994168914339
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "d4cf184d-07d5-4fa8-9a1d-b791c61352ac",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.4166112578919,
+                798.9088129281546,
+                1012.7293029013383,
+                822.1994168914339
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "dd87cc3f-a947-4224-8a96-595d28b912be",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1251.3546861882307,
+                798.9088129281546,
+                1303.7358678853536,
+                825.1107423868438
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "25,00",
+            "uuid": "29d2685c-a3d3-449e-8406-fe4cb07ff160",
+            "vertical": false,
+            "translation": "25.00"
+        },
+        {
+            "bbox": [
+                311.49167047974476,
+                839.6673698638933,
+                486.095609470154,
+                871.6919503134023
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "1602 42 10 9130",
+            "uuid": "ad9a2697-b657-4726-aa17-a5c939770cdf",
+            "vertical": false,
+            "translation": "1602 42 10 9130"
+        },
+        {
+            "bbox": [
+                625.6918313181677,
+                842.5786953593033,
+                669.34281606577,
+                868.7806248179925
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "2e3997ec-d8c7-451d-86db-55ab975d6be0",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                893.4178711034616,
+                840.7486182911113,
+                1010.4628395430454,
+                874.6032758088126
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "32579e39-bd81-4293-ae89-ce36a9ff33a0",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1251.3559460338006,
+                839.6673698638933,
+                1303.7371277309232,
+                868.7806248179925
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "cf422f5d-8da4-417b-a44e-e02dbbee4374",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                311.49167047974476,
+                886.2485777904523,
+                480.2754781704736,
+                912.4505072491414
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "1602 49 19 9130",
+            "uuid": "3d8f9ead-f32c-43e0-b36f-62c66ad9140e",
+            "vertical": false,
+            "translation": "1602 49 19 9130"
+        },
+        {
+            "bbox": [
+                631.5107027722784,
+                886.2485777904523,
+                678.0717531697205,
+                909.5391817537316
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "P08",
+            "uuid": "ce8229db-8bb4-4139-b9ff-55b844a0890a",
+            "vertical": false,
+            "translation": "P08"
+        },
+        {
+            "bbox": [
+                892.9529272521522,
+                886.0388969865597,
+                1016.5831474748629,
+                914.3707651732462
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "EUR/100 kg",
+            "uuid": "62d88f97-700d-4f44-b480-5d4f52436290",
+            "vertical": true,
+            "translation": "EUR/100 kg"
+        },
+        {
+            "bbox": [
+                1248.4446205383906,
+                883.3372522950423,
+                1306.6459335351935,
+                909.5391817537316
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "19,00",
+            "uuid": "8f01bf2d-95ca-4fe0-9640-b039b2731c02",
+            "vertical": false,
+            "translation": "19.00"
+        },
+        {
+            "bbox": [
+                263.46442336869563,
+                945.3156139691043,
+                1403.1998618429864,
+                994.7224459701995
+            ],
+            "order": "56",
+            "label": "Text",
+            "text": "NB: Les codes des produits ainsi que les codes des destinations série «A» sont définis au règlement (CEE) nº 3846/87 de la Commission (JO L 366 du 27.3.2002, p. 1), modifié.",
+            "uuid": "89df4e4c-bb8b-4df2-b608-76e3d42fa2f3",
+            "vertical": false,
+            "translation": "Note: The product codes and \"A\" series destination codes are defined in Commission Regulation (EEC) No. 3846/87 (OJ L 366, 27.3.2002, p. 1), as amended."
+        },
+        {
+            "bbox": [
+                304.6101070681285,
+                998.8396819702908,
+                1407.3144302129297,
+                1048.2465139713863
+            ],
+            "order": "57",
+            "label": "Text",
+            "text": "Les codes des destinations numériques sont définis au règlement (CE) nº 2081/2003 de la Commission (JO L 313 du 28.11.2003, p. 11).",
+            "uuid": "8fa6b8a0-9e37-43a6-a73e-2569e8c02728",
+            "vertical": false,
+            "translation": "The numeric destination codes are defined in Commission Regulation (EC) No. 2081/2003 (OJ L 313, 28.11.2003, p. 11)."
+        },
+        {
+            "bbox": [
+                302.5528228831569,
+                1052.3637499714773,
+                722.2387966173723,
+                1075.0085479719794
+            ],
+            "order": "58",
+            "label": "Text",
+            "text": "Les autres destinations sont définies comme suit:",
+            "uuid": "7cc0408f-dff8-4623-b2d1-0a4e6ebacc58",
+            "vertical": false,
+            "translation": "Other destinations are defined as follows:"
+        },
+        {
+            "bbox": [
+                304.6101070681285,
+                1081.1844019721163,
+                919.7380783746502,
+                1105.8878179726642
+            ],
+            "order": "59",
+            "label": "Text",
+            "text": "P08 Toutes les destinations, à l'exception de la Bulgarie et la Roumanie.",
+            "uuid": "445b3dfc-047e-4813-8602-a44c50c2a53a",
+            "vertical": false,
+            "translation": "P08 All destinations except Bulgaria and Romania."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

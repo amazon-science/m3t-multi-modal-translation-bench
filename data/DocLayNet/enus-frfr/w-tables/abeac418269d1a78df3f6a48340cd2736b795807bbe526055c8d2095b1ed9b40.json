@@ -1,0 +1,2317 @@
+{
+    "file": "abeac418269d1a78df3f6a48340cd2736b795807bbe526055c8d2095b1ed9b40.png",
+    "annotations": [
+        {
+            "bbox": [
+                15.0,
+                1743.0,
+                32.0,
+                1941.0
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "FINANCIAL SECTION",
+            "uuid": "5e26d4d8-a7d3-42e7-8f94-43045bb41872",
+            "vertical": true,
+            "translation": "SECTION FINANCIÈRE"
+        },
+        {
+            "bbox": [
+                119.00000000000001,
+                470.0,
+                816.0,
+                494.0
+            ],
+            "order": "2",
+            "label": "Section-header",
+            "text": "3) Summarized consolidated statements of cash flows by business segment",
+            "uuid": "84fbd118-887d-4cfe-92b8-3b9dc0393866",
+            "vertical": false,
+            "translation": "3) États consolidés résumés des flux de trésorerie par secteur d'activité"
+        },
+        {
+            "bbox": [
+                750.0264321842725,
+                523.3264797503355,
+                865.0291228449893,
+                545.1211747593655
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "Millions of yen",
+            "uuid": "43e236b3-6775-4d22-a37d-d3387db283f0",
+            "vertical": false,
+            "translation": "Millions de yens"
+        },
+        {
+            "bbox": [
+                117.99999999999999,
+                572.0,
+                555.0,
+                594.0
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "Fiscal year 2004 (For the year ended Mar. 31, 2005)",
+            "uuid": "598163be-28c7-4f9b-a370-16d4d35f048d",
+            "vertical": false,
+            "translation": "Exercice financier 2004 (pour l'exercice terminé le 31 mars 2005)"
+        },
+        {
+            "bbox": [
+                116.84134518134077,
+                608.498545699234,
+                303.94552906347695,
+                636.7621224740054
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Operating activities",
+            "uuid": "e59758ad-40b5-4572-962e-f19378bfccba",
+            "vertical": false,
+            "translation": "Activités d’exploitation"
+        },
+        {
+            "bbox": [
+                152.99999999999997,
+                640.9088286284782,
+                474.9645887693085,
+                690.1358158972812
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Income before income taxes and minority interests",
+            "uuid": "d54abbd8-724c-49b1-8cf7-1ff7ef390cee",
+            "vertical": false,
+            "translation": "Revenu avant impôts et intérêts minoritaires"
+        },
+        {
+            "bbox": [
+                154.92009047748928,
+                700.2824063804966,
+                446.2417104338496,
+                727.7294608301972
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Depreciation and amortization",
+            "uuid": "b885d154-f85f-490e-ba46-16a51f14ac98",
+            "vertical": false,
+            "translation": "Dépréciation et amortissement"
+        },
+        {
+            "bbox": [
+                153.99242526504923,
+                730.8923542351636,
+                429.50899335974566,
+                781.5672733267191
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "(Increase) decrease in sales finance receivables",
+            "uuid": "05475f61-8e80-41b3-8667-fcf93fc790d5",
+            "vertical": false,
+            "translation": "(Augmentation) diminution des créances sur le financement des ventes"
+        },
+        {
+            "bbox": [
+                153.0,
+                794.0,
+                219.0,
+                811.0
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Others",
+            "uuid": "6068a511-b412-4aa1-9e41-0af0e8eb8286",
+            "vertical": false,
+            "translation": "Autres"
+        },
+        {
+            "bbox": [
+                152.99999999999997,
+                826.9057037227094,
+                452.23679106452704,
+                882.7059853117788
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Net cash provided by (used in) operating activities",
+            "uuid": "8df6b76d-dec1-4975-9fa6-227c7404567e",
+            "vertical": false,
+            "translation": "Trésorerie nette provenant (utilisée dans) des activités d'exploitation"
+        },
+        {
+            "bbox": [
+                117.99999999999999,
+                917.0,
+                294.0,
+                941.0
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "Investing activities",
+            "uuid": "5935b3bc-b3cb-4151-b7f1-c2372dcb2565",
+            "vertical": false,
+            "translation": "Activités d'investissement"
+        },
+        {
+            "bbox": [
+                153.99242526504923,
+                950.9999999999999,
+                592.7780707491955,
+                1006.1616587951821
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "Proceeds from sales of investment securities including shares of subsidiaries",
+            "uuid": "1951c1cc-3e98-4392-a246-f9ed849832b9",
+            "vertical": false,
+            "translation": "Produit de la vente de titres de placement, y compris les actions de filiales"
+        },
+        {
+            "bbox": [
+                153.99242526504923,
+                1010.5834157858404,
+                473.1092583444283,
+                1065.7794959260239
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Proceeds from sales of property, plant and equipment",
+            "uuid": "07fc1753-ca1f-474a-9d9c-23b531eb113f",
+            "vertical": false,
+            "translation": "Produit de la vente d'immobilisations corporelles"
+        },
+        {
+            "bbox": [
+                154.0,
+                1073.0,
+                405.0,
+                1090.0
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "Purchases of fixed assets",
+            "uuid": "32109356-5c35-46c0-9b9c-4ffbfd8cb495",
+            "vertical": false,
+            "translation": "Achats d'immobilisations"
+        },
+        {
+            "bbox": [
+                153.99242526504923,
+                1103.813769636066,
+                438.7856454841463,
+                1123.2947390973072
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "Purchases of leased vehicles",
+            "uuid": "6598b731-4ed1-494a-b0e9-4a8f4337608a",
+            "vertical": false,
+            "translation": "Achats de véhicules loués"
+        },
+        {
+            "bbox": [
+                153.99242526504923,
+                1165.0,
+                219.85665534829317,
+                1184.2836923966033
+            ],
+            "order": "83",
+            "label": "Table cell",
+            "text": "Others",
+            "uuid": "b752e244-fd57-4bfd-b92a-86e6ac4dd152",
+            "vertical": false,
+            "translation": "Autres"
+        },
+        {
+            "bbox": [
+                154.0,
+                1199.0000000000002,
+                507.99999999999994,
+                1220.0
+            ],
+            "order": "90",
+            "label": "Table cell",
+            "text": "Net cash used in investing activities",
+            "uuid": "746bc80a-93a3-4427-83fb-d935048a9794",
+            "vertical": false,
+            "translation": "Trésorerie nette utilisée dans les activités d'investissement"
+        },
+        {
+            "bbox": [
+                119.00000000000001,
+                1258.0000000000002,
+                302.0,
+                1282.0
+            ],
+            "order": "97",
+            "label": "Table cell",
+            "text": "Financing activities",
+            "uuid": "0dfbd5bd-a1b3-459a-bc52-8594c904f308",
+            "vertical": false,
+            "translation": "Activités de financement"
+        },
+        {
+            "bbox": [
+                152.83829843622286,
+                1290.0,
+                481.14545881102777,
+                1345.6513287389507
+            ],
+            "order": "98",
+            "label": "Table cell",
+            "text": "Increase (decrease) in short-term borrowings",
+            "uuid": "1fd43026-ffa5-4bc9-bb25-e547dec3b989",
+            "vertical": false,
+            "translation": "Augmentation (diminution) des emprunts à court terme"
+        },
+        {
+            "bbox": [
+                154.0,
+                1349.0,
+                474.99999999999994,
+                1404.0
+            ],
+            "order": "105",
+            "label": "Table cell",
+            "text": "(Decrease) increase in long-term borrowings",
+            "uuid": "61b75d90-d826-4d05-b6a1-5b546ad13bc4",
+            "vertical": false,
+            "translation": "(Diminution) augmentation des emprunts à long terme"
+        },
+        {
+            "bbox": [
+                154.0,
+                1413.0,
+                485.0,
+                1430.0
+            ],
+            "order": "112",
+            "label": "Table cell",
+            "text": "Increase in bonds and debentures",
+            "uuid": "e20da2d6-c02d-45c9-a9ee-cdda128a60f9",
+            "vertical": false,
+            "translation": "Augmentation des obligations et débentures"
+        },
+        {
+            "bbox": [
+                153.0,
+                1444.0,
+                219.0,
+                1460.0
+            ],
+            "order": "117",
+            "label": "Table cell",
+            "text": "Others",
+            "uuid": "4ab5fe96-5fe6-42d6-bcad-b5e72622b95f",
+            "vertical": false,
+            "translation": "Autres"
+        },
+        {
+            "bbox": [
+                153.99999999999997,
+                1473.1334460132052,
+                452.6112700471836,
+                1532.8271726261034
+            ],
+            "order": "124",
+            "label": "Table cell",
+            "text": "Net cash (used in) provided by financing activities",
+            "uuid": "027e0f80-cb7c-444f-a673-7c81be4fc4d8",
+            "vertical": false,
+            "translation": "Trésorerie nette (utilisée dans) fournie par les activités de financement"
+        },
+        {
+            "bbox": [
+                118.81251133895563,
+                1569.9499789064253,
+                522.9738992827671,
+                1624.78768946466
+            ],
+            "order": "131",
+            "label": "Table cell",
+            "text": "Effect of exchange rate changes on cash and cash equivalents",
+            "uuid": "0c626690-aaaf-493f-b7cc-1878bae885b5",
+            "vertical": false,
+            "translation": "Effet des variations des taux de change sur la trésorerie et équivalents"
+        },
+        {
+            "bbox": [
+                117.81826438214428,
+                1631.0000000000002,
+                369.8598679338201,
+                1685.97164172257
+            ],
+            "order": "138",
+            "label": "Table cell",
+            "text": "Increase in cash and cash equivalents",
+            "uuid": "ad63894f-4a93-4d52-bb82-73f8c506b168",
+            "vertical": false,
+            "translation": "Augmentation de la trésorerie et équivalents"
+        },
+        {
+            "bbox": [
+                117.04044365548403,
+                1689.7044744033442,
+                507.5636989312832,
+                1746.7182641961106
+            ],
+            "order": "145",
+            "label": "Table cell",
+            "text": "Cash and cash equivalents at beginning",
+            "uuid": "fa76d67f-2eea-4763-83da-a66930304123",
+            "vertical": false,
+            "translation": "Trésorerie et équivalents de trésorerie au début"
+        },
+        {
+            "bbox": [
+                117.99999999999999,
+                1753.0,
+                518.0,
+                1770.0
+            ],
+            "order": "152",
+            "label": "Table cell",
+            "text": "Increase due to inclusion in consolidation",
+            "uuid": "f9e9d337-95e9-4906-b63c-ab367eb3275f",
+            "vertical": false,
+            "translation": "Augmentation due à l'inclusion dans la consolidation"
+        },
+        {
+            "bbox": [
+                117.99999999999999,
+                1787.8176079770544,
+                559.6188572069703,
+                1811.1607399598622
+            ],
+            "order": "157",
+            "label": "Table cell",
+            "text": "Cash and cash equivalents at end of the year",
+            "uuid": "5c89e22b-b706-4222-b50f-09b4f57e5578",
+            "vertical": false,
+            "translation": "Trésorerie et équivalents à la fin de l'année"
+        },
+        {
+            "bbox": [
+                82.0,
+                2262.0,
+                108.50375402218816,
+                2281.7750821225904
+            ],
+            "order": "164",
+            "label": "Page-footer",
+            "text": "98",
+            "uuid": "8fe15051-6901-4dcd-922d-1836de90ab6b",
+            "vertical": false,
+            "translation": "98"
+        },
+        {
+            "bbox": [
+                611.9999999999999,
+                554.0000000000001,
+                739.0,
+                588.9999999999998
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Automobile and Eliminations",
+            "uuid": "9d541f6d-f9b9-490e-a633-65376be11867",
+            "vertical": false,
+            "translation": "Automobile et éliminations"
+        },
+        {
+            "bbox": [
+                622.8475858061929,
+                671.857060746298,
+                725.1459061439082,
+                691.7326991484449
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "¥720,764",
+            "uuid": "4165637f-2580-4174-8803-511fd589690e",
+            "vertical": false,
+            "translation": "720 764 ¥"
+        },
+        {
+            "bbox": [
+                653.0,
+                763.0,
+                720.0,
+                780.0
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "17,131",
+            "uuid": "78e44015-568f-45fa-b301-501251ca5ec1",
+            "vertical": false,
+            "translation": "17 131"
+        },
+        {
+            "bbox": [
+                630.0,
+                791.0,
+                730.0,
+                812.9999999999999
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(207,813)",
+            "uuid": "2120e7de-af4f-4820-9e18-8353a4fb2831",
+            "vertical": false,
+            "translation": "(207 813)"
+        },
+        {
+            "bbox": [
+                637.0,
+                859.0,
+                722.0,
+                877.0
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "879,245",
+            "uuid": "7c596719-3962-4c43-b315-d3463722316d",
+            "vertical": false,
+            "translation": "879 245"
+        },
+        {
+            "bbox": [
+                653.0,
+                982.0,
+                721.0,
+                1000.0
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "10,285",
+            "uuid": "459a10c7-6433-4f65-b0be-cdd5868e8efd",
+            "vertical": false,
+            "translation": "10 285"
+        },
+        {
+            "bbox": [
+                652.0,
+                1043.0,
+                722.0,
+                1061.0
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "71,256",
+            "uuid": "02ab6a5b-eff4-442c-ae65-129b7b558943",
+            "vertical": false,
+            "translation": "71 256"
+        },
+        {
+            "bbox": [
+                629.0,
+                1071.0,
+                729.0,
+                1092.0
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "(453,357)",
+            "uuid": "fd519072-bda8-404d-92d4-a6f2fe593e57",
+            "vertical": false,
+            "translation": "(453 357)"
+        },
+        {
+            "bbox": [
+                643.0,
+                1103.0,
+                731.0,
+                1123.0
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "(15,926)",
+            "uuid": "9531775f-6fca-45cf-83ed-88a964cc2dd1",
+            "vertical": false,
+            "translation": "(15 926)"
+        },
+        {
+            "bbox": [
+                653.0,
+                1133.0,
+                724.0,
+                1153.0
+            ],
+            "order": "77",
+            "label": "Table cell",
+            "text": "16,143",
+            "uuid": "44cb1e00-6e87-45c2-9fca-17202f096b0b",
+            "vertical": false,
+            "translation": "16 143"
+        },
+        {
+            "bbox": [
+                643.0,
+                1163.0,
+                729.0,
+                1184.0
+            ],
+            "order": "84",
+            "label": "Table cell",
+            "text": "(79,115)",
+            "uuid": "ae836542-efcd-49c7-8ec1-bbec957128db",
+            "vertical": false,
+            "translation": "(79 115)"
+        },
+        {
+            "bbox": [
+                629.0,
+                1196.0,
+                732.0,
+                1219.0
+            ],
+            "order": "91",
+            "label": "Table cell",
+            "text": "(450,714)",
+            "uuid": "1915cfeb-ad33-40d7-85a7-09d9aa4a2336",
+            "vertical": false,
+            "translation": "(450 714)"
+        },
+        {
+            "bbox": [
+                631.0,
+                1382.0,
+                730.0,
+                1401.0
+            ],
+            "order": "106",
+            "label": "Table cell",
+            "text": "(391,244)",
+            "uuid": "e2f62c0d-f801-4854-a3fd-4985c2228ab7",
+            "vertical": false,
+            "translation": "(391 244)"
+        },
+        {
+            "bbox": [
+                629.7937192912937,
+                1442.305674908399,
+                731.2062807087061,
+                1463.4123654770203
+            ],
+            "order": "118",
+            "label": "Table cell",
+            "text": "(191,998)",
+            "uuid": "05d0c9a8-e848-45e6-a465-fed901457600",
+            "vertical": false,
+            "translation": "(191 998)"
+        },
+        {
+            "bbox": [
+                664.0,
+                1601.0,
+                723.0,
+                1618.0
+            ],
+            "order": "132",
+            "label": "Table cell",
+            "text": "4,427",
+            "uuid": "22854052-0a11-48c7-937c-9c2b07fe0400",
+            "vertical": false,
+            "translation": "4 427"
+        },
+        {
+            "bbox": [
+                651.0,
+                1662.0,
+                724.0,
+                1681.0
+            ],
+            "order": "139",
+            "label": "Table cell",
+            "text": "24,216",
+            "uuid": "015204e8-04f1-4e72-b574-e471c8df2ca9",
+            "vertical": false,
+            "translation": "24 216"
+        },
+        {
+            "bbox": [
+                639.0,
+                1720.1260713696797,
+                723.1605484609775,
+                1743.2167900273641
+            ],
+            "order": "146",
+            "label": "Table cell",
+            "text": "190,135",
+            "uuid": "6cde043d-dce3-4d97-9ed3-134adc40d88b",
+            "vertical": false,
+            "translation": "190 135"
+        },
+        {
+            "bbox": [
+                762.9749725187924,
+                670.6739095688353,
+                868.5853324619624,
+                693.3320975963255
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "¥72,469",
+            "uuid": "55f13e16-e179-4109-b0a4-f396454fff54",
+            "vertical": false,
+            "translation": "72 469 ¥"
+        },
+        {
+            "bbox": [
+                771.9999999999999,
+                761.9999999999999,
+                875.0135286989969,
+                788.2028116415595
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "(811,480)",
+            "uuid": "acc6d151-bfc8-464c-b869-bdf85e04a97b",
+            "vertical": false,
+            "translation": "(811 480)"
+        },
+        {
+            "bbox": [
+                892.0,
+                554.0,
+                996.0000000000001,
+                589.0
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Consolidated total",
+            "uuid": "8ede6ffa-0752-465b-9401-10e5b4d752cd",
+            "vertical": false,
+            "translation": "Total consolidé"
+        },
+        {
+            "bbox": [
+                771.0000000000001,
+                858.0000000000001,
+                872.4864952013007,
+                881.8810860605402
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "(509,830)",
+            "uuid": "93ff8720-4bd5-44b3-836b-79957e7f8164",
+            "vertical": false,
+            "translation": "(509 830)"
+        },
+        {
+            "bbox": [
+                824.0,
+                982.0,
+                866.0,
+                999.0
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "510",
+            "uuid": "a7bccbc2-9c81-48b0-8d09-23b1c4d36bbd",
+            "vertical": false,
+            "translation": "510"
+        },
+        {
+            "bbox": [
+                920.0,
+                1041.0,
+                990.0,
+                1060.0
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "71,256",
+            "uuid": "8d19353c-11da-45ed-b43e-1655d08eb754",
+            "vertical": false,
+            "translation": "71 256"
+        },
+        {
+            "bbox": [
+                898.0,
+                1071.0,
+                999.0000000000001,
+                1092.0
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "(461,146)",
+            "uuid": "9453c5ce-5039-4356-a57a-182e15c17753",
+            "vertical": false,
+            "translation": "(461 146)"
+        },
+        {
+            "bbox": [
+                799.647413123328,
+                1070.881654594444,
+                874.3244627247525,
+                1094.621052350239
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "(7,789)",
+            "uuid": "6b15a403-76a3-4dd2-88b6-f76a58c9db14",
+            "vertical": false,
+            "translation": "(7 789)"
+        },
+        {
+            "bbox": [
+                780.9999999999999,
+                1132.0,
+                866.5406944977152,
+                1155.4206509454493
+            ],
+            "order": "78",
+            "label": "Table cell",
+            "text": "157,669",
+            "uuid": "2aefb0d0-f59d-4471-9071-c066238cfedc",
+            "vertical": false,
+            "translation": "157 669"
+        },
+        {
+            "bbox": [
+                802.643933065259,
+                1162.4851209833978,
+                866.1503550763822,
+                1184.73371366305
+            ],
+            "order": "85",
+            "label": "Table cell",
+            "text": "9,968",
+            "uuid": "8f35d6e4-35f5-42ec-9a53-7cff087eb36a",
+            "vertical": false,
+            "translation": "9 968"
+        },
+        {
+            "bbox": [
+                779.0,
+                1509.0,
+                865.0,
+                1526.0
+            ],
+            "order": "126",
+            "label": "Table cell",
+            "text": "929,788",
+            "uuid": "00cd4092-227f-461e-b408-693921f646df",
+            "vertical": false,
+            "translation": "929 788"
+        },
+        {
+            "bbox": [
+                921.9999999999999,
+                982.0,
+                990.0,
+                1000.0
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "10,795",
+            "uuid": "b521364d-d95b-48fa-9103-5076c84e639e",
+            "vertical": false,
+            "translation": "10 795"
+        },
+        {
+            "bbox": [
+                778.9924906616883,
+                1321.0,
+                864.6070485432458,
+                1344.3191674280267
+            ],
+            "order": "100",
+            "label": "Table cell",
+            "text": "491,691",
+            "uuid": "19e3db0f-700f-4a9f-af6d-d8740feb681b",
+            "vertical": false,
+            "translation": "491 691"
+        },
+        {
+            "bbox": [
+                779.9867376184997,
+                1381.0,
+                864.0006054690581,
+                1403.5133976612888
+            ],
+            "order": "107",
+            "label": "Table cell",
+            "text": "296,551",
+            "uuid": "a5311a2a-5dec-4bb8-9369-2e6f66b8f953",
+            "vertical": false,
+            "translation": "296 551"
+        },
+        {
+            "bbox": [
+                823.9999999999999,
+                1442.9512109433458,
+                864.9948524258695,
+                1463.2050584007134
+            ],
+            "order": "119",
+            "label": "Table cell",
+            "text": "883",
+            "uuid": "c4b30c43-e266-4b91-b179-2c3c274b5446",
+            "vertical": false,
+            "translation": "883"
+        },
+        {
+            "bbox": [
+                806.0,
+                1663.0,
+                863.9999999999999,
+                1679.9999999999998
+            ],
+            "order": "140",
+            "label": "Table cell",
+            "text": "5,579",
+            "uuid": "18dd3001-a63c-4f05-b1b9-ccd417525806",
+            "vertical": false,
+            "translation": "5 579"
+        },
+        {
+            "bbox": [
+                905.0000000000001,
+                1507.0,
+                989.0,
+                1528.0
+            ],
+            "order": "127",
+            "label": "Table cell",
+            "text": "521,046",
+            "uuid": "6964ac72-095b-4cda-947c-1f19ccce014c",
+            "vertical": false,
+            "translation": "521 046"
+        },
+        {
+            "bbox": [
+                830.0,
+                1598.0,
+                873.8992982020715,
+                1623.3058794727538
+            ],
+            "order": "133",
+            "label": "Table cell",
+            "text": "(58)",
+            "uuid": "ce7320db-e8d6-44d8-bf53-f8d049ccd7b4",
+            "vertical": false,
+            "translation": "(58)"
+        },
+        {
+            "bbox": [
+                919.0000000000001,
+                1662.0,
+                990.0,
+                1679.9999999999998
+            ],
+            "order": "141",
+            "label": "Table cell",
+            "text": "29,795",
+            "uuid": "aa89d5ee-6513-4027-82f0-08af91c6d929",
+            "vertical": false,
+            "translation": "29 795"
+        },
+        {
+            "bbox": [
+                806.9999999999999,
+                1723.0,
+                865.975019431727,
+                1741.911895809502
+            ],
+            "order": "147",
+            "label": "Table cell",
+            "text": "4,029",
+            "uuid": "16ba9042-d1a8-4d11-abe5-ddc060e60b10",
+            "vertical": false,
+            "translation": "4 029"
+        },
+        {
+            "bbox": [
+                919.0000000000001,
+                1753.0,
+                990.0,
+                1770.0
+            ],
+            "order": "154",
+            "label": "Table cell",
+            "text": "65,825",
+            "uuid": "b85f054a-7830-46ef-8bfa-bd50c094659c",
+            "vertical": false,
+            "translation": "65 825"
+        },
+        {
+            "bbox": [
+                621.0,
+                1788.0000000000002,
+                725.3244040817464,
+                1809.032848947185
+            ],
+            "order": "158",
+            "label": "Table cell",
+            "text": "¥280,176",
+            "uuid": "a2be21fb-4811-4123-8f80-9d09aa57b796",
+            "vertical": false,
+            "translation": "280 176 ¥"
+        },
+        {
+            "bbox": [
+                1117.8222711902417,
+                524.013459962726,
+                1324.0851765309735,
+                541.389245047644
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "Thousands of U.S. dollars",
+            "uuid": "5cd377c4-c9a9-487e-9dc5-2ee8f8c1c0da",
+            "vertical": false,
+            "translation": "Milliers de dollars américains"
+        },
+        {
+            "bbox": [
+                1054.9514284826878,
+                670.7914532427801,
+                1171.102646366135,
+                692.2658319644049
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "$6,736,113",
+            "uuid": "fabd972b-6282-4da2-a8dc-93b22736340d",
+            "vertical": false,
+            "translation": "6 736 113 $"
+        },
+        {
+            "bbox": [
+                1086.648031423552,
+                761.9347229077432,
+                1171.552309097462,
+                785.5189272206879
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "160,103",
+            "uuid": "3bad931c-56cd-4745-8707-25dd70cf36fe",
+            "vertical": false,
+            "translation": "160 103"
+        },
+        {
+            "bbox": [
+                1100.0,
+                981.0,
+                1170.0,
+                1001.0
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "96,122",
+            "uuid": "17773c63-1640-4ef5-bdc8-8d0c6f36b76c",
+            "vertical": false,
+            "translation": "96 122"
+        },
+        {
+            "bbox": [
+                1217.0,
+                555.0,
+                1294.0,
+                592.0
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Sales Financing",
+            "uuid": "dace8d66-1089-43b1-bf37-5a60f714e0fa",
+            "vertical": false,
+            "translation": "Financement des ventes"
+        },
+        {
+            "bbox": [
+                1068.9068390737796,
+                857.9020735074162,
+                1173.4531511349376,
+                879.9857225799179
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "8,217,243",
+            "uuid": "fbdd2298-de50-41ca-8073-cb2495d84680",
+            "vertical": false,
+            "translation": "8 217 243"
+        },
+        {
+            "bbox": [
+                1061.0,
+                1443.0,
+                1179.0,
+                1462.0
+            ],
+            "order": "121",
+            "label": "Table cell",
+            "text": "(1,794,373)",
+            "uuid": "fa73e455-d3bf-4ceb-badf-bf3d7e00dc67",
+            "vertical": false,
+            "translation": "(1 794 373)"
+        },
+        {
+            "bbox": [
+                1255.0,
+                982.0,
+                1312.0,
+                999.0
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "4,766",
+            "uuid": "30ed9b69-2b3a-4692-a828-0f302b2b070d",
+            "vertical": false,
+            "translation": "4 766"
+        },
+        {
+            "bbox": [
+                1086.8979312085128,
+                1039.7843616601995,
+                1175.4808156407719,
+                1062.3749557565523
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "665,944",
+            "uuid": "222cb597-5312-4bbf-8027-3b2c462e94a8",
+            "vertical": false,
+            "translation": "665 944"
+        },
+        {
+            "bbox": [
+                1071.7982194426293,
+                1321.8853631819948,
+                1172.7142855589807,
+                1343.3243064157027
+            ],
+            "order": "102",
+            "label": "Table cell",
+            "text": "1,630,841",
+            "uuid": "a784b296-0973-4ccb-93e4-f4ccd2781412",
+            "vertical": false,
+            "translation": "1 630 841"
+        },
+        {
+            "bbox": [
+                1099.0,
+                1601.0,
+                1172.0,
+                1619.0
+            ],
+            "order": "135",
+            "label": "Table cell",
+            "text": "41,373",
+            "uuid": "1855bba5-a3a2-4372-84a2-0c0b2e0b0bea",
+            "vertical": false,
+            "translation": "41 373"
+        },
+        {
+            "bbox": [
+                1343.9999999999998,
+                555.0,
+                1452.423027294852,
+                590.43746411599
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Consolidated total",
+            "uuid": "08680bb3-5e43-493f-89fa-79492ec34eb7",
+            "vertical": false,
+            "translation": "Total consolidé"
+        },
+        {
+            "bbox": [
+                1061.8557498745156,
+                1381.0,
+                1180.6682612134712,
+                1406.49798069826
+            ],
+            "order": "109",
+            "label": "Table cell",
+            "text": "(3,656,486)",
+            "uuid": "d5b52e66-1563-47d3-96ad-66fd6ba29af3",
+            "vertical": false,
+            "translation": "(3 656 486)"
+        },
+        {
+            "bbox": [
+                1256.0,
+                1442.0000000000002,
+                1315.98962682108,
+                1464.1999194130372
+            ],
+            "order": "122",
+            "label": "Table cell",
+            "text": "8,252",
+            "uuid": "b7a220f1-b98c-4ba3-b5d0-0b0310476b78",
+            "vertical": false,
+            "translation": "8 252"
+        },
+        {
+            "bbox": [
+                1061.8557498745156,
+                1506.8152971489048,
+                1179.67401425666,
+                1530.8556072387273
+            ],
+            "order": "128",
+            "label": "Table cell",
+            "text": "(3,820,018)",
+            "uuid": "95ba29e6-69e6-4a80-886a-a1d154425c2e",
+            "vertical": false,
+            "translation": "(3 820 018)"
+        },
+        {
+            "bbox": [
+                1087.0,
+                1661.0,
+                1172.0,
+                1681.0
+            ],
+            "order": "142",
+            "label": "Table cell",
+            "text": "226,318",
+            "uuid": "aac45af7-00f6-4acf-8d0c-d243640d565e",
+            "vertical": false,
+            "translation": "226 318"
+        },
+        {
+            "bbox": [
+                1265.0,
+                1598.9999999999998,
+                1322.0,
+                1620.0
+            ],
+            "order": "136",
+            "label": "Table cell",
+            "text": "(542)",
+            "uuid": "9080af4c-0aaf-4bc5-b651-c2e49aa626e3",
+            "vertical": false,
+            "translation": "(542)"
+        },
+        {
+            "bbox": [
+                1372.0,
+                982.0,
+                1456.0,
+                1000.0
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "100,888",
+            "uuid": "7b86c1a8-7525-492a-87d9-228c31020dd8",
+            "vertical": false,
+            "translation": "100 888"
+        },
+        {
+            "bbox": [
+                1242.0,
+                1662.0,
+                1314.0,
+                1679.0
+            ],
+            "order": "143",
+            "label": "Table cell",
+            "text": "52,140",
+            "uuid": "75ca4ddd-1664-43a8-9539-d47dd5f4402c",
+            "vertical": false,
+            "translation": "52 140"
+        },
+        {
+            "bbox": [
+                1242.0,
+                1721.0,
+                1312.0,
+                1741.0
+            ],
+            "order": "150",
+            "label": "Table cell",
+            "text": "37,654",
+            "uuid": "2628ea05-a28a-41de-87e1-7ca1bb30b523",
+            "vertical": false,
+            "translation": "37 654"
+        },
+        {
+            "bbox": [
+                1352.0,
+                1509.0,
+                1454.0,
+                1526.0
+            ],
+            "order": "130",
+            "label": "Table cell",
+            "text": "4,869,589",
+            "uuid": "6c9bca9e-ed07-4493-9c48-8e59452223d4",
+            "vertical": false,
+            "translation": "4 869 589"
+        },
+        {
+            "bbox": [
+                1383.0,
+                1598.9999999999998,
+                1452.0,
+                1620.0
+            ],
+            "order": "137",
+            "label": "Table cell",
+            "text": "40,831",
+            "uuid": "899553d4-96e2-4f0a-a987-0ee2b18fa5cc",
+            "vertical": false,
+            "translation": "40 831"
+        },
+        {
+            "bbox": [
+                1370.0,
+                1662.0,
+                1455.0,
+                1679.9999999999998
+            ],
+            "order": "144",
+            "label": "Table cell",
+            "text": "278,458",
+            "uuid": "623128bb-4d01-4629-bf45-f9bca368d02c",
+            "vertical": false,
+            "translation": "278 458"
+        },
+        {
+            "bbox": [
+                1071.0,
+                1721.0,
+                1171.0,
+                1742.0
+            ],
+            "order": "149",
+            "label": "Table cell",
+            "text": "1,776,963",
+            "uuid": "3dff5340-191f-49c4-9282-77942acc1050",
+            "vertical": false,
+            "translation": "1 776 963"
+        },
+        {
+            "bbox": [
+                1355.0,
+                1722.0,
+                1455.0,
+                1741.0
+            ],
+            "order": "151",
+            "label": "Table cell",
+            "text": "1,814,617",
+            "uuid": "890b41e5-a4b2-4bc0-86be-77d784d1d72a",
+            "vertical": false,
+            "translation": "1 814 617"
+        },
+        {
+            "bbox": [
+                1084.0916660052355,
+                1751.7295845233114,
+                1172.3769753326078,
+                1774.8228147673335
+            ],
+            "order": "155",
+            "label": "Table cell",
+            "text": "615,187",
+            "uuid": "29fa960c-b375-4f1f-b475-482dccbab0a2",
+            "vertical": false,
+            "translation": "615 187"
+        },
+        {
+            "bbox": [
+                1197.210030202323,
+                670.4073865100333,
+                1313.8940518375293,
+                694.398363228246
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "$677,280",
+            "uuid": "70be7fa3-7b33-47e4-871d-2c75b39cc9c6",
+            "vertical": false,
+            "translation": "677 280 $"
+        },
+        {
+            "bbox": [
+                1337.8702206666812,
+                669.3411208781125,
+                1456.6854573089233,
+                692.7989647803652
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "$ 7,413,393",
+            "uuid": "8dee0daf-c7c5-4d50-9b13-ed1bb24865f2",
+            "vertical": false,
+            "translation": "7 413 393 $"
+        },
+        {
+            "bbox": [
+                1352.7887257159316,
+                702.9284882836107,
+                1457.2182610606824,
+                724.2538009220225
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "4,915 , 196",
+            "uuid": "c747b452-fee7-4ac5-b47b-1118abfaf853",
+            "vertical": false,
+            "translation": "4 915 196"
+        },
+        {
+            "bbox": [
+                1213.7269465068498,
+                701.8622226516901,
+                1311.7628368304934,
+                723.1875352901017
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "1,651,991",
+            "uuid": "98fbed02-be43-4f2f-a079-255f38d9c768",
+            "vertical": false,
+            "translation": "1 651 991"
+        },
+        {
+            "bbox": [
+                1067.7387185249022,
+                701.8622226516901,
+                1171.6354501178942,
+                723.7206681060619
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "3,263,205",
+            "uuid": "62bf0cc3-6b48-4566-9712-e5d2acb78407",
+            "vertical": false,
+            "translation": "3 263 205"
+        },
+        {
+            "bbox": [
+                1044.8281571992682,
+                554.7175654466508,
+                1172.701057621412,
+                593.1031281957914
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Automobile and Eliminations",
+            "uuid": "aa4da42c-5561-4cad-8524-f77223d4a1c5",
+            "vertical": false,
+            "translation": "Automobile et éliminations"
+        },
+        {
+            "bbox": [
+                906.2831979917028,
+                701.8103948998773,
+                991.7091093483897,
+                723.69766709432
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "525,926",
+            "uuid": "84b063d0-de05-471b-b622-e48f61aed614",
+            "vertical": false,
+            "translation": "525 926"
+        },
+        {
+            "bbox": [
+                889.4344888313874,
+                671.0499042482284,
+                990.8223351820574,
+                692.3456285455236
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "¥793,233",
+            "uuid": "dc83ac1d-e6d5-461d-98e5-ca52bff68d57",
+            "vertical": false,
+            "translation": "793 233 ¥"
+        },
+        {
+            "bbox": [
+                782.7259974827231,
+                701.8103948998773,
+                866.0827691179678,
+                723.1061191971729
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "176,763",
+            "uuid": "28fd8b49-e3fb-41a7-b76a-b947501aa6f5",
+            "vertical": false,
+            "translation": "176 763"
+        },
+        {
+            "bbox": [
+                773.9595162588155,
+                555.075596511475,
+                854.7453028515285,
+                595.6519381422852
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Sales Financing",
+            "uuid": "2468813b-2462-4151-89a9-643ed298d67a",
+            "vertical": false,
+            "translation": "Financement des ventes"
+        },
+        {
+            "bbox": [
+                636.842168340098,
+                701.2746736551824,
+                724.0426983094634,
+                724.9447463907219
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "349,163",
+            "uuid": "7a45ab87-4998-4810-824c-da11a51462b0",
+            "vertical": false,
+            "translation": "349 163"
+        },
+        {
+            "bbox": [
+                152.1370948401691,
+                1133.230594339557,
+                537.1181580027923,
+                1152.7235954158837
+            ],
+            "order": "76",
+            "label": "Table cell",
+            "text": "Proceeds from sales of leased vehicles",
+            "uuid": "9720d280-6609-4a9f-b7c5-832ed30548e7",
+            "vertical": false,
+            "translation": "Produit de la vente de véhicules loués"
+        },
+        {
+            "bbox": [
+                1369.6976861677422,
+                1042.6345597402358,
+                1456.4343835308873,
+                1062.5916798898083
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "665,944",
+            "uuid": "89488854-262a-4201-b398-20eeb34bd321",
+            "vertical": false,
+            "translation": "665 944"
+        },
+        {
+            "bbox": [
+                1060.7851704252037,
+                1069.094503321716,
+                1180.4539828299708,
+                1093.2286951305016
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "(4,236,982)",
+            "uuid": "fb4da475-569d-4176-a625-512f3f3293ea",
+            "vertical": false,
+            "translation": "(4 236 982)"
+        },
+        {
+            "bbox": [
+                1235.186230363934,
+                1069.094503321716,
+                1320.995262514639,
+                1094.621052350239
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "(72,794)",
+            "uuid": "fe44aa75-83e6-46e1-a90f-d131b2daff3b",
+            "vertical": false,
+            "translation": "(72 794)"
+        },
+        {
+            "bbox": [
+                1344.6507254318606,
+                1069.5586223949617,
+                1463.8557052304077,
+                1095.0851714234852
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(4,309,776)",
+            "uuid": "83066f3a-fb66-4b63-8d3d-6b4189d996d5",
+            "vertical": false,
+            "translation": "(4 309 776)"
+        },
+        {
+            "bbox": [
+                1345.1145580380805,
+                1101.1187193756816,
+                1462.9280400179678,
+                1126.6452684042047
+            ],
+            "order": "75",
+            "label": "Table cell",
+            "text": "(5,519,673)",
+            "uuid": "9e970464-c670-4665-bd85-f49b2a7cf2f9",
+            "vertical": false,
+            "translation": "(5 519 673)"
+        },
+        {
+            "bbox": [
+                1354.8550427687012,
+                1133.142935429647,
+                1452.2598900749072,
+                1154.4924127989575
+            ],
+            "order": "82",
+            "label": "Table cell",
+            "text": "1,624,411",
+            "uuid": "b0714c93-425d-4287-9712-ba7d3eea8b20",
+            "vertical": false,
+            "translation": "1 624 411"
+        },
+        {
+            "bbox": [
+                1363.2040296806617,
+                1162.3824370441373,
+                1462.9280400179678,
+                1186.9807479261688
+            ],
+            "order": "89",
+            "label": "Table cell",
+            "text": "(646,233)",
+            "uuid": "ede22167-fc52-4664-948a-b4c3eb75875b",
+            "vertical": false,
+            "translation": "(646 233)"
+        },
+        {
+            "bbox": [
+                1344.1868928256406,
+                1194.8707721713488,
+                1463.8557052304077,
+                1221.325559346364
+            ],
+            "order": "96",
+            "label": "Table cell",
+            "text": "(8,084,439)",
+            "uuid": "126e34c1-4964-40e3-a6ba-21893a8206f7",
+            "vertical": false,
+            "translation": "(8 084 439)"
+        },
+        {
+            "bbox": [
+                1203.181780534752,
+                1196.727248464332,
+                1321.459095120859,
+                1219.933202126626
+            ],
+            "order": "95",
+            "label": "Table cell",
+            "text": "(3,872,159)",
+            "uuid": "01a35d74-c004-4083-b60d-cecb14658cef",
+            "vertical": false,
+            "translation": "(3 872 159)"
+        },
+        {
+            "bbox": [
+                1077.9469768553447,
+                1101.1187193756816,
+                1180.4539828299708,
+                1125.252911184467
+            ],
+            "order": "73",
+            "label": "Table cell",
+            "text": "(148,841)",
+            "uuid": "752a5b8d-4340-4a57-962d-5a3a68c70aa1",
+            "vertical": false,
+            "translation": "(148 841)"
+        },
+        {
+            "bbox": [
+                1088.6151267984053,
+                1133.142935429647,
+                1172.5688285242302,
+                1153.5641746524657
+            ],
+            "order": "80",
+            "label": "Table cell",
+            "text": "150,869",
+            "uuid": "b2a782d1-0cd2-49ab-8e81-be712b073ef7",
+            "vertical": false,
+            "translation": "150 869"
+        },
+        {
+            "bbox": [
+                1077.9469768553447,
+                1162.3824370441373,
+                1179.9901502237508,
+                1186.0525097796772
+            ],
+            "order": "87",
+            "label": "Table cell",
+            "text": "(739,392)",
+            "uuid": "bd01a518-0a1d-4df6-9a40-2249d6acc2dc",
+            "vertical": false,
+            "translation": "(739 392)"
+        },
+        {
+            "bbox": [
+                1061.2490030314236,
+                1196.727248464332,
+                1180.4539828299708,
+                1220.397321199872
+            ],
+            "order": "94",
+            "label": "Table cell",
+            "text": "(4,212,280)",
+            "uuid": "3a1a7eec-a88f-4895-a49f-73b0d4a21983",
+            "vertical": false,
+            "translation": "(4 212 280)"
+        },
+        {
+            "bbox": [
+                1202.254115322312,
+                1102.0469575221734,
+                1322.8505929395194,
+                1125.717030257713
+            ],
+            "order": "74",
+            "label": "Table cell",
+            "text": "(5,370,832)",
+            "uuid": "78647174-765f-44cc-9bf7-7c94b3f9b6db",
+            "vertical": false,
+            "translation": "(5 370 832)"
+        },
+        {
+            "bbox": [
+                1214.7775956902528,
+                1132.6788163564013,
+                1313.573940815119,
+                1154.0282937257114
+            ],
+            "order": "81",
+            "label": "Table cell",
+            "text": "1,473,542",
+            "uuid": "ccf92db7-a66c-47a7-8090-6b7f87c006e4",
+            "vertical": false,
+            "translation": "1 473 542"
+        },
+        {
+            "bbox": [
+                1240.7522216385744,
+                1163.774794263875,
+                1314.5016060275589,
+                1186.0525097796772
+            ],
+            "order": "88",
+            "label": "Table cell",
+            "text": "93,159",
+            "uuid": "cfb6760d-62cf-41c5-acc6-3f336f84bd58",
+            "vertical": false,
+            "translation": "93 159"
+        },
+        {
+            "bbox": [
+                772.2812893563463,
+                1100.6546003024357,
+                872.9329649060923,
+                1125.717030257713
+            ],
+            "order": "71",
+            "label": "Table cell",
+            "text": "(574,679)",
+            "uuid": "d433db31-6ad6-48f5-8ee1-d5013b860665",
+            "vertical": false,
+            "translation": "(574 679)"
+        },
+        {
+            "bbox": [
+                897.5160930357538,
+                1101.5828384489273,
+                999.0954337979398,
+                1126.181149330959
+            ],
+            "order": "72",
+            "label": "Table cell",
+            "text": "(590,605)",
+            "uuid": "320d069f-2b18-442c-bca7-ea8ff4d60949",
+            "vertical": false,
+            "translation": "(590 605)"
+        },
+        {
+            "bbox": [
+                906.7927451601544,
+                1133.142935429647,
+                992.1379447046394,
+                1154.0282937257114
+            ],
+            "order": "79",
+            "label": "Table cell",
+            "text": "173,812",
+            "uuid": "15d44d32-5fac-42d5-9b01-440b9b0a69cc",
+            "vertical": false,
+            "translation": "173 812"
+        },
+        {
+            "bbox": [
+                904.9374147352743,
+                1320.433336619698,
+                988.4272838548792,
+                1340.8545758425164
+            ],
+            "order": "101",
+            "label": "Table cell",
+            "text": "666,191",
+            "uuid": "30dcd93a-97e1-43bd-ad53-b520f6988083",
+            "vertical": false,
+            "translation": "666 191"
+        },
+        {
+            "bbox": [
+                910.5034060099146,
+                1379.8826886479699,
+                999.55926640416,
+                1404.9451186032472
+            ],
+            "order": "108",
+            "label": "Table cell",
+            "text": "(94,693)",
+            "uuid": "72f130a1-60a6-4561-b02e-ca2ddaba6e54",
+            "vertical": false,
+            "translation": "(94 693)"
+        },
+        {
+            "bbox": [
+                908.1842429788144,
+                1411.9069047019354,
+                991.6741120984194,
+                1432.328143924754
+            ],
+            "order": "114",
+            "label": "Table cell",
+            "text": "140,663",
+            "uuid": "b8543c2e-90cf-4a4a-9b82-2b3e6c250a87",
+            "vertical": false,
+            "translation": "140 663"
+        },
+        {
+            "bbox": [
+                897.9799256419738,
+                1440.218168169934,
+                998.6316011917198,
+                1465.2805981252113
+            ],
+            "order": "120",
+            "label": "Table cell",
+            "text": "( 91,115)",
+            "uuid": "b68db734-94db-49df-859e-a2244e520cb2",
+            "vertical": false,
+            "translation": "(91 115)"
+        },
+        {
+            "bbox": [
+                782.4856066931869,
+                1410.514547482198,
+                865.5116432065719,
+                1432.328143924754
+            ],
+            "order": "113",
+            "label": "Table cell",
+            "text": "140,663",
+            "uuid": "f5de0605-fd10-46fb-8839-fc1b76e4b356",
+            "vertical": false,
+            "translation": "140 663"
+        },
+        {
+            "bbox": [
+                1211.7591476306027,
+                1320.75128728213,
+                1313.8931329308964,
+                1341.970169241785
+            ],
+            "order": "103",
+            "label": "Table cell",
+            "text": "4,595,243",
+            "uuid": "8c74d67a-2242-413e-9f78-827aa32fd8dc",
+            "vertical": false,
+            "translation": "4 595 243"
+        },
+        {
+            "bbox": [
+                1210.893605382295,
+                1382.242741124395,
+                1314.7586751792037,
+                1402.16250786203
+            ],
+            "order": "110",
+            "label": "Table cell",
+            "text": "2,771,505",
+            "uuid": "3d7e1ef3-f10e-4ab9-8e32-41f896fe3d06",
+            "vertical": false,
+            "translation": "2 771 505"
+        },
+        {
+            "bbox": [
+                1214.3557743755252,
+                1412.5554296381872,
+                1314.7586751792037,
+                1432.0421579684826
+            ],
+            "order": "115",
+            "label": "Table cell",
+            "text": "1,314,607",
+            "uuid": "292c53ad-1846-4051-b1d7-90d3736a3309",
+            "vertical": false,
+            "translation": "1 314 607"
+        },
+        {
+            "bbox": [
+                1351.9488525390625,
+                1321.4570235003957,
+                1456.16455078125,
+                1342.8844336561513
+            ],
+            "order": "104",
+            "label": "Table cell",
+            "text": "6,226,084",
+            "uuid": "caef2c53-0678-4599-8e3f-0c827fcdc849",
+            "vertical": false,
+            "translation": "6 226 084"
+        },
+        {
+            "bbox": [
+                1363.084228515625,
+                1380.8823743323578,
+                1463.8736572265625,
+                1404.5953749047271
+            ],
+            "order": "111",
+            "label": "Table cell",
+            "text": "(884,981)",
+            "uuid": "ae9e337c-29f3-4c86-a84a-b957dd2802a5",
+            "vertical": false,
+            "translation": "(884 981)"
+        },
+        {
+            "bbox": [
+                1354.8040771484373,
+                1411.7378449566459,
+                1456.16455078125,
+                1433.450953914478
+            ],
+            "order": "116",
+            "label": "Table cell",
+            "text": "1,314,607",
+            "uuid": "1bc6d3a4-d3bf-46bb-a0a4-19672776c447",
+            "vertical": false,
+            "translation": "1 314 607"
+        },
+        {
+            "bbox": [
+                1344.23974609375,
+                1441.7362191747036,
+                1463.01708984375,
+                1465.7349185491498
+            ],
+            "order": "123",
+            "label": "Table cell",
+            "text": "(1,786,121)",
+            "uuid": "67cb5c0f-b740-41b3-9e7b-86bcbdffb0c8",
+            "vertical": false,
+            "translation": "(1 786 121)"
+        },
+        {
+            "bbox": [
+                1211.4718017578125,
+                1508.5897388606609,
+                1313.4033203125,
+                1529.160052610186
+            ],
+            "order": "129",
+            "label": "Table cell",
+            "text": "8,689,607",
+            "uuid": "0823f75b-6401-42d4-98cd-cf1606f78181",
+            "vertical": false,
+            "translation": "8 689 607"
+        },
+        {
+            "bbox": [
+                932.1890014272565,
+                1599.9218054763996,
+                990.6131031880177,
+                1621.573725843394
+            ],
+            "order": "134",
+            "label": "Table cell",
+            "text": "4,369",
+            "uuid": "f563c319-41b0-4d62-b17b-186770965c31",
+            "vertical": false,
+            "translation": "4 369"
+        },
+        {
+            "bbox": [
+                1371.0189213191961,
+                1752.3048175856593,
+                1454.5437482808768,
+                1776.1219299893532
+            ],
+            "order": "156",
+            "label": "Table cell",
+            "text": "615,187",
+            "uuid": "97ba90ea-d622-440f-b66e-2db7b21a82ff",
+            "vertical": false,
+            "translation": "615 187"
+        },
+        {
+            "bbox": [
+                1336.8300025110468,
+                1786.9478901728505,
+                1455.8420616533383,
+                1809.032848947185
+            ],
+            "order": "163",
+            "label": "Table cell",
+            "text": "$2,708,262",
+            "uuid": "02bb4ec0-e650-4a47-bf3f-a2a1c22f36fe",
+            "vertical": false,
+            "translation": "2 708 262 $"
+        },
+        {
+            "bbox": [
+                1197.044929409374,
+                1784.782698136151,
+                1315.1914463033575,
+                1808.599810539845
+            ],
+            "order": "162",
+            "label": "Table cell",
+            "text": "$ 89,794",
+            "uuid": "13331082-7a42-4ed8-ba80-ed4d5727c96d",
+            "vertical": false,
+            "translation": "89 794 $"
+        },
+        {
+            "bbox": [
+                1056.3943140593933,
+                1785.215736543491,
+                1172.8097464567618,
+                1810.7650025765445
+            ],
+            "order": "161",
+            "label": "Table cell",
+            "text": "$ 2,618,468",
+            "uuid": "e9226815-b48d-4119-817a-071fc529cc9a",
+            "vertical": false,
+            "translation": "2 618 468 $"
+        },
+        {
+            "bbox": [
+                907.3155381850385,
+                1722.0718778364196,
+                992.1113828752289,
+                1742.273833868953
+            ],
+            "order": "148",
+            "label": "Table cell",
+            "text": "194,164",
+            "uuid": "2d0665bc-e5f3-4118-94f4-62aa95d81a6b",
+            "vertical": false,
+            "translation": "194 164"
+        },
+        {
+            "bbox": [
+                889.9525795103802,
+                1785.1019806579245,
+                992.9189623484687,
+                1810.1524061382663
+            ],
+            "order": "160",
+            "label": "Table cell",
+            "text": "¥289,784",
+            "uuid": "b1849e5f-c0d3-4973-a7f9-6245f697fdc4",
+            "vertical": false,
+            "translation": "289 784 ¥"
+        },
+        {
+            "bbox": [
+                767.2004995779141,
+                1785.5060197785754,
+                865.7251953131831,
+                1810.1524061382663
+            ],
+            "order": "159",
+            "label": "Table cell",
+            "text": "¥ 9,608",
+            "uuid": "5e96d4ec-06da-46e1-bd4f-bc2b155290e4",
+            "vertical": false,
+            "translation": "9 608 ¥"
+        },
+        {
+            "bbox": [
+                652.5242143778469,
+                1752.37481188522,
+                723.591208022959,
+                1774.5969635210072
+            ],
+            "order": "153",
+            "label": "Table cell",
+            "text": "65,825",
+            "uuid": "5fabefcf-f59d-4486-ba1e-34f770eba517",
+            "vertical": false,
+            "translation": "65 825"
+        },
+        {
+            "bbox": [
+                115.0304863425669,
+                517.5353286901236,
+                1469.421696505048,
+                1817.0687337785791
+            ],
+            "order": "3",
+            "label": "Table",
+            "text": "Millions of yen Sales Financing Fiscal year 2004 (For the year ended Mar. 31, 2005) Operating activities Income before income taxes and minority interests Depreciation and amortization (Increase) decrease in sales finance receivables Others Net cash provided by (used in) operating activities Investing activities Proceeds from sales of investment securities including shares of subsidiaries. Proceeds from sales of property plant and equipment Purchases of fixed assets Purchases of leased vehicles Proceeds from sales of leased vehicles Others Net cash used in investing activities Financing activities Increase (decrease) in short-term borrowings (Decrease) increase in long-term borrowings Increase in bonds and debentures Others Net cash (used in) provided by financing activities Effect of exchange rate changes on cash and cash equivalents Increase in cash and cash equivalents Cash and cash equivalents at beginning of the year Increase due to inclusion in consolidation Cash and cash equivalents at end of the year Automobile and Eliminations ¥720,764 349,163 17,131 (207,813) 879,245 10,285 71,256 (453,357) (15,926) 16,143 (79,115) (450,714) 174,500 (391,244) (191,998) (408,742) 4,427 24,216 190,135 65,825 72,469 ¥793,233 176,763 525,926 (811,480) (794,349) 52,418 (155,395) Consolidated total (509,830) 369,415 510 71,256 (461,146) (7,789) (574,679) (590,605) 157,669 173,812 9,968 (69,147) (414,321) (865,035) 929,788 10,795 491,691 666,191 296,551 (94,693) 140,663 140,663 883 (191,115) 5,579 521,046 (58) 4,369 29,795 4,029 194,164 65,825 ¥280,176 ¥9,608 ¥289,784 Thousands of U.S. dollars Automobile and Eliminations $6,736,113 $677,280 $7,413,393 3,263,205 1,651,991 4,915,196 160,103 (7,583,925) (7,423,822) (1,942,178) 489,888 (1,452,290) 96,122 Sales Financing 8,217,243 (4,764,766) 3,452,477 (1,794,373) 4,766 665,944 665,944 (4,236,982) (72,794) (4,309,776) (148,841) (5,370,832) (5,519,673) 150,869 1,473,542 1,624,411 (739,392) 93,159 (646,233) (4,212,280) (3,872,159) (8,084,439) 1,630,841 4,595,243 6,226,084 41,373 Consolidated total (3,656,486) 2,771,505 (884,981) 1,314,607 1,314,607 8,252 (1,786,121) (3,820,018) 8,689,607 226,318 (542) 100,888 52,140 37,654 4,869,589 40,831 278,458 1,776,963 1,814,617 615,187 615,187 $2,618,468 $89,794 $2,708,262",
+            "uuid": "7ba2b73c-1a4f-4bb1-801d-7c086377045d",
+            "vertical": false,
+            "translation": "Millions de yens Financement des ventes Exercice 2004 (pour l'exercice clos le 31 mars 2005) Activités d'exploitation Revenu avant impôts et intérêts minoritaires Dépréciation et amortissement (Augmentation) diminution des créances de financement des ventes Autres Trésorerie nette provenant des (utilisée pour les) activités d'exploitation Activités d'investissement Produits de la vente de titres de placement, y compris les actions des filiales Produits de la vente d'immobilisations corporelles Achats d'actifs immobilisés Achats de véhicules loués Produits de la vente de véhicules loués Autres Trésorerie nette utilisée pour les activités d'investissement Activités de financement Augmentation (diminution) des emprunts à court terme (Diminution) augmentation des emprunts à long terme Augmentation des obligations et des débentures Autres Trésorerie nette (utilisée pour) fournie par les activités de financement Effet des variations des taux de change sur la trésorerie et les équivalents de trésorerie Augmentation de la trésorerie et des équivalents de trésorerie Trésorerie et équivalents de trésorerie au début de l'exercice Augmentation due à l'inclusion dans la consolidation Trésorerie et équivalents de trésorerie à la fin de l'exercice Automobile et éliminations 720 764 ¥ 349 163 17 131 (207 813) 879 245 10 285 71 256 (453 357) (15 926) 16 143 (79 115) (450 714) 174 500 (391 244) (191 998) (408 742) 4 427 24 216 190 135 65 825 72 469 793 233 ¥ 176 763 525 926 (811 480) (794 349) 52 418 (155 395) Total consolidé (509 830) 369 415 510 71 256 (461 146) (7 789) (574 679) (590 605) 157 669 173 812 9 968 (69 147) (414 321) (865 035) 929 788 10 795 491 691 666 191 296 551 (94 693) 140 663 140 663 883 (191 115) 5 579 521 046 (58) 4 369 29 795 4 029 194 164 65 825 280 176 ¥ 9 608 ¥ 289 784 ¥ Milliers de dollars américains Automobile et éliminations 6 736 113 $ 677 280 $ 7 413 393 $ 3 263 205 1 651 991 4 915 196 160 103 (7 583 925) (7 423 822) (1 942 178) 489 888 (1 452 290) 96 122 Financement des ventes 8 217 243 (4 764 766) 3 452 477 (1 794 373) 4 766 665 944 665 944 (4 236 982) (72 794) (4 309 776) (148 841) (5 370 832) (5 519 673) 150 869 1 473 542 1 624 411 (739 392) 93 159 (646 233) (4 212 280) (3 872 159) (8 084 439) 1 630 841 4 595 243 6 226 084 41 373 Total consolidé (3 656 486) 2 771 505 (884 981) 1 314 607 1 314 607 8 252 (1 786 121) (3 820 018) 8 689 607 226 318 (542) 100 888 52 140 37 654 4 869 589 40 831 278 458 1 776 963 1 814 617 615 187 615 187 2 618 468 $ 89 794 $ 2 708 262 $"
+        },
+        {
+            "bbox": [
+                898.9149831545988,
+                761.2955846085952,
+                999.842911712166,
+                786.1529325586695
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(794,349)",
+            "uuid": "3e4f3684-dd19-4fd5-94fb-0980d36624d5",
+            "vertical": false,
+            "translation": "(794 349)"
+        },
+        {
+            "bbox": [
+                1203.2330097220552,
+                759.5247083634503,
+                1321.7188300580344,
+                786.1529325586695
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(7,583,925)",
+            "uuid": "248d9ee3-f21e-45da-a830-8618f612078e",
+            "vertical": false,
+            "translation": "(7 583 925)"
+        },
+        {
+            "bbox": [
+                1345.7961625327255,
+                760.1587137014318,
+                1463.6483688562128,
+                786.1529325586695
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(7,423,822)",
+            "uuid": "69af4fc2-5562-4925-9802-e31079567a38",
+            "vertical": false,
+            "translation": "(7 423 822)"
+        },
+        {
+            "bbox": [
+                1352.765916670136,
+                857.7955357505689,
+                1456.0450007063102,
+                879.3517172419366
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "3,452,477",
+            "uuid": "4dc817a8-4ce4-4104-88c8-a04bd4513873",
+            "vertical": false,
+            "translation": "3 452 477"
+        },
+        {
+            "bbox": [
+                1203.2330097220552,
+                855.259514398643,
+                1322.3524440705264,
+                881.2537332558811
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(4,764,766)",
+            "uuid": "d2ceb3c4-48a8-48b4-95c9-d50673b98b43",
+            "vertical": false,
+            "translation": "(4 764 766)"
+        },
+        {
+            "bbox": [
+                1345.1625485202335,
+                791.2249752625205,
+                1463.6483688562128,
+                815.9511834437958
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "(1,452,290)",
+            "uuid": "626c2c46-71a6-40d6-901a-3edc4cf8bd30",
+            "vertical": false,
+            "translation": "(1 452 290)"
+        },
+        {
+            "bbox": [
+                1228.5775702217302,
+                793.7609966144464,
+                1314.749075920624,
+                816.5851887817771
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "489,888",
+            "uuid": "a438e5e0-c8be-464e-803d-bde8ab0be87c",
+            "vertical": false,
+            "translation": "489 888"
+        },
+        {
+            "bbox": [
+                1061.937084936369,
+                791.2249752625205,
+                1180.422905272348,
+                815.3171781058144
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "(1,942,178)",
+            "uuid": "4937538c-3467-4ae0-8548-8c01874c6a5c",
+            "vertical": false,
+            "translation": "(1 942 178)"
+        },
+        {
+            "bbox": [
+                897.8310557009755,
+                789.9569645865579,
+                999.842911712166,
+                815.9511834437958
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "(155,395)",
+            "uuid": "b61645b4-9b4a-48e1-8b3b-eae07d889710",
+            "vertical": false,
+            "translation": "(155 395)"
+        },
+        {
+            "bbox": [
+                792.6511296273255,
+                791.8589806005022,
+                867.417583101366,
+                815.9511834437958
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "52,418",
+            "uuid": "9fa775f1-1ab9-43cf-ab14-795e677fd330",
+            "vertical": false,
+            "translation": "52 418"
+        },
+        {
+            "bbox": [
+                904.8008098383859,
+                857.1548778792652,
+                990.3387015247881,
+                878.0770540326516
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "369,415",
+            "uuid": "c5160b94-f20d-46d4-baa5-812690e2dd98",
+            "vertical": false,
+            "translation": "369 415"
+        },
+        {
+            "bbox": [
+                910.5033359508128,
+                1161.909521495719,
+                998.5756836871823,
+                1187.903740352957
+            ],
+            "order": "86",
+            "label": "Table cell",
+            "text": "(69,147)",
+            "uuid": "89e3d540-7e32-4dd8-809d-616c8a7a6f26",
+            "vertical": false,
+            "translation": "(69 147)"
+        },
+        {
+            "bbox": [
+                771.108253202602,
+                1195.511804408734,
+                873.7537232262845,
+                1220.238012590009
+            ],
+            "order": "92",
+            "label": "Table cell",
+            "text": "(414,321)",
+            "uuid": "612c9aea-6710-43b1-aa11-692a8b1e4c05",
+            "vertical": false,
+            "translation": "(414 321)"
+        },
+        {
+            "bbox": [
+                897.1974416884837,
+                1195.511804408734,
+                999.209297699674,
+                1220.238012590009
+            ],
+            "order": "93",
+            "label": "Table cell",
+            "text": "(865,035)",
+            "uuid": "0dfcd178-2dc6-480a-9c8a-856750ad0743",
+            "vertical": false,
+            "translation": "(865 035)"
+        },
+        {
+            "bbox": [
+                641.0616057714471,
+                1320.4356933791244,
+                725.2688505973578,
+                1344.2185467515435
+            ],
+            "order": "99",
+            "label": "Table cell",
+            "text": "174,500",
+            "uuid": "d916aa1b-c04b-43ba-960b-0bbf7ca8f213",
+            "vertical": false,
+            "translation": "174 500"
+        },
+        {
+            "bbox": [
+                630.1961548261686,
+                1506.6256539030965,
+                730.701576069997,
+                1531.0880173718706
+            ],
+            "order": "125",
+            "label": "Table cell",
+            "text": "(408,742)",
+            "uuid": "2a6fa030-568b-4651-8f75-ac8e52532c0b",
+            "vertical": false,
+            "translation": "(408 742)"
+        },
+        {
+            "bbox": [
+                125.27511655822939,
+                2263.4881978898666,
+                355.94041053846126,
+                2283.882848642503
+            ],
+            "order": "165",
+            "label": "Page-footer",
+            "text": "Nissan Annual Report 2004",
+            "uuid": "340a2e39-74e3-4f96-a678-99363a549fca",
+            "vertical": false,
+            "translation": "Rapport annuel 2004 de Nissan"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

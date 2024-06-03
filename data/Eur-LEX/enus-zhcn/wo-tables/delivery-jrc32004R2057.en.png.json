@@ -1,0 +1,399 @@
+{
+    "file": "jrc32004R2057.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                110.39216028036661,
+                123.74549903905198,
+                218.00132492341308,
+                144.63085733511645
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "1.12.2004",
+            "uuid": "9d16e82d-71d2-41f9-9749-cc3e3c95be0f",
+            "vertical": false,
+            "translation": "2004 年 12 月 1 日"
+        },
+        {
+            "bbox": [
+                328.8573178099997,
+                121.00260878535077,
+                356.6872741832014,
+                140.95972893492345
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "ΕΝ",
+            "uuid": "ab755dc2-80bf-42c4-92e5-000357f8a8a2",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.0718597286173,
+                121.46844666075177,
+                1021.8232315027212,
+                150.24382920199628
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "81c112c9-687a-4ee2-ad99-6c7ca5991d03",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                690.6467506616214,
+                266.2735975134653,
+                951.320675357277,
+                291.3360274687429
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "of 30 November 2004",
+            "uuid": "c74c4071-5527-4b34-a9c0-59bff5fbb1fb",
+            "vertical": false,
+            "translation": "2004 年 11 月 30 日"
+        },
+        {
+            "bbox": [
+                1426.3872446099901,
+                122.80003056137808,
+                1531.1706812628686,
+                150.2953896401737
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 355/23",
+            "uuid": "61f8c555-337b-4c92-a848-13808729824c",
+            "vertical": false,
+            "translation": "L 355/23"
+        },
+        {
+            "bbox": [
+                530.3698242664198,
+                220.23706567064033,
+                1110.992359154754,
+                251.81478248035697
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "COMMISSION REGULATION (EC) No 2057/2004",
+            "uuid": "186d471b-7266-4278-8770-f3a654ffb526",
+            "vertical": false,
+            "translation": "委员会 (EC) 第 2057/2004 号条例"
+        },
+        {
+            "bbox": [
+                248.29676657306928,
+                313.9305698163014,
+                1389.2795272540777,
+                369.53607214812865
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "fixing the production refund on white sugar used in the chemical industry for the period from 1 to 31 December 2004",
+            "uuid": "ec76bb2a-9175-4289-8f99-14a75274aa61",
+            "vertical": false,
+            "translation": "确定了 2004 年 12 月 1 日至 31 日期间化工行业所用白糖的生产退款"
+        },
+        {
+            "bbox": [
+                106.99121195631439,
+                431.4789342876702,
+                664.5100443273133,
+                452.59908006282944
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "THE COMMISSION OF THE EUROPEAN COMMUNITIES,",
+            "uuid": "ad5548e3-b552-4875-9498-2ca6793f054c",
+            "vertical": false,
+            "translation": "欧洲共同体委员会，"
+        },
+        {
+            "bbox": [
+                110.63036882557681,
+                493.38280983554995,
+                785.3300523868248,
+                550.1887191618395
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "Having regard to the Treaty establishing the European Community,",
+            "uuid": "0f047b37-dadb-419d-a11c-138767c25275",
+            "vertical": false,
+            "translation": "考虑到《建立欧洲共同体条约》，"
+        },
+        {
+            "bbox": [
+                109.10566059267441,
+                584.2940452792151,
+                789.030399879973,
+                699.0708563024457
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector (¹), and in particular the fifth indent of Article 7(5) thereof,",
+            "uuid": "10aa614f-721b-4338-9260-5719157a6266",
+            "vertical": false,
+            "translation": "考虑到 2001 年 6 月 19 日关于糖业市场共同组织的理事会 (EC) 第 1260/2001 号条例 (¹)，特别是其中第 7(5) 条第五分段，"
+        },
+        {
+            "bbox": [
+                109.00304550005018,
+                734.3966615150141,
+                205.04097105075516,
+                758.9014575628926
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "Whereas:",
+            "uuid": "d59e0d94-085d-40b3-bbc6-99687d9b7379",
+            "vertical": false,
+            "translation": "鉴于："
+        },
+        {
+            "bbox": [
+                109.21542102644827,
+                799.2929135453356,
+                786.5716686046223,
+                1065.324958927544
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "(1) Pursuant to Article 7(3) of Regulation (EC) No 1260/2001, production refunds may be granted on the products listed in Article 1(1)(a) and (f) of that Regulation, on syrups listed in Article 1(1)(d) thereof and on chemically pure fructose covered by CN code 1702 50 00 as an intermediate product, that are in one of the situations referred to in Article 23(2) of the Treaty and are used in the manufacture of certain products of the chemical industry.",
+            "uuid": "d98f484a-fab0-4f8f-ad5a-1dded7f2ab28",
+            "vertical": false,
+            "translation": "(1) 根据 (EC) 第 1260/2001 号条例第 7(3) 条，对于该条例第 1(1)(a) 和 (f) 条所列的产品，第 1(1)(d) 条所列的糖浆，以及作为中间产品的 CN 代码 1702 50 00 涵盖的化学纯果糖，如果属于《条约》第 23(2) 条所述情况之一并用于制造某些化学工业产品，可享受生产退款。"
+        },
+        {
+            "bbox": [
+                109.21542102644827,
+                1099.3275019995415,
+                786.5716686046223,
+                1157.8324746354629
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "Commission Regulation (EC) No 1265/2001 of 27 June 2001 laying down detailed rules for the application of",
+            "uuid": "33b92aa6-e5db-44d0-9b7f-ae4168af4665",
+            "vertical": false,
+            "translation": "2001 年 6 月 27 日委员会 (EC) 第 1265/2001 号条例规定了细则，适用"
+        },
+        {
+            "bbox": [
+                925.4860763329364,
+                427.49080922900447,
+                1532.7858402093484,
+                578.6014403523563
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "Council Regulation (EC) No 1260/2001 as regards granting the production refund on certain sugar products used in the chemical industry (2) provides that these refunds shall be determined according to the refund fixed for white sugar.",
+            "uuid": "f1133ab2-42ac-4064-81c5-7037f6f8b535",
+            "vertical": false,
+            "translation": "关于对化学工业中使用的某些糖产品给予生产退款的理事会 (EC) 第 1260/2001 号条例 (2) 规定，这些退款应根据白糖的固定退款确定。"
+        },
+        {
+            "bbox": [
+                856.0342416343041,
+                594.0137815683318,
+                1531.1706812628686,
+                708.7608918331231
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "(3) Article 9 of Regulation (EC) No 1265/2001 provides that the production refund on white sugar is to be fixed at monthly intervals commencing on the first day of each month.",
+            "uuid": "2adb830c-2fdd-4a96-bd22-a5d8b77c2955",
+            "vertical": false,
+            "translation": "(3) (EC) 第 1265/2001 号条例第 9 条规定，白糖生产退款从每月第一天起按月定额。"
+        },
+        {
+            "bbox": [
+                856.0342416343041,
+                728.9628478656568,
+                1534.4009991558282,
+                820.2756891327089
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,",
+            "uuid": "afedd6bd-22b2-4ecb-809d-2bf3583c6433",
+            "vertical": false,
+            "translation": "本条例规定的措施符合糖业管理委员会的意见，"
+        },
+        {
+            "bbox": [
+                855.2266621610642,
+                841.285723406544,
+                1212.9843688063443,
+                863.1038359216802
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "HAS ADOPTED THIS REGULATION:",
+            "uuid": "516f1c02-bb27-4fd9-96e9-7b2a30bae930",
+            "vertical": false,
+            "translation": "已通过以下条例："
+        },
+        {
+            "bbox": [
+                1149.1168619406947,
+                884.1478986003699,
+                1235.23911069428,
+                905.955560613089
+            ],
+            "order": "18",
+            "label": "Section-header",
+            "text": "Article 1",
+            "uuid": "205b63be-ac28-4c97-b7fe-27ff35df40d3",
+            "vertical": false,
+            "translation": "第 1 条"
+        },
+        {
+            "bbox": [
+                856.7275578001941,
+                936.916983770088,
+                1534.87602043887,
+                1053.0273872371763
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "The production refund on white sugar referred to in Article 4 of Regulation (EC) No 1265/2001 shall be equal to 39,481 EUR/100 kg net for the period from 1 to 31 December 2004.",
+            "uuid": "1657bde3-4e8a-4221-a89f-dffab22d180d",
+            "vertical": false,
+            "translation": "2004 年 12 月 1 日至 31 日期间，(EC) 第 1265/2001 号条例第 4 条所述的白糖生产退款应等于 39.481 欧元/100 千克净重。"
+        },
+        {
+            "bbox": [
+                1149.1570561071155,
+                1074.2302825221366,
+                1236.6455026905114,
+                1096.719897949733
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "Article 2",
+            "uuid": "84c1fbf1-02a6-49b2-b1ac-878f7fb69613",
+            "vertical": false,
+            "translation": "第 2 条"
+        },
+        {
+            "bbox": [
+                854.1770351075779,
+                1126.2449819965216,
+                1535.178452138551,
+                1154.3448586724417
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "This Regulation shall enter into force on 1 December 2004.",
+            "uuid": "e70fac7f-47ce-4bc8-b1e2-c9be155acc07",
+            "vertical": false,
+            "translation": "本条例将于 2004 年 12 月 1 日起生效。"
+        },
+        {
+            "bbox": [
+                322.13033272447365,
+                1240.5714299585297,
+                1321.6169130271214,
+                1267.0642477559281
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+            "uuid": "14f033aa-f190-48e1-8d97-cfa21fe33ace",
+            "vertical": false,
+            "translation": "本条例应具有完整约束力，并直接适用于所有成员国。"
+        },
+        {
+            "bbox": [
+                323.16761947812233,
+                1322.9187476735412,
+                738.051457857168,
+                1348.076929799173
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "Done at Brussels, 30 November 2004.",
+            "uuid": "32774f5a-f99d-45fd-a9f5-6b834ebca42f",
+            "vertical": false,
+            "translation": "2004 年 11 月 30 日订于布鲁塞尔。"
+        },
+        {
+            "bbox": [
+                941.2336155566684,
+                1396.1827407375915,
+                1139.5548014666228,
+                1418.6899302359316
+            ],
+            "order": "24",
+            "label": "Text",
+            "text": "For the Commission",
+            "uuid": "e2b5c126-f61e-47b9-a605-0bbe9a8267ca",
+            "vertical": false,
+            "translation": "供委员会参考"
+        },
+        {
+            "bbox": [
+                925.0764582381257,
+                1437.4281113376974,
+                1156.345572797657,
+                1457.082276815121
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "Mariann FISCHER BOEL",
+            "uuid": "efe365e7-1a74-41ab-97ab-5d114ea34fbc",
+            "vertical": false,
+            "translation": "玛丽安·菲舍尔·波尔"
+        },
+        {
+            "bbox": [
+                903.2167748071564,
+                1473.249412933647,
+                1177.254835209889,
+                1503.0476638187731
+            ],
+            "order": "26",
+            "label": "Text",
+            "text": "Member of the Commission",
+            "uuid": "e7b8b23b-e2ce-4788-8df6-527be32f8ba7",
+            "vertical": false,
+            "translation": "委员会委员"
+        },
+        {
+            "bbox": [
+                108.23839469597291,
+                2112.1073570219937,
+                787.8405238727347,
+                2189.489383518739
+            ],
+            "order": "27",
+            "label": "Footnote",
+            "text": "(¹) OJ L 178, 30.6.2001, p. 1. Regulation as last amended by Commission Regulation (EC) No 39/2004 (OJ L 6, 10.1.2004, p. 16).",
+            "uuid": "7d300785-af97-4ee5-8a06-02943c1844df",
+            "vertical": false,
+            "translation": "(¹) OJ L 178，2001 年 6 月 30 日，第 1 页。经委员会 (EC) 第 39/2004 号条例（OJ L 6，2004 年 1 月 10 日，第 16 页）最后修正的条例。"
+        },
+        {
+            "bbox": [
+                856.7433311576485,
+                2162.406681922621,
+                1163.6937630526681,
+                2188.8614690976356
+            ],
+            "order": "28",
+            "label": "Footnote",
+            "text": "(²) OJ L 178, 30.6.2001, p. 63.",
+            "uuid": "b5e3a7bf-c04b-4832-854f-44d7edb186d0",
+            "vertical": false,
+            "translation": "(²) OJ L 178，2001 年 6 月 30 日，第 63 页。"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

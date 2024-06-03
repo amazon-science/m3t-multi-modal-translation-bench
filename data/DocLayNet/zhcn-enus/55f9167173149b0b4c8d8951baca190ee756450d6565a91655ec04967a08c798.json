@@ -1,0 +1,91 @@
+{
+    "file": "55f9167173149b0b4c8d8951baca190ee756450d6565a91655ec04967a08c798.png",
+    "annotations": [
+        {
+            "bbox": [
+                197.0,
+                237.00000000000003,
+                1455.0,
+                595.0
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "本发明可以以硬件、软件或者硬件与软件的组合实现。任何类型的计算机系统——或者适合于执行此处所述的方法的设备——都是适合的。硬件与软件的典型组合为具有计算机程序的通用计算机系统，所述计算机程序当被加载并执行时，控制所述计算机系统使其执行此处所述的方法。本发明还可以嵌入计算机程序产品，该产品包含所有使此处所述的方法的实施方式成为可能的特征，并且该产品当被加载到计算机系统中时，能够执行这些方法。",
+            "uuid": "b7146d6a-4582-458d-a276-e2e4e8bb968c",
+            "vertical": false,
+            "translation": "The present invention may be realized in hardware, software, or a combination of the two. Any type of computer system - or device suitable for performing the methods described herein - is appropriate. A typical combination of hardware and software is a general-purpose computer system with a computer program that, when loaded and executed, controls the computer system to perform the methods described herein. The present invention can also be embedded in a computer program product containing all of the features necessary for the implementation of the methods described herein and that, when loaded into a computer system, is capable of performing these methods."
+        },
+        {
+            "bbox": [
+                199.0,
+                612.0,
+                1452.0,
+                846.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "在当下的语境中，计算机程序部件或者计算机程序指一组指令的、任意语言、代码或者标记形式的任何表达，所述指令用来使具有信息处理能力的系统或者直接或者在以下一者或者两者处理之后执行特定功能；a ) 转换为另 一语言、代码或者标记；b ) 以不同的物质形式再现。",
+            "uuid": "b0cff928-18fe-46d7-a6d6-78094fd289f9",
+            "vertical": false,
+            "translation": "In the current context, a computer program component or computer program refers to any expression, in any language, code, or markup of a set of instructions, which are used to enable a system with information processing capabilities to perform a specific function either directly or after processing one or both of the following; a) translation into another language, code, or markup; b) reproduction in different physical forms."
+        },
+        {
+            "bbox": [
+                810.1475444158887,
+                2207.437578257249,
+                846.5003188448067,
+                2242.059268189552
+            ],
+            "order": "6",
+            "label": "Page-footer",
+            "text": "21",
+            "uuid": "825e641a-ba10-4b97-9510-162b31784f91",
+            "vertical": false,
+            "translation": "21"
+        },
+        {
+            "bbox": [
+                169.64628066828433,
+                152.64028077506995,
+                332.36822335010817,
+                183.7998017141427
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "7802280e-deb4-4770-b3c5-cda22fa3a86e",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                1175.4063732016843,
+                150.9091962784547,
+                1334.666146890278,
+                187.26197070737294
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "c733723c-0c88-4a6c-92de-adcd3e2edd87",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1351.9769918564293,
+                150.9091962784547,
+                1490.4637515856411,
+                190.7241397006032
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 17/17 页",
+            "uuid": "9f267fd3-48d1-4454-b671-1528149def25",
+            "vertical": false,
+            "translation": "Page 17/17"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,973 @@
+{
+    "file": "82253245_3247.png",
+    "annotations": [
+        {
+            "bbox": [
+                39.946040267538756,
+                97.00000000000009,
+                58.79155120020824,
+                106.04627627080609
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "9cdc189c-c7f0-4a0d-8156-f0ad60444e65",
+            "vertical": false,
+            "translation": "收件人："
+        },
+        {
+            "bbox": [
+                39.946040267538756,
+                125.84541141713912,
+                74.7377527586209,
+                135.68366098543171
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "925eb851-c6e9-46ac-b106-8b9e528eebfb",
+            "vertical": false,
+            "translation": "发件人："
+        },
+        {
+            "bbox": [
+                40.0,
+                185.00000000000006,
+                89.111328125,
+                193.84765625
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "SUBJECT:",
+            "uuid": "fb34c7e9-bc5d-494c-b2ee-aa0f8de90748",
+            "vertical": false,
+            "translation": "主题："
+        },
+        {
+            "bbox": [
+                40.90324629874783,
+                223.49540347324103,
+                158.44615354913577,
+                234.76140059870775
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "(Report on June 30 only)",
+            "uuid": "6734ff5e-ac56-4baf-9863-62e173782b56",
+            "vertical": false,
+            "translation": "（仅在 6 月 30 日报道）"
+        },
+        {
+            "bbox": [
+                39.95691062003692,
+                237.94945197796602,
+                92.98483189503274,
+                247.5136061157408
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "PRE-SELL",
+            "uuid": "a71510f6-8d07-41f8-bf88-c5780cbea10c",
+            "vertical": false,
+            "translation": "预售"
+        },
+        {
+            "bbox": [
+                40.38198413727135,
+                251.97687804670244,
+                313.0,
+                263.5601313913408
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "Style Full Price accepted the introduction of the low price.",
+            "uuid": "0299bbe9-ff53-449b-ae4b-3f6ac792b6e5",
+            "vertical": false,
+            "translation": "全价款接受引入低价。"
+        },
+        {
+            "bbox": [
+                57.11749737616808,
+                480.45297768302953,
+                162.26604355830307,
+                490.2588939531073
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "799b7052-81d4-4951-b55d-34c2790bde46",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                40.0,
+                496.0,
+                134.0674128131337,
+                506.2682143082211
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "M. Maskos & Sons",
+            "uuid": "2525795b-6010-43cc-84ba-b9739d9df5b1",
+            "vertical": false,
+            "translation": "M·马斯科父子"
+        },
+        {
+            "bbox": [
+                40.0,
+                512.0,
+                165.0,
+                525.0
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Pollock Candy and Cigar",
+            "uuid": "deff368c-96d4-4b13-99ba-70f157b7fbfd",
+            "vertical": false,
+            "translation": "波洛克糖果和雪茄"
+        },
+        {
+            "bbox": [
+                39.0,
+                529.8686899387145,
+                157.27720137674106,
+                540.4955278695753
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "McKeesport Candy Co. Sico Serve",
+            "uuid": "ab2ba317-e32b-464b-92e6-b478bce6ac40",
+            "vertical": false,
+            "translation": "麦基斯波特糖果公司西科服务"
+        },
+        {
+            "bbox": [
+                39.0,
+                563.0,
+                74.38786551602618,
+                572.3760416621581
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Sheetz",
+            "uuid": "18a845b1-0c21-4f9a-aef5-57724a1e44a7",
+            "vertical": false,
+            "translation": "席茨"
+        },
+        {
+            "bbox": [
+                148.38924393815174,
+                412.91886407013044,
+                224.61912985151642,
+                422.9101597966394
+            ],
+            "order": "20",
+            "label": "Section-header",
+            "text": "DISTRIBUTION",
+            "uuid": "328590d9-ab37-497e-a87c-c60d2dad8c10",
+            "vertical": false,
+            "translation": "分销"
+        },
+        {
+            "bbox": [
+                39.0,
+                427.85104580245,
+                420.3977085448566,
+                437.2026631816076
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION",
+            "uuid": "a93238cf-afba-4982-8282-c6d0e3f9178d",
+            "vertical": false,
+            "translation": "总部位于该地区的直接客户和连锁店"
+        },
+        {
+            "bbox": [
+                185.67868537887534,
+                96.70176039389511,
+                252.72313378938833,
+                107.92950778243326
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "K. A. Sparrow",
+            "uuid": "3f49d9bd-ce4c-4769-b85a-93c97b7c45ac",
+            "vertical": false,
+            "translation": "K·A·斯帕罗"
+        },
+        {
+            "bbox": [
+                184.72004386150064,
+                125.20662300530971,
+                235.81049577289008,
+                135.03937001337462
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "R. E. Lane",
+            "uuid": "afbde368-5b4a-4d75-a2fc-110e82263bf9",
+            "vertical": false,
+            "translation": "R·E·雷恩"
+        },
+        {
+            "bbox": [
+                55.908203125,
+                710.9375,
+                162.353515625,
+                720.947265625
+            ],
+            "order": "45",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "cb7553d6-7dd8-4b23-affe-7fac5090ae88",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                183.9450725222954,
+                183.99999999999994,
+                399.46040267538757,
+                193.8309212135828
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "STYLE LOW PRICE - PROGRESS REPORT",
+            "uuid": "512ae337-18a3-4903-88f7-746325cac1a7",
+            "vertical": false,
+            "translation": "低价款––进度报告"
+        },
+        {
+            "bbox": [
+                39.0,
+                727.9271758298939,
+                74.56223169676376,
+                738.8422979059654
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "Kroger",
+            "uuid": "e58c1298-6a6b-47ad-b2b5-bcb005dd681e",
+            "vertical": false,
+            "translation": "克罗格"
+        },
+        {
+            "bbox": [
+                39.0,
+                743.9897842539308,
+                79.12321927395942,
+                753.3139602535086
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "Rich Oil",
+            "uuid": "1113e312-ea6d-4fc2-9879-51129ff28e6f",
+            "vertical": false,
+            "translation": "Rich Oil"
+        },
+        {
+            "bbox": [
+                38.0,
+                760.0,
+                115.21451227611635,
+                770.7607982939923
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "Super America",
+            "uuid": "4ebf34b2-913a-43a9-847c-1e4284677570",
+            "vertical": false,
+            "translation": "Super America"
+        },
+        {
+            "bbox": [
+                39.0,
+                776.9082163328211,
+                60.879268965176806,
+                785.4352800641
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "CVS",
+            "uuid": "5524cd23-9a54-4725-9909-8e8dd300a145",
+            "vertical": false,
+            "translation": "CVS"
+        },
+        {
+            "bbox": [
+                38.0,
+                790.9877866798165,
+                92.21127058243393,
+                802.4894075266576
+            ],
+            "order": "59",
+            "label": "Table cell",
+            "text": "WH Smith",
+            "uuid": "d07435ea-7170-4231-8220-ac5d8d10f527",
+            "vertical": false,
+            "translation": "WH Smith"
+        },
+        {
+            "bbox": [
+                38.47093869460683,
+                808.2402179500783,
+                106.09253712172504,
+                818.5520159506946
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "7-11 318 Zon",
+            "uuid": "cf653863-ff92-48c4-bcbc-5439a2b340b9",
+            "vertical": false,
+            "translation": "7-11 318 Zon"
+        },
+        {
+            "bbox": [
+                38.07433107919852,
+                825.474030041258,
+                97.76377719815036,
+                836.597662451773
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "Dairy Marts",
+            "uuid": "7869c383-9b75-41b5-861c-b1dfddeae662",
+            "vertical": false,
+            "translation": "Dairy Marts"
+        },
+        {
+            "bbox": [
+                241.93126000743226,
+                208.00000000000009,
+                430.86958756317,
+                217.83075992270895
+            ],
+            "order": "13",
+            "label": "Section-header",
+            "text": "EFFECTIVENESS OF: Transition Plan",
+            "uuid": "e1b32702-902d-4f59-9a3c-5f4b021a72cb",
+            "vertical": false,
+            "translation": "有效性：过渡计划"
+        },
+        {
+            "bbox": [
+                40.0,
+                351.0000000000001,
+                589.8078949594152,
+                379.0174907298352
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "$7.00 CARTON COUPON/BUYDOWN: Effective in those retail calls that we could not exchange product out of. Those situations were limited.",
+            "uuid": "c1b35e54-5e85-4d0b-adb7-263fa4c2f683",
+            "vertical": false,
+            "translation": "7.00 美元一箱的优惠券/买断：在我们不能换货的零售市场有效。这些情况是有限的。"
+        },
+        {
+            "bbox": [
+                77.0,
+                948.0,
+                125.0,
+                956.0
+            ],
+            "order": "68",
+            "label": "Page-footer",
+            "text": "STYLE.XLS",
+            "uuid": "d337790a-6c43-4ef4-bf15-8c1de2e92250",
+            "vertical": false,
+            "translation": "款.xls"
+        },
+        {
+            "bbox": [
+                38.0,
+                655.7508238228553,
+                428.71093750000006,
+                667.96875
+            ],
+            "order": "42",
+            "label": "Text",
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION",
+            "uuid": "5c04b2b9-925b-4c73-be1c-3453059b85d1",
+            "vertical": false,
+            "translation": "总部位于该地区以外的直接客户和连锁店"
+        },
+        {
+            "bbox": [
+                183.9450725222954,
+                237.46696329448415,
+                563.2713823208993,
+                248.5956538384344
+            ],
+            "order": "16",
+            "label": "Text",
+            "text": "Overall pre-sell efforts were successful. Retail accounts that previously stocked",
+            "uuid": "b22db367-d56b-4270-977a-2c52cc6657c3",
+            "vertical": false,
+            "translation": "总体预售工作取得了成功。之前存货的零售客户"
+        },
+        {
+            "bbox": [
+                192.7513010884425,
+                466.7589131452581,
+                238.862149078577,
+                490.34602240475687
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "5c75ec7b-be35-487c-89d0-e0747cf76159",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                199.0,
+                545.9612703271,
+                232.2075776214708,
+                555.7768080284906
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "104/22",
+            "uuid": "c9c92fc8-9b5c-49e6-bcbd-8e386be69786",
+            "vertical": false,
+            "translation": "104/22"
+        },
+        {
+            "bbox": [
+                197.99341763376617,
+                563.0,
+                232.48802155579628,
+                572.3230001536921
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "521/42",
+            "uuid": "32834172-ef08-4176-a086-97662616410a",
+            "vertical": false,
+            "translation": "521/42"
+        },
+        {
+            "bbox": [
+                197.99341763376617,
+                579.894986380479,
+                231.92713368714536,
+                588.588748344568
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "137/20",
+            "uuid": "9ee36e00-e1e9-43e6-bb4f-776d4f48809f",
+            "vertical": false,
+            "translation": "137/20"
+        },
+        {
+            "bbox": [
+                40.034506779309766,
+                294.52499436646906,
+                590.8360542985716,
+                320.98336540974606
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "BIGIF/2 FOR 1: Proved to be an excellent tool for pulling the balance of Style Full Price packs through the system. This aided the field greatly during the transition.",
+            "uuid": "9ca0f2c1-46af-49fa-ba1c-9e8c864499b1",
+            "vertical": false,
+            "translation": "买一送一/买一赠一：事实证明，这是一款绝佳的工具，可以通过系统拉动“全价款“包的平衡，在过渡期间，为现场提供了极大的帮助。"
+        },
+        {
+            "bbox": [
+                284.931037274655,
+                547.0,
+                298.67279005660197,
+                555.4963640941652
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "18",
+            "uuid": "7b1575e5-49c6-4023-8aa5-d85e4ef1edbf",
+            "vertical": false,
+            "translation": "18"
+        },
+        {
+            "bbox": [
+                282.0,
+                563.0,
+                300.9163415312056,
+                572.3230001536921
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "150",
+            "uuid": "aaa10c22-6e28-478a-b8bb-d11812e86a73",
+            "vertical": false,
+            "translation": "150"
+        },
+        {
+            "bbox": [
+                282.84133180297636,
+                579.6145424461537,
+                299.5141218595783,
+                588.027860475917
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "183",
+            "uuid": "1184ce2b-ccd5-4a7f-ae4b-68722e41082b",
+            "vertical": false,
+            "translation": "183"
+        },
+        {
+            "bbox": [
+                427.97027818891314,
+                126.0,
+                470.65455508769446,
+                135.20044275638887
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "JUNE 30",
+            "uuid": "71eda37c-640d-4f0a-9e87-227a2f2211c0",
+            "vertical": false,
+            "translation": "6 月 30 日"
+        },
+        {
+            "bbox": [
+                191.06268379308608,
+                695.2570208858733,
+                239.3163902029871,
+                720.726699176976
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "7da346c2-7bcc-4390-b9be-0807c0983fee",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                431.0,
+                155.0,
+                469.99999999999994,
+                165.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "AUG 11",
+            "uuid": "60e9bb15-2181-4bce-a218-c48807e05983",
+            "vertical": false,
+            "translation": "8 月 11 日"
+        },
+        {
+            "bbox": [
+                283.94910951260283,
+                727.9529489699614,
+                296.4887782710187,
+                736.8794928318845
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "21",
+            "uuid": "1460fb5a-ead6-4c35-967d-fd60c91b1ab3",
+            "vertical": false,
+            "translation": "21"
+        },
+        {
+            "bbox": [
+                283.94910951260283,
+                744.0,
+                296.4887782710187,
+                752.6072129695586
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "82",
+            "uuid": "4d313133-0ec8-4a9e-8ba0-fab3cfdce298",
+            "vertical": false,
+            "translation": "82"
+        },
+        {
+            "bbox": [
+                282.0,
+                760.0,
+                299.2517561330425,
+                769.1850801417016
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "106",
+            "uuid": "7b765d63-55a9-407f-b2ab-8e5b7f0392d5",
+            "vertical": false,
+            "translation": "106"
+        },
+        {
+            "bbox": [
+                283.94910951260283,
+                776.573215417177,
+                296.70131502963585,
+                784.4877267621413
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "87",
+            "uuid": "41fad858-eb70-4726-8136-eb131a08440a",
+            "vertical": false,
+            "translation": "87"
+        },
+        {
+            "bbox": [
+                286.9246241332439,
+                792.98919710683,
+                293.5132636503776,
+                801.4906674515188
+            ],
+            "order": "60",
+            "label": "Table cell",
+            "text": "5",
+            "uuid": "c492d0dc-0e4c-4f37-8dfc-a1f5f114782b",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                283.94910951260283,
+                808.9294540031214,
+                296.4887782710187,
+                816.7933140719583
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "23",
+            "uuid": "d010d7f0-c31f-46b8-8399-aee3915cc632",
+            "vertical": false,
+            "translation": "23"
+        },
+        {
+            "bbox": [
+                283.94910951260283,
+                825.0,
+                296.27624151240144,
+                834.6464017958046
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "35",
+            "uuid": "59fb95ec-1d20-4845-a3df-c9d5232b2fa4",
+            "vertical": false,
+            "translation": "35"
+        },
+        {
+            "bbox": [
+                284.37418302983724,
+                840.7251772331878,
+                296.70131502963585,
+                849.9490484162443
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "43",
+            "uuid": "0514c3e8-1d57-4a8d-99a8-d21216725ad0",
+            "vertical": false,
+            "translation": "43"
+        },
+        {
+            "bbox": [
+                503.9966128916482,
+                95.99999999999997,
+                605.4064016016871,
+                106.69056724286318
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "SUBMISSION DATE",
+            "uuid": "ad129940-b6e2-4a52-b1e9-804fd760f566",
+            "vertical": false,
+            "translation": "提交日期"
+        },
+        {
+            "bbox": [
+                351.2383590340055,
+                481.75298552606637,
+                456.2840594269006,
+                490.1176936781471
+            ],
+            "order": "27",
+            "label": "Table",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "c2b658e0-e17b-4f91-a4e9-f9f1b9030f5d",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                500.4530125453343,
+                126.16102249891847,
+                509.63415889714764,
+                135.68366098543171
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "X",
+            "uuid": "f0248500-d70c-49f1-b37d-6d0dd835a328",
+            "vertical": false,
+            "translation": "X"
+        },
+        {
+            "bbox": [
+                349.47950138294544,
+                710.2636735345138,
+                455.71032146327957,
+                720.511713765015
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "NAME OF ACCOUNT",
+            "uuid": "9af9d069-de19-45d2-ae9e-201368a5637b",
+            "vertical": false,
+            "translation": "客户名称"
+        },
+        {
+            "bbox": [
+                556.0,
+                126.98573286266112,
+                593.714130750596,
+                135.68366098543171
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "SEP 22",
+            "uuid": "53cc06db-265e-4f3a-a681-48db7ab09a41",
+            "vertical": false,
+            "translation": "9 月 22 日"
+        },
+        {
+            "bbox": [
+                553.9291632260716,
+                155.97882660522956,
+                593.0698397785392,
+                164.1935364989573
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "NOV 10",
+            "uuid": "20322756-c087-4a36-91dd-9b01c416510a",
+            "vertical": false,
+            "translation": "11 月 10 日"
+        },
+        {
+            "bbox": [
+                479.9999999999999,
+                696.0,
+                527.2898246853587,
+                720.3916311371358
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "IND/LOR VOLUME",
+            "uuid": "e89368f7-1f21-4c9a-bba7-70e1ba98097e",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                481.00000000000006,
+                465.00000000000006,
+                527.9099158420403,
+                490.1609103926073
+            ],
+            "order": "28",
+            "label": "Table",
+            "text": "IND/LOR VOLUME",
+            "uuid": "7bd9e57a-d44a-44f5-97c9-825d134d5128",
+            "vertical": false,
+            "translation": "IND/LOR 销量"
+        },
+        {
+            "bbox": [
+                546.9219016480705,
+                696.0,
+                591.7385621892103,
+                720.58993494484
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "ce10b85a-264a-4563-81bd-36462568bcad",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                561.0,
+                944.0,
+                669.0,
+                955.0
+            ],
+            "order": "69",
+            "label": "Page-footer",
+            "text": "Page 1 of 3 Pages",
+            "uuid": "9af6d027-3dd0-4099-94bb-d9d7b926db68",
+            "vertical": false,
+            "translation": "第 1 页，共 3 页"
+        },
+        {
+            "bbox": [
+                688.3786651585218,
+                784.9650527317517,
+                707.0640638989862,
+                885.0821408089555
+            ],
+            "order": "67",
+            "label": "Text",
+            "text": "82253245",
+            "uuid": "86a15405-9bc2-44ac-ae11-c440fb653746",
+            "vertical": true,
+            "translation": "82253245"
+        },
+        {
+            "bbox": [
+                39.106763585568046,
+                442.24454062958165,
+                294.1508739262293,
+                451.5932409195381
+            ],
+            "order": "22",
+            "label": "Text",
+            "text": "(15+ STORES) STOCKING NO LOW PRICE STYLE",
+            "uuid": "f6ba8bb9-9953-4543-b019-96ef1b044187",
+            "vertical": false,
+            "translation": "（15 间以上商店）无低价款库存"
+        },
+        {
+            "bbox": [
+                39.6728515625,
+                546.8583599558793,
+                94.1162109375,
+                556.1328097851627
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Sico Serve",
+            "uuid": "76bf137e-2792-411b-a247-cfadeb9ed818",
+            "vertical": false,
+            "translation": "西科服务"
+        },
+        {
+            "bbox": [
+                39.140676552467404,
+                579.6693973047636,
+                105.42211030283917,
+                588.6866572441994
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Thrift/Eckerd",
+            "uuid": "3b0fda04-1c06-42a7-b756-9a72a0f21353",
+            "vertical": false,
+            "translation": "特里夫特/艾克德"
+        },
+        {
+            "bbox": [
+                260.17459570785655,
+                466.56251126307814,
+                303.0082181719549,
+                489.9626065849032
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "NO . OF STORES",
+            "uuid": "c6bc57f9-d5d2-4604-a9dc-5a65b5a7a3a3",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                548.1117244942953,
+                466.35127776995375,
+                591.5402583815062,
+                490.5367956658478
+            ],
+            "order": "29",
+            "label": "Table",
+            "text": "NO. OF STORES",
+            "uuid": "d0f92c60-3d2f-4b7c-a26c-00b45222d212",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                38.681690068333616,
+                671.5959680559135,
+                293.7258004089948,
+                680.7321978847347
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "(15+ STORES) STOCKING NO LOW PRICE STYLE",
+            "uuid": "c1b7a86e-a212-446b-a77c-03c59412087b",
+            "vertical": false,
+            "translation": "（15 间以上商店）无低价款库存"
+        },
+        {
+            "bbox": [
+                259.71991903024,
+                696.4718515691404,
+                303.2899545467696,
+                719.8436022940318
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "NO. OF STORES",
+            "uuid": "cfe2899e-1841-4629-93a5-f7041f374db2",
+            "vertical": false,
+            "translation": "商店数量"
+        },
+        {
+            "bbox": [
+                38.47093869460683,
+                841.3333860385657,
+                114.42129704529972,
+                853.02966108658
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "Widman Drugs",
+            "uuid": "64e216f4-2ad1-4ce2-962c-dbb0bddd014f",
+            "vertical": false,
+            "translation": "魏德曼药品"
+        },
+        {
+            "bbox": [
+                38.70126293691181,
+                462.5186062232168,
+                593.4193650326478,
+                641.9467369583805
+            ],
+            "order": "23",
+            "label": "Table",
+            "text": "CARA NAME OF ACCOUNT M. Maskos & Sons Pollock Candy and Cigar McKeesport Candy Co. Sico Serve Sheetz Thrift/Eckerd IND/LOR IND/LOR NO. OF VOLUME STORES 104/22 521/42 137/20 18 150 183 NAME OF ACCOUNT IND/LOR NO. OF VOLUME STORES",
+            "uuid": "6f40f3e1-9c1b-4e4b-a9e7-b309e8484b66",
+            "vertical": false,
+            "translation": "CARA 客户名称 M·马斯科父子 波洛克糖果和雪茄 麦基斯波特糖果公司西科服务 席茨 特里夫特/艾克德 IND/LOR IND/LOR 编号 104/22 521/42 137/20 18 150 183 客户名称 IND/LOR 销量商店数量"
+        },
+        {
+            "bbox": [
+                37.270973450871466,
+                692.7818507823678,
+                592.7287068154719,
+                869.4632721342604
+            ],
+            "order": "44",
+            "label": "Table",
+            "text": "CONNTE NAME OF ACCOUNT Kroger Rich Oil Super America CVS WH Smith 7-11 318 Zon Dairy Marts Widman Drugs IND/LOR NO. OF VOLUME STORES 21 82 106 87 87 5 5 23 35 43 NAME OF ACCOUNT IND/LOR VOLUME NO. OF STORES",
+            "uuid": "a3008ec9-f359-4589-8e72-837463edbe7d",
+            "vertical": false,
+            "translation": "CONNTE 客户名称 克罗格 Rich Oil Super America CVS WH Smith 7-11 318 Zon Dairy Marts 魏德曼药品 IND/LOR 销量商店数量 21 82 106 87 87 5 5 23 35 43 客户名称 IND/LOR 销量 商店数量"
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

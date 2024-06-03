@@ -1,0 +1,385 @@
+{
+    "file": "jrc32002D0359.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                117.50991229089325,
+                140.57442902150905,
+                216.35288538974353,
+                168.74523330118058
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 127/18",
+            "uuid": "88878774-9fa1-4152-81a8-968f240bfc81",
+            "vertical": false,
+            "translation": "L 127/18"
+        },
+        {
+            "bbox": [
+                336.00490545677286,
+                143.68164342801208,
+                364.46433733972356,
+                162.97252027170035
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "137015e2-6d09-4688-b231-bc821969f1de",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                582.6287166914477,
+                138.78030198973067,
+                1069.3126020506006,
+                169.62099337176602
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "0a88da3d-78d8-4851-bc52-9effd79ef157",
+            "vertical": false,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                778.6197509765625,
+                246.29645103391033,
+                874.6980590820311,
+                264.1526261637066
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX I",
+            "uuid": "4781df0a-ca67-43be-9ee3-c28f32611041",
+            "vertical": false,
+            "translation": "附件一"
+        },
+        {
+            "bbox": [
+                1425.1853637695312,
+                142.36627525266033,
+                1534.397705078125,
+                162.5080407990706
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "14.5.2002",
+            "uuid": "feaff06e-f24e-4f1a-b879-6a81118ca3eb",
+            "vertical": false,
+            "translation": "2002 年 5 月 14 日"
+        },
+        {
+            "bbox": [
+                255.0638330584883,
+                305.06866655879713,
+                1398.0313393253798,
+                382.99106999804224
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "Piping kits and storage systems, pipes, tanks, valves, taps, pumps, water meters, protection and safety devices, fittings, adhesives, joints, joint sealings, gaskets, membranes, resins, coatings including linings, lubricants and greases in contact with water intended for human consumption.",
+            "uuid": "584de20a-8730-481f-bb89-10b8cdbdf8cf",
+            "vertical": false,
+            "translation": "与供人类饮用水接触的管道套件和储存系统、管道、水箱、阀门、水龙头、水泵、水表、保护和安全装置、配件、粘合剂、接头、接头密封件、垫圈、膜、树脂、涂层含内衬、润滑剂和润滑脂。"
+        },
+        {
+            "bbox": [
+                775.0148051605034,
+                525.1602598820496,
+                877.3443096929102,
+                542.8820740564391
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "ANNEX II",
+            "uuid": "cd126e6f-302f-4236-b872-5a36a8a3f27c",
+            "vertical": false,
+            "translation": "附件二"
+        },
+        {
+            "bbox": [
+                642.5774315165463,
+                586.0883365854844,
+                1009.9151864042877,
+                604.3786337574425
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "ATTESTATION OF CONFORMITY",
+            "uuid": "c2d9bcf7-e76a-42ba-b0bf-e4e5e788f43a",
+            "vertical": false,
+            "translation": "符合性证明"
+        },
+        {
+            "bbox": [
+                255.38757543053305,
+                646.7125671255388,
+                1397.4609554065994,
+                697.7855121989619
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "For the product(s) and intended use(s) listed below, CEN/CENELEC/EOTA are requested to specify the following system(s) of attestation of conformity in the relevant technical specifications referred to in Article 4 of Directive 89/106/EEC.",
+            "uuid": "90f3868a-2eca-427f-bda1-607fe1e7411c",
+            "vertical": false,
+            "translation": "对于下列产品和预期用途，CEN/CENELEC/EOTA 需要根据 89/106/EEC 指令第 4 条在相关技术规范中指定以下符合性证明体系。"
+        },
+        {
+            "bbox": [
+                402.33115538391905,
+                752.5679680628325,
+                482.2312665106903,
+                773.6818346210322
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Product(s)",
+            "uuid": "7c4f6ca4-4a1e-4e59-96f5-cad271531255",
+            "vertical": false,
+            "translation": "产品"
+        },
+        {
+            "bbox": [
+                256.25762996474964,
+                1007.6203381461054,
+                613.4013227551278,
+                1060.2137757163885
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "— Fittings, adhesives, joints, joint sealings and gaskets",
+            "uuid": "f5fa9780-0b2f-4e27-86c4-b618b7ffdcc8",
+            "vertical": false,
+            "translation": "— 配件、粘合剂、接头、接头密封件和垫圈"
+        },
+        {
+            "bbox": [
+                254.30567348950353,
+                827.9929687822118,
+                611.8406129584499,
+                852.119805866282
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "— Kits (piping and storage systems)",
+            "uuid": "0678f988-ca9f-457c-9501-6abf78a6c135",
+            "vertical": true,
+            "translation": "— 套件（管道和储存系统）"
+        },
+        {
+            "bbox": [
+                255.4957821498232,
+                942.6286360682001,
+                612.5831156743675,
+                993.7933883344034
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "— Valves, taps, pumps, water meters, protection and safety devices",
+            "uuid": "51b7b03a-6864-4628-9d76-b14b3c0ae30b",
+            "vertical": false,
+            "translation": "— 阀门、水龙头、水泵、水表、保护和安全装置"
+        },
+        {
+            "bbox": [
+                255.4957821498232,
+                867.7087891661529,
+                338.80249417300047,
+                890.6815112440654
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "— Pipes",
+            "uuid": "3691d895-1fed-4b16-a1c9-579675de10d6",
+            "vertical": false,
+            "translation": "— 管道"
+        },
+        {
+            "bbox": [
+                254.83982378743596,
+                903.8087810028721,
+                346.6739945216471,
+                923.4996856410828
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "— Tanks",
+            "uuid": "bcf2f9e9-ac3f-4e81-a826-424b06bedeae",
+            "vertical": false,
+            "translation": "— 水箱"
+        },
+        {
+            "bbox": [
+                254.85155243407885,
+                1113.1369413407715,
+                372.0832665537551,
+                1137.2308904999852
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "— Coatings",
+            "uuid": "4b690d7d-6366-4775-b7db-d418284c32da",
+            "vertical": false,
+            "translation": "— 涂层"
+        },
+        {
+            "bbox": [
+                254.93399619368276,
+                1072.8529431708791,
+                468.76082766111557,
+                1094.140538351185
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "— Membranes, resins",
+            "uuid": "9e27f63d-2231-4a6c-8f27-00869ee33a63",
+            "vertical": false,
+            "translation": "— 膜、树脂"
+        },
+        {
+            "bbox": [
+                254.99321867550145,
+                1149.281298091186,
+                470.2131482939374,
+                1174.9377822525037
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "— Lubricants, greases",
+            "uuid": "e7ba1efa-b976-4308-a396-9d613e7f45ad",
+            "vertical": false,
+            "translation": "— 润滑剂、润滑脂"
+        },
+        {
+            "bbox": [
+                645.2662749705623,
+                825.7610441772332,
+                987.7843515920705,
+                960.067280840938
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "in installations for the transport/distribution/storage of water intended for human consumption, up to, and including, the consumer taps",
+            "uuid": "cd272276-6f0a-469d-9841-1ddf7c803177",
+            "vertical": false,
+            "translation": "在用于运输/分配/储存供人类饮用的水的装置中，直至包括用户水龙头"
+        },
+        {
+            "bbox": [
+                756.2847877667656,
+                752.9561044595407,
+                876.7139407694352,
+                773.6837417514322
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Intended use(s)",
+            "uuid": "4e62a62f-cbe4-4fb8-b2e9-5765bd5bdcab",
+            "vertical": false,
+            "translation": "用途"
+        },
+        {
+            "bbox": [
+                1025.79251248079,
+                752.7388638355422,
+                1177.5161958857434,
+                774.008909374954
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Level(s) or class(es)",
+            "uuid": "3b56e210-b6ef-4939-a970-088fd58146d1",
+            "vertical": false,
+            "translation": "级别或等级"
+        },
+        {
+            "bbox": [
+                1275.5244826764692,
+                827.9431134853307,
+                1323.3793955072697,
+                850.6108561491865
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1+(¹)",
+            "uuid": "95898262-26cd-46b3-9499-1dfe46147326",
+            "vertical": false,
+            "translation": "1+(¹)"
+        },
+        {
+            "bbox": [
+                1210.4791443724628,
+                740.4300713051155,
+                1387.2124949042627,
+                785.7873702368001
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Attestation of conformity of system(s)",
+            "uuid": "6693a6b4-22c6-465b-a859-e0e1a2c2a0e3",
+            "vertical": false,
+            "translation": "系统符合性证明"
+        },
+        {
+            "bbox": [
+                254.79977712617347,
+                1208.7381253860738,
+                817.6057813584638,
+                1230.6253975805164
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "System 1+: see CPD Annex III(2)(i), with audit-testing of samples",
+            "uuid": "23f018d2-e92c-43e7-bef8-08078a6f38e3",
+            "vertical": false,
+            "translation": "系统 1+：见 CPD 附件三 (2)(i)，对样品进行抽查"
+        },
+        {
+            "bbox": [
+                256.5265059111909,
+                1244.6283764080706,
+                1397.3518167627578,
+                1290.28498170381
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "(¹) The performance of the products, other than that related to the sanitary properties of the product (fitness for contact with water intended for human consumption), shall be assessed following the provisions of Decision 1999/472/EC, published in OJ L 184, 17.7.1999, p. 42).",
+            "uuid": "1d8aa6ed-51d6-4514-95f9-256171b69b72",
+            "vertical": false,
+            "translation": "(¹) 除与产品卫生性能（与人类饮用水接触的适宜性）相关的性能外，产品的性能应根据 OJ L 184，1999 年 7 月 17 日，第 42 页中公布的第 1999/472/EC 号决定的规定进行评估）。"
+        },
+        {
+            "bbox": [
+                255.13996838065603,
+                1337.6954133272407,
+                1397.3139688299514,
+                1466.8310840469271
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "The specification for the system should be such that it can be implemented even where performance does not need to be determined for a certain characteristic, because at least one Member State has no legal requirement at all for such a characteristic (see Article 2(1) of Directive 89/106/EEC and, where applicable, clause 1.2.3 of the Interpretative Documents). In those cases the verification of such a characteristic must not be imposed on the manufacturer if he does not wish to declare the performance of the product in that respect.",
+            "uuid": "f36554b4-1294-4b2e-8004-7371c0c72b06",
+            "vertical": false,
+            "translation": "该系统的规范应确保即使在不需要确定某一特性的性能的情况下也能实施，因为至少有一个成员国对该特性没有任何法律要求（见 89/106/EEC 指令第 2(1) 条，以及解释性文件第 1.2.3 条，如适用）。 此时，如果制造商不希望声明产品在该方面的性能，则不得强制要求对该特性进行验证。"
+        },
+        {
+            "bbox": [
+                255.46088196487526,
+                725.5628507481562,
+                1400.232954529279,
+                1304.278202995592
+            ],
+            "order": "10",
+            "label": "Table",
+            "text": "",
+            "uuid": "c296a3b0-dbac-4511-a9c0-8b730a1a0337",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

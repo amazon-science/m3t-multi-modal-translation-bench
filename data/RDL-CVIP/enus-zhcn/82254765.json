@@ -1,0 +1,763 @@
+{
+    "file": "82254765.png",
+    "annotations": [
+        {
+            "bbox": [
+                78.69053396600249,
+                127.68302129764575,
+                101.50849300236573,
+                137.72732007374188
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "TO:",
+            "uuid": "a8003c29-c0f4-4e77-b40f-38c670eeafe5",
+            "vertical": false,
+            "translation": "收件人："
+        },
+        {
+            "bbox": [
+                79.0,
+                154.0,
+                119.0,
+                164.0
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "FROM:",
+            "uuid": "485ec155-f374-436a-b788-18d1e05d4240",
+            "vertical": false,
+            "translation": "发件人："
+        },
+        {
+            "bbox": [
+                79.0,
+                181.00000000000006,
+                179.65343516364808,
+                193.12538490283347
+            ],
+            "order": "7",
+            "label": "Text",
+            "text": "DIV. NAME/NO:",
+            "uuid": "be481b0d-eb32-4563-8ed7-3e623088f186",
+            "vertical": false,
+            "translation": "分部名称/编号："
+        },
+        {
+            "bbox": [
+                77.87869203497048,
+                289.6715348787451,
+                186.20009092449516,
+                301.58858629012883
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "NAME OF EVENT:",
+            "uuid": "b55125ba-af87-4f92-b13e-7075bb2185ed",
+            "vertical": false,
+            "translation": "活动名称："
+        },
+        {
+            "bbox": [
+                78.9256440769919,
+                318.9844425356699,
+                188.45510932669495,
+                328.3266616304976
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "*DATE OF EVENT:",
+            "uuid": "888b3b6b-61fb-46ee-a77b-dab0f7b0f2cd",
+            "vertical": false,
+            "translation": "*活动日期："
+        },
+        {
+            "bbox": [
+                77.95920761890628,
+                454.9298376397132,
+                158.49557912604087,
+                465.2384931926263
+            ],
+            "order": "17",
+            "label": "Text",
+            "text": "NEWPORT K.S.",
+            "uuid": "a6f6413f-612c-41ef-a360-f9a7114372c5",
+            "vertical": false,
+            "translation": "纽波特 K.S."
+        },
+        {
+            "bbox": [
+                216.8333004929495,
+                124.96043588196615,
+                347.8527152784419,
+                137.26397047681593
+            ],
+            "order": "2",
+            "label": "Table cell",
+            "text": "K. A. SPARROW",
+            "uuid": "f8543985-19c1-4635-a547-beee54969096",
+            "vertical": false,
+            "translation": "K·A·斯帕罗"
+        },
+        {
+            "bbox": [
+                215.1864121898949,
+                150.2313985480096,
+                345.55412905413505,
+                164.84700516849847
+            ],
+            "order": "6",
+            "label": "Table cell",
+            "text": "S. Reindel",
+            "uuid": "0e15c2ca-b90e-45c3-a0ac-6b9fe7f892fb",
+            "vertical": false,
+            "translation": "S·灵德尔"
+        },
+        {
+            "bbox": [
+                215.95230227136562,
+                180.09708169878846,
+                347.8527152784419,
+                192.43003986018115
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Nassau / 107",
+            "uuid": "728a963c-cc2b-45f9-82e1-be32c38c8622",
+            "vertical": false,
+            "translation": "拿骚 / 107"
+        },
+        {
+            "bbox": [
+                218.18538090519843,
+                286.5436557305876,
+                397.0622933542615,
+                301.1337156609839
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "H. Levinson Tradeshow",
+            "uuid": "9e24f237-b3e2-4731-ab32-51549aee108a",
+            "vertical": false,
+            "translation": "H·莱文森贸易展"
+        },
+        {
+            "bbox": [
+                78.0,
+                374.0,
+                257.0,
+                383.0
+            ],
+            "order": "14",
+            "label": "Text",
+            "text": "SAMPLES/ITEMS REQUIRED:",
+            "uuid": "c8ba4bc3-eff4-4e86-a433-11d3669ab80f",
+            "vertical": false,
+            "translation": "所需样品/物品："
+        },
+        {
+            "bbox": [
+                55.932264791467524,
+                935.1198590017486,
+                113.01840259456252,
+                946.9259854289089
+            ],
+            "order": "53",
+            "label": "Page-footer",
+            "text": "REQFORM",
+            "uuid": "45953156-fcf4-49da-92d2-bade69d61676",
+            "vertical": false,
+            "translation": "申请表"
+        },
+        {
+            "bbox": [
+                258.0,
+                235.0,
+                485.1995196890176,
+                247.14599915130597
+            ],
+            "order": "9",
+            "label": "Section-header",
+            "text": "1997 SPECIAL EVENT REQUEST FORM",
+            "uuid": "0adb935c-bd7d-4375-be07-903345f252db",
+            "vertical": false,
+            "translation": "1997 年特别活动申请表"
+        },
+        {
+            "bbox": [
+                219.0158625972484,
+                312.57818900865277,
+                347.08651987033966,
+                330.34521331859423
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "3/18/97",
+            "uuid": "5d019cdf-560f-46fc-96b5-12041d789886",
+            "vertical": false,
+            "translation": "1997 年 3 月 18 日"
+        },
+        {
+            "bbox": [
+                214.74014643232354,
+                453.0888549228771,
+                275.9186453936533,
+                464.99607955293453
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "f940ad18-82ef-4e14-bad7-63f7050ef7ea",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                77.99852911694471,
+                729.0340115648337,
+                130.59869326131977,
+                739.5540443937088
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "SHIP TO:",
+            "uuid": "0b4580b1-9ab2-4516-9731-552e7aa0b8f0",
+            "vertical": false,
+            "translation": "发货至："
+        },
+        {
+            "bbox": [
+                77.99852911694471,
+                756.9872416529872,
+                256.3882286580109,
+                766.9061297487837
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "CUSTOMER SHIPPING NUMBER",
+            "uuid": "dca01320-12fc-4737-ba06-2a4ad8d84777",
+            "vertical": false,
+            "translation": "客户发货编号"
+        },
+        {
+            "bbox": [
+                275.0,
+                371.0,
+                469.99999999999994,
+                384.0
+            ],
+            "order": "15",
+            "label": "Text",
+            "text": "SAMPLE 10'S (400 PACKS PER CASE)",
+            "uuid": "3a158bd7-f9ed-4942-b9f1-5a2657bd0a8c",
+            "vertical": false,
+            "translation": "样品 10 件（每箱 400 包）"
+        },
+        {
+            "bbox": [
+                307.7095216991045,
+                428.2238673586388,
+                360.156224133238,
+                439.284762611079
+            ],
+            "order": "16",
+            "label": "Section-header",
+            "text": "# CASES",
+            "uuid": "c33cafef-724a-4fcf-b4b2-4df9e3428d96",
+            "vertical": false,
+            "translation": "箱数"
+        },
+        {
+            "bbox": [
+                306.97429432603803,
+                455.00000000000006,
+                377.96705748412694,
+                465.7695420449958
+            ],
+            "order": "19",
+            "label": "Text",
+            "text": "KENT III K.S.",
+            "uuid": "cb4e5e3b-8e79-4ff8-b1cb-f367f2183f07",
+            "vertical": false,
+            "translation": "健牌 III K.S."
+        },
+        {
+            "bbox": [
+                307.1983038077041,
+                469.4052741501009,
+                375.1983038077042,
+                478.4052741501009
+            ],
+            "order": "25",
+            "label": "Text",
+            "text": "KENT III 100",
+            "uuid": "3fc2fbf5-a1df-4465-9efc-65966e653fe6",
+            "vertical": false,
+            "translation": "健牌 III 100"
+        },
+        {
+            "bbox": [
+                306.97429432603803,
+                483.0,
+                363.88748713713164,
+                492.9371637004656
+            ],
+            "order": "31",
+            "label": "Text",
+            "text": "TRUE K.S.",
+            "uuid": "f1c10b85-2f1d-4ddb-8ab9-21a58810db65",
+            "vertical": false,
+            "translation": "真我 K.S."
+        },
+        {
+            "bbox": [
+                308.25555290812434,
+                496.685696258381,
+                362.52070039973387,
+                507.07211054081125
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "KENT K.S.",
+            "uuid": "3a8654bc-0bad-4736-87c0-c743b1cdfa04",
+            "vertical": false,
+            "translation": "健牌 K.S."
+        },
+        {
+            "bbox": [
+                307.96581336455887,
+                510.7845063938399,
+                360.3180185984568,
+                519.9064815482311
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "KENT 100",
+            "uuid": "99916bea-e26b-48ec-8b67-66f227005a7e",
+            "vertical": false,
+            "translation": "健牌 100"
+        },
+        {
+            "bbox": [
+                307.0,
+                566.0,
+                347.8372505070077,
+                575.3970956482892
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "ITEMS",
+            "uuid": "cc224527-d38c-448f-a45f-285411447f83",
+            "vertical": false,
+            "translation": "物品"
+        },
+        {
+            "bbox": [
+                307.0,
+                590.8630384975474,
+                400.00144852017394,
+                602.5042553145197
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "BASEBALL CAP",
+            "uuid": "5cc2133f-233f-46d3-9da5-dd955fae4fd5",
+            "vertical": false,
+            "translation": "棒球帽"
+        },
+        {
+            "bbox": [
+                307.0,
+                620.9553471881724,
+                411.84659392054346,
+                630.5225800115478
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "WATER BOTTLES",
+            "uuid": "ca25fb2a-dc62-4f75-a8ef-2244a9f5c2fc",
+            "vertical": false,
+            "translation": "水壶"
+        },
+        {
+            "bbox": [
+                323.9814435187582,
+                755.3668832806833,
+                404.35118326925664,
+                767.3785176934554
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "198-1160006",
+            "uuid": "1504ea21-f8c4-490d-ae91-14a7832daf65",
+            "vertical": false,
+            "translation": "198-1160006"
+        },
+        {
+            "bbox": [
+                76.94652583405721,
+                797.8920139244484,
+                148.2247241092254,
+                808.0845439646658
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "NYO ONLY:",
+            "uuid": "c7c081f1-aaba-48e6-a48a-620d101a9e54",
+            "vertical": false,
+            "translation": "仅限 NYO："
+        },
+        {
+            "bbox": [
+                76.99344510240248,
+                824.0,
+                345.381082986205,
+                836.6736682295191
+            ],
+            "order": "49",
+            "label": "Text",
+            "text": "DATE FORWARDED TO PROMOTION SERVICES:",
+            "uuid": "baa532d0-a9d6-41ab-a035-0eb7c6c9aa67",
+            "vertical": false,
+            "translation": "转发到促销服务的日期："
+        },
+        {
+            "bbox": [
+                412.5317733552122,
+                812.0015138716835,
+                467.04101562500006,
+                839.0
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "2/6/97",
+            "uuid": "d7b0d3a9-af61-44dc-9f1d-ac1c07d4d01a",
+            "vertical": false,
+            "translation": "1997 年 2 月 6 日"
+        },
+        {
+            "bbox": [
+                78.15193162643409,
+                879.7073209279397,
+                475.80734843152516,
+                891.2002520494742
+            ],
+            "order": "51",
+            "label": "Text",
+            "text": "* PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.",
+            "uuid": "bb867555-859c-4605-ab42-58cad04311cb",
+            "vertical": false,
+            "translation": "* 请给我们 6 周的时间来处理您的要求。"
+        },
+        {
+            "bbox": [
+                498.6865551246597,
+                127.72078828373368,
+                582.6945128073452,
+                138.6598488459635
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "DATE TO NYO:",
+            "uuid": "178dc7d8-ddcf-49c1-9b04-3c6175da26df",
+            "vertical": false,
+            "translation": "发往 NYO 的日期："
+        },
+        {
+            "bbox": [
+                497.9516893309226,
+                454.1917438225942,
+                596.3575126570702,
+                467.4240394987662
+            ],
+            "order": "21",
+            "label": "Text",
+            "text": "KENT GL LTS K.S.",
+            "uuid": "5d2c0c81-9a9d-4934-8e6d-6bc90fcd94dc",
+            "vertical": false,
+            "translation": "健牌 GL LTS K.S."
+        },
+        {
+            "bbox": [
+                606.2888221501843,
+                126.80304980068613,
+                664.2936752943933,
+                139.9708554094995
+            ],
+            "order": "4",
+            "label": "Table cell",
+            "text": "1/24/97",
+            "uuid": "a9f48a59-bff7-4526-9360-29bbd89f9471",
+            "vertical": false,
+            "translation": "1997 年 1 月 24 日"
+        },
+        {
+            "bbox": [
+                498.8628543617203,
+                564.678620234552,
+                637.3599390429649,
+                576.7638431944857
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "QUANTITY REQUIRED",
+            "uuid": "8b289352-ecfd-40de-befa-946048f38448",
+            "vertical": false,
+            "translation": "所需数量"
+        },
+        {
+            "bbox": [
+                526.2562520000579,
+                591.146138389774,
+                603.3788838805573,
+                603.8769740111135
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "1500",
+            "uuid": "e17367dc-6edf-4f70-a477-927f521da50a",
+            "vertical": false,
+            "translation": "1500"
+        },
+        {
+            "bbox": [
+                528.5539222444701,
+                616.7999944295454,
+                602.2295907684038,
+                630.3107155906426
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "500",
+            "uuid": "f7c23da0-0f21-44d8-bc44-d546a6356d37",
+            "vertical": false,
+            "translation": "500"
+        },
+        {
+            "bbox": [
+                678.0,
+                773.0,
+                696.4035047135089,
+                875.0133521535497
+            ],
+            "order": "52",
+            "label": "Text",
+            "text": "82254765",
+            "uuid": "10f9d0e8-5fe0-4c82-a838-c51f46f30f97",
+            "vertical": true,
+            "translation": "82254765"
+        },
+        {
+            "bbox": [
+                640.9705716450273,
+                937.0,
+                685.304995709572,
+                946.8738342141812
+            ],
+            "order": "54",
+            "label": "Page-footer",
+            "text": "01/17/97",
+            "uuid": "951fd3ff-7db9-4e3b-ae44-92fe47dffeae",
+            "vertical": false,
+            "translation": "1997 年 1 月 17 日"
+        },
+        {
+            "bbox": [
+                77.54274784098634,
+                468.6878564538661,
+                165.60214321917698,
+                479.6217581705402
+            ],
+            "order": "23",
+            "label": "Text",
+            "text": "NEWPORT 100'S",
+            "uuid": "66a8f11b-8e53-418c-8cdc-ca4edd6d6540",
+            "vertical": false,
+            "translation": "纽波特 100 件"
+        },
+        {
+            "bbox": [
+                76.98185997233543,
+                482.4253227132772,
+                184.95277468763285,
+                493.2190462028143
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "NEWPORT LTS. K.S.",
+            "uuid": "f8679fbc-5229-44f6-89fe-2b5276ce6248",
+            "vertical": false,
+            "translation": "纽波特 LTS. K.S."
+        },
+        {
+            "bbox": [
+                76.84163800517271,
+                496.4431454269619,
+                182.56900124586656,
+                506.81633423508845
+            ],
+            "order": "33",
+            "label": "Text",
+            "text": "NEWPORT LTS. 100",
+            "uuid": "5e65ce04-50ec-4a10-bed9-b9103a68bf49",
+            "vertical": false,
+            "translation": "纽波特 LTS. 100"
+        },
+        {
+            "bbox": [
+                215.11916163040274,
+                482.11517582477626,
+                275.91913625512507,
+                494.55884415169794
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "062c1e7b-908f-4439-a47b-cfdb4be03aec",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                405.1484054714246,
+                482.9359257386614,
+                464.79235452500245,
+                494.1482501989374
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "f0cadd1c-733d-4e80-9d3a-ceb00dd9eaf8",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                405.63115606052986,
+                496.0762462019087,
+                464.38176057224183,
+                506.4660687817555
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "e1959468-d639-49de-80bc-ffc61ae2ce09",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                498.0684273619954,
+                469.1141210786667,
+                570.1425184836355,
+                479.76766634106707
+            ],
+            "order": "27",
+            "label": "Text",
+            "text": "KENT GL 100",
+            "uuid": "f095c0a1-6790-42a6-a12f-8e5a5f5bbbbd",
+            "vertical": false,
+            "translation": "健牌 GL 100"
+        },
+        {
+            "bbox": [
+                215.49245011131177,
+                469.0055147760509,
+                276.2361392872756,
+                479.67526365655823
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "8073da07-811b-48a0-a585-32cacb5ed2f6",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                214.26115911450168,
+                496.5006368912043,
+                274.59441795819544,
+                507.58076072865424
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "5ca1e85f-761b-411b-aa4e-65305ccaf25e",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                405.9321242846036,
+                456.6942660677732,
+                462.98194047013726,
+                468.18476486216576
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "2a193713-e8b7-460c-8074-74055de82326",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                405.52169395233364,
+                469.82626468993607,
+                465.4445224637574,
+                478.85451374267296
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "83cbed04-aedb-43fd-873d-c203e7ea73dd",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                404.8456374219544,
+                508.1118104201738,
+                464.0486674829363,
+                519.6050752700947
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "3014b290-f11d-4f76-9d78-d20a0d970c12",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                600.995994221062,
+                453.3972506798797,
+                663.3814047261059,
+                465.29812443121466
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "af04f1fb-4c32-412b-961c-7e369e82d7e3",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                601.5925629829673,
+                470.39149015777815,
+                663.0626405856649,
+                482.4143848193495
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "",
+            "uuid": "e25532d3-03af-4093-801a-bf02ca7f4849",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 754,
+    "page_height": 1000
+}

@@ -1,0 +1,343 @@
+{
+    "file": "jrc32004R1882.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                107.54654041021729,
+                116.31415099362673,
+                229.94535871683374,
+                149.71009864146885
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.10.2004",
+            "uuid": "dd9b701a-2ad7-40f6-a576-fa538c2624ec",
+            "vertical": false,
+            "translation": "29.10.2004"
+        },
+        {
+            "bbox": [
+                331.9411624732281,
+                118.16948141850689,
+                354.1954930744311,
+                142.28877694194847
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "b798a92e-bfd8-4c34-a704-6fb6593e7ac8",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                619.392932738767,
+                118.16948141850689,
+                1014.4073009101201,
+                151.56542906634903
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "51685d9a-d6cf-4593-a591-172c37428b30",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1422.8569861827966,
+                120.02481184338706,
+                1530.4195840886111,
+                149.71009864146885
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 326/39",
+            "uuid": "f8b9ee17-ce03-498d-953f-26c27d247042",
+            "vertical": false,
+            "translation": "L 326/39"
+        },
+        {
+            "bbox": [
+                89.98343304304956,
+                204.7275177585997,
+                1547.659577765694,
+                642.5371933171563
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "bc2753ec-fff1-4e21-87ab-53f0d0d03787",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                1422.8327224954076,
+                212.23844998002738,
+                1530.978684242749,
+                234.74254843602438
+            ],
+            "order": "5",
+            "label": "Table cell",
+            "text": "(EUR/100 kg)",
+            "uuid": "f9e91cfe-c3e9-45ae-95d4-d58c4251764b",
+            "vertical": true,
+            "translation": "(EUR/100 kg)"
+        },
+        {
+            "bbox": [
+                159.23917320050722,
+                310.16896996704816,
+                235.37393027063564,
+                331.8075261747375
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Code NC",
+            "uuid": "746d1528-a6e2-476e-a222-8390645e00e5",
+            "vertical": true,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                109.9520582790772,
+                425.114338775292,
+                218.40885843986342,
+                444.7052943626315
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "ex 1006 30",
+            "uuid": "9429ddb1-8104-42a5-b382-becad21a9b49",
+            "vertical": false,
+            "translation": "ex 1006 30"
+        },
+        {
+            "bbox": [
+                111.46557623235789,
+                566.7720176375932,
+                219.92237639314405,
+                587.8699698085743
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1006 40 00",
+            "uuid": "2b2ba495-f78b-4842-8a08-8d6cc5350fd0",
+            "vertical": false,
+            "translation": "1006 40 00"
+        },
+        {
+            "bbox": [
+                106.94654289232511,
+                602.9399356449894,
+                219.92237639314405,
+                621.0238946486875
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "1007 00 90",
+            "uuid": "60a2c69f-f77b-4607-9ceb-1875e1164ca5",
+            "vertical": false,
+            "translation": "1007 00 90"
+        },
+        {
+            "bbox": [
+                596.5078359255767,
+                309.0756018348965,
+                866.1434918808645,
+                336.2015403404434
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Désignation des marchandises (¹)",
+            "uuid": "77ef0515-ab36-42e9-9a54-fe024703555e",
+            "vertical": true,
+            "translation": "Description of goods (¹)"
+        },
+        {
+            "bbox": [
+                299.8805816793085,
+                423.60734219165045,
+                414.3627596268051,
+                446.2122909462731
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Riz blanchi:",
+            "uuid": "7d1b36b1-362f-44b5-b241-ea08414c42b8",
+            "vertical": true,
+            "translation": "Milled rice:"
+        },
+        {
+            "bbox": [
+                300.563528830578,
+                457.6949491715674,
+                459.3444794768882,
+                484.5972403323288
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "- à grains ronds",
+            "uuid": "a62f50a7-e92b-450c-b871-19bfbaf937e7",
+            "vertical": false,
+            "translation": "- round-grain"
+        },
+        {
+            "bbox": [
+                298.33576115175987,
+                497.4501747900842,
+                476.81991919418857,
+                518.9208531926108
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "- à grains moyens",
+            "uuid": "d7c1b85d-6eb1-4fd0-9ca7-c3ab75747f8a",
+            "vertical": false,
+            "translation": "- medium grain"
+        },
+        {
+            "bbox": [
+                299.8421055984374,
+                530.6040996301973,
+                454.9955836062288,
+                559.2370347193857
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "- à grains longs",
+            "uuid": "850cd9be-740e-4cc6-a9a0-c59cd6377902",
+            "vertical": false,
+            "translation": "- long grain"
+        },
+        {
+            "bbox": [
+                298.33576115175987,
+                565.2650210539517,
+                447.4638613728408,
+                589.3769663922159
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Riz en brisures",
+            "uuid": "46e69dc7-58f0-471f-b228-2b9f7e9c67ae",
+            "vertical": false,
+            "translation": "Broken rice"
+        },
+        {
+            "bbox": [
+                299.3032265355934,
+                598.3257827283668,
+                1028.0309287648308,
+                625.0796611878732
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Sorgho à grains, à l'exclusion du sorgho hybride destiné à l'ensemencement",
+            "uuid": "d578e80d-a949-46c1-aa01-7e5e1dd53664",
+            "vertical": true,
+            "translation": "Grain sorghum, excluding hybrid sorghum for sowing"
+        },
+        {
+            "bbox": [
+                1200.184491447426,
+                248.85324535106488,
+                1509.392346751116,
+                297.34465005892025
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Taux de la restitution par 100 kg du produit de base",
+            "uuid": "ab208b90-36d1-4d2b-978e-3e47bb57e783",
+            "vertical": false,
+            "translation": "Rate of refund per 100 kg of base product"
+        },
+        {
+            "bbox": [
+                1202.15111049672,
+                317.41005890355,
+                1329.1770402431005,
+                389.3111072634734
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "En cas de fixation à l'avance des restitutions",
+            "uuid": "ec781727-5baf-4500-83e9-ad6b3e5f58c1",
+            "vertical": true,
+            "translation": "If refunds are fixed in advance"
+        },
+        {
+            "bbox": [
+                1422.775093740434,
+                342.49181995933725,
+                1481.2738771762672,
+                367.5735810151245
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Autres",
+            "uuid": "7dee75cd-8891-4a07-ae1f-c7e91731366d",
+            "vertical": true,
+            "translation": "Other"
+        },
+        {
+            "bbox": [
+                111.16537200246435,
+                652.9918579626241,
+                1529.5531740339077,
+                698.2814539636279
+            ],
+            "order": "21",
+            "label": "Footnote",
+            "text": "(¹) En ce qui concerne les produits agricoles issus de la transformation du produit de base et/ou assimilés, il y a lieu d'appliquer les coefficients figurant à l'annexe E du règlement (CE) nº 1520/2000 de la Commission (JO L 177 du 15.7.2000, 1).",
+            "uuid": "b30dd293-2081-4a1c-94dd-31687e39c632",
+            "vertical": false,
+            "translation": "(¹) As regards to agricultural products resulting from the processing of the base product and/or assimilated, the coefficients set out in Annex E to Commission Regulation (EC) No. 1520/2000 should be applied (OJ L 177 of 15.7.2000, 1)."
+        },
+        {
+            "bbox": [
+                115.28260800255562,
+                698.2814539636279,
+                638.1715800141473,
+                718.8676339640843
+            ],
+            "order": "22",
+            "label": "Footnote",
+            "text": "(²) La marchandise concernée relève du code NC 3505 10 50.",
+            "uuid": "df9072a6-9cc4-4a8c-b5f6-1a659c2e3140",
+            "vertical": false,
+            "translation": "(²) The goods concerned fall under CN code 3505 10 50."
+        },
+        {
+            "bbox": [
+                113.22399000250998,
+                716.8090159640387,
+                1535.7290280340444,
+                739.4538139645408
+            ],
+            "order": "23",
+            "label": "Footnote",
+            "text": "(³) Marchandises reprises à l'annexe III du règlement (CE) nº 1784/2003 ou visées à l'article 2 du règlement (CE) nº 2825/93 (JO L 258 du 16.10.1993, p. 6).",
+            "uuid": "e47f98bf-82f3-48d1-bbe5-fc384d75e3bc",
+            "vertical": false,
+            "translation": "(³) Goods listed in Annex III to Regulation (EC) No 1784/2003 or referred to in Article 2 of Regulation (EC) No. 2825/93 (OJ L 258, 16.10.1993, p. 6)."
+        },
+        {
+            "bbox": [
+                111.16537200246435,
+                739.4538139645408,
+                1531.6117920339532,
+                784.7434099655446
+            ],
+            "order": "24",
+            "label": "Footnote",
+            "text": "(⁴) Pour les sirops des codes NC 1702 30 99, 1702 40 90 et 1702 60 90, obtenus par mélange de sirops de glucose et fructose, seul le sirop de glucose a droit à la restitution à l'exportation.",
+            "uuid": "de028b6d-0adf-4ae8-a7ba-1d574d0d7942",
+            "vertical": false,
+            "translation": "(⁴) For syrups falling within CN codes 1702 30 99, 1702 40 90 and 1702 60 90, obtained by mixing glucose and fructose syrups, only glucose syrup is entitled to the export refund."
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

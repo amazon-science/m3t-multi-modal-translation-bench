@@ -1,0 +1,623 @@
+{
+    "file": "jrc32002D1003.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                109.640625,
+                130.1982421875,
+                248.9755859375,
+                169.029296875
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "24.12.2002",
+            "uuid": "4a2e8307-eeba-462b-af4b-41e1b6fc7500",
+            "vertical": false,
+            "translation": "24.12.2002"
+        },
+        {
+            "bbox": [
+                328.1485060879371,
+                142.92922848842073,
+                363.9396749494228,
+                163.3668028391645
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "d632b305-bbdc-4173-84a6-66de925dd27b",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                571.7662670538559,
+                132.69287910856735,
+                1080.5413351949987,
+                168.22637593112339
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel des Communautés européennes",
+            "uuid": "a659bc9a-2be9-4e47-b20d-70e402a3fb9f",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1408.8479378016748,
+                135.7487437060612,
+                1546.0540178416404,
+                164.58190545359017
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 349/107",
+            "uuid": "10f03bbc-c5aa-4331-90b1-16c21c94c88e",
+            "vertical": false,
+            "translation": "L 349/107"
+        },
+        {
+            "bbox": [
+                767.484375,
+                237.5546875,
+                897.6826171875,
+                276.3857421875
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE I",
+            "uuid": "828edade-b142-41bb-b01b-191daafe5289",
+            "vertical": false,
+            "translation": "ANNEX I"
+        },
+        {
+            "bbox": [
+                767.484375,
+                299.2275390625,
+                893.1142578125,
+                338.05859375
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Définitions",
+            "uuid": "7080a179-c383-4754-89a1-0d045b466ca9",
+            "vertical": false,
+            "translation": "Definitions"
+        },
+        {
+            "bbox": [
+                237.44067132811904,
+                362.557228803967,
+                1382.8410928757353,
+                392.65534207091173
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "1. L'allèle est défini par rapport aux acides aminés codés par les codons 136, 154 et 171 du gène de la protéine prion.",
+            "uuid": "72c7e16e-40c3-4475-a224-71050ae5aaf6",
+            "vertical": false,
+            "translation": "1. The allele is defined with respect to the amino acids encoded by codons 136, 154 and 171 of the prion protein gene."
+        },
+        {
+            "bbox": [
+                312.9326171875,
+                465.97265625,
+                397.447265625,
+                495.6669921875
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Allèle",
+            "uuid": "47655097-d4db-41bd-ae73-3ac979c16a6d",
+            "vertical": false,
+            "translation": "Allele"
+        },
+        {
+            "bbox": [
+                444.6401004669585,
+                462.1507338184175,
+                737.9465527048118,
+                493.3535478862741
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Acide aminé codé en position 136",
+            "uuid": "c2fa98d9-eb6a-4e6a-b259-5f6cb092ac39",
+            "vertical": false,
+            "translation": "Amino acid coded at position 136"
+        },
+        {
+            "bbox": [
+                761.3486632557043,
+                462.1507338184175,
+                1062.4558190105217,
+                498.03396999645264
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Acide aminé codé en position 154",
+            "uuid": "7eea8638-afda-46d8-adc2-200997d37d17",
+            "vertical": false,
+            "translation": "Amino acid coded at position 154"
+        },
+        {
+            "bbox": [
+                1084.7471893860761,
+                460.9680669741063,
+                1401.5541956320096,
+                496.4504516736509
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Acide aminé codé en position 171",
+            "uuid": "8b54267c-58fd-4eb4-acba-6f107431a65a",
+            "vertical": false,
+            "translation": "Amino acid coded at position 171"
+        },
+        {
+            "bbox": [
+                326.5381547788995,
+                513.3548619179707,
+                402.6067021989841,
+                552.316800840453
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "ARR",
+            "uuid": "da564700-c47d-4ee1-8e41-7a8621b8e4bd",
+            "vertical": false,
+            "translation": "ARR"
+        },
+        {
+            "bbox": [
+                528.2085905288775,
+                512.358656025591,
+                647.2956182117517,
+                550.7738262458729
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "b3a38b2f-3dad-4b62-91c7-98f7ba9b4e6d",
+            "vertical": false,
+            "translation": "Alanine"
+        },
+        {
+            "bbox": [
+                866.262088467359,
+                518.1209315586332,
+                958.4584969960358,
+                550.7738262458729
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "17ba8d3f-996d-445a-9d0d-c9fb8c68ad6b",
+            "vertical": false,
+            "translation": "Arginine"
+        },
+        {
+            "bbox": [
+                1185.7639680262864,
+                515.0644519595662,
+                1286.6362500285225,
+                554.1781939604335
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "658df69f-2744-4a10-a596-9b531198ca08",
+            "vertical": false,
+            "translation": "Arginine"
+        },
+        {
+            "bbox": [
+                328.4497053834111,
+                569.9814113560138,
+                395.67625326890465,
+                606.4758230652819
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "AHQ",
+            "uuid": "1ea1ac63-e997-4bdf-8471-d36ac46a95f4",
+            "vertical": false,
+            "translation": "AHQ"
+        },
+        {
+            "bbox": [
+                541.6539001059762,
+                566.1398943339857,
+                647.2956182117517,
+                604.5550645542678
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "e9e736c9-d663-4300-8101-a3591c16e5af",
+            "vertical": false,
+            "translation": "Alanine"
+        },
+        {
+            "bbox": [
+                865.5422483075732,
+                571.5627289559353,
+                967.6762336078668,
+                602.7222498950081
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Histidine",
+            "uuid": "7f821e51-d3a4-478a-bed2-d406824f46aa",
+            "vertical": false,
+            "translation": "Histidine"
+        },
+        {
+            "bbox": [
+                1182.2963488232274,
+                568.7857946581187,
+                1290.5119982373753,
+                602.7041325341946
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "693a664d-03d5-4b82-a747-bb1da549aadc",
+            "vertical": true,
+            "translation": "Glutamine"
+        },
+        {
+            "bbox": [
+                329.4924250818831,
+                620.4708809454727,
+                389.2533061016363,
+                654.389218821549
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "ARH",
+            "uuid": "cd8f0208-41ff-466e-b457-3f4c23c04ecc",
+            "vertical": false,
+            "translation": "HRA"
+        },
+        {
+            "bbox": [
+                544.308564963699,
+                623.7011988384323,
+                644.4484196454478,
+                654.389218821549
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "7fd595d6-5766-4d3c-b930-83550d83e59e",
+            "vertical": false,
+            "translation": "Alanine"
+        },
+        {
+            "bbox": [
+                856.5172461626672,
+                624.4053669712725,
+                968.8473768069516,
+                655.6081810391291
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "a3d06a3e-4d30-4f71-8ba6-ee93f8366531",
+            "vertical": false,
+            "translation": "Arginine"
+        },
+        {
+            "bbox": [
+                1187.2670752819486,
+                619.724944861094,
+                1283.9957988923045,
+                652.4878996323436
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Histidine",
+            "uuid": "95071562-14a0-4f37-b625-227e917f0139",
+            "vertical": false,
+            "translation": "Histidine"
+        },
+        {
+            "bbox": [
+                326.06940700910286,
+                674.3298694798433,
+                393.1554572549949,
+                705.5326835476999
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "ARQ",
+            "uuid": "04f42ca4-324a-49af-84d2-4eeba90cdc20",
+            "vertical": false,
+            "translation": "ARQ"
+        },
+        {
+            "bbox": [
+                546.0492461874928,
+                674.3298694798433,
+                638.0975476876703,
+                705.5326835476999
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Alanine",
+            "uuid": "c5ae7212-0232-4852-82d5-337acd0911e7",
+            "vertical": false,
+            "translation": "Alanine"
+        },
+        {
+            "bbox": [
+                858.0773868660602,
+                671.2095880730575,
+                959.4865325865946,
+                705.5326835476999
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "2fb32209-2268-48a8-a685-855c234fbdc3",
+            "vertical": false,
+            "translation": "Arginine"
+        },
+        {
+            "bbox": [
+                1177.9062310615916,
+                674.3298694798433,
+                1294.9167838160545,
+                705.5326835476999
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "49e0f9b3-5b38-45ac-b4a2-0962d41195c0",
+            "vertical": false,
+            "translation": "Glutamine"
+        },
+        {
+            "bbox": [
+                326.06940700910286,
+                724.2543719884138,
+                400.95616077195905,
+                758.5774674630565
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "VRQ",
+            "uuid": "199eb9a4-a92b-43a4-bc8a-80010f4bbae8",
+            "vertical": false,
+            "translation": "VRQ"
+        },
+        {
+            "bbox": [
+                550.7296682976714,
+                725.8145126918068,
+                630.296844170706,
+                752.336904649485
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Valine",
+            "uuid": "36404743-5f2f-4e3c-9bb1-164b6873cfe6",
+            "vertical": false,
+            "translation": "Valine"
+        },
+        {
+            "bbox": [
+                858.0773868660602,
+                724.2543719884138,
+                965.7270954001659,
+                760.1376081664492
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Arginine",
+            "uuid": "52f541de-2f6b-4d6f-8ad4-f1946aa679bb",
+            "vertical": false,
+            "translation": "Arginine"
+        },
+        {
+            "bbox": [
+                1177.9062310615916,
+                724.2543719884138,
+                1290.236361705876,
+                755.4571860562708
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "Glutamine",
+            "uuid": "6d1476ad-6f9b-4503-9e09-379fa6bf1c68",
+            "vertical": false,
+            "translation": "Glutamine"
+        },
+        {
+            "bbox": [
+                250.55023311645874,
+                782.009265633435,
+                1425.7501360674676,
+                851.606552610229
+            ],
+            "order": "34",
+            "label": "List-item",
+            "text": "2. Le génotype est défini par la combinaison de deux allèles. Lorsqu'il n'est pas possible de distinguer l'allèle ARQ de l'al lèle ARH, un terme collectif peut être utilisé pour décrire ces deux allèles.",
+            "uuid": "7af830a7-7fb2-402b-a584-f9eb6a65d399",
+            "vertical": false,
+            "translation": "2. Genotype is defined by the combination of two alleles. When it is not possible to distinguish the ARQ allele from the ARH allele, a collective term can be used to describe these two alleles."
+        },
+        {
+            "bbox": [
+                246.5732452892134,
+                855.5835404374744,
+                779.4896141400939,
+                887.3994430554374
+            ],
+            "order": "35",
+            "label": "List-item",
+            "text": "3. On entend par cheptel de valeur génétique élevée:",
+            "uuid": "2b120316-e3f8-4b4f-b927-09e9eb7c2824",
+            "vertical": false,
+            "translation": "3. One means by livestock of high genetic value:"
+        },
+        {
+            "bbox": [
+                280.3776418207991,
+                893.3649247963054,
+                1407.8536908448634,
+                953.019742204986
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "a) un cheptel d'ovins reproducteurs de race pure, au sens de la directive 89/361/CEE du Conseil concernant les animaux des espèces ovine et caprine reproducteurs de race pure, ou",
+            "uuid": "565d4495-50a9-4335-ab0c-5efd0ef9e4c6",
+            "vertical": false,
+            "translation": "a) a herd of pure-bred breeding sheep within the meaning of Council Directive 89/361/EEC on pure-bred breeding sheep and goats, or"
+        },
+        {
+            "bbox": [
+                276.4006539935537,
+                960.973717859477,
+                1409.8421847584862,
+                1020.6285352681576
+            ],
+            "order": "37",
+            "label": "List-item",
+            "text": "tout autre cheptel d'ovins, que l'autorité compétente de l'État membre considère comme d'une grande importance dans la commercialisation ou la production d'ovins reproducteurs et souhaite inclure dans l'étude,",
+            "uuid": "acaf38a5-e6a6-4eaf-84c3-3e2ecd331e21",
+            "vertical": false,
+            "translation": "any other flock of sheep which the competent authority of the Member State considers to be of great importance in the marketing or production of breeding sheep and wishes to include in the study,"
+        },
+        {
+            "bbox": [
+                280.3776418207991,
+                1024.6055230954028,
+                1413.8191725857314,
+                1112.0992552948014
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "de la même race, élevés dans une seule exploitation et/ou sous la responsabilité d'un seul éleveur. Cette définition englobe les béliers utilisés pour l'insémination artificielle, mais pas ceux qui sont uniquement élevés aux fins de la reproduction avec des brebis commerciales.",
+            "uuid": "32b301a0-51d4-4348-8b8d-b50d6fa48946",
+            "vertical": false,
+            "translation": "of the same breed, reared on a single holding and/or under the responsibility of a single breeder. This definition includes rams used for artificial insemination, but not rams which are reared solely for breeding with commercial ewes."
+        },
+        {
+            "bbox": [
+                770.023877540009,
+                1235.8139290257752,
+                893.580717489122,
+                1275.5286275808471
+            ],
+            "order": "39",
+            "label": "Section-header",
+            "text": "ANNEXE II",
+            "uuid": "5c5ef7d9-b639-4df9-a449-33ed9457fc12",
+            "vertical": false,
+            "translation": "ANNEX II"
+        },
+        {
+            "bbox": [
+                244.90730775627796,
+                1302.0050932842285,
+                1416.4909151309046,
+                1365.9898854007338
+            ],
+            "order": "40",
+            "label": "Section-header",
+            "text": "Paramètres applicables à l'étude des génotypes de la protéine prion pour les ovins provenant de cheptels de valeur génétique élevée",
+            "uuid": "210a33bc-9391-411e-aff8-9f5132f40f82",
+            "vertical": false,
+            "translation": "Parameters for the study of prion protein genotypes in sheep from flocks of high genetic value"
+        },
+        {
+            "bbox": [
+                247.11367989822637,
+                1396.879095388012,
+                1383.3953330016782,
+                1429.9746775172387
+            ],
+            "order": "41",
+            "label": "List-item",
+            "text": "1. L'échantillonnage est effectué sur des ovins provenant de cheptels de valeur génétique élevée, au sens de l'annexe I.",
+            "uuid": "59710ebc-ffa0-42bd-8288-5eddf4a035f2",
+            "vertical": false,
+            "translation": "1. Sampling shall be carried out on ovine animals from flocks of high genetic value within the meaning of Annex I."
+        },
+        {
+            "bbox": [
+                251.52642418212326,
+                1445.4192825108778,
+                926.6762996183489,
+                1474.1021203562077
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "2. Au moins cinquante échantillons sont collectés pour chaque race.",
+            "uuid": "aff4beb4-8538-4867-b133-9ba92e6fb2f3",
+            "vertical": false,
+            "translation": "2. At least fifty samples shall be collected for each breed."
+        },
+        {
+            "bbox": [
+                251.52642418212326,
+                1487.3403532078983,
+                1178.202723800472,
+                1518.2295631951765
+            ],
+            "order": "43",
+            "label": "List-item",
+            "text": "3. Il y a lieu de choisir des échantillons représentatifs de la race tout entière dans l'État membre.",
+            "uuid": "e58463fb-65dd-4c91-9c3b-a92167d822ce",
+            "vertical": false,
+            "translation": "3 Samples should be chosen to be representative of the entire breed in the member state."
+        },
+        {
+            "bbox": [
+                250.89834833717745,
+                1525.3724989637244,
+                1403.2386196286425,
+                1602.4341345244288
+            ],
+            "order": "44",
+            "label": "List-item",
+            "text": "4. Si le système d'échantillonnage décrit aux points 2 et 3 ne révèle aucun animal porteur de l'allèle ARR au sein d'une race, ladite race fait l'objet d'un échantillonnage accru.",
+            "uuid": "7d81f633-64cb-47c5-b5e3-691fbcd25b5b",
+            "vertical": false,
+            "translation": "4. If the sampling system described in points 2 and 3 does not reveal any animals carrying the ARR allele within a breed, that breed is sampled further."
+        },
+        {
+            "bbox": [
+                284.2599586322552,
+                402.68804649322647,
+                1197.23606106291,
+                437.8025119713287
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "Chaque allèle est représenté par un code de trois lettres, comme indiqué dans le tableau suivant.",
+            "uuid": "479400ae-2297-4e97-9c42-1a3c421cda8e",
+            "vertical": false,
+            "translation": "Each allele is represented by a three-letter code, as shown in the following table."
+        },
+        {
+            "bbox": [
+                281.7222989802284,
+                446.1630989899243,
+                1413.7457812980915,
+                770.5538753114392
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "54274886-527f-4be2-8aba-e99bb2f6a082",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1656,
+    "page_height": 2339
+}

@@ -1,0 +1,77 @@
+{
+    "file": "2713202d764155ceffc034d8745f85dbe405e29a885762184a1c6e0840461e8a.png",
+    "annotations": [
+        {
+            "bbox": [
+                1189.2865147885022,
+                1087.2931757637273,
+                1475.6379036377677,
+                1159.3029552778844
+            ],
+            "order": "1",
+            "label": "Text",
+            "text": "Chesapeake",
+            "uuid": "cae3a97f-66d3-4c89-a5b3-6bad620e0304",
+            "vertical": false,
+            "translation": "切萨皮克"
+        },
+        {
+            "bbox": [
+                1021.8209885962193,
+                1885.7511020645884,
+                1476.3833584846084,
+                1912.4219937551957
+            ],
+            "order": "3",
+            "label": "Text",
+            "text": "6100 NORTH WESTERN AVENUE",
+            "uuid": "a8e04797-7fb6-4a59-bdb5-3781bc8c98e5",
+            "vertical": false,
+            "translation": "6100 NORTH WESTERN AVENUE"
+        },
+        {
+            "bbox": [
+                1358.6220119272623,
+                1142.4256632042539,
+                1453.1348475395935,
+                1159.8655316803388
+            ],
+            "order": "2",
+            "label": "Text",
+            "text": "ENERGY",
+            "uuid": "43591aed-e453-44b8-84d0-7d2831af8695",
+            "vertical": false,
+            "translation": "能源"
+        },
+        {
+            "bbox": [
+                1095.8988319810794,
+                1935.6583906648916,
+                1473.9501744304046,
+                1960.9743287753374
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "OKLAHOMA CITY, OK 73118",
+            "uuid": "1f8b40b3-e0ec-4576-9544-d344a299219f",
+            "vertical": false,
+            "translation": "俄克拉荷马城，俄克拉荷马州 73118"
+        },
+        {
+            "bbox": [
+                1242.7312730216659,
+                1979.539350056331,
+                1473.9501744304048,
+                2002.0424061545052
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "WWW.CHK.COM",
+            "uuid": "0647c25d-5e31-461c-a35f-325715ffb541",
+            "vertical": false,
+            "translation": "WWW.CHK.COM"
+        }
+    ],
+    "page_width": 1650,
+    "page_height": 2150
+}

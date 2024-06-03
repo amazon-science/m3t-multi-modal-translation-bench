@@ -1,0 +1,357 @@
+{
+    "file": "jrc32001D0936.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                119.3475802712613,
+                136.5822627223989,
+                243.05041325725583,
+                165.695517676498
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.12.2001",
+            "uuid": "3e75a9ad-5de8-474b-8cfc-b8f7389d6464",
+            "vertical": false,
+            "translation": "29.12.2001"
+        },
+        {
+            "bbox": [
+                336.18365793982446,
+                142.40491371321872,
+                371.1115166652817,
+                162.7841921810881
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "fc3c9689-738c-4d92-89e3-f56804c5a2d3",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                592.3212885931779,
+                139.4935882178088,
+                1063.847381386851,
+                165.695517676498
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "cad1f61e-138c-4a8a-ac16-867ef06cf83f",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1430.5898980041522,
+                133.67093722698897,
+                1541.1947839681002,
+                168.6068431719079
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 345/93",
+            "uuid": "90342192-fc06-4066-a0d2-766b73020831",
+            "vertical": false,
+            "translation": "L 345/93"
+        },
+        {
+            "bbox": [
+                777.1502214543989,
+                254.49094528650036,
+                880.4784701838767,
+                280.69287474518956
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "87acaec6-fd1a-409a-9bd2-6f6a53e69924",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                775.6948940075048,
+                312.71745519469863,
+                877.5678152900886,
+                340.375047401093
+            ],
+            "order": "6",
+            "label": "Section-header",
+            "text": "Grönland",
+            "uuid": "15fa7b8b-b8e5-4998-aa0b-fac71e5859a6",
+            "vertical": false,
+            "translation": "Greenland"
+        },
+        {
+            "bbox": [
+                260.50897780700996,
+                370.9439651028971,
+                1398.5750412781595,
+                769.7955579740554
+            ],
+            "order": "7",
+            "label": "Table",
+            "text": "",
+            "uuid": "84cb4132-42d3-4da5-aa91-26e527f943e3",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                286.70487185110295,
+                384.04492983224173,
+                369.658536324064,
+                430.6261377588003
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Laufende Nummer",
+            "uuid": "4a1b8419-071c-4474-8646-2221b5169b93",
+            "vertical": false,
+            "translation": "Serial number"
+        },
+        {
+            "bbox": [
+                438.05892632808445,
+                394.23456906617645,
+                516.6466084603633,
+                420.4364985248656
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "KN-Code",
+            "uuid": "2bae0096-75aa-44f3-8b11-ff86b7f0d243",
+            "vertical": false,
+            "translation": "CN code"
+        },
+        {
+            "bbox": [
+                650.5367335746163,
+                395.6902318138814,
+                814.9887350736443,
+                424.80348676798053
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Warenbezeichnung",
+            "uuid": "5f8c743a-035c-4af9-ba84-4dcfa314ae42",
+            "vertical": false,
+            "translation": "Product name"
+        },
+        {
+            "bbox": [
+                1023.1005599794937,
+                395.6902318138814,
+                1110.420206793137,
+                417.52517302945574
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Zeitraum",
+            "uuid": "0202b259-7d77-4ee4-8cf0-3f696ca6330e",
+            "vertical": false,
+            "translation": "Period"
+        },
+        {
+            "bbox": [
+                1258.8636063763304,
+                379.6779415891269,
+                1362.1918551058081,
+                432.0818005065053
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Menge (in Tonnen)",
+            "uuid": "f91cc361-7b5f-4a9b-ae12-14ffcd390363",
+            "vertical": false,
+            "translation": "Quantity (in tonnes)"
+        },
+        {
+            "bbox": [
+                282.3388895104208,
+                465.56204370371927,
+                369.658536324064,
+                496.13096140552335
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "09.0691",
+            "uuid": "b2075637-ca2c-4139-a9fd-7afd02b041c6",
+            "vertical": false,
+            "translation": "09.0691"
+        },
+        {
+            "bbox": [
+                419.1396695184618,
+                468.4733691991292,
+                537.0211927168801,
+                496.13096140552335
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "ex 1605 20",
+            "uuid": "2da43f6c-b43b-4647-bc71-14758c10f739",
+            "vertical": false,
+            "translation": "ex 1605 20"
+        },
+        {
+            "bbox": [
+                567.5830691016552,
+                468.4733691991292,
+                896.4870720997112,
+                549.9904830706067
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Garnelen, zubereitet oder haltbar gemacht, der Art Pandalus borealis",
+            "uuid": "e16ae75b-d478-405f-ad61-c1842319be72",
+            "vertical": false,
+            "translation": "Prawns, prepared or preserved, of the species Pandalus borealis"
+        },
+        {
+            "bbox": [
+                940.1468955065328,
+                468.4733691991292,
+                1190.4632163723102,
+                494.6752986578184
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "1.1.2002 bis 31.12.2002",
+            "uuid": "686cae83-4d8e-4365-b955-1c14914df55f",
+            "vertical": false,
+            "translation": "1.1.2002 to 31.12.2002"
+        },
+        {
+            "bbox": [
+                1283.6041729735293,
+                459.7393927128995,
+                1340.3619434023976,
+                493.2196359101135
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "2 100",
+            "uuid": "11687bee-0625-425d-b0cb-d462e2c4ee85",
+            "vertical": false,
+            "translation": "2,100"
+        },
+        {
+            "bbox": [
+                945.968205294109,
+                533.9781928458523,
+                1189.007888925416,
+                557.2687968091316
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "1.1.2003 bis 31.12.2003",
+            "uuid": "d46cf6b1-b1a2-4b75-a3f9-d2ba31ccd0dd",
+            "vertical": false,
+            "translation": "1.1.2003 to 31.12.2003"
+        },
+        {
+            "bbox": [
+                1282.1488455266351,
+                533.9781928458523,
+                1340.3619434023976,
+                557.2687968091316
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "2 100",
+            "uuid": "287b65a4-a4a3-4ed8-a81f-10878947d786",
+            "vertical": false,
+            "translation": "2,100"
+        },
+        {
+            "bbox": [
+                945.968205294109,
+                590.7490400063456,
+                1189.007888925416,
+                621.3179577081498
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "1.1.2004 bis 31.12.2004",
+            "uuid": "d81e27d0-170f-4572-8bb8-39af80a54425",
+            "vertical": false,
+            "translation": "1.1.2004 to 31.12.2004"
+        },
+        {
+            "bbox": [
+                1282.1488455266351,
+                598.0273537448703,
+                1343.2725982961854,
+                622.7736204558548
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "2 100",
+            "uuid": "d95a122f-993e-48d6-815d-cd7f32c1d9bf",
+            "vertical": false,
+            "translation": "2,100"
+        },
+        {
+            "bbox": [
+                948.8788601878972,
+                660.6208518961837,
+                1187.5525614785217,
+                688.2784441025779
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "1.1.2005 bis 31.12.2005",
+            "uuid": "27136f93-8da3-48a6-b6a3-b7c575044a5b",
+            "vertical": false,
+            "translation": "1.1.2005 to 31.12.2005"
+        },
+        {
+            "bbox": [
+                1282.1488455266351,
+                662.0765146438887,
+                1340.3619434023976,
+                685.367118607168
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "2 100",
+            "uuid": "98bb32e3-b0b4-4f4f-bf20-e6c6121a2ee9",
+            "vertical": false,
+            "translation": "2,100"
+        },
+        {
+            "bbox": [
+                948.8788601878972,
+                720.3030245520869,
+                1187.5525614785217,
+                752.327605001596
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "1.1.2006 bis 31.12.2006",
+            "uuid": "1dfca51e-c8d2-4f0c-9da9-3f3bd370167d",
+            "vertical": false,
+            "translation": "1.1.2006 to 31.12.2006"
+        },
+        {
+            "bbox": [
+                1280.6935180797411,
+                721.7586872997919,
+                1343.2725982961854,
+                752.327605001596
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "2 100",
+            "uuid": "cfec2f17-da74-4d3b-ba7a-ebddf2cd6fdb",
+            "vertical": false,
+            "translation": "2,100"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

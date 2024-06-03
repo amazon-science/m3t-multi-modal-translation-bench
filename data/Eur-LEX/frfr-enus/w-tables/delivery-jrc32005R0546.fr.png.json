@@ -1,0 +1,987 @@
+{
+    "file": "jrc32005R0546.fr.png",
+    "annotations": [
+        {
+            "bbox": [
+                100.187842943526,
+                116.31415099362673,
+                218.92899013585316,
+                153.42075949122918
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "9.4.2005",
+            "uuid": "8444d982-9dd0-4d26-9ea4-926e3d4c9658",
+            "vertical": false,
+            "translation": "9.4.2005"
+        },
+        {
+            "bbox": [
+                322.82749392913934,
+                120.02481184338706,
+                356.2234415769814,
+                149.71009864146885
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "FR",
+            "uuid": "5ffb9985-9ccb-4a65-96c6-79881976189e",
+            "vertical": false,
+            "translation": "FR"
+        },
+        {
+            "bbox": [
+                612.2590402104366,
+                116.31415099362673,
+                1024.1423945338215,
+                157.13142034098925
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Journal officiel de l'Union européenne",
+            "uuid": "675ebf39-bad3-48e9-b9af-05b9f3815190",
+            "vertical": false,
+            "translation": "Official Journal of the European Union"
+        },
+        {
+            "bbox": [
+                1443.4470705567264,
+                116.31415099362673,
+                1528.7922701012117,
+                157.13142034098925
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 91/7",
+            "uuid": "125c351a-52bd-4ecb-81fe-6a8631acb484",
+            "vertical": false,
+            "translation": "L 91/7"
+        },
+        {
+            "bbox": [
+                764.3961350506058,
+                220.2126547869132,
+                875.7159605434126,
+                240.62128946059417
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEXE II",
+            "uuid": "280e10fa-f2a0-4e22-a894-b078e0c978c0",
+            "vertical": false,
+            "translation": "ANNEX II"
+        },
+        {
+            "bbox": [
+                248.6142769339349,
+                409.45635812468447,
+                727.2895265530036,
+                439.14164492276626
+            ],
+            "order": "7",
+            "label": "List-item",
+            "text": "a) au point III, les tableaux suivant sont ajoutés:",
+            "uuid": "b06f1f37-2499-4b5c-824f-8f687e3b2d7c",
+            "vertical": false,
+            "translation": "a) in point III, the following tables are added:"
+        },
+        {
+            "bbox": [
+                248.6142769339349,
+                301.84719348163793,
+                929.5205428649358,
+                327.8218194299594
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "L'annexe I du règlement (CE) nº 1358/2003 est modifiée comme suit:",
+            "uuid": "02e4308b-ce88-4c11-8a2a-3883b71bacfd",
+            "vertical": true,
+            "translation": "Annex I to Regulation (EC) No. 1358/2003 is amended as follows:"
+        },
+        {
+            "bbox": [
+                485.401871228659,
+                512.1238664666836,
+                1184.8218402263174,
+                547.4258207378589
+            ],
+            "order": "8",
+            "label": "Section-header",
+            "text": "République tchèque: Liste des aéroports communautaires et dérogations",
+            "uuid": "b5cc6bf2-3425-4259-8433-904bff19cc10",
+            "vertical": false,
+            "translation": "Czech Republic: List of Community airports and derogations"
+        },
+        {
+            "bbox": [
+                278.00288988550466,
+                562.8704257314979,
+                1387.808077285575,
+                940.1600620046828
+            ],
+            "order": "9",
+            "label": "Table",
+            "text": "",
+            "uuid": "45d64b82-9841-473d-8e42-f63e11d1afa1",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                286.8283784532985,
+                613.6169849963123,
+                419.2107069702055,
+                670.9826606869719
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "(1) Code OACI de l'aéroport",
+            "uuid": "a317b042-b555-488d-bf3e-147ff3d785ba",
+            "vertical": true,
+            "translation": "(1) ICAO airport code"
+        },
+        {
+            "bbox": [
+                458.9254055252775,
+                633.4743342738483,
+                648.6734097328442,
+                657.7444278352814
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "(2) Nom de l'aéroport",
+            "uuid": "1988c16b-0588-45d9-9302-508286bd94ee",
+            "vertical": false,
+            "translation": "(2) Airport name"
+        },
+        {
+            "bbox": [
+                697.2135968557102,
+                604.7914964285186,
+                836.2150417984625,
+                679.8081492547657
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "(3) Catégorie de l'aéroport en 2004",
+            "uuid": "d7026646-a3c0-45fe-8ff7-e78707cbdf84",
+            "vertical": true,
+            "translation": "(3) Airport category in 2004"
+        },
+        {
+            "bbox": [
+                891.3743453471736,
+                571.6959142992916,
+                1352.5061230143997,
+                670.9826606869719
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "(4) Aéroports des catégories «1» et «2» uniquement: pour chaque tableau: dernière année pour laquelle une dérogation est demandée (« » ou «2004» ou «2005»)",
+            "uuid": "6cc81edc-f665-4bf8-89ec-adb89fa0fc11",
+            "vertical": false,
+            "translation": "(4) Category \"1\" and \"2\" airports only: for each table: last year for which an exemption is requested (\" or \"2004\" or \"2005\")"
+        },
+        {
+            "bbox": [
+                871.5169960696378,
+                690.8400099645079,
+                1019.3439295801838,
+                717.3164756678894
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "(4.1) Tableau Al",
+            "uuid": "1e67d4f4-1f4e-4049-9ac8-6c72254fb155",
+            "vertical": false,
+            "translation": "(4.1) Table Al"
+        },
+        {
+            "bbox": [
+                1052.4395117094105,
+                688.6336378225595,
+                1195.8537009360598,
+                717.3164756678894
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "(4.2) Tableau B1",
+            "uuid": "d1b08d2b-ce14-450b-af02-fbbeaf1605ba",
+            "vertical": false,
+            "translation": "(4.2) Table B1"
+        },
+        {
+            "bbox": [
+                1237.7747716330805,
+                686.4272656806111,
+                1381.1889608597298,
+                719.5228478098379
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "(4.3) Tableau Cl",
+            "uuid": "b885a126-92ca-4064-b9d3-8c67e6886791",
+            "vertical": true,
+            "translation": "(4.3) Table Cl"
+        },
+        {
+            "bbox": [
+                282.4156341694016,
+                741.5865692293223,
+                341.98768200200976,
+                768.0630349327038
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "LKPR",
+            "uuid": "eb921cb2-4e03-4d4b-bb16-eee404d41b06",
+            "vertical": false,
+            "translation": "LKPR"
+        },
+        {
+            "bbox": [
+                436.8616841057931,
+                737.1738249454254,
+                584.6886176163392,
+                768.0630349327038
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Praha-Ruzyne",
+            "uuid": "f8f2229f-7986-47a1-a8d9-9f7be14516b7",
+            "vertical": true,
+            "translation": "Praha-Ruzyne"
+        },
+        {
+            "bbox": [
+                756.7856446883183,
+                739.3801970873739,
+                783.2621103916997,
+                770.2694070746522
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "ef20284a-b6bf-4b8e-9e74-de4c99377c73",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                280.2092620274531,
+                787.9203842102397,
+                333.1621934342159,
+                821.0159663394667
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "LKTB",
+            "uuid": "8f211cf2-f6a6-405c-96f6-71b0d2489be0",
+            "vertical": false,
+            "translation": "LKTB"
+        },
+        {
+            "bbox": [
+                441.27442838968994,
+                790.1267563521882,
+                564.8312683388032,
+                827.635082765312
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "Brno-Turany",
+            "uuid": "899c7d92-29a7-45c8-8449-cac5ef0fec52",
+            "vertical": true,
+            "translation": "Brno-Turany"
+        },
+        {
+            "bbox": [
+                761.1983889722152,
+                794.5395006360851,
+                776.6429939658543,
+                816.6032220555697
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "5d64d635-e5dd-4562-98f5-74f56e271065",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                275.79651774355625,
+                845.2860599008994,
+                341.98768200200976,
+                867.3497813203841
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "LKMT",
+            "uuid": "865dbe87-bc66-408d-a01a-7516020a49bf",
+            "vertical": false,
+            "translation": "LKMT"
+        },
+        {
+            "bbox": [
+                441.27442838968994,
+                843.079687758951,
+                597.9268504680299,
+                873.9688977462295
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Ostrava-Mosnov",
+            "uuid": "939f53a0-1daf-4e3d-9700-3c158ee78626",
+            "vertical": true,
+            "translation": "Ostrava-Mosnov"
+        },
+        {
+            "bbox": [
+                758.9920168302667,
+                840.8733156170026,
+                776.6429939658543,
+                873.9688977462295
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "83a3edfa-5657-49ef-b319-ea913b8771b1",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                278.0028898855047,
+                896.0326191657138,
+                335.36856557616437,
+                924.7154570110438
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "LKKV",
+            "uuid": "d266ab31-7225-4eea-a0fc-8fb12b574414",
+            "vertical": false,
+            "translation": "LKKV"
+        },
+        {
+            "bbox": [
+                436.8616841057931,
+                896.0326191657138,
+                558.2121519129579,
+                924.7154570110438
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Karlovy Vary",
+            "uuid": "a48cd1a5-14d3-4e1e-a193-7512ca013d7d",
+            "vertical": false,
+            "translation": "Karlovy Vary"
+        },
+        {
+            "bbox": [
+                758.9920168302667,
+                893.8262470237654,
+                778.8493661078028,
+                924.7154570110438
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "fabc8d15-cfa4-4843-a2ec-18f4a41f04e5",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                544.9739190612672,
+                1037.2404362504146,
+                1127.4561645356578,
+                1074.7487626635382
+            ],
+            "order": "29",
+            "label": "Section-header",
+            "text": "Estonie: Liste des aéroports communautaires et dérogations",
+            "uuid": "9546cf5f-05a7-4bc6-8ff4-31b329ab922d",
+            "vertical": false,
+            "translation": "Estonia: List of Community airports and derogations"
+        },
+        {
+            "bbox": [
+                269.1774013177109,
+                1087.986995515229,
+                1394.4271937114204,
+                1359.3707689748883
+            ],
+            "order": "30",
+            "label": "Table",
+            "text": "",
+            "uuid": "e02db0d2-479b-4ca5-8fbd-9830cf1ed3f8",
+            "vertical": true,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                284.62200631135005,
+                1140.9399269219919,
+                419.2107069702055,
+                1202.7183468965484
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "(1) Code OACI de l'aéroport",
+            "uuid": "2498f4b4-67c9-4c62-a24c-d1069da5d3a4",
+            "vertical": true,
+            "translation": "(1) ICAO airport code"
+        },
+        {
+            "bbox": [
+                463.33814980917447,
+                1158.5909040575793,
+                648.6734097328442,
+                1185.067369760961
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "(2) Nom de l'aéroport",
+            "uuid": "0f266a11-4072-43cb-abbe-113c2cb538d6",
+            "vertical": false,
+            "translation": "(2) Name of airport"
+        },
+        {
+            "bbox": [
+                695.0072247137617,
+                1138.7335547800435,
+                834.008669656514,
+                1209.3374633223937
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(3) Catégorie de l'aéroport en 2004",
+            "uuid": "06280b4e-d024-49d1-aea0-13727e15b1fb",
+            "vertical": true,
+            "translation": "(3) Airport category in 2004"
+        },
+        {
+            "bbox": [
+                886.9616010632768,
+                1096.8124840830228,
+                1356.9188672982966,
+                1196.0992304707029
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "(4) Aéroports des catégories «1» et «2» uniquement: pour chaque tableau: dernière année pour laquelle une dérogation est demandée (« » ou «2004» ou «2005»)",
+            "uuid": "a54ba6ba-de10-4644-b416-27f6a3e54951",
+            "vertical": false,
+            "translation": "(4) Category \"1\" and \"2\" airports only: for each table: last year for which an exemption is requested (\" or \"2004\" or \"2005\")"
+        },
+        {
+            "bbox": [
+                871.5169960696378,
+                1215.956579748239,
+                1017.1375574382354,
+                1251.2585340194141
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "(4.1) Tableau A1",
+            "uuid": "ae30f3b6-4766-4523-b34f-009a559882fc",
+            "vertical": false,
+            "translation": "(4.1) Table A1"
+        },
+        {
+            "bbox": [
+                1052.4395117094105,
+                1213.7502076062906,
+                1195.8537009360598,
+                1244.639417593569
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "(4.2) Tableau B1",
+            "uuid": "1d95b1a6-34b1-4a65-a7a0-db0de168ec08",
+            "vertical": true,
+            "translation": "(4.2) Table B1"
+        },
+        {
+            "bbox": [
+                1237.7747716330805,
+                1218.1629518901875,
+                1378.982588717781,
+                1246.8457897355172
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "(4.3) Tableau Cl",
+            "uuid": "a191d2ea-1e47-4724-80a2-3c590492a3be",
+            "vertical": false,
+            "translation": "(4.3) Table Cl"
+        },
+        {
+            "bbox": [
+                280.2092620274531,
+                1266.7031390130535,
+                339.78130986006124,
+                1297.5923490003315
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "EETN",
+            "uuid": "418060f4-d566-406a-978e-d2b520b41462",
+            "vertical": false,
+            "translation": "EETN"
+        },
+        {
+            "bbox": [
+                439.06805624774154,
+                1266.7031390130535,
+                593.514106184133,
+                1295.3859768583834
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Tallinn/Ülemiste",
+            "uuid": "4be8949a-af55-4b21-abcc-6ea0cbdb5af2",
+            "vertical": true,
+            "translation": "Tallinn/Ülemiste"
+        },
+        {
+            "bbox": [
+                754.5792725463699,
+                1264.496766871105,
+                778.8493661078028,
+                1297.5923490003315
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "4252900b-99ce-4103-8b2e-624926426c8d",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                278.0028898855047,
+                1317.4496982778678,
+                335.36856557616437,
+                1346.1325361231977
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "EECL",
+            "uuid": "5bc919a1-615c-4c20-acb6-c97e584574cd",
+            "vertical": false,
+            "translation": "EECL"
+        },
+        {
+            "bbox": [
+                441.27442838968994,
+                1313.0369539939709,
+                597.9268504680299,
+                1350.5452804070947
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Tallinn/City Hall",
+            "uuid": "355586f3-7af3-4db3-8808-d4d889a26373",
+            "vertical": false,
+            "translation": "Tallinn/City Hall"
+        },
+        {
+            "bbox": [
+                758.9920168302667,
+                1319.6560704198162,
+                776.6429939658543,
+                1346.1325361231977
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "78c7560e-0011-48ef-a59d-4469e9ced242",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                544.9739190612672,
+                1463.0702596464653,
+                1120.8370481098125,
+                1500.578586059589
+            ],
+            "order": "44",
+            "label": "Section-header",
+            "text": "Chypre: Liste des aéroports communautaires et dérogations",
+            "uuid": "3da8b840-0a93-491b-b1d0-915cf27bdafb",
+            "vertical": true,
+            "translation": "Cyprus: List of Community airports and derogations"
+        },
+        {
+            "bbox": [
+                275.24243496180827,
+                1508.0794416247297,
+                1390.0608507819625,
+                1785.2005923709391
+            ],
+            "order": "45",
+            "label": "Table",
+            "text": "",
+            "uuid": "2aedab54-7762-43fb-83ab-a6bf9b0391ee",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                285.6289419414992,
+                1570.398483502875,
+                411.99811019440483,
+                1615.4066804148688
+            ],
+            "order": "46",
+            "label": "Table cell",
+            "text": "(1) Code OACI de l'aéroport",
+            "uuid": "826148ad-068f-4264-a362-8cf8f9b83f08",
+            "vertical": false,
+            "translation": "(1) ICAO airport code"
+        },
+        {
+            "bbox": [
+                462.1995605962441,
+                1582.516074979181,
+                649.15668623068,
+                1610.2134269250234
+            ],
+            "order": "47",
+            "label": "Table cell",
+            "text": "(2) Nom de l'aéroport",
+            "uuid": "5253cc3e-a7b5-41d8-ab31-731e5dee1b71",
+            "vertical": false,
+            "translation": "(2) Name of airport"
+        },
+        {
+            "bbox": [
+                701.0892211291344,
+                1560.0119765231843,
+                836.1138118651157,
+                1632.7175253810203
+            ],
+            "order": "48",
+            "label": "Table cell",
+            "text": "(3) Catégorie de l'aéroport en 2004",
+            "uuid": "f78a388d-e582-4bd2-9d6b-f670a0907c60",
+            "vertical": true,
+            "translation": "(3) Airport category in 2004"
+        },
+        {
+            "bbox": [
+                894.9706847500307,
+                1525.3902865908813,
+                1353.7080763530446,
+                1622.3310184013292
+            ],
+            "order": "49",
+            "label": "Table cell",
+            "text": "(4) Aéroports des catégories «1» et «2» uniquement : pour chaque tableau: dernière année pour laquelle une dérogation est demandée (« » ou «2004» ou «2005»)",
+            "uuid": "48e66188-14d0-4407-8d42-380a01a19599",
+            "vertical": true,
+            "translation": "(4) Category \"1\" and \"2\" airports only: for each table: last year for which a waiver is requested (\" \" or \"2004\" or \"2005\")"
+        },
+        {
+            "bbox": [
+                877.6598397838793,
+                1639.6418633674807,
+                1016.1465995130911,
+                1669.0702998099384
+            ],
+            "order": "50",
+            "label": "Table cell",
+            "text": "(4.1) Tableau A1",
+            "uuid": "c4f7523f-c7e4-4456-a432-c523f1672fc8",
+            "vertical": true,
+            "translation": "(4.1) Table A1"
+        },
+        {
+            "bbox": [
+                1050.768289445394,
+                1639.6418633674807,
+                1192.7172181678359,
+                1669.0702998099384
+            ],
+            "order": "51",
+            "label": "Table cell",
+            "text": "(4.2) Tableau B1",
+            "uuid": "31bcda2a-6e60-4e40-8c7f-c4b2487d77cb",
+            "vertical": false,
+            "translation": "(4.2) Table B1"
+        },
+        {
+            "bbox": [
+                1232.5321615899843,
+                1641.372947864096,
+                1377.9432593056565,
+                1670.8013843065535
+            ],
+            "order": "52",
+            "label": "Table cell",
+            "text": "(4.3) Tableau Cl",
+            "uuid": "7d804122-c919-4b7f-969b-fb681301f9f8",
+            "vertical": false,
+            "translation": "(4.3) Table Cl"
+        },
+        {
+            "bbox": [
+                282.1667729482689,
+                1691.5743982659353,
+                337.56147683995357,
+                1714.078496721932
+            ],
+            "order": "53",
+            "label": "Table cell",
+            "text": "LCLK",
+            "uuid": "c7326358-e594-40a3-9857-7009632caa04",
+            "vertical": false,
+            "translation": "LCLK"
+        },
+        {
+            "bbox": [
+                439.6954621402473,
+                1691.5743982659353,
+                521.0564334811592,
+                1715.8095812185472
+            ],
+            "order": "54",
+            "label": "Table cell",
+            "text": "Larnaka",
+            "uuid": "0a367250-545d-409e-8509-7344da8dcbb8",
+            "vertical": false,
+            "translation": "Larnaka"
+        },
+        {
+            "bbox": [
+                758.2150095174342,
+                1689.84331376932,
+                777.2569389802007,
+                1715.8095812185472
+            ],
+            "order": "55",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "c8f5f8d2-92ba-4e9b-85b1-f48eae195f0b",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                278.70460395503864,
+                1741.7758486677744,
+                342.75473032979903,
+                1767.7421161170016
+            ],
+            "order": "56",
+            "label": "Table cell",
+            "text": "LCPH",
+            "uuid": "bcf7a516-2b1f-413e-9028-1e5e82f243e0",
+            "vertical": false,
+            "translation": "LCPH"
+        },
+        {
+            "bbox": [
+                437.964377643632,
+                1740.0447641711592,
+                503.7455885150076,
+                1771.204285110232
+            ],
+            "order": "57",
+            "label": "Table cell",
+            "text": "Pafos",
+            "uuid": "607bc86a-fce5-4904-a5d9-fddbca3e834d",
+            "vertical": false,
+            "translation": "Pafos"
+        },
+        {
+            "bbox": [
+                754.7528405242039,
+                1741.7758486677744,
+                777.2569389802007,
+                1772.935369606847
+            ],
+            "order": "58",
+            "label": "Table cell",
+            "text": "3",
+            "uuid": "d88ff539-ef29-47b7-9d51-5a11c1b2ee3a",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                544.9739190612672,
+                1888.9000830425164,
+                1127.4561645356578,
+                1921.995665171743
+            ],
+            "order": "59",
+            "label": "Section-header",
+            "text": "Lettonie: Liste des aéroports communautaires et dérogations",
+            "uuid": "63d5c985-40cc-40cd-81d6-12dcdef0aebe",
+            "vertical": false,
+            "translation": "Latvia: List of Community Airports and Exemptions"
+        },
+        {
+            "bbox": [
+                284.62200631135005,
+                1990.393201572145,
+                419.2107069702055,
+                2047.7588772628048
+            ],
+            "order": "61",
+            "label": "Table cell",
+            "text": "(1) Code OACI de l'aéroport",
+            "uuid": "c6141517-c177-4dc1-b508-c6b8a84eef69",
+            "vertical": true,
+            "translation": "(1) ICAO airport code"
+        },
+        {
+            "bbox": [
+                454.51266124138067,
+                2001.4250622818872,
+                653.086154016741,
+                2034.5206444111138
+            ],
+            "order": "62",
+            "label": "Table cell",
+            "text": "(2) Nom de l'aéroport",
+            "uuid": "a4024545-a257-4287-b1f4-824c2f099092",
+            "vertical": false,
+            "translation": "(2) Name of airport"
+        },
+        {
+            "bbox": [
+                699.4199689976587,
+                1983.7740851462995,
+                840.6277860823593,
+                2054.37799368865
+            ],
+            "order": "63",
+            "label": "Table cell",
+            "text": "(3) Catégorie de l'aéroport en 2004",
+            "uuid": "5f5206e1-2126-4fd6-9fea-2282db78cae7",
+            "vertical": true,
+            "translation": "(3) Airport category in 2004"
+        },
+        {
+            "bbox": [
+                893.5807174891221,
+                1945.9710581196612,
+                1353.7663553656107,
+                2039.1334739727788
+            ],
+            "order": "64",
+            "label": "Table cell",
+            "text": "(4) Aéroports des catégories «1» et «2» uniquement: pour chaque tableau: dernière année pour laquelle une dérogation est demandée (« » ou «2004» ou «2005»)",
+            "uuid": "e9c3724f-c85b-4544-91ba-00bcfd866f87",
+            "vertical": true,
+            "translation": "(4) Airports of categories \"1\" and \"2\" only: for each table: last year for which a derogation is requested (or \"2004\" or \"2005\")"
+        },
+        {
+            "bbox": [
+                873.7233682115861,
+                2067.616226540341,
+                1019.3439295801838,
+                2091.8863201017734
+            ],
+            "order": "68",
+            "label": "Table cell",
+            "text": "(4.1) Tableau A1",
+            "uuid": "e20486af-ff53-4ee3-b65f-7d5c27a48346",
+            "vertical": false,
+            "translation": "(4.1) Table A1"
+        },
+        {
+            "bbox": [
+                1052.4395117094105,
+                2065.4098543983923,
+                1191.4409566521629,
+                2094.092692243722
+            ],
+            "order": "69",
+            "label": "Table cell",
+            "text": "(4.2) Tableau B1",
+            "uuid": "cb528f69-0319-45ed-9147-48453aa19a5f",
+            "vertical": true,
+            "translation": "(4.2) Table B1"
+        },
+        {
+            "bbox": [
+                1235.568399491132,
+                2063.2034822564437,
+                1378.982588717781,
+                2089.679947959825
+            ],
+            "order": "70",
+            "label": "Table cell",
+            "text": "(4.3) Tableau Cl",
+            "uuid": "9dcc050b-5631-44d7-8df2-6ea7234de828",
+            "vertical": false,
+            "translation": "(4.3) Table CI"
+        },
+        {
+            "bbox": [
+                282.4156341694016,
+                2111.7436693793097,
+                339.78130986006124,
+                2142.632879366588
+            ],
+            "order": "65",
+            "label": "Table cell",
+            "text": "EVRA",
+            "uuid": "b292f058-9f59-4313-8204-fe220361ca3b",
+            "vertical": false,
+            "translation": "EVRA"
+        },
+        {
+            "bbox": [
+                436.8616841057931,
+                2116.1564136632064,
+                613.371455461669,
+                2173.5220893538662
+            ],
+            "order": "66",
+            "label": "Table cell",
+            "text": "Riga International Airport",
+            "uuid": "f113c10b-b564-4dd2-b339-c4942ff361df",
+            "vertical": false,
+            "translation": "Riga International Airport"
+        },
+        {
+            "bbox": [
+                761.1983889722152,
+                2113.9500415212583,
+                778.8493661078028,
+                2142.632879366588
+            ],
+            "order": "67",
+            "label": "Table cell",
+            "text": "2",
+            "uuid": "8dfef729-59c1-4eb6-869e-f7cf8cff0884",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                273.6645965685321,
+                1934.3257561380217,
+                1394.5249123013496,
+                2184.6997487432745
+            ],
+            "order": "60",
+            "label": "Table",
+            "text": "",
+            "uuid": "e96b4712-c95a-4aed-9c3b-85ad6aa18f8c",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

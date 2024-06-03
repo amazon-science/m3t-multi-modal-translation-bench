@@ -1,0 +1,945 @@
+{
+    "file": "41a36d4779a744bbb4817bf192ef08c3c61865a43bc4f2d6cebbd5a088c82b36.png",
+    "annotations": [
+        {
+            "bbox": [
+                187.91267483734407,
+                187.44958546025106,
+                811.3055167580569,
+                542.3957490419009
+            ],
+            "order": "4",
+            "label": "Text",
+            "text": "Öffnung von einem anderen Bauteil des Messerhalters 1 verdeckt ist. Wird nun die Ringmutter zum Wechsel des Rundmessers 5 von dem Messerhalter 1 entfernt, so fällt Licht auf den Lichtsensor 7, wodurch auf einen Messerwechsel geschlossen werden kann. [0027] Die von den Sensoren 7 ermittelten Größen werden über den Sender 8 kabellos an eine übergeord-nete Einheit übermittelt, die gegebenenfalls auch auf wei-tere Betriebsparameter des Messerhalters 1 bezie-hungsweise der Längsschneidemaschine zurückgreifen 10 kann.",
+            "uuid": "65c1fd93-de1b-4dcf-acee-b202aa2023a0",
+            "vertical": false,
+            "translation": "The opening is covered by another component of the knife holder 1. If the ring nut for changing the circular knife 5 is now removed from the knife holder 1, light falls on the light sensor 7, as a result of which a knife change can be concluded. [0027] The variables determined by the sensors 7 are transmitted wirelessly via the transmitter 8 to a superordinated unit which, if appropriate, can also access further operating parameters of the knife holder 1 in relation to the longitudinal cutting machine 10."
+        },
+        {
+            "bbox": [
+                286.66455078125006,
+                1372.7919921875,
+                812.0764526353815,
+                1497.27978515625
+            ],
+            "order": "39",
+            "label": "Text",
+            "text": "(1), - mindestens einen an dem Grundkörper (6) be-festigten Sensor (7) zur Erfassung einer Größe und",
+            "uuid": "808ab046-2ad1-4634-a4fd-48d7f02917f1",
+            "vertical": false,
+            "translation": "(1), - at least one sensor (7) fastened to the base body (6) to detect a variable, and"
+        },
+        {
+            "bbox": [
+                285.99784600082904,
+                1501.997129593904,
+                810.7645359106072,
+                1599.0789672272128
+            ],
+            "order": "41",
+            "label": "Text",
+            "text": "- einen an dem Grundkörper (6) befestigten Sen-der (8) zur kabellosen Übertragung der von dem Sensor (7) erfassten Größe.",
+            "uuid": "37f5f5fc-7c60-49f0-bded-621b490f43e6",
+            "vertical": false,
+            "translation": "- a transmitter (8) fastened to the base body (6) for wireless transmission of the dimensions detected by the sensor (7)."
+        },
+        {
+            "bbox": [
+                287.3097627256035,
+                1765.6923912735676,
+                581.1791090750792,
+                1795.8664759433798
+            ],
+            "order": "44",
+            "label": "Text",
+            "text": "- Beschleunigungssensor,",
+            "uuid": "c4c7bcff-eafd-453f-9bbb-35263a51759d",
+            "vertical": false,
+            "translation": "- acceleration sensor,"
+        },
+        {
+            "bbox": [
+                285.99784600082904,
+                1797.178392668154,
+                443.42785297376247,
+                1827.3524773379665
+            ],
+            "order": "45",
+            "label": "Text",
+            "text": "- Lichtsensor,",
+            "uuid": "2dfea7a1-87cb-44b6-adec-30807b4d8be8",
+            "vertical": false,
+            "translation": "- light sensor,"
+        },
+        {
+            "bbox": [
+                285.99784600082904,
+                1829.9763107875153,
+                810.7645359106072,
+                1895.5721470262374
+            ],
+            "order": "47",
+            "label": "Text",
+            "text": "Umweltsensor, wie Temperatursensor, Luft-feuchtesensor, Luftdrucksensor,",
+            "uuid": "5679cbcc-0d0f-4d18-b365-7e68b7ce5f11",
+            "vertical": false,
+            "translation": "environmental sensor, such as a temperature sensor, humidity sensor, air pressure sensor,"
+        },
+        {
+            "bbox": [
+                287.3097627256035,
+                1895.5721470262374,
+                439.49210279943907,
+                1928.3700651455988
+            ],
+            "order": "48",
+            "label": "Text",
+            "text": "- Ortssensor.",
+            "uuid": "2912cf06-ce4a-4b0e-a43d-83b90553c5c1",
+            "vertical": false,
+            "translation": "- place sensor."
+        },
+        {
+            "bbox": [
+                285.52246093750006,
+                1303.8977041529627,
+                812.02587890625,
+                1367.08154296875
+            ],
+            "order": "37",
+            "label": "Text",
+            "text": "- einen Grundkörper (6) zur Befestigung der Sensorvorrichtung (4) an einem Messerhalter",
+            "uuid": "b0db0bdc-68f9-4d67-888b-8c64b82dcca4",
+            "vertical": false,
+            "translation": "- a base body (6) for fastening the sensor device (4) to a knife holder"
+        },
+        {
+            "bbox": [
+                930.4953360206275,
+                190.8321169523787,
+                1499.7032130332461,
+                252.5906569537479
+            ],
+            "order": "51",
+            "label": "Text",
+            "text": "die im Betrieb des Messerhalters (1) von einem wei-teren Bauteil des Messerhalters (1) verschlossen ist.",
+            "uuid": "35afd680-8390-4e61-a3e1-c1efe335ccf7",
+            "vertical": false,
+            "translation": "which, during operation of the knife holder (1), is closed by a further component of the knife holder (1)."
+        },
+        {
+            "bbox": [
+                976.8142410216544,
+                1045.1585869713176,
+                1190.9105130264006,
+                1076.0378569720021
+            ],
+            "order": "57",
+            "label": "Text",
+            "text": "- Messerträger (3),",
+            "uuid": "e77831e0-39c9-4d48-b4d7-a6895e4838c1",
+            "vertical": false,
+            "translation": "- knife carriers (3),"
+        },
+        {
+            "bbox": [
+                976.8142410216544,
+                1078.0964749720479,
+                1128.1226640250086,
+                1106.9171269726867
+            ],
+            "order": "58",
+            "label": "Text",
+            "text": "- Ringmutter,",
+            "uuid": "94a07e0f-2662-45b2-83e3-fbe09fdc96d2",
+            "vertical": false,
+            "translation": "- ring nut,"
+        },
+        {
+            "bbox": [
+                976.8142410216544,
+                1110.0050539727551,
+                1185.7639680262866,
+                1140.8843239734397
+            ],
+            "order": "59",
+            "label": "Text",
+            "text": "- Unterlegscheibe.",
+            "uuid": "59d97430-5ee6-4e15-9b78-0db4965f5d24",
+            "vertical": false,
+            "translation": "- washer."
+        },
+        {
+            "bbox": [
+                974.20263671875,
+                1730.26611328125,
+                1504.13232421875,
+                1926.70556640625
+            ],
+            "order": "64",
+            "label": "Text",
+            "text": "- einen Grundkörper (6) zur Befestigung der Sensorvorrichtung (4) an einem Messerhalter (1), wobei der Grundkörper (6) als rotationssym-metrischer Messerträger (3) für ein Rundmes-ser, als Ringmutter oder als Unterlegscheibe ausgebildet ist,",
+            "uuid": "5f9c29cd-fb15-4321-a347-4f74cad1789d",
+            "vertical": false,
+            "translation": "- a base body (6) for attaching the sensor device (4) to a knife holder (1), the base body (6) being designed as a rotationally symmetrical knife holder (3) for a circular knife, ring nut or washer,"
+        },
+        {
+            "bbox": [
+                976.4868164062501,
+                1928.98974609375,
+                1501.84814453125,
+                2020.35693359375
+            ],
+            "order": "65",
+            "label": "Text",
+            "text": "- mindestens einen an dem Grundkörper (6) be-festigten Sensor (7) zur Erfassung einer Größe und",
+            "uuid": "bf025610-043f-475e-bc28-af2c03f44bd5",
+            "vertical": false,
+            "translation": "- at least one sensor (7) attached to the main body (6) for recording a dimension, and"
+        },
+        {
+            "bbox": [
+                976.4868164062501,
+                2024.92529296875,
+                1500.7060546875,
+                2090.0244140625
+            ],
+            "order": "66",
+            "label": "Text",
+            "text": "- einen an dem Grundkörper (6) befestigten Sen-der (8) zur kabellosen Übertragung der von dem",
+            "uuid": "9cb7d3e1-2212-4847-af78-477c25b91b2d",
+            "vertical": false,
+            "translation": "- a transmitter (8) attached to the base body (6) for the wireless transmission of the data from the"
+        },
+        {
+            "bbox": [
+                493.6376192583638,
+                127.97641194457388,
+                509.59955425234693,
+                147.48544360388644
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "5",
+            "uuid": "5e9ce03b-db4f-4182-9b60-0f8f01f66154",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                739.5696547212135,
+                127.97641194457388,
+                949.4395407532124,
+                151.03254026921581
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EP 3 800 018 A1",
+            "uuid": "63e8e75f-a1c3-4fef-83ae-70a4dee18429",
+            "vertical": false,
+            "translation": "EP 3 800 018 A1"
+        },
+        {
+            "bbox": [
+                1184.1391034425185,
+                127.3852291670188,
+                1198.9186728813918,
+                148.6678091589963
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "6",
+            "uuid": "1598a913-b935-4f71-b391-4a5297b87fd6",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                585.1483681847886,
+                376.81959663149945,
+                612.9872829755063
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "Bezugszeichen",
+            "uuid": "60bb3ed1-958c-4261-a61e-de361fe6e11b",
+            "vertical": false,
+            "translation": "Reference signs"
+        },
+        {
+            "bbox": [
+                192.88390962140076,
+                651.762914291149,
+                272.42366616630835,
+                680.5960760386779
+            ],
+            "order": "8",
+            "label": "Code",
+            "text": "[0028]",
+            "uuid": "824cf630-6dd6-4fc1-b70b-63b1f7785a12",
+            "vertical": false,
+            "translation": "[0028]"
+        },
+        {
+            "bbox": [
+                196.86089744864617,
+                717.3832134406977,
+                211.7746018008163,
+                740.2508934473585
+            ],
+            "order": "10",
+            "label": "List-item",
+            "text": "1",
+            "uuid": "58cf238f-d470-4f29-aeef-7be460ac34c6",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                261.48694964138355,
+                717.3832134406977,
+                408.6354992494625,
+                743.2336343177924
+            ],
+            "order": "11",
+            "label": "List-item",
+            "text": "Messerhalter",
+            "uuid": "711a26b0-38de-4391-864d-bd3ecc87e174",
+            "vertical": false,
+            "translation": "Knife holder"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                751.1876099722831,
+                211.7746018008163,
+                772.0667960653215
+            ],
+            "order": "12",
+            "label": "List-item",
+            "text": "2",
+            "uuid": "7cab519b-a819-4b9c-b52e-be687177b208",
+            "vertical": false,
+            "translation": "2"
+        },
+        {
+            "bbox": [
+                260.49270268457224,
+                750.1933630154718,
+                395.710288810915,
+                777.0380308493782
+            ],
+            "order": "13",
+            "label": "List-item",
+            "text": "Messerkopf",
+            "uuid": "20ada02b-c935-4ba6-8dee-752afc2cd61c",
+            "vertical": false,
+            "translation": "Knife head"
+        },
+        {
+            "bbox": [
+                195.86665049183483,
+                782.009265633435,
+                210.780354844005,
+                803.8826986832846
+            ],
+            "order": "14",
+            "label": "List-item",
+            "text": "3",
+            "uuid": "ea9ca07f-e4fb-4041-acac-098863f33ba1",
+            "vertical": false,
+            "translation": "3"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                781.0150186766234,
+                412.61248707670785,
+                809.8481804241527
+            ],
+            "order": "15",
+            "label": "List-item",
+            "text": "Messerträger",
+            "uuid": "b070a5de-0b4f-49c6-a924-95c027470643",
+            "vertical": false,
+            "translation": "Knife carrier"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                815.8136621650206,
+                210.780354844005,
+                837.68709521487
+            ],
+            "order": "16",
+            "label": "List-item",
+            "text": "4",
+            "uuid": "901a9ce7-6a06-436d-8155-dfa4e92d2c43",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                814.8194152082092,
+                466.30182274452045,
+                845.6410708693608
+            ],
+            "order": "17",
+            "label": "List-item",
+            "text": "Sensorvorrichtung",
+            "uuid": "e8de2977-93a8-4344-8004-7c0a7b10abaf",
+            "vertical": false,
+            "translation": "Sensor device"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                848.623811739795,
+                211.7746018008163,
+                870.4972447896446
+            ],
+            "order": "19",
+            "label": "List-item",
+            "text": "5",
+            "uuid": "d83c1ffe-0908-4e0d-9bae-5e2fbf90cdd7",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                849.6180586966063,
+                409.62974620627386,
+                873.4799856600785
+            ],
+            "order": "20",
+            "label": "List-item",
+            "text": "Rundmesser",
+            "uuid": "e0c4fad0-64f0-4d7c-8d2b-b3b647f6f302",
+            "vertical": false,
+            "translation": "Rotary knife"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                880.4397143577579,
+                212.7688487576277,
+                903.3073943644188
+            ],
+            "order": "21",
+            "label": "List-item",
+            "text": "6",
+            "uuid": "26c1fcc3-ca1e-40df-a747-d7cdccaef838",
+            "vertical": false,
+            "translation": "6"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                881.4339613145692,
+                404.65851142221715,
+                907.2843821916642
+            ],
+            "order": "22",
+            "label": "List-item",
+            "text": "Grundkörper",
+            "uuid": "8da65c9f-bc48-4a93-94d3-d4318de6f677",
+            "vertical": false,
+            "translation": "Base body"
+        },
+        {
+            "bbox": [
+                193.87815657821216,
+                913.2498639325324,
+                211.7746018008163,
+                937.1117908960045
+            ],
+            "order": "23",
+            "label": "List-item",
+            "text": "7",
+            "uuid": "dc836f9e-421b-41e3-b624-793ef51c9cec",
+            "vertical": false,
+            "translation": "7"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                914.2441108893437,
+                345.0036940135365,
+                939.1002848096272
+            ],
+            "order": "24",
+            "label": "List-item",
+            "text": "Sensor",
+            "uuid": "a1f0583d-f523-4308-abc3-e0d30521176f",
+            "vertical": false,
+            "translation": "Sensor"
+        },
+        {
+            "bbox": [
+                194.8724035350235,
+                949.0427543777408,
+                212.7688487576277,
+                967.9334465571561
+            ],
+            "order": "25",
+            "label": "List-item",
+            "text": "8",
+            "uuid": "a8720f49-34a0-4964-a294-2c8fb2c08103",
+            "vertical": false,
+            "translation": "8"
+        },
+        {
+            "bbox": [
+                262.4811965981949,
+                945.0657665504953,
+                345.0036940135365,
+                968.9276935139677
+            ],
+            "order": "26",
+            "label": "List-item",
+            "text": "Sender",
+            "uuid": "c646e99a-d18a-4c01-a58f-b7694e81225c",
+            "vertical": false,
+            "translation": "Transmitter"
+        },
+        {
+            "bbox": [
+                193.87815657821216,
+                979.8644100388924,
+                210.780354844005,
+                1003.7263370023645
+            ],
+            "order": "27",
+            "label": "List-item",
+            "text": "9",
+            "uuid": "4c177857-2878-4c13-bcf1-636a96e12883",
+            "vertical": false,
+            "translation": "9"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                978.870163082081,
+                554.7898019007301,
+                1009.6918187432327
+            ],
+            "order": "28",
+            "label": "List-item",
+            "text": "Energieversorgungsquelle",
+            "uuid": "2acb2b00-cb7d-4c4d-be50-23e983c29394",
+            "vertical": false,
+            "translation": "Energy supply source"
+        },
+        {
+            "bbox": [
+                197.8551444054575,
+                1012.6745596136668,
+                223.70556528255247,
+                1034.5479926635164
+            ],
+            "order": "30",
+            "label": "List-item",
+            "text": "10",
+            "uuid": "10e468e4-4288-44b2-9af7-1e380841b48a",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                260.49270268457224,
+                1009.6918187432327,
+                480.22128013987935,
+                1041.5077213611958
+            ],
+            "order": "31",
+            "label": "List-item",
+            "text": "Verbindungsleitung",
+            "uuid": "26b40131-3ae9-438f-9a40-52b313bfb615",
+            "vertical": false,
+            "translation": "Connecting line"
+        },
+        {
+            "bbox": [
+                196.86089744864617,
+                1046.4789561452524,
+                226.68830615298648,
+                1069.3466361519136
+            ],
+            "order": "32",
+            "label": "List-item",
+            "text": "11",
+            "uuid": "19e79a33-7d26-48d0-a0d5-0eb1717822b0",
+            "vertical": false,
+            "translation": "11"
+        },
+        {
+            "bbox": [
+                263.4754435550063,
+                1045.484709188441,
+                532.9163688508805,
+                1074.31787093597
+            ],
+            "order": "33",
+            "label": "List-item",
+            "text": "Befestigungsvorrichtung",
+            "uuid": "0af693d0-cb33-4d7c-8b6b-11eb9b06d263",
+            "vertical": false,
+            "translation": "Fastening device"
+        },
+        {
+            "bbox": [
+                195.86665049183483,
+                1143.9151579127642,
+                398.6930296813491,
+                1168.7713318330477
+            ],
+            "order": "34",
+            "label": "Section-header",
+            "text": "Patentansprüche",
+            "uuid": "3c7f102e-4859-451a-8920-1e1edd137ff7",
+            "vertical": false,
+            "translation": "Patent claims"
+        },
+        {
+            "bbox": [
+                188.2343340793818,
+                1205.7524785016813,
+                810.5600916479502,
+                1263.375233832104
+            ],
+            "order": "36",
+            "label": "List-item",
+            "text": "1. Sensorvorrichtung (4) für einen Messerhalter (1), umfassend",
+            "uuid": "50d79071-95c5-40c0-a619-957a3e64fc49",
+            "vertical": false,
+            "translation": "1. Sensor device (4) for a knife holder (1), comprising"
+        },
+        {
+            "bbox": [
+                191.539841817069,
+                1633.1884765625,
+                813.16796875,
+                1723.41357421875
+            ],
+            "order": "42",
+            "label": "List-item",
+            "text": "2. Sensorvorrichtung (4) nach Anspruch 1, wobei wenigstens ein Sensor (7) ein Sensor der folgenden Gruppe ist:",
+            "uuid": "47816832-360a-4416-9e69-24ba6b5b5517",
+            "vertical": false,
+            "translation": "2. Sensor device (4) according to Claim 1, wherein at least one sensor (7) is a sensor from the following group:"
+        },
+        {
+            "bbox": [
+                189.9658923124344,
+                1962.4798999897343,
+                815.419632095827,
+                2093.4780448414763
+            ],
+            "order": "49",
+            "label": "List-item",
+            "text": "3. Sensorvorrichtung (4) nach einem der vorhergehen- den Ansprüche, wobei ein Sensor (7) als Lichtsensor ausgebildet ist, der vom Inneren des Grundkörpers (6) auf eine Öffnung im Grundkörper (6) gerichtet ist,",
+            "uuid": "bf80a5f3-fae3-4900-91fa-fec621ef5b75",
+            "vertical": false,
+            "translation": "3. Sensor device (4) according to any of the preceding claims, wherein a sensor (7) is designed as a light sensor which is directed from the base body (6) interior to an opening in the base body (6),"
+        },
+        {
+            "bbox": [
+                883.147122019578,
+                289.64578095456926,
+                1497.6445950332004,
+                388.4594449567598
+            ],
+            "order": "52",
+            "label": "List-item",
+            "text": "4. Sensorvorrichtung (4) nach einem der vorhergehen den Ansprüche, wobei eine Energieversorgungs quelle (9) an dem Grundkörper (6) befestigt ist.",
+            "uuid": "21e8d23d-047c-4051-8487-f8d72efc4e71",
+            "vertical": false,
+            "translation": "4. Sensor device (4) according to any of the previous claims, wherein an energy supply source (9) is attached to the base body (6)."
+        },
+        {
+            "bbox": [
+                885.2057400196235,
+                424.4852599575584,
+                1500.732522033269,
+                544.9144129602281
+            ],
+            "order": "53",
+            "label": "List-item",
+            "text": "5. Sensorvorrichtung (4) nach Anspruch 4, wobei die Energieversorgungsquelle (9) durch eine Bewegung/Beschleuigung des Grundkörpers (6) auflad bar ist.",
+            "uuid": "955619c3-1cf1-463c-86e5-03191a9abbf2",
+            "vertical": false,
+            "translation": "5. Sensor device (4) according to Claim 4, wherein the power supply source (9) can be charged up by moving/accelerating the base body (6)."
+        },
+        {
+            "bbox": [
+                886.2350490196465,
+                585.0574639611178,
+                1501.7618310332916,
+                741.5124319645863
+            ],
+            "order": "54",
+            "label": "List-item",
+            "text": "6. Sensorvorrichtung (4) nach einem der vorhergehen den Ansprüche, wobei der mindestens eine Sensor (7), der Sender (8) und/oder die Energieversor gungsquelle (9) in dem Grundkörper (6) vergossen ist/sind.",
+            "uuid": "47ca3af9-cb49-4e7f-8d2c-b9c62497f6e1",
+            "vertical": false,
+            "translation": "6. Sensor device (4) according to any of the preceding claims, wherein at least one sensor (7), the transmitter (8) and/or the power supply source (9) is/are encapsulated in the base body (6)."
+        },
+        {
+            "bbox": [
+                883.147122019578,
+                781.6554829654763,
+                1496.6152860331777,
+                875.3226019675527
+            ],
+            "order": "55",
+            "label": "List-item",
+            "text": "7. Sensorvorrichtung (4) nach einem der vorhergehen den Ansprüche, wobei der Sender (8) mit Bluetooth sendet.",
+            "uuid": "976ec074-bab5-4913-a610-b2b515334e61",
+            "vertical": false,
+            "translation": "7. Sensor device (4) according to any of the previous claims, wherein the transmitter (8) transmits using Bluetooth."
+        },
+        {
+            "bbox": [
+                883.147122019578,
+                915.4656529684428,
+                1501.7618310332916,
+                1007.0741539704735
+            ],
+            "order": "56",
+            "label": "List-item",
+            "text": "8. Sensorvorrichtung (4) nach einem der vorhergehen den Ansprüche, wobei der Grundkörper (6) als eines der folgenden Bauteile ausgebildet ist:",
+            "uuid": "c7bb953c-a992-4d3f-b68e-77ce4b6ff7ff",
+            "vertical": false,
+            "translation": "8. Sensor device (4) according to any of the preceding claims, wherein the base body (6) is designed as one of the following components:"
+        },
+        {
+            "bbox": [
+                882.1178130195552,
+                1175.8808299742157,
+                1499.7032130332461,
+                1365.273685978414
+            ],
+            "order": "60",
+            "label": "List-item",
+            "text": "9 . Messerhalter (1) mit einem drehbar gelagerten Mes serkopf (2) zur Halterung oder zum Antreiben eines an dem Messerkopf (2) befestigbaren Messers (5), wobei der Messerkopf (2) eine Sensorvorrichtung (4) nach einem der vorhergehenden Ansprüche um fasst.",
+            "uuid": "c0f99098-a49a-4799-ad34-393142bcb07b",
+            "vertical": false,
+            "translation": "9. Knife holder (1) with a rotating bearing knife head (2) for mounting or for propelling a knife (5) which can be attached to the knife head (2), whereby the knife head (2) contains a sensor device (4) according to one of the previous claims."
+        },
+        {
+            "bbox": [
+                886.2350490196465,
+                1406.4460459793268,
+                1496.6152860331777,
+                1466.1459679806503
+            ],
+            "order": "61",
+            "label": "List-item",
+            "text": "10. Längsschneidemaschine mit einem oder mehreren Messerhaltern (1) nach Anspruch 9.",
+            "uuid": "1930e56e-156a-43c9-92f5-d6d72535d013",
+            "vertical": false,
+            "translation": "10. Longitudinal cutting machine with one or more knife holders (1) according to Claim 9."
+        },
+        {
+            "bbox": [
+                880.5512695312501,
+                1536.11083984375,
+                1496.1376953125,
+                1595.49951171875
+            ],
+            "order": "62",
+            "label": "Section-header",
+            "text": "Geänderte Patentansprüche gemäss Regel 137 (2) EPÜ.",
+            "uuid": "b74f42bc-0141-4692-afe5-22a9bf8f9907",
+            "vertical": false,
+            "translation": "Amended patent claims according to Rule 137 (2) EPC."
+        },
+        {
+            "bbox": [
+                886.26171875,
+                1636.61474609375,
+                1496.1376953125,
+                1692.5771484375
+            ],
+            "order": "63",
+            "label": "List-item",
+            "text": "1. Sensorvorrichtung (4) für einen Messerhalter (1), umfassend",
+            "uuid": "f6b23ec2-bd45-46e5-9427-ac3230bc6d4d",
+            "vertical": false,
+            "translation": "1. Sensor device (4) for a knife holder (1), comprising"
+        },
+        {
+            "bbox": [
+                838.2939453125001,
+                2237.35400390625,
+                855.4252929687501,
+                2260.19580078125
+            ],
+            "order": "67",
+            "label": "Page-footer",
+            "text": "4",
+            "uuid": "19426268-98c0-4db9-b6ba-74a3ca929860",
+            "vertical": false,
+            "translation": "4"
+        },
+        {
+            "bbox": [
+                838.2939453125001,
+                324.353515625,
+                853.14111328125,
+                342.626953125
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "5",
+            "uuid": "93d75734-37cf-444c-8edb-aca4ce9b4f42",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                837.15185546875,
+                487.67236328125,
+                861.1357421875,
+                509.3720703125
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "10",
+            "uuid": "07a80089-63f9-4c8b-8848-caac6c227601",
+            "vertical": false,
+            "translation": "10"
+        },
+        {
+            "bbox": [
+                837.15185546875,
+                652.13330078125,
+                859.9936523437501,
+                673.8330078125
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "15",
+            "uuid": "67a90f2c-fb47-41d7-9770-1d2db760dfde",
+            "vertical": false,
+            "translation": "15"
+        },
+        {
+            "bbox": [
+                831.6884352691053,
+                816.7988800213257,
+                858.5790544233028,
+                836.0064651314666
+            ],
+            "order": "18",
+            "label": "Text",
+            "text": "20",
+            "uuid": "b46573f6-019f-4b9a-902c-fee295733188",
+            "vertical": false,
+            "translation": "20"
+        },
+        {
+            "bbox": [
+                834.5695730356264,
+                979.1029742020172,
+                859.5394336788098,
+                1000.2313178231723
+            ],
+            "order": "29",
+            "label": "Text",
+            "text": "25",
+            "uuid": "6627d811-bc31-446d-892e-f578fcc9bd36",
+            "vertical": false,
+            "translation": "25"
+        },
+        {
+            "bbox": [
+                835.133073750891,
+                1308.5246407580212,
+                858.4307775250572,
+                1330.0302134726362
+            ],
+            "order": "38",
+            "label": "Text",
+            "text": "35",
+            "uuid": "ae47fac6-c574-47a2-b852-557d9579f0fe",
+            "vertical": false,
+            "translation": "35"
+        },
+        {
+            "bbox": [
+                831.5488116317885,
+                1469.816436117635,
+                865.5993017632624,
+                1491.3220088322505
+            ],
+            "order": "40",
+            "label": "Text",
+            "text": "40",
+            "uuid": "d781f30a-2812-498d-89f4-6470530a48d5",
+            "vertical": false,
+            "translation": "40"
+        },
+        {
+            "bbox": [
+                831.5488116317885,
+                1634.6924935963516,
+                860.2229085846086,
+                1656.198066310967
+            ],
+            "order": "43",
+            "label": "Text",
+            "text": "45",
+            "uuid": "ee62820e-9171-457c-a6c3-ff5e53717fd7",
+            "vertical": false,
+            "translation": "45"
+        },
+        {
+            "bbox": [
+                833.3409426913397,
+                1794.1921578964145,
+                860.2229085846086,
+                1821.0741237896834
+            ],
+            "order": "46",
+            "label": "Text",
+            "text": "50",
+            "uuid": "0eb66910-23ee-4a42-b8be-4834555c1813",
+            "vertical": false,
+            "translation": "50"
+        },
+        {
+            "bbox": [
+                833.3409426913397,
+                1960.8603464346825,
+                863.8071707037111,
+                1984.158050208849
+            ],
+            "order": "50",
+            "label": "Text",
+            "text": "55",
+            "uuid": "a50bcb46-97b0-49c3-8d89-5d3271bd4b87",
+            "vertical": false,
+            "translation": "55"
+        },
+        {
+            "bbox": [
+                831.0423496484167,
+                1143.4360563408093,
+                857.7962281079231,
+                1165.173582589158
+            ],
+            "order": "35",
+            "label": "Text",
+            "text": "30",
+            "uuid": "a6b0324c-6699-4b76-8223-0a183a3317b9",
+            "vertical": false,
+            "translation": "30"
+        }
+    ],
+    "page_width": 1654,
+    "page_height": 2339
+}

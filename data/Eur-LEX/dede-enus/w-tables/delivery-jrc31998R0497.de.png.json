@@ -1,0 +1,217 @@
+{
+    "file": "jrc31998R0497.de.png",
+    "annotations": [
+        {
+            "bbox": [
+                153.44821547769487,
+                156.40254136712764,
+                243.06753789281294,
+                183.5661687303247
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/22",
+            "uuid": "53d0d26c-45f4-434b-b028-5c93ef881ebe",
+            "vertical": false,
+            "translation": "L 62/22"
+        },
+        {
+            "bbox": [
+                369.3496232335616,
+                159.11890410344745,
+                403.2963362695912,
+                179.491624625845
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "DE",
+            "uuid": "200852b5-e642-4b3c-ba8b-233b02cce265",
+            "vertical": false,
+            "translation": "EN"
+        },
+        {
+            "bbox": [
+                579.8192440569449,
+                153.6861786308081,
+                1075.4412543829767,
+                186.28253146664426
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Amtsblatt der Europäischen Gemeinschaften",
+            "uuid": "785810d2-bbab-4155-9e82-d6ae3d4a8e68",
+            "vertical": false,
+            "translation": "Official Journal of the European Communities"
+        },
+        {
+            "bbox": [
+                1418.9819903075959,
+                155.04435999896774,
+                1504.5277071583903,
+                186.28253146664426
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "3.3.98",
+            "uuid": "901d74fb-9267-42f3-be3c-0a2de1b4adee",
+            "vertical": false,
+            "translation": "3.3.98"
+        },
+        {
+            "bbox": [
+                769.9336637741758,
+                265.0570508199154,
+                885.3524880966762,
+                293.5788595512721
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANHANG",
+            "uuid": "cafbabfe-721b-4630-a37d-515c5b9d93fa",
+            "vertical": false,
+            "translation": "ANNEX"
+        },
+        {
+            "bbox": [
+                323.15712999050066,
+                340.375047401093,
+                1333.3870768977415,
+                681.0001303640531
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "6e4cbdca-ff1d-4c55-b089-7dae237a9483",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                456.2660353212625,
+                369.63701616822345,
+                628.7153375442928,
+                398.15882489958017
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Warenbeschreibung",
+            "uuid": "65afbca0-8731-4e67-b530-772c63ba7728",
+            "vertical": false,
+            "translation": "Goods description"
+        },
+        {
+            "bbox": [
+                776.7230063813815,
+                356.0552024866249,
+                878.5631454894702,
+                407.66609447669924
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Einreihung (KN-Code)",
+            "uuid": "95fab5c2-013d-4c8e-aebe-90b9d454557d",
+            "vertical": false,
+            "translation": "Classification (CN code)"
+        },
+        {
+            "bbox": [
+                1053.728184755383,
+                372.35337890454326,
+                1169.1470090778832,
+                395.44246216326064
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Begründung",
+            "uuid": "93377ddc-93da-4ade-916d-91169ef1aa18",
+            "vertical": false,
+            "translation": "Justification"
+        },
+        {
+            "bbox": [
+                526.875198436204,
+                433.47154047173615,
+                552.6747003435864,
+                459.27698646677334
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "(1)",
+            "uuid": "d57e70d3-907c-4df6-ac6b-6e894cb776f7",
+            "vertical": false,
+            "translation": "(1)"
+        },
+        {
+            "bbox": [
+                810.6697194174111,
+                434.8297218398961,
+                839.184958367676,
+                457.9188050986134
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "(2)",
+            "uuid": "c1eafdb6-dd5f-4e1f-b79c-f162f5dc3309",
+            "vertical": false,
+            "translation": "(2)"
+        },
+        {
+            "bbox": [
+                1098.537845962942,
+                433.47154047173615,
+                1127.053084913207,
+                461.99334920309315
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "(3)",
+            "uuid": "fa49acdf-3b0b-42a4-8b11-d93b5add718a",
+            "vertical": false,
+            "translation": "(3)"
+        },
+        {
+            "bbox": [
+                327.2685257843501,
+                494.5897020389293,
+                744.1341618667932,
+                576.0805841285201
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Mischung von Brommethan (67 GHT) und Chlorpikrin (33 GHT) zur Begasung des Bodens vor dem Pflanzen",
+            "uuid": "827edcdc-c6ae-474d-995f-483127e2083a",
+            "vertical": false,
+            "translation": "Mixture of bromomethane (67%) and chloropicrin (33%) for soil fumigation before planting"
+        },
+        {
+            "bbox": [
+                772.649400817058,
+                490.51515793444986,
+                881.2788825323527,
+                521.7533294021262
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "3808 10 90",
+            "uuid": "a4e4f167-2c95-410e-a8f6-2c3869bf12a7",
+            "vertical": false,
+            "translation": "3808 10 90"
+        },
+        {
+            "bbox": [
+                911.1519900040588,
+                497.3060647752491,
+                1329.0200886546265,
+                653.342538157659
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "Einreihung gemäß den Allgemeinen Vorschriften 1 und 6 für die Auslegung der Kombinierten Nomenklatur, der Anmerkung 1 (a) (2) zu Kapitel 38 sowie nach dem Wortlaut der KN-Codes 3808, 3808 10 und 3808 10 90",
+            "uuid": "adcd4211-a426-4f8a-aa99-b514ac3c4ff3",
+            "vertical": false,
+            "translation": "Classification is determined by General Rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 1 (a) (2) to Chapter 38 and by the wording of CN codes 3808, 3808 10 and 3808 10 90"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

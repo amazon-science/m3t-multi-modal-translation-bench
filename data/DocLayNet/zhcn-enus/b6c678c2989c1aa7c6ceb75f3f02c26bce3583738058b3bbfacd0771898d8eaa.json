@@ -1,0 +1,203 @@
+{
+    "file": "b6c678c2989c1aa7c6ceb75f3f02c26bce3583738058b3bbfacd0771898d8eaa.png",
+    "annotations": [
+        {
+            "bbox": [
+                184.0,
+                414.20786894044886,
+                1447.0,
+                586.2078689404489
+            ],
+            "order": "6",
+            "label": "Text",
+            "text": "本发明涉及一种向请求实体提供关于个人的身份相关信息的方法与系统。另外，本发明涉及一种向请求实体传送位于本地实体（也称为钱包）上的身份相关信息的方法。",
+            "uuid": "f6280109-9e19-423a-a6c5-57b80bd07903",
+            "vertical": false,
+            "translation": "The present invention relates to a method and system for providing identity-related information about an individual to the requesting entity. Additionally, the present invention relates to a method of transmitting identity-related information located on the local entity (also known as a wallet) to the requesting entity."
+        },
+        {
+            "bbox": [
+                191.0,
+                730.0,
+                1452.0,
+                969.0
+            ],
+            "order": "8",
+            "label": "Text",
+            "text": "身份管理，就其最宽泛的意义来说，指关于一个人的所有个人信息的管理，这些信息至少包含该人的所有数字关系。在下个十年，这种宽泛意义上的身份管理可能会得到发展。短期来说，身份管理一般指网络单一注册（single sign on），以传送关于个人的少量数据。",
+            "uuid": "31f1d47b-6720-4d74-b844-01a3715272ce",
+            "vertical": false,
+            "translation": "Identity management, in its broadest sense, refers to the management of all personal information about a person, comprising at least all of that person's digital relationships. In the next decade, this broad sense of identity management is likely to evolve. In the short term, identity management generally refers to a single sign-on (single sign on) network to transmit small amounts of data about an individual."
+        },
+        {
+            "bbox": [
+                191.0,
+                984.0,
+                1427.0,
+                1094.0
+            ],
+            "order": "9",
+            "label": "Text",
+            "text": "主要的商业原因是对电子商务的总体促进：身份管理是基础结构问题，其中像因特网与网络标准那样的标准可能对几乎所有方都有利。",
+            "uuid": "efdc699f-be14-4c22-b92e-8ac8f4ccfc8e",
+            "vertical": false,
+            "translation": "The main business reason is to facilitate electronic commerce in general: Identity management is an infrastructural issue where standards such as Internet and networking standards can benefit almost everyone."
+        },
+        {
+            "bbox": [
+                195.0,
+                1109.0,
+                1454.0,
+                1281.0
+            ],
+            "order": "10",
+            "label": "Text",
+            "text": "单一注册使个人或用户能够登录不同的组织，同时只要记住一个口令，而不允许所有这些组织相互之间冒充该人，简单地直接对所有组织使用同一口令就会造成这种情况。",
+            "uuid": "4396be2c-8da4-45b1-a295-b75118d7da63",
+            "vertical": false,
+            "translation": "Single sign-on enables an individual or user to log into different organizations while simply remembering a single passphrase without allowing all of those organizations to impersonate that person to each other, which would result from simply using the same passphrase directly for all organizations."
+        },
+        {
+            "bbox": [
+                192.0,
+                1296.0,
+                1459.0,
+                1727.0
+            ],
+            "order": "11",
+            "label": "Text",
+            "text": "最近，已知身份管理,尤其是单一注册。例如有Liberty Alliance(URL：http://www.projectliberty.org) 或Microsoft公司的 Passport系统（URL: http://www.passport.com）。Microsoft 公司的所谓 Passport 系统或者简称为 Passport 是一种网络服务，其由 Microsoft 公司独家运行，允许用户登录网站并且进行电子商务交易。虽然已经许诺有不那么排他的运营，但是这样的运营仍没有公开。Passport 当前包含验证服务（不大有用的专门验证服务）以及快速购买服务。",
+            "uuid": "790ab2a4-480c-4ae9-8004-22deaa82aeb6",
+            "vertical": false,
+            "translation": "Recently, known identity management, particularly single sign-on. Examples include Liberty Alliance (URL: http://www.projectliberty.org) or Microsoft's Passport system (URL: http://www.passport.com). Microsoft's so-called Passport system, or Passport for short, is a web service that is exclusively run by Microsoft, allowing users to log on to websites and conduct e-commerce transactions. Less exclusive operations have been promised, but they have yet to be made public. Passport currently contains Authentication Services (a less useful specialized authentication service) and Quick Purchase Services."
+        },
+        {
+            "bbox": [
+                197.0,
+                1740.0,
+                1457.0,
+                1850.0
+            ],
+            "order": "12",
+            "label": "Text",
+            "text": "与身份管理有关的老一些的系统类型为传统的单一注册产品、公开密钥基础结构以及表单填写器。",
+            "uuid": "f4deb6a6-e7c5-48fc-9823-3e20570b07cb",
+            "vertical": false,
+            "translation": "The older system types associated with identity management are traditional single sign-on products, public key infrastructure, and form filers."
+        },
+        {
+            "bbox": [
+                200.0,
+                1868.0,
+                1463.0,
+                2039.0
+            ],
+            "order": "13",
+            "label": "Text",
+            "text": "然而，已知的产品或建议中没有一个能够以全球信息社会尤其是一般电子商务所需的可互操作方式适应该信息社会与电视商务的各种参与者具有的所有不同需求。具体地讲，所有现有产品与建议都不能实现以后还会详细描",
+            "uuid": "d7289119-5618-4b1f-a97c-edf5470fee90",
+            "vertical": false,
+            "translation": "However, none of the known products or proposals can adapt to all the different needs of the various participants in the information society and television commerce in an interoperable manner required by the global information society, particularly e-commerce in general. Specifically, not all existing products and proposals can be implemented and more information will be provided in the future"
+        },
+        {
+            "bbox": [
+                818.8855858652684,
+                2209.7872842816146,
+                841.4978111159857,
+                2238.8601453182514
+            ],
+            "order": "14",
+            "label": "Page-footer",
+            "text": "5",
+            "uuid": "39895cfd-5078-4db3-90cc-e03462d791d9",
+            "vertical": false,
+            "translation": "5"
+        },
+        {
+            "bbox": [
+                171.20684832686084,
+                156.9202633057643,
+                331.1075840283629,
+                182.76280644944134
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "03809453.3",
+            "uuid": "f90abe85-f95c-47e4-a7ec-eac2b3803da0",
+            "vertical": false,
+            "translation": "03809453.3"
+        },
+        {
+            "bbox": [
+                715.5154132905599,
+                135.92319700152674,
+                944.8679836906942,
+                194.0689190748002
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "说明书",
+            "uuid": "07a37098-63ea-4ce8-b311-6ad00fe238ba",
+            "vertical": false,
+            "translation": "Specification"
+        },
+        {
+            "bbox": [
+                1364.8093097754472,
+                148.84446857336513,
+                1489.1765486543934,
+                190.83860118184052
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "第 1/17 页",
+            "uuid": "e4ff2bf9-8e6f-42fa-801c-f2189fb61761",
+            "vertical": false,
+            "translation": "Page 1/17"
+        },
+        {
+            "bbox": [
+                258.4254314367711,
+                362.04544950870144,
+                418.3261671382732,
+                400.80926422421715
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "技术领域",
+            "uuid": "f475c982-c151-465f-8f69-b9e18929b9c3",
+            "vertical": false,
+            "translation": "Technical field"
+        },
+        {
+            "bbox": [
+                261.6557493297307,
+                673.7711261793064,
+                421.55648503123285,
+                718.9955766807415
+            ],
+            "order": "7",
+            "label": "Section-header",
+            "text": "背景技术",
+            "uuid": "5f2990e1-2215-44bb-9ee3-2ccebda63d31",
+            "vertical": false,
+            "translation": "Background technologies"
+        },
+        {
+            "bbox": [
+                486.16284289042557,
+                229.60241589735622,
+                1227.5207993246624,
+                274.826866398791
+            ],
+            "order": "4",
+            "label": "Title",
+            "text": "向请求实体传送身份相关信息的方法和系统",
+            "uuid": "92a80a58-85c6-456e-ae1f-eaa1ed2b5f45",
+            "vertical": false,
+            "translation": "Method and system for transmitting identity-related information to the requesting entity"
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

@@ -1,0 +1,637 @@
+{
+    "file": "jrc32001R0418.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                133.22399811462557,
+                222.31762167351255,
+                229.15027924065143,
+                287.4810179807174
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "Registration number of additive",
+            "uuid": "40acb561-0abf-43e3-a766-8145d413e1f1",
+            "vertical": false,
+            "translation": "添加剂注册号"
+        },
+        {
+            "bbox": [
+                263.34724421484765,
+                211.2035194728847,
+                477.8656669990916,
+                298.5373374826156
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Name and registration number of person responsible for putting additive into circulation",
+            "uuid": "cc9c94f9-2ce4-4693-b70c-47c77287a124",
+            "vertical": false,
+            "translation": "负责将添加剂投入流通的人员的姓名和注册号"
+        },
+        {
+            "bbox": [
+                575.557045198549,
+                233.5575547392977,
+                675.8992704830712,
+                278.5184536632117
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Additive (trade name)",
+            "uuid": "410cde93-ec8b-425b-ac64-22443eb5941e",
+            "vertical": false,
+            "translation": "添加剂（商品名称）"
+        },
+        {
+            "bbox": [
+                778.4715306488023,
+                245.7573399310911,
+                1133.3490680787634,
+                267.64428220221356
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "Composition, chemical formula, description",
+            "uuid": "26b879ea-74d0-40bc-9ae7-487180b6cd03",
+            "vertical": false,
+            "translation": "成分、化学式、描述"
+        },
+        {
+            "bbox": [
+                1173.8267728149344,
+                223.01076999585484,
+                1267.6395353133075,
+                287.3846273825973
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Species or category of animal",
+            "uuid": "5cd53198-4a64-4621-a62a-be099a23bf92",
+            "vertical": false,
+            "translation": "动物种类或分类"
+        },
+        {
+            "bbox": [
+                1319.421374208163,
+                235.5319118353095,
+                1403.039895278598,
+                279.18008378334287
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "Maximum age",
+            "uuid": "463494bd-5e57-41d1-903a-0eb70faedf15",
+            "vertical": false,
+            "translation": "最大年龄"
+        },
+        {
+            "bbox": [
+                1462.7205652190655,
+                196.80646604682883,
+                1543.059928600464,
+                236.84463881119012
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Minimum content",
+            "uuid": "9104bd66-ebdc-440c-97ef-ad103e59a49d",
+            "vertical": false,
+            "translation": "最低含量"
+        },
+        {
+            "bbox": [
+                1603.1148686937838,
+                197.4654628508644,
+                1686.0775582264116,
+                236.19090863934488
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "Maximum content",
+            "uuid": "010d8481-da24-4237-b084-707a513676da",
+            "vertical": false,
+            "translation": "最高含量"
+        },
+        {
+            "bbox": [
+                1458.5040146072665,
+                271.55168881250927,
+                1691.0606582342598,
+                316.26725416806784
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "mg of active substance/kg of complete feedingstuff",
+            "uuid": "e8f2978f-f70a-451a-8fca-e62200246f06",
+            "vertical": false,
+            "translation": "活性物质毫克/全价饲料千克"
+        },
+        {
+            "bbox": [
+                1765.7610900700029,
+                244.72363398256985,
+                1901.846134165025,
+                267.03999257254185
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "Other provisions",
+            "uuid": "e24a7c4e-7bae-4bdd-86f2-8c45f5a9430e",
+            "vertical": false,
+            "translation": "其他规定"
+        },
+        {
+            "bbox": [
+                1968.0144289921752,
+                233.9434838997336,
+                2076.0030825657145,
+                275.9222829426508
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "Period of authorisation",
+            "uuid": "8e08c7a3-7f47-4523-89e0-103f91c27e89",
+            "vertical": false,
+            "translation": "授权期限"
+        },
+        {
+            "bbox": [
+                2169.910262776932,
+                117.40147365151209,
+                2200.0843474467442,
+                202.70968618276072
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "L 62/10",
+            "uuid": "da0ced1d-f621-4e5b-be1a-d4b6f58010f5",
+            "vertical": true,
+            "translation": "L 62/10"
+        },
+        {
+            "bbox": [
+                2176.4283113508914,
+                335.6232924906817,
+                2194.135762871689,
+                362.86237724020623
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "198e898b-cea2-4996-bf01-0c35021415c2",
+            "vertical": true,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                2170.130802069163,
+                583.3891941715985,
+                2199.126467387467,
+                1069.191753516542
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Communities",
+            "uuid": "57bfd273-bc95-4008-8dfa-6d29c4fa3982",
+            "vertical": true,
+            "translation": "欧洲共同体官方公报"
+        },
+        {
+            "bbox": [
+                2175.2963597899775,
+                1438.5619079817986,
+                2196.09706951839,
+                1532.3177969275255
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "2.3.2001",
+            "uuid": "ecb9ec63-5284-4561-a8f7-ec19e2450047",
+            "vertical": false,
+            "translation": "2001 年 3 月 2 日"
+        },
+        {
+            "bbox": [
+                110.12887156666065,
+                357.76119626616827,
+                157.2918037404373,
+                376.1653285781136
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "E771",
+            "uuid": "6c9fd0e0-ac30-40cd-bbbf-a7c5698e2b67",
+            "vertical": false,
+            "translation": "E771"
+        },
+        {
+            "bbox": [
+                265.92099567933036,
+                356.0313145438908,
+                411.3039792608805,
+                402.1499049255892
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "Janssen Animal Health B.V.B.A",
+            "uuid": "794c9999-95a5-4e75-be00-94bfddc9a11b",
+            "vertical": false,
+            "translation": "杨森动物保健公司"
+        },
+        {
+            "bbox": [
+                503.0893119953867,
+                395.42952989860754,
+                726.649988831307,
+                420.85385883144176
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Diclazuril 0,5 g/100 g",
+            "uuid": "e18729d6-5619-49dd-afd5-d255956c3c4f",
+            "vertical": false,
+            "translation": "地克珠利 0.5 克/100 克"
+        },
+        {
+            "bbox": [
+                779.2044055490761,
+                355.19792609514434,
+                1000.2196337901484,
+                382.43701084466903
+            ],
+            "order": "22",
+            "label": "Table cell",
+            "text": "Additive composition",
+            "uuid": "420a18f7-7b27-46dc-b2f8-1e5076c10723",
+            "vertical": false,
+            "translation": "添加剂成分"
+        },
+        {
+            "bbox": [
+                1163.631770439517,
+                356.5307067859047,
+                1275.7789634045712,
+                407.72705884525243
+            ],
+            "order": "27",
+            "label": "Table cell",
+            "text": "Turkeys for fattening",
+            "uuid": "ab09040c-e04d-45dd-83c8-48a9ad557dd2",
+            "vertical": false,
+            "translation": "增肥火鸡"
+        },
+        {
+            "bbox": [
+                1319.371721619381,
+                355.67225797733136,
+                1405.403598327174,
+                376.3697718815488
+            ],
+            "order": "28",
+            "label": "Table cell",
+            "text": "12 weeks",
+            "uuid": "36c2db1b-34bc-46c6-9001-cdb8d6a6b572",
+            "vertical": false,
+            "translation": "12 周"
+        },
+        {
+            "bbox": [
+                501.86687993007007,
+                531.684674463083,
+                726.8256939467835,
+                557.4726458983785
+            ],
+            "order": "32",
+            "label": "Table cell",
+            "text": "Diclazuril 0,2 g/100 g",
+            "uuid": "38299434-ded8-458b-81e1-ea6300feda33",
+            "vertical": false,
+            "translation": "地克珠利 0.2 克/100 克"
+        },
+        {
+            "bbox": [
+                778.2945969724395,
+                394.87163372085547,
+                1001.5034955151518,
+                420.9581570500168
+            ],
+            "order": "23",
+            "label": "Table cell",
+            "text": "Diclazuril: 0,5 g/100 g",
+            "uuid": "7b1a4b63-2e0a-4679-9c9c-a2bb46a54a35",
+            "vertical": false,
+            "translation": "地克珠利：0.5 克/100 克"
+        },
+        {
+            "bbox": [
+                1498.653057830291,
+                358.13499936249445,
+                1507.9150477486216,
+                376.41651796776495
+            ],
+            "order": "29",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "0ea352b1-33ba-4bf6-b357-e200366f4f39",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1639.8984040848313,
+                358.41553003236453,
+                1648.6458390076994,
+                376.18207628255726
+            ],
+            "order": "30",
+            "label": "Table cell",
+            "text": "1",
+            "uuid": "d92a5e68-2343-4b9d-964d-dd5b0da5cdbf",
+            "vertical": false,
+            "translation": "1"
+        },
+        {
+            "bbox": [
+                1728.9033690046945,
+                356.29835789381974,
+                1937.0044211327254,
+                435.12152907098005
+            ],
+            "order": "31",
+            "label": "Table cell",
+            "text": "Use prohibited at least five days before slaughter",
+            "uuid": "f701c1b0-8900-4ecf-b7ec-bacb0c32401b",
+            "vertical": false,
+            "translation": "屠宰前至少五天禁止使用"
+        },
+        {
+            "bbox": [
+                1972.5732835906495,
+                357.68931941194273,
+                2068.7950677421945,
+                376.7432965498305
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "28.2.2011",
+            "uuid": "f9be1952-298a-4ecc-b97a-d895d079f258",
+            "vertical": false,
+            "translation": "2011 年 2 月 28 日"
+        },
+        {
+            "bbox": [
+                778.1119553756962,
+                531.3142857867484,
+                1001.484429774692,
+                557.5751590045738
+            ],
+            "order": "34",
+            "label": "Table cell",
+            "text": "Diclazuril: 0,2 g/100 g",
+            "uuid": "c0f41ad2-5aab-4da4-89ec-849cbfc2528e",
+            "vertical": false,
+            "translation": "地克珠利：0.2 克/100 克"
+        },
+        {
+            "bbox": [
+                775.7988692304422,
+                694.6281341894581,
+                954.0830792571725,
+                720.1179652974085
+            ],
+            "order": "39",
+            "label": "Table cell",
+            "text": "Active substance:",
+            "uuid": "6fdf1d71-1c80-48a3-9673-daa8222acae5",
+            "vertical": false,
+            "translation": "活性物质："
+        },
+        {
+            "bbox": [
+                777.0039967480656,
+                732.5758797318981,
+                1116.2907707599368,
+                890.7286919712651
+            ],
+            "order": "40",
+            "label": "Table cell",
+            "text": "Diclazuril, C₁₇H₉Cl₃N₄O₂, (+-)-4-chlorophenyl[2,6-dichloro-4-(2,3,4,5-tetrahydro-3,5-dioxo-1,2,4-triazin-2-yl)phenyl]acetonitrile, CAS number: 101831-37-2,",
+            "uuid": "38a4e1a5-61b8-48dd-bb1e-7e459bae9257",
+            "vertical": false,
+            "translation": "地克珠利， C₁₇H₉Cl₃N₄O₂，(+-)-4-氯苯基[2,6-二氯-4-(2,3,4,5-四氢- 3,5-二氧代- 1,2,4-三嗪–2-基)苯基]乙腈，CAS 编号：101831-37-2，"
+        },
+        {
+            "bbox": [
+                779.5015584142542,
+                923.7430255592049,
+                952.3959820958631,
+                950.5087354493455
+            ],
+            "order": "41",
+            "label": "Table cell",
+            "text": "Related impurities:",
+            "uuid": "7593832e-20c2-4498-a7fc-e980ec1a1a09",
+            "vertical": false,
+            "translation": "相关杂质："
+        },
+        {
+            "bbox": [
+                779.1145449254236,
+                963.2597819498355,
+                1001.8124089558856,
+                1015.6279635509951
+            ],
+            "order": "42",
+            "label": "Table cell",
+            "text": "Degradation compound (R064318): ≤ 0,2 %",
+            "uuid": "7f8cb1f8-39d1-4ab0-8abb-af6a625379da",
+            "vertical": false,
+            "translation": "降解化合物 (R064318)：≤ 0.2%"
+        },
+        {
+            "bbox": [
+                778.8845168821215,
+                1027.3072272591776,
+                1083.192613198854,
+                1136.4441696524927
+            ],
+            "order": "43",
+            "label": "Table cell",
+            "text": "Other related impurities (R066891, R066896, R068610, R070156, R068584, R070016): < 0,5% individually",
+            "uuid": "12dc2a6f-45e2-429e-876f-0559a162033c",
+            "vertical": false,
+            "translation": "其他相关杂质（R066891，R066896， R068610，R070156，R068584，R070016）：分别 < 0.5%"
+        },
+        {
+            "bbox": [
+                778.3013271672057,
+                1165.4768213225477,
+                1010.1007401214147,
+                1191.761111113608
+            ],
+            "order": "44",
+            "label": "Table cell",
+            "text": "Total impurities ≤ 1,5 %",
+            "uuid": "48a556fa-c57c-4fab-ab92-33ce05c3462c",
+            "vertical": false,
+            "translation": "总杂质含量 ≤ 1.5%"
+        },
+        {
+            "bbox": [
+                1046.7412510249746,
+                115.46899338338424,
+                1156.2033183987012,
+                134.68844126407308
+            ],
+            "order": "5",
+            "label": "Section-header",
+            "text": "ANNEX III",
+            "uuid": "eb7ed423-886e-446b-975c-af3e2a3e9b34",
+            "vertical": false,
+            "translation": "附件三"
+        },
+        {
+            "bbox": [
+                88.34917655386164,
+                165.8110496864619,
+                2095.5817654587627,
+                1203.055469327595
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "c7aad3da-08b0-4edb-ac45-950708b5d19c",
+            "vertical": false,
+            "translation": ""
+        },
+        {
+            "bbox": [
+                503.7013427885684,
+                422.2060749115297,
+                736.7320672925142,
+                448.2591521252531
+            ],
+            "order": "21",
+            "label": "Table cell",
+            "text": "(Clinacox 0,5 % Premix)",
+            "uuid": "82d02977-59de-40b6-9233-2e7b0898cd25",
+            "vertical": false,
+            "translation": "（克林可克斯 0.5% 预混剂）"
+        },
+        {
+            "bbox": [
+                501.97213681682206,
+                558.0415035851288,
+                737.1361454541563,
+                583.7983121051362
+            ],
+            "order": "33",
+            "label": "Table cell",
+            "text": "(Clinacox 0,2 % Premix)",
+            "uuid": "68058e33-23d0-4083-a2ec-f3276c04b93d",
+            "vertical": false,
+            "translation": "（克林可克斯 0.2% 预混剂）"
+        },
+        {
+            "bbox": [
+                778.4585865630363,
+                422.5861017521673,
+                1066.3298611801667,
+                448.0180600007019
+            ],
+            "order": "24",
+            "label": "Table cell",
+            "text": "Soybean meal: 99,25 g/100 g",
+            "uuid": "7cf5b57b-5dec-4bda-8f23-9ff327431459",
+            "vertical": false,
+            "translation": "豆粕：99.25 克/100 克"
+        },
+        {
+            "bbox": [
+                778.7439289224853,
+                449.2851923413218,
+                1065.5841759625582,
+                475.1515786617389
+            ],
+            "order": "25",
+            "label": "Table cell",
+            "text": "Polyvidone K 30: 0,2 g/100 g",
+            "uuid": "317b6c0f-6d36-44aa-9a56-4be3ea1292ce",
+            "vertical": false,
+            "translation": "聚维酮 K 30：0.2 克/100 克"
+        },
+        {
+            "bbox": [
+                778.9505553348267,
+                475.0022170859963,
+                1126.479946272023,
+                502.33213862776597
+            ],
+            "order": "26",
+            "label": "Table cell",
+            "text": "Sodium hydroxyde: 0,0538 g/100 g",
+            "uuid": "b4f39ba2-bff4-4749-9c2e-21e56cc8a807",
+            "vertical": false,
+            "translation": "氢氧化钠：0.0538 克/100 克"
+        },
+        {
+            "bbox": [
+                778.7439289224853,
+                558.5218270150737,
+                1052.499373942009,
+                584.4964843986627
+            ],
+            "order": "35",
+            "label": "Table cell",
+            "text": "Soybean meal: 39,7 g/100 g",
+            "uuid": "4a27f034-1980-48ca-bc00-14628308d2c6",
+            "vertical": false,
+            "translation": "豆粕：39.7 克/100 克"
+        },
+        {
+            "bbox": [
+                778.4953671832825,
+                585.7161124990838,
+                1078.5093864011058,
+                610.836353060258
+            ],
+            "order": "36",
+            "label": "Table cell",
+            "text": "Polyvidone K 30: 0,08 g/100 g",
+            "uuid": "78221683-6a6d-4d0d-85e7-7a32d3967d1c",
+            "vertical": false,
+            "translation": "聚维酮 K 30：0.08 克/100 克"
+        },
+        {
+            "bbox": [
+                779.3666982104505,
+                612.1313500196238,
+                1120.6608259962304,
+                637.6754374409469
+            ],
+            "order": "37",
+            "label": "Table cell",
+            "text": "Sodium hydroxide: 0,0215 g/100 g",
+            "uuid": "ec98c8c8-d968-449f-804d-9a49df67f8b9",
+            "vertical": false,
+            "translation": "氢氧化钠：0.0215 克/100 克"
+        },
+        {
+            "bbox": [
+                778.4262813198014,
+                639.3418344507934,
+                1065.1579293235075,
+                665.3259430526929
+            ],
+            "order": "38",
+            "label": "Table cell",
+            "text": "Wheat middlings: 60 g/100 g",
+            "uuid": "003abc28-9999-475b-910c-70bef81671fb",
+            "vertical": false,
+            "translation": "次粉：60 克/100 克"
+        }
+    ],
+    "page_width": 2339,
+    "page_height": 1653
+}

@@ -1,0 +1,343 @@
+{
+    "file": "jrc32004R1882.en.png",
+    "annotations": [
+        {
+            "bbox": [
+                109.87302569985977,
+                123.81240519622412,
+                231.88128110388314,
+                145.8005820422261
+            ],
+            "order": "1",
+            "label": "Page-header",
+            "text": "29.10.2004",
+            "uuid": "322077d2-7fb5-4fa0-a9f4-eeda176fd1c8",
+            "vertical": false,
+            "translation": "2004 年 10 月 29 日"
+        },
+        {
+            "bbox": [
+                328.9631187371921,
+                120.91163838517605,
+                355.8574115950682,
+                142.57163348720766
+            ],
+            "order": "2",
+            "label": "Page-header",
+            "text": "EN",
+            "uuid": "ac72f454-ae7b-4c09-bc31-e530849c3024",
+            "vertical": false,
+            "translation": "英语"
+        },
+        {
+            "bbox": [
+                621.9014714854958,
+                121.90297297218942,
+                1020.5945011668449,
+                150.7539423295782
+            ],
+            "order": "3",
+            "label": "Page-header",
+            "text": "Official Journal of the European Union",
+            "uuid": "b961906a-b60c-41ab-a729-917e66d3fb69",
+            "vertical": false,
+            "translation": "欧盟官方公报"
+        },
+        {
+            "bbox": [
+                1426.6300107729576,
+                122.78989817749593,
+                1530.92785169402,
+                151.15391385825868
+            ],
+            "order": "4",
+            "label": "Page-header",
+            "text": "L 326/39",
+            "uuid": "96ec1bed-12a2-4aa7-aaca-6ba38517bc17",
+            "vertical": false,
+            "translation": "L 326/39"
+        },
+        {
+            "bbox": [
+                1423.38522282399,
+                212.5923198394974,
+                1531.277982555174,
+                235.51703092578975
+            ],
+            "order": "5",
+            "label": "Text",
+            "text": "(EUR/100 kg)",
+            "uuid": "b635c343-774b-4f12-bfd7-9e761bcefa0c",
+            "vertical": false,
+            "translation": "（欧元/100 千克）"
+        },
+        {
+            "bbox": [
+                163.10620638293256,
+                310.4479387138179,
+                235.0198245817865,
+                329.1264067688179
+            ],
+            "order": "7",
+            "label": "Table cell",
+            "text": "CN code",
+            "uuid": "a0f5ed43-d4bc-43cd-931c-f1cd3163711e",
+            "vertical": false,
+            "translation": "CN 代码"
+        },
+        {
+            "bbox": [
+                109.2474965829398,
+                425.5909968659427,
+                217.8829623726979,
+                444.2694649209427
+            ],
+            "order": "12",
+            "label": "Table cell",
+            "text": "ex 1006 30",
+            "uuid": "d3470a5e-2cac-43bd-9b99-29171198a350",
+            "vertical": false,
+            "translation": "ex 1006 30"
+        },
+        {
+            "bbox": [
+                621.5823974609375,
+                311.26656550605236,
+                841.72021484375,
+                332.40827685973125
+            ],
+            "order": "8",
+            "label": "Table cell",
+            "text": "Description of products (¹)",
+            "uuid": "79da5bd7-b8bb-4cfd-91c9-4728e369760a",
+            "vertical": false,
+            "translation": "产品描述 (¹)"
+        },
+        {
+            "bbox": [
+                1207.4744873046875,
+                251.5377054169501,
+                1500.9915771484375,
+                299.249405363766
+            ],
+            "order": "9",
+            "label": "Table cell",
+            "text": "Rate of refund per 100 kg of basic product",
+            "uuid": "addcb585-3573-4ca7-be16-c819aca9f5b3",
+            "vertical": false,
+            "translation": "每 100 千克基本产品的退款率"
+        },
+        {
+            "bbox": [
+                1425.899169921875,
+                343.85791890292745,
+                1473.0103759765625,
+                362.99973864206913
+            ],
+            "order": "11",
+            "label": "Table cell",
+            "text": "Other",
+            "uuid": "5302c9e0-9506-4e9f-a4b9-235a3b646720",
+            "vertical": false,
+            "translation": "其他"
+        },
+        {
+            "bbox": [
+                1195.1659010701628,
+                322.33492989599705,
+                1338.5858091985824,
+                386.52683823988826
+            ],
+            "order": "10",
+            "label": "Table cell",
+            "text": "In case of advance fixing of refunds",
+            "uuid": "52b57528-0fbf-423c-b50e-8d05c0f04d51",
+            "vertical": true,
+            "translation": "如果提前确定退款"
+        },
+        {
+            "bbox": [
+                299.8460334155438,
+                423.24150880472126,
+                482.9876317854129,
+                448.9182721422778
+            ],
+            "order": "13",
+            "label": "Table cell",
+            "text": "Wholly milled rice:",
+            "uuid": "be5b5b36-02c5-4066-b89d-219ca96710a1",
+            "vertical": false,
+            "translation": "全碾米："
+        },
+        {
+            "bbox": [
+                298.0884365022053,
+                458.7840447076739,
+                433.0718794466002,
+                484.4608080452302
+            ],
+            "order": "14",
+            "label": "Table cell",
+            "text": "round grain",
+            "uuid": "cd83f52b-871c-4c32-a553-97f14ab95ed7",
+            "vertical": false,
+            "translation": "圆粒"
+        },
+        {
+            "bbox": [
+                298.439955884873,
+                494.6611660834379,
+                453.1084842586588,
+                519.6344564528418
+            ],
+            "order": "15",
+            "label": "Table cell",
+            "text": "medium grain",
+            "uuid": "59a51c35-dfa9-4484-aecd-bc6632964dd5",
+            "vertical": false,
+            "translation": "中粒"
+        },
+        {
+            "bbox": [
+                299.49451403287617,
+                528.4278685547447,
+                417.9565459918893,
+                554.808104860453
+            ],
+            "order": "16",
+            "label": "Table cell",
+            "text": "long grain",
+            "uuid": "6b22b1e2-14cc-4f6b-a3d5-342020436e3b",
+            "vertical": false,
+            "translation": "长粒"
+        },
+        {
+            "bbox": [
+                110.8702001329096,
+                566.1941216923728,
+                222.01619678356275,
+                586.0637350404214
+            ],
+            "order": "17",
+            "label": "Table cell",
+            "text": "1006 40 00",
+            "uuid": "a41f70ca-35e3-4bdd-a877-3937c3b21ba4",
+            "vertical": false,
+            "translation": "1006 40 00"
+        },
+        {
+            "bbox": [
+                111.14599665065315,
+                602.0865052223255,
+                222.8435863367934,
+                621.9561185703741
+            ],
+            "order": "19",
+            "label": "Table cell",
+            "text": "1007 00 90",
+            "uuid": "4e206edb-8d45-4e48-b9f6-e14d4d4ad765",
+            "vertical": false,
+            "translation": "1007 00 90"
+        },
+        {
+            "bbox": [
+                299.7908147872456,
+                565.1069470467902,
+                408.73043929595036,
+                586.6323615071763
+            ],
+            "order": "18",
+            "label": "Table cell",
+            "text": "Broken rice",
+            "uuid": "670fa5b2-4a3b-4d57-a411-5702e9b31b12",
+            "vertical": false,
+            "translation": "碎米"
+        },
+        {
+            "bbox": [
+                299.7296682203479,
+                600.856888617714,
+                737.5739391965687,
+                627.0986148978177
+            ],
+            "order": "20",
+            "label": "Table cell",
+            "text": "Grain sorghum, other than hybrid for sowing",
+            "uuid": "ab330d99-c610-4cc3-a962-e45eec65d86e",
+            "vertical": false,
+            "translation": "谷物高粱，播种用杂交品种除外"
+        },
+        {
+            "bbox": [
+                114.93609828052696,
+                655.7039668368909,
+                1532.0285832843063,
+                698.4866799339261
+            ],
+            "order": "21",
+            "label": "Footnote",
+            "text": "(¹) As far as agricultural products obtained from the processing of a basic product or/and assimilated products are concerned, the coefficients shown in Annex E to Commission Regulation (EC) No 1520/2000 shall be applied (OJ L 177, 15.7.2000, p. 1).",
+            "uuid": "81375e23-cd6c-4c54-82b4-6ddbc39c2a15",
+            "vertical": false,
+            "translation": "(¹) 至于从基本产品或/和同化产品的加工中获得的农产品，应适用委员会 (EC) 第 1520/2000 号条例附件 E 中显示的系数（OJ L 177，2000 年 7 月 15 日，第 1 页）。"
+        },
+        {
+            "bbox": [
+                114.08723492542704,
+                695.6971804112961,
+                624.7634293535292,
+                718.8594004563239
+            ],
+            "order": "22",
+            "label": "Footnote",
+            "text": "(²) The goods concerned fall in under CN code 3505 10 50.",
+            "uuid": "ddc743d7-4f22-4070-a0ab-b43995256e82",
+            "vertical": false,
+            "translation": "(²) 该货物所属 CN 代码为 3505 10 50。"
+        },
+        {
+            "bbox": [
+                113.91746225440708,
+                718.4962631738205,
+                1423.3740738315184,
+                739.2321209787215
+            ],
+            "order": "23",
+            "label": "Footnote",
+            "text": "(³) Goods listed in Annex III to Regulation (EC) No 1784/2003 or referred to in Article 2 of Regulation (EEC) No 2825/93 (OJ L 258, 16.10.1993, p. 6).",
+            "uuid": "0f2e1475-00a5-4430-9968-8b4f49840652",
+            "vertical": false,
+            "translation": "(³) (EC) 第 1784/2003 号条例附件三中列出的商品或 (EEC) 第 2825/93 条例第 2 条中所述商品（OJ L 258，1993 年 10 月 16 日，第 6 页）。"
+        },
+        {
+            "bbox": [
+                110.52200883400747,
+                739.2213211126427,
+                1532.0516151037932,
+                784.3916514700363
+            ],
+            "order": "24",
+            "label": "Footnote",
+            "text": "(⁴) For syrups of CN codes NC 1702 30 99, 1702 40 90 and 1702 60 90, obtained from mixing glucose and fructose syrup, the export refund may be granted only for the glucose syrup.",
+            "uuid": "04f0c531-4acd-493f-80f7-ca88e2fb841f",
+            "vertical": false,
+            "translation": "(⁴) 对 CN 代码为 NC 1702 30 99，1702 40 90 和 1702 60 90 的由葡萄糖和果糖糖浆混合而成的糖浆，仅对葡萄糖糖浆给予出口退税。"
+        },
+        {
+            "bbox": [
+                110.16841740915876,
+                242.43384306063246,
+                1524.4389834405108,
+                631.7529434996346
+            ],
+            "order": "6",
+            "label": "Table",
+            "text": "",
+            "uuid": "70f4391c-66d0-4d2a-9846-0d951ca3bc35",
+            "vertical": false,
+            "translation": ""
+        }
+    ],
+    "page_width": 1653,
+    "page_height": 2339
+}

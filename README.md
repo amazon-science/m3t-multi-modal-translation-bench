@@ -15,6 +15,14 @@ This dataset is licensed under the CC-BY-4.0 License. See the LICENSE file.
 If using our dataset, please consider citing our paper:
 
 ```
+@misc{hsu2024m3t,
+      title={M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation}, 
+      author={Benjamin Hsu and Xiaoyu Liu and Huayang Li and Yoshinari Fujinuma and Maria Nadejde and Xing Niu and Yair Kittenplon and Ron Litman and Raghavendra Pappagari},
+      year={2024},
+      eprint={2406.08255},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 In addition, please cite the original datasets as well:
